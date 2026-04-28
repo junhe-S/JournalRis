@@ -1,0 +1,157 @@
+TY  - JOUR
+T1  - Editorial board
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - ii
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90008-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900084
+ER  - 
+
+TY  - JOUR
+T1  - Consistent estimation of limited dependent variable models despite misspecification of distribution
+AU  - Ruud, Paul A.
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 157
+EP  - 187
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90017-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900175
+AB  - By exploiting conditions on the behavior of regressors, estimators are developed which are consistent, up to a factor of proportionality, for the slope coefficients of the regression function of a imperfectly observed dependent variable. Limited dependent variables are a special case of interest. The consistency is robust to misspecification of the distribution of the latent dependent variable. The estimators are weighted pseudo maximum likelihood estimators which can be readily computed using popular methods and software.
+ER  - 
+
+TY  - JOUR
+T1  - Editor's introduction
+AU  - Duncan, Gregory M.
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90009-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900096
+ER  - 
+
+TY  - JOUR
+T1  - Linear instrumental variable estimation of limited dependent variable models with endogenous explanatory variables
+AU  - Newey, Whitney K.
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 127
+EP  - 141
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90015-1
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900151
+AB  - The purpose of this paper is to present and analyze an instrumental variables estimator for limited dependent variable models that does not require functional form assumptions for the distribution of disturbances. This estimator is a weighted instrumental variables estimator, where the weight is the ratio of a multivariate normal density to the actual density of the instrumental variables. A semi-non-parametric estimator of the weights is presented and some conjectures concerning the asymptotic distribution of the estimator are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Censored regression quantiles
+AU  - Powell, James L.
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 143
+EP  - 155
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90016-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900163
+AB  - The object of this paper is to demonstrate how the LAD estimation method for the censored regression model can be extended to more general quantiles. In this paper, the form of the conditional quantiles for the censored regression models is heuristically derived and discussed. The resulting estimators of the regression coefficients, which include the censored LAD estimator as a special case, are shown to be consistent and asymptotically normally distributed under appropriately ‘translated’ versions of the corresponding assumptions for the former approach; consistent estimation of the asymptotic covariance matrix when the error terms are i.i.d. is also treated. The paper discussed how several quantile estimators might be combined to improve efficiency when the error terms are identically distributed, and how tests of homoskedasticity and symmetry of the error distribution can be constructed using particular differences of the estimated coefficients.
+ER  - 
+
+TY  - JOUR
+T1  - A semi-parametric censored regression estimator
+AU  - Duncan, Gregory M.
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 5
+EP  - 34
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90010-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900102
+AB  - This paper introduces a semi-parametric method for estimating regression co underlying parent population of errors in censored. The method is an example of the method of sieves; and it provides simultaneous estimates of the regression coefficients and the density of the underlying parent population. In the very simplest terms, the underlying unknown density is approximated by a spline with mesh size approaching zero with the sample size. The values of the density at the knots are then added to the list of the usual unknown parameters in a censored regression model, e.g., the regression coefficients and scale parameter. A quasi-likelihood function using the approximate spline density is then maximized over all the parameters mentioned above. The method is shown to result in strongly consistent parameter estimates.
+ER  - 
+
+TY  - JOUR
+T1  - Non-parametric maximum likelihood estimation of censored regression models
+AU  - Fernandez, Luis
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 35
+EP  - 57
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90011-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900114
+AB  - This paper presents a consistent estimator of a censored linear regression model which does not require knowledge of the distribution of the error term. The estimator considered here applies Duncan's (1982) suggestion that the likelihood function for the censored regression model be treated as a functional of both the unknown regression vector and the unknown error distribution. Our estimator is the majorizing regression vector for this non-parametric likelihood functional. We find conditions which ensure the consistency of the NPMLE. The paper concludes with the results of Monte Carlo experiments which show the NPMLE to be more efficient than Powell's Least Absolute Deviations (LAD) estimator, particularly when the fraction of censored observations is large and the sample size is small.
+ER  - 
+
+TY  - JOUR
+T1  - A distribution-free least squares estimator for censored linear regression models
+AU  - Horowitz, Joel L.
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 59
+EP  - 84
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90012-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900126
+AB  - This paper describes a method for estimating simultaneously the parameter vector of the systematic component and the distribution function of the random component of a censored linear regression model. The estimator is obtained by minimizing the sum of the squares of the differences between the observed values of the dependent variable and the corresponding expected values of this variable according to the estimated parameter vector and distribution function. The resulting least squares parameter estimator incorporates information on the distribution of the random component of the regression model that is available from the estimation sample. Hence, it may often be more efficient than are parameter estimators that do not use such information. The results of numerical experiments with the least squares estimator tend to support this hypothesis.
+ER  - 
+
+TY  - JOUR
+T1  - Choice-based samples: A non-parametric approach
+AU  - Morgenthaler, S.
+AU  - Vardi, Y.
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 109
+EP  - 125
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90014-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440768690014X
+AB  - In this paper we discuss a non-parametric approach to choice-based grouping. Specifically we derive the non-parametric maximum likelihood estimate for F(x,z), the joint distribution of (x,z) = (choice, attributes), from choice-based samples. This estimate can be thought of as the bias-corrected empirical distribution of (choice, attributes) derived from our biased data. Having F at hand we investigate two alternative approaches for estimating the conditional probability P(choice∣attributes). The first is based on smoothing a non-parametric estimate derived from F(x,z). In the second, we fit a parametric family [fθ(x,z);θ∈Θ] to the bias-corrected empirical distribution function. The asymptotic behavior of this semi-parametric estimate, as well as numerical examples that demonstrate both methods, are given.
+ER  - 
+
+TY  - JOUR
+T1  - Operational characteristics of maximum score estimation
+AU  - Manski, Charles F.
+AU  - Thompson, T.Scott
+JO  - Journal of Econometrics
+VL  - 32
+IS  - 1
+SP  - 85
+EP  - 108
+PY  - 1986
+DA  - 1986/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(86)90013-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407686900138
+AB  - This paper reports on the operational characteristics of maximum score estimation of a linear model from binary response data. A series of previous articles have shown that in theory the maximum score method makes possible binary response analysis under very weak distributional assumptions. Here, we present evidence on the properties of maximum score estimation in practice. After reviewing the known asymptotic theory of maximum score estimation, the paper describes an algorithm for maximum score estimation and characterizes its performance. Then findings from a Monte Carlo study comparing maximum score and logit maximum likelihood estimation are reported. Finally, the accuracy of bootstrap estimation of maximum score root mean square errors is evaluated.
+ER  - 

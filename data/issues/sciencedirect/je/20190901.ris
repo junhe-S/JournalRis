@@ -1,0 +1,429 @@
+TY  - JOUR
+T1  - Combining statistical intervals and market prices: The worst case state price distribution
+AU  - Mykland, Per Aslak
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 272
+EP  - 285
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.030
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300855
+KW  - Incompleteness
+KW  - Statistical uncertainty
+KW  - Transport problem
+KW  - Value at risk
+AB  - The paper shows how to combine (historical) statistical data and (current) market prices to form conservative trading strategies for options. This gives rise to a “worst case” state price distribution, which provides sharp price bounds for all convex European options. The paper provides for existence and computational algorithms under conditions which can be understood as “no arbitrage”. The worst case distribution converges to a regular state price distribution if the number of traded options increases to span the space of possible option payouts.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - ii
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30153-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301538
+ER  - 
+
+TY  - JOUR
+T1  - A quasi-Bayesian local likelihood approach to time varying parameter VAR models
+AU  - Petrova, Katerina
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 286
+EP  - 306
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300867
+KW  - Time varying parameters
+KW  - Changing volatility
+KW  - Monetary policy
+KW  - Bayesian methods
+AB  - The paper establishes a quasi-Bayesian local likelihood (QBLL) estimation methodology for a multivariate model with time varying parameters. The asymptotic validity of the resulting quasi-posterior distributions of the drifting parameters is proven in general and, in the special case of a Gaussian VAR model, a closed form time varying Normal-Wishart expression for the quasi-posterior distribution of the parameters is provided. In addition, this paper develops several Gibbs algorithms, which can sample from a VAR model with a mixture of time varying and time invariant parameters. The proposed estimators differ from existing state space approaches to VAR models in that they estimate parameter time variation nonparametrically, without imposing parametric stochastic processes on the parameters. The QBLL estimators are robust to misspecification of the state equation and exhibit good finite sample performance, even when compared to correctly specified parametric state space models, as illustrated by a Monte Carlo exercise. In addition, we demonstrate that the QBLL approach provides a remedy to the ‘curse of dimensionality’ by accommodating large dimensional VAR systems and delivers improvements in the out-of-sample forecasts of key macroeconomic variables. Finally, the paper makes an empirical contribution to the literature on changing inflation dynamics in the U.S., presenting evidence of a fall in inflation persistence and volatility during the Great Moderation period.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian nonparametric sparse VAR models
+AU  - Billio, Monica
+AU  - Casarin, Roberto
+AU  - Rossini, Luca
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 97
+EP  - 115
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300776
+KW  - Bayesian nonparametrics
+KW  - Bayesian model selection
+KW  - Connectedness
+KW  - Large vector autoregression
+KW  - Multilayer networks
+KW  - Network communities
+KW  - Shrinkage
+AB  - High dimensional vector autoregressive (VAR) models require a large number of parameters to be estimated and may suffer of inferential problems. We propose a new Bayesian nonparametric (BNP) Lasso prior (BNP-Lasso) for high-dimensional VAR models that can improve estimation efficiency and prediction accuracy. Our hierarchical prior overcomes overparametrization and overfitting issues by clustering the VAR coefficients into groups and by shrinking the coefficients of each group toward a common location. Clustering and shrinking effects induced by the BNP-Lasso prior are well suited for the extraction of causal networks from time series, since they account for some stylized facts in real-world networks, which are sparsity, communities structures and heterogeneity in the edges intensity. In order to fully capture the richness of the data and to achieve a better understanding of financial and macroeconomic risk, it is therefore crucial that the model used to extract network accounts for these stylized facts.
+ER  - 
+
+TY  - JOUR
+T1  - Large Bayesian vector autoregressions with stochastic volatility and non-conjugate priors
+AU  - Carriero, Andrea
+AU  - Clark, Todd E.
+AU  - Marcellino, Massimiliano
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 137
+EP  - 154
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.024
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930079X
+KW  - Big data
+KW  - Forecasting
+KW  - Structural VAR
+AB  - Recent research has shown that a reliable vector autoregression (VAR) for forecasting and structural analysis of macroeconomic data requires a large set of variables and modeling time variation in their volatilities. Yet, there are no papers that provide a general solution for combining these features, due to computational complexity. Moreover, homoskedastic Bayesian VARs for large data sets so far restrict substantially the allowed prior distributions on the parameters. In this paper we propose a new Bayesian estimation procedure for (possibly very large) VARs featuring time-varying volatilities and general priors. We show that indeed empirically the new estimation procedure performs well in applications to both structural analysis and out-of-sample forecasting.
+ER  - 
+
+TY  - JOUR
+T1  - Large-scale portfolio allocation under transaction costs and model uncertainty
+AU  - Hautsch, Nikolaus
+AU  - Voigt, Stefan
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 221
+EP  - 240
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300831
+KW  - Portfolio choice
+KW  - Transaction costs
+KW  - Model uncertainty
+KW  - Regularization
+KW  - High frequency data
+AB  - We theoretically and empirically study portfolio optimization under transaction costs and establish a link between turnover penalization and covariance shrinkage with the penalization governed by transaction costs. We show how the ex ante incorporation of transaction costs shifts optimal portfolios towards regularized versions of efficient allocations. The regulatory effect of transaction costs is studied in an econometric setting incorporating parameter uncertainty and optimally combining predictive distributions resulting from high-frequency and low-frequency data. In an extensive empirical study, we illustrate that turnover penalization is more effective than commonly employed shrinkage methods and is crucial in order to construct empirically well-performing portfolios.
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional multivariate realized volatility estimation
+AU  - Bollerslev, Tim
+AU  - Meddahi, Nour
+AU  - Nyawa, Serge
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 116
+EP  - 136
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300788
+KW  - Realized covolatility matrix
+KW  - High-dimensional estimation
+KW  - High-frequency data
+KW  - Microstructure noise
+KW  - Robust measures
+AB  - We provide a new factor-based estimator of the realized covolatility matrix, applicable in situations when the number of assets is large and the high-frequency data are contaminated with microstructure noises. Our estimator relies on the assumption of a factor structure for the noise component, separate from the latent systematic risk factors that characterize the cross-sectional variation in the frictionless returns. The new estimator provides theoretically more efficient and finite-sample more accurate estimates of large-scale integrated covolatility and correlation matrices than other recently developed realized estimation procedures. These theoretical and simulation-based findings are further corroborated by an empirical application related to portfolio allocation and risk minimization involving several hundred individual stocks.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive hierarchical priors for high-dimensional vector autoregressions
+AU  - Korobilis, Dimitris
+AU  - Pettenuzzo, Davide
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 241
+EP  - 271
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.029
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300843
+KW  - Bayesian VARs
+KW  - Mixture prior
+KW  - Large datasets
+KW  - Macroeconomic forecasting
+AB  - This paper proposes a simulation-free estimation algorithm for vector autoregressions (VARs) that allows fast approximate calculation of marginal parameter posterior distributions. We apply the algorithm to derive analytical expressions for independent VAR priors that admit a hierarchical representation and which would typically require computationally intensive posterior simulation methods. The benefits of the new algorithm are explored using three quantitative exercises. First, a Monte Carlo experiment illustrates the accuracy and computational gains of the proposed estimation algorithm and priors. Second, a forecasting exercise involving VARs estimated on macroeconomic data demonstrates the ability of hierarchical shrinkage priors to find useful parsimonious representations. We also show how our approach can be used for structural analysis and that it can successfully replicate important features of news-driven business cycles predicted by a large-scale theoretical model.
+ER  - 
+
+TY  - JOUR
+T1  - Big data in dynamic predictive econometric modeling
+AU  - Diebold, Francis X.
+AU  - Ghysels, Eric
+AU  - Mykland, Per
+AU  - Zhang, Lan
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300727
+ER  - 
+
+TY  - JOUR
+T1  - Unified inference for nonlinear factor models from panels with fixed and large time span
+AU  - Andersen, Torben G.
+AU  - Fusari, Nicola
+AU  - Todorov, Viktor
+AU  - Varneskov, Rasmus T.
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 4
+EP  - 25
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300739
+KW  - Asymptotic bias
+KW  - Incidental parameter problem
+KW  - Inference
+KW  - Large data sets
+KW  - Nonlinear factor model
+KW  - Options
+KW  - Panel data
+KW  - Stable convergence
+KW  - Stochastic volatility
+AB  - We provide unifying inference theory for parametric nonlinear factor models based on a panel of noisy observations. The panel has a large cross-section and a time span that may be either small or large. Moreover, we incorporate an additional source of information, provided by noisy observations on some known functions of the factor realizations. The estimation is carried out via penalized least squares, i.e., by minimizing the L2 distance between observations from the panel and their model-implied counterparts, augmented by a penalty for the deviation of the extracted factors from the noisy signals of them. When the time dimension is fixed, the limit distribution of the parameter vector is mixed Gaussian with conditional variance depending on the path of the factor realizations. On the other hand, when the time span is large, the convergence rate is faster and the limit distribution is Gaussian with a constant variance. In this case, however, we incur an incidental parameter problem since, at each point in time, we need to recover the concurrent factor realizations. This leads to an asymptotic bias that is absent in the setting with a fixed time span. In either scenario, the limit distribution of the estimates for the factor realizations is mixed Gaussian, but is related to the limiting distribution of the parameter vector only in the scenario with a fixed time horizon. Although the limit behavior is very different for the small versus large time span, we develop a feasible inference theory that applies, without modification, in either case. Hence, the user need not take a stand on the relative size of the time dimension of the panel. Similarly, we propose a time-varying data-driven weighting of the penalty in the objective function, which enhances efficiency by adapting to the relative quality of the signal for the factor realizations.
+ER  - 
+
+TY  - JOUR
+T1  - Extreme canonical correlations and high-dimensional cointegration analysis
+AU  - Onatski, Alexei
+AU  - Wang, Chen
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 307
+EP  - 322
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300879
+KW  - High-dimensional cointegration
+KW  - Extreme canonical correlations
+KW  - Trace statistic
+KW  - Maximum eigenvalue statistic
+KW  - Bartlett correction
+AB  - We prove that the extreme squared sample canonical correlations between a random walk and its own innovations almost surely converge to the upper and lower boundaries of the support of the Wachter distribution when the sample size and the dimensionality go to infinity proportionally. This result is used to derive previously unknown analytic expressions for the Bartlett-type correction coefficients for Johansen’s trace and maximum eigenvalue tests in a high-dimensional VAR(1). An analysis of cointegration among a large number of log exchange rates illustrates the usefulness of our theoretical results.
+ER  - 
+
+TY  - JOUR
+T1  - A new semiparametric estimation approach for large dynamic covariance matrices with multiple conditioning variables
+AU  - Chen, Jia
+AU  - Li, Degui
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 155
+EP  - 176
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300806
+KW  - Dynamic covariance matrix
+KW  - MAMAR
+KW  - Semiparametric estimation
+KW  - Sparsity
+KW  - Uniform consistency
+AB  - This paper studies the estimation of large dynamic covariance matrices with multiple conditioning variables. We introduce an easy-to-implement semiparametric method to estimate each entry of the covariance matrix via model averaging marginal regression, and then apply a shrinkage technique to obtain the dynamic covariance matrix estimation. Under some regularity conditions, we derive the asymptotic properties for the proposed estimators including the uniform consistency with general convergence rates. We further consider extending our methodology to deal with the scenarios: (i) the number of conditioning variables is divergent as the sample size increases, and (ii) the large covariance matrix is conditionally sparse relative to contemporaneous market factors. We provide a simulation study that illustrates the finite-sample performance of the developed methodology. We also provide an application to financial portfolio choice from daily stock returns.
+ER  - 
+
+TY  - JOUR
+T1  - Monitoring banking system connectedness with big data
+AU  - Hale, Galina
+AU  - Lopez, Jose A.
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 203
+EP  - 220
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.027
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930082X
+KW  - Financial stability
+KW  - Bank supervision
+KW  - Network centrality
+KW  - Systemic connectedness
+AB  - In this paper, we propose a procedure that generates measures of connectedness between individual firms and for the system as a whole based on information observed only at the firm level; i.e., no explicit linkages are observed. We apply our procedure to large U.S. bank holding companies. We show how bank outcome variables of interest can be decomposed, including with mixed-frequency models, for network analysis to measure connectedness across firms. Network analysis of these decompositions produces measures that could be of use in financial stability monitoring as well as the analysis of individual firms’ linkages.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized high-dimensional trace regression via nuclear norm regularization
+AU  - Fan, Jianqing
+AU  - Gong, Wenyan
+AU  - Zhu, Ziwei
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 177
+EP  - 202
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300818
+KW  - High dimensional statistics
+KW  - Trace regression
+KW  - Nuclear norm regularization
+KW  - Logistic regression
+KW  - Restricted strong convexity
+KW  - Matrix completion
+AB  - We study the generalized trace regression with a near low-rank regression coefficient matrix, which extends notion of sparsity for regression coefficient vectors. Specifically, given a matrix covariate X, the probability density function of the response Y is f(Y|X)=c(Y)exp(ϕ−1−Yη∗+b(η∗)), where η∗=tr(Θ∗TX). This model accommodates various types of responses and embraces many important problem setups such as reduced-rank regression, matrix regression that accommodates a panel of regressors, matrix completion, among others. We estimate Θ∗ through minimizing empirical negative log-likelihood plus nuclear norm penalty. We first establish a general theory and then for each specific problem, we derive explicitly the statistical rate of the proposed estimator. They all match the minimax rates in the linear trace regression up to logarithmic factors. Numerical studies confirm the rates we established and demonstrate the advantage of generalized trace regression over linear trace regression when the response is dichotomous. We also show the benefit of incorporating nuclear norm regularization in dynamic stock return prediction and in image classification.
+ER  - 
+
+TY  - JOUR
+T1  - Variable selection in panel models with breaks
+AU  - Smith, Simon C.
+AU  - Timmermann, Allan
+AU  - Zhu, Yinchu
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 323
+EP  - 344
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300880
+KW  - Variable selection
+KW  - Structural breaks
+KW  - Panel data
+KW  - Bayesian analysis
+KW  - High-dimensional modeling
+KW  - Firms’ choice of capital structure
+AB  - We develop a Bayesian approach that performs variable selection in panel regression models affected by breaks. Our approach enables deactivation of pervasive regressors and activation of weak regressors for short periods (regimes). We establish theoretical results on the concentration properties of the posterior as well as the rate of convergence for estimating the break dates. Our methodology is demonstrated in simulations and in an empirical application to firms’ choice of capital structure. We find that ignoring breaks can lead to overestimating the number of relevant regressors, but also a failure to activate regressors that are informative only in short-lived regimes.
+ER  - 
+
+TY  - JOUR
+T1  - Network quantile autoregression
+AU  - Zhu, Xuening
+AU  - Wang, Weining
+AU  - Wang, Hansheng
+AU  - Härdle, Wolfgang Karl
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 345
+EP  - 358
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.034
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300892
+KW  - Social network
+KW  - Quantile regression
+KW  - Autoregression
+KW  - Systemic risk
+KW  - Financial contagion
+KW  - Shared ownership
+AB  - The complex tail dependency structure in a dynamic network with a large number of nodes is an important object to study. We propose a network quantile autoregression model (NQAR), which characterizes the dynamic quantile behavior. Our NQAR model consists of a system of equations, of which we relate a response to its connected nodes and node specific characteristics in a quantile autoregression process. We show the estimation of the NQAR model and the asymptotic properties with assumptions on the network structure. For this propose we develop a network Bahadur representation that gives us direct insight into the parameter asymptotics. Moreover, innovative tail-event driven impulse functions are defined. Finally, we demonstrate the usage of our model by investigating the financial contagions in the Chinese stock market accounting for shared ownership of companies. We find higher network dependency when the market is exposed to a higher volatility level. www.quantlet.de
+ER  - 
+
+TY  - JOUR
+T1  - Commercial and Residential Mortgage Defaults: Spatial Dependence with Frailty
+AU  - Babii, Andrii
+AU  - Chen, Xi
+AU  - Ghysels, Eric
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 47
+EP  - 77
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300752
+AB  - We investigate the spatial dependence between commercial and residential mortgage defaults. A new class of observation-driven frailty factor models is introduced to do so. The idea of dynamic parameters embedded in the class of GAS models is utilized to estimate dynamic models of default risk with potentially multiple factors which are driven by stratified grouping of large panels of mortgage loan records. The score dynamics in the models is driven by so-called generalized residuals, and have therefore a fairly intuitive interpretation of ARMA-like dynamics. The asymptotic analysis recognizes the fact that we deal with both cross-sectional and time series data features. The proposed models are computationally easy to implement and therefore attractive in big data applications, something that gives them a considerable advantage in comparison to the typical latent factor frailty models proposed in the literature. Our empirical analysis demonstrates strong spatial dependence between commercial default and residential defaults.
+ER  - 
+
+TY  - JOUR
+T1  - Rank regularized estimation of approximate factor models
+AU  - Bai, Jushan
+AU  - Ng, Serena
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 78
+EP  - 96
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300764
+KW  - Singular-value thresholding
+KW  - Robust principal components
+KW  - Minimum-rank
+KW  - Low rank decomposition
+KW  - Nuclear-norm minimization
+AB  - It is known that the common factors in a large panel of data can be consistently estimated by the method of principal components, and principal components can be constructed by iterative least squares regressions. Replacing least squares with ridge regressions turns out to have the effect of removing the contribution of factors associated with small singular values from the common component. The method has been used in the machine learning literature to recover low-rank matrices. We study the procedure from the perspective of estimating an approximate factor model. Under the rank-constraint, the common component is estimated by the space spanned by factors whose singular values exceed a threshold. The desire for minimum rank and parsimony lead to a data-dependent penalty for selecting the number of factors. The new criterion is more conservative than the existing deterministic penalties and is appropriate when the nominal number of factors is inflated by the presence of weak factors or large measurement noise. We provide asymptotic results that can be used to test economic hypotheses.
+ER  - 
+
+TY  - JOUR
+T1  - Term Structure Analysis with Big Data: One-Step Estimation Using Bond Prices
+AU  - Andreasen, Martin M.
+AU  - Christensen, Jens H.E.
+AU  - Rudebusch, Glenn D.
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 1
+SP  - 26
+EP  - 46
+PY  - 2019
+DA  - 2019/09/01/
+T2  - Big Data in Dynamic Predictive Econometric Modeling
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300740
+KW  - Extended Kalman filter
+KW  - Fixed-coupon bond prices
+KW  - Arbitrage-free Nelson–Siegel model
+AB  - Nearly all studies that analyze the term structure of interest rates take a two-step approach. First, actual bond prices are summarized by interpolated synthetic zero-coupon yields, and second, some of these yields are used as the source data for further empirical examination. In contrast, we consider the advantages of a one-step approach that directly analyzes the universe of bond prices. To illustrate the feasibility and desirability of the one-step approach, we compare arbitrage-free dynamic term structure models estimated using both approaches. We also provide a simulation study showing that a one-step approach can extract the information in large panels of bond prices and avoid any arbitrary noise introduced from a first-stage interpolation of yields.
+ER  - 

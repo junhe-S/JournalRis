@@ -1,0 +1,198 @@
+
+
+
+
+
+TY  - JOUR
+T1  - The Problem of Dimensionality in Stratified Sampling
+AU  - Cheng, Russell C. H.
+AU  - Davenport, Teresa
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1278
+DO  - 10.1287/mnsc.35.11.1278
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1278
+EP  - 1296
+VL  - 35
+IS  - 11
+PB  - INFORMS
+N2  - Stratified sampling is perhaps the most natural of the variance reduction techniques. However its use is often frustrated by the high dimensionality of the sample space. This paper investigates the difficulty and suggests a basic sampling scheme for use in such problems. The accuracy of estimators when this method of sampling is used is examined in detail. A way of implementing the scheme in practice is suggested which makes use of shadow response variables (variables which have similar properties to control variables). This reduces the dimensionality of the sample space to a tractable size. Two detailed examples are given for which a 10% to 90% reduction in variance is obtained compared with crude Monte Carlo.
+AB  - Stratified sampling is perhaps the most natural of the variance reduction techniques. However its use is often frustrated by the high dimensionality of the sample space. This paper investigates the difficulty and suggests a basic sampling scheme for use in such problems. The accuracy of estimators when this method of sampling is used is examined in detail. A way of implementing the scheme in practice is suggested which makes use of shadow response variables (variables which have similar properties to control variables). This reduces the dimensionality of the sample space to a tractable size. Two detailed examples are given for which a 10% to 90% reduction in variance is obtained compared with crude Monte Carlo.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1278
+UR  - https://doi.org/10.1287/mnsc.35.11.1278
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Simulating Discounted Costs
+AU  - Fox, Bennett L.
+AU  - Glynn, Peter W.
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1297
+DO  - 10.1287/mnsc.35.11.1297
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1297
+EP  - 1315
+VL  - 35
+IS  - 11
+PB  - INFORMS
+N2  - We numerically estimate, via simulation, the expected infinite-horizon discounted cost d of running a stochastic system. A naive strategy estimates a finite-horizon approximation to d. We propose alternatives. All are ranked with respect to asymptotic variance as a function of computer-time budget and discount rate, when semi-Markov and/or regenerative structure or neither is assumed. In this setting, the naive truncation estimator loses; it may triumph, however, when the computer-time budget is modest, the discount rate is large, and the process simulated is not regenerative or has long cycle lengths.
+AB  - We numerically estimate, via simulation, the expected infinite-horizon discounted cost d of running a stochastic system. A naive strategy estimates a finite-horizon approximation to d. We propose alternatives. All are ranked with respect to asymptotic variance as a function of computer-time budget and discount rate, when semi-Markov and/or regenerative structure or neither is assumed. In this setting, the naive truncation estimator loses; it may triumph, however, when the computer-time budget is modest, the discount rate is large, and the process simulated is not regenerative or has long cycle lengths.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1297
+UR  - https://doi.org/10.1287/mnsc.35.11.1297
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of Multiresponse Simulation Metamodels Using Control Variates
+AU  - De O. Porta Nova, Acácio M.
+AU  - Wilson, James R.
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1316
+DO  - 10.1287/mnsc.35.11.1316
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1316
+EP  - 1333
+VL  - 35
+IS  - 11
+PB  - INFORMS
+N2  - This paper provides a unified development of the method of control variates for simulation experiments in which the objective is estimation of a multiresponse metamodel?that is, a linear model for an output vector of simulation performance measures expressed in terms of an input vector of decision variables for the target system. In contrast to previous treatments of this topic, we allow both the input and output of the metamodel to be multidimensional so that control variates can be applied to multipopulation, multiresponse simulation experiments. Assuming that the responses and controls are jointly normal with a homogeneous covariance structure across the points of the experimental design, we develop control variates procedures for point and confidence-region estimation and for hypothesis testing on the coefficients of a postulated metamodel. We derive a generalized minimum variance ratio to quantify the maximum efficiency that is achievable with a given set of controls, and we formulate a generalized loss factor to measure the degradation in efficiency that occurs when the optimal control coefficients are estimated by the method of least squares. A detailed example illustrates the application of these results.
+AB  - This paper provides a unified development of the method of control variates for simulation experiments in which the objective is estimation of a multiresponse metamodel?that is, a linear model for an output vector of simulation performance measures expressed in terms of an input vector of decision variables for the target system. In contrast to previous treatments of this topic, we allow both the input and output of the metamodel to be multidimensional so that control variates can be applied to multipopulation, multiresponse simulation experiments. Assuming that the responses and controls are jointly normal with a homogeneous covariance structure across the points of the experimental design, we develop control variates procedures for point and confidence-region estimation and for hypothesis testing on the coefficients of a postulated metamodel. We derive a generalized minimum variance ratio to quantify the maximum efficiency that is achievable with a given set of controls, and we formulate a generalized loss factor to measure the degradation in efficiency that occurs when the optimal control coefficients are estimated by the method of least squares. A detailed example illustrates the application of these results.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1316
+UR  - https://doi.org/10.1287/mnsc.35.11.1316
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Variant of the Conditional Expectation Variance Reduction Technique and Its Application to the Simulation of the GI/G/1 Queues
+AU  - Minh, Do Le
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1334
+DO  - 10.1287/mnsc.35.11.1334
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1334
+EP  - 1340
+VL  - 35
+IS  - 11
+PB  - INFORMS
+N2  - In this paper, we introduce the Partial Conditional Expectation (PCE) variance reduction technique, derived by modifying the well-known Conditional Expectation (CE) technique to make it more widely applicable. We apply this PCE technique to obtain a consistent estimator for the expected waiting time in queue in a single-server queueing system. We then derive an improved version of this estimator, taking into consideration further properties of the system. Empirical results show that these two estimators always perform better than the classical estimator. When the traffic intensity is low, the variance reductions obtained by these two estimators become very significant.
+AB  - In this paper, we introduce the Partial Conditional Expectation (PCE) variance reduction technique, derived by modifying the well-known Conditional Expectation (CE) technique to make it more widely applicable. We apply this PCE technique to obtain a consistent estimator for the expected waiting time in queue in a single-server queueing system. We then derive an improved version of this estimator, taking into consideration further properties of the system. Empirical results show that these two estimators always perform better than the classical estimator. When the traffic intensity is low, the variance reductions obtained by these two estimators become very significant.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1334
+UR  - https://doi.org/10.1287/mnsc.35.11.1334
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Planning Queueing Simulations
+AU  - Whitt, Ward
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1341
+DO  - 10.1287/mnsc.35.11.1341
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1341
+EP  - 1366
+VL  - 35
+IS  - 11
+PB  - INFORMS
+N2  - Simple heuristic formulas are developed to estimate the simulation run lengths required to achieve desired statistical precision in queueing simulations. The formulas are intended to help in the early planning stages before any data have been collected. The queueing simulations considered are single replications (one long run) conducted to estimate steady-state characteristics such as expected equilibrium queue lengths. The formulas can be applied to design simulation experiments to develop and evaluate queueing approximations. In fact, this work was motivated by efforts to develop approximations for packet communication networks with multiple classes of traffic having different service characteristics and bursty arrival processes. In addition to indicating the approximate simulation run length required in each case of a designed experiment, the formulas can help determine what cases to consider, what statistical precision to aim for, and even whether to conduct the experiment at all. The formulas are based on heavy-traffic limits for queues (the limiting behavior as the traffic intensity approaches its upper limit for stability) and associated diffusion approximations. In particular, the formulas apply to stochastic processes that can be approximated by reflected Brownian motion, such as the queue-length process in the standard GI/G/1 model.
+AB  - Simple heuristic formulas are developed to estimate the simulation run lengths required to achieve desired statistical precision in queueing simulations. The formulas are intended to help in the early planning stages before any data have been collected. The queueing simulations considered are single replications (one long run) conducted to estimate steady-state characteristics such as expected equilibrium queue lengths. The formulas can be applied to design simulation experiments to develop and evaluate queueing approximations. In fact, this work was motivated by efforts to develop approximations for packet communication networks with multiple classes of traffic having different service characteristics and bursty arrival processes. In addition to indicating the approximate simulation run length required in each case of a designed experiment, the formulas can help determine what cases to consider, what statistical precision to aim for, and even whether to conduct the experiment at all. The formulas are based on heavy-traffic limits for queues (the limiting behavior as the traffic intensity approaches its upper limit for stability) and associated diffusion approximations. In particular, the formulas apply to stochastic processes that can be approximated by reflected Brownian motion, such as the queue-length process in the standard GI/G/1 model.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1341
+UR  - https://doi.org/10.1287/mnsc.35.11.1341
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Importance Sampling for Stochastic Simulations
+AU  - Glynn, Peter W.
+AU  - Iglehart, Donald L.
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1367
+DO  - 10.1287/mnsc.35.11.1367
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1367
+EP  - 1392
+VL  - 35
+IS  - 11
+PB  - INFORMS
+N2  - Importance sampling is one of the classical variance reduction techniques for increasing the efficiency of Monte Carlo algorithms for estimating integrals. The basic idea is to replace the original random mechanism in the simulation by a new one and at the same time modify the function being integrated. In this paper the idea is extended to problems arising in the simulation of stochastic systems. Discrete-time Markov chains, continuous-time Markov chains, and generalized semi-Markov processes are covered. Applications are given to a GI/G/1 queueing problem and response surface estimation. Computation of the theoretical moments arising in importance sampling is discussed and some numerical examples given.
+AB  - Importance sampling is one of the classical variance reduction techniques for increasing the efficiency of Monte Carlo algorithms for estimating integrals. The basic idea is to replace the original random mechanism in the simulation by a new one and at the same time modify the function being integrated. In this paper the idea is extended to problems arising in the simulation of stochastic systems. Discrete-time Markov chains, continuous-time Markov chains, and generalized semi-Markov processes are covered. Applications are given to a GI/G/1 queueing problem and response surface estimation. Computation of the theoretical moments arising in importance sampling is discussed and some numerical examples given.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1367
+UR  - https://doi.org/10.1287/mnsc.35.11.1367
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Branch-and-Cut Approach to a Traveling Salesman Problem with Side Constraints
+AU  - Padberg, M.
+AU  - Rinaldi, G.
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1393
+DO  - 10.1287/mnsc.35.11.1393
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1393
+EP  - 1412
+VL  - 35
+IS  - 11
+PB  - INFORMS
+N2  - A problem posed by O. L. Deutsch (Deutsch, O. L. 1988. Artificial intelligence design challenge?Background, analysis, and relative performance of algorithms. J. Guidance, Control, and Dynamics 11 386?393.) as the Artificial Intelligence Design Challenge for the 1987 American Institute of Aeronautics and Astronautics (AIAA) Conference on Guidance, Navigation & Control (Monterey, CA, August 17?19, 1987) is formulated as a zero-one linear program. We show that the associated (relaxed) linear programming problem can be solved in polynomial time despite an exponential size of the proposed constraint system in terms of the underlying parameter n of the number of cities considered, when a nonlinear constraint of the problem is either ignored or approximated by linearization. We describe a software system AIAA/SOLVER that we have implemented to solve the problem to optimality under an apparently weak assumption about its stochastic cost structure using branch-and-cut.
+AB  - A problem posed by O. L. Deutsch (Deutsch, O. L. 1988. Artificial intelligence design challenge?Background, analysis, and relative performance of algorithms. J. Guidance, Control, and Dynamics 11 386?393.) as the Artificial Intelligence Design Challenge for the 1987 American Institute of Aeronautics and Astronautics (AIAA) Conference on Guidance, Navigation & Control (Monterey, CA, August 17?19, 1987) is formulated as a zero-one linear program. We show that the associated (relaxed) linear programming problem can be solved in polynomial time despite an exponential size of the proposed constraint system in terms of the underlying parameter n of the number of cities considered, when a nonlinear constraint of the problem is either ignored or approximated by linearization. We describe a software system AIAA/SOLVER that we have implemented to solve the problem to optimality under an apparently weak assumption about its stochastic cost structure using branch-and-cut.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1393
+UR  - https://doi.org/10.1287/mnsc.35.11.1393
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - About Authors
+Y1  - 1989/11/01
+PY  - 1989
+DA  - 1989/11/01
+N1  - doi: 10.1287/mnsc.35.11.1413
+DO  - 10.1287/mnsc.35.11.1413
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1413
+EP  - 1414
+VL  - 35
+IS  - 11
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.35.11.1413
+UR  - https://doi.org/10.1287/mnsc.35.11.1413
+Y2  - 2024/03/28
+ER  - 

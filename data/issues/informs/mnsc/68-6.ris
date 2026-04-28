@@ -1,0 +1,1011 @@
+
+
+
+
+
+TY  - JOUR
+T1  - The Time Variation in Risk Appetite and Uncertainty
+AU  - Bekaert, Geert
+AU  - Engstrom, Eric C.
+AU  - Xu, Nancy R.
+Y1  - 2021/10/05
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4068
+DO  - 10.1287/mnsc.2021.4068
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3975
+EP  - 4004
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We formulate a dynamic no-arbitrage asset pricing model for equities and corporate bonds, featuring time variation in both risk aversion and economic uncertainty. The joint dynamics among cash flows, macroeconomic fundamentals, and risk aversion accommodate both heteroskedasticity and non-Gaussianity. The model delivers measures of risk aversion and uncertainty at the daily frequency. We verify that equity variance risk premiums are very informative about risk aversion, whereas credit spreads and corporate bond volatility are highly correlated with economic uncertainty. Our model-implied risk premiums outperform standard instruments for predicting asset excess returns. Risk aversion is substantially correlated with consumer confidence measures and in early 2020 reacted more strongly to new COVID cases than did an uncertainty proxy.This paper was accepted by Haoxiang Zhu, finance.
+AB  - We formulate a dynamic no-arbitrage asset pricing model for equities and corporate bonds, featuring time variation in both risk aversion and economic uncertainty. The joint dynamics among cash flows, macroeconomic fundamentals, and risk aversion accommodate both heteroskedasticity and non-Gaussianity. The model delivers measures of risk aversion and uncertainty at the daily frequency. We verify that equity variance risk premiums are very informative about risk aversion, whereas credit spreads and corporate bond volatility are highly correlated with economic uncertainty. Our model-implied risk premiums outperform standard instruments for predicting asset excess returns. Risk aversion is substantially correlated with consumer confidence measures and in early 2020 reacted more strongly to new COVID cases than did an uncertainty proxy.This paper was accepted by Haoxiang Zhu, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4068
+UR  - https://doi.org/10.1287/mnsc.2021.4068
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Comparative Empirical Study of Discrete Choice Models in Retail Operations
+AU  - Berbeglia, Gerardo
+AU  - Garassino, Agustín
+AU  - Vulcano, Gustavo
+Y1  - 2021/12/01
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4069
+DO  - 10.1287/mnsc.2021.4069
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4005
+EP  - 4023
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Choice-based demand estimation is a fundamental task in retail operations and revenue management, providing necessary input data for inventory control, assortment, and price-optimization models. The task is particularly difficult in operational contexts where product availability varies over time and customers may substitute into the available options. In addition to the classical multinomial logit (MNL) model and extensions (e.g., nested logit, mixed logit, and latent-class MNL), new demand models have been proposed (e.g., the Markov chain model), and others have been recently revisited (e.g., the rank list-based and exponomial models). At the same time, new computational approaches were developed to ease the estimation function (e.g., column-generation and expectation-maximization (EM) algorithms). In this paper, we conduct a systematic, empirical study of different choice-based demand models and estimation algorithms, including both maximum-likelihood and least-squares criteria. Through an exhaustive set of numerical experiments on synthetic, semisynthetic, and real data, we provide comparative statistics of the predictive power and derived revenue performance of an ample collection of choice models and characterize operational environments suitable for different model/estimation implementations. We also provide a survey of all the discrete choice models evaluated and share all our estimation codes and data sets as part of the online appendix.This paper was accepted by Vishal Gaur, operations management.
+AB  - Choice-based demand estimation is a fundamental task in retail operations and revenue management, providing necessary input data for inventory control, assortment, and price-optimization models. The task is particularly difficult in operational contexts where product availability varies over time and customers may substitute into the available options. In addition to the classical multinomial logit (MNL) model and extensions (e.g., nested logit, mixed logit, and latent-class MNL), new demand models have been proposed (e.g., the Markov chain model), and others have been recently revisited (e.g., the rank list-based and exponomial models). At the same time, new computational approaches were developed to ease the estimation function (e.g., column-generation and expectation-maximization (EM) algorithms). In this paper, we conduct a systematic, empirical study of different choice-based demand models and estimation algorithms, including both maximum-likelihood and least-squares criteria. Through an exhaustive set of numerical experiments on synthetic, semisynthetic, and real data, we provide comparative statistics of the predictive power and derived revenue performance of an ample collection of choice models and characterize operational environments suitable for different model/estimation implementations. We also provide a survey of all the discrete choice models evaluated and share all our estimation codes and data sets as part of the online appendix.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4069
+UR  - https://doi.org/10.1287/mnsc.2021.4069
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Product Ranking on Online Platforms
+AU  - Derakhshan, Mahsa
+AU  - Golrezaei, Negin
+AU  - Manshadi, Vahideh
+AU  - Mirrokni, Vahab
+Y1  - 2022/01/05
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4044
+DO  - 10.1287/mnsc.2021.4044
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4024
+EP  - 4041
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - On online platforms, consumers face an abundance of options that are displayed in the form of a position ranking. Only products placed in the first few positions are readily accessible to the consumer, and she needs to exert effort to access more options. For such platforms, we develop a two-stage sequential search model where, in the first stage, the consumer sequentially screens positions to observe the preference weight of the products placed in them and forms a consideration set. In the second stage, she observes the additional idiosyncratic utility that she can derive from each product and chooses the highest-utility product within her consideration set. For this model, we first characterize the optimal sequential search policy of a welfare-maximizing consumer. We then study how platforms with different objectives should rank products. We focus on two objectives: (i) maximizing the platform?s market share and (ii) maximizing the consumer?s welfare. Somewhat surprisingly, we show that ranking products in decreasing order of their preference weights does not necessarily maximize market share or consumer welfare. Such a ranking may shorten the consumer?s consideration set due to the externality effect of high-positioned products on low-positioned ones, leading to insufficient screening. We then show that both problems?maximizing market share and maximizing consumer welfare?are NP-complete. We develop novel near-optimal polynomial-time ranking algorithms for each objective. Further, we show that, even though ranking products in decreasing order of their preference weights is suboptimal, such a ranking enjoys strong performance guarantees for both objectives. We complement our theoretical developments with numerical studies using synthetic data, in which we show (1) that heuristic versions of our algorithms that do not rely on model primitives perform well and (2) that our model can be effectively estimated using a maximum likelihood estimator.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - On online platforms, consumers face an abundance of options that are displayed in the form of a position ranking. Only products placed in the first few positions are readily accessible to the consumer, and she needs to exert effort to access more options. For such platforms, we develop a two-stage sequential search model where, in the first stage, the consumer sequentially screens positions to observe the preference weight of the products placed in them and forms a consideration set. In the second stage, she observes the additional idiosyncratic utility that she can derive from each product and chooses the highest-utility product within her consideration set. For this model, we first characterize the optimal sequential search policy of a welfare-maximizing consumer. We then study how platforms with different objectives should rank products. We focus on two objectives: (i) maximizing the platform?s market share and (ii) maximizing the consumer?s welfare. Somewhat surprisingly, we show that ranking products in decreasing order of their preference weights does not necessarily maximize market share or consumer welfare. Such a ranking may shorten the consumer?s consideration set due to the externality effect of high-positioned products on low-positioned ones, leading to insufficient screening. We then show that both problems?maximizing market share and maximizing consumer welfare?are NP-complete. We develop novel near-optimal polynomial-time ranking algorithms for each objective. Further, we show that, even though ranking products in decreasing order of their preference weights is suboptimal, such a ranking enjoys strong performance guarantees for both objectives. We complement our theoretical developments with numerical studies using synthetic data, in which we show (1) that heuristic versions of our algorithms that do not rely on model primitives perform well and (2) that our model can be effectively estimated using a maximum likelihood estimator.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4044
+UR  - https://doi.org/10.1287/mnsc.2021.4044
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Currency Factors
+AU  - Aloosh, Arash
+AU  - Bekaert, Geert
+Y1  - 2021/08/25
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4023
+DO  - 10.1287/mnsc.2021.4023
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4042
+EP  - 4064
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We examine the ability of existing and new factor models to explain the comovements of G10 currency changes, measured using ?currency baskets.? A clustering technique reveals a clear two-block structure in currency comovements, with the first block containing mostly the dollar currencies and the other the European currencies. A factor model incorporating this ?clustering? factor and two additional factors, a commodity currency factor and a ?world? factor based on trading volumes, fits currency basket correlations much better than extant factors, such as value and carry, do. In particular, it explains on average about 60% of currency variation and generates a root mean squared error relative to sample correlations of only 0.11. The model also fits comovements in emerging market currencies well. Economically, the correlations between currency baskets underlying the factor structure are inversely related to the physical distances between countries.This paper was accepted by Kay Giesecke, finance.
+AB  - We examine the ability of existing and new factor models to explain the comovements of G10 currency changes, measured using ?currency baskets.? A clustering technique reveals a clear two-block structure in currency comovements, with the first block containing mostly the dollar currencies and the other the European currencies. A factor model incorporating this ?clustering? factor and two additional factors, a commodity currency factor and a ?world? factor based on trading volumes, fits currency basket correlations much better than extant factors, such as value and carry, do. In particular, it explains on average about 60% of currency variation and generates a root mean squared error relative to sample correlations of only 0.11. The model also fits comovements in emerging market currencies well. Economically, the correlations between currency baskets underlying the factor structure are inversely related to the physical distances between countries.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4023
+UR  - https://doi.org/10.1287/mnsc.2021.4023
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Real Effects of Tax Uncertainty: Evidence from Firm Capital Investments
+AU  - Jacob, Martin
+AU  - Wentland, Kelly
+AU  - Wentland, Scott A.
+Y1  - 2021/09/20
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4072
+DO  - 10.1287/mnsc.2021.4072
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4065
+EP  - 4089
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - This paper examines whether tax uncertainty can alter investment decisions, focusing primarily on the timing of large capital investments. Empirically, we exploit the staggered implementation of Schedule UTP, a discrete policy change expected to increase tax uncertainty, finding that, on average, firms responded by delaying large capital investments. This effect is stronger among firms at which the policy treatment is particularly germane, that is, for firms with more material UTBs or with low-to-moderate quality public accounting information. We also test the underlying mechanism, finding that managers buffer against higher tax uncertainty with cheaper sources of financing (cash) and that the investment effect is concentrated among financially constrained firms. The results show that Schedule UTP also reduces the sensitivity of investment to growth opportunities (investment-Q sensitivity) in line with a higher hurdle rate for firms facing higher tax uncertainty.This paper was accepted by Brian Bushee, accounting.
+AB  - This paper examines whether tax uncertainty can alter investment decisions, focusing primarily on the timing of large capital investments. Empirically, we exploit the staggered implementation of Schedule UTP, a discrete policy change expected to increase tax uncertainty, finding that, on average, firms responded by delaying large capital investments. This effect is stronger among firms at which the policy treatment is particularly germane, that is, for firms with more material UTBs or with low-to-moderate quality public accounting information. We also test the underlying mechanism, finding that managers buffer against higher tax uncertainty with cheaper sources of financing (cash) and that the investment effect is concentrated among financially constrained firms. The results show that Schedule UTP also reduces the sensitivity of investment to growth opportunities (investment-Q sensitivity) in line with a higher hurdle rate for firms facing higher tax uncertainty.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4072
+UR  - https://doi.org/10.1287/mnsc.2021.4072
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Ambiguity and the Tradeoff Theory of Capital Structure
+AU  - Izhakian, Yehuda
+AU  - Yermack, David
+AU  - Zender, Jaime F.
+Y1  - 2021/09/17
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4074
+DO  - 10.1287/mnsc.2021.4074
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4090
+EP  - 4111
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We examine the impact of ambiguity, or Knightian uncertainty, on the capital structure decision, using a static tradeoff theory model in which agents are both ambiguity and risk averse. The model confirms the well-known result that greater risk?the uncertainty over outcomes?leads firms to decrease leverage. Conversely, the model indicates that greater ambiguity?the uncertainty over the probabilities associated with the outcomes?leads firms to increase leverage. Using a theoretically based measure of ambiguity, our empirical analysis presents evidence consistent with these notions, showing that ambiguity has an important and distinct impact on capital structure.This paper was accepted by Gustavo Manso, finance.
+AB  - We examine the impact of ambiguity, or Knightian uncertainty, on the capital structure decision, using a static tradeoff theory model in which agents are both ambiguity and risk averse. The model confirms the well-known result that greater risk?the uncertainty over outcomes?leads firms to decrease leverage. Conversely, the model indicates that greater ambiguity?the uncertainty over the probabilities associated with the outcomes?leads firms to increase leverage. Using a theoretically based measure of ambiguity, our empirical analysis presents evidence consistent with these notions, showing that ambiguity has an important and distinct impact on capital structure.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4074
+UR  - https://doi.org/10.1287/mnsc.2021.4074
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Valuation Effects of Norway’s Board Gender-Quota Law Revisited
+AU  - Eckbo, B. Espen
+AU  - Nygaard, Knut
+AU  - Thorburn, Karin S.
+Y1  - 2021/08/18
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4031
+DO  - 10.1287/mnsc.2021.4031
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4112
+EP  - 4134
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We highlight the complexities in estimating the valuation effects of board gender quotas by critically revisiting studies of Norway?s pioneering board gender-quota law. We use the short-run event study of Ahern and Dittmar [Ahern KR, Dittmar A (2012) The changing of the boards: The impact on firm valuation of mandated female board representation. Quart. J. Econom. 127(1):137?197] to illustrate (1) the difficulties in attributing quota-related news to specific dates, (2) the need to account for contemporaneous cross-correlation of stock returns when judging the statistical significance of event-related abnormal stock returns, and (3) the fundamental difficulty of separating quota-induced valuation effects from the influences of firm characteristics and macroeconomic events such as the financial crisis. We provide new evidence suggesting that the valuation effect of Norway?s quota law was statistically insignificant. Overall, our evidence suggests that, at the time of the Norwegian quota, the supply of qualified female director candidates was high enough to avoid the negative consequences of the quota highlighted previously in the literature.This paper was accepted by Renee Adams, finance.
+AB  - We highlight the complexities in estimating the valuation effects of board gender quotas by critically revisiting studies of Norway?s pioneering board gender-quota law. We use the short-run event study of Ahern and Dittmar [Ahern KR, Dittmar A (2012) The changing of the boards: The impact on firm valuation of mandated female board representation. Quart. J. Econom. 127(1):137?197] to illustrate (1) the difficulties in attributing quota-related news to specific dates, (2) the need to account for contemporaneous cross-correlation of stock returns when judging the statistical significance of event-related abnormal stock returns, and (3) the fundamental difficulty of separating quota-induced valuation effects from the influences of firm characteristics and macroeconomic events such as the financial crisis. We provide new evidence suggesting that the valuation effect of Norway?s quota law was statistically insignificant. Overall, our evidence suggests that, at the time of the Norwegian quota, the supply of qualified female director candidates was high enough to avoid the negative consequences of the quota highlighted previously in the literature.This paper was accepted by Renee Adams, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4031
+UR  - https://doi.org/10.1287/mnsc.2021.4031
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Role of Participation in Innovation Contests
+AU  - Stouras, Konstantinos I.
+AU  - Hutchison-Krupat, Jeremy
+AU  - Chao, Raul O.
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4111
+DO  - 10.1287/mnsc.2021.4111
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4135
+EP  - 4150
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Many firms use external contests to obtain solutions to their innovation challenges. A central managerial concern is how to screen the population for only the most capable people when the capability of the population is not known. If the manager sets the bar too high, then the contest could fail, leaving the firm to suffer the consequences. Alternatively, if the bar is set too low, then too many people enter, which leads to increased competition, a lack of effort, and diminished performance, again leaving the firm to suffer the consequences. We study a situation in which the number of solvers in a population is known but the ability of each individual is not. At best, the firm can deduce the probability that any number of solvers would enter and the probability that any solver who enters would possess a specific ability. We derive the optimal contest design to maximize the performance of the best submission while accounting for the possibility that the contest receives an insufficient number of entries, resulting in an unproductive contest. Our results provide an alternative rationale for why many contests offer multiple awards: firms want to avoid an unproductive contest and the negative consequences associated with it. We also consider alternative levers available to the firm when facing uncertain participation. These include the establishment of performance thresholds and the decision to expand the potential solver population.This paper was accepted by Charles Corbett, operations management.
+AB  - Many firms use external contests to obtain solutions to their innovation challenges. A central managerial concern is how to screen the population for only the most capable people when the capability of the population is not known. If the manager sets the bar too high, then the contest could fail, leaving the firm to suffer the consequences. Alternatively, if the bar is set too low, then too many people enter, which leads to increased competition, a lack of effort, and diminished performance, again leaving the firm to suffer the consequences. We study a situation in which the number of solvers in a population is known but the ability of each individual is not. At best, the firm can deduce the probability that any number of solvers would enter and the probability that any solver who enters would possess a specific ability. We derive the optimal contest design to maximize the performance of the best submission while accounting for the possibility that the contest receives an insufficient number of entries, resulting in an unproductive contest. Our results provide an alternative rationale for why many contests offer multiple awards: firms want to avoid an unproductive contest and the negative consequences associated with it. We also consider alternative levers available to the firm when facing uncertain participation. These include the establishment of performance thresholds and the decision to expand the potential solver population.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4111
+UR  - https://doi.org/10.1287/mnsc.2021.4111
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Hedge Fund Flows and Performance Streaks: How Investors Weigh Information
+AU  - Baquero, Guillermo
+AU  - Verbeek, Marno
+Y1  - 2021/08/12
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4067
+DO  - 10.1287/mnsc.2021.4067
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4151
+EP  - 4172
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Cash flows to hedge funds are highly sensitive to performance streaks, a streak being defined as subsequent quarters during which a fund performs above or below a benchmark, even after controlling for a wide range of common performance measures. At the same time, streaks have limited predictive power regarding future fund performance. This suggests investors weigh information suboptimally, and their decisions are driven too strongly by a belief in continuation of good performance, consistent with the ?hot hand fallacy.? The hedge funds that investors choose to invest in do not perform significantly better than those they divest from. These findings are consistent with overreaction to certain types of information and do not support the notion that sophisticated investors have superior information or superior information processing abilities.This paper was accepted by David Simchi-Levi, finance.
+AB  - Cash flows to hedge funds are highly sensitive to performance streaks, a streak being defined as subsequent quarters during which a fund performs above or below a benchmark, even after controlling for a wide range of common performance measures. At the same time, streaks have limited predictive power regarding future fund performance. This suggests investors weigh information suboptimally, and their decisions are driven too strongly by a belief in continuation of good performance, consistent with the ?hot hand fallacy.? The hedge funds that investors choose to invest in do not perform significantly better than those they divest from. These findings are consistent with overreaction to certain types of information and do not support the notion that sophisticated investors have superior information or superior information processing abilities.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4067
+UR  - https://doi.org/10.1287/mnsc.2021.4067
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - “Un”Fair Machine Learning Algorithms
+AU  - Fu, Runshan
+AU  - Aseri, Manmohan
+AU  - Singh, Param Vir
+AU  - Srinivasan, Kannan
+Y1  - 2021/10/21
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4065
+DO  - 10.1287/mnsc.2021.4065
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4173
+EP  - 4195
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Ensuring fairness in algorithmic decision making is a crucial policy issue. Current legislation ensures fairness by barring algorithm designers from using demographic information in their decision making. As a result, to be legally compliant, the algorithms need to ensure equal treatment. However, in many cases, ensuring equal treatment leads to disparate impact particularly when there are differences among groups based on demographic classes. In response, several ?fair? machine learning (ML) algorithms that require impact parity (e.g., equal opportunity) at the cost of equal treatment have recently been proposed to adjust for the societal inequalities. Advocates of fair ML propose changing the law to allow the use of protected class-specific decision rules. We show that the proposed fair ML algorithms that require impact parity, while conceptually appealing, can make everyone worse off, including the very class they aim to protect. Compared with the current law, which requires treatment parity, the fair ML algorithms, which require impact parity, limit the benefits of a more accurate algorithm for a firm. As a result, profit maximizing firms could underinvest in learning, that is, improving the accuracy of their machine learning algorithms. We show that the investment in learning decreases when misclassification is costly, which is exactly the case when greater accuracy is otherwise desired. Our paper highlights the importance of considering strategic behavior of stake holders when developing and evaluating fair ML algorithms. Overall, our results indicate that fair ML algorithms that require impact parity, if turned into law, may not be able to deliver some of the anticipated benefits.This paper was accepted by Kartik Hosanagar, information systems.
+AB  - Ensuring fairness in algorithmic decision making is a crucial policy issue. Current legislation ensures fairness by barring algorithm designers from using demographic information in their decision making. As a result, to be legally compliant, the algorithms need to ensure equal treatment. However, in many cases, ensuring equal treatment leads to disparate impact particularly when there are differences among groups based on demographic classes. In response, several ?fair? machine learning (ML) algorithms that require impact parity (e.g., equal opportunity) at the cost of equal treatment have recently been proposed to adjust for the societal inequalities. Advocates of fair ML propose changing the law to allow the use of protected class-specific decision rules. We show that the proposed fair ML algorithms that require impact parity, while conceptually appealing, can make everyone worse off, including the very class they aim to protect. Compared with the current law, which requires treatment parity, the fair ML algorithms, which require impact parity, limit the benefits of a more accurate algorithm for a firm. As a result, profit maximizing firms could underinvest in learning, that is, improving the accuracy of their machine learning algorithms. We show that the investment in learning decreases when misclassification is costly, which is exactly the case when greater accuracy is otherwise desired. Our paper highlights the importance of considering strategic behavior of stake holders when developing and evaluating fair ML algorithms. Overall, our results indicate that fair ML algorithms that require impact parity, if turned into law, may not be able to deliver some of the anticipated benefits.This paper was accepted by Kartik Hosanagar, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4065
+UR  - https://doi.org/10.1287/mnsc.2021.4065
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Nudging Drivers to Safety: Evidence from a Field Experiment
+AU  - Choudhary, Vivek
+AU  - Shunko, Masha
+AU  - Netessine, Serguei
+AU  - Koo, Seongjoon
+Y1  - 2021/09/28
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4063
+DO  - 10.1287/mnsc.2021.4063
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4196
+EP  - 4214
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Driving is an integral component of many operational systems, and any small improvement in driving quality can have a significant effect on accidents, traffic, pollution, and the economy in general. However, making improvements is challenging given the complexity and multidimensionality of driving as a task. In this paper, we investigate the effectiveness of nudging to improve driving performance. In particular, we leverage a smartphone application launched by our industry partners to send three types of nudges through notifications to drivers, indicating how they performed on the current trip with respect to their personal best, personal average, and latest driving performance. We measure the resulting driving performance using telematics technology (i.e., real-time sensor data from an accelerometer, Global Positioning System (GPS), and gyroscope in a mobile device). Compared with the ?no-nudge? control group, we find that personal best and personal average nudges improve driving performance by approximately 18% standard deviations of the performance scores calculated by the application. In addition, these nudges improve interaccident times (by nearly 1.8 years) and driving performance consistency, as measured by the standard deviation of the performance score. Noting that driving abilities and feedback seeking may vary across individuals, we adopt a generalized random forest approach, which shows that high-performing drivers who are not frequent feedback seekers benefit the most from personal best nudges, whereas low-performing drivers who are also frequent feedback seekers benefit the most from the personal average nudges. Finally, we investigate the potential mechanism behind the results by conducting an online experiment in a nondriving context. The experiment shows that the performance improvements are directly driven by the changes in participants? effort in response to different nudges and that our key findings are robust in alternative (nondriving) settings. Our analysis further shows that nudges are effective when the variability in reference points is low, which explains why the personal best and personal average nudges are effective, whereas the last score nudge is not.This paper was accepted by Vishal Gaur, operations management.
+AB  - Driving is an integral component of many operational systems, and any small improvement in driving quality can have a significant effect on accidents, traffic, pollution, and the economy in general. However, making improvements is challenging given the complexity and multidimensionality of driving as a task. In this paper, we investigate the effectiveness of nudging to improve driving performance. In particular, we leverage a smartphone application launched by our industry partners to send three types of nudges through notifications to drivers, indicating how they performed on the current trip with respect to their personal best, personal average, and latest driving performance. We measure the resulting driving performance using telematics technology (i.e., real-time sensor data from an accelerometer, Global Positioning System (GPS), and gyroscope in a mobile device). Compared with the ?no-nudge? control group, we find that personal best and personal average nudges improve driving performance by approximately 18% standard deviations of the performance scores calculated by the application. In addition, these nudges improve interaccident times (by nearly 1.8 years) and driving performance consistency, as measured by the standard deviation of the performance score. Noting that driving abilities and feedback seeking may vary across individuals, we adopt a generalized random forest approach, which shows that high-performing drivers who are not frequent feedback seekers benefit the most from personal best nudges, whereas low-performing drivers who are also frequent feedback seekers benefit the most from the personal average nudges. Finally, we investigate the potential mechanism behind the results by conducting an online experiment in a nondriving context. The experiment shows that the performance improvements are directly driven by the changes in participants? effort in response to different nudges and that our key findings are robust in alternative (nondriving) settings. Our analysis further shows that nudges are effective when the variability in reference points is low, which explains why the personal best and personal average nudges are effective, whereas the last score nudge is not.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4063
+UR  - https://doi.org/10.1287/mnsc.2021.4063
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Consumer Online Search with Partially Revealed Information
+AU  - Gu, Chris
+AU  - Wang, Yike
+Y1  - 2021/12/29
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4104
+DO  - 10.1287/mnsc.2021.4104
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4215
+EP  - 4235
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Modern-day search platforms generally have two layers of information presentation. The outer layer displays the collection of search results with attributes selected by platforms, and consumers click on a product to reveal all its attributes in the inner layer. The information revealed in the outer layer affects the search costs and the probability of finding a match. To address the managerial question of optimal information layout, we create an information complexity measure of the outer layer, namely orderedness entropy, and study the consumer search process for information at the expense of time and cognitive costs. We first conduct online random experiments to show that consumers respond to and actively reduce cognitive cost for which our information complexity measure provides a representation. Then, using a unique and rich panel tracking consumer search behaviors at a large online travel agency (OTA), we specify a novel sequential search model that jointly describes the refinement search and product clicking decisions. We find that cognitive cost is a major component of search cost, while loading time cost has a much smaller share. By varying the information revealed in the outer layer, we propose information layouts that Pareto-improve both revenue and consumer welfare for our OTA.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - Modern-day search platforms generally have two layers of information presentation. The outer layer displays the collection of search results with attributes selected by platforms, and consumers click on a product to reveal all its attributes in the inner layer. The information revealed in the outer layer affects the search costs and the probability of finding a match. To address the managerial question of optimal information layout, we create an information complexity measure of the outer layer, namely orderedness entropy, and study the consumer search process for information at the expense of time and cognitive costs. We first conduct online random experiments to show that consumers respond to and actively reduce cognitive cost for which our information complexity measure provides a representation. Then, using a unique and rich panel tracking consumer search behaviors at a large online travel agency (OTA), we specify a novel sequential search model that jointly describes the refinement search and product clicking decisions. We find that cognitive cost is a major component of search cost, while loading time cost has a much smaller share. By varying the information revealed in the outer layer, we propose information layouts that Pareto-improve both revenue and consumer welfare for our OTA.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4104
+UR  - https://doi.org/10.1287/mnsc.2021.4104
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Fast Rates for Contextual Linear Optimization
+AU  - Hu, Yichun
+AU  - Kallus, Nathan
+AU  - Mao, Xiaojie
+Y1  - 2022/03/29
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2022.4383
+DO  - 10.1287/mnsc.2022.4383
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4236
+EP  - 4245
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Incorporating side observations in decision making can reduce uncertainty and boost performance, but it also requires that we tackle a potentially complex predictive relationship. Although one may use off-the-shelf machine learning methods to separately learn a predictive model and plug it in, a variety of recent methods instead integrate estimation and optimization by fitting the model to directly optimize downstream decision performance. Surprisingly, in the case of contextual linear optimization, we show that the naïve plug-in approach actually achieves regret convergence rates that are significantly faster than methods that directly optimize downstream decision performance. We show this by leveraging the fact that specific problem instances do not have arbitrarily bad near-dual-degeneracy. Although there are other pros and cons to consider as we discuss and illustrate numerically, our results highlight a nuanced landscape for the enterprise to integrate estimation and optimization. Our results are overall positive for practice: predictive models are easy and fast to train using existing tools; simple to interpret; and, as we show, lead to decisions that perform very well.This paper was accepted by Hamid Nazerzadeh, data science.
+AB  - Incorporating side observations in decision making can reduce uncertainty and boost performance, but it also requires that we tackle a potentially complex predictive relationship. Although one may use off-the-shelf machine learning methods to separately learn a predictive model and plug it in, a variety of recent methods instead integrate estimation and optimization by fitting the model to directly optimize downstream decision performance. Surprisingly, in the case of contextual linear optimization, we show that the naïve plug-in approach actually achieves regret convergence rates that are significantly faster than methods that directly optimize downstream decision performance. We show this by leveraging the fact that specific problem instances do not have arbitrarily bad near-dual-degeneracy. Although there are other pros and cons to consider as we discuss and illustrate numerically, our results highlight a nuanced landscape for the enterprise to integrate estimation and optimization. Our results are overall positive for practice: predictive models are easy and fast to train using existing tools; simple to interpret; and, as we show, lead to decisions that perform very well.This paper was accepted by Hamid Nazerzadeh, data science.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4383
+UR  - https://doi.org/10.1287/mnsc.2022.4383
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Implied Ambiguity: Mean-Variance Inefficiency and Pricing Errors
+AU  - Hara, Chiaki
+AU  - Honda, Toshiki
+Y1  - 2021/10/28
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4097
+DO  - 10.1287/mnsc.2021.4097
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4246
+EP  - 4260
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We investigate the optimal portfolio choice problem for an investor who has a utility function of the smooth ambiguity model. We identify necessary and sufficient conditions for a given portfolio to be optimal for such an investor. We define the implied ambiguity of a portfolio as the smallest ambiguity aversion coefficient with which the portfolio is optimal, and the measure of ambiguity perception as the part of the variability in asset returns that can be attributed to the ambiguity. We show that there are one-to-one relations between the implied ambiguity, the Sharpe ratio, and the pricing errors when the portfolio is taken as the pricing portfolio, and that the measure of ambiguity perception is determined by the Sharpe ratio and the alpha. Based on the U.S. stock market data, we assess how ambiguity averse the representative investor is and what types of stocks the investor perceives as having more ambiguous returns than others.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.
+AB  - We investigate the optimal portfolio choice problem for an investor who has a utility function of the smooth ambiguity model. We identify necessary and sufficient conditions for a given portfolio to be optimal for such an investor. We define the implied ambiguity of a portfolio as the smallest ambiguity aversion coefficient with which the portfolio is optimal, and the measure of ambiguity perception as the part of the variability in asset returns that can be attributed to the ambiguity. We show that there are one-to-one relations between the implied ambiguity, the Sharpe ratio, and the pricing errors when the portfolio is taken as the pricing portfolio, and that the measure of ambiguity perception is determined by the Sharpe ratio and the alpha. Based on the U.S. stock market data, we assess how ambiguity averse the representative investor is and what types of stocks the investor perceives as having more ambiguous returns than others.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4097
+UR  - https://doi.org/10.1287/mnsc.2021.4097
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - When to Be Agile: Ratings and Version Updates in Mobile Apps
+AU  - Allon, Gad
+AU  - Askalidis, Georgios
+AU  - Berry, Randall
+AU  - Immorlica, Nicole
+AU  - Moon, Ken
+AU  - Singh, Amandeep
+Y1  - 2021/10/05
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4112
+DO  - 10.1287/mnsc.2021.4112
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4261
+EP  - 4278
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Lean and agile models of product development organize the flexible capacity to rapidly update individual products in response to customer feedback. Although agile operations have been adopted across numerous industries, neither the benefits nor the factors explaining when firms choose to become agile are validated and understood. We study these questions using data on the development of mobile apps, which occurs through the dynamic release of new versions into the mobile app marketplace, and the apps? customer ratings. We develop a structural model estimating the dependence of product versioning on (a) market feedback in the form of customer ratings against (b) project and work-based considerations, such as development timelines, scale economies, and operational constraints. In contrast to when they actually benefit from operational agility, firms become agile when launching riskier products (in terms of uncertainty in initial customer reception) and less agile when they are able to exploit scale economies from coordinating development over a portfolio of apps. Agile operations increase firm payoffs by margins of 20% to 80%, and interestingly, partial agility is often sufficient to capture the bulk of these returns. Finally, turning to a question of marketplace design, we study how the mobile app marketplace should design the display of ratings to incentivize quality (increasing app categories? average user satisfaction rates by as much as 22%).This paper was accepted by Jayashankar Swaminathan, operations management.
+AB  - Lean and agile models of product development organize the flexible capacity to rapidly update individual products in response to customer feedback. Although agile operations have been adopted across numerous industries, neither the benefits nor the factors explaining when firms choose to become agile are validated and understood. We study these questions using data on the development of mobile apps, which occurs through the dynamic release of new versions into the mobile app marketplace, and the apps? customer ratings. We develop a structural model estimating the dependence of product versioning on (a) market feedback in the form of customer ratings against (b) project and work-based considerations, such as development timelines, scale economies, and operational constraints. In contrast to when they actually benefit from operational agility, firms become agile when launching riskier products (in terms of uncertainty in initial customer reception) and less agile when they are able to exploit scale economies from coordinating development over a portfolio of apps. Agile operations increase firm payoffs by margins of 20% to 80%, and interestingly, partial agility is often sufficient to capture the bulk of these returns. Finally, turning to a question of marketplace design, we study how the mobile app marketplace should design the display of ratings to incentivize quality (increasing app categories? average user satisfaction rates by as much as 22%).This paper was accepted by Jayashankar Swaminathan, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4112
+UR  - https://doi.org/10.1287/mnsc.2021.4112
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Consistency as a Means to Comparability: Theory and Evidence
+AU  - Fang, Vivian W.
+AU  - Iselin, Michael
+AU  - Zhang, Gaoqing
+Y1  - 2021/10/26
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4052
+DO  - 10.1287/mnsc.2021.4052
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4279
+EP  - 4300
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - This paper studies financial statement consistency ? the purported means to comparability ? from an information perspective. We model consistency as firms? required propensity to apply common accounting methods to individual transactions and show that consistency creates information spillover through correlated measurements (?spillover channel?) while potentially reducing the informativeness of one?s own report (?standalone channel?). The model generates two central predictions. First, optimal consistency decreases with a transaction?s fundamental correlation as high correlation diminishes information gains via the spillover channel. Second, optimal consistency decreases with a transaction?s fundamental volatility as high volatility exacerbates information losses via the standalone channel. Empirical evidence supports both predictions. Overall, this paper contributes a framework for studying comparability and draws useful policy implications.This paper was accepted by Brian Bushee, accounting.
+AB  - This paper studies financial statement consistency ? the purported means to comparability ? from an information perspective. We model consistency as firms? required propensity to apply common accounting methods to individual transactions and show that consistency creates information spillover through correlated measurements (?spillover channel?) while potentially reducing the informativeness of one?s own report (?standalone channel?). The model generates two central predictions. First, optimal consistency decreases with a transaction?s fundamental correlation as high correlation diminishes information gains via the spillover channel. Second, optimal consistency decreases with a transaction?s fundamental volatility as high volatility exacerbates information losses via the standalone channel. Empirical evidence supports both predictions. Overall, this paper contributes a framework for studying comparability and draws useful policy implications.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4052
+UR  - https://doi.org/10.1287/mnsc.2021.4052
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Investor Sentiment and Paradigm Shifts in Equity Return Forecasting
+AU  - Chu, Liya
+AU  - He, Xue-Zhong
+AU  - Li, Kai
+AU  - Tu, Jun
+Y1  - 2022/04/05
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2020.3834
+DO  - 10.1287/mnsc.2020.3834
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4301
+EP  - 4325
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - This study investigates the impact of investor sentiment on excess equity return forecasting. A high (low) investor sentiment may weaken the connection between fundamental economic (behavioral-based nonfundamental) predictors and market returns. We find that although fundamental variables can be strong predictors when sentiment is low, they tend to lose their predictive power when investor sentiment is high. Nonfundamental predictors perform well during high-sentiment periods while their predictive ability deteriorates when investor sentiment is low. These paradigm shifts in equity return forecasting provide a key to understanding and resolving the lack of predictive power for both fundamental and nonfundamental variables debated in recent studies.This paper was accepted by David Simchi-Levi, finance.
+AB  - This study investigates the impact of investor sentiment on excess equity return forecasting. A high (low) investor sentiment may weaken the connection between fundamental economic (behavioral-based nonfundamental) predictors and market returns. We find that although fundamental variables can be strong predictors when sentiment is low, they tend to lose their predictive power when investor sentiment is high. Nonfundamental predictors perform well during high-sentiment periods while their predictive ability deteriorates when investor sentiment is low. These paradigm shifts in equity return forecasting provide a key to understanding and resolving the lack of predictive power for both fundamental and nonfundamental variables debated in recent studies.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3834
+UR  - https://doi.org/10.1287/mnsc.2020.3834
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Testing the Role of Contextual Deliberation in the Compromise Effect
+AU  - Guo, Liang
+Y1  - 2021/11/30
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4038
+DO  - 10.1287/mnsc.2021.4038
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4326
+EP  - 4355
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Many phenomena of preference construction demonstrate a violation of the rationality premise in classical economic theories. One of the most well-known examples of preference construction is the compromise effect. This puzzling anomaly can be rationalized by contextual deliberation (i.e., endogenous information retrieval/acquisition that can partially resolve utility uncertainty before choice). In this research, we investigate the empirical validity of this explanation by performing falsification tests for its necessary predictions and identifying it from other potential accounts. We conduct five experiments with more than 1,000 participants and show that the compromise effect can be positively mediated by response time and cannot be eliminated by context information, but it can be moderated by manipulating the level of deliberation (i.e., time constraint, preference articulation, task order). These findings are consistent with the predictions of the theory of contextual deliberation. We also show that, on average, contextual deliberation (as proxied by response time) can uniquely account for about half of the total compromise effect.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - Many phenomena of preference construction demonstrate a violation of the rationality premise in classical economic theories. One of the most well-known examples of preference construction is the compromise effect. This puzzling anomaly can be rationalized by contextual deliberation (i.e., endogenous information retrieval/acquisition that can partially resolve utility uncertainty before choice). In this research, we investigate the empirical validity of this explanation by performing falsification tests for its necessary predictions and identifying it from other potential accounts. We conduct five experiments with more than 1,000 participants and show that the compromise effect can be positively mediated by response time and cannot be eliminated by context information, but it can be moderated by manipulating the level of deliberation (i.e., time constraint, preference articulation, task order). These findings are consistent with the predictions of the theory of contextual deliberation. We also show that, on average, contextual deliberation (as proxied by response time) can uniquely account for about half of the total compromise effect.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4038
+UR  - https://doi.org/10.1287/mnsc.2021.4038
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Hedging on the Hill: Does Political Hedging Reduce Firm Risk?
+AU  - Christensen, Dane M.
+AU  - Jin, Hengda
+AU  - Sridharan, Suhas A.
+AU  - Wellman, Laura A.
+Y1  - 2021/11/22
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4050
+DO  - 10.1287/mnsc.2021.4050
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4356
+EP  - 4379
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We examine whether firms? political hedging activities are effective at mitigating political risk. Focusing on the risk induced by partisan politics, we measure political hedging as the degree to which firms? political connections are balanced across Republican and Democratic candidates. We find that greater political hedging is associated with reduced stock return volatility, particularly during periods of higher policy uncertainty. Similarly, greater political hedging is associated with reduced crash risk, investment volatility, and earnings volatility. Moreover, the reduction in earnings volatility appears to relate to both a firm?s taxes and its operating activities, as we find that greater political hedging is associated with reduced cash effective tax rate volatility and pretax income volatility. We further find investors are better able to anticipate future earnings for firms that engage in political hedging, suggesting that political hedging helps improve firms? information environments. Lastly, we perform an event study using President Obama?s Clean Power Plan. We find that on the days this policy proposal was debated in Congress, energy and utility firms experienced heightened intraday return volatility (relative to other firms and nonevent days). However, this heightened volatility is mitigated for energy and utility firms that are more politically hedged. Overall, we conclude that political hedging is an effective risk management tool that helps mitigate firm risk.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - We examine whether firms? political hedging activities are effective at mitigating political risk. Focusing on the risk induced by partisan politics, we measure political hedging as the degree to which firms? political connections are balanced across Republican and Democratic candidates. We find that greater political hedging is associated with reduced stock return volatility, particularly during periods of higher policy uncertainty. Similarly, greater political hedging is associated with reduced crash risk, investment volatility, and earnings volatility. Moreover, the reduction in earnings volatility appears to relate to both a firm?s taxes and its operating activities, as we find that greater political hedging is associated with reduced cash effective tax rate volatility and pretax income volatility. We further find investors are better able to anticipate future earnings for firms that engage in political hedging, suggesting that political hedging helps improve firms? information environments. Lastly, we perform an event study using President Obama?s Clean Power Plan. We find that on the days this policy proposal was debated in Congress, energy and utility firms experienced heightened intraday return volatility (relative to other firms and nonevent days). However, this heightened volatility is mitigated for energy and utility firms that are more politically hedged. Overall, we conclude that political hedging is an effective risk management tool that helps mitigate firm risk.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4050
+UR  - https://doi.org/10.1287/mnsc.2021.4050
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Chasing Diamonds and Crowns: Consumer Limited Attention and Seller Response
+AU  - Zhong, Zemin (Zachary)
+Y1  - 2021/09/20
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4060
+DO  - 10.1287/mnsc.2021.4060
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4380
+EP  - 4397
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Online platforms often assign sellers summary symbols based on whether their ratings pass certain thresholds. Consumers may focus on the symbols and pay limited attention to the ratings. This bias leads to discontinuously increased demand at the thresholds. I use a theoretical model to illustrate that sellers will lower the prices before their ratings reach the thresholds and increase their prices afterward due to the positive demand shock. I collect data from Taobao to test the theoretical predictions. Using regression discontinuity, I find that on the demand side, the hourly sales increase significantly when a seller passes the threshold, even conditional on the same item. On the supply side, the prices indeed exhibit a V-shaped pattern with respect to the ratings. Furthermore, sellers preemptively increase prices shortly before reaching thresholds, supporting the theoretical predictions.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - Online platforms often assign sellers summary symbols based on whether their ratings pass certain thresholds. Consumers may focus on the symbols and pay limited attention to the ratings. This bias leads to discontinuously increased demand at the thresholds. I use a theoretical model to illustrate that sellers will lower the prices before their ratings reach the thresholds and increase their prices afterward due to the positive demand shock. I collect data from Taobao to test the theoretical predictions. Using regression discontinuity, I find that on the demand side, the hourly sales increase significantly when a seller passes the threshold, even conditional on the same item. On the supply side, the prices indeed exhibit a V-shaped pattern with respect to the ratings. Furthermore, sellers preemptively increase prices shortly before reaching thresholds, supporting the theoretical predictions.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4060
+UR  - https://doi.org/10.1287/mnsc.2021.4060
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Managerial Regret and Inventory Pricing
+AU  - Li, Meng
+AU  - Liu, Yan
+Y1  - 2022/02/08
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4073
+DO  - 10.1287/mnsc.2021.4073
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4398
+EP  - 4414
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - In this paper, we study a regretful seller?s problem of selling a fixed number of goods over a finite and known time horizon. The seller engages in counterfactual thinking to compare her selected price with other forgone alternatives. If a forgone alternative (ex post) generates a better outcome than the selected one, then the seller experiences regret. We characterize the pricing decision of a regretful seller and find that, although regret leads the seller to set a price that is lower than that set by an unbiased seller, the regretful seller employs decision policies whose structure is similar to those of the unbiased seller: the price decreases with the remaining inventory and increases with the time-to-go. Interestingly, we find that the seller who has a greater number of goods does not necessarily receive greater revenue.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.
+AB  - In this paper, we study a regretful seller?s problem of selling a fixed number of goods over a finite and known time horizon. The seller engages in counterfactual thinking to compare her selected price with other forgone alternatives. If a forgone alternative (ex post) generates a better outcome than the selected one, then the seller experiences regret. We characterize the pricing decision of a regretful seller and find that, although regret leads the seller to set a price that is lower than that set by an unbiased seller, the regretful seller employs decision policies whose structure is similar to those of the unbiased seller: the price decreases with the remaining inventory and increases with the time-to-go. Interestingly, we find that the seller who has a greater number of goods does not necessarily receive greater revenue.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4073
+UR  - https://doi.org/10.1287/mnsc.2021.4073
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Quality Regulation on Two-Sided Platforms: Exclusion, Subsidization, and First-Party Applications
+AU  - Huang, Peng
+AU  - Lyu, Gaoyan
+AU  - Xu, Yi
+Y1  - 2021/10/28
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4075
+DO  - 10.1287/mnsc.2021.4075
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4415
+EP  - 4434
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Managing the quality of complementary applications is vital to the success of a two-sided platform. While prior research has focused solely on restricting platform access based on a quality threshold, we compare three quality regulation strategies: (1) the platform excludes access to low-quality complementors, (2) it provides a fixed amount of subsidy to high-quality complementors, and (3) it develops its own high-quality applications in addition to those from third-party complementors. Our analyses reveal that the widely adopted exclusion strategy is a special case of the subsidization strategy, and it does not always benefit the platform. In contrast, both subsidization and first-party applications strategies render the platform owner better off, with higher profits, higher average quality, and a larger consumer network, but only subsidization always improves social welfare. In addition, the trade-off between subsidization and first-party applications strategies depends on the development cost of first-party applications and the fraction of high-quality complementors, but the relationship is not monotonic. Our results demonstrate that the platform does not have to sacrifice application quantity for higher application quality. With the right choices, it can profitably improve both measures simultaneously. This research provides concrete guidelines to help platform managers make decisions about regulating the quality of complementary applications.This paper was accepted by Anandhi Bharadwaj, information systems.
+AB  - Managing the quality of complementary applications is vital to the success of a two-sided platform. While prior research has focused solely on restricting platform access based on a quality threshold, we compare three quality regulation strategies: (1) the platform excludes access to low-quality complementors, (2) it provides a fixed amount of subsidy to high-quality complementors, and (3) it develops its own high-quality applications in addition to those from third-party complementors. Our analyses reveal that the widely adopted exclusion strategy is a special case of the subsidization strategy, and it does not always benefit the platform. In contrast, both subsidization and first-party applications strategies render the platform owner better off, with higher profits, higher average quality, and a larger consumer network, but only subsidization always improves social welfare. In addition, the trade-off between subsidization and first-party applications strategies depends on the development cost of first-party applications and the fraction of high-quality complementors, but the relationship is not monotonic. Our results demonstrate that the platform does not have to sacrifice application quantity for higher application quality. With the right choices, it can profitably improve both measures simultaneously. This research provides concrete guidelines to help platform managers make decisions about regulating the quality of complementary applications.This paper was accepted by Anandhi Bharadwaj, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4075
+UR  - https://doi.org/10.1287/mnsc.2021.4075
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Language Commonality and Sell-Side Information Production
+AU  - Zhang, Ruishen
+Y1  - 2021/08/26
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4059
+DO  - 10.1287/mnsc.2021.4059
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4435
+EP  - 4453
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - I study the effects of language commonality (i.e., sharing a native language) on information production in financial markets. Using a hand-collected data set on the prevalent dialects for 2,091 cities (counties) in China, I identify the effects of language commonality separately from those of shared hometown and geographic proximity. In in-sample tests, language commonality between analysts and CEOs increases the return of trading on analysts? recommendations by 5.5%. The results mainly stem from less intelligible dialects. Broadly speaking, language commonality can alleviate communication frictions when nonnative languages are used in professional settings.This paper was accepted by Gustavo Manso, finance.
+AB  - I study the effects of language commonality (i.e., sharing a native language) on information production in financial markets. Using a hand-collected data set on the prevalent dialects for 2,091 cities (counties) in China, I identify the effects of language commonality separately from those of shared hometown and geographic proximity. In in-sample tests, language commonality between analysts and CEOs increases the return of trading on analysts? recommendations by 5.5%. The results mainly stem from less intelligible dialects. Broadly speaking, language commonality can alleviate communication frictions when nonnative languages are used in professional settings.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4059
+UR  - https://doi.org/10.1287/mnsc.2021.4059
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Value of Price Discrimination in Large Social Networks
+AU  - Huang, Jiali
+AU  - Mani, Ankur
+AU  - Wang, Zizhuo
+Y1  - 2021/11/08
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4108
+DO  - 10.1287/mnsc.2021.4108
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4454
+EP  - 4477
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We study the value of price discrimination in large social networks. Recent trends in industry suggest that, increasingly, firms are using information about social network to offer personalized prices to individuals based upon their positions in the social network. In the presence of positive network externalities, firms aim to increase their profits by offering discounts to influential individuals that can stimulate consumption by other individuals at a higher price. However, the lack of transparency in discriminative pricing may reduce consumer satisfaction and create mistrust. Recent research focuses on the computation of optimal prices in deterministic networks under positive externalities. We want to answer the question of how valuable such discriminative pricing is. We find, surprisingly, that the value of such pricing policies (increase in profits resulting from price discrimination) in very large random networks are often not significant. Particularly, for Erdös?Renyi random networks, we provide the exact rates at which this value decays in the size of the networks for different ranges of network densities. Our results show that there is a nonnegligible value of price discrimination for a small class of moderate-sized Erdös?Renyi random networks. We also present a framework to obtain bounds on the value of price discrimination for random networks with general degree distributions and apply the framework to obtain bounds on the value of price discrimination in power-law networks. Our numerical experiments demonstrate our results and suggest that our results are robust to changes in the model of network externalities.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - We study the value of price discrimination in large social networks. Recent trends in industry suggest that, increasingly, firms are using information about social network to offer personalized prices to individuals based upon their positions in the social network. In the presence of positive network externalities, firms aim to increase their profits by offering discounts to influential individuals that can stimulate consumption by other individuals at a higher price. However, the lack of transparency in discriminative pricing may reduce consumer satisfaction and create mistrust. Recent research focuses on the computation of optimal prices in deterministic networks under positive externalities. We want to answer the question of how valuable such discriminative pricing is. We find, surprisingly, that the value of such pricing policies (increase in profits resulting from price discrimination) in very large random networks are often not significant. Particularly, for Erdös?Renyi random networks, we provide the exact rates at which this value decays in the size of the networks for different ranges of network densities. Our results show that there is a nonnegligible value of price discrimination for a small class of moderate-sized Erdös?Renyi random networks. We also present a framework to obtain bounds on the value of price discrimination for random networks with general degree distributions and apply the framework to obtain bounds on the value of price discrimination in power-law networks. Our numerical experiments demonstrate our results and suggest that our results are robust to changes in the model of network externalities.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4108
+UR  - https://doi.org/10.1287/mnsc.2021.4108
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Conservatism Gets Funded? A Field Experiment on the Role of Negative Information in Novel Project Evaluation
+AU  - Lane, Jacqueline N.
+AU  - Teplitskiy, Misha
+AU  - Gray, Gary
+AU  - Ranu, Hardeep
+AU  - Menietti, Michael
+AU  - Guinan, Eva C.
+AU  - Lakhani, Karim R.
+Y1  - 2021/10/28
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4107
+DO  - 10.1287/mnsc.2021.4107
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4478
+EP  - 4495
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - The evaluation and selection of novel projects lies at the heart of scientific and technological innovation, and yet there are persistent concerns about bias, such as conservatism. This paper investigates the role that the format of evaluation, specifically information sharing among expert evaluators, plays in generating conservative decisions. We executed two field experiments in two separate grant-funding opportunities at a leading research university, mobilizing 369 evaluators from seven universities to evaluate 97 projects, resulting in 761 proposal-evaluation pairs and more than $250,000 in awards. We exogenously varied the relative valence (positive and negative) of others? scores and measured how exposures to higher and lower scores affect the focal evaluator?s propensity to change their initial score. We found causal evidence of a negativity bias, where evaluators lower their scores by more points after seeing scores more critical than their own rather than raise them after seeing more favorable scores. Qualitative coding of the evaluators? justifications for score changes reveals that exposures to lower scores were associated with greater attention to uncovering weaknesses, whereas exposures to neutral or higher scores were associated with increased emphasis on nonevaluation criteria, such as confidence in one?s judgment. The greater power of negative information suggests that information sharing among expert evaluators can lead to more conservative allocation decisions that favor protecting against failure rather than maximizing success.This paper was accepted by Alfonso Gambardella, business strategy.
+AB  - The evaluation and selection of novel projects lies at the heart of scientific and technological innovation, and yet there are persistent concerns about bias, such as conservatism. This paper investigates the role that the format of evaluation, specifically information sharing among expert evaluators, plays in generating conservative decisions. We executed two field experiments in two separate grant-funding opportunities at a leading research university, mobilizing 369 evaluators from seven universities to evaluate 97 projects, resulting in 761 proposal-evaluation pairs and more than $250,000 in awards. We exogenously varied the relative valence (positive and negative) of others? scores and measured how exposures to higher and lower scores affect the focal evaluator?s propensity to change their initial score. We found causal evidence of a negativity bias, where evaluators lower their scores by more points after seeing scores more critical than their own rather than raise them after seeing more favorable scores. Qualitative coding of the evaluators? justifications for score changes reveals that exposures to lower scores were associated with greater attention to uncovering weaknesses, whereas exposures to neutral or higher scores were associated with increased emphasis on nonevaluation criteria, such as confidence in one?s judgment. The greater power of negative information suggests that information sharing among expert evaluators can lead to more conservative allocation decisions that favor protecting against failure rather than maximizing success.This paper was accepted by Alfonso Gambardella, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4107
+UR  - https://doi.org/10.1287/mnsc.2021.4107
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Morale and Debt Dynamics
+AU  - Barron, Daniel
+AU  - Li, Jin
+AU  - Zator, Michał
+Y1  - 2021/11/19
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4118
+DO  - 10.1287/mnsc.2021.4118
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4496
+EP  - 4516
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - This paper shows that debt undermines relational incentives and harms worker morale. We build a dynamic model of a manager who uses limited financial resources to simultaneously repay a creditor and motivate a worker. If the manager can divert or misuse revenue, then debt makes the manager less willing to follow through on promised rewards, leading to low worker effort. In profit-maximizing equilibria, the firm prioritizes repaying its debts, leading to gradual increases in effort and wages. These dynamics can persist even after debts have been fully repaid. Consistent with this analysis, we document that a firm?s financial leverage is negatively related to measures of employee morale, wages, and productivity.This paper was accepted by Joshua Gans, business strategy.
+AB  - This paper shows that debt undermines relational incentives and harms worker morale. We build a dynamic model of a manager who uses limited financial resources to simultaneously repay a creditor and motivate a worker. If the manager can divert or misuse revenue, then debt makes the manager less willing to follow through on promised rewards, leading to low worker effort. In profit-maximizing equilibria, the firm prioritizes repaying its debts, leading to gradual increases in effort and wages. These dynamics can persist even after debts have been fully repaid. Consistent with this analysis, we document that a firm?s financial leverage is negatively related to measures of employee morale, wages, and productivity.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4118
+UR  - https://doi.org/10.1287/mnsc.2021.4118
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Customization and Returns
+AU  - Esenduran, Gökçe
+AU  - Letizia, Paolo
+AU  - Ovchinnikov, Anton
+Y1  - 2022/03/29
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2022.4305
+DO  - 10.1287/mnsc.2022.4305
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4517
+EP  - 4526
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Recent advances in information technology, advanced manufacturing (robotics, 3D printing, etc.), and logistics have allowed firms to customize their products to the specifications of individual consumers, who, in turn, prefer these products to standard ones. In the unlikely event that customized products do not match expectations, however, consumers often feel entitled to a return. Should firms offer returns on customized products? We examine this question via a Stackelberg game model, in which the firm (leader) decides the prices and returns policies for its customized and standard products; consumers (followers) decide which product to buy, given the initial noisy valuations and, upon experiencing the product, whether to return it. Both parties act strategically: Forward-looking consumers incorporate the real option value of possible returns into their initial purchasing decisions, and the firm incorporates consumers? best purchase and return response into its pricing and returns policy decisions. Our model produces three key insights. First, firms can use customized products to induce some consumers who otherwise would buy and return a standard product to switch to lower-return-rate customized products. Second, it may be optimal to offer returns on customized products, despite their lower salvage value. Third, firms can increase profits and reduce (total) returns by offering returnable customized products.This paper was accepted by Duncan Simester, marketing.
+AB  - Recent advances in information technology, advanced manufacturing (robotics, 3D printing, etc.), and logistics have allowed firms to customize their products to the specifications of individual consumers, who, in turn, prefer these products to standard ones. In the unlikely event that customized products do not match expectations, however, consumers often feel entitled to a return. Should firms offer returns on customized products? We examine this question via a Stackelberg game model, in which the firm (leader) decides the prices and returns policies for its customized and standard products; consumers (followers) decide which product to buy, given the initial noisy valuations and, upon experiencing the product, whether to return it. Both parties act strategically: Forward-looking consumers incorporate the real option value of possible returns into their initial purchasing decisions, and the firm incorporates consumers? best purchase and return response into its pricing and returns policy decisions. Our model produces three key insights. First, firms can use customized products to induce some consumers who otherwise would buy and return a standard product to switch to lower-return-rate customized products. Second, it may be optimal to offer returns on customized products, despite their lower salvage value. Third, firms can increase profits and reduce (total) returns by offering returnable customized products.This paper was accepted by Duncan Simester, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4305
+UR  - https://doi.org/10.1287/mnsc.2022.4305
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Robust Test of Prejudice for Discrimination Experiments
+AU  - Martin, Daniel
+AU  - Marx, Philip
+Y1  - 2022/03/30
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2022.4396
+DO  - 10.1287/mnsc.2022.4396
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4527
+EP  - 4536
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - A large experimental literature is devoted to studying discrimination. An important question for policymakers and firms is what drives the discrimination uncovered by those experiments. However, motivations are hard to determine when decision makers pay selective attention to information because their learning is private. We overcome this challenge by deriving conditions on average outcomes that reveal decision makers are prejudiced no matter what they learn about individuals in each demographic group before making their decisions. This provides a test of prejudice that is general, simple, and robust and that can potentially be used to identify prejudice in a wide range of important settings, such as hiring, consumer lending, and housing access. We demonstrate our test of prejudice using two influential labor market experiments.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - A large experimental literature is devoted to studying discrimination. An important question for policymakers and firms is what drives the discrimination uncovered by those experiments. However, motivations are hard to determine when decision makers pay selective attention to information because their learning is private. We overcome this challenge by deriving conditions on average outcomes that reveal decision makers are prejudiced no matter what they learn about individuals in each demographic group before making their decisions. This provides a test of prejudice that is general, simple, and robust and that can potentially be used to identify prejudice in a wide range of important settings, such as hiring, consumer lending, and housing access. We demonstrate our test of prejudice using two influential labor market experiments.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4396
+UR  - https://doi.org/10.1287/mnsc.2022.4396
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Self-Interested Giving: The Relationship Between Conditional Gifts, Charitable Donations, and Donor Self-Interestedness
+AU  - Chao, Matthew
+AU  - Fisher, Geoffrey
+Y1  - 2021/09/20
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4039
+DO  - 10.1287/mnsc.2021.4039
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4537
+EP  - 4567
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Nonprofits regularly use conditional ?thank you? gifts to entice prospective donors to give, yet experimental evidence suggests that their effects are mixed in practice. This paper uses multiple laboratory experiments to test when and why thank you gifts vary in effectiveness. First, we demonstrate that although gifts often increase donations to charities that donors did not rate highly, many of the same gifts had no effects or negative effects for charities that prospective donors already liked. We replicate these findings in a second experiment that uses a different range of charity and gift options as well as different measures of participant perceptions of a charity. We also find that making gifts optional, as is common in fundraising campaigns, does not eliminate these negative gift effects. In additional experiments, we directly test for donor motives using self-report and priming experiments. We find that thank you gifts increase (decrease) the weight that donors place on self-interested (prosocial) motives, leading to changes in donation patterns. Altogether, our results suggest that practitioners may find gifts more useful when appealing to donors not already familiar with or favorably inclined to their charity, such as during donor acquisition campaigns. They may be less useful when appealing to recent donors or others who already favor the charity, in part because the gift may activate mindsets or norms that emphasize self-interested motives instead of more prosocial, other-regarding motives.This paper was accepted by Yan Chen, decision analysis.
+AB  - Nonprofits regularly use conditional ?thank you? gifts to entice prospective donors to give, yet experimental evidence suggests that their effects are mixed in practice. This paper uses multiple laboratory experiments to test when and why thank you gifts vary in effectiveness. First, we demonstrate that although gifts often increase donations to charities that donors did not rate highly, many of the same gifts had no effects or negative effects for charities that prospective donors already liked. We replicate these findings in a second experiment that uses a different range of charity and gift options as well as different measures of participant perceptions of a charity. We also find that making gifts optional, as is common in fundraising campaigns, does not eliminate these negative gift effects. In additional experiments, we directly test for donor motives using self-report and priming experiments. We find that thank you gifts increase (decrease) the weight that donors place on self-interested (prosocial) motives, leading to changes in donation patterns. Altogether, our results suggest that practitioners may find gifts more useful when appealing to donors not already familiar with or favorably inclined to their charity, such as during donor acquisition campaigns. They may be less useful when appealing to recent donors or others who already favor the charity, in part because the gift may activate mindsets or norms that emphasize self-interested motives instead of more prosocial, other-regarding motives.This paper was accepted by Yan Chen, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4039
+UR  - https://doi.org/10.1287/mnsc.2021.4039
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Does Deleveraging Affect Funding Market Liquidity?
+AU  - Qiu, Buhui
+AU  - Tian, Gary Gang
+AU  - Zeng, Haijian
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4070
+DO  - 10.1287/mnsc.2021.4070
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4568
+EP  - 4601
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - How does deleveraging affect the market liquidity of high-embedded-leverage securities issued by financial institutions and the funding constraints of these institutions? We use the forced deleveraging of structured mutual funds during the 2015 Chinese stock market crash to study the effects of deleveraging. Our regression-discontinuity analysis shows that deleveraging significantly reduces the market liquidity of the deleveraging funds? equity units. Moreover, our difference-in-differences analysis shows that deleveraging results in large decreases in subsequent fund flows, stock and cash holdings, and performance, with the impact channeled through the deterioration of the market liquidity of the fund?s equity units.This paper was accepted by Victoria Ivashina, finance.
+AB  - How does deleveraging affect the market liquidity of high-embedded-leverage securities issued by financial institutions and the funding constraints of these institutions? We use the forced deleveraging of structured mutual funds during the 2015 Chinese stock market crash to study the effects of deleveraging. Our regression-discontinuity analysis shows that deleveraging significantly reduces the market liquidity of the deleveraging funds? equity units. Moreover, our difference-in-differences analysis shows that deleveraging results in large decreases in subsequent fund flows, stock and cash holdings, and performance, with the impact channeled through the deterioration of the market liquidity of the fund?s equity units.This paper was accepted by Victoria Ivashina, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4070
+UR  - https://doi.org/10.1287/mnsc.2021.4070
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Structural Model of a Multitasking Salesforce: Incentives, Private Information, and Job Design
+AU  - Kim, Minkyung
+AU  - Sudhir, K.
+AU  - Uetake, Kosuke
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4079
+DO  - 10.1287/mnsc.2021.4079
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4602
+EP  - 4630
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - This paper broadens the focus of empirical research on salesforce management to include multitasking settings with multidimensional incentives, where salespeople have private information about customers. This allows us to ask novel substantive questions around multidimensional incentive design and job design while managing the costs and benefits of private information. To this end, the paper introduces the first structural model of a multitasking salesforce in response to multidimensional incentives. The model also accommodates (i) dynamic intertemporal tradeoffs in effort choice across the tasks and (ii) salesperson?s private information about customers. We apply our model in a rich empirical setting in microfinance and illustrate how to address various identification and estimation challenges. We extend two-step estimation methods used for unidimensional compensation plans by embedding a flexible machine learning (random forest) model in the first-stage multitasking policy function estimation within an iterative procedure that accounts for salesperson heterogeneity and private information. Estimates reveal two latent segments of salespeople?a hunter segment that is more efficient in loan acquisition and a farmer segment that is more efficient in loan collection. Counterfactuals reveal heterogeneous effects: hunters? private information hurts the firm as they engage in adverse selection; farmers? private information helps the firm as they use it to better collect loans. The payoff complementarity induced by multiplicative incentive aggregation softens adverse specialization by hunters relative to additive aggregation but hurts performance among farmers. Overall, task specialization in job design for hunters (acquisition) and farmers (collection) hurts the firm as adverse selection harm overwhelms efficiency gain.This paper was accepted by Duncan Simester, marketing.
+AB  - This paper broadens the focus of empirical research on salesforce management to include multitasking settings with multidimensional incentives, where salespeople have private information about customers. This allows us to ask novel substantive questions around multidimensional incentive design and job design while managing the costs and benefits of private information. To this end, the paper introduces the first structural model of a multitasking salesforce in response to multidimensional incentives. The model also accommodates (i) dynamic intertemporal tradeoffs in effort choice across the tasks and (ii) salesperson?s private information about customers. We apply our model in a rich empirical setting in microfinance and illustrate how to address various identification and estimation challenges. We extend two-step estimation methods used for unidimensional compensation plans by embedding a flexible machine learning (random forest) model in the first-stage multitasking policy function estimation within an iterative procedure that accounts for salesperson heterogeneity and private information. Estimates reveal two latent segments of salespeople?a hunter segment that is more efficient in loan acquisition and a farmer segment that is more efficient in loan collection. Counterfactuals reveal heterogeneous effects: hunters? private information hurts the firm as they engage in adverse selection; farmers? private information helps the firm as they use it to better collect loans. The payoff complementarity induced by multiplicative incentive aggregation softens adverse specialization by hunters relative to additive aggregation but hurts performance among farmers. Overall, task specialization in job design for hunters (acquisition) and farmers (collection) hurts the firm as adverse selection harm overwhelms efficiency gain.This paper was accepted by Duncan Simester, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4079
+UR  - https://doi.org/10.1287/mnsc.2021.4079
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Investment Strategies for Sourcing a New Technology in the Presence of a Mature Technology
+AU  - Zhang, Wei
+AU  - Lee, Hsiao-Hui
+Y1  - 2021/09/08
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4078
+DO  - 10.1287/mnsc.2021.4078
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4631
+EP  - 4644
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - To stay competitive, high-technology manufacturers not only frequently source new technologies from their suppliers, but also financially support the development of these new technologies into component products or production tools. We consider a manufacturer that can either source a new but immature technology from a financially constrained supplier, or source a mature technology from an existing supplier if and only if the development of the new technology fails. To support the new technology, the manufacturer can choose to inject capital in the form of an equity or loan. The investment strategy not only affects the new supplier?s development effort and the probability of technical success (PTS), but also affects the existing supplier?s effort to improve the mature technology, which presents the manufacturer with a trade-off. Following the debt financing literature, we find that a loan contract is associated with a cost-shifting effect and often leads to a higher PTS. However, because the manufacturer not only maintains an investment but also a procurement relationship with the new supplier, we find a profit-sharing effect associated with an equity investment, which does not exist in the traditional equity issuance literature. In particular, we show that the profit-sharing effect can dominate the cost-shifting effect and lead to a higher PTS when the new supplier?s technological capability is sufficiently high. Nonetheless, we also show that the strategy that derives a higher PTS does not necessarily generate a higher payoff for the manufacturer. On the one hand, a loan can be preferred even when it leads to a lower PTS because the cost-shifting effect allows the manufacturer to offer a sufficiently low procurement payment while maintaining a sufficiently high PTS. On the other hand, when the existing supplier is very capable of reducing its costs, a loan can over-incentivize the new supplier to exert excessive effort and backfire.This paper was accepted by Charles Corbett, operations management.
+AB  - To stay competitive, high-technology manufacturers not only frequently source new technologies from their suppliers, but also financially support the development of these new technologies into component products or production tools. We consider a manufacturer that can either source a new but immature technology from a financially constrained supplier, or source a mature technology from an existing supplier if and only if the development of the new technology fails. To support the new technology, the manufacturer can choose to inject capital in the form of an equity or loan. The investment strategy not only affects the new supplier?s development effort and the probability of technical success (PTS), but also affects the existing supplier?s effort to improve the mature technology, which presents the manufacturer with a trade-off. Following the debt financing literature, we find that a loan contract is associated with a cost-shifting effect and often leads to a higher PTS. However, because the manufacturer not only maintains an investment but also a procurement relationship with the new supplier, we find a profit-sharing effect associated with an equity investment, which does not exist in the traditional equity issuance literature. In particular, we show that the profit-sharing effect can dominate the cost-shifting effect and lead to a higher PTS when the new supplier?s technological capability is sufficiently high. Nonetheless, we also show that the strategy that derives a higher PTS does not necessarily generate a higher payoff for the manufacturer. On the one hand, a loan can be preferred even when it leads to a lower PTS because the cost-shifting effect allows the manufacturer to offer a sufficiently low procurement payment while maintaining a sufficiently high PTS. On the other hand, when the existing supplier is very capable of reducing its costs, a loan can over-incentivize the new supplier to exert excessive effort and backfire.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4078
+UR  - https://doi.org/10.1287/mnsc.2021.4078
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Frenemies: Corporate Advertising Under Common Ownership
+AU  - Lu, Ruichang
+AU  - Shen, Qiaowei
+AU  - Wang, Tenghui
+AU  - Zhang, Xiaojun
+Y1  - 2021/11/08
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4098
+DO  - 10.1287/mnsc.2021.4098
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4645
+EP  - 4669
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - In this paper, we investigate the impact of ownership structure on corporate advertising expenditures. Using mutual fund mergers as an exogenous shock to ownership structure, we find that competing firms owned by the same institutional blockholders experience a significant reduction in advertising expenditure. The reduction in advertising expenditure is more likely to occur in the presence of higher coordination benefits or lower coordination costs. Specifically, this effect is more pronounced for firms in more competitive industries, in higher advertising-intensity industries, with greater common ownership, with more concentrated institutional ownership, and with headquarters located in the same state. Overall, our empirical evidence indicates that ownership by common institutional investors significantly affects corporate advertising strategy.This paper was accepted by Matthew Shum, marketing.
+AB  - In this paper, we investigate the impact of ownership structure on corporate advertising expenditures. Using mutual fund mergers as an exogenous shock to ownership structure, we find that competing firms owned by the same institutional blockholders experience a significant reduction in advertising expenditure. The reduction in advertising expenditure is more likely to occur in the presence of higher coordination benefits or lower coordination costs. Specifically, this effect is more pronounced for firms in more competitive industries, in higher advertising-intensity industries, with greater common ownership, with more concentrated institutional ownership, and with headquarters located in the same state. Overall, our empirical evidence indicates that ownership by common institutional investors significantly affects corporate advertising strategy.This paper was accepted by Matthew Shum, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4098
+UR  - https://doi.org/10.1287/mnsc.2021.4098
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - No Magic for Market Entry in the Field: Evidence from Taxi Markets
+AU  - Xia, Xiaoyu
+AU  - Chong, Juin Kuan
+Y1  - 2021/09/28
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4099
+DO  - 10.1287/mnsc.2021.4099
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4670
+EP  - 4684
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We study taxi markets in Singapore to understand market entry in the field. Although market-entry games in the laboratory consistently produce equilibrium outcomes, we show that a lack of market knowledge hinders the markets from consistently reaching equilibrium in the field. In Singapore, a small, 720-square-kilometre island city that can be divided into 29 taxi markets, full equilibrium is elusive: 68% of the market-entry decisions made by the 2,728 taxi drivers in our data could be improved. Using three months of earnings and detailed movement data from these taxi drivers, we find an average 20% gap in marginal wage rates across markets. We use dynamic programming to derive the optimal solution for more than 3 million search decisions and find that only 32% of the searches ended in an optimal market. Finally, we find that market knowledge developed in a given month explains an additional 3% variation of the earning losses in the 2.6 million decisions for the subsequent two months, an improvement in model fit of 74%, whereas strategic thinking and minimization risk have no impact on earning loss.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - We study taxi markets in Singapore to understand market entry in the field. Although market-entry games in the laboratory consistently produce equilibrium outcomes, we show that a lack of market knowledge hinders the markets from consistently reaching equilibrium in the field. In Singapore, a small, 720-square-kilometre island city that can be divided into 29 taxi markets, full equilibrium is elusive: 68% of the market-entry decisions made by the 2,728 taxi drivers in our data could be improved. Using three months of earnings and detailed movement data from these taxi drivers, we find an average 20% gap in marginal wage rates across markets. We use dynamic programming to derive the optimal solution for more than 3 million search decisions and find that only 32% of the searches ended in an optimal market. Finally, we find that market knowledge developed in a given month explains an additional 3% variation of the earning losses in the 2.6 million decisions for the subsequent two months, an improvement in model fit of 74%, whereas strategic thinking and minimization risk have no impact on earning loss.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4099
+UR  - https://doi.org/10.1287/mnsc.2021.4099
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - From Noise to Bias: Overconfidence in New Product Forecasting
+AU  - Feiler, Daniel
+AU  - Tong, Jordan
+Y1  - 2021/11/05
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4102
+DO  - 10.1287/mnsc.2021.4102
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4685
+EP  - 4702
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We study decision behavior in the selection, forecasting, and production for a new product. In a stylized behavioral model and five experiments, we generate new insight into when and why this combination of tasks can lead to overconfidence (specifically, overestimating the demand). We theorize that cognitive limitations lead to noisy interpretations of signal information, which itself is noisy. Because people are statistically naive, they directly use their noisy interpretation of the signal information as their forecast, thereby underaccounting for the uncertainty that underlies it. This process leads to unbiased forecast errors when considering products in isolation, but leads to positively biased forecasts for the products people choose to launch due to a selection effect. We show that this selection-driven overconfidence can be sufficiently problematic that, under certain conditions, choosing the product randomly can actually yield higher profits than when individuals themselves choose the product to launch. We provide mechanism evidence by manipulating the interpretation noise through information complexity?showing that even when the information is equivalent from a Bayesian perspective, more complicated information leads to more noise, which, in turn, leads to more overconfidence in the chosen products. Finally, we leverage this insight to show that getting a second independent forecast for a chosen product can significantly mitigate the overconfidence problem, even when both individuals have the same information.This paper was accepted by Charles Corbett, operations management.
+AB  - We study decision behavior in the selection, forecasting, and production for a new product. In a stylized behavioral model and five experiments, we generate new insight into when and why this combination of tasks can lead to overconfidence (specifically, overestimating the demand). We theorize that cognitive limitations lead to noisy interpretations of signal information, which itself is noisy. Because people are statistically naive, they directly use their noisy interpretation of the signal information as their forecast, thereby underaccounting for the uncertainty that underlies it. This process leads to unbiased forecast errors when considering products in isolation, but leads to positively biased forecasts for the products people choose to launch due to a selection effect. We show that this selection-driven overconfidence can be sufficiently problematic that, under certain conditions, choosing the product randomly can actually yield higher profits than when individuals themselves choose the product to launch. We provide mechanism evidence by manipulating the interpretation noise through information complexity?showing that even when the information is equivalent from a Bayesian perspective, more complicated information leads to more noise, which, in turn, leads to more overconfidence in the chosen products. Finally, we leverage this insight to show that getting a second independent forecast for a chosen product can significantly mitigate the overconfidence problem, even when both individuals have the same information.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4102
+UR  - https://doi.org/10.1287/mnsc.2021.4102
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Ad Blocking
+AU  - Gritckevich, Aleksandr
+AU  - Katona, Zsolt
+AU  - Sarvary, Miklos
+Y1  - 2021/10/25
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4106
+DO  - 10.1287/mnsc.2021.4106
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4703
+EP  - 4724
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - In recent years, ad blocking has become a significant threat to advertising-supported content. Adblockers typically negotiate with publishers, allowing some ads to go through in return for a payment, a practice called (partial) whitelisting in the industry. Ad blocking has a direct positive effect on consumers by reducing advertising intensity. On the other hand, the practice clearly hurts publishers and reduces their incentives to invest in content quality. Lower content quality, in turn has an indirect negative effect on consumers. This paper builds an analytic model to explore the net impact of ad blocking on consumers, how it depends on various market characteristics, and how uniformly it affects consumers. The results show that under a broad set of market conditions, total consumer surplus and even total welfare decline under ad blocking. Whereas some consumers are always better off with an ad blocker, for the average consumer, the impact of quality decline is larger than that of ad reduction. The analysis highlights the detrimental role of ad blockers? current revenue model?in which value is created for the consumers but it is captured from publishers?in decreasing quality, consumer surplus, and total welfare. Analyzing the impact of varying levels of negotiation power between the ad blocker and publisher reveals that full negotiation power is not preferred by the ad blocker. A lower negotiation power allows the ad blocker to commit to less value extraction from the publisher, thereby leading to higher content quality. Additional model extensions show that the main results are robust. In the case of multiple publishers with different levels of competition between them, the strong negative effect of ad blocking on quality holds.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - In recent years, ad blocking has become a significant threat to advertising-supported content. Adblockers typically negotiate with publishers, allowing some ads to go through in return for a payment, a practice called (partial) whitelisting in the industry. Ad blocking has a direct positive effect on consumers by reducing advertising intensity. On the other hand, the practice clearly hurts publishers and reduces their incentives to invest in content quality. Lower content quality, in turn has an indirect negative effect on consumers. This paper builds an analytic model to explore the net impact of ad blocking on consumers, how it depends on various market characteristics, and how uniformly it affects consumers. The results show that under a broad set of market conditions, total consumer surplus and even total welfare decline under ad blocking. Whereas some consumers are always better off with an ad blocker, for the average consumer, the impact of quality decline is larger than that of ad reduction. The analysis highlights the detrimental role of ad blockers? current revenue model?in which value is created for the consumers but it is captured from publishers?in decreasing quality, consumer surplus, and total welfare. Analyzing the impact of varying levels of negotiation power between the ad blocker and publisher reveals that full negotiation power is not preferred by the ad blocker. A lower negotiation power allows the ad blocker to commit to less value extraction from the publisher, thereby leading to higher content quality. Additional model extensions show that the main results are robust. In the case of multiple publishers with different levels of competition between them, the strong negative effect of ad blocking on quality holds.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4106
+UR  - https://doi.org/10.1287/mnsc.2021.4106
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Too Popular, Too Fast: Optimal Advertising and Entry Timing in Markets with Peer Influence
+AU  - Fruchter, Gila E.
+AU  - Prasad, Ashutosh
+AU  - Van den Bulte, Christophe
+Y1  - 2021/11/02
+PY  - 2021
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2021.4105
+DO  - 10.1287/mnsc.2021.4105
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4725
+EP  - 4741
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - We study optimal advertising and entry timing decisions for a new product being sold in two-segment markets in which followers are positively influenced by elites, whereas elites are either unaffected or repulsed by product popularity among followers. Key decisions in such markets are not only how much to advertise in each segment over time but also when to enter the follower segment. We develop a continuous-time optimal control model to examine these issues. Analysis yields two sets of two-point boundary value problems where one set has an unknown boundary value condition that satisfies an algebraic equation. A fast solution methodology is proposed. Two main insights emerge. First, the optimal advertising strategy can be U-shaped, that is, decreasing at first to free-ride peer influence but increasing later on to thwart the repulsion influence of overpopularity causing disadoption. Second, in markets where cross-segment repulsion triggers disadoption, advertising is only moderately effective, and entry costs are high, managing both advertising and entry timing can result in significantly higher profits than managing only one of these levers. In markets without disadoption, with high advertising effectiveness or with low entry costs, in contrast, delaying entry may add little value if one already manages advertising optimally. This implies that purveyors of prestige or cool products need not deny followers access to their products in order to protect their profits, and can use advertising to speed up the democratization of consumption profitably.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - We study optimal advertising and entry timing decisions for a new product being sold in two-segment markets in which followers are positively influenced by elites, whereas elites are either unaffected or repulsed by product popularity among followers. Key decisions in such markets are not only how much to advertise in each segment over time but also when to enter the follower segment. We develop a continuous-time optimal control model to examine these issues. Analysis yields two sets of two-point boundary value problems where one set has an unknown boundary value condition that satisfies an algebraic equation. A fast solution methodology is proposed. Two main insights emerge. First, the optimal advertising strategy can be U-shaped, that is, decreasing at first to free-ride peer influence but increasing later on to thwart the repulsion influence of overpopularity causing disadoption. Second, in markets where cross-segment repulsion triggers disadoption, advertising is only moderately effective, and entry costs are high, managing both advertising and entry timing can result in significantly higher profits than managing only one of these levers. In markets without disadoption, with high advertising effectiveness or with low entry costs, in contrast, delaying entry may add little value if one already manages advertising optimally. This implies that purveyors of prestige or cool products need not deny followers access to their products in order to protect their profits, and can use advertising to speed up the democratization of consumption profitably.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4105
+UR  - https://doi.org/10.1287/mnsc.2021.4105
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Hard Look at SPAC Projections
+AU  - Blankespoor, Elizabeth
+AU  - Hendricks, Bradley E.
+AU  - Miller,  Gregory S.
+AU  - Stockbridge, Douglas R.
+Y1  - 2022/03/24
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2022.4385
+DO  - 10.1287/mnsc.2022.4385
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4742
+EP  - 4753
+VL  - 68
+IS  - 6
+PB  - INFORMS
+N2  - Firms? use of special purpose acquisition companies (SPACs) to go public has increased dramatically, leading to market and regulatory debate about their use of projections. Examining SPAC mergers from 2004 through 2021, we find that 80% of firms provide projections for four years ahead on average, with approximately one-quarter of recent projections extending more than five years. For the sample of SPAC mergers with observable postmerger revenue, we find that only 35% of firms meet or beat their projections. This proportion declines for forecasts that are longer horizon, and nonserial SPAC sponsors miss forecasts by greater percentages. When we compare SPAC projected revenue growth with benchmark samples of firms completing an initial public offering (IPO) and matched firms, the SPAC projections are approximately three times larger on average than benchmark firms? actual revenue growth, with even greater differences for long-term projections. After the merger, firms reduce their use of projections, providing them at statistically similar rates as benchmark firms. Overall, the evidence supports concerns that the SPAC merger includes highly optimistic projections.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - Firms? use of special purpose acquisition companies (SPACs) to go public has increased dramatically, leading to market and regulatory debate about their use of projections. Examining SPAC mergers from 2004 through 2021, we find that 80% of firms provide projections for four years ahead on average, with approximately one-quarter of recent projections extending more than five years. For the sample of SPAC mergers with observable postmerger revenue, we find that only 35% of firms meet or beat their projections. This proportion declines for forecasts that are longer horizon, and nonserial SPAC sponsors miss forecasts by greater percentages. When we compare SPAC projected revenue growth with benchmark samples of firms completing an initial public offering (IPO) and matched firms, the SPAC projections are approximately three times larger on average than benchmark firms? actual revenue growth, with even greater differences for long-term projections. After the merger, firms reduce their use of projections, providing them at statistically similar rates as benchmark firms. Overall, the evidence supports concerns that the SPAC merger includes highly optimistic projections.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4385
+UR  - https://doi.org/10.1287/mnsc.2022.4385
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2022/06/01
+PY  - 2022
+DA  - 2022/06/01
+N1  - doi: 10.1287/mnsc.2022.eb.v68n6
+DO  - 10.1287/mnsc.2022.eb.v68n6
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - v
+VL  - 68
+IS  - 6
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.eb.v68n6
+UR  - https://doi.org/10.1287/mnsc.2022.eb.v68n6
+Y2  - 2024/03/29
+ER  - 

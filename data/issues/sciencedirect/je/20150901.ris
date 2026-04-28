@@ -1,0 +1,391 @@
+TY  - JOUR
+T1  - Estimation of heterogeneous autoregressive parameters with short panel data
+AU  - Mavroeidis, Sophocles
+AU  - Sasaki, Yuya
+AU  - Welch, Ivo
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 219
+EP  - 235
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001517
+KW  - Panel data
+KW  - Employment dynamics
+KW  - Heterogeneous autoregressive parameters
+KW  - Initial conditions
+KW  - Maximum likelihood
+AB  - This paper presents a maximum likelihood approach to estimation of cross sectional distributions of heterogeneous autoregressive (AR) parameters with short panel data. We construct a panel likelihood by integrating the unknown cross sectional density of heterogeneous AR parameters with respect to a known time-series data generating kernel. The solution to this extremal criterion recovers the unknown density of heterogeneous AR parameters. Applying our method to a model of employment dynamics with the firm-level data of Arellano and Bond (1991), we find that adjustment rates of employment are significantly heterogeneous across firms.
+ER  - 
+
+TY  - JOUR
+T1  - IFC: ID Statment
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - IFC
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00197-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001979
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification and estimation of transformation models
+AU  - Chiappori, Pierre-André
+AU  - Komunjer, Ivana
+AU  - Kristensen, Dennis
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 22
+EP  - 39
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500010X
+KW  - Nonparametric identification
+KW  - Transformation models
+KW  - Endogeneity
+KW  - Special regressor
+KW  - Kernel estimation
+AB  - This paper derives sufficient conditions for nonparametric transformation models to be identified and develops estimators of the identified components. Our nonparametric identification result is global, and allows for endogenous regressors. In particular, we show that a completeness assumption combined with conditional independence with respect to one of the regressors suffices for the model to be nonparametrically identified. The identification result is also constructive in the sense that it yields explicit expressions of the functions of interest. We show how natural estimators can be developed from these expressions, and analyze their theoretical properties. Importantly, it is demonstrated that different normalizations of the model lead to different asymptotic properties of the estimators with one normalization in particular resulting in an estimator for the unknown transformation function that converges at a parametric rate. A test for whether a candidate regressor satisfies the conditional independence assumption required for identification is developed. A Monte Carlo experiment illustrates the performance of our method in the context of a duration model with endogenous regressors.
+ER  - 
+
+TY  - JOUR
+T1  - Large sample properties of the matrix exponential spatial specification with an application to FDI
+AU  - Debarsy, Nicolas
+AU  - Jin, Fei
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 1
+EP  - 21
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.046
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001219
+KW  - Spatial autocorrelation
+KW  - MESS
+KW  - QML
+KW  - GMM
+KW  - Heteroskedasticity
+KW  - Delta method
+KW  - FDI
+AB  - This paper studies large sample properties of the matrix exponential spatial specification (MESS). We find that the quasi-maximum likelihood estimator (QMLE) for the MESS is consistent under heteroskedasticity, a property not shared by the QMLE of the SAR model. For the general model that has MESS in both the dependent variable and disturbances, labeled MESS(1,1), the QMLE can be consistent under unknown heteroskedasticity when the spatial weights matrices in the two MESS processes are commutative. We also consider the generalized method of moments estimator (GMME). In the homoskedastic case, we derive a best GMME that is as efficient as the maximum likelihood estimator under normality and can be asymptotically more efficient than the QMLE under non-normality. In the heteroskedastic case, an optimal GMME can be more efficient than the QMLE asymptotically. The QML approach for the MESS has the computational advantage over that of a SAR model. The computational simplicity carries over to MESS models with any finite order of spatial matrices. No parameter range needs to be imposed in order for the model to be stable. Results of Monte Carlo experiments for finite sample properties of the estimators are reported. Finally, the MESS(1,1) is applied to Belgium’s outward FDI data and we observe that the dominant motivation of Belgium’s outward FDI lies in finding cheaper factor inputs.
+ER  - 
+
+TY  - JOUR
+T1  - Extremum estimation and numerical derivatives
+AU  - Hong, Han
+AU  - Mahajan, Aprajit
+AU  - Nekipelov, Denis
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 250
+EP  - 263
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.05.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001207
+KW  - Numerical derivative
+KW  - Entropy condition
+KW  - Stochastic equicontinuity
+AB  - Finite-difference approximations are widely used in empirical work to evaluate derivatives of estimated functions. For instance, many standard optimization routines rely on finite-difference formulas for gradient calculations and estimating standard errors. However, the effect of such approximations on the statistical properties of the resulting estimators has only been studied in a few special cases. This paper investigates the impact of commonly used finite-difference methods on the large sample properties of the resulting estimators. We find that first, one needs to adjust the step size as a function of the sample size. Second, higher-order finite difference formulas reduce the asymptotic bias analogous to higher order kernels. Third, we provide weak sufficient conditions for uniform consistency of the finite-difference approximations for gradients and directional derivatives. Fourth, we analyze numerical gradient-based extremum estimators and find that the asymptotic distribution of the resulting estimators may depend on the sequence of step sizes. We state conditions under which the numerical derivative based extremum estimator is consistent and asymptotically normal. Fifth, we generalize our results to semiparametric estimation problems. Finally, we demonstrate that our results apply to a range of nonstandard estimation procedures.
+ER  - 
+
+TY  - JOUR
+T1  - Specification and structural break tests for additive models with applications to realized variance data
+AU  - Fengler, M.R.
+AU  - Mammen, E.
+AU  - Vogt, M.
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 196
+EP  - 218
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001438
+KW  - Additive models
+KW  - Backfitting
+KW  - Nonparametric time series analysis
+KW  - Specification tests
+KW  - Structural break tests
+KW  - Realized variance
+KW  - Heterogeneous autoregressive model
+AB  - We study two types of testing problems in a nonparametric additive model setting: We develop methods to test (i) whether an additive component function has a given parametric form and (ii) whether an additive component has a structural break. We apply the theory to a nonparametric extension of the linear heterogeneous autoregressive model which is widely employed to describe realized variance data. We find that the linearity assumption is often rejected, but actual deviations from linearity are mild.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation of a spatial autoregressive Tobit model
+AU  - Xu, Xingbai
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 264
+EP  - 280
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001657
+KW  - Spatial autoregressive model
+KW  - Tobit model
+KW  - Censored data
+KW  - Near-epoch dependence
+KW  - Maximum likelihood
+AB  - This paper examines a Tobit model with spatial autoregressive interactions. We consider the maximum likelihood estimation for this model and analyze asymptotic properties of the estimator based on the spatial near-epoch dependence of the dependent variable process generated from the model structure. We show that the maximum likelihood estimator is consistent and asymptotically normally distributed. Monte Carlo experiments are performed to verify finite sample properties of the estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Jackknife model averaging for quantile regressions
+AU  - Lu, Xun
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 40
+EP  - 58
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001256
+KW  - Final prediction error
+KW  - High dimensionality
+KW  - Model averaging
+KW  - Model selection
+KW  - Misspecification
+KW  - Quantile regression
+AB  - In this paper we consider model averaging for quantile regressions (QR) when all models under investigation are potentially misspecified and the number of parameters is diverging with the sample size. To allow for the dependence between the error terms and regressors in the QR models, we propose a jackknife model averaging (JMA) estimator which selects the weights by minimizing a leave-one-out cross-validation criterion function and demonstrate its asymptotic optimality in terms of minimizing the out-of-sample final prediction error. We conduct simulations to demonstrate the finite-sample performance of our estimator and compare it with other model selection and averaging methods. We apply our JMA method to forecast quantiles of excess stock returns and wages.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation in a correlated random coefficients binary response model
+AU  - Hoderlein, Stefan
+AU  - Sherman, Robert
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 135
+EP  - 149
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.044
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500127X
+KW  - Correlated random coefficients binary response model
+KW  - Instrumental variables
+KW  - Control variables
+KW  - Conditional median restrictions
+KW  - Localize-then-average strategy
+AB  - We study a linear index binary response model with random coefficients B allowed to be correlated with regressors X. We identify the mean of the distribution of B and show how the mean can be interpreted as a vector of expected relative effects. We use instruments and a control vector V to make X independent of B given V. This leads to a localize-then-average approach to both identification and estimation. We develop a n-consistent and asymptotically normal estimator of a trimmed mean of the distribution of B, explore its small sample performance through simulations, and present an application.
+ER  - 
+
+TY  - JOUR
+T1  - Heterogeneity and selection in dynamic panel data
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 236
+EP  - 249
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001542
+KW  - Dynamic panel data
+KW  - Heterogeneity
+KW  - Selection
+KW  - Initial conditions problem
+AB  - The data generating process (DGP) for generic dynamic panel data consists of a law of state dynamics g, a selection or attrition rule h, and an initial condition F. I study nonparametric identifiability of this complete DGP (g,h,F) using short unbalanced panel data, allowing for nonseparability between observed states and unobserved heterogeneity in each of g, h and F. For T⩾3, the DGP is identified by using a proxy variable. For T⩾6, the three additional periods construct a proxy, and thus the DGP is identified without an auxiliary variable.
+ER  - 
+
+TY  - JOUR
+T1  - Robust standard errors in transformed likelihood estimation of dynamic panel data models with cross-sectional heteroskedasticity
+AU  - Hayakawa, Kazuhiko
+AU  - Pesaran, M. Hashem
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 111
+EP  - 134
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.042
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001244
+KW  - Dynamic panels
+KW  - Cross-sectional heteroskedasticity
+KW  - Monte Carlo simulation
+KW  - Transformed MLE
+KW  - GMM estimation
+AB  - This paper extends the transformed maximum likelihood approach for estimation of dynamic panel data models by Hsiao et al. (2002) to the case where the errors are cross-sectionally heteroskedastic. This extension is not trivial due to the incidental parameters problem and its implications for estimation and inference. We approach the problem by working with a mis-specified homoskedastic model, and then show that the transformed maximum likelihood estimator continues to be consistent even in the presence of cross-sectional heteroskedasticity. We also obtain standard errors that are robust to cross-sectional heteroskedasticity of unknown form. By means of Monte Carlo simulations, we investigate the finite sample behavior of the transformed maximum likelihood estimator and compare it with various GMM estimators proposed in the literature. Simulation results reveal that, in terms of median absolute errors and accuracy of inference, the transformed likelihood estimator outperforms the GMM estimators in almost all cases.
+ER  - 
+
+TY  - JOUR
+T1  - Generalised density forecast combinations
+AU  - Kapetanios, G.
+AU  - Mitchell, J.
+AU  - Price, S.
+AU  - Fawcett, N.
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 150
+EP  - 165
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.047
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001232
+KW  - Density forecasting
+KW  - Model combination
+KW  - Scoring rules
+AB  - Density forecast combinations are becoming increasingly popular as a means of improving forecast ‘accuracy’, as measured by a scoring rule. In this paper we generalise this literature by letting the combination weights follow more general schemes. Sieve estimation is used to optimise the score of the generalised density combination where the combination weights depend on the variable one is trying to forecast. Specific attention is paid to the use of piecewise linear weight functions that let the weights vary by region of the density. We analyse these schemes theoretically, in Monte Carlo experiments and in an empirical study. Our results show that the generalised combinations outperform their linear counterparts.
+ER  - 
+
+TY  - JOUR
+T1  - Two-step estimation of network-formation models with incomplete information
+AU  - Leung, Michael P.
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 182
+EP  - 195
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001396
+KW  - Social networks
+KW  - Network formation
+KW  - Multiple equilibria
+KW  - Discrete games of incomplete information
+AB  - We model network formation as a simultaneous game of incomplete information, allowing linking decisions to depend on the structure of the network as well as the attributes of agents. When the data is rationalized by a symmetric equilibrium, meaning observationally equivalent agents choose the same ex-ante strategies, the model can be estimated using a computationally simple two-step estimator. We derive its asymptotic properties under a sequence of models sending the number of agents to infinity, which enables inference with only a single network observation. Our procedure generalizes dyadic regression, allowing the latent index to be a function of endogenous regressors that depend on the network. We apply the estimator to study trust networks in rural Indian villages.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile cointegration in the autoregressive distributed-lag modeling framework
+AU  - Cho, Jin Seo
+AU  - Kim, Tae-hwan
+AU  - Shin, Yongcheol
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 281
+EP  - 300
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001645
+KW  - QARDL
+KW  - Quantile regression
+KW  - Long-run cointegrating relationship
+KW  - Dividend smoothing
+KW  - Time-varying rolling estimation
+AB  - Xiao (2009) develops a novel estimation technique for quantile cointegrated time series by extending Phillips and Hansen’s (1990) semiparametric approach and Saikkonen’s (1991) parametrically augmented approach. This paper extends Pesaran and Shin’s (1998) autoregressive distributed-lag approach into quantile regression by jointly analyzing short-run dynamics and long-run cointegrating relationships across a range of quantiles. We derive the asymptotic theory and provide a general package in which the model can be estimated and tested within and across quantiles. We further affirm our theoretical results by Monte Carlo simulations. The main utilities of this analysis are demonstrated through the empirical application to the dividend policy in the US.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric single-index panel data models with cross-sectional dependence
+AU  - Dong, Chaohua
+AU  - Gao, Jiti
+AU  - Peng, Bin
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 301
+EP  - 312
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001700
+KW  - Asymptotic theory
+KW  - Closed-form estimation
+KW  - Nonlinear panel data model
+KW  - Orthogonal series expansion method
+AB  - In this paper, we consider a semiparametric single-index panel data model with cross-sectional dependence and stationarity. Meanwhile, we allow fixed effects to be correlated with the regressors to capture unobservable heterogeneity. Under a general spatial error dependence structure, we then establish some consistent closed-form estimates for both the unknown parameters and the link function for the case where both cross-sectional dimension (N) and temporal dimension (T) go to infinity. Rates of convergence and asymptotic normality are established for the proposed estimates. Our experience suggests that the proposed estimation method is simple and thus attractive for finite-sample studies and empirical implementations. Moreover, both the finite-sample performance and the empirical applications show that the proposed estimation method works well when the cross-sectional dependence exists in the data set.
+ER  - 
+
+TY  - JOUR
+T1  - New tools for understanding the local asymptotic power of panel unit root tests
+AU  - Westerlund, Joakim
+AU  - Larsson, Rolf
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 59
+EP  - 93
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.043
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001268
+KW  - Panel unit root test
+KW  - Local asymptotic power
+KW  - Infinite-order approximation
+KW  - Moment expansion
+AB  - Motivated by the previously documented discrepancy between actual and predicted power, the present paper provides new tools for analyzing the local asymptotic power of panel unit root tests. These tools are appropriate in general when considering panel data with a dominant autoregressive root of the form ρi=1+ciN−κT−τ, where i=1,…,N indexes the cross-sectional units, T is the number of time periods and ci is a random local-to-unity parameter. A limit theory for the sample moments of such panel data is developed and is shown to involve infinite-order series expansions in the moments of ci, in which existing theories can be seen as mere first-order approximations. The new theory is applied to study the asymptotic local power functions of some known test statistics for a unit root. These functions can be expressed in terms of the expansions in the moments of ci, and include existing local power functions as special cases. Monte Carlo evidence is provided to suggest that the new results go a long way toward bridging the gap between actual and predicted power.
+ER  - 
+
+TY  - JOUR
+T1  - Structural-break models under mis-specification: Implications for forecasting
+AU  - Koo, Bonsoo
+AU  - Seo, Myung Hwan
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 166
+EP  - 181
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.046
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001384
+KW  - Structural break
+KW  - Forecasting
+KW  - Mis-specification
+KW  - Cube-root asymptotics
+AB  - This paper revisits the least squares estimator of the linear regression with a structural break. We view the model as an approximation to the true data generating process whose exact nature is unknown but perhaps changing over time either continuously or with some jumps. This view is widely held in the forecasting literature and under this view, the time series dependence property of all the observed variables is unstable as well. We establish that the rate of convergence of the estimator to a properly defined limit is at most the cube root of T, where T is the sample size, which is much slower than the standard super consistent rate. We also provide an asymptotic distribution of the estimator and that of the Gaussian quasi likelihood ratio statistic for a certain class of true data generating processes. We relate our finding to current forecast combination methods and propose a new averaging scheme. Our method compares favourably with various contemporary forecasting methods in forecasting a number of macroeconomic series.
+ER  - 
+
+TY  - JOUR
+T1  - Higher-order improvements of the sieve bootstrap for fractionally integrated processes
+AU  - Poskitt, D.S.
+AU  - Grose, Simone D.
+AU  - Martin, Gael M.
+JO  - Journal of Econometrics
+VL  - 188
+IS  - 1
+SP  - 94
+EP  - 110
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.045
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001372
+KW  - Long memory
+KW  - ARFIMA
+KW  - Sieve bootstrap
+KW  - Bootstrap-based inference
+KW  - Edgeworth expansion
+KW  - Sampling distribution
+AB  - This paper investigates the accuracy of bootstrap-based inference in the case of long memory fractionally integrated processes. The re-sampling method is based on the semi-parametric sieve, whereby the dynamics in the process used to produce the bootstrap draws are captured by an autoregressive approximation. Application of the sieve method to data pre-filtered by a semi-parametric estimate of the long memory parameter is also explored. Higher-order improvements yielded by both forms of re-sampling are demonstrated using Edgeworth expansions for a broad class of statistics that includes first- and second-order moments, the discrete Fourier transform and regression coefficients. The methods are then applied to the problem of estimating the sampling distributions of the sample mean and of selected sample autocorrelation coefficients, in experimental settings. In the case of the sample mean, the pre-filtered version of the bootstrap is shown to avoid the distinct underestimation of the sampling variance of the mean which the raw sieve method demonstrates in finite samples, higher-order accuracy of the latter notwithstanding. Pre-filtering also produces gains in terms of the accuracy with which the sampling distributions of the sample autocorrelations are reproduced, most notably in the part of the parameter space in which asymptotic normality does not obtain.
+ER  - 

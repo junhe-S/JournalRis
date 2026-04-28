@@ -1,0 +1,246 @@
+TY  - JOUR
+T1  - Modelling large dimensional datasets with Markov switching factor models
+AU  - Barigozzi, Matteo
+AU  - Massacci, Daniele
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105919
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105919
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002707
+KW  - Regime changes
+KW  - Large factor model
+KW  - Markov switching
+KW  - Baum–Lindgren–Hamilton–Kim filter and smoother
+KW  - Principal Component Analysis
+AB  - We study a novel large dimensional approximate factor model with regime changes in the loadings driven by a latent first order Markov process. By exploiting the equivalent linear representation of the model, we first recover the latent factors by means of Principal Component Analysis. We then cast the model in state–space form, and we estimate loadings and transition probabilities through an EM algorithm based on a modified version of the Baum–Lindgren–Hamilton–Kim filter and smoother that makes use of the factors previously estimated. Our approach is appealing as it provides closed form expressions for all estimators. More importantly, it does not require knowledge of the true number of factors. We derive the theoretical properties of the proposed estimation procedure, and we show their good finite sample performance through a comprehensive set of Monte Carlo experiments. The empirical usefulness of our approach is illustrated through three applications to large U.S. datasets of stock returns, macroeconomic variables, and inflation indexes.
+ER  - 
+
+TY  - JOUR
+T1  - Bond risk premiums at the zero lower bound
+AU  - Andreasen, Martin M.
+AU  - Jørgensen, Kasper
+AU  - Meldrum, Andrew
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105939
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105939
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002902
+KW  - Bond return predictability
+KW  - Dynamic term structure models
+KW  - Unspanned stochastic volatility
+AB  - We document that the spread between long- and short-term government bond yields is a stronger predictor of excess bond returns when the U.S. economy is at the zero lower bound (ZLB) than away from this bound. The Gaussian shadow rate model with a linear or quadratic shadow rate is unable to explain this change in return predictability. The same holds for the quadratic term structure model and the autoregressive gamma-zero model that also enforce the ZLB. In contrast, the linear-rational square-root model explains our new empirical finding because the model allows for unspanned stochastic volatility as seen in bond yields.
+ER  - 
+
+TY  - JOUR
+T1  - Individual welfare analysis: Random quasilinear utility, independence, and confidence bounds
+AU  - Feng, Junlong
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105927
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105927
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002781
+KW  - Welfare analysis
+KW  - Nonlinear models
+KW  - Inferential method
+KW  - Independence
+AB  - We introduce a novel framework for individual-level welfare analysis. It builds on a parametric model for continuous demand with a quasilinear utility function, allowing for heterogeneous coefficients and unobserved individual-good-level preference shocks. We obtain bounds on the individual-level consumer welfare loss at any confidence level due to a hypothetical price increase, solving a scalable optimization problem constrained by a novel confidence set under an independence restriction. This confidence set is computationally simple and robust to weak instruments, nonlinearity, and partial identification. The validity of the confidence set is guaranteed by our new results on the joint limiting distribution of the independence test by Chatterjee (2021). These results together with the confidence set may have applications beyond welfare analysis. Monte Carlo simulations and two empirical applications on gasoline and food demand demonstrate the effectiveness of our method.
+ER  - 
+
+TY  - JOUR
+T1  - Simulation error and numerical instability in estimating random coefficient logit demand models
+AU  - Brunner, Daniel
+AU  - Heiss, Florian
+AU  - Romahn, André
+AU  - Weiser, Constantin
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105953
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.105953
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000077
+KW  - Structural demand estimation
+KW  - Numerical integration
+AB  - The nonlinear GMM-IV estimator of Berry, Levinsohn and Pakes (1995) can suffer from numerical instability resulting in a wide range of parameter estimates and economic implications. This has been reported to depend on technical details such as the choice of the optimization algorithm, starting values, and convergence criteria. We show that numerical approximation errors in the estimator’s moment function are the main driver of this instability. With accurate approximation, the estimation approach is well-behaved. We provide a simple method to determine the required number of simulation draws.
+ER  - 
+
+TY  - JOUR
+T1  - On testing for spatial or social network dependence in panel data allowing for network variability
+AU  - Liu, Xiaodong
+AU  - Prucha, Ingmar R.
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105925
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105925
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002768
+KW  - Test for network dependence
+KW  - Panel data
+KW  - Spatial and social networks
+KW  - Generalized Moran I test
+KW  - Lagrange Multiplier (LM) test
+KW  - Time-varying network dependence
+AB  - The paper introduces robust generalized Moran I tests for network-generated cross-sectional dependence in a panel data setting where unit-specific effects can be random or fixed. Network dependence may originate from endogenous variables, exogenous variables, and/or disturbances, and the network dependence is allowed to vary over time. The formulation of the test statistics also aims at accommodating situations where the researcher is unsure about the exact nature of the network. Unit-specific effects are eliminated using the Helmert transformation, which is well known to yield time-orthogonality for linear forms of transformed disturbances. Given the specification of our test statistics, these orthogonality properties also extend to the quadratic forms that underlie our test statistics. This greatly simplifies the expressions for the asymptotic variances of our test statistics and their estimation. Monte Carlo simulations suggest that the generalized Moran I tests introduced in this paper have the proper size and can provide substantial improvement in robustness when the researcher faces uncertainty about the specification of the network topology.
+ER  - 
+
+TY  - JOUR
+T1  - Iterative estimation of nonparametric regressions with continuous endogenous variables and discrete instruments
+AU  - Centorrino, Samuele
+AU  - Fève, Frédérique
+AU  - Florens, Jean-Pierre
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105950
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.105950
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000041
+KW  - Nonparametric
+KW  - Instrumental variables
+KW  - Landweber-Fridman
+KW  - Returns to education
+AB  - We consider a nonparametric regression model with continuous endogenous independent variables when only discrete instruments are available that are independent of the error term. Although this framework is very relevant for applied research, its implementation is challenging, as the regression function becomes the solution to a nonlinear integral equation. We propose a simple iterative procedure to estimate such models and showcase some of its asymptotic properties. In a simulation experiment, we detail its implementation in the case when the instrumental variable is binary. We conclude with an empirical application to returns to education.
+ER  - 
+
+TY  - JOUR
+T1  - The robust F-statistic as a test for weak instruments
+AU  - Windmeijer, Frank
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105951
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.105951
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000053
+KW  - Instrumental variables
+KW  - Weak instruments
+KW  - Heteroskedasticity
+KW  - Robust F-statistic
+KW  - GMM
+AB  - For the linear model with a single endogenous variable, (Montiel Olea and Pflueger 2013) proposed the effective F-statistic as a test for weak instruments in terms of the Nagar bias of the two-stage least squares (2SLS) or limited information maximum likelihood (LIML) estimator relative to a benchmark worst-case bias. We show that their methodology for the 2SLS estimator applies to a class of linear generalized method of moments (GMM) estimators with an associated class of generalized effective F-statistics. The standard robust F-statistic is a member of this class. The associated GMMf estimator, with the extension “f” for first-stage, has the weight matrix based on the first-stage residuals. In the grouped-data IV designs of Andrews (2018) with moderate and high levels of endogeneity and where the robust F-statistic is large but the effective F-statistic is small, the GMMf estimator is shown to behave much better in terms of bias than the 2SLS estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrapping out-of-sample predictability tests with real-time data
+AU  - Gonçalves, Sílvia
+AU  - McCracken, Michael W.
+AU  - Yao, Yongxu
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105916
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105916
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002677
+KW  - Real-time data
+KW  - Bootstrap
+KW  - Prediction
+KW  - Forecast evaluation
+AB  - In this paper we develop a block bootstrap approach to out-of-sample inference when real-time data are used to produce forecasts. In particular, we establish its first-order asymptotic validity for West-type (1996) tests of predictive ability in the presence of regular data revisions. This allows the user to conduct asymptotically valid inference without having to estimate the asymptotic variances derived in Clark and McCracken’s (2009) extension of West (1996) when data are subject to revision. Monte Carlo experiments indicate that the bootstrap can provide satisfactory finite sample size and power even in modest sample sizes. We conclude with an application to inflation forecasting that revisits the results in Ang et al. (2007) in the presence of real-time data.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform inference for cointegrated vector autoregressive processes
+AU  - Holberg, Christian
+AU  - Ditlevsen, Susanne
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105944
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105944
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002951
+KW  - Uniform inference
+KW  - Vector autoregressive process
+KW  - Cointegration
+KW  - Non-stationary
+AB  - Uniformly valid inference for cointegrated vector autoregressive processes has so far proven difficult due to certain discontinuities arising in the asymptotic distribution of the least squares estimator. We extend asymptotic results from the univariate case to multiple dimensions and show how inference can be based on these results. Furthermore, we show that lag augmentation and a recent instrumental variable procedure can also yield uniformly valid tests and confidence regions. We verify the theoretical findings and investigate finite sample properties in simulation experiments for two specific examples.
+ER  - 
+
+TY  - JOUR
+T1  - Natural disasters as macroeconomic tail risks
+AU  - Chavleishvili, Sulkhan
+AU  - Moench, Emanuel
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105914
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105914
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002653
+KW  - Quantile vector autoregression
+KW  - Counterfactual distribution forecasts
+KW  - Disaster scenario analysis
+AB  - We introduce quantile and moment impulse response functions for structural quantile vector autoregressive models. We use them to study how climate-related natural disasters affect the predictive distribution of output growth and inflation. Disasters strongly shift the forecast distribution particularly in the tails. They result in an initial sharp increase of the downside risk for growth, followed by a temporary rebound. Upside risk to inflation increases markedly for a few months and then subsides. As a result, natural disasters have a persistent impact on the conditional variance and skewness of macroeconomic aggregates which standard linear models estimating conditional mean dynamics fail to match. We perform a scenario analysis to evaluate the hypothetical effects of more frequent large disasters on the macroeconomy due to increased atmospheric carbon concentration. Our results indicate a substantially higher conditional volatility of growth and inflation as well as increased upside risk to inflation particularly in a scenario where only currently pledged climate policies are implemented.
+ER  - 
+
+TY  - JOUR
+T1  - Shrinkage estimators for periodic autoregressions
+AU  - Paap, Richard
+AU  - Franses, Philip Hans
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105937
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105937
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002884
+KW  - Periodic autoregression
+KW  - Shrinkage
+KW  - Pooling
+KW  - Ridge
+KW  - Lasso
+KW  - Forecasting
+AB  - A periodic autoregression [PAR] is a seasonal time series model where the autoregressive parameters vary over the seasons. A drawback of PAR models is that the number of parameters increases dramatically when the number of seasons gets large. Hence, one needs many periods with intra-seasonal data to be able to get reliable parameter estimates. Therefore, these models are rarely applied for weekly or daily observations. In this paper we propose shrinkage estimators which shrink the periodic autoregressive parameters to a common value determined by the data. We derive the asymptotic properties of these estimators in case of a quadratic penalty and we illustrate the bias–variance trade-off. Empirical illustrations show that shrinkage improves forecasting with PAR models.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on dynamic systemic risk measures
+AU  - Francq, Christian
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105936
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105936
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002872
+KW  - CoVaR
+KW  - Delta-CoVaR
+KW  - Marginal expected shortfall
+KW  - Multivariate risks
+KW  - Residual bootstrap
+AB  - Systemic risk measures (SRM) quantify the risk of a system induced by the possible distress of any of its components. Applications in economics and finance are numerous. We define a general dynamic framework for the risk factors, allowing us to obtain explicit expressions of the corresponding dynamic SRM. We deduce an easy-to-implement statistical approach which, based on semi-parametric assumptions, reduces to estimating univariate location-scale models and to computing (static) quantiles of the residuals. We derive a sound asymptotic theory (including confidence intervals, tests, validity of a residual bootstrap) for major SRM, namely the Conditional VaR (CoVaR) and Delta-CoVaR. Our theoretical results are illustrated via Monte-Carlo experiments and real financial and macroeconomic time series.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 247
+SP  - 105965
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(25)00019-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000193
+ER  - 

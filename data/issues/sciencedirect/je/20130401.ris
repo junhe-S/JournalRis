@@ -1,0 +1,98 @@
+TY  - JOUR
+T1  - On the structure and estimation of hierarchical Archimedean copulas
+AU  - Okhrin, Ostap
+AU  - Okhrin, Yarema
+AU  - Schmid, Wolfgang
+JO  - Journal of Econometrics
+VL  - 173
+IS  - 2
+SP  - 189
+EP  - 204
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002667
+KW  - Hierarchical Archimedean copula
+KW  - Multivariate distribution
+KW  - Density estimation
+KW  - Asymptotic theory
+AB  - In this paper we provide a method for estimating multivariate distributions defined through hierarchical Archimedean copulas. In general, the true structure of the hierarchy is unknown, but we develop a computationally efficient technique to determine it from the data. For this purpose we introduce a hierarchical estimation procedure for the parameters and provide an asymptotic analysis. We consider both parametric and nonparametric estimation of the marginal distributions. A simulation study and an empirical application show the effectiveness of the grouping procedure in the sense of structure selection.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 173
+IS  - 2
+SP  - IFC
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(13)00023-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000237
+ER  - 
+
+TY  - JOUR
+T1  - Tests for m-dependence based on sample splitting methods
+AU  - Moon, Seongman
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 173
+IS  - 2
+SP  - 143
+EP  - 159
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002679
+KW  - -dependence
+KW  - Sample splitting
+KW  - Pooled method
+KW  - Wald method
+KW  - Minimum/maximum/median method
+KW  - Expectations hypothesis
+AB  - This paper develops new test methods for m-dependent data. Our approach is based on sample splitting by regular sampling of the original data at lower frequencies, so that standard techniques for testing independence can be used for each individual subsample. We then propose several alternative statistics that aggregate information across subsamples and investigate their asymptotic and finite sample properties. We apply our methods to test the predictability of excess returns in foreign exchange markets. We also illustrate how our serial dependence tests can provide useful information for identifying particular economic alternatives when testing the expectations hypothesis in foreign exchange markets.
+ER  - 
+
+TY  - JOUR
+T1  - Quasi ML estimation of the panel AR(1) model with arbitrary initial conditions
+AU  - Kruiniger, Hugo
+JO  - Journal of Econometrics
+VL  - 173
+IS  - 2
+SP  - 175
+EP  - 188
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002618
+KW  - Dynamic panel data
+KW  - Initial conditions
+KW  - Fixed effects
+KW  - Quasi Maximum Likelihood (QML)
+KW  - Singular information matrix
+KW  - Generalized Method of Moments (GMM)
+KW  - Weak moment conditions
+KW  - Local-to-zero asymptotics
+KW  - Rate of convergence
+AB  - In this paper we show that the Quasi ML estimation method yields consistent Random and Fixed Effects estimators for the autoregression parameter ρ in the panel AR(1) model with arbitrary initial conditions and possibly time-series heteroskedasticity even when the error components are drawn from heterogeneous distributions. We investigate both analytically and by means of Monte Carlo simulations the properties of the QML estimators for ρ. The RE(Q)MLE for ρ is asymptotically at least as robust to individual heterogeneity and, when the data are i.i.d. and normal, at least as efficient as the FE(Q)MLE for ρ. Furthermore, the QML estimators for ρ only suffer from a ‘weak moment conditions’ problem when ρ is close to one if the cross-sectional average of the variances of the errors is (almost) constant over time, e.g. under time-series homoskedasticity. However, in this case the QML estimators for ρ are still consistent when ρ is local to or equal to one although they converge to a non-normal possibly asymmetric distribution at a rate that is lower than N1/2 but at least N1/4. Finally, we study the finite sample properties of two types of estimators for the standard errors of the QML estimators for ρ, and the bounds of QML based confidence intervals for ρ.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating treatment protocols using data combination
+AU  - Bhattacharya, Debopam
+JO  - Journal of Econometrics
+VL  - 173
+IS  - 2
+SP  - 160
+EP  - 174
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002497
+AB  - In real life, individuals are often assigned to binary treatments according to existing treatment protocols. Such protocols, when designed with “taste-based” motives, would be productively inefficient in that the expected returns to treatment for a marginal treatment recipient would vary across covariates and be larger for discriminated groups. This cannot be directly tested if assignment is based on more covariates than the researcher observes, because then the marginal treatment recipient is not identified. We present (i) a partial identification approach to detecting such inefficiency which is robust to selection on unobservables and (ii) a novel way of point-identifying the necessary counterfactual distributions by combining observational datasets with experimental estimates. These methods can also be used to (partially) infer risk-preferences which may rationalize the observed treatment allocations. Specifically, existing healthcare datasets can be analyzed with the proposed tools to test the allocational efficiency of medical treatments. Using our methodology on data from the Coronary Artery Surgery Study in the US, which combined experimental and observational components, we find that after controlling for age, smokers in the observational dataset had to overcome a higher threshold of expected survival relative to nonsmokers in order to qualify for surgery.
+ER  - 

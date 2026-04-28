@@ -1,0 +1,535 @@
+TY  - JOUR
+T1  - Does anything beat 5-minute RV? A comparison of realized measures across multiple asset classes
+AU  - Liu, Lily Y.
+AU  - Patton, Andrew J.
+AU  - Sheppard, Kevin
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 293
+EP  - 311
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000329
+KW  - Realized variance
+KW  - Volatility forecasting
+KW  - High frequency data
+AB  - We study the accuracy of a variety of estimators of asset price variation constructed from high-frequency data (“realized measures”), and compare them with a simple “realized variance” (RV) estimator. In total, we consider over 400 different estimators, using 11 years of data on 31 different financial assets spanning five asset classes. When 5-minute RV is taken as the benchmark, we find little evidence that it is outperformed by any other measures. When using inference methods that do not require specifying a benchmark, we find some evidence that more sophisticated measures outperform. Overall, we conclude that it is difficult to significantly beat 5-minute RV.
+ER  - 
+
+TY  - JOUR
+T1  - Cross-validation for selecting a model selection procedure
+AU  - Zhang, Yongli
+AU  - Yang, Yuhong
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 95
+EP  - 112
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000305
+KW  - Cross-validation
+KW  - Cross-validation paradox
+KW  - Data splitting ratio
+KW  - Adaptive procedure selection
+KW  - Information criterion
+KW  - LASSO
+KW  - MCP
+KW  - SCAD
+AB  - While there are various model selection methods, an unanswered but important question is how to select one of them for data at hand. The difficulty is due to that the targeted behaviors of the model selection procedures depend heavily on uncheckable or difficult-to-check assumptions on the data generating process. Fortunately, cross-validation (CV) provides a general tool to solve this problem. In this work, results are provided on how to apply CV to consistently choose the best method, yielding new insights and guidance for potentially vast amount of application. In addition, we address several seemingly widely spread misconceptions on CV.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric model building for regression models with time-varying parameters
+AU  - Zhang, Ting
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 189
+EP  - 200
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000469
+KW  - Information criterion
+KW  - Nonstationary processes
+KW  - Penalization methods
+KW  - Semiparametric variable selection
+KW  - Time-varying coefficient models
+AB  - This paper considers the problem of semiparametric model building for linear regression models with potentially time-varying coefficients. By allowing the response variable and explanatory variables be jointly a nonstationary process, the proposed methods are widely applicable to nonstationary and dependent observations. We propose a local linear shrinkage method that can simultaneously achieve parameter estimation and variable selection. Its selection consistency and the favorable oracle property are established. Due to the fear of losing efficiency, an information criterion is further proposed for distinguishing between time-varying and time-constant components. Numerical examples are presented to illustrate the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - A bootstrapped spectral test for adequacy in weak ARMA models
+AU  - Zhu, Ke
+AU  - Li, Wai Keung
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 113
+EP  - 130
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000299
+KW  - Block-wise random weighting method
+KW  - Diagnostic checking
+KW  - Least squares estimation
+KW  - Spectral test
+KW  - Weak ARMA models
+KW  - Wild bootstrap
+AB  - This paper proposes a Cramér–von Mises (CM) test statistic to check the adequacy of weak ARMA models. Without posing a martingale difference assumption on the error terms, the asymptotic null distribution of the CM test is obtained. Moreover, this CM test is consistent, and has nontrivial power against the local alternative of order n−1/2. Due to the unknown dependence of error terms and the estimation effects, a new block-wise random weighting method is constructed to bootstrap the critical values of the test statistic. The new method is easy to implement and its validity is justified. The theory is illustrated by a small simulation study and an application to S&P 500 stock index.
+ER  - 
+
+TY  - JOUR
+T1  - Explicit form of approximate transition probability density functions of diffusion processes
+AU  - Choi, Seungmoon
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 57
+EP  - 73
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000275
+KW  - Transition probability density function
+KW  - Multivariate diffusion
+KW  - Maximum likelihood estimation
+KW  - Option pricing
+AB  - A continuous-time diffusion process is very popular in modeling and provides useful tools to analyze particularly, but not restricted to, a variety of economic and financial variables. The transition probability density function (TPDF) of a diffusion process plays an important role in understanding and explaining the dynamics of the process. A new way to find closed-form approximate TPDFs for multivariate diffusions is proposed in this paper. This method can be applied to general multivariate time-inhomogeneous diffusion processes, as long as, roughly speaking, they have smooth drift and volatility functions. A diffusion process is said to be reducible if it can be converted into a unit diffusion process where the volatility is the identity matrix. We have established how to obtain the approximate TPDF of a reducible diffusion explicitly. When a diffusion process is not reducible, an explicit form of approximate TPDF can be obtained by using the results in Aït-Sahalia (2008) and Choi (2013). The TPDF expansion suggested here enables us to obtain a recursive formula for the coefficient of the approximate TPDF for a multivariate jump diffusion. Monte Carlo simulation studies of conducting maximum likelihood estimation (MLE) using our approximations provide convincing evidence that our TPDF expansion can be used for the MLE when the true TPDF is unavailable. We also applied our approximate TPDFs to option pricing. The differences between our option prices and those from the Extended Black–Scholes formula are shown to be quite small. This implies that our methods can be employed to price assets whose underlying state variables follow general diffusion models.
+ER  - 
+
+TY  - JOUR
+T1  - Diagnostic analysis and computational strategies for estimating discrete time duration models—A Monte Carlo study
+AU  - Li, Xianghong
+AU  - Smith, Barry
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 275
+EP  - 292
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000494
+KW  - Discrete time duration model
+KW  - Monte Carlo
+KW  - Simulated annealing
+KW  - Duration dependence
+KW  - Unobserved heterogeneity
+AB  - This paper uses Monte Carlo analysis to study important and contentious issues in estimating single-spell discrete time duration models. We find simulated annealing dominates gradient methods for recovering true models. We recommend a partially flexible step function for duration dependence combined with likelihood ratio tests for determining support points of unobserved heterogeneity. We find that ignoring time-changing features of explanatory variables introduces substantial biases in model coefficient and average partial effect estimates. These biases do not diminish as sample size increases.
+ER  - 
+
+TY  - JOUR
+T1  - Testing linearity using power transforms of regressors
+AU  - Baek, Yae In
+AU  - Cho, Jin Seo
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 376
+EP  - 384
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.041
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001220
+KW  - Box–Cox transform
+KW  - Gaussian stochastic process
+KW  - Neglected nonlinearity
+KW  - Power transformation
+KW  - Quasi-likelihood ratio test
+KW  - Trend exponent
+KW  - Trifold identification problem
+AB  - We develop a method of testing linearity using power transforms of regressors, allowing for stationary processes and time trends. The linear model is a simplifying hypothesis that derives from the power transform model in three different ways, each producing its own identification problem. We call this modeling difficulty the trifold identification problem and show that it may be overcome using a test based on the quasi-likelihood ratio (QLR) statistic. More specifically, the QLR statistic may be approximated under each identification problem and the separate null approximations may be combined to produce a composite approximation that embodies the linear model hypothesis. The limit theory for the QLR test statistic depends on a Gaussian stochastic process. In the important special case of a linear time trend regressor and martingale difference errors asymptotic critical values of the test are provided. Test power is analyzed and an empirical application to crop-yield distributions is provided. The paper also considers generalizations of the Box–Cox transformation, which are associated with the QLR test statistic.
+ER  - 
+
+TY  - JOUR
+T1  - K-state switching models with time-varying transition distributions—Does loan growth signal stronger effects of variables on inflation?
+AU  - Kaufmann, Sylvia
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 82
+EP  - 94
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500024X
+KW  - Bayesian analysis
+KW  - Time-varying Markov transition
+KW  - Permutation sampling
+KW  - Phillips curve
+KW  - Threshold level
+AB  - Two Bayesian sampling schemes are outlined to estimate a time-varying Markov switching transition distribution. Using data augmentation transforms the non-linear, non-normal logit transition model into a linear-normal one. A partial representation of the difference in random utility model in combination with random permutation sampling provides highest sampling efficiency. The level of the covariate in the transition distribution which balances the persistence across states is defined to be the threshold level. For illustration, we estimate a two-pillar Phillips curve for the euro area, in which loan growth affects the transition distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable and variable addition based inference in predictive regressions
+AU  - Breitung, Jörg
+AU  - Demetrescu, Matei
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 358
+EP  - 375
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000457
+KW  - Causality test
+KW  - Persistence
+KW  - Integration
+KW  - Long memory
+KW  - IV estimation
+AB  - Valid inference in predictive regressions depends in a crucial manner on the degree of persistence of the predictor variables. The paper studies test procedures that are robust in the sense that their asymptotic null distributions are invariant to the persistence of the predictor, that is, the limiting distribution is the same irrespective of whether the regressors are stationary or (nearly) integrated. Existing procedures are often conservative (e.g. tests based on Bonferroni bounds), are based on highly restrictive assumptions (such as homoskedasticity or assuming an AR(1) process for the regressor) or fail to have power against alternatives in a 1T neighborhood of the null hypothesis. We first propose a refinement of the variable addition method with improved asymptotic power approaching the optimal rate. Second, inference based on instrumental variables may further improve the (local) power of the test and even achieve local power under the optimal 1T rate. We give high-level conditions under which the suggested variable addition and instrumental variable procedures are valid no matter whether the predictor is stationary, near-integrated or integrated, or exhibits time-varying volatility. All test statistics possess a standard limiting distribution. Monte Carlo experiments suggest that tests based on simple combinations of instruments perform most promising relative to existing tests. An application to quarterly US stock returns illustrates the need for robust inference.
+ER  - 
+
+TY  - JOUR
+T1  - Non-nested testing of spatial correlation
+AU  - Delgado, Miguel A.
+AU  - Robinson, Peter M.
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 385
+EP  - 401
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.044
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000950
+KW  - Non-nested test
+KW  - Spatial correlation
+KW  - Pseudo maximum likelihood estimation
+AB  - We develop non-nested tests in a general spatial, spatio-temporal or panel data context. The spatial aspect can be interpreted quite generally, in either a geographical sense, or employing notions of economic distance, or when parametric modelling arises in part from a common factor or other structure. In the former case, observations may be regularly-spaced across one or more dimensions, as is typical with much spatio-temporal data, or irregularly-spaced across all dimensions; both isotropic models and non-isotropic models can be considered, and a wide variety of correlation structures. In the second case, models involving spatial weight matrices are covered, such as “spatial autoregressive models”. The setting is sufficiently general to potentially cover other parametric structures such as certain factor models, and vector-valued observations, and here our preliminary asymptotic theory for parameter estimates is of some independent value. The test statistic is based on a Gaussian pseudo-likelihood ratio, and is shown to have an asymptotic standard normal distribution under the null hypothesis that one of the two models is correct; this limit theory rests strongly on a central limit theorem for the Gaussian pseudo-maximum likelihood parameter estimates. A small Monte Carlo study of finite-sample performance is included.
+ER  - 
+
+TY  - JOUR
+T1  - Model selection tests for moment inequality models
+AU  - Shi, Xiaoxia
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 1
+EP  - 17
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000135
+KW  - Asymptotic size
+KW  - Kullback–Leibler divergence
+KW  - Model selection test
+KW  - Moment inequalities
+KW  - Overlapping models
+KW  - Partial identification
+AB  - We propose Vuong-type tests to select between two moment inequality models based on their Kullback–Leibler distances to the true data distribution. The candidate models can be either non-overlapping or overlapping. For each case, we develop a testing procedure that has correct asymptotic size in a uniform sense despite the potential lack of point identification. We show both procedures are consistent against fixed alternatives and local alternatives converging to the null at rates arbitrarily close to n−1/2. We demonstrate the finite-sample performance of the tests with Monte Carlo simulation of a missing data example. The tests are relatively easy to implement.
+ER  - 
+
+TY  - JOUR
+T1  - Sharp bounds on treatment effects in a binary triangular system
+AU  - Mourifié, Ismael
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 74
+EP  - 81
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000251
+KW  - Partial identification
+KW  - Threshold crossing model
+KW  - Triangular system
+KW  - Average treatment effect
+KW  - Endogeneity
+AB  - This paper considers the evaluation of the average treatment effect (ATE) in a triangular system with binary dependent variables. I impose a threshold crossing model on both the endogenous regressor and the outcome. The bounds proposed by Shaikh and Vytlacil (2011,SV) on the ATE are sharp only under a restrictive condition on the support of the covariates and the instruments, which rules out a wide range of models and many relevant applications. In this setting, I provide a methodology that allows the construction of sharp bounds on the ATE by efficiently using the variation of covariates without imposing support restrictions.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation in generalised varying-coefficient models with unspecified link functions
+AU  - Zhang, Wenyang
+AU  - Li, Degui
+AU  - Xia, Yingcun
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 238
+EP  - 255
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000470
+KW  - Generalised varying-coefficient models
+KW  - Identifiability
+KW  - Iterative estimation procedure
+KW  - Kernel smoothing
+KW  - Weighted least squares
+AB  - In this paper, we study the generalised varying-coefficient models, where the link function is unspecified and the response variable can be either continuous or discrete. As the link function is unspecified, the models under investigation become unidentifiable. In this paper, we derive an identification condition for the generalised varying-coefficient models, which is much weaker and more reasonable than that given by Kuruwita et al. (2011) whose model can be seen as a special case of our modelling framework. Under the identification condition, we introduce a nonparametric iterative procedure to estimate the functional coefficient with its direction and norm as well as the unspecified link function, and then establish the asymptotic properties of the resulting nonparametric estimators. Furthermore, a weighted least squares based algorithm is provided to implement the iterative estimation procedure. The simulation studies and empirical application show that our estimation methodology works quite well in both small and median sample cases.
+ER  - 
+
+TY  - JOUR
+T1  - Learning, confidence, and option prices
+AU  - Shaliastovich, Ivan
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 18
+EP  - 42
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000317
+KW  - Option price
+KW  - Jumps
+KW  - Recursive utility
+KW  - Confidence
+KW  - Learning
+AB  - The option-market evidence suggests that investors are concerned with large downward moves in equity prices, which occur once every one to two years in the data. This evidence is puzzling because there are no concurrent jumps in macroeconomic fundamentals. I estimate a confidence-risk model where agents use a constant gain specification to learn about the unobserved expected growth from the cross-section of signals. While consumption shocks are Gaussian, investors’ uncertainty (confidence measure) is subject to jumps, which endogenously trigger jump risks in equity and option markets. The model provides a good fit to macroeconomic, equity, option, and forecast data.
+ER  - 
+
+TY  - JOUR
+T1  - Simulated maximum likelihood estimation for discrete choices using transformed simulated frequencies
+AU  - Lee, Donghoon
+AU  - Song, Kyungchul
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 131
+EP  - 153
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000238
+KW  - Simulated MLE
+KW  - Discrete choice models
+KW  - Simulation bias
+KW  - Simulated frequencies
+KW  - Cube-root asymptotics
+AB  - Many existing methods of simulated likelihood for discrete choice models require additive errors that have normal or extreme value distributions. This paper focuses on a situation where the model does not admit such additive errors so that the popular method of GHK or logit estimation is not applicable. This paper proposes a new method of simulated likelihood that is free from simulation bias for each finite number of simulations, and yet flexible enough to accommodate various model specifications beyond those of additive normal or logit errors. The method begins with the likelihood function involving simulated frequencies and finds a transform of the likelihood function that identifies the true parameter for each finite simulation number. The transform is explicit, containing no unknowns that demand an additional step of estimation. The estimator achieves the efficiency of MLE when the simulation number increases fast enough. This paper presents and discusses results from Monte Carlo simulation studies of the new method.
+ER  - 
+
+TY  - JOUR
+T1  - A Quadratic Kalman Filter
+AU  - Monfort, Alain
+AU  - Renne, Jean-Paul
+AU  - Roussellet, Guillaume
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 43
+EP  - 56
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000123
+KW  - Non-linear filtering
+KW  - Non-linear smoothing
+KW  - Quadratic model
+KW  - Kalman filter
+KW  - Quasi maximum likelihood
+AB  - We propose a new filtering and smoothing technique for non-linear state-space models. Observed variables are quadratic functions of latent factors following a Gaussian VAR. Stacking the vector of factors with its vectorized outer-product, we form an augmented state vector whose first two conditional moments are known in closed-form. We also provide analytical formulae for the unconditional moments of this augmented vector. Our new Quadratic Kalman Filter (Qkf) exploits these properties to formulate fast and simple filtering and smoothing algorithms. A simulation study first emphasizes that the Qkf outperforms the extended and unscented approaches in the filtering exercise showing up to 70% RMSEs improvement of filtered values. Second, it provides evidence that Qkf-based maximum-likelihood estimates of model parameters always possess lower bias or lower RMSEs than the alternative estimators.
+ER  - 
+
+TY  - JOUR
+T1  - VAR for VaR: Measuring tail dependence using multivariate regression quantiles
+AU  - White, Halbert
+AU  - Kim, Tae-Hwan
+AU  - Manganelli, Simone
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 169
+EP  - 188
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000287
+KW  - Quantile impulse-responses
+KW  - Spillover
+KW  - Codependence
+KW  - CAViaR
+AB  - This paper proposes methods for estimation and inference in multivariate, multi-quantile models. The theory can simultaneously accommodate models with multiple random variables, multiple confidence levels, and multiple lags of the associated quantiles. The proposed framework can be conveniently thought of as a vector autoregressive (VAR) extension to quantile models. We estimate a simple version of the model using market equity returns data to analyze spillovers in the values at risk (VaR) between a market index and financial institutions. We construct impulse-response functions for the quantiles of a sample of 230 financial institutions around the world and study how financial institution-specific and system-wide shocks are absorbed by the system. We show how the long-run risk of the largest and most leveraged financial institutions is very sensitive to market wide shocks in situations of financial distress, suggesting that our methodology can prove a valuable addition to the traditional toolkit of policy makers and supervisors.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric tests for constant tail dependence with an application to energy and finance
+AU  - Bücher, Axel
+AU  - Jäschke, Stefan
+AU  - Wied, Dominik
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 154
+EP  - 168
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000263
+KW  - Break-point detection
+KW  - Multiplier bootstrap
+KW  - Tail dependence
+KW  - Weak convergence
+AB  - New tests for detecting structural breaks in the tail dependence of multivariate time series using the concept of tail copulas are presented. To obtain asymptotic properties, we derive a new limit result for the sequential empirical tail copula process. Moreover, consistency of both the tests and a break-point estimator are proven. We analyze the finite sample behavior of the tests by Monte Carlo simulations. Finally, and crucial from a risk management perspective, we apply the new findings to datasets from energy and financial markets.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - IFC
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00145-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001451
+ER  - 
+
+TY  - JOUR
+T1  - A flexible semiparametric forecasting model for time series
+AU  - Li, Degui
+AU  - Linton, Oliver
+AU  - Lu, Zudi
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 345
+EP  - 357
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000500
+KW  - Forecasting
+KW  - Marginal regression
+KW  - Model averaging
+KW  - Kernel estimation
+KW  - Near epoch dependence
+KW  - Semiparametric estimation
+AB  - In this paper, we propose a semiparametric procedure called the “Model Averaging MArginal Regression” (MAMAR) that is flexible for forecasting of time series. This procedure considers approximating a multivariate regression function by an affine combination of one-dimensional marginal regression functions. The weight parameters involved in the approximation are estimated by least squares on the basis of the first-stage nonparametric kernel estimates of the marginal regressions. Under some mild conditions, we have established asymptotic normality for the estimated weights and the regression function in two cases: Case I considers that the number of the covariates is fixed while Case II allows the number of the covariates depending on the sample size and diverging. As the observations are assumed to be stationary and near epoch dependent, the approach developed is applicable to both the estimation and forecasting issues in time series analysis. Furthermore, the method and result are augmented by a simulation study and illustrated by an application in forecasting the high frequency volatility of the FTSE100 index.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid generalized empirical likelihood estimators: Instrument selection with adaptive lasso
+AU  - Caner, Mehmet
+AU  - Fan, Qingliang
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 256
+EP  - 274
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500069X
+KW  - Model selection
+KW  - Near minimax risk bound
+KW  - Shrinkage estimators
+AB  - In this paper, we use the adaptive lasso estimator to choose the relevant instruments and eliminate the irrelevant instruments. The limit theory of Zou (2006) is extended from univariate iid case to heteroskedastic and non Gaussian data. Then we use the selected instruments in generalized empirical likelihood estimators (GEL). In this sense, these are called hybrid GEL. It is also shown that the lasso estimators are not model selection consistent whereas the adaptive lasso can select the correct model with fixed number of instruments. In simulations we show that hybrid GEL estimators have smaller bias and mean squared error than the other estimators in certain cases.
+ER  - 
+
+TY  - JOUR
+T1  - IV, GMM or likelihood approach to estimate dynamic panel models when either N or T or both are large
+AU  - Hsiao, Cheng
+AU  - Zhang, Junwei
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 312
+EP  - 322
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000962
+KW  - IV
+KW  - MLE
+KW  - GMM
+KW  - Asymptotic bias
+KW  - Large , 
+AB  - We examine the asymptotic properties of IV, GMM or MLE to estimate dynamic panel data models when either NorT or both are large. We show that the Anderson and Hsiao (1981, 1982) simple instrumental variable estimator (IV) or maximizing the likelihood function with initial value distribution properly treated (quasi-maximum likelihood estimator) is asymptotically unbiased when either N or T or both tend to infinity. On the other hand, the QMLE mistreating the initial value as fixed is asymptotically unbiased only if N is fixed and T is large. If both N and T are large and NT→c (c≠0,c<∞) as T→∞, it is asymptotically biased of order NT. We also explore the source of the bias of the Arellano and Bond (1991) type GMM estimator. We show that it is asymptotically biased of order TN if TN→c (c≠0,c<∞) as N→∞ even if we restrict the number of instruments used. Monte Carlo studies show that whether an estimator is asymptotically biased or not has important implications on the actual size of the conventional t-test.
+ER  - 
+
+TY  - JOUR
+T1  - Classical Laplace estimation for n3-consistent estimators: Improved convergence rates and rate-adaptive inference
+AU  - Jun, Sung Jae
+AU  - Pinkse, Joris
+AU  - Wan, Yuanyuan
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 201
+EP  - 216
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000147
+KW  - Laplace estimation
+KW  - -consistent estimators
+KW  - Rate-adaptive inference
+AB  - We propose a classical Laplace estimator alternative for a large class of n3-consistent estimators, including isotonic regression, monotone hazard, and maximum score estimators. The proposed alternative provides a unified method of smoothing; easier computation is a byproduct in the maximum score case. Depending on input parameter choice and smoothness, the convergence rate of our estimator varies between n3 and (almost) n and its limit distribution varies from Chernoff to normal. We provide a bias reduction method and an inference procedure which automatically adapts to the correct convergence rate and limit distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric specification tests for stochastic volatility models based on volatility density
+AU  - Zu, Yang
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 323
+EP  - 344
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.045
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001190
+KW  - Nonparametric tests
+KW  - Kernel deconvolution estimator
+KW  - Stochastic volatility model
+AB  - This paper develops a specification test for stochastic volatility models by comparing the nonparametric kernel deconvolution density estimator of an integrated volatility density with its parametric counterpart. L2 distance is used to measure the discrepancy. The asymptotic null distributions of the test statistics are established and the asymptotic power functions are computed. Through Monte Carlo simulations, the size and power properties of the test statistics are studied. The tests are applied to an empirical example.
+ER  - 
+
+TY  - JOUR
+T1  - A test of the null of integer integration against the alternative of fractional integration
+AU  - Cho, Cheol-Keun
+AU  - Amsler, Christine
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 1
+SP  - 217
+EP  - 237
+PY  - 2015
+DA  - 2015/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000482
+KW  - Fractionally integrated process
+KW  - Short memory
+KW  - Unit root
+AB  - This paper proposes a test of the null of integer integration against the alternative of fractional integration. The null of integer integration is satisfied if the series is either I(0) or I(1). We reject the null if the KPSS test rejects I(0) and a unit root test rejects I(1). We suggest a new unit root test (a lower-tail KPSS test applied to the differenced data) to use in this procedure. We provide critical values under standard asymptotics and fixed-b asymptotics. We prove the consistency of this testing procedure against I(d) alternatives with 0<d<1, and simulation evidence on the size and power of the test in finite samples is provided.
+ER  - 

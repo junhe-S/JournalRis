@@ -1,0 +1,246 @@
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - ii
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30265-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302659
+ER  - 
+
+TY  - JOUR
+T1  - On rank estimators in increasing dimensions
+AU  - Fan, Yanqin
+AU  - Han, Fang
+AU  - Li, Wei
+AU  - Zhou, Xiao-Hua
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 379
+EP  - 412
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301678
+KW  - Bahadur-type bounds
+KW  - Degenerate U-processes
+KW  - Maximal inequalities
+KW  - Uniform bounds
+AB  - The family of rank estimators, including Han’s maximum rank correlation (Han, 1987) as a notable example, has been widely exploited in studying regression problems. For these estimators, although the linear index is introduced for alleviating the impact of dimensionality, the effect of large dimension on inference is rarely studied. This paper fills this gap via studying the statistical properties of a larger family of M-estimators, whose objective functions are formulated as U-processes and may be discontinuous in increasing dimension set-up where the number of parameters, pn, in the model is allowed to increase with the sample size, n. First, we find that often in estimation, as pn∕n→0, (pn∕n)1∕2 rate of convergence is obtainable. Second, we establish Bahadur-type bounds and study the validity of normal approximation, which we find often requires a much stronger scaling requirement than pn2∕n→0. Third, we state conditions under which the numerical derivative estimator of asymptotic covariance matrix is consistent, and show that the step size in implementing the covariance estimator has to be adjusted with respect to pn. All theoretical results are further backed up by simulation studies.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric assessment of hedge fund performance
+AU  - Almeida, Caio
+AU  - Ardison, Kym
+AU  - Garcia, René
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 349
+EP  - 378
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301617
+KW  - Hedge funds
+KW  - Admissible performance measures
+KW  - Nonparametric estimation
+KW  - Higher-order moments
+AB  - We propose a new class of performance measures for Hedge Fund (HF) returns based on a family of empirically identifiable stochastic discount factors (SDFs). The SDF-based measures incorporate no-arbitrage pricing restrictions and naturally embed information about higher-order mixed moments between HF and benchmark factors returns. We provide a full asymptotic theory for our SDF estimators to test for the statistical significance of each fund’s performance and for the relevance of individual benchmark factors within each proposed measure. We apply our methodology to a panel of 4815 individual hedge funds. Our empirical analysis reveals that fewer funds have a statistically significant positive alpha compared to the Jensen’s alpha obtained by the traditional linear regression approach. Moreover, the funds’ rankings vary considerably between the two approaches. Performance also varies between the members of our family because of a different fund exposure to higher-order moments of the benchmark factors, highlighting the potential heterogeneity across investors in evaluating performance.
+ER  - 
+
+TY  - JOUR
+T1  - Panel threshold regressions with latent group structures
+AU  - Miao, Ke
+AU  - Su, Liangjun
+AU  - Wang, Wendun
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 451
+EP  - 481
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301708
+KW  - Classification
+KW  - Dynamic panel
+KW  - Latent group structures
+KW  - Panel structure model
+KW  - Panel threshold regression
+AB  - In this paper, we consider the least squares estimation of a panel structure threshold regression (PSTR) model where both the slope coefficients and threshold parameters may exhibit latent group structures. We study the asymptotic properties of the estimators of the latent group structure and the slope and threshold coefficients. We show that we can estimate the latent group structure correctly with probability approaching 1 and the estimators of the slope and threshold coefficients are asymptotically equivalent to the infeasible estimators that are obtained as if the true group structures were known. We study likelihood-ratio-based inferences on the group-specific threshold parameters under the shrinking-threshold-effect framework. We also propose two specification tests: one tests whether the threshold parameters are homogeneous across groups, and the other tests whether the threshold effects are present. When the number of latent groups is unknown, we propose a BIC-type information criterion to determine the number of groups in the data. Simulations demonstrate that our estimators and tests perform reasonably well in finite samples. We apply our model to revisit the relationship between capital market imperfection and the investment behavior of firms and to examine the impact of bank deregulation on income inequality. We document a large degree of heterogeneous effects in both applications that cannot be captured by conventional panel threshold regressions.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in heavy-tailed vector error correction models
+AU  - She, Rui
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 433
+EP  - 450
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301691
+KW  - Full rank LSE
+KW  - Cointegration
+KW  - Heavy-tailed random vector
+KW  - Reduced rank LSE
+AB  - This paper first studies the full rank least squares estimator (FLSE) of the heavy-tailed vector error correction (VEC) models. It is shown that the rate of convergence of the FLSE related to the long-run parameters is n (sample size) and its limiting distribution is a stochastic integral in terms of two stable random processes when the tail index α∈(0,2). Furthermore, we show that the rate of convergence of the FLSE related to the short-term parameters is n1∕αL̃(n) and its limiting distribution is a functional of two stable processes when α∈(1,2), where L̃(n) is a slowly varying function. However, when α∈(0,1), we show that the rate of convergence of the FLSE related to the short-term parameters is n and its limiting distribution not only depends on the stationary component itself but also depends on the unit root component. Based on the FLSE, we then study the limiting behavior of the reduced rank LSE (RLSE). The results related to the short-term parameters of both FLSE and RLSE are significantly different from those of heavy-tailed time series in the literature, and it may provide new insights in the area for future research. Simulation study is carried out to demonstrate the performance of both estimators. A real example with application to 3-month Treasury Bill rate, 1-year Treasury Bill rate and Federal Fund rate is given.
+ER  - 
+
+TY  - JOUR
+T1  - Annual Award Announcement
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - iii
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30268-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302684
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric filtering of conditional state-price densities
+AU  - Dalderop, Jeroen
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 295
+EP  - 325
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.022
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930168X
+KW  - Option pricing
+KW  - Kernel regression
+KW  - High-frequency data
+KW  - Random sampling times
+AB  - This paper studies the use of noisy high-frequency data to estimate the time-varying state-price density implicit in European option prices. A dynamic kernel estimator of the conditional pricing function and its derivatives is proposed that can be used for model-free risk measurement. Infill asymptotic theory is derived that applies when the pricing function is either smoothly varying or driven by diffusive state variables. Trading times and moneyness levels are modeled by marked point processes that capture intraday trading patterns. A simulation study investigates the performance of the estimator using a varying plug-in bandwidth in various scenarios. Empirical analysis using S&P 500 E-mini European option quotes reveals significant time-variation at intraday frequencies. An application towards delta- and minimum variance-hedging further illustrates the use of the estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Robust estimation with many instruments
+AU  - Sølvsten, Mikkel
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 495
+EP  - 512
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.040
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301721
+KW  - Instrumental variables
+KW  - Generalized method of moments
+KW  - Minimax estimation
+KW  - Stein’s method
+AB  - Linear instrumental variables models are widely used in empirical work, but often associated with low estimator precision. This paper proposes an estimator that is robust to outliers and shows that the estimator is minimax optimal in a class of estimators that includes the limited maximum likelihood estimator (LIML). Intuitively, this optimal robust estimator combines LIML with Winsorization of the structural residuals and the Winsorization leads to improved precision under thick-tailed error distributions. Consistency and asymptotic normality of the estimator are established under many instruments asymptotics and a consistent variance estimator which allows for asymptotically valid inference is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Variance disparity and market frictions
+AU  - Park, Yang-Ho
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 326
+EP  - 348
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301654
+KW  - Economic uncertainty
+KW  - Illiquidity
+KW  - Asymmetric information
+KW  - Implied variance
+KW  - VIX derivative
+AB  - This paper introduces a new model-free approach to measuring the expectation of market variance using VIX derivatives. This approach shows that VIX derivatives carry different information about future variance than S&P 500 (SPX) options, especially during the 2008 financial crisis. I find that the segmentation is associated with frictions such as funding illiquidity, market illiquidity, and asymmetric information. When they are segmented, VIX derivatives contribute more to the variance discovery process than SPX options. These findings imply that VIX derivatives would offer a better estimate of expected variance than SPX options, and that a measure of segmentation may be useful for policymakers as it signals the severity of frictions.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling regional patterns of inefficiency: A Bayesian approach to geoadditive panel stochastic frontier analysis with an application to cereal production in England and Wales
+AU  - Klein, Nadja
+AU  - Herwartz, Helmut
+AU  - Kneib, Thomas
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 513
+EP  - 539
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301587
+KW  - Bayesian regularization
+KW  - Distributional regression
+KW  - Farm efficiency
+KW  - Markov chain Monte Carlo
+KW  - Regional and spatial modelling
+KW  - Unobserved heterogeneity
+AB  - We propose a flexible Bayesian approach to inefficiency modelling that accounts for regional patterns of local performance. The model allows for a separated treatment of individual heterogeneity and determinants of inefficiency. Regional dependence structures and location-specific unobserved spatial heterogeneity are modelled via geoadditive predictors in the inefficiency term of the stochastic frontier model. Inference becomes feasible through Markov chain Monte Carlo simulation techniques. In an empirical illustration we find that regional patterns of inefficiency characterize cereal production in England and Wales. Neglecting common performance patterns of farms located in the same region induces systematic biases to inefficiency estimates.
+ER  - 
+
+TY  - JOUR
+T1  - Measurement error in multiple equations: Tobin’s q and corporate investment, saving, and debt
+AU  - Chalak, Karim
+AU  - Kim, Daniel
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 413
+EP  - 432
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301575
+KW  - Cash flow
+KW  - Measurement error
+KW  - Multiple equations
+KW  - Partial identification
+KW  - Sensitivity analysis
+KW  - Tobin’s q
+AB  - We characterize the sharp identification regions for the coefficients in a system of linear equations that share an explanatory variable measured with classical error. We demonstrate the identification gain from analyzing the equations jointly. We derive the sharp identification regions under any configuration of three auxiliary assumptions. These restrict the “noise-to-signal” ratio, the coefficients of determination, and the signs of the correlations among the cross-equation disturbances. For inference, we implement results on intersection bounds. The application studies the effects of cash flow on the investment, saving, and debt of firms when Tobin’s q serves as a proxy for marginal q.
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional minimum variance portfolio estimation based on high-frequency data
+AU  - Cai, T. Tony
+AU  - Hu, Jianchang
+AU  - Li, Yingying
+AU  - Zheng, Xinghua
+JO  - Journal of Econometrics
+VL  - 214
+IS  - 2
+SP  - 482
+EP  - 494
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.039
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301630
+KW  - Minimum variance portfolio
+KW  - High dimension
+KW  - High frequency
+KW  - CLIME estimator
+KW  - Precision matrix
+AB  - This paper studies the estimation of high-dimensional minimum variance portfolio (MVP) based on the high frequency returns which can exhibit heteroscedasticity and possibly be contaminated by microstructure noise. Under certain sparsity assumptions on the precision matrix, we propose estimators of the MVP and prove that our portfolios asymptotically achieve the minimum variance in a sharp sense. In addition, we introduce consistent estimators of the minimum variance, which provide reference targets. Simulation and empirical studies demonstrate the favorable performance of the proposed portfolios.
+ER  - 

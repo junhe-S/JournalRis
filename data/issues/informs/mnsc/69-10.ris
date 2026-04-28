@@ -1,0 +1,949 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Privacy and Market Concentration: Intended and Unintended Consequences of the GDPR
+AU  - Johnson, Garrett A.
+AU  - Shriver, Scott K.
+AU  - Goldberg, Samuel G.
+Y1  - 2023/03/10
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4709
+DO  - 10.1287/mnsc.2023.4709
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5695
+EP  - 5721
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We show that websites? vendor use falls after the European Union?s (EU?s) General Data Protection Regulation (GDPR), but that market concentration also increases among technology vendors that provide support services to websites. We collect panel data on the web technology vendors selected by more than 27,000 top websites internationally. The week after the GDPR?s enforcement, website use of web technology vendors falls by 15% for EU residents. Websites are relatively more likely to retain top vendors, which increases the concentration of the vendor market by 17%. Increased concentration predominantly arises among vendors that use personal data, such as cookies, and from the increased relative shares of Facebook and Google-owned vendors, but not from website consent requests. Although the aggregate changes in vendor use and vendor concentration dissipate by the end of 2018, we find that the GDPR impact persists in the advertising vendor category most scrutinized by regulators. Our findings shed light on potential explanations for the sudden drop and subsequent rebound in vendor usage.This paper was accepted by Matthew Shum, marketing.Funding: Financial support from the Marketing Science Institute and the George Mason University Program on Economics & Privacy is gratefully acknowledged.Supplemental Material: The web appendix and data are available at https://doi.org/10.1287/mnsc.2023.4709.
+AB  - We show that websites? vendor use falls after the European Union?s (EU?s) General Data Protection Regulation (GDPR), but that market concentration also increases among technology vendors that provide support services to websites. We collect panel data on the web technology vendors selected by more than 27,000 top websites internationally. The week after the GDPR?s enforcement, website use of web technology vendors falls by 15% for EU residents. Websites are relatively more likely to retain top vendors, which increases the concentration of the vendor market by 17%. Increased concentration predominantly arises among vendors that use personal data, such as cookies, and from the increased relative shares of Facebook and Google-owned vendors, but not from website consent requests. Although the aggregate changes in vendor use and vendor concentration dissipate by the end of 2018, we find that the GDPR impact persists in the advertising vendor category most scrutinized by regulators. Our findings shed light on potential explanations for the sudden drop and subsequent rebound in vendor usage.This paper was accepted by Matthew Shum, marketing.Funding: Financial support from the Marketing Science Institute and the George Mason University Program on Economics & Privacy is gratefully acknowledged.Supplemental Material: The web appendix and data are available at https://doi.org/10.1287/mnsc.2023.4709.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4709
+UR  - https://doi.org/10.1287/mnsc.2023.4709
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Nonstationary Reinforcement Learning: The Blessing of (More) Optimism
+AU  - Cheung, Wang Chi
+AU  - Simchi-Levi, David
+AU  - Zhu, Ruihao
+Y1  - 2023/02/22
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4704
+DO  - 10.1287/mnsc.2023.4704
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5722
+EP  - 5739
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Motivated by operations research applications, such as inventory control and real-time bidding, we consider undiscounted reinforcement learning in Markov decision processes under model uncertainty and temporal drifts. In this setting, both the latent reward and state transition distributions are allowed to evolve over time, as long as their respective total variations, quantified by suitable metrics, do not exceed certain variation budgets. We first develop the sliding window upper confidence bound for reinforcement learning with confidence-widening (SWUCRL2-CW) algorithm and establish its dynamic regret bound when the variation budgets are known. In addition, we propose the bandit-over-reinforcement learning algorithm to adaptively tune the SWUCRL2-CW algorithm to achieve the same dynamic regret bound but in a parameter-free manner (i.e., without knowing the variation budgets). Finally, we conduct numerical experiments to show that our proposed algorithms achieve superior empirical performance compared with existing algorithms. Notably, under nonstationarity, historical data samples may falsely indicate that state transition rarely happens. This thus presents a significant challenge when one tries to apply the conventional optimism in the face of uncertainty principle to achieve a low dynamic regret bound. We overcome this challenge by proposing a novel confidence-widening technique that incorporates additional optimism into our learning algorithms. To extend our theoretical findings, we demonstrate, in the context of single-item inventory control with lost sales, fixed cost, and zero lead time, how one can leverage special structures on the state transition distributions to achieve improved dynamic regret bound in time-varying demand environments.This paper was accepted by J. George Shanthikumar, data science.Funding: The authors acknowledge support from the Massachusetts Institute of Technology (MIT) Data Science Laboratory and the MIT?IBM partnership in artificial intelligence. W. C. Cheung acknowledges support from the Singapore Ministry of Education [Tier 2 Grant MOE-T2EP20121-0012].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4704.
+AB  - Motivated by operations research applications, such as inventory control and real-time bidding, we consider undiscounted reinforcement learning in Markov decision processes under model uncertainty and temporal drifts. In this setting, both the latent reward and state transition distributions are allowed to evolve over time, as long as their respective total variations, quantified by suitable metrics, do not exceed certain variation budgets. We first develop the sliding window upper confidence bound for reinforcement learning with confidence-widening (SWUCRL2-CW) algorithm and establish its dynamic regret bound when the variation budgets are known. In addition, we propose the bandit-over-reinforcement learning algorithm to adaptively tune the SWUCRL2-CW algorithm to achieve the same dynamic regret bound but in a parameter-free manner (i.e., without knowing the variation budgets). Finally, we conduct numerical experiments to show that our proposed algorithms achieve superior empirical performance compared with existing algorithms. Notably, under nonstationarity, historical data samples may falsely indicate that state transition rarely happens. This thus presents a significant challenge when one tries to apply the conventional optimism in the face of uncertainty principle to achieve a low dynamic regret bound. We overcome this challenge by proposing a novel confidence-widening technique that incorporates additional optimism into our learning algorithms. To extend our theoretical findings, we demonstrate, in the context of single-item inventory control with lost sales, fixed cost, and zero lead time, how one can leverage special structures on the state transition distributions to achieve improved dynamic regret bound in time-varying demand environments.This paper was accepted by J. George Shanthikumar, data science.Funding: The authors acknowledge support from the Massachusetts Institute of Technology (MIT) Data Science Laboratory and the MIT?IBM partnership in artificial intelligence. W. C. Cheung acknowledges support from the Singapore Ministry of Education [Tier 2 Grant MOE-T2EP20121-0012].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4704.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4704
+UR  - https://doi.org/10.1287/mnsc.2023.4704
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Theory of Liquidity in Private Equity
+AU  - Maurin, Vincent
+AU  - Robinson, David T.
+AU  - Strömberg, Per
+Y1  - 2022/12/15
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4612
+DO  - 10.1287/mnsc.2022.4612
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5740
+EP  - 5771
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We develop a model of private equity capturing two fundamental features of this market: the fund structure and illiquidity. A fund structure with sequential capital calls arises as an optimal solution to fund managers? (GPs) moral hazard problem but exposes investors (LPs) to illiquidity risk. Funds with more illiquidity-tolerant LPs realize higher returns, leading to different expected returns across both funds and LPs in equilibrium. GPs may inefficiently accelerate drawdowns to avoid default by LPs on capital commitments. With a secondary market for LP claims, differences in fund returns are attenuated but differences in LP returns remain. The model can rationalize several empirical findings on primary and secondary private equity markets.This paper was accepted by Bruno Biais, finance.Funding: V. Maurin thanks the Swedish House of Finance for financial support. P. Strömberg thanks the NASDAQ Nordic Foundation, Söderberg Professorship in Economics, and Swedish House of Finance for financial support. D. Robinson thanks the Bertil Danielsson Professorship and Erling Persson Professorship for financial support.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4612.
+AB  - We develop a model of private equity capturing two fundamental features of this market: the fund structure and illiquidity. A fund structure with sequential capital calls arises as an optimal solution to fund managers? (GPs) moral hazard problem but exposes investors (LPs) to illiquidity risk. Funds with more illiquidity-tolerant LPs realize higher returns, leading to different expected returns across both funds and LPs in equilibrium. GPs may inefficiently accelerate drawdowns to avoid default by LPs on capital commitments. With a secondary market for LP claims, differences in fund returns are attenuated but differences in LP returns remain. The model can rationalize several empirical findings on primary and secondary private equity markets.This paper was accepted by Bruno Biais, finance.Funding: V. Maurin thanks the Swedish House of Finance for financial support. P. Strömberg thanks the NASDAQ Nordic Foundation, Söderberg Professorship in Economics, and Swedish House of Finance for financial support. D. Robinson thanks the Bertil Danielsson Professorship and Erling Persson Professorship for financial support.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4612.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4612
+UR  - https://doi.org/10.1287/mnsc.2022.4612
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Distributionally Robust Batch Contextual Bandits
+AU  - Si, Nian
+AU  - Zhang, Fan
+AU  - Zhou, Zhengyuan
+AU  - Blanchet, Jose
+Y1  - 2023/03/31
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4678
+DO  - 10.1287/mnsc.2023.4678
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5772
+EP  - 5793
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Policy learning using historical observational data are an important problem that has widespread applications. Examples include selecting offers, prices, or advertisements for consumers; choosing bids in contextual first-price auctions; and selecting medication based on patients? characteristics. However, existing literature rests on the crucial assumption that the future environment where the learned policy will be deployed is the same as the past environment that has generated the data: an assumption that is often false or too coarse an approximation. In this paper, we lift this assumption and aim to learn a distributionally robust policy with incomplete observational data. We first present a policy evaluation procedure that allows us to assess how well the policy does under worst-case environment shift. We then establish a central limit theorem type guarantee for this proposed policy evaluation scheme. Leveraging this evaluation scheme, we further propose a novel learning algorithm that is able to learn a policy that is robust to adversarial perturbations and unknown covariate shifts with a performance guarantee based on the theory of uniform convergence. Finally, we empirically test the effectiveness of our proposed algorithm in synthetic datasets and demonstrate that it provides the robustness that is missing using standard policy learning algorithms. We conclude the paper by providing a comprehensive application of our methods in the context of a real-world voting data set.This paper was accepted by Hamid Nazerzadeh, data science.Funding: This work was supported by the National Science Foundation [Grant CCF-2106508] and the Air Force Office of Scientific Research [Award FA9550-20-1-0397]. Z. Zhou also gratefully acknowledges the JP Morgan AI Research Grant and the New York University?s Center for Global Economy and Business faculty research grant for support on this work. Additional support is gratefully acknowledged from the National Science Foundation [Grants 1915967 and 2118199].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4678.
+AB  - Policy learning using historical observational data are an important problem that has widespread applications. Examples include selecting offers, prices, or advertisements for consumers; choosing bids in contextual first-price auctions; and selecting medication based on patients? characteristics. However, existing literature rests on the crucial assumption that the future environment where the learned policy will be deployed is the same as the past environment that has generated the data: an assumption that is often false or too coarse an approximation. In this paper, we lift this assumption and aim to learn a distributionally robust policy with incomplete observational data. We first present a policy evaluation procedure that allows us to assess how well the policy does under worst-case environment shift. We then establish a central limit theorem type guarantee for this proposed policy evaluation scheme. Leveraging this evaluation scheme, we further propose a novel learning algorithm that is able to learn a policy that is robust to adversarial perturbations and unknown covariate shifts with a performance guarantee based on the theory of uniform convergence. Finally, we empirically test the effectiveness of our proposed algorithm in synthetic datasets and demonstrate that it provides the robustness that is missing using standard policy learning algorithms. We conclude the paper by providing a comprehensive application of our methods in the context of a real-world voting data set.This paper was accepted by Hamid Nazerzadeh, data science.Funding: This work was supported by the National Science Foundation [Grant CCF-2106508] and the Air Force Office of Scientific Research [Award FA9550-20-1-0397]. Z. Zhou also gratefully acknowledges the JP Morgan AI Research Grant and the New York University?s Center for Global Economy and Business faculty research grant for support on this work. Additional support is gratefully acknowledged from the National Science Foundation [Grants 1915967 and 2118199].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4678.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4678
+UR  - https://doi.org/10.1287/mnsc.2023.4678
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - CEO Succession Roulette
+AU  - Cvijanović, Dragana
+AU  - Gantchev, Nickolay
+AU  - Li, Rachel
+Y1  - 2022/10/31
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4572
+DO  - 10.1287/mnsc.2022.4572
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5794
+EP  - 5815
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Despite intense scrutiny from investors, markets, and regulators, many public companies have no formal succession plans. Anecdotal evidence links succession risk to significant value destruction, but there is limited academic research evaluating the effects of succession planning on chief executive officer (CEO) turnover outcomes. We provide evidence that succession planning reduces the cost of management transitions by improving their efficiency. Firms with succession plans experience not only lower uncertainty around turnover events but also a faster reduction in uncertainty over the incoming CEO?s tenure, consistent with faster learning about CEO-firm fit. Succession planning also raises the quality of the CEO-firm match, as evidenced by longer CEO tenure, and improves the board?s readiness to replace an underperforming CEO, increasing turnover performance sensitivity.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The data are available at https://doi.org/10.1287/mnsc.2022.4572.
+AB  - Despite intense scrutiny from investors, markets, and regulators, many public companies have no formal succession plans. Anecdotal evidence links succession risk to significant value destruction, but there is limited academic research evaluating the effects of succession planning on chief executive officer (CEO) turnover outcomes. We provide evidence that succession planning reduces the cost of management transitions by improving their efficiency. Firms with succession plans experience not only lower uncertainty around turnover events but also a faster reduction in uncertainty over the incoming CEO?s tenure, consistent with faster learning about CEO-firm fit. Succession planning also raises the quality of the CEO-firm match, as evidenced by longer CEO tenure, and improves the board?s readiness to replace an underperforming CEO, increasing turnover performance sensitivity.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The data are available at https://doi.org/10.1287/mnsc.2022.4572.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4572
+UR  - https://doi.org/10.1287/mnsc.2022.4572
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Reciprocity in Dynamic Employment Relationships
+AU  - Fahn, Matthias
+Y1  - 2023/01/10
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4657
+DO  - 10.1287/mnsc.2022.4657
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5816
+EP  - 5829
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - This paper analyzes a dynamic relational contract for employees with reciprocal preferences. A model of a long-term employment relationship is developed that implies that generous upfront wages activate the norm of reciprocity and then are more important when an employee is close to retirement. In earlier stages, direct incentives promising a bonus in exchange for effort are more effective. Hence, direct and reciprocity-based incentives reinforce each other and should be used in combination. Moreover, a more competitive labor market may increase the utilization of reciprocity-based incentives.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.Funding: This work was supported by Hardegg?sche Stiftung, the Deutsche Forschungsgemeinschaft [CRC TRR 190], and the Austrian Science Fund [Grant P 33307-G].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4657.
+AB  - This paper analyzes a dynamic relational contract for employees with reciprocal preferences. A model of a long-term employment relationship is developed that implies that generous upfront wages activate the norm of reciprocity and then are more important when an employee is close to retirement. In earlier stages, direct incentives promising a bonus in exchange for effort are more effective. Hence, direct and reciprocity-based incentives reinforce each other and should be used in combination. Moreover, a more competitive labor market may increase the utilization of reciprocity-based incentives.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.Funding: This work was supported by Hardegg?sche Stiftung, the Deutsche Forschungsgemeinschaft [CRC TRR 190], and the Austrian Science Fund [Grant P 33307-G].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4657.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4657
+UR  - https://doi.org/10.1287/mnsc.2022.4657
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Model-Free Assortment Pricing with Transaction Data
+AU  - Chen, Ningyuan
+AU  - Cire, Andre A.
+AU  - Hu, Ming
+AU  - Lagzi, Saman
+Y1  - 2023/01/16
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4651
+DO  - 10.1287/mnsc.2022.4651
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5830
+EP  - 5847
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We study the problem when a firm sets prices for products based on the transaction data, that is, which product past customers chose from an assortment and what were the historical prices that they observed. Our approach does not impose a model on the distribution of the customers? valuations and only assumes, instead, that purchase choices satisfy incentive-compatible constraints. The uncertainty set of potential valuations of each past customer can then be encoded as a polyhedral set, and our approach maximizes the worst case revenue, assuming that new customers? valuations are drawn from the empirical distribution implied by the collection of such polyhedra. We study the single-product case analytically and relate it to the traditional model-based approach. Then, we show that the optimal prices in the general case can be approximated at any arbitrary precision by solving a compact mixed-integer linear program. We further design three approximation strategies that are of low computational complexity and interpretable. In particular, the cutoff pricing heuristic has a competent provable performance guarantee. Comprehensive numerical studies based on synthetic and real data suggest that our pricing approach is uniquely beneficial when the historical data has a limited size or is susceptible to model misspecification.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: This work was supported by the Rotman School of Management (TD-MDAL Research Grant) and the Natural Sciences and Engineering Research Council of Canada [Grants RGPIN-2015-06757, RGPIN-2020-04038, RGPIN-2020-06054, RGPIN-2021-04295].Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2022.4651.
+AB  - We study the problem when a firm sets prices for products based on the transaction data, that is, which product past customers chose from an assortment and what were the historical prices that they observed. Our approach does not impose a model on the distribution of the customers? valuations and only assumes, instead, that purchase choices satisfy incentive-compatible constraints. The uncertainty set of potential valuations of each past customer can then be encoded as a polyhedral set, and our approach maximizes the worst case revenue, assuming that new customers? valuations are drawn from the empirical distribution implied by the collection of such polyhedra. We study the single-product case analytically and relate it to the traditional model-based approach. Then, we show that the optimal prices in the general case can be approximated at any arbitrary precision by solving a compact mixed-integer linear program. We further design three approximation strategies that are of low computational complexity and interpretable. In particular, the cutoff pricing heuristic has a competent provable performance guarantee. Comprehensive numerical studies based on synthetic and real data suggest that our pricing approach is uniquely beneficial when the historical data has a limited size or is susceptible to model misspecification.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: This work was supported by the Rotman School of Management (TD-MDAL Research Grant) and the Natural Sciences and Engineering Research Council of Canada [Grants RGPIN-2015-06757, RGPIN-2020-04038, RGPIN-2020-06054, RGPIN-2021-04295].Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2022.4651.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4651
+UR  - https://doi.org/10.1287/mnsc.2022.4651
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - How Big Should Your Data Really Be? Data-Driven Newsvendor: Learning One Sample at a Time
+AU  - Besbes, Omar
+AU  - Mouchtaki, Omar
+Y1  - 2023/04/05
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4725
+DO  - 10.1287/mnsc.2023.4725
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5848
+EP  - 5865
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We study the classical newsvendor problem in which the decision maker must trade off underage and overage costs. In contrast to the typical setting, we assume that the decision maker does not know the underlying distribution driving uncertainty but has only access to historical data. In turn, the key questions are how to map existing data to a decision and what type of performance to expect as a function of the data size. We analyze the classical setting with access to past samples drawn from the distribution (e.g., past demand), focusing not only on asymptotic performance but also on what we call the transient regime of learning, that is, performance for arbitrary data sizes. We evaluate the performance of any algorithm through its worst-case relative expected regret, compared with an oracle with knowledge of the distribution. We provide the first finite sample exact analysis of the classical sample average approximation (SAA) algorithm for this class of problems across all data sizes. This allows one to uncover novel fundamental insights on the value of data: It reveals that tens of samples are sufficient to perform very efficiently but also that more data can lead to worse out-of-sample performance for SAA. We then focus on the general class of mappings from data to decisions without any restriction on the set of policies and derive an optimal algorithm (in the minimax sense) and characterize its associated performance. This leads to significant improvements for limited data sizes and allows to exactly quantify the value of historical information.This paper was accepted by David Simchi-Levi, data science.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4725.
+AB  - We study the classical newsvendor problem in which the decision maker must trade off underage and overage costs. In contrast to the typical setting, we assume that the decision maker does not know the underlying distribution driving uncertainty but has only access to historical data. In turn, the key questions are how to map existing data to a decision and what type of performance to expect as a function of the data size. We analyze the classical setting with access to past samples drawn from the distribution (e.g., past demand), focusing not only on asymptotic performance but also on what we call the transient regime of learning, that is, performance for arbitrary data sizes. We evaluate the performance of any algorithm through its worst-case relative expected regret, compared with an oracle with knowledge of the distribution. We provide the first finite sample exact analysis of the classical sample average approximation (SAA) algorithm for this class of problems across all data sizes. This allows one to uncover novel fundamental insights on the value of data: It reveals that tens of samples are sufficient to perform very efficiently but also that more data can lead to worse out-of-sample performance for SAA. We then focus on the general class of mappings from data to decisions without any restriction on the set of policies and derive an optimal algorithm (in the minimax sense) and characterize its associated performance. This leads to significant improvements for limited data sizes and allows to exactly quantify the value of historical information.This paper was accepted by David Simchi-Levi, data science.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4725.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4725
+UR  - https://doi.org/10.1287/mnsc.2023.4725
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Pricing with a Single Point
+AU  - Allouah, Amine
+AU  - Bahamou, Achraf
+AU  - Besbes, Omar
+Y1  - 2023/05/09
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4683
+DO  - 10.1287/mnsc.2023.4683
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5866
+EP  - 5882
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Historical data are typically limited. We study the following fundamental data-driven pricing problem. How can/should a decision maker price its product based on data at a single historical price? How valuable is such data? We consider a decision maker who optimizes over (potentially randomized) pricing policies to maximize the worst-case ratio of the garnered revenue compared to an oracle with full knowledge of the distribution of values, when the latter is only assumed to belong to a broad nonparametric set. In particular, our framework applies to the widely used regular and monotone nondecreasing hazard rate (mhr) classes of distributions. For settings where the seller knows the exact probability of sale associated with one historical price or only a confidence interval for it, we fully characterize optimal performance and near-optimal pricing algorithms that adjust to the information at hand. The framework we develop is general and allows to characterize optimal performance for deterministic or more general randomized mechanisms and leads to fundamental novel insights on the value of data for pricing. As examples, against mhr distributions, we show that it is possible to guarantee 85% of oracle performance if one knows that half of the customers have bought at the historical price, and if only 1% of the customers bought, it still possible to guarantee 51% of oracle performance.This paper was accepted by David Simchi-Levi, revenue management and market analytics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4683.
+AB  - Historical data are typically limited. We study the following fundamental data-driven pricing problem. How can/should a decision maker price its product based on data at a single historical price? How valuable is such data? We consider a decision maker who optimizes over (potentially randomized) pricing policies to maximize the worst-case ratio of the garnered revenue compared to an oracle with full knowledge of the distribution of values, when the latter is only assumed to belong to a broad nonparametric set. In particular, our framework applies to the widely used regular and monotone nondecreasing hazard rate (mhr) classes of distributions. For settings where the seller knows the exact probability of sale associated with one historical price or only a confidence interval for it, we fully characterize optimal performance and near-optimal pricing algorithms that adjust to the information at hand. The framework we develop is general and allows to characterize optimal performance for deterministic or more general randomized mechanisms and leads to fundamental novel insights on the value of data for pricing. As examples, against mhr distributions, we show that it is possible to guarantee 85% of oracle performance if one knows that half of the customers have bought at the historical price, and if only 1% of the customers bought, it still possible to guarantee 51% of oracle performance.This paper was accepted by David Simchi-Levi, revenue management and market analytics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4683.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4683
+UR  - https://doi.org/10.1287/mnsc.2023.4683
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Information Disclosure and Promotion Policy Design for Platforms
+AU  - Gur, Yonatan
+AU  - Macnamara, Gregory
+AU  - Morgenstern, Ilan
+AU  - Saban, Daniela
+Y1  - 2023/02/02
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4677
+DO  - 10.1287/mnsc.2023.4677
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5883
+EP  - 5903
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We consider a platform facilitating trade between sellers and buyers with the objective of maximizing consumer surplus. Even though in many such marketplaces, prices are set by revenue-maximizing sellers, platforms can influence prices through (i) price-dependent promotion policies that can increase demand for a product by featuring it in a prominent position on the web page and (ii) the information revealed to sellers about the value of being promoted. Identifying effective joint information design and promotion policies is a challenging dynamic problem as sellers can sequentially learn the promotion value from sales observations and update prices accordingly. We introduce the notion of confounding promotion policies, which are designed to prevent a Bayesian seller from learning the promotion value (at the expense of the short-run loss of diverting some consumers from the best product offering). Leveraging these policies, we characterize the maximum long-run average consumer surplus that is achievable through joint information design and promotion policies when the seller sets prices myopically. We then construct a Bayesian Nash equilibrium, in which the seller?s best response to the platform?s optimal policy is to price myopically in every period. Moreover, the equilibrium we identify is platform optimal within the class of horizon-maximin equilibria, in which strategies are not predicated on precise knowledge of the horizon length and are designed to maximize payoff over the worst-case horizon. Our analysis allows one to identify practical long-run average optimal platform policies in a broad range of demand models.This paper was accepted by David Simchi-Levi, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4677.
+AB  - We consider a platform facilitating trade between sellers and buyers with the objective of maximizing consumer surplus. Even though in many such marketplaces, prices are set by revenue-maximizing sellers, platforms can influence prices through (i) price-dependent promotion policies that can increase demand for a product by featuring it in a prominent position on the web page and (ii) the information revealed to sellers about the value of being promoted. Identifying effective joint information design and promotion policies is a challenging dynamic problem as sellers can sequentially learn the promotion value from sales observations and update prices accordingly. We introduce the notion of confounding promotion policies, which are designed to prevent a Bayesian seller from learning the promotion value (at the expense of the short-run loss of diverting some consumers from the best product offering). Leveraging these policies, we characterize the maximum long-run average consumer surplus that is achievable through joint information design and promotion policies when the seller sets prices myopically. We then construct a Bayesian Nash equilibrium, in which the seller?s best response to the platform?s optimal policy is to price myopically in every period. Moreover, the equilibrium we identify is platform optimal within the class of horizon-maximin equilibria, in which strategies are not predicated on precise knowledge of the horizon length and are designed to maximize payoff over the worst-case horizon. Our analysis allows one to identify practical long-run average optimal platform policies in a broad range of demand models.This paper was accepted by David Simchi-Levi, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4677.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4677
+UR  - https://doi.org/10.1287/mnsc.2023.4677
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Managing Outpatient Service with Strategic Walk-ins
+AU  - Liu, Nan
+AU  - van Jaarsveld, Willem
+AU  - Wang, Shan
+AU  - Xiao, Guanlian
+Y1  - 2023/02/06
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4676
+DO  - 10.1287/mnsc.2023.4676
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5904
+EP  - 5922
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Outpatient care providers usually allow patients to access service via scheduling appointments or direct walk-in. Patients choose strategically between these two access channels (and otherwise balking) based on the trade-off of appointment delay and in-clinic waiting. How to manage outpatient care with such dual access channels, taking into account patient strategic choice behavior, is a challenge faced by providers. We study three operational levers to address this management challenge: service capacity allocation between these two channels, appointment delay information revelation via the choice and design of online scheduling systems, and a walk-in triage system that restricts the use of walk-in hours only for acute care. By studying a stylized queueing model, we find that neither a real-time online scheduling system (which offers instant access to appointment delay information at time of booking) nor an asynchronous online system (which does not directly provide delay information) can be universally more efficient. Although real-time systems appear more popular in practice, asynchronous systems sometimes can result in higher operational efficiency. Under the provider?s optimal capacity allocation, which scheduling system is more efficient hinges on two key factors: the patient demand?provider capacity relationship and patient willingness to wait. For the walk-in triage system, we find that it may or may not be beneficial to adopt; the provider?s own cost trade-off between lost demand and overtime work is the key determinant. Our research highlights that there is no one-size-fits-all model for outpatient care management, and the best use of operational levers critically depends on the practice environment.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: S. Wang?s work was supported in part by the National Natural Science Foundation of China [Grants 72001220 and 71931008].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4676.
+AB  - Outpatient care providers usually allow patients to access service via scheduling appointments or direct walk-in. Patients choose strategically between these two access channels (and otherwise balking) based on the trade-off of appointment delay and in-clinic waiting. How to manage outpatient care with such dual access channels, taking into account patient strategic choice behavior, is a challenge faced by providers. We study three operational levers to address this management challenge: service capacity allocation between these two channels, appointment delay information revelation via the choice and design of online scheduling systems, and a walk-in triage system that restricts the use of walk-in hours only for acute care. By studying a stylized queueing model, we find that neither a real-time online scheduling system (which offers instant access to appointment delay information at time of booking) nor an asynchronous online system (which does not directly provide delay information) can be universally more efficient. Although real-time systems appear more popular in practice, asynchronous systems sometimes can result in higher operational efficiency. Under the provider?s optimal capacity allocation, which scheduling system is more efficient hinges on two key factors: the patient demand?provider capacity relationship and patient willingness to wait. For the walk-in triage system, we find that it may or may not be beneficial to adopt; the provider?s own cost trade-off between lost demand and overtime work is the key determinant. Our research highlights that there is no one-size-fits-all model for outpatient care management, and the best use of operational levers critically depends on the practice environment.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: S. Wang?s work was supported in part by the National Natural Science Foundation of China [Grants 72001220 and 71931008].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4676.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4676
+UR  - https://doi.org/10.1287/mnsc.2023.4676
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Hospital Care Scheduling During the SARS-CoV-2 Pandemic
+AU  - D’Aeth, Josh C.
+AU  - Ghosal, Shubhechyya
+AU  - Grimm, Fiona
+AU  - Haw, David
+AU  - Koca, Esma
+AU  - Lau, Krystal
+AU  - Liu, Huikang
+AU  - Moret, Stefano
+AU  - Rizmie, Dheeya
+AU  - Smith, Peter C.
+AU  - Forchini, Giovanni
+AU  - Miraldo, Marisa
+AU  - Wiesemann, Wolfram
+Y1  - 2023/02/21
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4679
+DO  - 10.1287/mnsc.2023.4679
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5923
+EP  - 5947
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - The COVID-19 pandemic has seen dramatic demand surges for hospital care that have placed a severe strain on health systems worldwide. As a result, policy makers are faced with the challenge of managing scarce hospital capacity to reduce the backlog of non-COVID patients while maintaining the ability to respond to any potential future increases in demand for COVID care. In this paper, we propose a nationwide prioritization scheme that models each individual patient as a dynamic program whose states encode the patient?s health and treatment condition, whose actions describe the available treatment options, whose transition probabilities characterize the stochastic evolution of the patient?s health, and whose rewards encode the contribution to the overall objectives of the health system. The individual patients? dynamic programs are coupled through constraints on the available resources, such as hospital beds, doctors, and nurses. We show that the overall problem can be modeled as a grouped weakly coupled dynamic program for which we determine near-optimal solutions through a fluid approximation. Our case study for the National Health Service in England shows how years of life can be gained by prioritizing specific disease types over COVID patients, such as injury and poisoning, diseases of the respiratory system, diseases of the circulatory system, diseases of the digestive system, and cancer.This paper was accepted by Chung-Piaw Teo, optimization.Funding: G. Forchini acknowledges funding from Jan Wallanders and Tom Hedelius Foundation and the Tore Browaldh Foundation, funding from MRC Centre for Global Infectious Disease Analysis [Reference MR/R015600/1], jointly funded by the UK Medical Research Council (MRC) and the UK Foreign, Commonwealth and Development Office (FCDO), under the MRC/FCDO Concordat agreement, part of the EDCTP2 program supported by the European Union; and acknowledges funding by Community Jameel. D. Rizmie acknowledges partial funding from the MRC Centre for Global Infectious Disease Analysis [Reference MR/R015600/1]. J. C. D?Aeth acknowledges funding from the Wellcome Trust [Reference 102169/Z/13/Z]. S. Moret acknowledges partial support from the Swiss National Science Foundation (SNSF) under [Grant P2ELP2_188028]. S. Ghosal was funded by the Imperial College President?s PhD Scholarship. F. Grimm was funded by the Health Foundation as part of core staff member activity. This research was funded in whole, or in part, by the Wellcome Trust [Grant 102169/Z/13/Z].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4679.
+AB  - The COVID-19 pandemic has seen dramatic demand surges for hospital care that have placed a severe strain on health systems worldwide. As a result, policy makers are faced with the challenge of managing scarce hospital capacity to reduce the backlog of non-COVID patients while maintaining the ability to respond to any potential future increases in demand for COVID care. In this paper, we propose a nationwide prioritization scheme that models each individual patient as a dynamic program whose states encode the patient?s health and treatment condition, whose actions describe the available treatment options, whose transition probabilities characterize the stochastic evolution of the patient?s health, and whose rewards encode the contribution to the overall objectives of the health system. The individual patients? dynamic programs are coupled through constraints on the available resources, such as hospital beds, doctors, and nurses. We show that the overall problem can be modeled as a grouped weakly coupled dynamic program for which we determine near-optimal solutions through a fluid approximation. Our case study for the National Health Service in England shows how years of life can be gained by prioritizing specific disease types over COVID patients, such as injury and poisoning, diseases of the respiratory system, diseases of the circulatory system, diseases of the digestive system, and cancer.This paper was accepted by Chung-Piaw Teo, optimization.Funding: G. Forchini acknowledges funding from Jan Wallanders and Tom Hedelius Foundation and the Tore Browaldh Foundation, funding from MRC Centre for Global Infectious Disease Analysis [Reference MR/R015600/1], jointly funded by the UK Medical Research Council (MRC) and the UK Foreign, Commonwealth and Development Office (FCDO), under the MRC/FCDO Concordat agreement, part of the EDCTP2 program supported by the European Union; and acknowledges funding by Community Jameel. D. Rizmie acknowledges partial funding from the MRC Centre for Global Infectious Disease Analysis [Reference MR/R015600/1]. J. C. D?Aeth acknowledges funding from the Wellcome Trust [Reference 102169/Z/13/Z]. S. Moret acknowledges partial support from the Swiss National Science Foundation (SNSF) under [Grant P2ELP2_188028]. S. Ghosal was funded by the Imperial College President?s PhD Scholarship. F. Grimm was funded by the Health Foundation as part of core staff member activity. This research was funded in whole, or in part, by the Wellcome Trust [Grant 102169/Z/13/Z].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4679.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4679
+UR  - https://doi.org/10.1287/mnsc.2023.4679
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Hospital Boarding Crises: The Impact of Urgent vs. Prevention Responses on Length of Stay
+AU  - Adepoju, Temidayo
+AU  - Carson, Anita L.
+AU  - Jin, Helen S.
+AU  - Manasseh, Christopher S.
+Y1  - 2023/03/21
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4724
+DO  - 10.1287/mnsc.2023.4724
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5948
+EP  - 5963
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Healthcare policy makers use wait-time metrics to encourage hospital managers to improve patient experience. In 2002, Massachusetts mandated that hospital managers develop processes to respond to boarding crises, which occur when emergency department (ED) patients experience long waits for inpatient beds. Performance improvement theory suggests that patients would be better served by preventing boarding crises rather than responding urgently after they occur. To empirically test this theory, we use data from a Massachusetts hospital that has two physician-based processes related to boarding and patient flow. First, to comply with the state mandate, the hospital developed processes to identify when the hospital is in a boarding crisis, a code yellow (CY), and subsequently request that physicians prioritize patient discharge (urgent response). Second, physicians can use predischarge orders, optional written communication about discharge barriers, to avoid discharge delays for patients approaching discharge (prevention response). Our data supports the existence of a trade-off between these two responses. Counter to our hypothesis, the state-mandated urgent response does not have any impact on length of stay (LOS). We also find that a CY has no impact on ED hourly occupancy, marginally decreases ED wait times, and increases boarding time. The prevention response is associated with a 26% reduction in LOS. Furthermore, we find that the urgent response reduces the likelihood of physicians? ability to use the prevention response by 27.3%. We conclude that the state policy has unintended negative consequences that stymie hospital efforts to create longer term improvement.This paper was accepted by Stefan Scholtes, healthcare management.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4724.
+AB  - Healthcare policy makers use wait-time metrics to encourage hospital managers to improve patient experience. In 2002, Massachusetts mandated that hospital managers develop processes to respond to boarding crises, which occur when emergency department (ED) patients experience long waits for inpatient beds. Performance improvement theory suggests that patients would be better served by preventing boarding crises rather than responding urgently after they occur. To empirically test this theory, we use data from a Massachusetts hospital that has two physician-based processes related to boarding and patient flow. First, to comply with the state mandate, the hospital developed processes to identify when the hospital is in a boarding crisis, a code yellow (CY), and subsequently request that physicians prioritize patient discharge (urgent response). Second, physicians can use predischarge orders, optional written communication about discharge barriers, to avoid discharge delays for patients approaching discharge (prevention response). Our data supports the existence of a trade-off between these two responses. Counter to our hypothesis, the state-mandated urgent response does not have any impact on length of stay (LOS). We also find that a CY has no impact on ED hourly occupancy, marginally decreases ED wait times, and increases boarding time. The prevention response is associated with a 26% reduction in LOS. Furthermore, we find that the urgent response reduces the likelihood of physicians? ability to use the prevention response by 27.3%. We conclude that the state policy has unintended negative consequences that stymie hospital efforts to create longer term improvement.This paper was accepted by Stefan Scholtes, healthcare management.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4724.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4724
+UR  - https://doi.org/10.1287/mnsc.2023.4724
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing Patient-Specific Medication Regimen Policies Using Wearable Sensors in Parkinson’s Disease
+AU  - Baucum, Matt
+AU  - Khojandi, Anahita
+AU  - Vasudevan, Rama
+AU  - Ramdhani, Ritesh
+Y1  - 2023/04/10
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4747
+DO  - 10.1287/mnsc.2023.4747
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5964
+EP  - 5982
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Effective treatment of Parkinson?s disease (PD) is a continual challenge for healthcare providers, and providers can benefit from leveraging emerging technologies to supplement traditional clinic care. We develop a data-driven reinforcement learning (RL) framework to optimize PD medication regimens through wearable sensors. We leverage a data set of n = 26 PD patients who wore wrist-mounted movement trackers for two separate six-day periods. Using these data, we first build and validate a simulation model of how individual patients? movement symptoms respond to medication administration. We then pair this simulation model with an on-policy RL algorithm that recommends optimal medication types, timing, and dosages during the day while incorporating human-in-the-loop considerations on medication administration. The results show that the RL-prescribed medication regimens outperform physicians? medication regimens, despite physicians having access to the same data as the RL agent. To validate our results, we assess our wearable-based RL medication regimens using n = 399 PD patients from the Parkinson?s Progression Markers Initiative data set. We show that the wearable-based RL medication regimens would lead to significant symptom improvement for these patients, even more so than training RL policies directly from this data set. In doing so, we show that RL models from even small data sets of wearable data can offer novel, generalizable clinical insights and medication strategies, which may outperform those derived from larger data sets without wearable data.This paper was accepted by Carri Chan, healthcare management.Funding: This research is partially supported by the Science Alliance, University of Tennessee and by the Laboratory Directed Research and Development Program, Oak Ridge National Laboratory managed by UT-Battelle, LLC for the U.S. Department of Energy. Data used in this article were obtained from the Parkinson Progression Markers Initiative (PPMI) database, which is sponsored by the Michael J. Fox Foundation for Parkinson?s Research (MJFF).Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4747.
+AB  - Effective treatment of Parkinson?s disease (PD) is a continual challenge for healthcare providers, and providers can benefit from leveraging emerging technologies to supplement traditional clinic care. We develop a data-driven reinforcement learning (RL) framework to optimize PD medication regimens through wearable sensors. We leverage a data set of n = 26 PD patients who wore wrist-mounted movement trackers for two separate six-day periods. Using these data, we first build and validate a simulation model of how individual patients? movement symptoms respond to medication administration. We then pair this simulation model with an on-policy RL algorithm that recommends optimal medication types, timing, and dosages during the day while incorporating human-in-the-loop considerations on medication administration. The results show that the RL-prescribed medication regimens outperform physicians? medication regimens, despite physicians having access to the same data as the RL agent. To validate our results, we assess our wearable-based RL medication regimens using n = 399 PD patients from the Parkinson?s Progression Markers Initiative data set. We show that the wearable-based RL medication regimens would lead to significant symptom improvement for these patients, even more so than training RL policies directly from this data set. In doing so, we show that RL models from even small data sets of wearable data can offer novel, generalizable clinical insights and medication strategies, which may outperform those derived from larger data sets without wearable data.This paper was accepted by Carri Chan, healthcare management.Funding: This research is partially supported by the Science Alliance, University of Tennessee and by the Laboratory Directed Research and Development Program, Oak Ridge National Laboratory managed by UT-Battelle, LLC for the U.S. Department of Energy. Data used in this article were obtained from the Parkinson Progression Markers Initiative (PPMI) database, which is sponsored by the Michael J. Fox Foundation for Parkinson?s Research (MJFF).Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4747.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4747
+UR  - https://doi.org/10.1287/mnsc.2023.4747
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Sales-Based Rebate Design
+AU  - Ajorlou, Amir
+AU  - Jadbabaie, Ali
+Y1  - 2023/02/23
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4691
+DO  - 10.1287/mnsc.2023.4691
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5983
+EP  - 6000
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - In this paper, we study a family of sales-based rebate mechanisms as an effective tool to implement price discrimination across a population of buyers with correlated heterogeneous valuations on indivisible goods and services. In order to implement such sales-based rebate mechanisms, the seller charges each buyer a fixed price at the time of purchase contingent on a rebate that is a function of the ex post sales volume to be realized at the end of the sales period. The seller declares both a price and a menu of rebates as a function of sales. We show that, when there is a common component of uncertainty in consumers? valuations (to which we refer as the quality of the product), such rebates enable a seller to effectively induce different expected net prices at different valuations. Importantly, this effective price discrimination over valuations is achieved keeping both the base price and the rebate uniform across all buyers. This uniformity of price and rebate across buyers is a key advantage of our proposed rebate mechanism, thereby providing a new mechanism for price discrimination in crowd-based markets. We use tools and techniques from game theory and variational optimization to provide insight into the economics of such mechanisms. In particular, we identify two mechanisms that are monotone functions of the sales volume that are easy to implement in practice and perform well when compared with the much more complex optimal mechanism. We provide a rigorous analysis of the optimal mechanism and discuss practical limitations in implementing the globally optimal design, further demonstrating the efficacy of our proposed monotone mechanisms.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: This research was supported by a Vannevar Bush Fellowship from the Office of Secretary of State and Army Research Office [MURI Project W911NF-19-1-0217].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4691.
+AB  - In this paper, we study a family of sales-based rebate mechanisms as an effective tool to implement price discrimination across a population of buyers with correlated heterogeneous valuations on indivisible goods and services. In order to implement such sales-based rebate mechanisms, the seller charges each buyer a fixed price at the time of purchase contingent on a rebate that is a function of the ex post sales volume to be realized at the end of the sales period. The seller declares both a price and a menu of rebates as a function of sales. We show that, when there is a common component of uncertainty in consumers? valuations (to which we refer as the quality of the product), such rebates enable a seller to effectively induce different expected net prices at different valuations. Importantly, this effective price discrimination over valuations is achieved keeping both the base price and the rebate uniform across all buyers. This uniformity of price and rebate across buyers is a key advantage of our proposed rebate mechanism, thereby providing a new mechanism for price discrimination in crowd-based markets. We use tools and techniques from game theory and variational optimization to provide insight into the economics of such mechanisms. In particular, we identify two mechanisms that are monotone functions of the sales volume that are easy to implement in practice and perform well when compared with the much more complex optimal mechanism. We provide a rigorous analysis of the optimal mechanism and discuss practical limitations in implementing the globally optimal design, further demonstrating the efficacy of our proposed monotone mechanisms.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: This research was supported by a Vannevar Bush Fellowship from the Office of Secretary of State and Army Research Office [MURI Project W911NF-19-1-0217].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4691.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4691
+UR  - https://doi.org/10.1287/mnsc.2023.4691
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Finding the Nondominated Set and Efficient Integer Vectors for a Class of Three-Objective Mixed-Integer Linear Programs
+AU  - Ceyhan, Gökhan
+AU  - Köksalan, Murat
+AU  - Lokman, Banu
+Y1  - 2023/03/10
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4712
+DO  - 10.1287/mnsc.2023.4712
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6001
+EP  - 6020
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We consider a class of three-objective mixed-integer linear programs (MILPs) where at least one of the objective functions takes only discrete values. These problems commonly occur in MILPs where one or more of the three objective functions contain only integer decision variables. In such problems, the nondominated set consists of the union of nondominated edges and individual nondominated points. The nondominated edges can provide valuable insights on the trade-offs between the two continuous objectives at different levels of the discrete-valued objective. We develop an objective-space search algorithm that keeps partitioning the search space by progressively creating cones in the two-dimensional feasible space of the two continuous objectives for relevant values of the discrete-valued objective. The algorithm generates the nondominated points or edges in the nonincreasing order of the feasible values of the selected discrete-valued objective. Additionally, the algorithm uncovers all efficient integer variable vectors, including different vectors that lead to the same nondominated points or edges. We apply the algorithm to the day-ahead electricity market clearing problem.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The data files and e-companion are available at https://doi.org/10.1287/mnsc.2023.4712.
+AB  - We consider a class of three-objective mixed-integer linear programs (MILPs) where at least one of the objective functions takes only discrete values. These problems commonly occur in MILPs where one or more of the three objective functions contain only integer decision variables. In such problems, the nondominated set consists of the union of nondominated edges and individual nondominated points. The nondominated edges can provide valuable insights on the trade-offs between the two continuous objectives at different levels of the discrete-valued objective. We develop an objective-space search algorithm that keeps partitioning the search space by progressively creating cones in the two-dimensional feasible space of the two continuous objectives for relevant values of the discrete-valued objective. The algorithm generates the nondominated points or edges in the nonincreasing order of the feasible values of the selected discrete-valued objective. Additionally, the algorithm uncovers all efficient integer variable vectors, including different vectors that lead to the same nondominated points or edges. We apply the algorithm to the day-ahead electricity market clearing problem.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The data files and e-companion are available at https://doi.org/10.1287/mnsc.2023.4712.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4712
+UR  - https://doi.org/10.1287/mnsc.2023.4712
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Improving Dispute Resolution in Two-Sided Platforms: The Case of Review Blackmail
+AU  - Papanastasiou, Yiangos
+AU  - Yang, S. Alex
+AU  - Zhang, Angela Huyue
+Y1  - 2023/01/23
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4655
+DO  - 10.1287/mnsc.2022.4655
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6021
+EP  - 6037
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We study the relative merits of different dispute resolution mechanisms in two-sided platforms in the context of disputes involving malicious reviews and blackmail. We develop a game-theoretic model of the strategic interactions between a seller and a (potentially malicious) consumer. In our model, the seller takes into account the impact of consumer reviews on his future earnings; recognizing this, a malicious consumer may attempt to blackmail the seller by purchasing the product, posting a negative review, and demanding ransom to remove it. Without a dispute resolution mechanism in place, the presence of malicious consumers in the market can lead to a significant decrease in seller profit, especially in settings characterized by high uncertainty about product quality. The introduction of a standard centralized dispute resolution mechanism (whereby the seller can report allegedly malicious reviews to the host platform, which then judges whether to remove the review) can restore efficiency to some extent but requires the platform?s judgments to be both very quick and highly accurate. We demonstrate that a more decentralized mechanism (whereby the firm is allowed to remove reviews without consulting the platform, subject to ex post penalties for wrongdoing) can be much more effective, while simultaneously alleviating?almost entirely?the need for the platform?s judgments to be quick. Our results suggest that decentralization, when implemented correctly, may represent a more efficient approach to dispute resolution.This paper was accepted by Victor Martínez-de-Albéniz, operations management.Funding: S. A. Yang and A. H. Zhang acknowledge the support of the Hong Kong General Research Fund [Grant ?Decentralizing Platform Governance: Innovations from China; Project 17614921].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4655.
+AB  - We study the relative merits of different dispute resolution mechanisms in two-sided platforms in the context of disputes involving malicious reviews and blackmail. We develop a game-theoretic model of the strategic interactions between a seller and a (potentially malicious) consumer. In our model, the seller takes into account the impact of consumer reviews on his future earnings; recognizing this, a malicious consumer may attempt to blackmail the seller by purchasing the product, posting a negative review, and demanding ransom to remove it. Without a dispute resolution mechanism in place, the presence of malicious consumers in the market can lead to a significant decrease in seller profit, especially in settings characterized by high uncertainty about product quality. The introduction of a standard centralized dispute resolution mechanism (whereby the seller can report allegedly malicious reviews to the host platform, which then judges whether to remove the review) can restore efficiency to some extent but requires the platform?s judgments to be both very quick and highly accurate. We demonstrate that a more decentralized mechanism (whereby the firm is allowed to remove reviews without consulting the platform, subject to ex post penalties for wrongdoing) can be much more effective, while simultaneously alleviating?almost entirely?the need for the platform?s judgments to be quick. Our results suggest that decentralization, when implemented correctly, may represent a more efficient approach to dispute resolution.This paper was accepted by Victor Martínez-de-Albéniz, operations management.Funding: S. A. Yang and A. H. Zhang acknowledge the support of the Hong Kong General Research Fund [Grant ?Decentralizing Platform Governance: Innovations from China; Project 17614921].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4655.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4655
+UR  - https://doi.org/10.1287/mnsc.2022.4655
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Partial Vertical Ownership, Capacity Investment, and Information Exchange in a Supply Chain
+AU  - Avinadav, Tal
+AU  - Shamir, Noam
+Y1  - 2023/01/20
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4673
+DO  - 10.1287/mnsc.2023.4673
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6038
+EP  - 6056
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Partial vertical ownership describes a situation in which a firm holds financial shares in either its supplier (referred to as partial backward integration) or its customer (partial forward integration). We study the effect of such financial interconnectedness on two operational decisions: capacity investment and information exchange. In our model, a retailer, who has superior information about the future market demand, has passive financial holdings in the supplier. Although this passive financial investment does not enable the retailer to directly influence the supplier?s operational decisions, it does affect the market equilibrium. Specifically, financial interconnectedness between the firms can result in the retailer financing the entire capacity in the market. In addition, we characterize the conditions that ensure that information between the retailer and the supplier can be exchanged via cheap-talk communication. Interestingly, a high level of information asymmetry facilitates the exchange of information via cheap talk in the presence of these financial links. When cheap talk is not possible, we study the separating equilibrium that is achieved through the retailer?s commitment to order in advance. In this case, the separating quantity can either increase or decrease with the level partial vertical ownership, and this trend does not depend the actual level of the financial holdings. We further analyze the incentive of the retailer to conceal demand information by choosing a pooling equilibrium and conclude with discussing the effect of the financial interconnectedness on the parties? operational payoffs.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: N. Shamir gratefully acknowledges financial support from the Israel Science Foundation [Grant 2358/22] and The Henry Crown Institute of Business Research in Israel. T. Avinadav gratefully acknowledges financial support from the Israel Science Foundation [Grant 1571/20].Supplemental Material: Data and the electronic companion are available at https://doi.org/10.1287/mnsc.2023.4673.
+AB  - Partial vertical ownership describes a situation in which a firm holds financial shares in either its supplier (referred to as partial backward integration) or its customer (partial forward integration). We study the effect of such financial interconnectedness on two operational decisions: capacity investment and information exchange. In our model, a retailer, who has superior information about the future market demand, has passive financial holdings in the supplier. Although this passive financial investment does not enable the retailer to directly influence the supplier?s operational decisions, it does affect the market equilibrium. Specifically, financial interconnectedness between the firms can result in the retailer financing the entire capacity in the market. In addition, we characterize the conditions that ensure that information between the retailer and the supplier can be exchanged via cheap-talk communication. Interestingly, a high level of information asymmetry facilitates the exchange of information via cheap talk in the presence of these financial links. When cheap talk is not possible, we study the separating equilibrium that is achieved through the retailer?s commitment to order in advance. In this case, the separating quantity can either increase or decrease with the level partial vertical ownership, and this trend does not depend the actual level of the financial holdings. We further analyze the incentive of the retailer to conceal demand information by choosing a pooling equilibrium and conclude with discussing the effect of the financial interconnectedness on the parties? operational payoffs.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: N. Shamir gratefully acknowledges financial support from the Israel Science Foundation [Grant 2358/22] and The Henry Crown Institute of Business Research in Israel. T. Avinadav gratefully acknowledges financial support from the Israel Science Foundation [Grant 1571/20].Supplemental Material: Data and the electronic companion are available at https://doi.org/10.1287/mnsc.2023.4673.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4673
+UR  - https://doi.org/10.1287/mnsc.2023.4673
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Sequencing in Single-Player Games
+AU  - Li, Yifu
+AU  - Ryan, Christopher Thomas
+AU  - Sheng, Lifei
+Y1  - 2023/01/11
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4665
+DO  - 10.1287/mnsc.2022.4665
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6057
+EP  - 6075
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - An important problem in single-player video game design is how to sequence game elements within a level (or ?chunk?) of the game. Each element has two critical features: a reward (e.g., earning an item or being able to watch a cinematic) and a degree of difficulty (e.g., how much energy or focus is needed to interact with the game element). The latter property is a distinctive feature in video games. Unlike passive services (like a trip to the spa) or passive entertainment (like watching sports or movies), video games often require concerted effort to consume. We study how to sequence game elements to maximize overall experienced utility subject to the dynamics of adaptation to rewards and difficulty and memory decay. We find that the optimal design depends on the relationship between rewards and difficulty, leading to qualitatively different designs. For example, when the proportion of reward-to-difficulty is high, the optimal design mimics that of more passive experiences. By contrast, the optimal design of games with low reward-to-difficulty ratios resembles work-out routines with ?warm-ups? and ?cool-downs.? Intermediate cases may follow the classical ?mini-boss, end-boss? design where difficulty has two peaks. Numerical results reveal optimal designs with ?waves? of reward and difficulty with multiple peaks. Level designs with multiple peaks of difficulty are ubiquitous in video games. In summary, this paper provides practical guidance to game designers on how to match the design of single-player games to the relationship between reward and difficulty inherent in their game?s mechanics. Our model also has implications for other interactive services that share similarities with games, such as summer camps for children.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported by the National Natural Science Foundation of China [Project 72201210] and Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2020-06488].Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4665.
+AB  - An important problem in single-player video game design is how to sequence game elements within a level (or ?chunk?) of the game. Each element has two critical features: a reward (e.g., earning an item or being able to watch a cinematic) and a degree of difficulty (e.g., how much energy or focus is needed to interact with the game element). The latter property is a distinctive feature in video games. Unlike passive services (like a trip to the spa) or passive entertainment (like watching sports or movies), video games often require concerted effort to consume. We study how to sequence game elements to maximize overall experienced utility subject to the dynamics of adaptation to rewards and difficulty and memory decay. We find that the optimal design depends on the relationship between rewards and difficulty, leading to qualitatively different designs. For example, when the proportion of reward-to-difficulty is high, the optimal design mimics that of more passive experiences. By contrast, the optimal design of games with low reward-to-difficulty ratios resembles work-out routines with ?warm-ups? and ?cool-downs.? Intermediate cases may follow the classical ?mini-boss, end-boss? design where difficulty has two peaks. Numerical results reveal optimal designs with ?waves? of reward and difficulty with multiple peaks. Level designs with multiple peaks of difficulty are ubiquitous in video games. In summary, this paper provides practical guidance to game designers on how to match the design of single-player games to the relationship between reward and difficulty inherent in their game?s mechanics. Our model also has implications for other interactive services that share similarities with games, such as summer camps for children.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported by the National Natural Science Foundation of China [Project 72201210] and Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2020-06488].Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4665.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4665
+UR  - https://doi.org/10.1287/mnsc.2022.4665
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Managing Airfares Under Competition: Insights from a Field Experiment
+AU  - Cohen, Maxime C.
+AU  - Jacquillat, Alexandre
+AU  - Serpa, Juan Camilo
+AU  - Benborhoum, Michael
+Y1  - 2023/01/31
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4656
+DO  - 10.1287/mnsc.2022.4656
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6076
+EP  - 6108
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Airfares evolve dynamically, giving rise to a so-called price path. This price path is controlled via two levers: (i) a fare ladder, which defines a set of airfares before the selling season, and (ii) revenue management algorithms, which control how fares evolve along the ladder during the season. We hypothesize that the current policies to control both levers?which do not account for quality differences between competing airlines?give rise to an inefficient price path and, accordingly, a loss of potential revenue. We substantiate this hypothesis via a field experiment. By partnering with an airline, we introduced quality considerations in the design of fare ladders, across 5,000 itineraries, to show that current ladder-design policies indeed lead to a suboptimal price path. We also show that this inefficiency can be mitigated by incorporating quality differences between competing airlines. This creates a smoother (and more profitable) price path.This paper was accepted by Vishal Gaur, operations management.
+AB  - Airfares evolve dynamically, giving rise to a so-called price path. This price path is controlled via two levers: (i) a fare ladder, which defines a set of airfares before the selling season, and (ii) revenue management algorithms, which control how fares evolve along the ladder during the season. We hypothesize that the current policies to control both levers?which do not account for quality differences between competing airlines?give rise to an inefficient price path and, accordingly, a loss of potential revenue. We substantiate this hypothesis via a field experiment. By partnering with an airline, we introduced quality considerations in the design of fare ladders, across 5,000 itineraries, to show that current ladder-design policies indeed lead to a suboptimal price path. We also show that this inefficiency can be mitigated by incorporating quality differences between competing airlines. This creates a smoother (and more profitable) price path.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4656
+UR  - https://doi.org/10.1287/mnsc.2022.4656
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification
+AU  - Hui, Xiang
+AU  - Liu, Zekun
+AU  - Zhang, Weiqing
+Y1  - 2023/01/20
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4666
+DO  - 10.1287/mnsc.2022.4666
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6109
+EP  - 6127
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Quality certification is ubiquitously used in markets with asymmetric information, but little is known about the impact of the number of certification tiers on market outcomes. Exploiting a field experiment on a large e-commerce marketplace with an existing two-tier certification, we study the impact of introducing a new certification tier that is less history dependent and less demanding than the existing top tier. Consistent with the theoretical literature on information design, we find that the change in information granularity among the previously noncertified sellers increases demand for high-quality young sellers, incentivizes their quality provision, and increases their chance of eventually obtaining the top-tier certification. Moreover, the three-tier certification structure prompts established sellers with higher effort cost to reduce their effort, opt out of the top tier, and adopt the new tier instead. Lastly, we provide evidence that the net impact of introducing the new certification tier on seller effort depends on how history dependent the certification requirements are in a market.This paper was accepted by Eric Anderson, marketing.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4666.
+AB  - Quality certification is ubiquitously used in markets with asymmetric information, but little is known about the impact of the number of certification tiers on market outcomes. Exploiting a field experiment on a large e-commerce marketplace with an existing two-tier certification, we study the impact of introducing a new certification tier that is less history dependent and less demanding than the existing top tier. Consistent with the theoretical literature on information design, we find that the change in information granularity among the previously noncertified sellers increases demand for high-quality young sellers, incentivizes their quality provision, and increases their chance of eventually obtaining the top-tier certification. Moreover, the three-tier certification structure prompts established sellers with higher effort cost to reduce their effort, opt out of the top tier, and adopt the new tier instead. Lastly, we provide evidence that the net impact of introducing the new certification tier on seller effort depends on how history dependent the certification requirements are in a market.This paper was accepted by Eric Anderson, marketing.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4666.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4666
+UR  - https://doi.org/10.1287/mnsc.2022.4666
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Interplay of Earnings, Ratings, and Penalties on Sharing Platforms: An Empirical Investigation
+AU  - Xu, Yuqian
+AU  - Lu, Baile
+AU  - Ghose, Anindya
+AU  - Dai, Hongyan
+AU  - Zhou, Weihua
+Y1  - 2023/04/19
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4761
+DO  - 10.1287/mnsc.2023.4761
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6128
+EP  - 6146
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - On-demand delivery through sharing platforms represents a rapidly expanding segment of the global workforce. The emergence of sharing platforms enables gig workers to choose when and where to work, allowing them to do so in a flexible manner. However, such flexibility brings notorious challenges to platforms in managing the gig workforce. Thus, understanding the incentive and behavioral issues of gig workers in this new business model is inherently meaningful. This paper investigates how the incentive mechanisms of sharing platforms?earnings, ratings, and penalties?affect the working decisions of gig workers and their nuanced relationships. To achieve this goal, we use data from one leading on-demand delivery platform with more than 50 million active consumers in China and implement a two-stage Heckman model with instrumental variables to estimate the impact of earnings, ratings, and penalties. We first show that better ratings motivate gig workers to work more. However, interestingly, when ratings are employed together with earnings, the two positive effects of ratings and earnings can be substitutes for each other. Second, we reveal that higher past penalties discourage workers from working more, whereas, interestingly, workers with higher past penalties tend to be more sensitive toward an increase in earnings. Finally, we conduct follow-up surveys to understand the underlying mechanisms of the observed moderating effects from both psychological and economic perspectives. The ultimate goal of this work is to provide managerial implications to help platform managers understand how earnings, ratings, and penalties work together to affect gig workers? working decisions and how to manage high- and low-quality workers.This paper was accepted by David Simchi-Levi, entrepreneurship and innovation.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72192823, 72172169, 71821002, 91646125, 72071206, 72231011, 72025405, and 72088101] and Program for Innovation Research at the Central University of Finance and Economics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4761.
+AB  - On-demand delivery through sharing platforms represents a rapidly expanding segment of the global workforce. The emergence of sharing platforms enables gig workers to choose when and where to work, allowing them to do so in a flexible manner. However, such flexibility brings notorious challenges to platforms in managing the gig workforce. Thus, understanding the incentive and behavioral issues of gig workers in this new business model is inherently meaningful. This paper investigates how the incentive mechanisms of sharing platforms?earnings, ratings, and penalties?affect the working decisions of gig workers and their nuanced relationships. To achieve this goal, we use data from one leading on-demand delivery platform with more than 50 million active consumers in China and implement a two-stage Heckman model with instrumental variables to estimate the impact of earnings, ratings, and penalties. We first show that better ratings motivate gig workers to work more. However, interestingly, when ratings are employed together with earnings, the two positive effects of ratings and earnings can be substitutes for each other. Second, we reveal that higher past penalties discourage workers from working more, whereas, interestingly, workers with higher past penalties tend to be more sensitive toward an increase in earnings. Finally, we conduct follow-up surveys to understand the underlying mechanisms of the observed moderating effects from both psychological and economic perspectives. The ultimate goal of this work is to provide managerial implications to help platform managers understand how earnings, ratings, and penalties work together to affect gig workers? working decisions and how to manage high- and low-quality workers.This paper was accepted by David Simchi-Levi, entrepreneurship and innovation.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72192823, 72172169, 71821002, 91646125, 72071206, 72231011, 72025405, and 72088101] and Program for Innovation Research at the Central University of Finance and Economics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4761.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4761
+UR  - https://doi.org/10.1287/mnsc.2023.4761
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - How to De-Reserve Reserves: Admissions to Technical Colleges in India
+AU  - Aygün, Orhan
+AU  - Turhan, Bertan
+Y1  - 2022/11/11
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4566
+DO  - 10.1287/mnsc.2022.4566
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6147
+EP  - 6164
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We study the joint implementation of reservation and de-reservation policies in India that has been enforcing comprehensive affirmative action since 1950. The landmark judgment of the Supreme Court of India in 2008 mandated that whenever the OBC category (with 27% reservation) has unfilled positions, they must be reverted to general category applicants in admissions to public schools without specifying how to implement it. We disclose the drawbacks of the recently reformed allocation procedure in admissions to technical colleges and offer a solution through ?de-reservation via choice rules.? We propose a novel priority design?Backward Transfers (BT) choice rule?for institutions and the deferred acceptance mechanism under these choice rules (DA-BT) for centralized clearinghouses. We show that DA-BT corrects the shortcomings of existing mechanisms. By formulating India?s legal requirements and policy goals as formal axioms, we show that the DA-BT mechanism is unique for the concurrent implementation of reservation and de-reservation policies.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - We study the joint implementation of reservation and de-reservation policies in India that has been enforcing comprehensive affirmative action since 1950. The landmark judgment of the Supreme Court of India in 2008 mandated that whenever the OBC category (with 27% reservation) has unfilled positions, they must be reverted to general category applicants in admissions to public schools without specifying how to implement it. We disclose the drawbacks of the recently reformed allocation procedure in admissions to technical colleges and offer a solution through ?de-reservation via choice rules.? We propose a novel priority design?Backward Transfers (BT) choice rule?for institutions and the deferred acceptance mechanism under these choice rules (DA-BT) for centralized clearinghouses. We show that DA-BT corrects the shortcomings of existing mechanisms. By formulating India?s legal requirements and policy goals as formal axioms, we show that the DA-BT mechanism is unique for the concurrent implementation of reservation and de-reservation policies.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4566
+UR  - https://doi.org/10.1287/mnsc.2022.4566
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Decision Making Under Impending Regime Shifts
+AU  - Seifert, Matthias
+AU  - Ulu, Canan
+AU  - Guha, Sreyaa
+Y1  - 2023/01/12
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4661
+DO  - 10.1287/mnsc.2022.4661
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6165
+EP  - 6180
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - In environments with impending regime shifts, previous research studies probability judgments of decision makers (DMs) regarding a regime shift and finds evidence for the system neglect hypothesis: In unstable environments with precise signals, DMs exhibit relatively more underreaction in their probability judgments, and in stable environments with noisy signals, they exhibit relatively more overreaction. In the present paper we focus on pricing decisions and study how risk attitudes, as well as probability judgments regarding a regime shift, affect these decisions. We develop a model that integrates prospect theory with the system neglect hypothesis and compare changes in empirical pricing decisions to those of a Bayesian risk-neutral agent. We find a pattern of under- and overreaction in pricing decisions that mimics the system neglect hypothesis in probability judgments only when the DM?s prior probability of a regime shift is low; the system neglect pattern vanishes when the DM?s prior probability of a regime shift is high. We argue that in the case of low priors, changes in risk attitude in reaction to signals indicative of a regime shift amplify system neglect in probability judgments. In the case of high priors, on the other hand, changes in risk attitude dampen the effect of system neglect. We test our model predictions in experimental insurance markets and offer various extensions to check for the robustness of our findings. Finally, we discuss implications for managerial practice in organizational contexts that are characterized by continuous change.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.Funding: This work was funded by Fundaç?o para a Ciência e a Tecnologia (UIDB/00124/2020, UIDP/00124/2020 and Social Sciences DataLab - PINFRA/22209/2016), POR Lisboa and POR Norte (Social Sciences DataLab, PINFRA/22209/2016). Furthermore, it was supported by the Ministerio de Ciencia e Innovación España [10.13039/501100011033, Grants ECO2014-52925-P, PID2019-111512RB-I00-HMDM, and HDL-HS-280218].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4661.
+AB  - In environments with impending regime shifts, previous research studies probability judgments of decision makers (DMs) regarding a regime shift and finds evidence for the system neglect hypothesis: In unstable environments with precise signals, DMs exhibit relatively more underreaction in their probability judgments, and in stable environments with noisy signals, they exhibit relatively more overreaction. In the present paper we focus on pricing decisions and study how risk attitudes, as well as probability judgments regarding a regime shift, affect these decisions. We develop a model that integrates prospect theory with the system neglect hypothesis and compare changes in empirical pricing decisions to those of a Bayesian risk-neutral agent. We find a pattern of under- and overreaction in pricing decisions that mimics the system neglect hypothesis in probability judgments only when the DM?s prior probability of a regime shift is low; the system neglect pattern vanishes when the DM?s prior probability of a regime shift is high. We argue that in the case of low priors, changes in risk attitude in reaction to signals indicative of a regime shift amplify system neglect in probability judgments. In the case of high priors, on the other hand, changes in risk attitude dampen the effect of system neglect. We test our model predictions in experimental insurance markets and offer various extensions to check for the robustness of our findings. Finally, we discuss implications for managerial practice in organizational contexts that are characterized by continuous change.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.Funding: This work was funded by Fundaç?o para a Ciência e a Tecnologia (UIDB/00124/2020, UIDP/00124/2020 and Social Sciences DataLab - PINFRA/22209/2016), POR Lisboa and POR Norte (Social Sciences DataLab, PINFRA/22209/2016). Furthermore, it was supported by the Ministerio de Ciencia e Innovación España [10.13039/501100011033, Grants ECO2014-52925-P, PID2019-111512RB-I00-HMDM, and HDL-HS-280218].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4661.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4661
+UR  - https://doi.org/10.1287/mnsc.2022.4661
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Socioeconomic and Cultural Differences on Online Trade
+AU  - Elfenbein, Daniel W.
+AU  - Fisman, Raymond
+AU  - McManus, Brian
+Y1  - 2023/02/16
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4681
+DO  - 10.1287/mnsc.2023.4681
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6181
+EP  - 6201
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We use eBay data to investigate how within-U.S. trade is influenced by differences in socioeconomic characteristics. States? similarity in cultural characteristics (ethnicity, religious affiliations, and political behavior) predicts online trade; cultural similarity similarly predicts trade within product categories. The culture-trade relationship is stronger for transactions with sellers who lack extensive reputations or certification, suggesting that consumers infer seller trustworthiness from cultural similarity. There is no correlation between cultural similarity and buyer satisfaction, suggesting that perceived differences in trustworthiness are not validated in actual transactions.This paper was accepted by Alfonso Gambardella, business strategy.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4681.
+AB  - We use eBay data to investigate how within-U.S. trade is influenced by differences in socioeconomic characteristics. States? similarity in cultural characteristics (ethnicity, religious affiliations, and political behavior) predicts online trade; cultural similarity similarly predicts trade within product categories. The culture-trade relationship is stronger for transactions with sellers who lack extensive reputations or certification, suggesting that consumers infer seller trustworthiness from cultural similarity. There is no correlation between cultural similarity and buyer satisfaction, suggesting that perceived differences in trustworthiness are not validated in actual transactions.This paper was accepted by Alfonso Gambardella, business strategy.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4681.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4681
+UR  - https://doi.org/10.1287/mnsc.2023.4681
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Innovation on Wings: Nonstop Flights and Firm Innovation in the Global Context
+AU  - Bahar, Dany
+AU  - Choudhury, Prithwiraj
+AU  - Kim, Do Yoon
+AU  - Koo, Wesley W.
+Y1  - 2023/03/03
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.4682
+DO  - 10.1287/mnsc.2023.4682
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6202
+EP  - 6223
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We study whether, when, and how better connectivity through nonstop flights leads to positive innovation outcomes for firms in the global context. Using unique data of all flights emanating from 5,015 airports around the globe from 2005 to 2015 and exploiting a regression discontinuity framework, we report that a 10% increase in nonstop flights between two locations leads to a 3.4% increase in citations and a 1.4% increase in the production of collaborative patents between those locations. This effect is driven primarily by firms as opposed to academic institutions. We further study the characteristics of firms and firm locations that are salient to the relation between nonstop flights and innovation outcomes across countries. Using a gravity model, we posit and find that the positive effect of nonstop flights on innovation is stronger for firms and subsidiaries with greater innovation mass (e.g., stocks of inventors and R&D spending), located in innovation hubs or countries that are deemed technology leaders, and that are separated by large cultural or temporal distance.This paper was accepted by Alfonso Gambardella, business strategy.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4682.
+AB  - We study whether, when, and how better connectivity through nonstop flights leads to positive innovation outcomes for firms in the global context. Using unique data of all flights emanating from 5,015 airports around the globe from 2005 to 2015 and exploiting a regression discontinuity framework, we report that a 10% increase in nonstop flights between two locations leads to a 3.4% increase in citations and a 1.4% increase in the production of collaborative patents between those locations. This effect is driven primarily by firms as opposed to academic institutions. We further study the characteristics of firms and firm locations that are salient to the relation between nonstop flights and innovation outcomes across countries. Using a gravity model, we posit and find that the positive effect of nonstop flights on innovation is stronger for firms and subsidiaries with greater innovation mass (e.g., stocks of inventors and R&D spending), located in innovation hubs or countries that are deemed technology leaders, and that are separated by large cultural or temporal distance.This paper was accepted by Alfonso Gambardella, business strategy.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4682.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4682
+UR  - https://doi.org/10.1287/mnsc.2023.4682
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Liquidity Windfalls and Reallocation: Evidence from Farming and Fracking
+AU  - Thakor, Richard T.
+Y1  - 2022/12/12
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4602
+DO  - 10.1287/mnsc.2022.4602
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6224
+EP  - 6250
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Financing frictions may create a misallocation of assets in a market, thus depressing output, productivity, and asset values. This paper empirically explores how liquidity shocks generate a reallocation that diminishes this misallocation. Using a unique data set of agricultural outcomes, I explore how farmers respond to a relaxation of financial constraints through a liquidity shock unrelated to farming fundamentals, namely exogenous cash inflows caused by an expansion of hydraulic fracturing (fracking) leases. Farmers experiencing positive cash flow shocks increase their land purchases, which results in a reallocation effect. Examining purchases across areas, I find that farmers in high-productivity areas who receive cash flow shocks buy farmland in low-productivity areas, but farmers in low-productivity areas receiving positive cash flow shocks do not. Moreover, farmers increase their purchases of vacant (undeveloped) land. Average output, productivity, equipment investment, and profits all increase significantly following these positive cash flow shocks. Farmland prices also rise significantly, consistent with a cash-in-the-market pricing effect. These effects are consistent with an efficient reallocation of land toward more productive users.This paper was accepted by Tyler Shumway, finance.Funding: This work was supported by the Kritzman and Gorman Research Fund Grant.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4602.
+AB  - Financing frictions may create a misallocation of assets in a market, thus depressing output, productivity, and asset values. This paper empirically explores how liquidity shocks generate a reallocation that diminishes this misallocation. Using a unique data set of agricultural outcomes, I explore how farmers respond to a relaxation of financial constraints through a liquidity shock unrelated to farming fundamentals, namely exogenous cash inflows caused by an expansion of hydraulic fracturing (fracking) leases. Farmers experiencing positive cash flow shocks increase their land purchases, which results in a reallocation effect. Examining purchases across areas, I find that farmers in high-productivity areas who receive cash flow shocks buy farmland in low-productivity areas, but farmers in low-productivity areas receiving positive cash flow shocks do not. Moreover, farmers increase their purchases of vacant (undeveloped) land. Average output, productivity, equipment investment, and profits all increase significantly following these positive cash flow shocks. Farmland prices also rise significantly, consistent with a cash-in-the-market pricing effect. These effects are consistent with an efficient reallocation of land toward more productive users.This paper was accepted by Tyler Shumway, finance.Funding: This work was supported by the Kritzman and Gorman Research Fund Grant.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4602.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4602
+UR  - https://doi.org/10.1287/mnsc.2022.4602
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Executives in Politics
+AU  - Babenko, Ilona
+AU  - Fedaseyeu, Viktar
+AU  - Zhang, Song
+Y1  - 2022/12/06
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4595
+DO  - 10.1287/mnsc.2022.4595
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6251
+EP  - 6270
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We study the involvement of corporate executives in U.S. politics over the last 40 years. First, we document that the share of business politicians in federal elected office increased from 13.3% in 1980% to 22.6% in 2018, with most of the increase occurring over the last two decades. Second, we find that business politicians enjoy an early fundraising advantage over their opponents, both because they are more likely to self-fund their campaigns and because they receive more campaign contributions from their firms. Third, the election of business politicians benefits their industries and firms, which experience positive abnormal stock returns when their executives win political office. We also show that business politicians, once elected, vote for policies that shift the balance of power toward corporate interests. Using close elections for identification, we show that this policy shift cannot be attributed solely to the changes in the underlying preferences of the electorate. Overall, our results indicate that corporate executives have become more involved in U.S. politics and that this involvement has benefited business interests and affected aggregate legislative outcomes.This paper was accepted by Gustavo Manso, finance.Funding: The authors thank the Digital Age Management Research Area at the China Europe International Business School (CEIBS) and Centre for Applied Research on International Markets, Banking, Finance and Regulation (BAFFI CAREFIN) at Bocconi University for financial support. The Area and the Center played no role in study design, data collection and analysis, or preparation of the manuscript.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4595.
+AB  - We study the involvement of corporate executives in U.S. politics over the last 40 years. First, we document that the share of business politicians in federal elected office increased from 13.3% in 1980% to 22.6% in 2018, with most of the increase occurring over the last two decades. Second, we find that business politicians enjoy an early fundraising advantage over their opponents, both because they are more likely to self-fund their campaigns and because they receive more campaign contributions from their firms. Third, the election of business politicians benefits their industries and firms, which experience positive abnormal stock returns when their executives win political office. We also show that business politicians, once elected, vote for policies that shift the balance of power toward corporate interests. Using close elections for identification, we show that this policy shift cannot be attributed solely to the changes in the underlying preferences of the electorate. Overall, our results indicate that corporate executives have become more involved in U.S. politics and that this involvement has benefited business interests and affected aggregate legislative outcomes.This paper was accepted by Gustavo Manso, finance.Funding: The authors thank the Digital Age Management Research Area at the China Europe International Business School (CEIBS) and Centre for Applied Research on International Markets, Banking, Finance and Regulation (BAFFI CAREFIN) at Bocconi University for financial support. The Area and the Center played no role in study design, data collection and analysis, or preparation of the manuscript.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4595.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4595
+UR  - https://doi.org/10.1287/mnsc.2022.4595
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Household Credit and Regulatory Arbitrage: Evidence from Online Marketplace Lending
+AU  - Braggion, Fabio
+AU  - Manconi, Alberto
+AU  - Zhu, Haikun
+Y1  - 2022/11/07
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4592
+DO  - 10.1287/mnsc.2022.4592
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6271
+EP  - 6292
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We study the relationship between new intermediaries and regulatory arbitrage, analyzing marketplace credit around a tightening of mortgage loan-to-value (LTV) caps in several cities in China in 2013. Using novel data covering over 20% of Chinese marketplace credit as well as the universe of loans and loan applications at a leading online lending platform, we provide evidence consistent with home buyers borrowing online to bypass the tighter LTV cap. Our findings point to new, lightly regulated financial intermediaries as a driver of household leverage, suggesting that they can open nonnegligible regulatory arbitrage channels.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4592.
+AB  - We study the relationship between new intermediaries and regulatory arbitrage, analyzing marketplace credit around a tightening of mortgage loan-to-value (LTV) caps in several cities in China in 2013. Using novel data covering over 20% of Chinese marketplace credit as well as the universe of loans and loan applications at a leading online lending platform, we provide evidence consistent with home buyers borrowing online to bypass the tighter LTV cap. Our findings point to new, lightly regulated financial intermediaries as a driver of household leverage, suggesting that they can open nonnegligible regulatory arbitrage channels.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4592.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4592
+UR  - https://doi.org/10.1287/mnsc.2022.4592
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Debiasing the Disposition Effect with Noninvasive Brain Stimulation: The Role of Cognitive Control
+AU  - Niu, Xiaofei
+AU  - Li, Jianbiao
+AU  - Li, Dahui
+AU  - Cao, Qian
+Y1  - 2022/11/03
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4596
+DO  - 10.1287/mnsc.2022.4596
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6293
+EP  - 6312
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - This study tests whether modulating a brain region associated with cognitive control using noninvasive brain stimulation affects the disposition effect. A participant trades stocks in an experimental asset market while their level of cognitive control is exogenously manipulated by applying weak current stimulation to a control-related cortical region. We find that the stimulation significantly affects the participant?s cognitive control and tendency to exhibit the disposition effect. This result is also obtained for financial professionals. We thus provide evidence that cognitive control is important for the disposition effect.This paper was accepted by Bruno Biais, finance.Funding: X. Niu acknowledges financial support from the National Natural Science Foundation of China [Grant 72203132], Taishan Scholar Program of Shandong Province [Grant tsqn201909013], and Natural Science Foundation of Shandong Province [Grant ZR2022QG048]. J. Li acknowledges financial support from the National Social Science Foundation of China [Grant 20AZD044], Natural Science Foundation of Shandong Province [Grant ZR2022MG068], and Project of Humanities and Social Sciences of Shandong University [Grant 21RWZD15]. Q. Cao acknowledges financial support from the Social Science Foundation of Jiangsu Province [Grant 21GLC006]. The authors also acknowledge financial support from the Major Project of the National Natural Science Foundation of China [Grant 72192842].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4596.
+AB  - This study tests whether modulating a brain region associated with cognitive control using noninvasive brain stimulation affects the disposition effect. A participant trades stocks in an experimental asset market while their level of cognitive control is exogenously manipulated by applying weak current stimulation to a control-related cortical region. We find that the stimulation significantly affects the participant?s cognitive control and tendency to exhibit the disposition effect. This result is also obtained for financial professionals. We thus provide evidence that cognitive control is important for the disposition effect.This paper was accepted by Bruno Biais, finance.Funding: X. Niu acknowledges financial support from the National Natural Science Foundation of China [Grant 72203132], Taishan Scholar Program of Shandong Province [Grant tsqn201909013], and Natural Science Foundation of Shandong Province [Grant ZR2022QG048]. J. Li acknowledges financial support from the National Social Science Foundation of China [Grant 20AZD044], Natural Science Foundation of Shandong Province [Grant ZR2022MG068], and Project of Humanities and Social Sciences of Shandong University [Grant 21RWZD15]. Q. Cao acknowledges financial support from the Social Science Foundation of Jiangsu Province [Grant 21GLC006]. The authors also acknowledge financial support from the Major Project of the National Natural Science Foundation of China [Grant 72192842].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4596.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4596
+UR  - https://doi.org/10.1287/mnsc.2022.4596
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Opposing Effects of Complexity and Information Content on Uncertainty Dynamics: Evidence from 10-K Filings
+AU  - Bae, Joon Woo
+AU  - Belo, Frederico
+AU  - Li, Jun
+AU  - Lin, Xiaoji
+AU  - Zhao, Xiaofei
+Y1  - 2022/12/06
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4615
+DO  - 10.1287/mnsc.2022.4615
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6313
+EP  - 6332
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - We evaluate the impact of complexity and information content of 10-K filings on uncertainty dynamics following the filings. We have three main findings. First, the option-implied volatility on average increases in the first four weeks after the filings, followed by a net decrease in the subsequent six weeks. Second, this hump-shaped volatility dynamic is more pronounced for firms with larger 10-K file sizes. Third, we provide a novel decomposition of 10-K file size based on the individual sections? disclosure amount and topic analysis and find that the discussions on topics in the ?risk factors? section mainly capture the complexity aspect, whereas the discussions on topics in the ?managerial discussion and analysis? section mainly capture the information content aspect of the 10-K filings. Our findings highlight the importance of timing for understanding the opposing effects of complexity and information content on asset prices.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4615.
+AB  - We evaluate the impact of complexity and information content of 10-K filings on uncertainty dynamics following the filings. We have three main findings. First, the option-implied volatility on average increases in the first four weeks after the filings, followed by a net decrease in the subsequent six weeks. Second, this hump-shaped volatility dynamic is more pronounced for firms with larger 10-K file sizes. Third, we provide a novel decomposition of 10-K file size based on the individual sections? disclosure amount and topic analysis and find that the discussions on topics in the ?risk factors? section mainly capture the complexity aspect, whereas the discussions on topics in the ?managerial discussion and analysis? section mainly capture the information content aspect of the 10-K filings. Our findings highlight the importance of timing for understanding the opposing effects of complexity and information content on asset prices.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4615.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4615
+UR  - https://doi.org/10.1287/mnsc.2022.4615
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - “Let Me Get Back to You”—A Machine Learning Approach to Measuring NonAnswers
+AU  - Barth, Andreas
+AU  - Mansouri, Sasan
+AU  - Wöbbeking, Fabian
+Y1  - 2022/11/16
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4597
+DO  - 10.1287/mnsc.2022.4597
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6333
+EP  - 6348
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Using a supervised machine learning framework on a large training set of questions and answers, we identify 1,364 trigrams that signal nonanswers in earnings call questions and answers (Q&A). We show that this glossary has economic relevance by applying it to contemporaneous stock market reactions after earnings calls. Our findings suggest that obstructing the flow of information leads to significantly lower cumulative abnormal stock returns and higher implied volatility. As both our method and glossary are free of financial context, we believe that the measure is applicable to other fields with a Q&A setup outside the contextual domain of financial earnings conference calls.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4597.
+AB  - Using a supervised machine learning framework on a large training set of questions and answers, we identify 1,364 trigrams that signal nonanswers in earnings call questions and answers (Q&A). We show that this glossary has economic relevance by applying it to contemporaneous stock market reactions after earnings calls. Our findings suggest that obstructing the flow of information leads to significantly lower cumulative abnormal stock returns and higher implied volatility. As both our method and glossary are free of financial context, we believe that the measure is applicable to other fields with a Q&A setup outside the contextual domain of financial earnings conference calls.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4597.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4597
+UR  - https://doi.org/10.1287/mnsc.2022.4597
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Strategic Bank Liability Structure Under Capital Requirements
+AU  - Sundaresan, Suresh
+AU  - Wang, Zhenyu
+Y1  - 2022/11/09
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4570
+DO  - 10.1287/mnsc.2022.4570
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6349
+EP  - 6368
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - Banks strategically choose and dynamically restructure deposits and nondeposit debt in response to the minimum requirements on total capital and tangible equity. We derive the optimal strategic liability structure and show that it minimizes the protection for deposits conditional on capital requirements. Although, given any liability structure, regulators can set capital requirements high enough to remove the incentive for risk substitution, the strategic response to the capital requirements always preserves this incentive. Banks reduce leverage but increase the proportion of nondeposit debt if regulations raise the capital requirements.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4570.
+AB  - Banks strategically choose and dynamically restructure deposits and nondeposit debt in response to the minimum requirements on total capital and tangible equity. We derive the optimal strategic liability structure and show that it minimizes the protection for deposits conditional on capital requirements. Although, given any liability structure, regulators can set capital requirements high enough to remove the incentive for risk substitution, the strategic response to the capital requirements always preserves this incentive. Banks reduce leverage but increase the proportion of nondeposit debt if regulations raise the capital requirements.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4570.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4570
+UR  - https://doi.org/10.1287/mnsc.2022.4570
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Significant IPO Firms on Industry Incumbents: Evidence from Tax Planning
+AU  - Chyz, James
+AU  - Henry, Erin
+AU  - Omer, Thomas
+AU  - Wu, Biyu
+Y1  - 2022/11/08
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4573
+DO  - 10.1287/mnsc.2022.4573
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6369
+EP  - 6392
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - An IPO is a significant event for an individual firm, and the literature examining initial public offering (IPO) firms is extensive. However, there is little evidence on the subsequent effect of a significant IPO on incumbent firms. We extend this literature by using firms? tax policies as a powerful setting to identify whether incumbent firms respond to a significant IPO in their industry. Specifically, we use a first difference analysis to examine whether incumbent firms herd their effective tax rates (ETRs) toward a significant IPO?s ETR. We provide robust evidence that incumbent firms adjust their ETR either up or down by one to two percentage points, on average, for up to three years following a significant IPO entrance to the industry. Cross-sectional analyses support attention-based and tax-specific motives for herding, and additional analysis documents market attention-based consequences. Finally, we find that incumbents weigh the benefits of herding against the cost of adjusting their ETR and that incumbent firms use discretionary tax accruals as a less costly mechanism to imitate IPO firms? generally accepted accounting principles (GAAP) ETRs. We contribute to an IPO literature that focuses almost exclusively on the IPO firm. We extend the literature by providing evidence that a significant IPO in an industry can result in a herding response in incumbent firms? policy choices.This paper was accepted by Brian Bushee, accounting.Funding: T. Omer acknowledges funding from the Delmar Lienemann Sr. Chair of Accounting at the University of Nebraska?Lincoln.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4573.
+AB  - An IPO is a significant event for an individual firm, and the literature examining initial public offering (IPO) firms is extensive. However, there is little evidence on the subsequent effect of a significant IPO on incumbent firms. We extend this literature by using firms? tax policies as a powerful setting to identify whether incumbent firms respond to a significant IPO in their industry. Specifically, we use a first difference analysis to examine whether incumbent firms herd their effective tax rates (ETRs) toward a significant IPO?s ETR. We provide robust evidence that incumbent firms adjust their ETR either up or down by one to two percentage points, on average, for up to three years following a significant IPO entrance to the industry. Cross-sectional analyses support attention-based and tax-specific motives for herding, and additional analysis documents market attention-based consequences. Finally, we find that incumbents weigh the benefits of herding against the cost of adjusting their ETR and that incumbent firms use discretionary tax accruals as a less costly mechanism to imitate IPO firms? generally accepted accounting principles (GAAP) ETRs. We contribute to an IPO literature that focuses almost exclusively on the IPO firm. We extend the literature by providing evidence that a significant IPO in an industry can result in a herding response in incumbent firms? policy choices.This paper was accepted by Brian Bushee, accounting.Funding: T. Omer acknowledges funding from the Delmar Lienemann Sr. Chair of Accounting at the University of Nebraska?Lincoln.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4573.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4573
+UR  - https://doi.org/10.1287/mnsc.2022.4573
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Trust in Financial Markets: Evidence from Reactions to Earnings News
+AU  - Wei, Chishen
+AU  - Zhang, Lei
+Y1  - 2022/11/07
+PY  - 2022
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2022.4569
+DO  - 10.1287/mnsc.2022.4569
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6393
+EP  - 6415
+VL  - 69
+IS  - 10
+PB  - INFORMS
+N2  - This paper studies the effect of trust on the perceived credibility of earnings news. Using earnings response coefficients, we find that firms located in low-trust regions of the United States experience significantly lower stock price reactions to earnings news. Additional tests indicate that managers can counterbalance investors? dependence on trust by employing reputable auditors or signaling the quality of their earnings using dividends to improve the perceived credibility of their financial reports. Overall, our findings suggest that trust affects the pricing of earnings news in capital markets.This paper was accepted by Brian Bushee, accounting.Funding: This work was supported by Ministry of Education (Singapore) [Grant RG161/14].Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4569.
+AB  - This paper studies the effect of trust on the perceived credibility of earnings news. Using earnings response coefficients, we find that firms located in low-trust regions of the United States experience significantly lower stock price reactions to earnings news. Additional tests indicate that managers can counterbalance investors? dependence on trust by employing reputable auditors or signaling the quality of their earnings using dividends to improve the perceived credibility of their financial reports. Overall, our findings suggest that trust affects the pricing of earnings news in capital markets.This paper was accepted by Brian Bushee, accounting.Funding: This work was supported by Ministry of Education (Singapore) [Grant RG161/14].Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4569.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4569
+UR  - https://doi.org/10.1287/mnsc.2022.4569
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2023/10/01
+PY  - 2023
+DA  - 2023/10/01
+N1  - doi: 10.1287/mnsc.2023.eb.v69n10
+DO  - 10.1287/mnsc.2023.eb.v69n10
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 69
+IS  - 10
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.eb.v69n10
+UR  - https://doi.org/10.1287/mnsc.2023.eb.v69n10
+Y2  - 2024/03/27
+ER  - 

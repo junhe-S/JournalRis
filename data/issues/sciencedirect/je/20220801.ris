@@ -1,0 +1,232 @@
+TY  - JOUR
+T1  - Semiparametric model averaging prediction for dichotomous response
+AU  - Fang, Fang
+AU  - Li, Jialiang
+AU  - Xia, Xiaochao
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 219
+EP  - 245
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303882
+KW  - Kullback–Leibler loss
+KW  - Mis-specification
+KW  - Model averaging
+KW  - Semiparametric model
+KW  - Splines basis
+AB  - Model averaging has attracted abundant attentions in the past decades as it emerges as an impressive forecasting device in econometrics, social sciences and medicine. So far most developed model averaging methods focus only on either parametric models or nonparametric models with a continuous response. In this paper, we propose a semiparametric model averaging prediction (SMAP) method for a dichotomous response. The idea is to approximate the unknown score function by a linear combination of one-dimensional marginal score functions. The weight parameters involved in the approximation are obtained by first smoothing the nonparametric marginal scores and then applying the parametric model averaging via a maximum likelihood estimation. The proposed SMAP provides greater flexibility than parametric models while being more stable than a fully nonparametric approach. Theoretical properties are investigated in two practical scenarios: (i) covariates are conditionally independent given the response; and (ii) the conditional independence assumption does not hold. In the first scenario, we show that SMAP puts weight one to the true model and hence the model averaging estimators are consistent. In the second scenario in which a “true” model may not exist, SMAP is shown to be asymptotically optimal in the sense that its Kullback–Leibler loss is asymptotically identical to that of the best – but infeasible – model averaging estimator. Empirical evidences from simulation studies and a real data analysis are presented to support and illustrate our methods.
+ER  - 
+
+TY  - JOUR
+T1  - Sieve IV estimation of cross-sectional interaction models with nonparametric endogenous effect
+AU  - Hoshino, Tadao
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 263
+EP  - 275
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620304036
+KW  - Instrumental variable estimation
+KW  - Peer effects
+KW  - Sieve estimation
+KW  - Social interactions
+KW  - Spatial autoregressive models
+AB  - In this study, we consider cross-sectional interaction models including spatial autoregressive models and peer effects models as special cases. Our model allows the endogenous effect – the effect of others’ outcomes on one’s own outcome – to be nonlinear and nonparametric. For the model estimation, we propose a sieve instrumental variable estimator and establish both its consistency and asymptotic normality. Furthermore, we propose a nonparametric specification test for the linearity of the endogenous effect. Under the null hypothesis of linearity, we show that the test statistic is asymptotically distributed as normal. As an empirical illustration, we focus on the data on regional economic performance investigated by Gennaioli et al. (2013). This empirical analysis highlights the usefulness of the proposed model and method.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - ii
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(22)00104-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200104X
+ER  - 
+
+TY  - JOUR
+T1  - On LASSO for predictive regression
+AU  - Lee, Ji Hyung
+AU  - Shi, Zhentao
+AU  - Gao, Zhan
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 322
+EP  - 349
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100049X
+KW  - Cointegration
+KW  - Nonstationary time series
+KW  - Machine learning
+KW  - Shrinkage estimation
+KW  - Variable selection
+AB  - Explanatory variables in a predictive regression typically exhibit low signal strength and various degrees of persistence. Variable selection in such a context is of great importance. In this paper, we explore the pitfalls and possibilities of the LASSO methods in this predictive regression framework. In the presence of stationary, local unit root, and cointegrated predictors, we show that the adaptive LASSO cannot asymptotically eliminate all cointegrating variables with zero regression coefficients. This new finding motivates a novel post-selection adaptive LASSO, which we call the twin adaptive LASSO (TAlasso), to restore variable selection consistency. Accommodating the system of heterogeneous regressors, TAlasso achieves the well-known oracle property. In contrast, conventional LASSO fails to attain coefficient estimation consistency and variable screening in all components simultaneously. We apply these LASSO methods to evaluate the short- and long-horizon predictability of S&P 500 excess returns.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of the random coefficients model: An elastic net approach
+AU  - Heiss, Florian
+AU  - Hetzenecker, Stephan
+AU  - Osterhaus, Maximilian
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 299
+EP  - 321
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000178
+KW  - Random coefficients
+KW  - Mixed logit
+KW  - Nonparametric estimation
+KW  - Elastic net
+AB  - This paper investigates and extends the computationally attractive nonparametric random coefficients estimator of Fox et al. (2011). We show that their estimator is a special case of the nonnegative LASSO, explaining its sparse nature observed in many applications. Recognizing this link, we extend the estimator, transforming it into a special case of the nonnegative elastic net. The extension improves the estimator’s recovery of the true support and allows for more accurate estimates of the random coefficients’ distribution. Our estimator is a generalization of the original estimator and therefore, is guaranteed to have a model fit at least as good as the original one. A theoretical analysis of both estimators’ properties shows that, under conditions, our generalized estimator approximates the true distribution more accurately. Two Monte Carlo experiments and an application to a travel mode data set illustrate the improved performance of the generalized estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Transformations and moment conditions for dynamic fixed effects logit models
+AU  - Kitazawa, Yoshitsugu
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 350
+EP  - 362
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000464
+KW  - Dynamic fixed effects logit models
+KW  - Strictly exogenous continuous explanatory variables
+KW  - Time dummies
+KW  - Moment conditions
+AB  - This study proposes transformations for dynamic fixed effects logit models. First, these transformations construct valid moment conditions for the case with neither explanatory variables nor time dummies. Using valid moment conditions, we can obtain the first-order condition of the conditional maximum likelihood estimator proposed by Chamberlain (1985). Next, we derive valid moment conditions based on the transformations for the cases with strictly exogenous continuous explanatory variables and/or time dummies when the number of time periods is four or more. Transformations of these moment conditions exactly coincide with a subset of those obtained by Honoré and Weidner (2020) using the functional differencing approach proposed by Bonhomme (2012).
+ER  - 
+
+TY  - JOUR
+T1  - A doubly corrected robust variance estimator for linear GMM
+AU  - Hwang, Jungbin
+AU  - Kang, Byunghoon
+AU  - Lee, Seojeong
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 276
+EP  - 298
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000166
+KW  - Generalized method of moments
+KW  - Variance correction
+KW  - Panel data
+KW  - Model misspecification
+AB  - We propose a new finite sample corrected variance estimator for the linear generalized method of moments (GMM) including the one-step, two-step, and iterated estimators. Our formula also corrects the over-identification bias in variance estimation on top of the commonly used finite sample correction of Windmeijer (2005), which corrects the bias from estimating the efficient weight matrix, so is doubly corrected. An important feature of the proposed double correction is that it automatically provides robustness to misspecification of the moment condition. In contrast, the conventional variance estimator and the Windmeijer correction are inconsistent under misspecification. That is, the double correction formula proposed in this paper provides a convenient way to obtain improved inference under correct specification and robustness against misspecification at the same time.
+ER  - 
+
+TY  - JOUR
+T1  - Testing the eigenvalue structure of spot and integrated covariance
+AU  - Dovonon, Prosper
+AU  - Taamouti, Abderrahim
+AU  - Williams, Julian
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 363
+EP  - 395
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000579
+KW  - Eigenvalue
+KW  - Eigenvector
+KW  - High frequency
+KW  - Itô semimartingale
+KW  - Principal components
+KW  - Likelihood ratio test
+KW  - Bootstrap
+AB  - For vector Itô semimartingale dynamics, we derive the asymptotic distributions of likelihood-ratio-type test statistics for the purpose of identifying the eigenvalue structure of both integrated and spot covariance matrices estimated using high-frequency data. Unlike the existing approaches where the cross-section dimension grows to infinity, our tests do not necessarily require large cross-section and thus allow for a wide range of applications. The tests, however, are based on non-standard asymptotic distributions with many nuisance parameters. Another contribution of this paper consists in proposing a bootstrap method to approximate these asymptotic distributions. While standard bootstrap methods focus on sampling point-wise returns, the proposed method replicates features of the asymptotic approximation of the statistics of interest that guarantee its validity. A Monte Carlo simulation study shows that the bootstrap-based test controls size and has power for even moderate size samples.
+ER  - 
+
+TY  - JOUR
+T1  - Spurious functional-coefficient regression models and robust inference with marginal integration
+AU  - Tu, Yundong
+AU  - Wang, Ying
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 396
+EP  - 421
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000713
+KW  - Balanced regression
+KW  - Functional-coefficient cointegration
+KW  - Spurious regression
+KW  - Testing
+AB  - Functional-coefficient cointegrating models have become popular to model nonlinear nonstationarity in econometrics (Cai et al., 2009; Xiao, 2009). However, there is rare study on testing the existence of functional-coefficient cointegration. Consequently, functional-coefficient regressions involving nonstationary regressors may be spurious. This paper investigates the effect that spurious functional-coefficient regression has on the model diagnostics. We find that common characteristics of spurious regressions are manifest, including divergent local significance tests, random local goodness-of-fit, and local Durbin–Watson ratio converging to zero, complementing those discovered in spurious linear and nonparametric regressions (Phillips, 1986, 2009). In addition, spuriousness causes the divergences of the global significance tests proposed by Xiao (2009) and Sun et al. (2016), which are likely to produce misleading conclusions for practitioners when cointegration tests fail to reject a spurious regression. To resolve the problems, we propose a simple-to-implement inference procedure based on a semiparametric balanced regression, by augmenting regressors of the original spurious regression with lagged dependent variable and independent variables, with the aid of the marginal integration. This procedure achieves spurious regression detection via standard nonparametric inferential asymptotics, and is found robust to the true relationship between the integrated processes. The theoretical results are also corroborated by simulations.
+ER  - 
+
+TY  - JOUR
+T1  - On improvability of model selection by model averaging
+AU  - Peng, Jingfu
+AU  - Yang, Yuhong
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 246
+EP  - 262
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303973
+KW  - Model selection
+KW  - Model averaging
+KW  - Asymptotic efficiency
+AB  - In regression, model averaging (MA) provides an alternative to model selection (MS), and asymptotic efficiency theories have been derived for both MS and MA. Basically, under sensible conditions, MS asymptotically achieves the smallest estimation loss/risk among the candidate models, and MA does so among averaged estimators from the models with convex weights. Clearly, MA can beat MS by any extent in rate of convergence when all the candidate models have large biases that can be canceled out by a MA scheme. To our knowledge, however, a foundational issue has not been addressed in the literature. That is, when there is no advantage of reducing approximation error, does MA offer any significant improvement over MS in regression estimation? In this paper, we answer this question in a nested model setting that has been often used in the frequentist MA research area. A remarkable implication is that the much celebrated asymptotic efficiency of MS (e.g., by AIC) does not necessarily justify MS as commonly interpreted as achieving the best possible performance. In a nutshell, the oracle model (i.e., the unknowable best model among all the candidates) can be significantly improved by MA under certain conditions. A simulation study supports the theoretical findings.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility of volatility: Estimation and tests based on noisy high frequency data with jumps
+AU  - Li, Yingying
+AU  - Liu, Guangying
+AU  - Zhang, Zhiyuan
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 2
+SP  - 422
+EP  - 451
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000701
+KW  - Volatility of volatility
+KW  - Central limit theorem
+KW  - High frequency data
+KW  - Microstructure noise
+KW  - Semimartingale
+AB  - We establish a feasible central limit theorem with convergence rate n1/8 for the estimation of the integrated volatility of volatility (VoV) based on noisy high-frequency data with jumps. This is the first inference theory ever built for VoV estimation under such a general setup. The central limit theorem is applied to provide interval estimates of the VoV and conduct hypothesis tests. Furthermore, when one is interested in the null hypothesis that the VoV is zero, we show that a more powerful test can be established based on a VoV estimator with a convergence rate n1/5 under the null. Empirical results on the S&P 500 and individual stocks show strong evidence of non-zero VoV.
+ER  - 

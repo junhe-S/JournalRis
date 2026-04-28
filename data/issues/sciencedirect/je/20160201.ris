@@ -1,0 +1,323 @@
+TY  - JOUR
+T1  - Endogenous network production functions with selectivity
+AU  - Horrace, William C.
+AU  - Liu, Xiaodong
+AU  - Patacchini, Eleonora
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 222
+EP  - 232
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001748
+KW  - Stochastic frontier model
+KW  - Spatial autoregressive model
+KW  - Peer effects
+KW  - Endogenous network formation
+KW  - Selectivity
+AB  - We consider a production function that transforms inputs into outputs through peer effect networks. The distinguishing features of this model are that the network is formal and observable through worker scheduling, and selection into the network is done by a manager. We discuss identification and suggest several estimation techniques. We tackle endogeneity arising from selection into groups and exposure to common group factors by employing a polychotomous Heckman-type selection correction. We illustrate our method using data from the Syracuse University Men’s Basketball team, where at any time the coach selects a lineup and players interact strategically to win games.
+ER  - 
+
+TY  - JOUR
+T1  - A spatial autoregressive stochastic frontier model for panel data with asymmetric efficiency spillovers
+AU  - Glass, Anthony J.
+AU  - Kenjegalieva, Karligash
+AU  - Sickles, Robin C.
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 289
+EP  - 300
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001803
+KW  - Spatial autoregressive dependence
+KW  - Stochastic frontier analysis (SFA)
+KW  - Asymmetric directional efficiency spillovers
+KW  - Aggregate production
+KW  - European countries
+AB  - By blending seminal literature on non-spatial stochastic frontier models with key contributions to spatial econometrics we develop a spatial autoregressive (SAR) stochastic frontier for panel data. The specification of the SAR frontier allows efficiency to vary over time and across the cross-sections. Efficiency is calculated from a composed error structure by assuming a half-normal distribution for inefficiency. The SAR frontier is estimated using maximum likelihood methods taking into account the endogenous SAR variable. The application of the estimator to an aggregate production frontier for European countries highlights, among other things, the asymmetry between efficiency spillovers to and from a country.
+ER  - 
+
+TY  - JOUR
+T1  - A weak instrument F-test in linear IV models with multiple endogenous variables
+AU  - Sanderson, Eleanor
+AU  - Windmeijer, Frank
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 212
+EP  - 221
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001736
+KW  - Weak instruments
+KW  - Multiple endogenous variables
+KW  - -test
+AB  - We consider testing for weak instruments in a model with multiple endogenous variables. Unlike Stock and Yogo (2005), who considered a weak instruments problem where the rank of the matrix of reduced form parameters is near zero, here we consider a weak instruments problem of a near rank reduction of one in the matrix of reduced form parameters. For example, in a two-variable model, we consider weak instrument asymptotics of the form π1=δπ2+c/n where π1 and π2 are the parameters in the two reduced-form equations, c is a vector of constants and n is the sample size. We investigate the use of a conditional first-stage F-statistic along the lines of the proposal by Angrist and Pischke (2009) and show that, unless δ=0, the variance in the denominator of their F-statistic needs to be adjusted in order to get a correct asymptotic distribution when testing the hypothesis H0:π1=δπ2. We show that a corrected conditional F-statistic is equivalent to the Cragg and Donald (1993) minimum eigenvalue rank test statistic, and is informative about the maximum total relative bias of the 2SLS estimator and the Wald tests size distortions. When δ=0 in the two-variable model, or when there are more than two endogenous variables, further information over and above the Cragg–Donald statistic can be obtained about the nature of the weak instrument problem by computing the conditional first-stage F-statistics.
+ER  - 
+
+TY  - JOUR
+T1  - Directional distance functions: Optimal endogenous directions
+AU  - Atkinson, Scott E.
+AU  - Tsionas, Mike G.
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 301
+EP  - 314
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500175X
+KW  - Optimal directions
+KW  - Bayesian estimation
+KW  - Directional distance function
+KW  - Productivity change with goods and bads
+AB  - A substantial literature has dealt with the problem of estimating multiple-input and multiple-output production functions, where inputs and outputs can be good and bad. Numerous studies can be found in the areas of productivity analysis, industrial organization, labor economics, and health economics. While many papers have estimated the more restrictive output- and input-oriented distance functions, here we estimate a more general directional distance function. A seminal paper on directional distance functions by Chambers (1998) as well as papers by Färe et al. (1997), Chambers et al. (1998), Färe and Grosskopf (2000), Grosskopf (2003), Färe et al. (2005), and Hudgins and Primont (2007) do not address the issue of how to choose an optimal direction set. Typically the direction is arbitrarily selected to be 1 for good outputs and −1 for inputs and bad outputs. By estimating the directional distance function together with the first-order conditions for cost minimization and profit maximization using Bayesian methods, we are able to estimate optimal firm-specific directions for each input and output which are consistent with allocative and technical efficiency. We apply these methods to an electric-utility panel data set, which contains firm-specific prices and quantities of good inputs and outputs as well as the quantities of bad inputs and outputs. Estimated firm-specific directions for each input and output are quite different from those normally assumed in the literature. The computed firm-specific technical efficiency, technical change, and productivity change based on estimated optimal directions are substantially higher than those calculated using fixed directions.
+ER  - 
+
+TY  - JOUR
+T1  - Editors’ introduction
+AU  - Kumbhakar, Subal C.
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 209
+EP  - 211
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001724
+ER  - 
+
+TY  - JOUR
+T1  - A control function approach to estimating switching regression models with endogenous explanatory variables and endogenous switching
+AU  - Murtazashvili, Irina
+AU  - Wooldridge, Jeffrey M.
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 252
+EP  - 266
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001839
+KW  - Random coefficient model
+KW  - Average treatment effect
+KW  - Control function approach
+AB  - We derive simple, multi-step estimation methods for a linear model with heterogeneous coefficients when there are both continuous and discrete endogenous explanatory variables. We consider both cross-sectional and panel data settings. When we extend our model to panel data, we use the Chamberlain–Mundlak device to allow heterogeneity to be correlated with time-varying explanatory variables. We apply the panel data methods we propose to estimation of a housing budget share equation where a homeownership dummy variable plays the role of the endogenous regime, and total expenditure plays the role of a continuous endogenous explanatory variable. We find that the constant coefficient model seems sufficient, and that the estimation methods we propose produce rather plausible estimates of the model parameters.
+ER  - 
+
+TY  - JOUR
+T1  - Endogeneity in stochastic frontier models
+AU  - Amsler, Christine
+AU  - Prokhorov, Artem
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 280
+EP  - 288
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001827
+KW  - Endogeneity
+KW  - Stochastic frontier
+KW  - Efficiency measurement
+AB  - Stochastic frontier models are typically estimated by maximum likelihood (MLE) or corrected ordinary least squares. The consistency of either estimator depends on exogeneity of the explanatory variables (inputs, in the production frontier setting). We will investigate the case that one or more of the inputs is endogenous, in the simultaneous equation sense of endogeneity. That is, we worry that there is correlation between the inputs and statistical noise or inefficiency. In a standard regression setting, simultaneity is handled by a number of procedures that are numerically or asymptotically equivalent. These include 2SLS; using the residual from the reduced form equations for the endogenous variables as a control function; and MLE of the system that contains the equation of interest plus the unrestricted reduced form equations for the endogenous variables (LIML). We will consider modifications of these standard procedures for the stochastic frontier setting. The paper is mostly a survey and combination of existing results from the stochastic frontier literature and the classic simultaneous equations literature, but it also contains some new results.
+ER  - 
+
+TY  - JOUR
+T1  - Some models for stochastic frontiers with endogeneity
+AU  - Griffiths, William E.
+AU  - Hajargasht, Gholamreza
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 341
+EP  - 348
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001815
+KW  - Technical efficiency
+KW  - Instrumental variables
+KW  - Gibbs sampling
+AB  - We consider mostly Bayesian estimation of stochastic frontier models where one-sided inefficiencies and/or the idiosyncratic error term are correlated with the regressors. We begin with a model where a Chamberlain–Mundlak device is used to relate a transformation of time-invariant effects to the regressors. This basic model is then extended in two directions: first an extra one-sided error term is added to allow for time-varying efficiencies. Second, a model with an equation for instrumental variables and a more general error covariance structure is introduced to accommodate correlations between both error terms and the regressors. An application of the first and second models to Philippines rice data is provided.
+ER  - 
+
+TY  - JOUR
+T1  - The good, the bad and the technology: Endogeneity in environmental production models
+AU  - Kumbhakar, Subal C.
+AU  - Tsionas, Efthymios G.
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 315
+EP  - 327
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001773
+KW  - By-production
+KW  - Endogeneity
+KW  - MCMC
+KW  - Technical and environmental efficiency
+AB  - In this paper we consider an environmental production process in which firms intend to produce outputs (which we label as desirable/good) but the production process is such that it automatically produces some other unintentional but inevitable undesirable (bad) outputs as by-products (emission of pollutants). Like stochastic production frontier, by-production technology specifies that there is a minimal amount of the by-product that is produced, given the quantities of inputs and desirable outputs. The presence of (environmental) inefficiency in by-production therefore means that more than this minimal amount of the undesirable output is produced. Similarly, the presence of technical inefficiency implies that, given inputs, less than the maximal possible amount of desirable outputs is produced. Alternatively, it means that more than the minimal amounts of inputs are used to produce a given level of desirable output. We use the “by-production technology” approach which is a composition of production technology of desirable outputs and the technology of by-products, and estimate both technical and environmental efficiency. Given that electricity, the good output in our application, is demand determined, we treat it as exogenous and address the endogeneity of inputs by using the first-order conditions of cost minimization. Some of our models automatically take endogeneity of bad outputs into account. We use an efficient Bayesian MCMC technique to estimate both good and bad output technologies and both types of inefficiency. We also compare results with some alternative models with and without endogeneity corrections.
+ER  - 
+
+TY  - JOUR
+T1  - Varying coefficient panel data model in the presence of endogenous selectivity and fixed effects
+AU  - Malikov, Emir
+AU  - Kumbhakar, Subal C.
+AU  - Sun, Yiguo
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 233
+EP  - 251
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001761
+KW  - Credit union
+KW  - Fixed effects
+KW  - Selection
+KW  - Semiparametric
+KW  - Smooth coefficient
+KW  - Switching regression
+KW  - Varying coefficient
+AB  - This paper considers a flexible panel data sample selection model in which (i) the outcome equation is permitted to take a semiparametric, varying coefficient form to capture potential parameter heterogeneity in the relationship of interest, (ii) both the outcome and (parametric) selection equations contain unobserved fixed effects and (iii) selection is generalized to a polychotomous case. We propose a two-stage estimator. Given consistent parameter estimates from the selection equation obtained in the first stage, we estimate the semiparametric outcome equation using data for the observed individuals whose likelihood of being selected into the sample stays approximately the same over time. The selection bias term is then “asymptotically” removed from the equation along with fixed effects using kernel-based weights. The proposed estimator is consistent and asymptotically normal. We showcase our estimator by applying it to study production technologies of US retail credit unions from 2002 to 2006.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric instrumental variables estimation for efficiency frontier
+AU  - Cazals, Catherine
+AU  - Fève, Frédérique
+AU  - Florens, Jean-Pierre
+AU  - Simar, Léopold
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 349
+EP  - 359
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001797
+KW  - Endogeneity in frontier models
+KW  - Instrumental variable quantile
+KW  - Non linear integral equation
+KW  - Landweber iteration
+KW  - Tail index estimation
+AB  - The paper investigates endogeneity issues in nonparametric frontier models. It considers a nonseparable model for a cost function C=φ(Y,U) where C and Y are the cost and the output, U is uniform in [0,1] and φ is increasing with respect to U. The cost frontier corresponds to U=0 and U can be interpreted as a normalized level of inefficiency. The endogeneity issue arises when Y is dependent of U. For identification and estimation, we use a nonparametric instrumental variables estimator of the model for fixed value U=α, and obtain an estimate of the α-quantile cost frontier φ(Y,α). This involves the solution of a non linear integral equation. If the true frontier φ(Y,0) is wanted, it is then estimated by estimating the bias correction φ(Y,0)−φ(Y,α) under additional regularity conditions. The procedure is illustrated through a simulated sample and with an empirical application to the efficiency of post offices.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating production functions with control functions when capital is measured with error
+AU  - Kim, Kyoo il
+AU  - Petrin, Amil
+AU  - Song, Suyong
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 267
+EP  - 279
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001852
+KW  - Production function
+KW  - Unobserved productivity
+KW  - Measurement error
+KW  - Nonparametric estimation
+KW  - Control variate
+AB  - We revisit the production function estimators of Olley and Pakes (1996) and Levinsohn and Petrin (2003). They use control functions to address the simultaneous determination of inputs and productivity. Both assume that input demand is a monotonic function of productivity holding capital constant and then invert this function to condition on productivity during estimation. If the observed capital variable is measured with error, input demand will not generally be monotonic in the productivity shock holding observed capital constant. We develop consistent estimators of production function parameters in the face of this measurement error. Our identification and estimation results combine the nonlinear measurement error literature with Wooldridge’s (2009) joint estimation method to construct a proxy for productivity that addresses simultaneity. Our approach directly extends to the case where other inputs like intermediates or labor are observed with error.
+ER  - 
+
+TY  - JOUR
+T1  - Using information about technologies, markets and firm behaviour to decompose a proper productivity index
+AU  - O’Donnell, C.J.
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 328
+EP  - 340
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001785
+AB  - This paper uses distance functions to define new output and input quantity indexes that satisfy important axioms from index number theory (e.g., identity, transitivity, proportionality and time-space reversal). Dividing the output index by the input index yields a new productivity index that can be decomposed into a measure of technical change, a measure of environmental change, and several measures of efficiency change. A problem with this new index is that it cannot be computed without estimating the production frontier. The paper shows how assumptions concerning technologies, markets and firm behaviour can be used to inform the estimation process. The focus is on the asymptotic properties of least squares estimators when the explanatory variables in the production frontier model are endogenous. In this case, the ordinary least squares estimator is usually inconsistent. However, there is one situation where it is super-consistent. A fully-modified ordinary least squares estimator is also available in this case. To illustrate the main ideas, the paper uses US state-level farm data to estimate a stochastic production frontier. The parameter estimates are then used to obtain estimates of the economically-relevant components of productivity change.
+ER  - 
+
+TY  - JOUR
+T1  - Unobserved heterogeneity and endogeneity in nonparametric frontier estimation
+AU  - Simar, Léopold
+AU  - Vanhems, Anne
+AU  - Van Keilegom, Ingrid
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - 360
+EP  - 373
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001840
+KW  - Unobserved heterogeneity
+KW  - Endogeneity
+KW  - Nonparametric frontiers
+KW  - Robust estimation of frontiers
+KW  - Conditional efficiency
+AB  - In production theory, firm efficiencies are measured by their distances to a production frontier. In the presence of heterogeneous conditions (like environmental factors) that may influence the shape and the position of the frontier, traditional measures of efficiency obtained in the space of inputs/outputs are difficult to interpret, since they mix managerial inefficiency and shift of the frontier. This can be corrected by using nonparametric conditional efficiencies. In this paper we extend these concepts in the case where the heterogeneity is not observed. We propose a model where the heterogeneity variable is linked to a particular input (or output). It is defined as the part of the input (or the output), independent from some instrumental variable through a nonseparable nonparametric model. We discuss endogeneity issues involved in this model. We show that the model is identified and analyze the asymptotic properties of proposed nonparametric estimators. When using FDH estimators we achieve a limiting Weibull distribution, whereas when using the robust order-m estimators we obtain the asymptotic normality. The method is illustrated with some simulated and real data examples. A Monte-Carlo experiment shows how the procedure works for finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 190
+IS  - 2
+SP  - IFC
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Endogeneity Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00307-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615003073
+ER  - 

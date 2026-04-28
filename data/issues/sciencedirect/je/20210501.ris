@@ -1,0 +1,239 @@
+TY  - JOUR
+T1  - (Machine) learning parameter regions
+AU  - Montiel Olea, José Luis
+AU  - Nesbit, James
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 716
+EP  - 744
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302177
+KW  - Machine learning
+KW  - Supervised learning
+KW  - Set-identified models
+KW  - Structural vector autoregressions
+AB  - How many random points from an identified set, a confidence set, or a highest posterior density set suffice to describe them? This paper argues that taking random draws from a parameter region in order to approximate its shape is a supervised learning problem (analogous to sampling pixels of an image to recognize it). Misclassification error – a common criterion in machine learning – provides an off-the-shelf tool to assess the quality of a given approximation. We say a parameter region can be learned if there is an algorithm that yields a misclassification error of at most ϵ with probability at least 1−δ, regardless of the sampling distribution. We show that learning a parameter region is possible if and only if its potential shapes are not too complex. Moreover, the tightest band that contains a d-dimensional parameter region is always learnable from the inside (in a sense we make precise), with at least max(1−ϵ)ln1∕δ,(3∕16)d∕ϵ draws, but at most min{2dln(2d∕δ),exp(1)(2d+ln(1∕δ))}∕ϵ. These bounds grow linearly in the dimension of the parameter region, and are uniform with respect to its true shape. We illustrate the usefulness of our results using structural vector autoregressions. We show how many orthogonal matrices are necessary/sufficient to evaluate the impulse responses’ identified set and how many ‘shotgun plots’ to report when conducting joint inference on impulse responses.
+ER  - 
+
+TY  - JOUR
+T1  - Empirical asset pricing with multi-period disaster risk: A simulation-based approach
+AU  - Sönksen, Jantje
+AU  - Grammig, Joachim
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 805
+EP  - 832
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302748
+KW  - Empirical asset pricing
+KW  - Multi-period disasters
+KW  - Simulation-based estimation
+AB  - We propose a simulation-based strategy to estimate and empirically assess a class of asset pricing models that account for rare but severe consumption contractions that can extend over multiple periods. Our approach expands the scope of prevalent calibration studies and tackles the inherent sample selection problem associated with measuring the effect of rare disaster risk on asset prices. An analysis based on postwar U.S. and historical multi-country panel data yields estimates of investor preference parameters that are economically plausible and robust with respect to alternative specifications. The estimated model withstands tests of validity; the model-implied key financial indicators and timing premium all have reasonable magnitudes. These findings suggest that the rare disaster hypothesis can help restore the nexus between the real economy and financial markets when allowing for multi-period disaster events. Our methodological contribution is a new econometric framework for empirical asset pricing with rare disaster risk.
+ER  - 
+
+TY  - JOUR
+T1  - On factor models with random missing: EM estimation, inference, and cross validation
+AU  - Jin, Sainan
+AU  - Miao, Ke
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 745
+EP  - 777
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302815
+KW  - Cross-validation
+KW  - Expectation–Maximization (EM) algorithm
+KW  - Factor models
+KW  - Matrix completion
+KW  - Missing at random
+KW  - Principal component analysis
+KW  - Singular value decomposition
+AB  - We consider the estimation and inference in approximate factor models with random missing values. We show that with the low rank structure of the common component, we can estimate the factors and factor loadings consistently with the missing values replaced by zeros. We establish the asymptotic distributions of the resulting estimators and those based on the EM algorithm. We also propose a cross-validation-based method to determine the number of factors in factor models with or without missing values and justify its consistency. Simulations demonstrate that our cross validation method is robust to fat tails in the error distribution and significantly outperforms some existing popular methods in terms of correct percentage in determining the number of factors. An application to the factor-augmented regression models shows that a proper treatment of the missing values can improve the out-of-sample forecast of some macroeconomic variables.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - ii
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00091-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000919
+ER  - 
+
+TY  - JOUR
+T1  - On the validity of Akaike’s identity for random fields
+AU  - Jentsch, Carsten
+AU  - Meyer, Marco
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 676
+EP  - 687
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.044
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302347
+KW  - Finite predictor coefficients
+KW  - -projection
+KW  - Random fields
+KW  - Yule–Walker equations
+AB  - For univariate stationary and centered time series (Xt)t∈Z, Akaike’s identity links the inverse of the Yule–Walker matrix Γ(p)=E(XX′), where X=(Xt−1,…,Xt−p)′, to the corresponding finite predictor coefficients. It reads as a Cholesky-type factorization Γ(p)−1=L(p)′Σ(p)−1L(p), where L(p) is lower-triangular and Σ(p)−1 is diagonal. Whereas this Cholesky-type factorization exists whenever Γ(p) is positive definite, Akaike derived a meaningful interpretation of L(p) and Σ(p)−1 in terms of finite predictor coefficients. It is useful in many applications and is particularly crucial to derive asymptotic theory for Berk’s spectral density estimator. We investigate the validity of a bona fide extension of Akaike’s identity to univariate stationary random fields (Xt̲)t̲∈Zd. An analogue of Akaike’s result is shown to hold true if and only if the corresponding Yule–Walker matrix Γ(p) is Toeplitz. This condition turns out to be very restrictive and rules out commonly used unilateral autoregressive models in Zd (such as half-plane or quarter-plane fits in Z2). Instead, we prove that the corresponding Cholesky-type factorization Γ(p)−1=L(p)′Σ(p)−1L(p) for random fields does establish a link to a different, but practically less relevant sequence of so-called reshaping past projection coefficients.
+ER  - 
+
+TY  - JOUR
+T1  - Linear IV regression estimators for structural dynamic discrete choice models
+AU  - Kalouptsidi, Myrto
+AU  - Scott, Paul T.
+AU  - Souza-Rodrigues, Eduardo
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 778
+EP  - 804
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302578
+KW  - Dynamic discrete choice
+KW  - Unobserved states
+KW  - Instrumental variables
+KW  - Identification
+KW  - Euler equations
+AB  - In structural dynamic discrete choice models, unobserved or mis-measured state variables may lead to biased parameter estimates and misleading inference. In this paper, we show that instrumental variables can address such measurement problems when they relate to state variables that evolve exogenously from the perspective of individual agents (i.e., market-level states). We define a class of linear instrumental variables estimators that rely on Euler equations expressed in terms of conditional choice probabilities (ECCP estimators). These estimators do not require observing or modeling the agent’s entire information set, nor solving or simulating a dynamic program. As such, they are simple to implement and computationally light. We provide constructive arguments for the identification of model primitives, and establish the estimator’s consistency and asymptotic normality. Four applied examples serve to illustrate the ECCP approach’s implementation, advantages, and limitations: dynamic demand for durable goods, agricultural land use change, technology adoption, and dynamic labor supply. We illustrate the estimator’s good finite-sample performance in a Monte Carlo study, and we estimate a labor supply model empirically for taxi drivers in New York City.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic decisions under subjective expectations: A structural analysis
+AU  - An, Yonghong
+AU  - Hu, Yingyao
+AU  - Xiao, Ruli
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 645
+EP  - 675
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.046
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302414
+KW  - Dynamic discrete choice models
+KW  - Subjective beliefs
+KW  - Rational expectations
+KW  - Nonparametric identification
+KW  - Estimation
+AB  - We study dynamic discrete choice models without assuming rational expectations. Agents’ beliefs about state transitions are subjective, unknown, and may differ from their objective counterparts. We show that agents’ preferences and subjective beliefs are identified in both finite and infinite horizon models. We estimate the model primitives via maximum likelihood estimation and demonstrate the good performance of the estimator by Monte Carlo experiments. Using the Panel Study of Income Dynamics (PSID) data, we illustrate our method in an analysis of women’s labor participation. We find that workers do not hold rational expectations about income transitions.
+ER  - 
+
+TY  - JOUR
+T1  - Testing constancy in varying coefficient models
+AU  - Delgado, Miguel A.
+AU  - Arteaga-Molina, Luis A.
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 625
+EP  - 644
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.041
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302657
+KW  - Varying coefficient models
+KW  - Model checks
+KW  - Union-intersection tests
+KW  - Concomitants
+KW  - Partial effects model checks
+KW  - Wild bootstrap
+KW  - Trimming data-driven calibration
+AB  - This article proposes a coefficients constancy test in semi-varying coefficient models that only needs to estimate the restricted coefficients under the null hypothesis. The test statistic resembles the union-intersection test after ordering the data according to the varying coefficients’ explanatory variable. This statistic depends on a trimming parameter that can be chosen by a data-driven calibration method we propose. A bootstrap test is justified under fairly general regularity conditions. Under more restrictive assumptions, the critical values can be tabulated, and trimming is unnecessary. The finite sample performance is studied by means of Monte Carlo experiments, and a real data application for modeling education returns.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian MIDAS penalized regressions: Estimation, selection, and prediction
+AU  - Mogliani, Matteo
+AU  - Simoni, Anna
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 833
+EP  - 860
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302207
+KW  - Bayesian MIDAS regressions
+KW  - Penalized regressions
+KW  - Predictive distribution
+KW  - Forecasting
+KW  - Posterior contraction
+AB  - We propose a new approach to mixed-frequency regressions in a high-dimensional environment that resorts to Group Lasso penalization and Bayesian estimation and inference. In particular, to improve the prediction properties of the model and its sparse recovery ability, we consider a Group Lasso with a spike-and-slab prior. Penalty hyper-parameters governing the model shrinkage are automatically tuned via an adaptive MCMC algorithm. We establish good frequentist asymptotic properties of the posterior prediction error, we recover the optimal posterior contraction rate, and we show optimality of the posterior predictive density. Simulations show that the proposed models have good selection and forecasting performance in small samples, even when the design matrix presents cross-correlation. When applied to forecasting U.S. GDP, our penalized regressions can outperform many strong competitors. Results suggest that financial variables may have some, although very limited, short-term predictive content.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for observation-dependent regime switching in mixture autoregressive models
+AU  - Meitz, Mika
+AU  - Saikkonen, Pentti
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 601
+EP  - 624
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.048
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302438
+KW  - Likelihood ratio test
+KW  - Singular information matrix
+KW  - Higher-order approximation of the log-likelihood
+KW  - Logistic mixture autoregressive model
+KW  - Gaussian mixture autoregressive model
+AB  - Testing for regime switching when the regime switching probabilities are specified either as constants (‘mixture models’) or are governed by a finite-state Markov chain (‘Markov switching models’) are long-standing problems that have also attracted recent interest. This paper considers testing for regime switching when the regime switching probabilities are time-varying and depend on observed data (‘observation-dependent regime switching’). Specifically, we consider the likelihood ratio test for observation-dependent regime switching in mixture autoregressive models. The testing problem is highly nonstandard, involving unidentified nuisance parameters under the null, parameters on the boundary, singular information matrices, and higher-order approximations of the log-likelihood. We derive the asymptotic null distribution of the likelihood ratio test statistic in a general mixture autoregressive setting using high-level conditions that allow for various forms of dependence of the regime switching probabilities on past observations, and we illustrate the theory using two particular mixture autoregressive models. The likelihood ratio test has a nonstandard asymptotic distribution that can easily be simulated, and Monte Carlo studies show the test to have good finite sample size and power properties.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of jump diffusion models
+AU  - Park, Joon Y.
+AU  - Wang, Bin
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 1, Part C
+SP  - 688
+EP  - 715
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302189
+KW  - Nonparametric estimation
+KW  - Jump diffusion
+KW  - Asymptotics
+KW  - Local time
+KW  - Drift
+KW  - Diffusive and jump volatility
+KW  - Lévy measure
+KW  - Threshold estimation
+KW  - Optimal bandwidth
+AB  - This paper develops the asymptotics for nonparametric kernel estimators of local time, drift and volatilities, and Lévy measure in jump diffusion models. Our asymptotics are developed in a very general set-up, allowing the sample span to increase as the sampling interval decreases, and without assuming stationarity. For drift and volatilities, we analyze both local constant and local linear estimators. We consider not only estimators for instantaneous conditional second moment, but also threshold estimators to disentangle diffusive and jump volatilities. The optimal bandwidths are provided for all these estimators.
+ER  - 

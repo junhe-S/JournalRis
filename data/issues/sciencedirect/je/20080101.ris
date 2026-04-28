@@ -1,0 +1,555 @@
+TY  - JOUR
+T1  - Estimation and tests for power-transformed and threshold GARCH models
+AU  - Pan, Jiazhu
+AU  - Wang, Hui
+AU  - Tong, Howell
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 352
+EP  - 378
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001443
+KW  - Threshold GARCH
+KW  - Power transformation
+KW  - Asymptotic normality
+KW  - Quasi-maximum likelihood estimator
+KW  - Least absolute deviations estimation
+KW  - Wald test
+KW  - Order selection
+KW  - PTTGARCH structure
+AB  - Consider a class of power-transformed and threshold GARCH(p,q) (PTTGRACH(p,q)) model, which is a natural generalization of power-transformed and threshold GARCH(1,1) model in Hwang and Basawa [2004. Stationarity and moment structure for Box–Cox transformed threshold GARCH(1,1) processes. Statistics & Probability Letters 68, 209–220.] and includes the standard GARCH model and many other models as special cases. We first establish the asymptotic normality for quasi-maximum likelihood estimators (QMLE) of the parameters under the condition that the error distribution has finite fourth moment. For the case of heavy-tailed errors, we propose a least absolute deviations estimation (LADE) for PTTGARCH(p,q) model, and prove that the LADE is asymptotically normally distributed under very weak moment conditions. This paves the way for a statistical inference based on asymptotic normality for heavy-tailed PTTGARCH(p,q) models. As a consequence, we can construct the Wald test for GARCH structure and discuss the order selection problem in heavy-tailed cases. Numerical results show that LADE is more accurate than QMLE for heavy-tailed errors. Furthermore, the theory is applied to the daily returns of the Hong Kong Hang Seng Index, which suggests that asymmetry and nonlinearity could be present in the financial time series and the PTTGARCH model is capable of capturing these characteristics. As for the probabilistic structure of PTTGARCH(p,q) model, we give in the appendix a necessary and sufficient condition for the existence of a strictly stationary solution of the model, the existence of the moments and the tail behavior of the strictly stationary solution.
+ER  - 
+
+TY  - JOUR
+T1  - Testing slope homogeneity in large panels
+AU  - Hashem Pesaran, M.
+AU  - Yamagata, Takashi
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 50
+EP  - 93
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.05.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001224
+KW  - Tests of slope homogeneity
+KW  - Dispersion tests
+KW  - Large panels
+KW  - Monte Carlo results
+AB  - This paper proposes a standardized version of Swamy's test of slope homogeneity for panel data models where the cross section dimension (N) could be large relative to the time series dimension (T). The proposed test, denoted by Δ˜, exploits the cross section dispersion of individual slopes weighted by their relative precision. In the case of models with strictly exogenous regressors, but with non-normally distributed errors, the test is shown to have a standard normal distribution as (N,T) →j∞ such that N/T2→0. When the errors are normally distributed, a mean-variance bias adjusted version of the test is shown to be normally distributed irrespective of the relative expansion rates of N and T. The test is also applied to stationary dynamic models, and shown to be valid asymptotically so long as N/T→κ, as (N,T)→j∞, where 0⩽κ<∞. Using Monte Carlo experiments, it is shown that the test has the correct size and satisfactory power in panels with strictly exogenous regressors for various combinations of N and T. Similar results are also obtained for dynamic panels, but only if the autoregressive coefficient is not too close to unity and so long as T⩾N.
+ER  - 
+
+TY  - JOUR
+T1  - Fixed effects instrumental variables estimation in correlated random coefficient panel data models
+AU  - Murtazashvili, Irina
+AU  - Wooldridge, Jeffrey M.
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 539
+EP  - 552
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001741
+KW  - Correlated random coefficient model
+KW  - Population averaged effect
+KW  - Average treatment effect
+KW  - Fixed effects
+KW  - Instrumental variables
+AB  - We provide a set of conditions sufficient for consistency of a general class of fixed effects instrumental variables (FE-IV) estimators in the context of a correlated random coefficient panel data model, where one ignores the presence of individual-specific slopes. We discuss cases where the assumptions are met and violated. Monte Carlo simulations verify that the FE-IV estimator of the population averaged effect performs notably better than other standard estimators, provided a full set of period dummies is included. We also propose a simple test of selection bias in unbalanced panels when we suspect the slopes may vary by individual.
+ER  - 
+
+TY  - JOUR
+T1  - A non-local perspective on the power properties of the CUSUM and CUSUM of squares tests for structural change
+AU  - Deng, Ai
+AU  - Perron, Pierre
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 212
+EP  - 240
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001285
+KW  - Change point
+KW  - Mean shift
+KW  - Local asymptotic power
+KW  - Recursive residuals
+KW  - Dynamic models
+AB  - We consider the power properties of the CUSUM and CUSUM of squares (CUSQ) tests in the presence of a one-time change in the parameters of a linear regression model. A result due to Ploberger and Krämer [1990. The local power of the cusum and cusum of squares tests. Econometric Theory 6, 335–347.] is that the CUSQ test has only trivial asymptotic local power in this case, while the CUSUM test has non-trivial local asymptotic power unless the change is orthogonal to the mean regressor. The main theme of the paper is that such conclusions obtained from a local asymptotic framework are not reliable guides to what happens in finite samples. The approach we take is to derive expansions of the test statistics that retain terms related to the magnitude of the change under the alternative hypothesis. This enables us to analyze what happens for non-local to zero breaks. Our theoretical results are able to explain how the power function of the tests can be drastically different depending on whether one deals with a static regression with uncorrelated errors, a static regression with correlated errors, a dynamic regression with lagged dependent variables, or whether a correction for non-normality is applied in the case of the CUSQ. We discuss in which cases the tests are subject to a non-monotonic power function that goes to zero as the magnitude of the change increases, and uncover some curious properties. All theoretical results are verified to yield good guides to the finite sample power through simulation experiments. We finally highlight the practical importance of our results.
+ER  - 
+
+TY  - JOUR
+T1  - Temporal aggregation of multivariate GARCH processes
+AU  - Hafner, Christian M.
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 467
+EP  - 483
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001583
+KW  - Multivariate GARCH
+KW  - Weak GARCH
+KW  - Temporal aggregation
+AB  - This paper derives results for the temporal aggregation of multivariate GARCH(1,1) processes in the general vector specification. It is shown that the class of weak multivariate GARCH(1,1) processes is closed under temporal aggregation. Fourth moment characteristics turn out to be crucial for the low frequency dynamics for both stock and flow variables. In some aspects, the aggregation characteristics of multivariate GARCH processes are shown to be different from those of vector autoregressive moving average processes. A numerical example illustrates some of the results.
+ER  - 
+
+TY  - JOUR
+T1  - Exactly distribution-free inference in instrumental variables regression with possibly weak instruments
+AU  - Andrews, Donald W.K.
+AU  - Marmer, Vadim
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 183
+EP  - 200
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.05.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001261
+KW  - Aligned ranks
+KW  - Anderson–Rubin statistic
+KW  - Exact size
+KW  - Rank test
+KW  - Weak instruments
+AB  - This paper introduces a rank-based test for the instrumental variables regression model that dominates the Anderson–Rubin test in terms of finite sample size and asymptotic power in certain circumstances. The test has correct size for any distribution of the errors with weak or strong instruments. The test has noticeably higher power than the Anderson–Rubin test when the error distribution has thick tails and comparable power otherwise. Like the Anderson–Rubin test, the rank tests considered here perform best, relative to other available tests, in exactly identified models.
+ER  - 
+
+TY  - JOUR
+T1  - Productivity trends in U.S. manufacturing: Evidence from the NQ and AIM cost functions
+AU  - Feng, Guohua
+AU  - Serletis, Apostolos
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 281
+EP  - 311
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001315
+KW  - Flexible functional forms
+KW  - Technical change
+KW  - Generalized Leontief (GL)
+KW  - Translog
+KW  - Normalized quadratic (NQ)
+KW  - Asymptotically ideal model (AIM)
+AB  - In this paper, we take the econometric approach to productivity measurement in United States manufacturing, using KLEM data over the period from 1953 to 2001. We are also interested in technical change bias, price elasticities, and elasticities of substitution in the U.S. manufacturing industry. We present an empirical comparison and evaluation of the effectiveness of four well-known flexible cost functions—the locally flexible generalized Leontief (see Diewert [1971. An application of the Shephard duality theorem: a generalized Leontief production function. Journal of Political Economy 79, 481–507]), translog (see Christensen et al. [1975. Transendendal logarithmic utility functions. American Economic Review 65, 367–364]), and normalized quadratic (see Diewert and Wales [1987. Flexible functional forms and global curvature conditions. Econometrica 55, 43–68])—and the globally flexible asymptotically ideal model (see Barnett et al. [1991. Semi-nonparametric Bayesian estimation of the asymptotically ideal production model. Journal of Econometrics 49, 5–50]), the latter modified to introduce technical change by means of Thomsen's [2000. Short cuts to dynamic factor demand modelling. Journal of Econometrics 97, 1–23] factor-augmenting efficiency index approach.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive consistent unit-root tests based on autoregressive threshold model
+AU  - Bec, Frédérique
+AU  - Guay, Alain
+AU  - Guerre, Emmanuel
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 94
+EP  - 133
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.05.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001236
+KW  - Unit-root test
+KW  - Threshold autoregressive model
+KW  - Term structure of interest rates
+AB  - This paper proposes SupWald tests from a threshold autoregressive model computed with an adaptive set of thresholds. Simple examples of adaptive threshold sets are given. A second contribution of the paper is a general asymptotic null limit theory when the threshold variable is a level variable. We obtain a pivotal null limiting distribution under some simple conditions for bounded or asymptotically unbounded thresholds. Our general approach is flexible enough to allow a choice of the auxiliary threshold model or of the threshold set involved in the test specifically designed for nonlinear stationary alternatives relevant for macroeconomic and financial topics involving arbitrage in presence of transaction costs. A Monte-Carlo study and an application to the interest rates spread for French, German, New-Zealander and US post-1980 monthly data illustrate the ability of the adaptive SupWald tests to reject unit-root when the ADF does not.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian stochastic search for VAR model restrictions
+AU  - George, Edward I.
+AU  - Sun, Dongchu
+AU  - Ni, Shawn
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 553
+EP  - 580
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001753
+KW  - Bayesian VAR
+KW  - Stochastic search
+KW  - Markov chain Monte Carlo
+AB  - We propose a Bayesian stochastic search approach to selecting restrictions for vector autoregressive (VAR) models. For this purpose, we develop a Markov chain Monte Carlo (MCMC) algorithm that visits high posterior probability restrictions on the elements of both the VAR regression coefficients and the error variance matrix. Numerical simulations show that stochastic search based on this algorithm can be effective at both selecting a satisfactory model and improving forecasting performance. To illustrate the potential of our approach, we apply our stochastic search to VAR modeling of inflation transmission from producer price index (PPI) components to the consumer price index (CPI).
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and testing of Euler equation models with time-varying reduced-form coefficients
+AU  - Li, Hong
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 425
+EP  - 448
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001479
+KW  - Parameter instability
+KW  - Model evaluation and testing
+KW  - Euler equations
+AB  - This paper studies the estimation and testing of Euler equation models in the framework of the classical two-step minimum-distance method. The time-varying reduced-form model in the first step reflects the adaptation of private agents’ beliefs to the changing economic environment. The presumed ability of Euler conditions to deliver stable parameters indexing tastes and technology is interpreted as a time-invariant second-step model. This paper shows that, complementary to and independent of one another, both standard specification test and stability test are required for the evaluation of an Euler equation. As an empirical application, a widely used investment Euler equation is submitted to examination. The empirical outcomes appear to suggest that the standard investment model has not been a success for aggregate investment.
+ER  - 
+
+TY  - JOUR
+T1  - Symmetry-based inference in an instrumental variable setting
+AU  - Bekker, Paul A.
+AU  - Lawford, Steve
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 28
+EP  - 49
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001212
+KW  - Weak instruments
+KW  - Exact inference
+KW  - Distribution-free methods
+KW  - Nonparametric tests
+KW  - Anderson–Rubin confidence sets
+AB  - We describe exact inference based on group-invariance assumptions that specify various forms of symmetry in the distribution of a disturbance vector in a general nonlinear model. It is shown that such mild assumptions can be equivalently formulated in terms of exact confidence sets for the parameters of the functional form. When applied to the linear model, this exact inference provides a unified approach to a variety of parametric and distribution-free tests. In particular, we consider exact instrumental variable inference, based on symmetry assumptions. The unboundedness of exact confidence sets is related to the power to reject a hypothesis of underidentification. In a multivariate instrumental variables context, generalizations of Anderson–Rubin confidence sets are considered.
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable quantile regression: A robust inference approach
+AU  - Chernozhukov, Victor
+AU  - Hansen, Christian
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 379
+EP  - 398
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001455
+KW  - Quantile regression
+KW  - Instrumental variables
+KW  - Weak instruments
+KW  - Partial identification
+AB  - In this paper, we develop robust inference procedures for an instrumental variables model defined by Y=D′α(U) where D′α(U) is strictly increasing in U and U is a uniform variable that may depend on D but is independent of a set of instrumental variables Z. The proposed inferential procedures are computationally convenient in typical applications and can be carried out using software available for ordinary quantile regression. Our inferential procedure arises naturally from an estimation algorithm and has the important feature of being robust to weak and partial identification and remains valid even in cases where identification fails completely. The use of the proposed procedures is illustrated through two empirical examples.
+ER  - 
+
+TY  - JOUR
+T1  - Robust estimation for structural spurious regressions and a Hausman-type cointegration test
+AU  - Choi, Chi-Young
+AU  - Hu, Ling
+AU  - Ogaki, Masao
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 327
+EP  - 351
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001431
+KW  - Spurious regression
+KW  - GLS correction method
+KW  - Dynamic regression
+KW  - Test for cointegration
+AB  - This paper analyzes an approach to correcting spurious regressions involving unit-root nonstationary variables by generalized least squares (GLS) using asymptotic theory. This analysis leads to a new robust estimator and a new test for dynamic regressions. The robust estimator is consistent for structural parameters not just when the regression error is stationary but also when it is unit-root nonstationary under certain conditions. We also develop a Hausman-type test for the null hypothesis of cointegration for dynamic ordinary least squares (OLS) estimation. We demonstrate our estimation and testing methods in three applications: (i) long-run money demand in the U.S., (ii) output convergence among industrial and developing countries, and (iii) purchasing power parity (PPP) for traded and non-traded goods.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation and inference in linear pseudo-panel data models
+AU  - Inoue, Atsushi
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 449
+EP  - 466
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001571
+KW  - Fixed effects
+KW  - Instrumental variables
+KW  - Time series of cross sections
+AB  - We consider pseudo-panel data models constructed from repeated cross sections in which the number of individuals per group is large relative to the number of groups and time periods. First, we show that, when time-invariant group fixed effects are neglected, the OLS estimator does not converge in probability to a constant but rather to a random variable. Second, we show that, while the fixed-effects (FE) estimator is consistent, the usual t statistic is not asymptotically normally distributed, and we propose a new robust t statistic whose asymptotic distribution is standard normal. Third, we propose efficient GMM estimators using the orthogonality conditions implied by grouping and we provide t tests that are valid even in the presence of time-invariant group effects. Our Monte Carlo results show that the proposed GMM estimator is more precise than the FE estimator and that our new t test has good size and is powerful.
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinearity, nonstationarity, and spurious forecasts
+AU  - Marmer, Vadim
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 1
+EP  - 27
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760700108X
+KW  - Forecasting
+KW  - Integrated time series
+KW  - Misspecified models
+KW  - Nonlinear transformations
+KW  - Stock returns
+AB  - Implications of nonlinearity, nonstationarity, and misspecification are considered from a forecasting perspective. Our model allows for small departures from the martingale difference sequence hypothesis by including a nonlinear component, formulated as a general, integrable transformation of the I(1) predictor. We assume that the true generating mechanism is unknown to the econometrician and he is therefore forced to use some approximating functions. It is shown that in this framework the linear regression techniques lead to spurious forecasts. Improvements of the forecast accuracy are possible with properly chosen nonlinear transformations of the predictor. The paper derives the limiting distribution of the forecasts’ mean squared error (MSE). In the case of square integrable approximants, it depends on the L2-distance between the nonlinear component and approximating function. Optimal forecasts are available for a given class of approximants.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric transformation to white noise
+AU  - Linton, Oliver B.
+AU  - Mammen, Enno
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 241
+EP  - 264
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.05.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001297
+KW  - Efficiency
+KW  - Inverse problem
+KW  - Kernel estimation
+KW  - Nonparametric regression
+KW  - Time series
+KW  - Unit roots
+AB  - We consider a semiparametric distributed lag model in which the “news impact curve” m is nonparametric but the response is dynamic through some linear filters. A special case of this is a nonparametric regression with serially correlated errors. We propose an estimator of the news impact curve based on a dynamic transformation that produces white noise errors. This yields an estimating equation for m that is a type two linear integral equation. We investigate both the stationary case and the case where the error has a unit root. In the stationary case we establish the pointwise asymptotic normality. In the special case of a nonparametric regression subject to time series errors our estimator achieves efficiency improvements over the usual estimators, see Xiao et al. [2003. More efficient local polynomial estimation in nonparametric regression with autocorrelated errors. Journal of the American Statistical Association 98, 980–992]. In the unit root case our procedure is consistent and asymptotically normal unlike the standard regression smoother. We also present the distribution theory for the parameter estimates, which is nonstandard in the unit root case. We also investigate its finite sample performance through simulation experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - IFC
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(07)00218-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607002187
+ER  - 
+
+TY  - JOUR
+T1  - Sparse estimators and the oracle property, or the return of Hodges’ estimator
+AU  - Leeb, Hannes
+AU  - Pötscher, Benedikt M.
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 201
+EP  - 211
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.05.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001273
+KW  - Oracle property
+KW  - Sparsity
+KW  - Penalized maximum likelihood
+KW  - Penalized least squares
+KW  - Hodges’ estimator
+KW  - SCAD
+KW  - Lasso
+KW  - Bridge estimator
+KW  - Hard-thresholding
+KW  - Maximal risk
+KW  - Maximal absolute bias
+KW  - Nonuniform limits
+AB  - We point out some pitfalls related to the concept of an oracle property as used in Fan and Li [2001. Variable selection via nonconcave penalized likelihood and its oracle properties. Journal of the American Statistical Association 96, 1348–1360; 2002. Variable selection for Cox's proportional hazards model and frailty model. Annals of Statistics 30, 74–99; 2004. New estimation and model selection procedures for semiparametric modeling in longitudinal data analysis. Journal of the American Statistical Association 99, 710–723] which are reminiscent of the well-known pitfalls related to Hodges’ estimator. The oracle property is often a consequence of sparsity of an estimator. We show that any estimator satisfying a sparsity property has maximal risk that converges to the supremum of the loss function; in particular, the maximal risk diverges to infinity whenever the loss function is unbounded. For ease of presentation the result is set in the framework of a linear regression model, but generalizes far beyond that setting. In a Monte Carlo study we also assess the extent of the problem in finite samples for the smoothly clipped absolute deviation (SCAD) estimator introduced in Fan and Li [2001. Variable selection via nonconcave penalized likelihood and its oracle properties. Journal of the American Statistical Association 96, 1348–1360]. We find that this estimator can perform rather poorly in finite samples and that its worst-case performance relative to maximum likelihood deteriorates with increasing sample size when the estimator is tuned to sparsity.
+ER  - 
+
+TY  - JOUR
+T1  - Conditional empirical likelihood estimation and inference for quantile regression models
+AU  - Otsu, Taisuke
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 508
+EP  - 538
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.016
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760700173X
+KW  - Empirical likelihood
+KW  - Conditional empirical likelihood
+KW  - Quantile regression
+AB  - This paper considers two empirical likelihood-based estimation, inference, and specification testing methods for quantile regression models. First, we apply the method of conditional empirical likelihood (CEL) by Kitamura et al. [2004. Empirical likelihood-based inference in conditional moment restriction models. Econometrica 72, 1667–1714] and Zhang and Gijbels [2003. Sieve empirical likelihood and extensions of the generalized least squares. Scandinavian Journal of Statistics 30, 1–24] to quantile regression models. Second, to avoid practical problems of the CEL method induced by the discontinuity in parameters of CEL, we propose a smoothed counterpart of CEL, called smoothed conditional empirical likelihood (SCEL). We derive asymptotic properties of the CEL and SCEL estimators, parameter hypothesis tests, and model specification tests. Important features are (i) the CEL and SCEL estimators are asymptotically efficient and do not require preliminary weight estimation; (ii) by inverting the CEL and SCEL ratio parameter hypothesis tests, asymptotically valid confidence intervals can be obtained without estimating the asymptotic variances of the estimators; and (iii) in contrast to CEL, the SCEL method can be implemented by some standard Newton-type optimization. Simulation results demonstrate that the SCEL method in particular compares favorably with existing alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - A class of stochastic unit-root bilinear processes: Mixing properties and unit-root test
+AU  - Francq, Christian
+AU  - Makarova, Svetlana
+AU  - Zakoı¨an, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 312
+EP  - 326
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001327
+KW  - Augmented Dickey–Fuller test
+KW  - Bilinear processes
+KW  - GARCH
+KW  - Mixing
+KW  - Phillips–Perron test
+KW  - Stochastic unit-roots
+AB  - A class of stochastic unit-root bilinear processes, allowing for GARCH-type effects with asymmetries, is studied. Necessary and sufficient conditions for the strict and second-order stationarity of the error process are given. The strictly stationary solution is shown to be strongly mixing under mild additional assumptions. It follows that, in this model, the standard (non-stochastic) unit-root tests of Phillips–Perron and Dickey–Fuller are asymptotically valid to detect the presence of a (stochastic) unit-root. The finite sample properties of these tests are studied via Monte-Carlo experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Local rank tests in a multivariate nonparametric relationship
+AU  - Fortuna, Natércia
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 162
+EP  - 182
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760700125X
+KW  - Nonparametric relationship
+KW  - Local rank
+KW  - Kernel smoothing
+KW  - Consistent tests
+KW  - Demand systems
+AB  - Consider a multivariate nonparametric model where the unknown vector of functions depends on two sets of explanatory variables. For a fixed level of one set of explanatory variables, we provide consistent statistical tests, called local rank tests, to determine whether the multivariate relationship can be explained by a smaller number of functions. We also provide estimators for the smallest number of functions, called local rank, explaining the relationship. The local rank tests and the estimators of local rank are defined in terms of the eigenvalues of a kernel-based estimator of some matrix. The asymptotics of the eigenvalues is established by using the so-called Fujikoshi expansion along with some techniques of the theory of U-statistics. We present a simulation study which examines the small sample properties of local rank tests. We also apply the local rank tests and the local rank estimators to a demand system given by a newly constructed data set. This work can be viewed as a “local” extension of the tests for a number of factors in a nonparametric relationship introduced by Stephen Donald.
+ER  - 
+
+TY  - JOUR
+T1  - The multi-state latent factor intensity model for credit rating transitions
+AU  - Koopman, Siem Jan
+AU  - Lucas, André
+AU  - Monteiro, André
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 399
+EP  - 424
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001467
+KW  - Unobserved components
+KW  - Credit cycles
+KW  - Duration model
+KW  - Generator matrix
+KW  - Monte Carlo likelihood
+AB  - A new empirical reduced-form model for credit rating transitions is introduced. It is a parametric intensity-based duration model with multiple states and driven by exogenous covariates and latent dynamic factors. The model has a generalized semi-Markov structure designed to accommodate many of the stylized facts of credit rating migrations. Parameter estimation is based on Monte Carlo maximum likelihood methods for which the details are discussed in this paper. A simulation experiment is carried out to show the effectiveness of the estimation procedure. An empirical application is presented for transitions in a 7 grade rating system. The model includes a common dynamic component that can be interpreted as the credit cycle. Asymmetric effects of this cycle across rating grades and additional semi-Markov dynamics are found to be statistically significant. Finally, we investigate whether the common factor model suffices to capture systematic risk in rating transition data by introducing multiple factors in the model.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized empirical likelihood tests in time series models with potential identification failure
+AU  - Guggenberger, Patrik
+AU  - Smith, Richard J.
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 134
+EP  - 161
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001248
+KW  - Generalized empirical likelihood
+KW  - Nonlinear moment conditions
+KW  - Similar tests
+KW  - Size distortion
+KW  - Weak identification
+AB  - We introduce test statistics based on generalized empirical likelihood methods that can be used to test simple hypotheses involving the unknown parameter vector in moment condition time series models. The test statistics generalize those in Guggenberger and Smith [2005. Generalized empirical likelihood estimators and tests under partial, weak and strong identification. Econometric Theory 21 (4), 667–709] from the i.i.d. to the time series context and are alternatives to those in Kleibergen [2005a. Testing parameters in GMM without assuming that they are identified. Econometrica 73 (4), 1103–1123] and Otsu [2006. Generalized empirical likelihood inference for nonlinear and time series models under weak identification. Econometric Theory 22 (3), 513–527]. The main feature of these tests is that their empirical null rejection probabilities are not affected much by the strength or weakness of identification. More precisely, we show that the statistics are asymptotically distributed as chi-square under both classical asymptotic theory and weak instrument asymptotics of Stock and Wright [2000. GMM with weak identification. Econometrica 68 (5), 1055–1096]. We also introduce a modification to Otsu's (2006) statistic that is computationally more attractive. A Monte Carlo study reveals that the finite-sample performance of the suggested tests is very competitive.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive estimation of autoregressive models with time-varying variances
+AU  - Xu, Ke-Li
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 265
+EP  - 280
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001303
+KW  - Adaptive estimation
+KW  - Autoregression
+KW  - Heterogeneity
+KW  - Nonstationary volatility
+KW  - Weighted regression
+AB  - Stable autoregressive models are considered with martingale differences errors scaled by an unknown nonparametric time-varying function generating heterogeneity. An important special case involves structural change in the error variance, but in most practical cases the pattern of variance change over time is unknown and may involve shifts at unknown discrete points in time, continuous evolution or combinations of the two. This paper develops kernel-based estimators of the residual variances and associated adaptive least squares (ALS) estimators of the autoregressive coefficients. Simulations show that efficiency gains are achieved by the adaptive procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for unit root processes in random coefficient autoregressive models
+AU  - Distaso, Walter
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 581
+EP  - 609
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001765
+KW  - Random coefficient autoregressive models
+KW  - Unit root testing
+KW  - One-sided tests
+AB  - This paper proposes new tests for simple unit root and unit root with a possibly nonzero drift processes, in the context of a random coefficient autoregressive model. The asymptotic distributions of the tests are derived, and their properties are investigated through a Monte Carlo experiment. The tests have good power properties, and in many cases they perform better than the competing univariate tests available in the literature, despite testing for a multiple joint hypothesis. In particular, for moderate to large sample sizes, very small values of the variance of the random coefficient variable are needed in order for the tests to reach some power against roots very close to unity. Finally, the proposed tests are applied to the US GDP series.
+ER  - 
+
+TY  - JOUR
+T1  - On Bayesian analysis and computation for functions with monotonicity and curvature restrictions
+AU  - McCausland, William J.
+JO  - Journal of Econometrics
+VL  - 142
+IS  - 1
+SP  - 484
+EP  - 507
+PY  - 2008
+DA  - 2008/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001728
+KW  - Bayesian methods
+KW  - Flexible functional forms
+KW  - Shape restrictions
+KW  - Consumer demand
+AB  - Our goal is inference for shape-restricted functions. Our functional form consists of finite linear combinations of basis functions. Prior elicitation is difficult due to the irregular shape of the parameter space. We show how to elicit priors that are flexible, theoretically consistent, and proper. We demonstrate that uniform priors over coefficients imply priors over economically relevant quantities that are quite informative and give an example of a non-uniform prior that addresses this issue. We introduce simulation methods that meet challenges posed by the shape of the parameter space. We analyze data from a consumer demand experiment.
+ER  - 

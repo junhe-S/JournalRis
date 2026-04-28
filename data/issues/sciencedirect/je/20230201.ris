@@ -1,0 +1,385 @@
+TY  - JOUR
+T1  - Estimating the variance of a combined forecast: Bootstrap-based approach
+AU  - Hounyo, Ulrich
+AU  - Lahiri, Kajal
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 445
+EP  - 468
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002244
+KW  - Bootstrap
+KW  - Local asymptotic theory
+KW  - Model average estimators
+KW  - Wild bootstrap
+KW  - Variance of consensus forecast
+AB  - This paper considers bootstrap inference in model averaging for predictive regressions. We first show that the standard pairwise bootstrap is not valid in the context of model averaging. This common bootstrap approach induces a bias-related term in the bootstrap variance of averaging estimators. We then propose and justify a fixed-design residual-based bootstrap resampling approach for model averaging. In a local asymptotic framework, we show the validity of the bootstrap in estimating the variance of a combined forecast and the asymptotic covariance matrix of a combined parameter vector with fixed weights. Our proposed method preserves non-parametrically the cross-sectional dependence between different models and the time series dependence in the errors simultaneously. The finite sample performance of these methods is assessed via Monte Carlo simulations. We illustrate our approach using an empirical study of the Taylor rule equation with 24 alternative specifications.
+ER  - 
+
+TY  - JOUR
+T1  - Scalable inference for a full multivariate stochastic volatility model
+AU  - Dellaportas, Petros
+AU  - Titsias, Michalis K.
+AU  - Petrova, Katerina
+AU  - Plataniotis, Anastasios
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 501
+EP  - 520
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100227X
+KW  - Bayesian analysis
+KW  - Computational complexity
+KW  - Givens angles
+KW  - MCMC
+KW  - Time-varying parameter vector autoregressive
+AB  - We introduce a multivariate stochastic volatility model that imposes no restrictions on the structure of the volatility matrix and treats all its elements as functions of latent stochastic processes. Inference is achieved via a carefully designed feasible and scalable MCMC that has quadratic, rather than cubic, computational complexity for evaluating the multivariate normal densities required. We illustrate how our model can be applied on macroeconomic applications through a stochastic volatility VAR model, comparing it to competing approaches in the literature. We also demonstrate how our approach can be applied to a large dataset containing 571 stock daily returns of Euro STOXX index.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and forecasting realized volatility with the fractional Ornstein–Uhlenbeck process
+AU  - Wang, Xiaohu
+AU  - Xiao, Weilin
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 389
+EP  - 415
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002037
+KW  - Rough volatility
+KW  - Fractional Ornstein–Uhlenbeck process
+KW  - Hurst parameter
+KW  - Long memory
+KW  - Anti-persistent errors
+KW  - Out-of-sample forecasting
+KW  - ARFIMA
+AB  - This paper proposes to model and forecast realized volatility (RV) using the fractional Ornstein–Uhlenbeck (fO–U) process with a general Hurst parameter, H. A two-stage method is introduced for estimating parameters in the fO–U process based on discrete-sampled observations. In the first stage, H is estimated based on the ratio of two second-order differences of observations from different frequencies. In the second stage, with the estimated H, the other parameters of the model are estimated by the method of moments. All estimators have closed-form expressions and are easy to implement. A large sample theory of the proposed estimators is derived. Extensive simulations show that the proposed estimators and the large-sample theory perform well in finite samples. We apply the model and the method to the logarithmic daily RV series of various financial assets. Our empirical findings suggest that H is much smaller than 1/2, indicating that the RV series have rough sample paths, and that the mean reversion parameter takes a small positive number, indicating that the RV series are stationary but have slow mean reversion. The proposed model is compared with many alternative models, including the fractional Brownian motion, ARFIMA, and HAR, in forecasting RV and logarithmic RV.
+ER  - 
+
+TY  - JOUR
+T1  - A simple joint model for returns, volatility and volatility of volatility
+AU  - Ding, Yashuang (Dexter)
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 521
+EP  - 543
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002268
+KW  - GARCH
+KW  - SV
+KW  - Forecasting
+KW  - Nowcasting
+KW  - Volatility of volatility
+AB  - We propose a model that allows for conditional heteroskedasticity in the volatility of asset returns and incorporates current return information into the volatility nowcast and forecast. Our model can capture all stylised facts of asset returns even with Gaussian innovations and is simple to implement. Moreover, we show that our model converges weakly to the GARCH-type diffusion as the length of the discrete time intervals between observations goes to zero. Empirical evidence shows that our model has a better fit, a more efficient parameter estimator as well as more accurate volatility and VaR forecasts than other common GARCH-type models.
+ER  - 
+
+TY  - JOUR
+T1  - A discrete-time hedging framework with multiple factors and fat tails: On what matters
+AU  - Augustyniak, Maciej
+AU  - Badescu, Alexandru
+AU  - Bégin, Jean-François
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 416
+EP  - 444
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002049
+KW  - Option hedging
+KW  - Risk-minimization
+KW  - Affine models
+KW  - Multi-component volatility
+KW  - Exponential-affine pricing kernels
+AB  - This article presents a quadratic hedging framework for a general class of discrete-time affine multi-factor models and investigates the extent to which multi-component volatility factors, fat tails, and a non-monotonic pricing kernel can improve the hedging performance. A semi-explicit hedging formula is derived for our general framework which applies to a myriad of the option pricing models proposed in the discrete-time literature. We conduct an extensive empirical study of the impact of modelling features on the hedging effectiveness of S&P 500 options. Overall, we find that fat tails can be credited for half of the hedging improvement observed, while a second volatility factor and a non-monotonic pricing kernel each contribute to a quarter of this improvement. Moreover, our study indicates that the added value of these features for hedging is different than for pricing. A robustness analysis shows that a similar conclusion can be reached when considering the Dow Jones Industrial Average. Finally, the use of a hedging-based loss function in the estimation process is investigated in an additional robustness test, and this choice has a rather marginal impact on hedging performance.
+ER  - 
+
+TY  - JOUR
+T1  - Why randomize? Minimax optimality under permutation invariance
+AU  - Bai, Yuehao
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 565
+EP  - 575
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002566
+KW  - Experimental design
+KW  - Permutation invariance
+KW  - Minimax optimality
+KW  - Average treatment effect
+AB  - This paper studies finite sample minimax optimal randomization schemes and estimation schemes in estimating parameters including the average treatment effect, when treatment effects are heterogeneous. A randomization scheme is a distribution over a group of permutations of a given treatment assignment vector. An estimation scheme is a joint distribution over assignment vectors, linear estimators, and permutations of assignment vectors. The key element in the minimax problem is that the worst case is over a class of distributions of the data which is invariant to a group of permutations. First, I show that given any assignment vector and any estimator, the uniform distribution over the same group of permutations, namely the complete randomization scheme, is minimax optimal. Second, under further assumptions on the class of distributions and the objective function, I show the minimax optimal estimation scheme involves completely randomizing an assignment vector, while the optimal estimator is the difference-in-means under complete invariance and a weighted average of within-block differences under a block structure, and the number of treated units is determined by the Neyman allocation.
+ER  - 
+
+TY  - JOUR
+T1  - Smoothed quantile regression with large-scale inference
+AU  - He, Xuming
+AU  - Pan, Xiaoou
+AU  - Tan, Kean Ming
+AU  - Zhou, Wen-Xin
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 367
+EP  - 388
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001950
+KW  - Bahadur–Kiefer representation
+KW  - Convolution
+KW  - Quantile regression
+KW  - Multiplier bootstrap
+KW  - Non-asymptotic statistics
+AB  - Quantile regression is a powerful tool for learning the relationship between a response variable and a multivariate predictor while exploring heterogeneous effects. This paper focuses on statistical inference for quantile regression in the “increasing dimension” regime. We provide a comprehensive analysis of a convolution smoothed approach that achieves adequate approximation to computation and inference for quantile regression. This method, which we refer to as conquer, turns the non-differentiable check function into a twice-differentiable, convex and locally strongly convex surrogate, which admits fast and scalable gradient-based algorithms to perform optimization, and multiplier bootstrap for statistical inference. Theoretically, we establish explicit non-asymptotic bounds on estimation and Bahadur–Kiefer linearization errors, from which we show that the asymptotic normality of the conquer estimator holds under a weaker requirement on dimensionality than needed for conventional quantile regression. The validity of multiplier bootstrap is also provided. Numerical studies confirm conquer as a practical and reliable approach to large-scale inference for quantile regression. Software implementing the methodology is available in the R package conquer.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum to “Local mispricing and microstructural noise: A parametric perspective” [J. Econometrics 230 (2022) 510–534]
+AU  - Andersen, Torben G.
+AU  - Archakov, Ilya
+AU  - Cebiroglu, Gökhan
+AU  - Hautsch, Nikolaus
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 598
+EP  - 603
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000027
+ER  - 
+
+TY  - JOUR
+T1  - High dimensional semiparametric moment restriction models
+AU  - Dong, Chaohua
+AU  - Gao, Jiti
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 320
+EP  - 345
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001883
+KW  - Generalized method of moments
+KW  - High dimensional models
+KW  - Moment restriction
+KW  - Over-identification
+KW  - Penalization
+KW  - Sieve method
+KW  - Sparsity
+AB  - We consider nonlinear moment restriction semiparametric models where both the dimension of the parameter vector and the number of restrictions are divergent with sample size and an unknown smooth function is involved. We propose an estimation method based on the sieve generalized method of moments (sieve-GMM). We establish consistency and asymptotic normality for the estimated quantities when the number of parameters increases modestly with sample size. We also consider the case where the number of potential parameters/covariates is very large, i.e., increases rapidly with sample size, but the true model exhibits sparsity. We use a penalized sieve GMM approach to select the relevant variables, and establish the oracle property of our method in this case. We also provide new results for inference. We propose several new test statistics for the over-identification and establish their large sample properties. We provide a simulation study and an application to data from the NLSY79 used by Carneiro et al. (2011).
+ER  - 
+
+TY  - JOUR
+T1  - Introducing How-To papers
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 271
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000015
+ER  - 
+
+TY  - JOUR
+T1  - Relaxing conditional independence in an endogenous binary response model
+AU  - Carlson, Alyssa
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 490
+EP  - 500
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100230X
+KW  - Binary choice model
+KW  - Control function
+KW  - Heteroskedasticity
+KW  - Average structural function
+AB  - For binary response models, the literature primarily addresses endogeneity by a control function approach assuming conditional independence (CF-CI). However, as the literature also notes, CF-CI implies conditions like homoskedasticity (of the latent error with respect to the instruments) that fail in many empirical settings. I propose an alternative approach that allows for heteroskedasticity, achieving identification with a conditional mean restriction. These identification results apply to a latent Gaussian error term with flexibly parametrized heteroskedasticity. I propose a two step conditional maximum likelihood estimator and derive its asymptotic distribution. In simulations, the new estimator outperforms others when CF-CI fails and is fairly robust to distributional misspecification.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - ii
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00009-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300009X
+ER  - 
+
+TY  - JOUR
+T1  - Identification of time-varying transformation models with fixed effects, with an application to unobserved heterogeneity in resource shares
+AU  - Botosaru, Irene
+AU  - Muris, Chris
+AU  - Pendakur, Krishna
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 576
+EP  - 597
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002633
+KW  - Panel data
+KW  - Fixed effects
+KW  - Time-varying transformation
+KW  - Collective household
+KW  - Resource shares
+AB  - We provide new results showing identification of a large class of fixed-T panel models, where the response variable is an unknown, weakly monotone, time-varying transformation of a latent linear index of fixed effects, regressors, and an error term drawn from an unknown stationary distribution. Our results identify the transformation, the coefficient on regressors, and features of the distribution of the fixed effects. We then develop a full-commitment intertemporal collective household model, where the implied quantity demand equations are time-varying functions of a linear index. The fixed effects in this index equal logged resource shares, defined as the fractions of household expenditure enjoyed by each household member. Using Bangladeshi data, we show that women’s resource shares decline with household budgets and that half of the variation in women’s resource shares is due to unobserved household-level heterogeneity.
+ER  - 
+
+TY  - JOUR
+T1  - Cluster-robust inference: A guide to empirical practice
+AU  - MacKinnon, James G.
+AU  - Nielsen, Morten Ørregaard
+AU  - Webb, Matthew D.
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 272
+EP  - 299
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000781
+KW  - Clustered data
+KW  - Cluster jackknife
+KW  - Cluster-robust variance estimator (CRVE)
+KW  - Robust inference
+KW  - Wild cluster bootstrap
+AB  - Methods for cluster-robust inference are routinely used in economics and many other disciplines. However, it is only recently that theoretical foundations for the use of these methods in many empirically relevant situations have been developed. In this paper, we use these theoretical results to provide a guide to empirical practice. We do not attempt to present a comprehensive survey of the (very large) literature. Instead, we bridge theory and practice by providing a thorough guide on what to do and why, based on recently available econometric theory and simulation evidence. To practice what we preach, we include an empirical analysis of the effects of the minimum wage on labor supply of teenagers using individual data.
+ER  - 
+
+TY  - JOUR
+T1  - Fully modified least squares cointegrating parameter estimation in multicointegrated systems
+AU  - Kheifets, Igor L.
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 300
+EP  - 319
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100186X
+KW  - Cointegration
+KW  - Multicointegration
+KW  - Fully modified regression
+KW  - Singular long run variance matrix
+KW  - Degenerate Wald test
+KW  - Fiscal sustainability
+AB  - Multicointegration is traditionally defined as a particular long run relationship among variables in a parametric vector autoregressive model that introduces additional cointegrating links between these variables and partial sums of the equilibrium errors. This paper departs from the parametric model, using a semiparametric formulation that reveals the explicit role that singularity of the long run conditional covariance matrix plays in determining multicointegration. The semiparametric framework has the advantage that short run dynamics do not need to be modeled and estimation by standard techniques such as fully modified least squares (FM-OLS) on the original I1 system is straightforward. The paper derives FM-OLS limit theory in the multicointegrated setting, showing how faster rates of convergence are achieved in the direction of singularity and that the limit distribution depends on the distribution of the conditional one-sided long run covariance estimator used in FM-OLS estimation. Wald tests of restrictions on the regression coefficients have nonstandard limit theory which depends on nuisance parameters in general. The usual tests are shown to be conservative when the restrictions are isolated to the directions of singularity and, under certain conditions, are invariant to singularity otherwise. Simulations show that approximations derived in the paper work well in finite samples. The findings are illustrated empirically in an analysis of fiscal sustainability of the US government over the post-war period.
+ER  - 
+
+TY  - JOUR
+T1  - Second-order refinements for t-ratios with many instruments
+AU  - Matsushita, Yukitoshi
+AU  - Otsu, Taisuke
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 346
+EP  - 366
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001901
+KW  - Many instruments
+KW  - Higher-order analysis
+KW  - t-ratio
+AB  - This paper studies second-order properties of the many instruments robust t-ratios based on the limited information maximum likelihood and Fuller estimators for instrumental variable regression models with homoskedastic errors under the many instruments asymptotics, where the number of instruments may increase proportionally with the sample size n, and proposes second-order refinements to the t-ratios to improve the size and power properties. Based on asymptotic expansions of the null and non-null distributions of the t-ratios derived under the many instruments asymptotics, we show that the second-order terms of those expansions may have non-trivial impacts on the size as well as the power properties. Furthermore, we propose adjusted t-ratios whose approximation errors for the null rejection probabilities are of order O(n−1) in contrast to the ones for the unadjusted t-ratios of order O(n−1/2), and show that these adjustments induce some desirable power properties in terms of the local maximinity. Although these results are derived under homoskedastic errors, we also establish a stochastic expansion for a heteroskedasticity robust t-ratio, and propose an analogous adjustment under slight deviations from homoskedasticity.
+ER  - 
+
+TY  - JOUR
+T1  - Testing and support recovery of correlation structures for matrix-valued observations with an application to stock market data
+AU  - Chen, Xin
+AU  - Yang, Dan
+AU  - Xu, Yan
+AU  - Xia, Yin
+AU  - Wang, Dong
+AU  - Shen, Haipeng
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 544
+EP  - 564
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002281
+KW  - Kronecker product
+KW  - matrix sub-Gaussian distribution
+KW  - Portfolio construction
+KW  - Covariance matrix
+KW  - Testing of non-correlation
+KW  - one-sample and two-sample
+AB  - Estimation of the covariance matrix of asset returns is crucial to portfolio construction. As suggested by economic theories, the correlation structure among assets differs between emerging markets and developed countries. It is therefore imperative to make rigorous statistical inference on correlation matrix equality between the two groups of countries. However, if the traditional vector-valued approach is undertaken, such inference is either infeasible due to limited number of countries comparing to the relatively abundant assets, or invalid due to the violations of temporal independence assumption. This highlights the necessity of treating the observations as matrix-valued rather than vector-valued. With matrix-valued observations, our problem of interest can be formulated as statistical inference on covariance structures under sub-Gaussian distributions, i.e., testing non-correlation and correlation equality, as well as the corresponding support estimations. We develop procedures that are asymptotically optimal under some regularity conditions. Simulation results demonstrate the computational and statistical advantages of our procedures over certain existing state-of-the-art methods for both normal and non-normal distributions. Application of our procedures to stock market data reveals interesting patterns and validates several economic propositions via rigorous statistical testing.
+ER  - 
+
+TY  - JOUR
+T1  - When bias contributes to variance: True limit theory in functional coefficient cointegrating regression
+AU  - Phillips, Peter C.B.
+AU  - Wang, Ying
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 2
+SP  - 469
+EP  - 489
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002190
+KW  - Bandwidth selection
+KW  - Bias variability
+KW  - Functional coefficient cointegration
+KW  - Kernel regression
+KW  - Nonstationarity
+AB  - Limit distribution theory in the econometric literature for functional coefficient cointegrating regression is incorrect in important ways, influencing rates of convergence, distributional properties, and practical work. The correct limit theory reveals that components from both bias and variance terms contribute to variability in the asymptotics. The errors in the literature arise because random variability in the bias term has been neglected in earlier research. In stationary regression this random variability is of smaller order and can be ignored in asymptotic analysis but not without consequences for finite sample performance. Implications of the findings for rate efficient estimation are discussed. Simulations in the Online Supplement provide further evidence supporting the new limit theory in nonstationary functional coefficient regressions.
+ER  - 

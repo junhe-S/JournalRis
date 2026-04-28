@@ -1,0 +1,222 @@
+TY  - JOUR
+T1  - Copula-based time series with filtered nonstationarity
+AU  - Chen, Xiaohong
+AU  - Xiao, Zhijie
+AU  - Wang, Bo
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 127
+EP  - 155
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303808
+KW  - Residual copula
+KW  - Cointegration
+KW  - Unit root
+KW  - Nonstationarity
+KW  - Nonlinearity
+KW  - Tail dependence
+KW  - Semiparametric
+KW  - Generated regressors
+KW  - GNP and CAY residuals
+AB  - Economic and financial time series data can exhibit nonstationary and nonlinear patterns simultaneously. This paper studies copula-based time series models that capture both patterns. We introduce a procedure where nonstationarity is removed via a filtration, and then the nonlinear temporal dependence in the filtered data is captured via a flexible Markov copula. We propose two estimators of the copula dependence parameters: the parametric (two-step) copula estimator where the marginal distribution of the filtered series is estimated parametrically; and the semiparametric (two-step) copula estimator where the marginal distribution is estimated via a rescaled empirical distribution of the filtered series. We show that the limiting distribution of the parametric copula estimator depends on the nonstationary filtration and the parametric marginal distribution estimation, and may be non-normal. Surprisingly, the limiting distribution of the semiparametric copula estimator using the filtered data is shown to be the same as that without nonstationary filtration, which is normal and free of marginal distribution specification. The simple and robust properties of the semiparametric copula estimators extend to models with misspecified copulas, and facilitate statistical inferences, such as hypothesis testing and model selection tests, on semiparametric copula-based dynamic models in the presence of nonstationarity. Monte Carlo studies and real data applications are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Robust Bayesian inference in proxy SVARs
+AU  - Giacomini, Raffaella
+AU  - Kitagawa, Toru
+AU  - Read, Matthew
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 107
+EP  - 126
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000518
+KW  - External instruments
+KW  - Multiple priors
+KW  - Set-identification
+KW  - SVAR
+KW  - Weak identification
+AB  - We develop methods for robust Bayesian inference in structural vector autoregressions (SVARs) where the parameters of interest are set-identified using external instruments, or ‘proxy SVARs’. Set-identification in these models typically occurs when there are multiple instruments for multiple structural shocks. Existing Bayesian approaches to inference in proxy SVARs require researchers to specify a single prior over the model’s parameters, but, under set-identification, a component of the prior is never revised. We extend the robust Bayesian approach to inference in set-identified models proposed by Giacomini and Kitagawa in press[a] – which allows researchers to relax potentially controversial point-identifying restrictions without having to specify an unrevisable prior – to proxy SVARs. We provide new results on the frequentist validity of the approach in proxy SVARs. We also explore the effect of instrument strength on inference about the identified set. We illustrate our approach by revisiting Mertens and Ravn (2013) and relaxing the assumption that they impose to obtain point identification.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian estimation of long-run risk models using sequential Monte Carlo
+AU  - Fulop, Andras
+AU  - Heng, Jeremy
+AU  - Li, Junye
+AU  - Liu, Hening
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 62
+EP  - 84
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000531
+KW  - Asset pricing
+KW  - Long-run risk
+KW  - Autoregressive gamma process
+KW  - Log-linearization
+KW  - Projection methods
+KW  - Particle filters
+KW  - Sequential Monte Carlo sampler
+AB  - We propose a likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to efficiently estimate long-run risk models in which the conditional variance of consumption growth follows either an autoregressive (AR) process or an autoregressive gamma (ARG) process. We use the U.S. quarterly consumption and asset returns data from the postwar period to implement estimation. Our findings are: (1) informative priors on the preference parameters can help to improve model performance; (2) expected consumption growth has a very persistent component, whereas consumption volatility is less persistent; (3) while the ARG-based model performs better than the AR-based one statistically, the latter could fit asset returns better; and (4) the solution method matters more for estimation in the AR-based model than in the ARG-based model.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - ii
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(22)00051-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000513
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional linear models with many endogenous variables
+AU  - Belloni, Alexandre
+AU  - Hansen, Christian
+AU  - Newey, Whitney
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 4
+EP  - 26
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002220
+KW  - Honest confidence regions
+KW  - Instrumental variables
+KW  - High dimensional models
+AB  - High-dimensional linear models with endogenous variables play an increasingly important role in the recent econometric literature. In this work, we allow for models with many endogenous variables and make use of many instrumental variables to achieve identification. Because of the high-dimensionality in the structural equation, constructing honest confidence regions with asymptotically correct coverage is non-trivial. Our main contribution is to propose estimators and confidence regions that achieve this goal. Our approach relies on moment conditions that satisfy the usual instrument orthogonality condition but also have an additional orthogonality property with respect to specific linear combinations of the endogenous variables which are treated as nuisance parameters. We propose new pivotal procedures for estimating the high-dimensional nuisance parameters which appear in our formulation. We use a multiplier bootstrap procedure to compute critical values and establish its validity for achieving simultaneously valid confidence regions for a potentially high-dimensional set of endogenous variable coefficients.
+ER  - 
+
+TY  - JOUR
+T1  - Variation and efficiency of high-frequency betas
+AU  - Zhang, Congshan
+AU  - Li, Jia
+AU  - Todorov, Viktor
+AU  - Tauchen, George
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 156
+EP  - 175
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303778
+KW  - Adaptive estimation
+KW  - Beta
+KW  - High frequency data
+KW  - Jump
+KW  - Semiparametric efficiency
+KW  - Volatility
+AB  - This paper studies the efficient estimation of betas from high-frequency return data on a fixed time interval. Under an assumption of equal diffusive and jump betas, we derive the semiparametric efficiency bound for estimating the common beta and develop an adaptive estimator that attains the efficiency bound. We further propose a Hausman type test for deciding whether the common beta assumption is true from the high-frequency data. In our empirical analysis we provide examples of stocks and time periods for which a common market beta assumption appears true and ones for which this is not the case. We further quantify empirically the gains from the efficient common beta estimation developed in the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric Bayes subject to overidentified moment conditions
+AU  - Gallant, A. Ronald
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 27
+EP  - 38
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000555
+KW  - Method of moments
+KW  - Bayesian inference
+AB  - Nonparametric Bayesian estimation subject to overidentified moment equations is a challenge because the support of the posterior is a manifold of lower dimension than the number of model parameters. The manifold therefore has Lebesgue measure zero thus inhibiting the use of the most commonly used Bayesian estimation method: MCMC (Markov Chain Monte Carlo). This study proposes an effective MCMC algorithm and algorithms for estimating scale and the normalizing constant. The algorithms are illustrated with two illustrative applications.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference for the counterfactual distribution and quantile functions in continuous treatment models
+AU  - Ai, Chunrong
+AU  - Linton, Oliver
+AU  - Zhang, Zheng
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 39
+EP  - 61
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000543
+KW  - Continuous treatment
+KW  - Counterfactual distribution
+KW  - Hypothesis testing
+KW  - Quantile function
+AB  - Donald and Hsu (2014) studied the estimation and inference for the counterfactual distribution and quantile functions in a binary treatment model. We extend their work to the continuous treatment model. Specifically, we propose a weighted regression estimator for the counterfactual distribution but we estimate the weighting function from a covariate balancing equation by maximizing a globally concave criterion function. We estimate the quantile function by inverting the estimated counterfactual distribution. To test the distributional effect, we consider the (uniform) confidence bands, the sup and L2 distance, and the Mann–Whitney test. We also consider the stochastic dominance test for the distributional effect and the L2 test for constant quantiles. A simulation study reveals that our tests exhibit a satisfactory finite-sample performance, and an application shows their practical value.
+ER  - 
+
+TY  - JOUR
+T1  - Constrained estimation using penalization and MCMC
+AU  - Gallant, A. Ronald
+AU  - Hong, Han
+AU  - Leung, Michael P.
+AU  - Li, Jessie
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 85
+EP  - 106
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100052X
+KW  - Penalized estimation
+KW  - MCMC
+KW  - Laplace-type estimators
+KW  - Bayesian LASSO
+AB  - We study inference for parameters defined by either classical extremum estimators or Laplace-type estimators subject to general nonlinear constraints on the parameters. We show that running MCMC on the penalized version of the problem offers a computationally attractive alternative to solving the original constrained optimization problem. Bayesian credible intervals are asymptotically valid confidence intervals in a pointwise sense, providing exact asymptotic coverage for general functions of the parameters. We allow for nonadaptive and adaptive penalizations using the ℓp for p⩾1 penalty functions. These methods are motivated by and include as special cases model selection and shrinkage methods such as the LASSO and its Bayesian and adaptive versions. A simulation study validates the theoretical results. We also provide an empirical application on estimating the joint density of U.S. real consumption and asset returns subject to Euler equation constraints in a CRRA asset pricing model.
+ER  - 
+
+TY  - JOUR
+T1  - New directions in nonlinear structural estimation: Bayes and Frequentist
+AU  - Tauchen, George
+JO  - Journal of Econometrics
+VL  - 228
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2022
+DA  - 2022/05/01/
+T2  - Annals Issue: In Honor of Ron Gallant
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002426
+ER  - 

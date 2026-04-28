@@ -1,0 +1,362 @@
+TY  - JOUR
+T1  - Maximum likelihood estimation of stochastic frontier models with endogeneity
+AU  - Centorrino, Samuele
+AU  - Pérez-Urdiales, María
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 82
+EP  - 105
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002761
+KW  - Stochastic frontier
+KW  - Endogeneity
+KW  - Control functions
+KW  - Maximum likelihood
+KW  - Technical efficiency
+AB  - We propose and study a maximum likelihood estimator of stochastic frontier models with endogeneity in cross-section data when the composite error term may be correlated with inputs and environmental variables. Our framework is a generalization of the normal half-normal stochastic frontier model with endogeneity. We derive the likelihood function in closed form using three fundamental assumptions: the existence of control functions that fully capture the dependence between regressors and unobservables; the conditional independence of the two error components given the control functions; and the conditional distribution of the stochastic inefficiency term given the control functions being a folded normal distribution. We also provide a Battese–Coelli estimator of technical efficiency. Our estimator is computationally fast and easy to implement. We present some of its asymptotic properties, and we showcase its finite sample behavior in Monte-Carlo simulations and an empirical application to farmers in Nepal.
+ER  - 
+
+TY  - JOUR
+T1  - Finite-sample corrected inference for two-step GMM in time series
+AU  - Hwang, Jungbin
+AU  - Valdés, Gonzalo
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 327
+EP  - 352
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000069
+KW  - Generalized method of moments
+KW  - Heteroskedasticity autocorrelated robust
+KW  - Finite-sample correction
+KW  - Fixed-smoothing asymptotics
+KW  -  and  tests
+AB  - This paper develops a finite-sample corrected inference for the efficient generalized method of moments (GMM) in time series. To capture a higher-order uncertainty embodied in estimating the time series GMM weight matrix, we extend the finite-sample corrected variance formula of Windmeijer (2005) to heteroskedasticity autocorrelated robust (HAR) inference. Using fixed-smoothing asymptotics, we show that our finite-sample corrected test statistics lead to standard asymptotic t or F critical values and suffer from less over-rejection of the null hypothesis than existing GMM procedures on finite-samples, including continuously updating GMM. Not only does our finite-sample corrected variance formula correct for the bias arising from the plugged-in long-run variance estimation, but it is also not exposed to a potential side effect of Windmeijer’s formula, which can introduce an additional source of over-rejection after the correction.
+ER  - 
+
+TY  - JOUR
+T1  - Bias reduction in spot volatility estimation from options
+AU  - Todorov, Viktor
+AU  - Zhang, Yang
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 53
+EP  - 81
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002785
+KW  - Characteristic function
+KW  - Higher-order asymptotic expansion
+KW  - Jumps
+KW  - Options
+KW  - Volatility estimation
+AB  - We consider the problem of nonparametric spot volatility estimation from options that is robust to time-variation in volatility and presence of jumps in the underlying asset price. Using a higher-order expansion of the characteristic function of the underlying price increment over shrinking time intervals and option-based estimates of the latter over two distinct horizons, we achieve asymptotic bias-reduction in spot volatility estimation, relative to existing methods, that is due to time-variation in volatility and presence of jumps. Further asymptotic improvement is achieved by de-biasing the volatility estimator using an estimate for the bias in it due to the small jumps in the price process. The gains from the newly-developed volatility estimation approach are illustrated on simulated data and in an empirical application.
+ER  - 
+
+TY  - JOUR
+T1  - Journal of Econometrics Awards Announcement
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 1
+EP  - 2
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000799
+ER  - 
+
+TY  - JOUR
+T1  - A new robust inference for predictive quantile regression
+AU  - Cai, Zongwu
+AU  - Chen, Haiqiang
+AU  - Liao, Xiaosai
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 227
+EP  - 250
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.012
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100302X
+KW  - Auxiliary regressor
+KW  - Embedded endogeneity
+KW  - Highly persistent predictor
+KW  - Multiple regression
+KW  - Predictive quantile regression
+KW  - Robust
+KW  - Weighted estimator
+AB  - This paper proposes a novel approach to offer a robust inferential theory across all types of persistent regressors in a predictive quantile regression model. We first estimate a quantile regression with an auxiliary regressor, which is generated as a weighted combination of an exogenous random walk process and a bounded transformation of the original regressor. With a similar spirit of rotation in factor analysis, one can then construct a weighted estimator using the estimated coefficients of the original predictor and the auxiliary regressor. Under some mild conditions, it shows that the self-normalized test statistic based on the weighted estimator converges to a standard normal distribution. Our new approach enjoys a good property that it can reach the local power under the optimal rate T with nonstationary predictor and T for stationary predictor, respectively. More importantly, our approach can be easily used to characterize mixed persistency degrees in multiple regressions. Simulations and empirical studies are provided to demonstrate the effectiveness of the newly proposed approach. The heterogeneous predictability of US stock returns at different quantile levels is reexamined.
+ER  - 
+
+TY  - JOUR
+T1  - Irregular identification of structural models with nonparametric unobserved heterogeneity
+AU  - Escanciano, Juan Carlos
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 106
+EP  - 127
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621003055
+KW  - Irregular identification
+KW  - Semiparametric models
+KW  - Nonparametric unobserved heterogeneity
+AB  - One of the most important empirical findings in microeconometrics is the pervasiveness of heterogeneity in economic behavior (cf. Heckman, 2001). This paper shows that cumulative distribution functions and quantiles of the nonparametric unobserved heterogeneity have an infinite efficiency bound in many structural economic models of interest. The paper presents general and precise conditions to prove such results. The usefulness of the theory is demonstrated with several relevant examples in economics, including, among others, the proportion of individuals with severe long term unemployment duration, Average Marginal Effects (AME) in a correlated random coefficient model without monotonicity, and the distribution and quantiles of random coefficients in linear, binary and the popular semiparametric Mixed Logit model.
+ER  - 
+
+TY  - JOUR
+T1  - Quasi score-driven models
+AU  - Blasques, F.
+AU  - Francq, Christian
+AU  - Laurent, Sébastien
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 251
+EP  - 275
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200001X
+KW  - Score-driven models
+KW  - GARCH
+KW  - Fat-tails
+KW  - Asymmetry
+KW  - QLE
+KW  - QMLE
+AB  - This paper introduces the class of quasi score-driven (QSD) models. This new class inherits and extends the basic ideas behind the development of score-driven (SD) models and addresses a number of unsolved issues in the score literature. In particular, the new class of models (i) generalizes many existing models, including SD models, (ii) disconnects the updating equation from the log-likelihood implied by the conditional density of the observations, (iii) allows testing of the assumptions behind SD models that link the updating equation of the conditional moment to the conditional density, (iv) allows QML estimation of SD models, (v) and allows explanatory variables to enter the updating equation. We establish the asymptotic properties of the QLE, QMLE and MLE of the proposed QSD model as well as the likelihood ratio and Lagrange multiplier test statistics. The finite sample properties are studied by means of an extensive Monte Carlo study. Finally, we show the empirical relevance of QSD models to estimate the conditional variance of 400 US stocks.
+ER  - 
+
+TY  - JOUR
+T1  - Most powerful test against a sequence of high dimensional local alternatives
+AU  - He, Yi
+AU  - Jaidee, Sombut
+AU  - Gao, Jiti
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 151
+EP  - 177
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621003079
+KW  - High-dimensional linear model
+KW  - Hypothesis testing
+KW  - Uniformly powerful test
+KW  - Nuisance parameter
+KW  - Random matrix theory
+AB  - We develop a powerful quadratic test for the overall significance of many covariates in a dense regression model in the presence of nuisance parameters. By equally weighting the sample moments, the test is asymptotically correct in high dimensions even when the number of coefficients is larger than the sample size. Our theory allows a non-parametric error distribution and weakly exogenous nuisance variables, in particular autoregressors in many applications. Using random matrix theory, we show that the test has the optimal asymptotic testing power among a large class of competitors against local alternatives whose coordinates are dense in the eigenbasis of the high dimensional sample covariance matrix among regressors. The asymptotic results are adaptive to the covariates’ cross-sectional and temporal dependence structure and do not require a limiting spectral law of their sample covariance matrix. In the most general case, the nuisance estimation may play a role in the asymptotic limit and we give a robust modification for these irregular scenarios. Monte Carlo studies suggest a good power performance of our proposed test against high dimensional dense alternative for various data generating processes. We apply the test to detect the significance of over one hundred exogenous variables in the FRED-MD database for predicting the monthly growth in the US industrial production index.
+ER  - 
+
+TY  - JOUR
+T1  - Improved marginal likelihood estimation via power posteriors and importance sampling
+AU  - Li, Yong
+AU  - Wang, Nianling
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 28
+EP  - 52
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002736
+KW  - Bayes factor
+KW  - Marginal likelihood
+KW  - Markov Chain Monte Carlo
+KW  - Model choice
+KW  - Power posteriors
+KW  - Importance sampling
+AB  - Power posteriors have become popular in estimating the marginal likelihood of a Bayesian model. A power posterior is referred to as the posterior distribution that is proportional to the likelihood raised to a power b∈[0,1]. Important power-posterior-based algorithms include thermodynamic integration (TI) of Friel and Pettitt (2008) and steppingstone sampling (SS) of Xie et al. (2011). In this paper, it is shown that the Bernstein–von Mises (BvM) theorem holds for power posteriors under regularity conditions. Due to the BvM theorem, power posteriors, when adjusted by the square root of the auxiliary constant, have the same limit distribution as the original posterior distribution, facilitating the implementation of the modified TI and SS methods via importance sampling. Unlike the TI and SS methods that require repeated sampling from the power posteriors, the modified methods only need the original posterior output and hence, are computationally more efficient. Moreover, they completely avoid the coding efforts associated with sampling from the power posteriors. Primitive conditions, under which the TI and modified TI algorithms can produce consistent estimators of the marginal likelihood, are provided. The numerical efficiency of the proposed methods is illustrated using two models.
+ER  - 
+
+TY  - JOUR
+T1  - Vector copulas
+AU  - Fan, Yanqin
+AU  - Henry, Marc
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 128
+EP  - 150
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002803
+KW  - Measure transportation
+KW  - Vector ranks
+KW  - Vector copulas
+KW  - Elliptical vector copulas
+KW  - Kendall vector copulas
+KW  - Financial contagion
+AB  - This paper introduces vector copulas associated with multivariate distributions with given multivariate marginals, based on the theory of measure transportation, and establishes a vector version of Sklar’s theorem. The latter provides a theoretical justification for the use of vector copulas to characterize nonlinear or rank dependence between a finite number of random vectors (robust to within vector dependence), and to construct multivariate distributions with any given non-overlapping multivariate marginals. We construct Elliptical and Kendall families of vector copulas, derive their densities, and present algorithms to generate data from them. The use of vector copulas is illustrated with a stylized analysis of international financial contagion.
+ER  - 
+
+TY  - JOUR
+T1  - PELVE: Probability Equivalent Level of VaR and ES
+AU  - Li, Hengxin
+AU  - Wang, Ruodu
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 353
+EP  - 370
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000380
+KW  - Value-at-Risk
+KW  - Expected Shortfall
+KW  - Regulatory capital
+KW  - Heavy tails
+KW  - Portfolio diversification
+AB  - In the recent Fundamental Review of the Trading Book (FRTB), the Basel Committee on Banking Supervision proposed the shift from the 99% Value-at-Risk (VaR) to the 97.5% Expected Shortfall (ES) for internal models in market risk assessment. Inspired by the above transition, we introduce a new distributional index, the probability equivalence level of VaR and ES (PELVE), which identifies the balancing point for the equivalence between VaR and ES. PELVE enjoys many desirable theoretical properties and it distinguishes empirically heavy-tailed distributions from light-tailed ones via a threshold of 2.72. Convergence properties and asymptotic normality of the empirical PELVE estimators are established. Applying PELVE to financial asset and portfolio data leads to interesting observations that are not captured by VaR or ES alone. We find that, in general, the transition from VaR to ES in the FRTB yields an increase in risk capital for single-asset portfolios, but for well-diversified portfolios, the capital requirement remains almost unchanged. This leads to both a theoretical justification and an empirical evidence for the conclusion that the use of ES rewards portfolio diversification more than the use of VaR.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - ii
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00089-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000891
+ER  - 
+
+TY  - JOUR
+T1  - Identification of unobserved distribution factors and preferences in the collective household model
+AU  - Hubner, Stefan
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 301
+EP  - 326
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000173
+KW  - Identification
+KW  - Nonparametric
+KW  - Collective household model
+KW  - Random utility
+KW  - Unobserved heterogeneity
+KW  - Invertibility
+KW  - Individual counterfactuals
+AB  - This paper develops a non-parametric collective random utility model with a continuous choice of consumption and sharing. We allow for a heterogeneous population by introducing unobserved distribution factors and preferences that are non-separable in the stochastic household choice system. We provide necessary and sufficient conditions for invertibility with respect to the vector of unobserved heterogeneity. Further, we show non-parametric identification of each individual’s idiosyncratic preferences and Pareto weights from the distribution of observed choices. Based on this result we develop a non-parametric two-step estimation procedure and estimate individual counterfactuals in a collective labour supply model for households with children using the LISS panel.
+ER  - 
+
+TY  - JOUR
+T1  - State-domain change point detection for nonlinear time series regression
+AU  - Cui, Yan
+AU  - Yang, Jun
+AU  - Zhou, Zhou
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 3
+EP  - 27
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002645
+KW  - Change-point detection
+KW  - Nonlinear time series
+KW  - Nonparametric hypothesis test
+KW  - State domain
+AB  - Change point detection in time series has attracted substantial interest, but most of the existing results have been focused on detecting change points in the time domain. This paper considers the situation where nonlinear time series have potential change points in the state domain. We apply a density-weighted anti-symmetric kernel function to the state domain and therefore propose a nonparametric procedure to test the existence of change points. When the existence of change points is affirmative, we further introduce an algorithm to estimate the number of change points together with their locations. Theoretical results of the proposed detection and estimation procedures are given and a real dataset is used to illustrate our methods.
+ER  - 
+
+TY  - JOUR
+T1  - Structural inference in sparse high-dimensional vector autoregressions
+AU  - Krampe, J.
+AU  - Paparoditis, E.
+AU  - Trenkler, C.
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 276
+EP  - 300
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000057
+KW  - Bootstrap
+KW  - De-sparsified estimator
+KW  - Moving average representation
+KW  - Sparse models
+KW  - Inference
+KW  - Impulse response
+KW  - Forecast error variance decomposition
+AB  - We consider statistical inference for impulse responses and forecast error variance decompositions in sparse, structural high-dimensional vector autoregressive (SVAR) systems. We introduce consistent estimators of impulse responses in the high-dimensional setting and suggest valid inference procedures for the same parameters. Statistical inference in our setting is much more involved since standard procedures, like the delta-method, do not apply. By using local projection equations, we first construct a de-sparsified version of regularized estimators of the moving average parameters associated with the VAR system. We then obtain estimators of the structural impulse responses by combining the aforementioned de-sparsified estimators with a non-regularized estimator of the contemporaneous impact matrix, also taking into account the high-dimensionality of the system. We show that the distribution of the derived estimators of structural impulse responses has a Gaussian limit. We also present a valid bootstrap procedure to estimate this distribution. Applications of the inference procedure in the construction of confidence intervals for impulse responses as well as in tests for forecast error variance decomposition are presented. Our procedure is illustrated by means of simulations and an empirical application.
+ER  - 
+
+TY  - JOUR
+T1  - Conditional asymmetry in Power ARCH(∞) models
+AU  - Royer, Julien
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 178
+EP  - 204
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621003031
+KW  - Quasi Maximum Likelihood Estimation
+KW  - Moderate memory
+KW  - Testing parameters on the boundary
+KW  - Recursive design bootstrap
+AB  - We consider an extension of ARCH(∞) models to account for conditional asymmetry in the presence of high persistence. After stating existence and stationarity conditions, this paper develops the statistical inference of such models and proves the consistency and asymptotic distribution of a Quasi Maximum Likelihood estimator. Some particular specifications are studied and we introduce a Portmanteau goodness-of-fit test. Additionally, test procedures for asymmetry and GARCH validity are derived. Finally, we present an application on a set of equity indices to reexamine the preeminence of GARCH(1,1) specifications. We find strong evidence that the short memory feature of such models is not suitable for peripheral assets.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile regression with censoring and sample selection
+AU  - Chen, Songnian
+AU  - Wang, Qian
+JO  - Journal of Econometrics
+VL  - 234
+IS  - 1
+SP  - 205
+EP  - 226
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621003092
+KW  - Quantile regression
+KW  - Selection
+KW  - Censoring
+AB  - Arellano and Bonhomme (2017) considered nonparametric identification and semiparametric estimation of a quantile selection model, and Arellano and Bonhomme (2017s) extended the estimation approach to the case with censoring. However, there are some major drawbacks associated with the approach in Arellano and Bonhomme (2017s). In this paper we consider nonparametric and semiparametric identification of the quantile selection model with censoring, and we further propose a semiparametric estimation procedure by making some major adjustments to Arellano and Bonhomme’s (2017, 2017s) approaches to overcome the above mentioned drawbacks. Our estimator is shown to be consistent and asymptotically normal. A Monte Carlo study indicates that our estimator performs well in finite samples. Our method is illustrated with a CPS data to study wage inequality.
+ER  - 

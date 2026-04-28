@@ -1,0 +1,1863 @@
+TY  - JOUR
+T1  - Two-step estimation of censored quantile regression for duration models with time-varying regressors
+AU  - Chen, Songnian
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1310
+EP  - 1336
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001920
+KW  - Quantile regression
+KW  - Censoring
+KW  - Time-varying regressors
+KW  - Duration analysis
+AB  - Common duration models are characterized by strong homogeneity and thus are highly restrictive in allowing for how regressors affect the conditional duration distribution. In particular, the implied sign and relative marginal quantile effects remain the same over the entire range of the conditional duration distribution, which rules out general heterogeneous effects in duration data. Quantile regression, which offers a flexible and unified framework that allows for general heterogeneous effects, is particularly well suited to duration analysis. Based on the insights behind the accelerated failure time model (AFT) with time-varying regressors (Cox and Oakes, 1984) and the standard quantile regression model (Koenker and Bassett, 1978), Chen (2019) recently developed a quantile regression framework with time-varying regressors. However, Chen’s (2019) estimator is very difficult to compute because the estimation procedure involves a non-convex and nonlinear high dimensional optimization problem due to censoring and the nonlinearity of the quantile function. In this paper I propose an easy-to-implement two-step quantile regression estimator, which significantly reduces the computational burden. The estimator is shown to be consistent and asymptotically normal. Monte Carlo experiments indicate that our estimator perform well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Penalized time-varying model averaging
+AU  - Sun, Yuying
+AU  - Hong, Yongmiao
+AU  - Wang, Shouyang
+AU  - Zhang, Xinyu
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1355
+EP  - 1377
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002019
+KW  - Model averaging
+KW  - Asymptotic normality
+KW  - LASSO
+KW  - Time-varying weights
+KW  - Sparsity
+AB  - This paper proposes a new penalized time-varying model averaging method to determine optimal time-varying combination weights for candidate models, which avoids over-fitting and yields sparseness from various potential predictive variables. The asymptotic optimality and convergence rate of the selected weights are derived even when all candidate models are misspecified, and the consistency and normality of the proposed time-varying model averaging estimator are obtained when the true model is included in the candidate models. Simulation studies and empirical applications to inflation forecasting highlight the merits of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - News-implied linkages and local dependency in the equity market
+AU  - Ge, Shuyi
+AU  - Li, Shaoran
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 779
+EP  - 815
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001488
+KW  - Spatial asset pricing model
+KW  - Weak and strong cross-sectional dependence
+KW  - Local dependency
+KW  - Networks
+KW  - Big data
+KW  - Large heterogeneous panel
+AB  - This paper studies a heterogeneous coefficient spatial factor model that separately addresses both common factor risks (strong cross-sectional dependence) and local dependency (weak cross-sectional dependence) in equity returns. From the asset pricing perspective, we derive the theoretical implications of no asymptotic arbitrage for the heterogeneous spatial factor model, generalizing the work of Kou et al. (2018). We also provide the associated Wald tests for the APT restrictions in the general case when there are both traded and non-traded factors. On the empirical side, it is challenging to measure granular firm-to-firm connectivity for a high-dimensional panel of equity returns. We use extensive business news to construct firms’ links through which local shocks transmit, and we use those news-implied linkages as a proxy for the connectivity among firms. Empirically, we document a considerable degree of local dependency among S&P500 stocks, and the spatial component does a great job in capturing the remaining correlations in the de-factored returns. We find that adding spatial interaction terms to factor models reduces mispricing and boosts model fitting. By comparing the performance of the model estimated using different networks, we show that the news-implied linkages provide a comprehensive and integrated proxy for firm-to-firm connectivity.
+ER  - 
+
+TY  - JOUR
+T1  - Refining set-identification in VARs through independence
+AU  - Drautzburg, Thorsten
+AU  - Wright, Jonathan H.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1827
+EP  - 1847
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000325
+KW  - Vector-autoregression
+KW  - Sign restrictions
+KW  - Set-identification
+KW  - Weak identification
+KW  - Independent shocks
+AB  - Identification in VARs has traditionally mainly relied on second moments. Some researchers have considered using higher moments as well, but there are concerns about the strength of the identification obtained in this way. In this paper, we propose refining existing identification schemes by augmenting sign restrictions with a requirement that rules out shocks whose higher moments significantly depart from independence. This approach does not assume that higher moments help with identification; it is robust to weak identification. In simulations we show that it controls coverage well, in contrast to approaches that assume that the higher moments deliver point-identification. However, it requires large sample sizes and/or considerable non-normality to reduce the width of confidence intervals by much. We consider some empirical applications. We find that it can reject many possible rotations. The resulting confidence sets for impulse responses may be non-convex, corresponding to disjoint parts of the space of rotation matrices. We show that in this case, augmenting sign and magnitude restrictions with an independence requirement can yield bigger gains.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum pairwise-rank-likelihood-based inference for the semiparametric transformation model
+AU  - Yu, Tao
+AU  - Li, Pengfei
+AU  - Chen, Baojiang
+AU  - Yuan, Ao
+AU  - Qin, Jing
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 454
+EP  - 469
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001208
+KW  - Linear transformation model
+KW  - M-estimation
+KW  - Profile likelihood
+KW  - Pairwise rank likelihood
+KW  - Pseudo-likelihood
+KW  - Semiparametric inference
+AB  - In this paper, we study the linear transformation model in a general setup. This model includes many important and popular models in statistics and econometrics as special cases. Although it has been studied for many years, the methods in the literature are based on kernel-smoothing techniques or make use of only the ranks of the responses in the estimation of the parametric components. The former approach needs a tuning parameter, which is not easily optimally specified in practice; and some of the latter may be computationally expensive. In this paper, we propose two methods: a pairwise rank likelihood method and an estimation-equation-based method motivated from the score function of this pairwise rank likelihood. We also explore the theoretical properties of the proposed estimators. Via extensive numerical studies, we demonstrate that our methods are appealing in that the estimators are not only robust to the distribution of the random errors but also lead to mean square errors that are in many cases comparable to or smaller than those of existing methods.
+ER  - 
+
+TY  - JOUR
+T1  - Shrinkage estimation of multiple threshold factor models
+AU  - Ma, Chenchen
+AU  - Tu, Yundong
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1876
+EP  - 1892
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000489
+KW  - Dimension reduction
+KW  - Group Lasso
+KW  - Information criterion
+KW  - Nonlinear factor model
+KW  - Principal component analysis
+AB  - This paper proposes a multiple threshold factor model to enhance the flexibility in modeling the underlying regime switching mechanism for high dimensional time series. The factor loadings are assumed to switch between different regimes according to the value of a threshold variable. A novel estimation procedure is proposed to consistently estimate the multiple thresholds with the aid of sorting operation, principal component analysis and shrinkage estimation, which is practically easy-to-implement and computationally efficient. Furthermore, asymptotic properties for the multiple threshold estimators are established, together with other theoretical results. Monte Carlo simulations demonstrate that the procedure works well in finite samples. The U.S. data sets are analyzed with the proposed model to illustrate the threshold effect of economy policy uncertainty on the financial market.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform inference for value functions
+AU  - Firpo, Sergio
+AU  - Galvao, Antonio F.
+AU  - Parker, Thomas
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1680
+EP  - 1699
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000246
+KW  - Uniform inference
+KW  - Value function
+KW  - Bootstrap
+KW  - Delta method
+KW  - Directional differentiability
+AB  - We propose a method to conduct uniform inference for the (optimal) value function, that is, the function that results from optimizing an objective function marginally over one of its arguments. Marginal optimization is not Hadamard differentiable (that is, compactly differentiable) as a map between the spaces of objective and value functions, which is problematic because standard inference methods for nonlinear maps usually rely on Hadamard differentiability. However, we show that the map from objective function to an Lp functional of a value function, for 1≤p≤∞, are Hadamard directionally differentiable. As a result, we establish consistency and weak convergence of nonparametric plug-in estimates of Cramér–von Mises and Kolmogorov–Smirnov test statistics applied to value functions. For practical inference, we develop detailed resampling techniques that combine a bootstrap procedure with estimates of the directional derivatives. In addition, we establish local and uniform size control of one-sided tests which use the resampling procedure. Monte Carlo simulations assess the finite-sample properties of the proposed methods and show accurate empirical size and nontrivial power of the procedures. Finally, we apply our methods to the evaluation of a job training program using bounds for the distribution function of treatment effects.
+ER  - 
+
+TY  - JOUR
+T1  - Theory of evolutionary spectra for heteroskedasticity and autocorrelation robust inference in possibly misspecified and nonstationary models
+AU  - Casini, Alessandro
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 372
+EP  - 392
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000999
+KW  - Fixed-
+KW  - HAC standard errors
+KW  - HAR
+KW  - Long-run variance
+KW  - Nonstationarity
+KW  - Misspecification
+KW  - Outliers
+KW  - Segmented locally stationary
+AB  - The literature on heteroskedasticity and autocorrelation robust (HAR) inference is extensive but its usefulness relies on stationarity of the relevant process, say Vt, usually a function of the data and estimated model residuals. Yet, a large body of work shows widespread evidence of various forms of nonstationarity in the latter. Also, many testing problems are such that Vt is stationary under the null hypothesis but nonstationary under the alternative. In either case, the consequences are possible size distortions and, especially, a reduction in power which can be substantial (e.g., non-monotonic power), since all such estimates are based on weighted sums of the sample autocovariances of Vt, which are inflated. We propose HAR inference methods valid under a broad class of nonstationary processes, labeled Segmented Local Stationary, which possess a spectrum that varies both over frequencies and time. It is allowed to change either slowly and continuously and/or abruptly at some time points, thereby encompassing most nonstationary models used in applied work. We introduce a double kernel estimator (DK-HAC) that applies a smoothing over both lagged autocovariances and time. The optimal kernels and bandwidth sequences are derived under a mean-squared error criterion. The data-dependent bandwidths rely on the “plug-in” approach using approximating parametric models having time-varying parameters estimated with standard methods applied to local data. Our method yields tests with good size and power in finite-samples. In particular, the power gains are achieved without notable size distortions.
+ER  - 
+
+TY  - JOUR
+T1  - The role of score and information bias in panel data likelihoods
+AU  - Schumann, Martin
+AU  - Severini, Thomas A.
+AU  - Tripathi, Gautam
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1215
+EP  - 1238
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001889
+KW  - Fixed effects
+KW  - Hessian bias
+KW  - Information bias
+KW  - Panel data likelihood
+KW  - Score bias
+AB  - We show why reducing information bias can improve the performance of likelihood based estimators and confidence regions in small samples, and why it seems to matter more for inference than for estimation. The insights in this paper are helpful in explaining several simulation findings in the panel data literature. E.g., we can explain the well documented phenomenon that reducing the score bias alone often reduces the finite sample variance of estimators and improves the coverage of confidence regions in small samples, and why confidence regions based on conditional (on sufficient statistics) likelihoods can have excellent coverage even in very short panels. We can also explain the simulation results in Schumann, Severini, and Tripathi (2021), who find that, in short panels, estimators and confidence regions based on pseudolikelihoods that are simultaneously first-order score and information unbiased perform much better than those based on pseudolikelihoods that are only first-order score unbiased.
+ER  - 
+
+TY  - JOUR
+T1  - Partial identification and inference in moment models with incomplete data
+AU  - Fan, Yanqin
+AU  - Shi, Xuetao
+AU  - Tao, Jing
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 418
+EP  - 443
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001002
+KW  - Bernstein copula
+KW  - Data combination
+KW  - Selection-on-observables
+KW  - Distributional treatment effects
+KW  - Counterfactual distribution
+KW  - Regressions short and long
+AB  - In this paper, we develop asymptotically valid inference in moment equality models with incomplete data, where the sample information is insufficient to identify the joint distribution of all the variables in the model. Examples of such models include the selection-on-observables framework, the counterfactual distribution, and parametric regressions with incomplete data. In the first two examples, the parameter of interest includes the values of the distribution and quantile functions of the individual treatment effect and the correlation coefficient of the potential outcomes. We show that the parameter of interest satisfies a semiparametric moment equality model with both point identified nuisance parameters and a partially identified copula function. We construct an asymptotically valid confidence set for the parameter of interest taking account of shape restrictions on the copula function. The critical value is constructed via a multiplier bootstrap. A simulation study is conducted to illustrate the finite sample performance of our inference procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial autoregressions with an extended parameter space and similarity-based weights
+AU  - Rossi, Francesca
+AU  - Lieberman, Offer
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1770
+EP  - 1798
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000283
+KW  - Spatial autoregression
+KW  - Similarity function
+KW  - Weight matrix
+KW  - Quasi-maximum-likelihood
+AB  - We provide in this paper asymptotic theory for a spatial autoregressive model (SAR, henceforth) in which the spatial coefficient, λ, is allowed to be less than or equal to unity, as well as consistent with a local to unit root (LUR) model and of the moderate integration (MI) from unity type, and the spatial weights are allowed to be similarity-based and data driven. Other special cases of our setting include the random walk, a model in which all the weights are equal, the standard SAR model in which λ<1 and the similarity based autoregression in which λ=1 and data do not display a natural order. As the norming rates for the asymptotic theory are very different in the λ<1 - compared with the λ=1 and LUR cases, we resort to random norming that treats all cases in a uniform manner. It turns out that standard CLT results prevail in a large class of models in which the infinity norm of the inverse of the weighting structure that characterizes the reduced-form process is Onγ , γ∈[0,1), and is non-standard in the case γ=1. We use a shifted profile likelihood to obtain results which are valid for all cases. A small simulation experiment supports our findings and the usefulness of our model is illustrated with an empirical application of the Boston housing data set in which the estimate of λ appeared to be very close to unity.
+ER  - 
+
+TY  - JOUR
+T1  - Model averaging for asymptotically optimal combined forecasts
+AU  - Chen, Yi-Ting
+AU  - Liu, Chu-An
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 592
+EP  - 607
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001245
+KW  - Asymptotic optimality
+KW  - Forecast combination
+KW  - Model averaging
+AB  - We propose a model-averaging (MA) method for constructing an asymptotically optimal combination of a set of point forecast sequences generated from a class of predictive regressions. The asymptotic optimality is defined in terms of approximating an unknown conditional-mean sequence based on the local(-to-zero) asymptotics. Our method has the following essential features. First, it is more general than combining a set of single point forecasts. Second, the asymptotic optimality is generally dependent on the estimation scheme and the asymptotic ratio of the length of forecast sequence relative to the in-sample size. Third, the asymptotically optimal weights may be consistently estimated under suitable conditions, while it needs the time series to be sufficiently long. We also assess the forecasting performance of our method using simulation data and real data.
+ER  - 
+
+TY  - JOUR
+T1  - Specification tests for time-varying coefficient models
+AU  - Fu, Zhonghao
+AU  - Hong, Yongmiao
+AU  - Su, Liangjun
+AU  - Wang, Xia
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 720
+EP  - 744
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001440
+KW  - Dependent wild bootstrap
+KW  - Nonparametric estimation
+KW  - Smooth function
+KW  - Stochastic process
+KW  - Time-varying coefficient
+AB  - Time-varying coefficient models have been widely used to characterize changing relationships among economic and financial variables. The existing literature usually specifies the time-varying coefficient vector as a stationary stochastic process, a deterministic function of time, and a unit root process, respectively. In this paper, we propose two tests to distinguish these three specifications. Both test statistics follow asymptotic normal distributions under the respective null hypotheses and diverge to infinity in probability under the corresponding alternatives. To improve the finite sample performance of the tests, we propose a dependent wild bootstrap to obtain the bootstrap critical value (or P-value) and establish its asymptotic validity. Simulation studies show that our bootstrap-based tests perform reasonably well in finite samples. We apply the proposed tests to the time-varying specifications of the equity return’s predictive model, the U.S. Taylor rule, and inflation persistence, respectively. The results suggest that a unit root process is favored for the first application, whereas a deterministic function of time should be adopted for the latter two applications.
+ER  - 
+
+TY  - JOUR
+T1  - Comparing stochastic volatility specifications for large Bayesian VARs
+AU  - Chan, Joshua C.C.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1419
+EP  - 1446
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002056
+KW  - Large vector autoregression
+KW  - Marginal likelihood
+KW  - Bayesian model comparison
+KW  - Stochastic volatility
+KW  - Shrinkage prior
+AB  - Large Bayesian vector autoregressions with various forms of stochastic volatility have become increasingly popular in empirical macroeconomics. One main difficulty for practitioners is to choose the most suitable stochastic volatility specification for their particular application. We develop Bayesian model comparison methods–based on marginal likelihood estimators that combine conditional Monte Carlo and adaptive importance sampling–to choose among a variety of stochastic volatility specifications. The proposed methods can also be used to select an appropriate shrinkage prior on the VAR coefficients, which is a critical component for avoiding over-fitting in high-dimensional settings. Using US quarterly data of different dimensions, we find that both the Cholesky stochastic volatility and factor stochastic volatility outperform the common stochastic volatility specification. Their superior performance, however, can mostly be attributed to the more flexible priors that accommodate cross-variable shrinkage.
+ER  - 
+
+TY  - JOUR
+T1  - Partial identification in nonseparable binary response models with endogenous regressors
+AU  - Gu, Jiaying
+AU  - Russell, Thomas M.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 528
+EP  - 562
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001166
+KW  - Binary choice
+KW  - Counterfactual probabilities
+KW  - Endogeneity
+KW  - Hyperplane arrangement
+KW  - Linear programming
+KW  - Partial identification
+AB  - This paper considers (partial) identification of a variety of counterfactual parameters in binary response models with possibly endogenous regressors. Our framework allows for nonseparable index functions with multi-dimensional latent variables, and does not require parametric distributional assumptions. We leverage results on hyperplane arrangements and cell enumeration from the literature on computational geometry in order to provide a tractable means of computing the identified set. We demonstrate how various functional form, independence, and monotonicity assumptions can be imposed as constraints in our optimization procedure to tighten the identified set. Finally, we apply our method to study the effects of health insurance on the decision to seek medical treatment.
+ER  - 
+
+TY  - JOUR
+T1  - Indirect inference estimation of dynamic panel data models
+AU  - Bao, Yong
+AU  - Yu, Xuewen
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1027
+EP  - 1053
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001683
+KW  - Dynamic panel
+KW  - Indirect inference
+KW  - Within-group estimator
+KW  - Convergence
+AB  - This paper proposes an estimator for higher-order dynamic panel models based on the idea of indirect inference by matching the simple within-group estimator with its analytical approximate expectation. The resulting estimator is shown to be consistent and asymptotically normal. For the special case of first-order dynamic panel, the estimator yields numerically the same result from an existing procedure in the literature, but the inference to follow differs and this paper examines the differences and implications for hypothesis testing. Monte Carlo simulations show that the proposed estimator is virtually unbiased, achieves usually lower root mean squared error than competing estimators, and delivers very reliable empirical size across various parameter configurations and error distributions. This new estimator is used to estimate the convergence parameter in an inequality measure among 63 countries during 1985–2015. It shows strong evidence of convergence over long test horizons but much weaker evidence over a 5-year horizon for developing countries.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for the appropriate level of clustering in linear regression models
+AU  - MacKinnon, James G.
+AU  - Nielsen, Morten Ørregaard
+AU  - Webb, Matthew D.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2027
+EP  - 2056
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001021
+KW  - CRVE
+KW  - Grouped data
+KW  - Clustered data
+KW  - Cluster-robust variance estimator
+KW  - Robust inference
+KW  - Wild bootstrap
+KW  - Wild cluster bootstrap
+AB  - The overwhelming majority of empirical research that uses cluster-robust inference assumes that the clustering structure is known, even though there are often several possible ways in which a dataset could be clustered. We propose two tests for the correct level of clustering in regression models. One test focuses on inference about a single coefficient, and the other on inference about two or more coefficients. We provide both asymptotic and wild bootstrap implementations. The proposed tests work for a null hypothesis of either no clustering or “fine” clustering against alternatives of “coarser” clustering. We also propose a sequential testing procedure to determine the appropriate level of clustering. Simulations suggest that the bootstrap tests perform very well under the null hypothesis and can have excellent power. An empirical example suggests that using the tests leads to sensible inferences.
+ER  - 
+
+TY  - JOUR
+T1  - Stochastic properties of nonlinear locally-nonstationary filters
+AU  - Blasques, Francisco
+AU  - Nientker, Marc
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2082
+EP  - 2095
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001264
+KW  - Time-series Analysis
+KW  - Filtering techniques
+KW  - Locally non stationary filters
+AB  - This article delivers conditions for the existence of a unique stationary, ergodic and φ-mixing invertible solution for nonlinear time-varying parameter models that are locally non-stationary or explosive. The assumptions are different from existing conditions as they do not impose Lipschitz, bounded growth or drift restrictions. Instead we require that the time series contains resetting dynamics. These dynamics are present in time series with sudden changes, such as stock prices with financial bubbles. We explain how our results can be applied to multiple models with time-varying conditional mean and time-varying conditional variance. Additionally, we show the empirical relevance of locally non-stationary models by developing a robust score-driven locally-nonstationary location model that allows us to identify price bubbles. In particular, we revisit the early warning system for Alert of Price Spikes (ALPS) developed by the World Food Programme (WFP, 2014). Our model is able to correctly identify price bubbles both in-sample and out-of-sample. We show that this information can be crucially relevant for the Global Information Early Warning System of the Food and Agriculture Organization (GIEWS) of the United Nations which identifies market bubbles in prices of grains and cereals in order to manage and prevent impending food crises in developing countries.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient peer effects estimators with group effects
+AU  - Kuersteiner, Guido M.
+AU  - Prucha, Ingmar R.
+AU  - Zeng, Ying
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2155
+EP  - 2194
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300129X
+KW  - Social interaction
+KW  - Peer effect
+KW  - Random group effect
+KW  - Quasi-maximum likelihood estimator
+KW  - Spatial model
+AB  - We study linear peer effect models where peers interact in groups and individual’s outcomes are linear in the group mean outcome and characteristics. We allow for unobserved random group effects as well as observed fixed group effects. The specification is in part motivated by the moment conditions imposed in Graham (2008). We show that these moment conditions can be cast in terms of a linear random group effects model and that they lead to a class of GMM estimators with parameters generally identified as long as there is sufficient variation in group size or group types. We also show that our class of GMM estimators contains a Quasi Maximum Likelihood estimator (QMLE) for the random group effects model, as well as the Wald estimator of Graham (2008) and the within estimator of Lee (2007) as special cases. Our identification results extend insights in Graham (2008) that show how assumptions about random group effects, variation in group size and certain forms of heteroscedasticity can be used to overcome the reflection problem in identifying peer effects. Our QMLE and GMM estimators accommodate additional covariates and are valid in situations with a large but finite number of different group sizes or types. Because our estimators are general moment based procedures, using instruments other than binary group indicators in estimation is straight forward. Our QMLE estimator accommodates group level covariates in the spirit of Mundlak and Chamberlain and offers an alternative to fixed effects specifications. This model feature significantly extends the applicability of Graham’s identification strategy to situations where group assignment may not be random but correlation of group level effects with peer effects can be controlled for with observable group level characteristics. Monte-Carlo simulations show that the bias of the QMLE estimator decreases with the number of groups and the variation in group size, and increases with group size. We also prove the consistency and asymptotic normality of the estimator under reasonable assumptions.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - ii
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00177-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300177X
+ER  - 
+
+TY  - JOUR
+T1  - One-way or two-way factor model for matrix sequences?
+AU  - He, Yong
+AU  - Kong, Xinbing
+AU  - Trapani, Lorenzo
+AU  - Yu, Long
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1981
+EP  - 2004
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300074X
+KW  - Matrix sequence
+KW  - Matrix factor model
+KW  - Principal component analysis
+KW  - Projection estimation
+KW  - Randomised tests
+AB  - This paper investigates the issue of determining the dimensions of row and column factor spaces in matrix-valued data. Exploiting the eigen-gap in the spectrum of sample second moment matrices of the data, we propose a family of randomised tests to check whether a one-way or two-way factor structure exists or not. Our tests do not require any arbitrary thresholding on the eigenvalues, and can be applied with (virtually) no restrictions on the relative rate of divergence of the cross-sections to the sample sizes as they pass to infinity. Although tests are based on a randomisation which does not vanish asymptotically, we propose a de-randomised, “strong” (based on the Law of the Iterated Logarithm) decision rule to choose in favour or against the presence of common factors. We use the proposed tests and decision rule in two ways. We further cast our individual tests in a sequential procedure whose output is an estimate of the number of common factors. Our tests are built on two variants of the sample second moment matrix of the data: one based on a row (or column) “flattened” version of the matrix-valued sequence, and one based on a projection-based method. Our simulations show that both procedures work well in large samples and, in small samples, the one based on the projection method delivers a superior performance compared to existing methods in virtually all cases considered.
+ER  - 
+
+TY  - JOUR
+T1  - Sparse quantile regression
+AU  - Chen, Le-Yu
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2195
+EP  - 2217
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001306
+KW  - Quantile regression
+KW  - Sparse estimation
+KW  - Mixed integer optimization
+KW  - Finite sample property
+KW  - Conformal prediction
+KW  - Hamming distance
+AB  - We consider both ℓ0-penalized and ℓ0-constrained quantile regression estimators. For the ℓ0-penalized estimator, we derive an exponential inequality on the tail probability of excess quantile prediction risk and apply it to obtain non-asymptotic upper bounds on the mean-square parameter and regression function estimation errors. We also derive analogous results for the ℓ0-constrained estimator. The resulting rates of convergence are nearly minimax-optimal and the same as those for ℓ1-penalized and non-convex penalized estimators. Further, we characterize expected Hamming loss for the ℓ0-penalized estimator. We implement the proposed procedure via mixed integer linear programming and also a more scalable first-order approximation algorithm. We illustrate the finite-sample performance of our approach in Monte Carlo experiments and its usefulness in a real data application concerning conformal prediction of infant birth weights (with n≈103 and up to p>103). In sum, our ℓ0-based method produces a much sparser estimator than the ℓ1-penalized and non-convex penalized approaches without compromising precision.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic F test in regressions with observations collected at high frequency over long span
+AU  - Pellatt, Daniel F.
+AU  - Sun, Yixiao
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1281
+EP  - 1309
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001919
+KW  - Continuous time model
+KW  - F distribution
+KW  - High-frequency regression
+KW  - Long run variance estimation
+AB  - This paper proposes tests of linear hypotheses when the variables may be continuous-time processes with observations collected at a high sampling frequency over a long span. Utilizing series long run variance (LRV) estimation in place of the traditional kernel LRV estimation, we develop easy-to-implement and more accurate F tests in both stationary and nonstationary environments. The nonstationary environment accommodates exogenous regressors that are general semimartingales. Endogenous regressors are allowed in a nonstationary environment similar to cointegration models in the usual discrete-time setting. The F tests can be implemented in exactly the same way as in the discrete-time setting. The F tests are, therefore, robust to the continuous-time or discrete-time nature of the data. Simulations demonstrate the improved size accuracy and competitive power of the F tests relative to existing continuous-time testing procedures and their improved versions. The F tests are of practical interest as recent work by Chang et al. (2021) demonstrates that traditional inference methods can become invalid and produce spurious results when continuous-time processes are observed on finer grids over a long span.
+ER  - 
+
+TY  - JOUR
+T1  - Peer effects and endogenous social interactions
+AU  - Jochmans, Koen
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1203
+EP  - 1214
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001853
+KW  - Instrumental variable
+KW  - Linear-in-means model
+KW  - Network
+KW  - Self-selection
+AB  - This paper proposes a solution to the problem of endogenous selection of peers in the linear-in-means model. We do not require to specify a model for how the selection of peers comes about. Rather, we exploit two restrictions that are inherent in many such specifications to construct conditional moment conditions. The restrictions in question are that link decisions that involve a given individual are not all independent of one another, but that they are independent of the link decisions made between other pairs of individuals that are located sufficiently far away in the network. These conditions imply that instrumental variables can be constructed from leave-own-out networks.
+ER  - 
+
+TY  - JOUR
+T1  - Large volatility matrix analysis using global and national factor models
+AU  - Choi, Sung Hoon
+AU  - Kim, Donggyu
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1917
+EP  - 1933
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000635
+KW  - High-dimensionality
+KW  - Low-rank matrix
+KW  - Multi-level factor model
+KW  - POET
+KW  - Sparsity
+AB  - Several large volatility matrix inference procedures have been developed, based on the latent factor model. They often assumed that there are a few of common factors, which can account for volatility dynamics. However, several studies have demonstrated the presence of local factors. In particular, when analyzing the global stock market, we often observe that nation-specific factors explain their own country’s volatility dynamics. To account for this, we propose the Double Principal Orthogonal complEment Thresholding (Double-POET) method, based on multi-level factor models, and also establish its asymptotic properties. Furthermore, we demonstrate the drawback of using the regular principal orthogonal component thresholding (POET) when the local factor structure exists. We also describe the blessing of dimensionality using Double-POET for local covariance matrix estimation. Finally, we investigate the performance of the Double-POET estimator in an out-of-sample portfolio allocation study using international stocks from 20 financial markets.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for time stochastic dominance
+AU  - Lee, Kyungho
+AU  - Linton, Oliver
+AU  - Whang, Yoon-Jae
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 352
+EP  - 371
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000963
+AB  - We propose nonparametric tests for the null hypothesis of time stochastic dominance. Time stochastic dominance makes a partial order of different prospects over time based on the net present value criteria for general utility and time discount function classes. For example, time stochastic dominance can be used for ranking investment strategies or environmental policies based on the expected net present value of the future benefits. We consider an Lp-type test statistic and derive its large sample distribution under standard panel data sampling scheme with fixed time dimension. We suggest a path-wise (or cluster) bootstrap procedure that allows individual time series dependence over the time horizon. We describe two approaches, the contact-set approach and the numerical delta method, that may lead to enhanced power compared to the conventional least-favorable-case based approach. We prove the asymptotic validity of our testing procedures. We investigate the finite sample performance of the tests in simulation studies. As an illustration, we apply the proposed tests to evaluate the Million Baht Village Fund Program in Thailand and carbon emission trading scheme in China.
+ER  - 
+
+TY  - JOUR
+T1  - Global robust Bayesian analysis in large models
+AU  - Ho, Paul
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 608
+EP  - 642
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001257
+KW  - Prior sensitivity
+KW  - Bayesian estimation
+KW  - VAR
+KW  - DSGE
+AB  - This paper develops a tool for global prior sensitivity analysis in large Bayesian models. Without imposing parametric restrictions, the methodology provides bounds for posterior means or quantiles given any prior close to the original in relative entropy and reveals features of the prior that are important for the posterior statistics of interest. We develop a sequential Monte Carlo algorithm and use approximations to the likelihood and statistic of interest to implement the calculations. The methodology finds that the prior tightness hyperparameters in the hierarchical vector autoregression model from Giannone et al. (2015) are relatively insensitive to their hyperpriors. However, in the New Keynesian model of Smets and Wouters (2007), the error bands for the impulse response of output to a monetary policy shock depend heavily on the prior. The upper bound is especially sensitive, and the prior on wage rigidity plays a particularly important role.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification and estimation of the extended Roy model
+AU  - Lee, Ji Hyung
+AU  - Park, Byoung G.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1087
+EP  - 1113
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001774
+KW  - Self-selection
+KW  - Roy model
+KW  - Nonseparable model
+KW  - Nonparametric identification
+KW  - Treatment effect
+AB  - We propose a new identification method for the extended Roy model, in which the agents maximize their utility rather than just their outcome. We nonparametrically identify the joint distribution of potential outcomes, which is of great importance in causal inference. We exploit the extended Roy model structure and the monotonicity assumption but do not require any functional form assumption nor any support assumption. The identification is achieved by matching the indifferent agents across choices, who are identified by the local instrumental variable method. Based on the identification result, we propose an easy-to-implement nonparametric simulation-based estimator and derive its convergence rate. An empirical illustration on Malawian farmers’ hybrid maize adoption is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference in factor copula models with exogenous covariates
+AU  - Mayer, Alexander
+AU  - Wied, Dominik
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1500
+EP  - 1521
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000039
+KW  - Factor analysis
+KW  - Simulation estimator
+KW  - Empirical process
+KW  - Dependence modeling
+AB  - A factor copula model is proposed in which factors are either simulable or estimable from exogenous information. Point estimation and inference are based on a simulated methods of moments (SMM) approach with non-overlapping simulation draws. Consistency and limiting normality of the estimator is established and the validity of bootstrap standard errors is shown. Doing so, previous results from the literature are verified under low-level conditions imposed on the individual components of the factor structure. Monte Carlo evidence confirms the accuracy of the asymptotic theory in finite samples and an empirical application illustrates the usefulness of the model to explain the cross-sectional dependence between stock returns.
+ER  - 
+
+TY  - JOUR
+T1  - Wild bootstrap inference for penalized quantile regression for longitudinal data
+AU  - Lamarche, Carlos
+AU  - Parker, Thomas
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1799
+EP  - 1826
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000313
+KW  - Quantile regression
+KW  - Panel data
+KW  - Penalized estimator
+KW  - Bootstrap inference
+AB  - The existing theory of penalized quantile regression for longitudinal data has focused primarily on point estimation. In this work, we investigate statistical inference. We propose a wild residual bootstrap procedure and show that it is asymptotically valid for approximating the distribution of the penalized estimator. The model puts no restrictions on individual effects, and the estimator achieves consistency by letting the shrinkage decay in importance asymptotically. The new method is easy to implement and simulation studies show that it has accurate small sample behavior in comparison with existing procedures. Finally, we illustrate the new approach using U.S. Census data to estimate a model that includes more than eighty thousand parameters.
+ER  - 
+
+TY  - JOUR
+T1  - Debiased machine learning of set-identified linear models
+AU  - Semenova, Vira
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1725
+EP  - 1746
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300026X
+KW  - support function
+KW  - interval data
+KW  - debiased machine learning
+KW  - partial identification
+AB  - This paper provides estimation and inference methods for an identified set’s boundary (i.e., support function) where the selection among a very large number of covariates is based on modern regularized tools. I characterize the boundary using a semiparametric moment equation. Combining Neyman-orthogonality and sample splitting ideas, I construct a root-N consistent, uniformly asymptotically Gaussian estimator of the boundary and propose a multiplier bootstrap procedure to conduct inference. I apply this result to the Partially Linear Model, the Partially Linear IV Model and the Average Partial Derivative with an interval-valued outcome.
+ER  - 
+
+TY  - JOUR
+T1  - Binary response models for heterogeneous panel data with interactive fixed effects
+AU  - Gao, Jiti
+AU  - Liu, Fei
+AU  - Peng, Bin
+AU  - Yan, Yayi
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1654
+EP  - 1679
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000234
+KW  - Binary response
+KW  - Heterogeneous panel
+KW  - Interactive fixed effects
+KW  - Portfolio analysis
+AB  - In this paper, we investigate binary response models for heterogeneous panel data with interactive fixed effects by allowing both the cross-sectional dimension and the temporal dimension to diverge. From a practical point of view, the proposed framework can be applied to predict the probability of corporate failure, conduct credit rating analysis, etc. Theoretically and methodologically, we build a link between a maximum likelihood estimation and a least squares approach, provide a simple information criterion to detect the number of factors, and establish the corresponding asymptotic theory. In addition, we conduct intensive simulations to examine the theoretical findings. In an empirical study, we focus on the sign prediction of stock returns, and then use the results of sign forecast to conduct portfolio analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Testing the martingale difference hypothesis in high dimension
+AU  - Chang, Jinyuan
+AU  - Jiang, Qing
+AU  - Shao, Xiaofeng
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 972
+EP  - 1000
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001658
+KW  - -mixing
+KW  - Gaussian approximation
+KW  - High-dimensional statistical inference
+KW  - Martingale difference hypothesis
+KW  - Parametric bootstrap
+AB  - In this paper, we consider testing the martingale difference hypothesis for high-dimensional time series. Our test is built on the sum of squares of the element-wise max-norm of the proposed matrix-valued nonlinear dependence measure at different lags. To conduct the inference, we approximate the null distribution of our test statistic by Gaussian approximation and provide a simulation-based approach to generate critical values. The asymptotic behavior of the test statistic under the alternative is also studied. Our approach is nonparametric as the null hypothesis only assumes the time series concerned is martingale difference without specifying any parametric forms of its conditional moments. As an advantage of Gaussian approximation, our test is robust to the cross-series dependence of unknown magnitude. To the best of our knowledge, this is the first valid test for the martingale difference hypothesis that not only allows for large dimension but also captures nonlinear serial dependence. The practical usefulness of our test is illustrated via simulation and a real data analysis. The test is implemented in a user-friendly R-function.
+ER  - 
+
+TY  - JOUR
+T1  - Joint inference based on Stein-type averaging estimators in the linear regression model
+AU  - Boot, Tom
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1542
+EP  - 1563
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000155
+KW  - Model averaging
+KW  - James–Stein
+KW  - Confidence regions
+AB  - While averaging unrestricted with restricted estimators is known to reduce estimation risk, it is an open question whether this reduction in turn can improve inference. To analyze this question, we construct joint confidence regions centered at James–Stein averaging estimators in both homoskedastic and heteroskedastic linear regression models. These regions are asymptotically valid when the number of restrictions increases possibly proportionally with the sample size. When used for hypothesis testing, we show that suitable restrictions enhance power over the standard F-test. We study the practical implementation through simulations and an application to consumption-based asset pricing.
+ER  - 
+
+TY  - JOUR
+T1  - Community network auto-regression for high-dimensional time series
+AU  - Chen, Elynn Y.
+AU  - Fan, Jianqing
+AU  - Zhu, Xuening
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1239
+EP  - 1256
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001890
+KW  - Network autoregression
+KW  - Community structure
+KW  - Common latent factors
+KW  - High-dimensional time series
+KW  - VAR model
+AB  - Modeling responses on the nodes of a large-scale network is an important task that arises commonly in practice. This paper proposes a community network vector autoregressive (CNAR) model, which utilizes the network structure to characterize the dependence and intra-community homogeneity of the high-dimensional time series. The CNAR model greatly increases the flexibility and generality of the network vector autoregressive (NAR) model proposed by Zhu et al. (2017) by allowing heterogeneous network effects across different network communities. In addition, the non-community-related latent factors are included to account for unknown cross-sectional dependence. The number of network communities can diverge as the network expands, which leads to estimating a diverging number of model parameters. We obtain a set of stationary conditions and develop an efficient two-step weighted least-squares estimator. The consistency and asymptotic normality properties of the estimators are established. Theoretical results show that the two-step estimator can further improve the efficiency of one-step estimator when the error admits a factor structure. The advantages of the CNAR model are illustrated on a variety of synthetic and real datasets.
+ER  - 
+
+TY  - JOUR
+T1  - Time-varying unobserved heterogeneity in earnings shocks
+AU  - Botosaru, Irene
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1378
+EP  - 1393
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002020
+KW  - Earnings volatility
+KW  - Panel data
+KW  - Heteroskedasticity
+KW  - Linear integral equation
+AB  - This paper considers the transitory-permanent model for the earnings process, and allows for time-varying individual-specific unobserved heterogeneity in each shock. The cross-sectional heterogeneity in each shock is drawn from an unknown distribution at each time period. Sufficient conditions for the nonparametric identification of the cross-sectional density functions of the heterogeneity are provided, under different assumptions on the time series behavior of the transitory shock. The method proposed is then applied to earnings data to document a high degree of cross-sectional heterogeneity in each shock.
+ER  - 
+
+TY  - JOUR
+T1  - Macroeconomic forecasting and variable ordering in multivariate stochastic volatility models
+AU  - Arias, Jonas E.
+AU  - Rubio-Ramírez, Juan F.
+AU  - Shin, Minchul
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1054
+EP  - 1086
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001695
+KW  - Vector autoregressions
+KW  - Time-varying parameters
+KW  - Stochastic volatility
+KW  - Variable ordering
+KW  - Cholesky decomposition
+KW  - Wishart process
+KW  - Dynamic conditional correlation
+KW  - Out-of-sample forecasting evaluation
+AB  - We document five novel empirical findings on the well-known potential ordering drawback associated with the time-varying parameter vector autoregression with stochastic volatility developed by Cogley and Sargent (2005) and Primiceri (2005). First, the ordering does not affect point prediction. Second, the standard deviation of the predictive densities implied by different orderings can differ substantially. Third, the average length of the prediction intervals is also sensitive to the ordering. Fourth, the best ordering for one variable in terms of log-predictive scores does not necessarily imply the best ordering for another variable under the same metric. Fifth, the ordering problem becomes exacerbated in conditional forecasting exercises. Then, we consider three alternative ordering invariant models: a canonical discounted Wishart stochastic volatility model and two dynamic stochastic correlation models. When the forecasting performance of these ordering invariant models is compared to Cogley, Primiceri, and Sargent’s ordering variant model, the former underperforms relative to all orderings and the latter two have an out-of-sample forecasting performance comparable with the median outcomes across orderings.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and inference of network formation games with misclassified links
+AU  - Candelaria, Luis E.
+AU  - Ura, Takuya
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 862
+EP  - 891
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001531
+KW  - Misclassification
+KW  - Network formation models
+KW  - Strategic interactions
+KW  - Incomplete information
+AB  - This paper considers a network formation model when links are potentially misclassified. We focus on a game-theoretical model of strategic network formation with incomplete information, in which the linking decisions depend on agents’ exogenous attributes and endogenous network characteristics. In the presence of link misclassification, we derive moment conditions that characterize the identified set for the preference parameters associated with homophily and network externalities. Based on the moment equality conditions, we provide an inference method that is asymptotically valid when a single network of many agents is observed. Finally, we apply our misclassification-robust method to study the preference parameters of a lending network in rural villages in southern India.
+ER  - 
+
+TY  - JOUR
+T1  - Jackknife estimation of a cluster-sample IV regression model with many weak instruments
+AU  - Chao, John C.
+AU  - Swanson, Norman R.
+AU  - Woutersen, Tiemen
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1747
+EP  - 1769
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000271
+KW  - Cluster sample
+KW  - Instrumental variables
+KW  - Heteroskedasticity
+KW  - Jackknife
+KW  - Many weak instruments
+KW  - Panel data
+AB  - This paper proposes new jackknife IV estimators that are robust to the effects of many weak instruments and error heteroskedasticity in a cluster sample setting with cluster-specific effects and possibly many included exogenous regressors. The estimators that we propose are designed to properly partial out the cluster-specific effects and included exogenous regressors while preserving the re-centering property of the jackknife methodology. To the best of our knowledge, our proposed procedures provide the first consistent estimators under many weak instrument asymptotics in the setting considered. We also present results on the asymptotic normality of our estimators and show that t-statistics based on said estimators are asymptotically normal under the null and consistent under fixed alternatives. Monte Carlo results show that our t-statistics perform better in controlling size in finite samples than those based on alternative jackknife IV procedures previously introduced in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - The distribution of rolling regression estimators
+AU  - Cai, Zongwu
+AU  - Juhl, Ted
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1447
+EP  - 1463
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002068
+KW  - Parameter instability
+KW  - Nonparametric estimation
+KW  - Rolling regressions
+KW  - Uniform confidence intervals
+KW  - Nonstationary
+AB  - We establish the asymptotic distribution for rolling linear regression models using various window widths. The limiting distribution depends on the width of the rolling window and on a “bias process” that is typically ignored in practice. Based on the asymptotic distribution, we tabulate critical values used to find uniform confidence intervals for the average values of regression parameters over the windows. We propose a corrected rolling regression technique that removes the bias process by rolling over smoothed parameter estimates. The procedure is illustrated using a series of Monte Carlo experiments. The paper includes an empirical example to show how the confidence bands suggest alternative conclusions about the persistence of inflation.
+ER  - 
+
+TY  - JOUR
+T1  - A functional estimation approach to the first-price auction models
+AU  - Enache, Andreea
+AU  - Florens, Jean-Pierre
+AU  - Sbai, Erwann
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1564
+EP  - 1588
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000192
+KW  - First-price auction model
+KW  - Quantile methods
+KW  - Regularization methods
+KW  - Mildly ill-posed inverse problem
+AB  - This paper introduces new methods of identification and estimation of the first-price sealed bid auction model and compares them with the previous existing ones. The first method of estimation allows us to estimate directly (through an iterative algorithm) the cumulative distribution function of the private values without estimating the private values beforehand. In the second method, we use a quantile approach. Although the first-price auction is a complex nonlinear inverse problem, the use of quantile leads to a linearization of the model. Thus, in contrast with the existing methods we are able to deduce a closed-form solution for the quantile of the private values. This constructive identification allows for a one-stage estimation procedure that can be performed using three regularization methods: the Tikhonov regularization, the Landweber–Friedman regularization and the kernels. We conduct a Monte Carlo experiment to compare our methods of estimation by c.d.f. and quantiles with the methods of estimation developed by Guerre et al. (2000), Marmer and Shneyerov (2012), and Hickman and Hubbard (2015). Some extensions of the model are considered: asymmetric bidders, affiliation, conditional models to exogenuous variables, and the observation of only the winning bids.
+ER  - 
+
+TY  - JOUR
+T1  - Reproducibility and transparency versus privacy and confidentiality: Reflections from a data editor
+AU  - Vilhuber, Lars
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2285
+EP  - 2294
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001471
+KW  - Privacy
+KW  - Big data
+KW  - Consent
+KW  - Economics
+AB  - Transparency and reproducibility are often seen in opposition to privacy and confidentiality. Data that need to be kept confidential are seen as an impediment to reproducibility, and privacy would seem to inhibit transparency. I bring a more nuanced view to the discussion, and show, using examples from over 1,000 reproducibility assessments, that confidential data can very well be used in reproducible and transparent research. The key insight is that access to most confidential data, while tedious, is open to hundreds if not thousands of researchers. In cases where few researchers can consider accessing such data in the future, reproducibility services, such as those provided by some journals, can provide some evidence for effective reproducibility even when the same data may not be available for future research.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on individual treatment effects in nonseparable triangular models
+AU  - Ma, Jun
+AU  - Marmer, Vadim
+AU  - Yu, Zhengfei
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2096
+EP  - 2124
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001276
+KW  - Individual treatment effects
+KW  - Nonparametric triangular models
+KW  - Two-step nonparametric estimation
+KW  - Bootstrap
+KW  - Uniform confidence bands
+KW  - Labor supply and family size
+AB  - In nonseparable triangular models with a binary endogenous treatment and a binary instrumental variable, Vuong and Xu (2017) established identification results for individual treatment effects (ITEs) under the rank invariance assumption. Using their approach, Feng et al. (2019) proposed a uniformly consistent kernel estimator for the density of the ITE that utilizes estimated ITEs. In this paper, we establish the asymptotic normality of the density estimator of Feng et al. (2019) and show that the ITE estimation errors have a non-negligible effect on the asymptotic distribution of the estimator. We propose asymptotically valid standard errors that account for ITEs estimation, as well as a bias correction. Furthermore, we develop uniform confidence bands for the density of the ITE using the jackknife multiplier or nonparametric bootstrap critical values.
+ER  - 
+
+TY  - JOUR
+T1  - Lasso inference for high-dimensional time series
+AU  - Adamek, Robert
+AU  - Smeekes, Stephan
+AU  - Wilms, Ines
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1114
+EP  - 1143
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001804
+KW  - Honest inference
+KW  - Lasso
+KW  - Time series
+KW  - High-dimensional data
+AB  - In this paper we develop valid inference for high-dimensional time series. We extend the desparsified lasso to a time series setting under Near-Epoch Dependence (NED) assumptions allowing for non-Gaussian, serially correlated and heteroskedastic processes, where the number of regressors can possibly grow faster than the time dimension. We first derive an error bound under weak sparsity, which, coupled with the NED assumption, means this inequality can also be applied to the (inherently misspecified) nodewise regressions performed in the desparsified lasso. This allows us to establish the uniform asymptotic normality of the desparsified lasso under general conditions, including for inference on parameters of increasing dimensions. Additionally, we show consistency of a long-run variance estimator, thus providing a complete set of tools for performing inference in high-dimensional linear time series models. Finally, we perform a simulation exercise to demonstrate the small sample properties of the desparsified lasso in common time series settings.
+ER  - 
+
+TY  - JOUR
+T1  - Tail index estimation in the presence of covariates: Stock returns’ tail risk dynamics
+AU  - Nicolau, João
+AU  - Rodrigues, Paulo M.M.
+AU  - Stoykov, Marian Z.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2266
+EP  - 2284
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300146X
+KW  - Extreme value theory
+KW  - Pareto-type distributions
+KW  - Tail index
+KW  - Covariates information
+AB  - This paper provides novel theoretical results for the estimation of the conditional tail index of Pareto and Pareto-type distributions in a time series context. We show that both the estimators and relevant test statistics are normally distributed in the limit, when independent and identically distributed or dependent data are considered. Simulation results provide support for the theoretical findings and highlight the good finite sample properties of the approach in a time series context. The proposed methodology is then used to analyse stock returns’ tail risk dynamics. Two empirical applications are provided. The first consists in testing whether the time-varying tail exponents across firms follow Kelly and Jiang’s (2014) assumption of common firm level tail dynamics. The results obtained from our sample seem not to favour this hypothesis. The second application, consists of the evaluation of the impact of two market risk indicators, VIX and Expected Shortfall (ES) and two firm specific covariates, capitalization and market-to-book on stocks tail risk dynamics. Although all variables seem important drivers of firms’ tail risk dynamics, it is found that ES and firms’ capitalization seem to have overall wider impact.
+ER  - 
+
+TY  - JOUR
+T1  - What’s trending in difference-in-differences? A synthesis of the recent econometrics literature
+AU  - Roth, Jonathan
+AU  - Sant’Anna, Pedro H.C.
+AU  - Bilinski, Alyssa
+AU  - Poe, John
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2218
+EP  - 2244
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001318
+KW  - Difference-in-differences
+KW  - Causal Inference
+KW  - Staggered Treatment timing
+KW  - Sensitivity Analysis
+KW  - Clustering
+KW  - Parallel trends
+KW  - Treatment Effect Heterogeneity
+AB  - This paper synthesizes recent advances in the econometrics of difference-in-differences (DiD) and provides concrete recommendations for practitioners. We begin by articulating a simple set of “canonical” assumptions under which the econometrics of DiD are well-understood. We then argue that recent advances in DiD methods can be broadly classified as relaxing some components of the canonical DiD setup, with a focus on (i) multiple periods and variation in treatment timing, (ii) potential violations of parallel trends, or (iii) alternative frameworks for inference. Our discussion highlights the different ways that the DiD literature has advanced beyond the canonical model, and helps to clarify when each of the papers will be relevant for empirical work. We conclude by discussing some promising areas for future research.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation of average derivatives in NPIV models: Simulation comparisons of neural network estimators
+AU  - Chen, Jiafeng
+AU  - Chen, Xiaohong
+AU  - Tamer, Elie
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1848
+EP  - 1875
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000349
+KW  - Artificial Neural Networks
+KW  - Relu
+KW  - Sigmoid
+KW  - Nonparametric instrumental variables
+KW  - Weighted average derivatives
+KW  - Optimal sieve minimum distance
+KW  - Efficient influence
+KW  - Semiparametric efficiency
+KW  - Endogenous demand
+AB  - Artificial Neural Networks (ANNs) can be viewed as nonlinear sieves that can approximate complex functions of high dimensional variables more effectively than linear sieves. We investigate the performance of various ANNs in nonparametric instrumental variables (NPIV) models of moderately high dimensional covariates that are relevant to empirical economics. We present two efficient procedures for estimation and inference on a weighted average derivative (WAD): an orthogonalized plug-in with optimally-weighted sieve minimum distance (OP-OSMD) procedure and a sieve efficient score (ES) procedure. Both estimators for WAD use ANN sieves to approximate the unknown NPIV function and are n-asymptotically normal and first-order equivalent. We provide a detailed practitioner’s recipe for implementing both efficient procedures. We compare their finite-sample performances in various simulation designs that involve smooth NPIV function of up to 13 continuous covariates, different nonlinearities and covariate correlations. Some Monte Carlo findings include: (1) tuning and optimization are more delicate in ANN estimation; (2) given proper tuning, both ANN estimators with various architectures can perform well; (3) easier to tune ANN OP-OSMD estimators than ANN ES estimators; (4) stable inferences are more difficult to achieve with ANN (than spline) estimators; (5) there are gaps between current implementations and approximation theories. Finally, we apply ANN NPIV to estimate average partial derivatives in two empirical demand examples with multivariate covariates.
+ER  - 
+
+TY  - JOUR
+T1  - Discrete mixtures of normals pseudo maximum likelihood estimators of structural vector autoregressions
+AU  - Fiorentini, Gabriele
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 643
+EP  - 665
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001269
+KW  - Consistency
+KW  - Efficiency bound
+KW  - Finite normal mixtures
+KW  - Pseudo maximum likelihood estimators
+KW  - Structural models
+KW  - Volatility indices
+AB  - Likelihood inference in structural vector autoregressions with independent non-Gaussian shocks leads to parametric identification and efficient estimation at the risk of inconsistencies under distributional misspecification. We prove that autoregressive coefficients and (scaled) impact multipliers remain consistent, but the drifts and shocks’ standard deviations are generally inconsistent. Nevertheless, we show consistency when the non-Gaussian log-likelihood uses a discrete scale mixture of normals in the symmetric case, or an unrestricted finite mixture more generally, and compare the efficiency of these estimators to other consistent two-step proposals, including our own. Finally, our empirical application looks at dynamic linkages between three popular volatility indices.
+ER  - 
+
+TY  - JOUR
+T1  - Wald, QLR, and score tests when parameters are subject to linear inequality constraints
+AU  - Fan, Yanqin
+AU  - Shi, Xuetao
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2005
+EP  - 2026
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000787
+KW  - Bonferroni-type correction
+KW  - Extremum estimation
+KW  - Implicit nuisance parameter
+KW  - Mincer earnings regression
+KW  - Polytope projection
+KW  - Random coefficients model
+KW  - Uniform inference
+AB  - This paper develops Wald-type, QLR, and score-type tests for linear equality constraints in a general class of extremum estimation problems where the parameter space is characterized by a finite number of linear equality and inequality constraints. We show that the asymptotic null distributions of the Wald and QLR statistics are discontinuous in an implicit nuisance parameter and propose an algorithm to identify it. In contrast, the asymptotic null distribution of the score statistic is not discontinuous in any model parameter but depends on a polytope projection. We present an algorithm based on the Fourier–Motzkin elimination to compute such a projection. We study the consistency and local power properties of the three tests. Finally, we present numerical results of our tests’ finite sample performance from a Monte Carlo study and conduct an empirical illustration of a Mincer earnings regression.
+ER  - 
+
+TY  - JOUR
+T1  - Variance–covariance from a metropolis chain on a curved, singular manifold
+AU  - Gallant, A. Ronald
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 843
+EP  - 861
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001506
+KW  - Method of moments
+KW  - Bayesian inference
+KW  - Simultaneously valid credibility intervals
+KW  - Point cloud
+KW  - Curved
+KW  - Singular manifold
+AB  - We consider estimation of variance and covariance from a point cloud that are draws from a posterior distribution that lie on a curved, singular manifold. The motivating application is Bayesian inference regarding a likelihood subject to overidentified moment equations using MCMC (Markov Chain Monte Carlo). The MCMC draws lie on a singular manifold that typically is curved. Variance and covariance are Euclidean concepts. A curved, singular manifold is not typically a Euclidean space. We explore some suggestions on how to adapt a Euclidean concept to a non-Euclidean space then build on them to propose and illustrate appropriate methods.
+ER  - 
+
+TY  - JOUR
+T1  - Parametric estimation of long memory in factor models
+AU  - Ergemen, Yunus Emre
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1483
+EP  - 1499
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200210X
+KW  - Factor models
+KW  - Long memory
+KW  - Conditional sum of squares
+KW  - Principal components analysis
+KW  - Realized volatility
+AB  - A dynamic factor model is proposed in that factor dynamics are driven by stochastic time trends describing arbitrary persistence levels. The proposed model is essentially a long memory factor model, which nests standard I(0) and I(1) behavior smoothly in common factors. In the estimation, principal components analysis (PCA) and conditional sum of squares (CSS) estimations are employed. For the dynamic model parameters, centered normal asymptotics are established at the usual parametric rates, and their small-sample properties are explored via Monte-Carlo experiments. The method is then applied to a panel of U.S. industry realized volatilities.
+ER  - 
+
+TY  - JOUR
+T1  - Distribution-invariant differential privacy
+AU  - Bi, Xuan
+AU  - Shen, Xiaotong
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 444
+EP  - 453
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200121X
+KW  - Privacy protection
+KW  - Distribution preservation
+KW  - Data sharing
+KW  - Data perturbation
+KW  - Randomized mechanism
+AB  - Differential privacy is becoming one gold standard for protecting the privacy of publicly shared data. It has been widely used in social science, data science, public health, information technology, and the U.S. decennial census. Nevertheless, to guarantee differential privacy, existing methods may unavoidably alter the conclusion of original data analysis, as privatization often changes the sample distribution. This phenomenon is known as the trade-off between privacy protection and statistical accuracy. In this work, we mitigate this trade-off by developing a distribution-invariant privatization (DIP) method to reconcile both high statistical accuracy and strict differential privacy. As a result, any downstream statistical or machine learning task yields essentially the same conclusion as if one used the original data. Numerically, under the same strictness of privacy protection, DIP achieves superior statistical accuracy in in a wide range of simulation studies and real-world benchmarks.
+ER  - 
+
+TY  - JOUR
+T1  - Testing and signal identification for two-sample high-dimensional covariances via multi-level thresholding
+AU  - Chen, Song Xi
+AU  - Guo, Bin
+AU  - Qiu, Yumou
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1337
+EP  - 1354
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001944
+KW  - Detection boundary
+KW  - High dimensionality
+KW  - Multiple testing
+KW  - Rare and faint signal
+KW  - Thresholding
+AB  - The paper considers testing and signal identification for covariance matrices from two populations of marginally sub-Gaussian distributed. A multi-level thresholding procedure is proposed for testing the equality of two high-dimensional covariance matrices, which is designed to detect sparse and faint differences between the covariances. A novel U-statistic composition is developed to establish the asymptotic distribution of the thresholding statistics in conjunction with the matrix blocking and the coupling techniques. It is shown that the proposed test is more powerful than the existing tests in detecting sparse and weak signals in covariances. Multiple testing procedures are constructed to discover different covariances and the sub-groups of variables with different covariance structures between the two populations. The proposed procedures are based on the multi-level thresholding test, which are able to control the false discovery proportion (FDP) with high power. Simulation experiments and a case study on the returns of the S&P 500 stocks before and after the COVID-19 pandemic are conducted to demonstrate and compare the utilities of the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - Instrument strength in IV estimation and inference: A guide to theory and practice
+AU  - Keane, Michael
+AU  - Neal, Timothy
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1625
+EP  - 1653
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000222
+KW  - Instrumental variables
+KW  - Weak instruments
+KW  - 2SLS
+KW  - Endogeneity
+KW  - F-test
+KW  - Size distortion
+KW  - Anderson–Rubin test
+KW  - Likelihood ratio test
+KW  - LIML
+KW  - GMM
+KW  - Fuller
+KW  - JIVE
+AB  - Two stage least squares (2SLS) has poor properties if instruments are exogenous but weak. But how strong do instruments need to be for 2SLS estimates and test statistics to exhibit acceptable properties? A common standard is that first-stage F≥10. This is adequate to ensure two-tailed t-tests have modest size distortions. But other problems persist: In particular, we show 2SLS standard errors are artificially small in samples where the estimate is most contaminated by the OLS bias. Hence, if the bias is positive, the t-test has little power to detect true negative effects, and inflated power to find positive effects. This phenomenon, which we call a “power asymmetry,” persists even if first-stage F is in the thousands. Robust tests like Anderson–Rubin perform better, and should be used in lieu of the t-test even with strong instruments. We also show how 2SLS test statistics typically suffer from very low power if first-stage F is only 10, leading us to suggest a higher standard of instrument strength in empirical practice.
+ER  - 
+
+TY  - JOUR
+T1  - Intraday cross-sectional distributions of systematic risk
+AU  - Andersen, Torben G.
+AU  - Riva, Raul
+AU  - Thyrsgaard, Martin
+AU  - Todorov, Viktor
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1394
+EP  - 1418
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002032
+KW  - Asset pricing
+KW  - Dynamic factor models
+KW  - Empirical characteristic function
+KW  - High-frequency data
+KW  - Nonparametric inference
+KW  - Stable convergence
+AB  - We develop a test for the detection of intraday changes in the cross-sectional distribution of assets’ exposure to observable factors. The test is constructed for a panel of high-frequency asset returns, with the size of the cross-section and the sampling frequency increasing simultaneously. It is based on a comparison of the empirical characteristic functions of estimates of the assets’ factor loadings at different parts of the trading day, formed from local blocks of asset returns and the corresponding factor realizations. The limiting behavior of the test statistic is governed by unobservable latent factors in the asset prices. The critical values of the test are constructed on the basis of a novel simulation-based procedure. Empirical implementation of the test to stocks in the S&P 500 index and the five Fama–French factors, as well as the momentum factor, reveals different intraday behavior of the factor loadings: assets’ exposure to size, market and value risks vary systematically over the trading day while the three remaining factors do not exhibit statistically significant intraday variation. Moreover, we find diverse, and for some factors large, reactions in the assets’ factor loadings to major economic or firm specific news releases. Finally, we document that time-varying correlations between the observable risk factors drive a wedge between the time-of-day pattern of market betas, estimated with and without control for the other observable risk factors.
+ER  - 
+
+TY  - JOUR
+T1  - Using large samples in econometrics
+AU  - MacKinnon, James G.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 922
+EP  - 926
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001580
+KW  - Bootstrap
+KW  - Clustered data
+KW  - Jackknife
+KW  - Statistical computation
+KW  - Statistical inference
+AB  - As I demonstrate using evidence from a journal data repository that I manage, the datasets used in empirical work are getting larger. When we use very large datasets, it can be dangerous to rely on standard methods for statistical inference. In addition, we need to worry about computational issues. We must be careful in our choice of statistical methods and the algorithms used to implement them.
+ER  - 
+
+TY  - JOUR
+T1  - Prices, profits, proxies, and production
+AU  - Aguiar, Victor H.
+AU  - Kashaev, Nail
+AU  - Allen, Roy
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 666
+EP  - 693
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001300
+KW  - Duality
+KW  - Homogeneity
+KW  - Identification
+KW  - Production
+AB  - This paper studies nonparametric identification and counterfactual bounds for heterogeneous firms that can be ranked in terms of productivity. Our approach works when quantities and prices are latent, rendering standard approaches inapplicable. Instead, we require observation of profits or other optimizing-values such as costs or revenues, and either prices or price proxies of flexibly chosen variables. We extend classical duality results for price-taking firms to a setup with discrete heterogeneity, endogeneity, and limited variation in possibly latent prices. Finally, we show that convergence results for nonparametric estimators may be directly converted to convergence results for production sets.
+ER  - 
+
+TY  - JOUR
+T1  - Threshold regression with nonparametric sample splitting
+AU  - Lee, Yoonseok
+AU  - Wang, Yulong
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 816
+EP  - 842
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200149X
+KW  - Threshold regression
+KW  - Sample splitting
+KW  - Nonparametric
+KW  - Random field
+KW  - Tipping point
+KW  - Metropolitan area boundary
+AB  - This paper develops a threshold regression model where an unknown relationship between two variables nonparametrically determines the threshold. We allow the observations to be cross-sectionally dependent so that the model can be applied to determine an unknown spatial border for sample splitting over a random field. We derive the uniform rate of convergence and the nonstandard limiting distribution of the nonparametric threshold estimator. We also obtain the root-n consistency and the asymptotic normality of the regression coefficient estimator. We illustrate empirical relevance of this new model by estimating the tipping point in social segregation problems as a function of demographic characteristics; and determining metropolitan area boundaries using nighttime light intensity collected from satellite imagery.
+ER  - 
+
+TY  - JOUR
+T1  - Robust inference in first-price auctions: Overbidding as an identifying restriction
+AU  - Grundl, Serafin
+AU  - Zhu, Yu
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 484
+EP  - 506
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001221
+KW  - First-price auction
+KW  - Robust inference
+KW  - Experimental findings
+KW  - Structural estimation
+KW  - Partial identification
+AB  - Laboratory experiments find consistently that bidding in first-price auctions tends to be more aggressive than predicted by the risk-neutral Bayesian Nash Equilibrium (RNBNE) — a finding known as the overbidding puzzle. Several alternative models can explain the overbidding puzzle, but no canonical alternative to RNBNE has emerged. Instead of estimating a particular model of overbidding, we use the overbidding restriction itself for identification, which allows us to bound the valuation distribution and the seller’s revenue under counterfactual reserve prices in the spirit of Haile and Tamer (2003). These bounds are consistent with RNBNE and all models of overbidding, and the bounds remain valid even if there is unobserved heterogeneity in bidding strategies. We evaluate the validity of the bounds numerically and in experimental data.
+ER  - 
+
+TY  - JOUR
+T1  - Social threshold regression
+AU  - Konstantinidi, Antri
+AU  - Kourtellos, Andros
+AU  - Sun, Yiguo
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2057
+EP  - 2081
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001045
+KW  - Social interactions
+KW  - Social networks
+KW  - Spatial autoregression
+KW  - Threshold regression
+AB  - This paper develops a threshold social interaction model which introduces group-specific endogenous effects as well as contextual effects into a conventional spatial Durbin model. We propose a two-step GMM estimator for the threshold and regression parameters, derive asymptotic theory, and provide bootstrap inference. Finally, we assess the performance of our methods using a Monte Carlo simulation and provide an empirical application on the role of peer effects on student academic achievement using Add Health data.
+ER  - 
+
+TY  - JOUR
+T1  - The spread of COVID-19 in London: Network effects and optimal lockdowns
+AU  - Julliard, Christian
+AU  - Shi, Ran
+AU  - Yuan, Kathy
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2125
+EP  - 2154
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001288
+KW  - COVID-19
+KW  - Networks
+KW  - Key players
+KW  - Spatial modelling
+KW  - SIR model
+AB  - We generalise a stochastic version of the workhorse SIR (Susceptible-Infectious-Removed) epidemiological model to account for spatial dynamics generated by network interactions. Using the London metropolitan area as a salient case study, we show that commuter network externalities account for about 42% of the propagation of COVID-19. We find that the UK lockdown measure reduced total propagation by 44%, with more than one third of the effect coming from the reduction in network externalities. Counterfactual analyses suggest that: (i) the lockdown was somehow late, but further delay would have had more extreme consequences; (ii) a targeted lockdown of a small number of highly connected geographic regions would have been equally effective, arguably with significantly lower economic costs; (iii) targeted lockdowns based on threshold number of cases are not effective, since they fail to account for network externalities.
+ER  - 
+
+TY  - JOUR
+T1  - Sharpe Ratio analysis in high dimensions: Residual-based nodewise regression in factor models
+AU  - Caner, Mehmet
+AU  - Medeiros, Marcelo
+AU  - Vasconcelos, Gabriel F.R.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 393
+EP  - 417
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000926
+AB  - We provide a new theory for nodewise regression when the residuals from a fitted factor model are used. We apply our results to the analysis of the consistency of Sharpe Ratio estimators when there are many assets in a portfolio. We allow for an increasing number of assets as well as time observations of the portfolio. Since the nodewise regression is not feasible due to the unknown nature of idiosyncratic errors, we provide a feasible-residual-based nodewise regression to estimate the precision matrix of errors which is consistent even when number of assets, p, exceeds the time span of the portfolio, n. In another new development, we also show that the precision matrix of returns can be estimated consistently, even with an increasing number of factors and p>n. We show that: (1) with p>n, the Sharpe Ratio estimators are consistent in global minimum-variance and mean–variance portfolios; and (2) with p>n, the maximum Sharpe Ratio estimator is consistent when the portfolio weights sum to one; and (3) with p<<n, the maximum-out-of-sample Sharpe Ratio estimator is consistent.
+ER  - 
+
+TY  - JOUR
+T1  - ETF Basket-Adjusted Covariance estimation
+AU  - Boudt, Kris
+AU  - Dragun, Kirill
+AU  - Sauri, Orimar
+AU  - Vanduffel, Steven
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1144
+EP  - 1171
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001816
+KW  - High-frequency data
+KW  - Realized covariances
+KW  - ETF
+KW  - Asynchronicity
+KW  - Stock-ETF covariation
+KW  - Localized Hayashi–Yoshida
+KW  - Index tracking
+AB  - The increase in trading frequency of Exchanged Traded Funds (ETFs) presents a positive externality for financial risk management when the price of the ETF is available at a higher frequency than the price of the component stocks. The positive spillover consists in improving the accuracy of pre-estimators of the integrated covariance of the stocks included in the ETF basket. The proposed ETF Basket-Adjusted Covariance (BAC) equals the pre-estimator plus a minimal adjustment matrix such that the covariance-implied stock-ETF covariation equals a target value. We focus on a truncated pre-averaged version of the (Hayashi and Yoshida, 2005) pre-estimator and derive the asymptotic properties of its implied stock-ETF covariation. The simulation study confirms that the accuracy gains are substantial in all cases considered. In the empirical part of the paper, we show the gains in tracking error efficiency when using the BAC adjustment to construct portfolios that replicate a broad index using a subset of stocks.
+ER  - 
+
+TY  - JOUR
+T1  - Approximate factor models with weaker loadings
+AU  - Bai, Jushan
+AU  - Ng, Serena
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1893
+EP  - 1916
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.027
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300060X
+KW  - Principal components
+KW  - Low rank decomposition
+KW  - Weak factors
+KW  - Factor augmented regressions
+AB  - Pervasive cross-section dependence is increasingly recognized as a characteristic of economic data and the approximate factor model provides a useful framework for analysis. Assuming a strong factor structure where Λ0′Λ0/Nα is positive definite in the limit when α=1, early work established convergence of the principal component estimates of the factors and loadings up to a rotation matrix. This paper shows that the estimates are still consistent and asymptotically normal when α∈(0,1] albeit at slower rates and under additional assumptions on the sample size. The results hold whether α is constant or varies across factor loadings. The framework developed for heterogeneous loadings and the simplified proofs that can be also used in strong factor analysis are of independent interest.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying latent group structures in spatial dynamic panels
+AU  - Su, Liangjun
+AU  - Wang, Wuyi
+AU  - Xu, Xingbai
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1955
+EP  - 1980
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000738
+KW  - Classification
+KW  - Heterogeneity
+KW  - Panel structure model
+KW  - Spatial dynamic panel data
+KW  - SBSA algorithm
+AB  - This paper considers the identification of latent group structures in spatial dynamic panels. We follow Lee and Yu (2010) and consider a rich spatial dynamic panel data (SDPD) model with two-way fixed effects. In addition, we also allow for latent panel structures where individuals can be classified into a few groups such that individuals within the same group share the common slope parameters and do not otherwise. Both the number of groups and the individuals’ group membership are unknown. To identify the latent group structures, we first adopt the GMM to obtain the preliminary unconstrained estimates of the slope coefficients. Then we apply the sequential binary segmentation algorithm (SBSA) of Wang and Su (2021) to these estimates and obtain the clusters. A BIC-type information criterion is proposed to choose the number of latent groups consistently. The asymptotic analysis shows that this method can identify the true group structure consistently, and the post-classification estimators enjoy the oracle property. Monte Carlo simulations demonstrate that our method has good finite sample performance. Finally, we apply our approach to the US housing market and identify two latent Metropolitan Statistical Areas groups.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap specification tests for dynamic conditional distribution models
+AU  - Perera, Indeewara
+AU  - Silvapulle, Mervyn J.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 949
+EP  - 971
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001634
+KW  - GARCH
+KW  - Goodness-of-fit
+KW  - Residual empirical process
+KW  - Kolmogorov–Smirnov test
+KW  - Lack-of-fit test
+KW  - Stochastic recurrence equations
+AB  - This paper proposes bootstrap based tests for the specification of a given parametric conditional distribution in autoregressive time series with GARCH-type disturbances. The tests are based on an estimated residual empirical process and are implemented by parametric bootstrap. We show that the proposed tests are asymptotically valid, consistent, and have nontrivial asymptotic power against a large proportion of local alternatives. Our approach relies on non-primitive regularity conditions and certain properties of exponential almost sure convergence. The regularity conditions are shown to be satisfied by GARCH(p,q); this technique of verification is applicable to other models as well. In our Monte Carlo study, the proposed tests performed well and better than several competing tests, including the information matrix test. A real data example illustrates the testing procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform inference in linear panel data models with two-dimensional heterogeneity
+AU  - Lu, Xun
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 694
+EP  - 719
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001312
+KW  - Feldstein–Horioka puzzle
+KW  - Heterogeneity
+KW  - High-dimension
+KW  - Least squares dummy variable estimator
+KW  - Parameter instability
+KW  - Uniform inference
+AB  - This paper studies uniform inference in a linear panel data model when the slope coefficients may exhibit heterogeneity over both the individual and time dimensions and they can be correlated with the regressors. We propose a generalized two-way fixed effects (GTWFE) estimation procedure to estimate the model. To establish the asymptotic properties of the GTWFE estimators, we invert a number of large dimensional square matrices by approximating them with quasi-Kronecker structured matrices. We establish the asymptotic normality of our GTWFE estimators and show that their convergence rates depend on the unknown degree of parameter heterogeneity. To make a uniform inference on the common slope component, we propose a novel triple-bootstrap procedure to estimate the asymptotic variance. Simulations show the superb performance of our estimators and inference procedure. We apply our method to study the relationship between savings and investments, and find significant parameter heterogeneity along both the individual and time dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - Dividend suspensions and cash flows during the Covid-19 pandemic: A dynamic econometric model
+AU  - Pettenuzzo, Davide
+AU  - Sabbatucci, Riccardo
+AU  - Timmermann, Allan
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1522
+EP  - 1541
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300012X
+KW  - Covid-19
+KW  - High-frequency cash flows
+KW  - Dividend suspensions
+KW  - Predictive density modeling
+KW  - Bayesian estimation
+AB  - Firms suspended dividend payments in unprecedented numbers in response to the outbreak of the Covid-19 pandemic. We develop a multivariate dynamic econometric model that allows dividend suspensions to affect the conditional mean, volatility, and jump probability of growth in daily industry-level dividends and demonstrate how the parameters of this model can be estimated using Bayesian Gibbs sampling methods. We find considerable heterogeneity across industries in the dynamics of daily dividend growth and the impact of dividend suspensions.
+ER  - 
+
+TY  - JOUR
+T1  - Using monotonicity restrictions to identify models with partially latent covariates
+AU  - Bang, Minji
+AU  - Gao, Wayne Yuan
+AU  - Postlewaite, Andrew
+AU  - Sieg, Holger
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 892
+EP  - 921
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001555
+KW  - Production function
+KW  - Latent variable
+KW  - Endogeneity
+KW  - Semiparametric estimation
+KW  - Monotonicity
+AB  - This paper develops a new method for identifying econometric models with partially latent covariates. Such data structures arise in industrial organization and labor economics settings where data are collected using an input-based sampling strategy, e.g., if the sampling unit is one of multiple labor input factors. We show that the latent covariates can be nonparametrically identified, if they are functions of a common shock satisfying some plausible monotonicity assumptions. With the latent covariates identified, semiparametric estimation of the outcome equation proceeds within a standard IV framework that accounts for the endogeneity of the covariates. We illustrate the usefulness of our method using a new application that focuses on the production functions of pharmacies. We find that differences in technology between chains and independent pharmacies may partially explain the observed transformation of the industry structure.
+ER  - 
+
+TY  - JOUR
+T1  - IV methods for Tobit models
+AU  - Chesher, Andrew
+AU  - Kim, Dongwoo
+AU  - Rosen, Adam M.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1700
+EP  - 1724
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000258
+KW  - Censored outcomes
+KW  - Endogeneity
+KW  - Incomplete models
+KW  - Instrumental variables
+KW  - Partial identification
+KW  - Stochastic censoring
+AB  - This paper studies models of processes generating censored outcomes with endogenous explanatory variables and instrumental variable restrictions. Tobit-type left censoring at zero is the primary focus in the exposition. Extension to stochastic censoring is sketched. The models do not specify the process determining endogenous explanatory variables and they do not embody restrictions justifying control function approaches. Consequently, they can be partially or point identifying. Identified sets are characterized and it is shown how inference can be performed on scalar functions of partially identified parameters when exogenous variables have rich support. In an application using data on UK household tobacco expenditures inference is conducted on the coefficient of an endogenous total expenditure variable with and without a Gaussian distributional restriction on the unobservable and compared with the results obtained using a point identifying complete triangular model.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric partially linear varying coefficient modal regression
+AU  - Ullah, Aman
+AU  - Wang, Tao
+AU  - Yao, Weixin
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1001
+EP  - 1026
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200166X
+KW  - Goodness-of-fit test
+KW  - MEM algorithm
+KW  - Modal regression
+KW  - Oracle property
+KW  - Partially linear varying coefficient
+AB  - We in this paper propose a semiparametric partially linear varying coefficient (SPLVC) modal regression, in which the conditional mode function of the response variable given covariates admits a partially linear varying coefficient structure. In comparison to existing regressions, the newly developed SPLVC modal regression captures the “most likely” effect and provides superior prediction performance when the data distribution is skewed. The consistency and asymptotic properties of the resultant estimators for both parametric and nonparametric parts are rigorously established. We employ a kernel-based objective function to simplify the computation and a modified modal-expectation–maximization (MEM) algorithm to estimate the model numerically. Furthermore, taking the residual sums of modes as the loss function, we construct a goodness-of-fit testing statistic for hypotheses on the coefficient functions, whose limiting null distribution is shown to follow an asymptotically χ2-distribution with a scale dependent on density functions. To achieve sparsity in the high-dimensional SPLVC modal regression, we develop a regularized estimation procedure by imposing a penalty on the coefficients in the parametric part to eliminate the irrelevant variables. Monte Carlo simulations and two real-data applications are conducted to examine the performance of the suggested estimation methods and hypothesis test. We also briefly explore the extension of the SPLVC modal regression to the case where some varying coefficient functions admit higher-order smoothness.
+ER  - 
+
+TY  - JOUR
+T1  - Profile GMM estimation of panel data models with interactive fixed effects
+AU  - Hong, Shengjie
+AU  - Su, Liangjun
+AU  - Jiang, Tao
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 927
+EP  - 948
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001592
+KW  - Cross-section dependence
+KW  - Endogeneity
+KW  - Instrumental variables
+KW  - Nuclear-norm regularization
+KW  - Profile GMM
+AB  - This paper studies panel data models with interactive fixed effects where the regressors are allowed to be correlated with the idiosyncratic error terms. We propose a two-step profile GMM estimation procedure to estimate the parameters of interest. In the first step we obtain a preliminary consistent estimate of the slope coefficient via a nuclear-norm-regularization (NNR) based profile GMM procedure. In the second step, via an iterative procedure, we conduct post-NNR profile GMM estimation of the slope coefficient, factors, and factor loadings, with an improved convergence rate for the estimate of the slope coefficient. We establish the asymptotic properties of the preliminary estimates and the iterative estimates, and propose an efficient profile GMM estimator. We also study the determination of the number of factors and propose Hausman tests for the exogeneity of the regressor. Monte Carlo simulations suggest that the proposed estimation and testing methods work well in the determination of the number of factors, the estimation of the model parameters and the test for exogeneity. As an empirical application, we apply our model and method to study the price elasticity of U.S. imports.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying causal effects in experiments with spillovers and non-compliance
+AU  - DiTraglia, Francis J.
+AU  - García-Jimeno, Camilo
+AU  - O’Keeffe-O’Donovan, Rossa
+AU  - Sánchez-Becerra, Alejandro
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1589
+EP  - 1624
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000210
+KW  - Spillovers
+KW  - Non-compliance
+KW  - Randomized saturation
+KW  - Treatment effects
+AB  - This paper shows how to use a randomized saturation experimental design to identify and estimate causal effects in the presence of spillovers–one person’s treatment may affect another’s outcome–and one-sided non-compliance—subjects can only be offered treatment, not compelled to take it up. Two distinct causal effects are of interest in this setting: direct effects quantify how a person’s own treatment changes her outcome, while indirect effects quantify how her peers’ treatments change her outcome. We consider the case in which spillovers occur within known groups, and take-up decisions are invariant to peers’ realized offers. In this setting we point identify the effects of treatment-on-the-treated, both direct and indirect, in a flexible random coefficients model that allows for heterogeneous treatment effects and endogenous selection into treatment. We go on to propose a feasible estimator that is consistent and asymptotically normal as the number and size of groups increases. We apply our estimator to data from a large-scale job placement services experiment, and find negative indirect treatment effects on the likelihood of employment for those willing to take up the program. These negative spillovers are offset by positive direct treatment effects from own take-up.
+ER  - 
+
+TY  - JOUR
+T1  - Robust inference with stochastic local unit root regressors in predictive regressions
+AU  - Liu, Yanbo
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 563
+EP  - 591
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001233
+KW  - IVX
+KW  - Long horizon
+KW  - LSTUR
+KW  - Predictability
+KW  - Quantile regression
+KW  - Robustness
+KW  - Short horizon
+KW  - STUR
+AB  - This paper explores predictive regression models with stochastic unit root (STUR) components and robust inference procedures that encompass a wide class of persistent and time-varying stochastically nonstationary regressors. The paper extends the mechanism of endogenously generated instrumentation known as IVX, showing that these methods remain valid for short and long-horizon predictive regressions in which the predictors have STUR and local STUR (LSTUR) generating mechanisms. Both mean regression and quantile regression methods are considered. The asymptotic distributions of the IVX estimators are new and require some new methods in their derivation. The distributions are compared to previous results and, as in earlier work, lead to pivotal limit distributions for Wald testing procedures that remain robust for both single and multiple regressors with various degrees of persistence and stochastic and fixed local departures from unit roots. Numerical experiments corroborate the asymptotic theory, and IVX testing shows good power and size control. The IVX methods are illustrated in an empirical application to evaluate the predictive capability of economic fundamentals in forecasting S&P 500 excess returns.
+ER  - 
+
+TY  - JOUR
+T1  - A GMM approach to estimate the roughness of stochastic volatility
+AU  - Bolko, Anine E.
+AU  - Christensen, Kim
+AU  - Pakkanen, Mikko S.
+AU  - Veliyev, Bezirgen
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 745
+EP  - 778
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001476
+KW  - Fractional Brownian motion
+KW  - GMM estimation
+KW  - Hurst exponent
+KW  - Log-normal stochastic volatility
+KW  - Realized variance
+KW  - Roughness
+AB  - We develop a GMM approach for estimation of log-normal stochastic volatility models driven by a fractional Brownian motion with unrestricted Hurst exponent. We show that a parameter estimator based on the integrated variance is consistent and, under stronger conditions, asymptotically normally distributed. We inspect the behavior of our procedure when integrated variance is replaced with a noisy measure of volatility calculated from discrete high-frequency data. The realized estimator contains sampling error, which skews the fractal coefficient toward “illusive roughness.” We construct an analytical approach to control the impact of measurement error without introducing nuisance parameters. In a simulation study, we demonstrate convincing small sample properties of our approach based both on integrated and realized variance over the entire memory spectrum. We show the bias correction attenuates any systematic deviance in the parameter estimates. Our procedure is applied to empirical high-frequency data from numerous leading equity indexes. With our robust approach the Hurst index is estimated around 0.05, confirming roughness in stochastic volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Sieve BLP: A semi-nonparametric model of demand for differentiated products
+AU  - Wang, Ao
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 325
+EP  - 351
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000860
+KW  - BLP
+KW  - Mixed logit
+KW  - Flexible heterogeneity
+KW  - Sieve estimation
+KW  - Sugar tax
+AB  - We develop a semi-nonparametric approach to identify and estimate the demand for differentiated products. The proposed method adopts a random coefficients discrete choice logit model (i.e., mixed logit model) in which the distribution of random coefficients is nonparametrically specified. Our method minimizes misspecification error in the distribution to which routinely used parametric approach is subject. In addition, it overcomes the practical challenge of dimensionality in the number of products that remains the main hurdle in the nonparametric estimation of demand functions. We propose a sieve estimation procedure (referred to as sieve BLP) that remains simple to implement. Extensive Monte Carlo simulations show its robust finite-sample performance under various data generating processes. We use the method to investigate the welfare implications of a sugar tax in the ready-to-eat cereal industry in the US. This application underscores the usefulness of sieve BLP due to its ability to allow for flexibly specified individual heterogeneity in demand, especially when the researcher aims to quantify the distributional effects of a policy change.
+ER  - 
+
+TY  - JOUR
+T1  - GARCH density and functional forecasts
+AU  - Abadir, Karim M.
+AU  - Luati, Alessandra
+AU  - Paruolo, Paolo
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 470
+EP  - 483
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001154
+KW  - GJR GARCH(1, 1)
+KW  - Prediction density
+KW  - Functionals
+KW  - Value at Risk
+KW  - Expected Shortfall
+AB  - This paper derives the analytic form of the multi-step ahead prediction density of a Gaussian GARCH(1,1) process with a possibly asymmetric news impact curve in the GJR class. These results can be applied when single-period returns are modeled as a GJR Gaussian GARCH(1,1) and interest lies in single-period returns at some future forecast horizon. The Gaussian density has been used in applications as an approximation to this as yet unknown prediction density; the analytic form derived here shows that this prediction density, while symmetric, can be far from Gaussian. This explicit form can be used to compute exact tail probabilities and functionals, such as the Value at Risk and the Expected Shortfall, to quantify expected future required risk capital for single-period returns. Finally, the paper shows how estimation uncertainty can be mapped onto uncertainty regions for any functional of this prediction distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and identification of latent group structures in panel data
+AU  - Mehrabani, Ali
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1464
+EP  - 1482
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200207X
+KW  - ADMM algorithm
+KW  - Classification
+KW  - Dynamic panel
+KW  - High dimensionality
+KW  - Oracle property
+KW  - Pairwise adaptive group fused Lasso
+KW  - Parameter heterogeneity
+AB  - This paper provides a framework for joint estimation and identification of latent group structures in panel data models using a pairwise fusion penalized approach. The latent structure of the model allows individuals to be classified into different groups where the number of groups and the group membership are unknown. The individuals within a group have common slope parameters, while parameter heterogeneity is allowed across the groups. A penalized least squares (PLS) approach is introduced for models with exogenous regressors. When the model contains endogenous regressors, a penalized generalized method of moment (PGMM) is introduced. To implement the proposed approach, an alternating direction method of multipliers algorithm has been developed. The proposed method is further illustrated by simulation studies which demonstrate the finite sample performance of the method, and is applied in an empirical analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Testing stochastic dominance with many conditioning variables
+AU  - Linton, Oliver
+AU  - Seo, Myung Hwan
+AU  - Whang, Yoon-Jae
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 507
+EP  - 527
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001191
+KW  - Conditional stochastic dominance
+KW  - Semiparametric location scale model
+KW  - Home bias
+KW  - LASSO
+KW  - Power boosting
+AB  - We propose tests of the conditional first- and second-order stochastic dominance in the presence of growing numbers of covariates. Our approach builds on a semiparametric location-scale model, where the conditional distribution of the outcome given the covariates is characterized by nonparametric mean and skedastic functions with independent innovations from an unknown distribution. The nonparametric regression functions are estimated by utilizing the ℓ1-penalized nonparametric series estimation with thresholding. Deviation bounds for the regression functions and series coefficients estimates are obtained allowing for the time series dependence. We propose test statistics, which are the maximum (integrated) deviation of a composite of the estimated regression functions and the residual empirical distribution, and introduce a smooth stationary bootstrap to compute p-values. We investigate the finite sample performance of the bootstrap critical values by a set of Monte Carlo simulations. Finally, our method is illustrated by an application to stochastic dominance among portfolio returns given all the past information.
+ER  - 
+
+TY  - JOUR
+T1  - Distinguishing incentive from selection effects in auction-determined contracts
+AU  - Lamy, Laurent
+AU  - Patnam, Manasa
+AU  - Visser, Michael
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1172
+EP  - 1202
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001828
+KW  - Econometrics of auctions
+KW  - Econometrics of contracts
+KW  - Endogenous matching
+KW  - Polychotomous sample selection
+KW  - Price-performance elasticity
+AB  - This paper develops a novel approach to estimate how contract and principal–agent characteristics influence a post-auction outcome when the matching between agents and principals derives from an auction process. We propose a control-function approach to account jointly for the endogeneity of contracts and matching. This consists of, first, estimating the primitives of an interdependent values auction model – which is shown to be non-parametrically identified from the bidding data – second, constructing control functions based on the distribution of the unobserved private signals conditional on the auction outcome. A Monte Carlo study shows that our augmented outcome equation corrects the endogeneity biases well, even in small samples. We apply our methodology to a labor market application and estimate the effect of sports players’ auction-determined wages on their individual performances. We also use our structural estimates to evaluate the strength of matching inefficiencies and assess counterfactual reservation wage policies.
+ER  - 
+
+TY  - JOUR
+T1  - Semi-nonparametric estimation of random coefficients logit model for aggregate demand
+AU  - Lu, Zhentong
+AU  - Shi, Xiaoxia
+AU  - Tao, Jing
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 2245
+EP  - 2265
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001458
+KW  - Demand estimation
+KW  - Differentiated products
+KW  - Random coefficients logit
+KW  - Semi-nonparametric estimation
+AB  - In this paper, we propose a two-step semi-nonparametric estimator for the widely used random coefficients logit demand model. The approach applies to the same setup as Berry et al. (1995, BLP)-type of models with many products, but has the advantage of not requiring computing demand inversion. In particular, the first step of our approach estimates the fixed coefficients via a computationally very easy linear sieve generalized method of moments (GMM). The second step uncovers the distribution of the random coefficient via a sieve minimum distance or GMM procedure. We show identification and derive the asymptotic properties of the estimator in a large market environment. Monte Carlo simulations and empirical illustrations support the theoretical results and demonstrate the usefulness of our estimator in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification and estimation with discrete instruments and regressors
+AU  - Loh, Isaac
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1257
+EP  - 1279
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001907
+KW  - Nonparametric
+KW  - Instrumental variables
+KW  - Identification
+AB  - In a nonparametric instrumental regression model in which the regressor and instrument are discretely distributed, we strengthen the conventional moment independence assumption between instrument and residual to include higher order moments. We give conditions under which a function of interest is partially identified when the regressor has more mass points than the instrument. We also show that the function is point identified as long as certain latent parameters corresponding to conditional moments of the residual lie outside of a set of measure zero. We give an asymptotically normal estimator for the structural function when it is point identified. We also provide a straightforward method for inference under partial identification. These perform well in Monte-Carlo simulations and in two empirical applications.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform and Lp convergences for nonparametric continuous time regressions with semiparametric applications
+AU  - Bu, Ruijun
+AU  - Kim, Jihyun
+AU  - Wang, Bin
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 2
+SP  - 1934
+EP  - 1954
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000726
+KW  - Recurrent diffusion
+KW  - Kernel estimation
+KW  - Uniform convergence
+KW  -  convergence
+KW  - Non/semiparametric model
+KW  - Predictability
+KW  - Robust inference
+AB  - We obtain uniform and Lp convergence rates of kernel type nonparametric estimators for the instantaneous conditional mean and variance functions of continuous time regressions, where the regressor is assumed to be a general recurrent diffusion. Our asymptotics are developed under a general set-up, with a shrinking sampling interval and an increasing time span, and without the stationarity assumption. Based on our convergence results, we develop a semiparametric inferential procedure for continuous time predictive regressions. In particular, a robust semiparametric likelihood ratio test for linear predictability is proposed, with its limit distribution established. We also apply our convergence results to obtain the asymptotics of a semiparametric maximum likelihood estimator of the drift of recurrent diffusions. In our simulation study, we examine the finite sample performance of our robust test against several existing tests in the literature. An empirical illustration is presented to test the predictability of the excess returns of two major stock indices using the commonly used dividend–price ratio and earnings–price ratio as the predictor.
+ER  - 

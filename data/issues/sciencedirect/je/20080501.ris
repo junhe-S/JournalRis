@@ -1,0 +1,323 @@
+TY  - JOUR
+T1  - Mixtures of t-distributions for finance and forecasting
+AU  - Giacomini, Raffaella
+AU  - Gottschling, Andreas
+AU  - Haefke, Christian
+AU  - White, Halbert
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 175
+EP  - 192
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000055
+KW  - ARMA–GARCH models
+KW  - Neural networks
+KW  - Nonparametric density estimation
+KW  - Forecast accuracy
+KW  - Option pricing
+KW  - Risk-neutral density
+AB  - We explore convenient analytic properties of distributions constructed as mixtures of scaled and shifted t-distributions. Particularly desirable for econometric applications are closed-form expressions for antiderivatives (e.g., the cumulative density function). We illustrate the usefulness of these distributions in two applications. In the first application, we produce density forecasts of U.S. inflation and show that these forecasts are more accurate, out-of-sample, than density forecasts obtained using normal or standard t-distributions. In the second application, we replicate the option-pricing exercise of Abadir and Rockinger [Density functionals, with an option-pricing application. Econometric Theory 19, 778–811.] and obtain comparably good results, while gaining analytical tractability.
+ER  - 
+
+TY  - JOUR
+T1  - Local polynomial estimation of nonparametric simultaneous equations models
+AU  - Su, Liangjun
+AU  - Ullah, Aman
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 193
+EP  - 218
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000067
+KW  - Additive nonparametric regression
+KW  - Instrumental variables
+KW  - Local polynomial regression
+KW  - Structural models
+AB  - We define a new procedure for consistent estimation of nonparametric simultaneous equations models under the conditional mean independence restriction of Newey et al. [1999. Nonparametric estimation of triangular simultaneous equation models. Econometrica 67, 565–603]. It is based upon local polynomial regression and marginal integration techniques. We establish the asymptotic distribution of our estimator under weak data dependence conditions. Simulation evidence suggests that our estimator may significantly outperform the estimators of Pinkse [2000. Nonparametric two-step regression estimation when regressors and errors are dependent. Canadian Journal of Statistics 28, 289–300] and Newey and Powell [2003. Instrumental variable estimation of nonparametric models. Econometrica 71, 1565–1578].
+ER  - 
+
+TY  - JOUR
+T1  - More efficient estimation under non-normality when higher moments do not depend on the regressors, using residual augmented least squares
+AU  - Im, Kyung So
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 219
+EP  - 233
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000079
+KW  - Non-normality
+KW  - Efficiency
+AB  - Under normality, least squares is efficient. However, if the errors are not normal, we can gain efficiency from the assertion that higher moments do not depend on the regressors. In this paper, we show how the assumption that higher moments do not depend on the regressors can be exploited in a GMM framework, and we provide simple estimators that are asymptotically equivalent to the GMM estimators. These estimators can be calculated by linear regressions which have been augmented with functions of the least squares residuals.
+ER  - 
+
+TY  - JOUR
+T1  - A semi-parametric Bayesian approach to the instrumental variable problem
+AU  - Conley, Timothy G.
+AU  - Hansen, Christian B.
+AU  - McCulloch, Robert E.
+AU  - Rossi, Peter E.
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 276
+EP  - 305
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000171
+KW  - Instrumental variables
+KW  - Semi-parametric Bayesian inference
+KW  - Dirichlet process priors
+AB  - We develop a Bayesian semi-parametric approach to the instrumental variable problem. We assume linear structural and reduced form equations, but model the error distributions non-parametrically. A Dirichlet process prior is used for the joint distribution of structural and instrumental variable equations errors. Our implementation of the Dirichlet process prior uses a normal distribution as a base model. It can therefore be interpreted as modeling the unknown joint distribution with a mixture of normal distributions with a variable number of mixture components. We demonstrate that this procedure is both feasible and sensible using actual and simulated data. Sampling experiments compare inferences from the non-parametric Bayesian procedure with those based on procedures from the recent literature on weak instrument asymptotics. When errors are non-normal, our procedure is more efficient than standard Bayesian or classical methods.
+ER  - 
+
+TY  - JOUR
+T1  - Learning and the value of information: Evidence from health plan report cards
+AU  - Chernew, Michael
+AU  - Gowrisankaran, Gautam
+AU  - Scanlon, Dennis P.
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 156
+EP  - 174
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000031
+KW  - Information
+KW  - Uncertainty
+KW  - Bayesian learning models
+KW  - Health plan choice
+KW  - Health plan quality
+KW  - Managed care
+KW  - Report cards
+AB  - This paper develops a framework to analyze the value of information in the context of health plan choice. We use a Bayesian learning model to estimate the impact and value of information using data from a large employer, which started distributing health plan ratings to its employees in 1997. We estimate the parameters of the model with simulated maximum likelihood, and use the estimates to quantify the value of the report card information. We model both continuous specifications with Gaussian priors and signals, and discrete specifications with Beta priors and Binomial signals. We find that the release of information had a statistically significant effect on health plan choices. Consumers were willing to pay about $330 per year per below expected performance rating avoided, and the average value of the report card per employee was about $20 per year. We find large variation in valuations across different performance domains, but no significant evidence of heterogeneity based on observable employee characteristics or unobservable dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - Weak identification robust tests in an instrumental quantile model
+AU  - Jun, Sung Jae
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 118
+EP  - 138
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607002576
+KW  - Quantile regression
+KW  - Instruments
+KW  - GMM
+KW  - Weak identification
+AB  - We develop a testing procedure that is robust to identification quality in an instrumental quantile model. In order to reduce the computational burden, a multi-step approach is taken, and a two-step Anderson–Rubin (AR) statistic is considered. We then propose an orthogonal decomposition of the AR statistic, where the null distribution of each component does not depend on the assumption of a full rank of the Jacobian. Power experiments are conducted, and inferences on returns to schooling using the Angrist and Krueger data are considered as an empirical example.
+ER  - 
+
+TY  - JOUR
+T1  - Risk, jumps, and diversification
+AU  - Bollerslev, Tim
+AU  - Law, Tzuo Hann
+AU  - Tauchen, George
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 234
+EP  - 256
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000080
+KW  - Jump-diffusions
+KW  - Stock returns
+KW  - Diversification
+KW  - Tests for jumps
+KW  - Cojumps
+KW  - High-frequency data
+KW  - Bipower variation
+AB  - We test for price discontinuities, or jumps, in a panel of high-frequency intraday stock returns and an equiweighted index constructed from the same stocks. Using a new test for common jumps that explicitly utilizes the cross-covariance structure in the returns to identify non-diversifiable jumps, we find strong evidence for many modest-sized, yet highly significant, cojumps that simply pass through standard jump detection statistics when applied on a stock-by-stock basis. Our results are further corroborated by a striking within-day pattern in the significant cojumps, with a sharp peak at the time of regularly scheduled macroeconomic news announcements.
+ER  - 
+
+TY  - JOUR
+T1  - Partial identification of probability distributions with misclassified data
+AU  - Molinari, Francesca
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 81
+EP  - 117
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607002564
+KW  - Misclassification
+KW  - Partial identification
+KW  - Direct misclassification approach
+AB  - This paper addresses the problem of data errors in discrete variables. When data errors occur, the observed variable is a misclassified version of the variable of interest, whose distribution is not identified. Inferential problems caused by data errors have been conceptualized through convolution and mixture models. This paper introduces the direct misclassification approach. The approach is based on the observation that in the presence of classification errors, the relation between the distribution of the ‘true’ but unobservable variable and its misclassified representation is given by a linear system of simultaneous equations, in which the coefficient matrix is the matrix of misclassification probabilities. Formalizing the problem in these terms allows one to incorporate any prior information into the analysis through sets of restrictions on the matrix of misclassification probabilities. Such information can have strong identifying power. The direct misclassification approach fully exploits it to derive identification regions for any real functional of the distribution of interest. A method for estimating the identification regions and construct their confidence sets is given, and illustrated with an empirical analysis of the distribution of pension plan types using data from the Health and Retirement Study.
+ER  - 
+
+TY  - JOUR
+T1  - An analysis of Hansen–Scheinkman moment estimators for discretely and randomly sampled diffusions
+AU  - Aı¨t-Sahalia, Yacine
+AU  - Mykland, Per A.
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 1
+EP  - 26
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760700228X
+KW  - Diffusions
+KW  - Discrete sampling
+KW  - Random sampling
+KW  - Moment conditions
+KW  - Efficiency
+AB  - We derive closed-form expansions for the asymptotic distribution of Hansen and Scheinkman [1995. Back to the future: generating moment implications for continuous-time Markov processes. Econometrica 63, 767–804] moment estimators for discretely, and possibly randomly, sampled diffusions. This result makes it possible to select optimal moment conditions as well as to assess the efficiency of the resulting parameter estimators relative to likelihood-based estimators, or to an alternative type of moment conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood approximation by numerical integration on sparse grids
+AU  - Heiss, Florian
+AU  - Winschel, Viktor
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 62
+EP  - 80
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607002552
+KW  - Likelihood simulation
+KW  - Multivariate quadrature
+KW  - Mixed logit
+AB  - The calculation of likelihood functions of many econometric models requires the evaluation of integrals without analytical solutions. Approaches for extending Gaussian quadrature to multiple dimensions discussed in the literature are either very specific or suffer from exponentially rising computational costs in the number of dimensions. We propose an extension that is very general and easily implemented, and does not suffer from the curse of dimensionality. Monte Carlo experiments for the mixed logit model indicate the superior performance of the proposed method over simulation techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of nonlinear models with misclassification error using instrumental variables: A general solution
+AU  - Hu, Yingyao
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 27
+EP  - 61
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607002436
+KW  - Nonlinear errors-in-variables model
+KW  - Instrumental variable
+KW  - Misclassification error
+KW  - Matrix diagonalization
+AB  - This paper provides a general solution to the problem of identification and estimation of nonlinear models with misclassification error in a general discrete explanatory variable using instrumental variables. The misclassification error is allowed to be correlated with all the explanatory variables in the model. It is not enough to identify the model by simply generalizing the identification in the binary case with a claim that the number of restrictions is no less than that of the unknowns. Such a claim requires solving a complicated nonlinear system of equations. This paper introduces a matrix diagonalization technique which allows one to easily find the unique solution of the system. The solution shows that the latent model can be expressed as an explicit function of directly observed distribution functions. Therefore, the latent model is nonparametrically identifiable and directly estimable using instrumental variables. The results show that certain monotonicity restrictions on the latent model may lead to its identification with virtually no restrictions on the misclassification probabilities. An alternative identification condition suggests that the nonparametric identification may rely on the belief that people always have a higher probability of telling the truth than of misreporting. The nonparametric identification in this paper directly leads to a n-consistent semiparametric estimator. The Monte Carlo simulation and empirical illustration show that the estimator performs well with a finite sample and real data.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - IFC
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(08)00024-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000249
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation and testing of fixed effects panel data models
+AU  - Henderson, Daniel J.
+AU  - Carroll, Raymond J.
+AU  - Li, Qi
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 257
+EP  - 275
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800016X
+KW  - Fixed effects models
+KW  - Model specification tests
+KW  - Nonparametric kernel method
+KW  - Panel data
+KW  - Partially linear model
+KW  - Profile method
+KW  - Random effects models
+KW  - Semiparametric efficiency bound
+AB  - In this paper we consider the problem of estimating nonparametric panel data models with fixed effects. We introduce an iterative nonparametric kernel estimator. We also extend the estimation method to the case of a semiparametric partially linear fixed effects model. To determine whether a parametric, semiparametric or nonparametric model is appropriate, we propose test statistics to test between the three alternatives in practice. We further propose a test statistic for testing the null hypothesis of random effects against fixed effects in a nonparametric panel data regression model. Simulations are used to examine the finite sample performance of the proposed estimators and the test statistics.
+ER  - 
+
+TY  - JOUR
+T1  - Chain indices of the cost-of-living and the path-dependence problem: An empirical solution
+AU  - Oulton, Nicholas
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 306
+EP  - 324
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000201
+KW  - Index number
+KW  - Cost of living
+KW  - Divisia
+KW  - Konüs
+KW  - Chain
+KW  - Path-dependence
+KW  - Almost Ideal Demand System
+AB  - This paper proposes a new method for estimating true cost-of-living (Konüs) indices, for large numbers of commodities, using data only on prices, aggregate budget shares and aggregate expenditure. Conventional chain indices are path-dependent unless income elasticities are (implausibly) all equal to 1. The method allows this difficulty to be overcome. I show that to estimate a Konüs index, only income and not price elasticities are required. The method is applied to estimate a Konüs price index for 70 products covering nearly all the UK's Retail Prices Index over 1974–2004, using the Quadratic Almost Ideal Demand System. The choice of base year for utility has a significant effect on the index.
+ER  - 
+
+TY  - JOUR
+T1  - A non-parametric independence test using permutation entropy
+AU  - Matilla-García, Mariano
+AU  - Ruiz Marín, Manuel
+JO  - Journal of Econometrics
+VL  - 144
+IS  - 1
+SP  - 139
+EP  - 155
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800002X
+KW  - Entropy
+KW  - Independence
+KW  - I.i.d
+KW  - Invariance
+KW  - Nonlinear time series
+KW  - Symbolic dynamics
+KW  - Random walk
+AB  - In the present paper we construct a new, simple, consistent and powerful test for independence by using symbolic dynamics and permutation entropy as a measure of serial dependence. We also give a standard asymptotic distribution of an affine transformation of the permutation entropy under the null hypothesis of independence. The test statistic and its standard limit distribution are invariant to any monotonic transformation. The test applies to time series with discrete or continuous distributions. Eventhough the test is based on entropy measures, it avoids smoothed non-parametric estimation. An application to several daily financial time series illustrates our approach.
+ER  - 

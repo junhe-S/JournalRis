@@ -1,0 +1,312 @@
+TY  - JOUR
+T1  - Identification and estimation of spillover effects in randomized experiments
+AU  - Vazquez-Bare, Gonzalo
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105237
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621003067
+KW  - Spillover effects
+KW  - Treatment effects
+KW  - Causal inference
+KW  - Interference
+AB  - I study identification, estimation and inference for spillover effects in experiments where units’ outcomes may depend on the treatment assignments of other units within a group. I show that the commonly-used reduced-form linear-in-means regression identifies a weighted sum of spillover effects with some negative weights, and that the difference in means between treated and controls identifies a combination of direct and spillover effects entering with different signs. I propose nonparametric estimators for average direct and spillover effects that overcome these issues and are consistent and asymptotically normal under a precise relationship between the number of parameters of interest, the total sample size and the treatment assignment mechanism. These findings are illustrated using data from a conditional cash transfer program and with simulations. The empirical results reveal the potential pitfalls of failing to flexibly account for spillover effects in policy evaluation: the estimated difference in means and the reduced-form linear-in-means coefficients are all close to zero and statistically insignificant, whereas the nonparametric estimators I propose reveal large, nonlinear and significant spillover effects.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference in a high-dimensional semiparametric Gaussian copula vector autoregressive model
+AU  - Fan, Yanqin
+AU  - Han, Fang
+AU  - Park, Hyeonseok
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105513
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105513
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002294
+KW  - High-dimensional time series
+KW  - Sparse transition matrix
+KW  - -mixing
+KW  - Latent Gaussian process
+KW  - De-biasing inference
+KW  - Kendall’s tau
+AB  - This paper develops simple, robust estimation and inference methods for the transition matrix of a high-dimensional semiparametric Gaussian copula vector autoregressive process. Our estimator is based on rank estimators of the large variance and auto-covariance matrices of a transformed latent high-dimensional Gaussian process. We derive rates of convergence of our estimator based on which we develop de-biased inference for Granger causality. Numerical results demonstrate the efficacy of the proposed methods. Although our focus is on the observable process, by the nature of rank estimators, all the methods developed directly apply to the transformed latent process. In technical terms, our analysis relies heavily on newly developed exponential inequalities for (degenerate) U-statistics under α-mixing condition.
+ER  - 
+
+TY  - JOUR
+T1  - Inference under covariate-adaptive randomization with imperfect compliance
+AU  - Bugni, Federico A.
+AU  - Gao, Mengsi
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105497
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105497
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002130
+KW  - Covariate-adaptive randomization
+KW  - Stratified block randomization
+KW  - Treatment assignment
+KW  - Randomized controlled trial
+KW  - Strata fixed effects
+KW  - Saturated regression
+KW  - Imperfect compliance
+AB  - This paper studies inference in a randomized controlled trial (RCT) with covariate-adaptive randomization (CAR) and imperfect compliance of a binary treatment. In this context, we study inference on the local average treatment effect (LATE), i.e., the average treatment effect conditional on individuals that always comply with the assigned treatment. As in Bugni et al. (2018, 2019), CAR refers to randomization schemes that first stratify according to baseline covariates and then assign treatment status so as to achieve “balance” within each stratum. In contrast to these papers, however, we allow participants of the RCT to endogenously decide to comply or not with the assigned treatment status. We study the properties of an estimator of the LATE derived from a “fully saturated” instrumental variable (IV) linear regression, i.e., a linear regression of the outcome on all indicators for all strata and their interaction with the treatment decision, with the latter instrumented with the treatment assignment. We show that the proposed LATE estimator is asymptotically normal, and we characterize its asymptotic variance in terms of primitives of the problem. We provide consistent estimators of the standard errors and asymptotically exact hypothesis tests. In the special case when the target proportion of units assigned to each treatment does not vary across strata, we can also consider two other estimators of the LATE, including the one based on the “strata fixed effects” IV linear regression, i.e., a linear regression of the outcome on indicators for all strata and the treatment decision, with the latter instrumented with the treatment assignment. Our characterization of the asymptotic variance of the LATE estimators in terms of the primitives of the problem allows us to understand the influence of the parameters of the RCT. We use this to propose strategies to minimize their asymptotic variance in a hypothetical RCT based on data from a pilot study. We illustrate the practical relevance of these results using a simulation study and an empirical application based on Dupas et al. (2018).
+ER  - 
+
+TY  - JOUR
+T1  - Linear panel regressions with two-way unobserved heterogeneity
+AU  - Freeman, Hugo
+AU  - Weidner, Martin
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105498
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105498
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002142
+KW  - Panel data
+KW  - Interactive fixed-effects
+KW  - Grouped fixed-effects
+AB  - We study linear panel regression models in which the unobserved error term is an unknown smooth function of two-way unobserved fixed effects. In standard additive or interactive fixed effect models the individual specific and time specific effects are assumed to enter with a known functional form (additive or multiplicative). In this paper, we allow for this functional form to be more general and unknown. We discuss two different estimation approaches that allow consistent estimation of the regression parameters in this setting as the number of individuals and the number of time periods grow to infinity. The first approach uses the interactive fixed effect estimator in Bai (2009), which is still applicable here, as long as the number of factors in the estimation grows asymptotically. The second approach first discretizes the two-way unobserved heterogeneity (similar to what Bonhomme et al., 2021 are doing for one-way heterogeneity) and then estimates a simple linear fixed effect model with additive two-way grouped fixed effects. For both estimation methods we obtain asymptotic convergence results, perform Monte Carlo simulations, and employ the estimators in an empirical application to UK house price data.
+ER  - 
+
+TY  - JOUR
+T1  - Stable outcomes and information in games: An empirical framework
+AU  - Koh, Paul S.
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105499
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105499
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002154
+KW  - Estimation of games
+KW  - Bayes stable equilibrium
+KW  - Informational robustness
+KW  - Partial identification
+KW  - Burger industry
+AB  - Empirically, many strategic settings are characterized by stable outcomes in which players’ decisions are publicly observed, yet no player takes the opportunity to deviate. To analyze such situations in the presence of incomplete information, we build an empirical framework by introducing a novel solution concept that we call Bayes stable equilibrium and computationally tractable approaches for estimation and inference. Our framework allows the researcher to be agnostic about players’ information and the equilibrium selection rule. In an application, we study the strategic entry decisions of McDonald’s and Burger King in the US. While the Bayes stable equilibrium identified set is always (weakly) tighter than the Bayes correlated equilibrium identified set, our results show that the former can be substantially tighter in practice. In a counterfactual experiment, we examine the impact of increasing access to healthy food on the market structures in Mississippi food deserts.
+ER  - 
+
+TY  - JOUR
+T1  - Econometric inference on a large Bayesian game with heterogeneous beliefs
+AU  - Kojevnikov, Denis
+AU  - Song, Kyungchul
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105502
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105502
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300218X
+KW  - Large game
+KW  - Incomplete information
+KW  - Heterogeneous beliefs
+KW  - Bayesian equilibria
+KW  - Ex post stability
+KW  - Hindsight regrets
+KW  - Cross-sectional dependence
+KW  - Partial identification
+KW  - Moment inequalities
+AB  - Econometric models of strategic interactions among people or firms have received a great deal of attention in the literature. Less attention has been paid to the role of the underlying assumptions about the way agents form beliefs about other agents. We focus on a single large Bayesian game with idiosyncratic strategic neighborhoods and develop an approach of empirical modeling that relaxes the assumption of rational expectations and allows the players to form beliefs differently. By drawing on the main intuition of Kalai (2004), we introduce the notion of hindsight regret, which measures each player’s ex-post value of other players’ type information, and obtain the belief-free bound for the hindsight regret. Using this bound, we derive testable implications and develop a bootstrap inference procedure for the structural parameters. Our inference method is uniformly valid regardless of the size of strategic neighborhoods and tends to exhibit high power when the neighborhoods are large. We demonstrate the finite sample performance of the method through Monte Carlo simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of mixtures of dynamic discrete choices
+AU  - Higgins, Ayden
+AU  - Jochmans, Koen
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105462
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001562
+KW  - Discrete choice
+KW  - Heterogeneity
+KW  - Markov process
+KW  - Mixture
+KW  - State dependence
+AB  - This paper provides new identification results for finite mixtures of Markov processes. Our arguments yield identification from knowledge of the cross-sectional distribution of three (or more) effective time-series observations under simple conditions. We explain how our approach and results are different from those in previous work by Kasahara and Shimotsu (2009) and Hu and Shum (2012). Most notably, outside information, such as monotonicity restrictions that link conditional distributions to latent types, is not needed.
+ER  - 
+
+TY  - JOUR
+T1  - Under-identification of structural models based on timing and information set assumptions
+AU  - Ackerberg, Daniel A.
+AU  - Frazer, Garth
+AU  - Kim, Kyoo il
+AU  - Luo, Yao
+AU  - Su, Yingjun
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105463
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001574
+KW  - Production function
+KW  - Identification
+KW  - Timing and information set assumptions
+KW  - Market persistence factor
+AB  - We revisit identification based on timing and information set assumptions in structural models, which have been used in the context of production functions, demand equations, and hedonic pricing models (e.g. Olley and Pakes, 1996, Blundell and Bond, 2000). First, we demonstrate a general under-identification problem using these assumptions in a simple version of the Blundell–Bond dynamic panel model. In particular, the basic moment conditions can yield multiple discrete solutions: one at the persistence parameter in the main equation and another at the persistence parameter governing the regressor. We then propose a possible solution in the simple setting by enforcing an assumed sign restriction and discuss more general practical advice for empirical researchers using these methods.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive robust large volatility matrix estimation based on high-frequency financial data
+AU  - Shin, Minseok
+AU  - Kim, Donggyu
+AU  - Fan, Jianqing
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105514
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105514
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002300
+KW  - Heterogeneity
+KW  - Tail index
+KW  - Pre-averaging
+KW  - Minimax lower bound
+KW  - Optimality
+KW  - POET
+KW  - Factor model
+AB  - Several novel statistical methods have been developed to estimate large integrated volatility matrices based on high-frequency financial data. To investigate their asymptotic behaviors, they require a sub-Gaussian or finite high-order moment assumption for observed log-returns, which cannot account for the heavy-tail phenomenon of stock-returns. Recently, a robust estimator was developed to handle heavy-tailed distributions with some bounded fourth-moment assumption. However, we often observe that log-returns have heavier tail distribution than the finite fourth-moment and that the degrees of heaviness of tails are heterogeneous across asset and over time. In this paper, to deal with the heterogeneous heavy-tailed distributions, we develop an adaptive robust integrated volatility estimator that employs pre-averaging and truncation schemes based on jump-diffusion processes. We call this an adaptive robust pre-averaging realized volatility (ARP) estimator. We show that the ARP estimator has a sub-Weibull tail concentration with only finite 2α-th moments for any α>1. In addition, we establish matching upper and lower bounds to show that the ARP estimation procedure is optimal. To estimate large integrated volatility matrices using the approximate factor model, the ARP estimator is further regularized using the principal orthogonal complement thresholding (POET) method. The numerical study is conducted to check the finite sample performance of the ARP estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Penetrating sporadic return predictability
+AU  - Tu, Yundong
+AU  - Xie, Xinling
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105509
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105509
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002257
+KW  - Break point
+KW  - Persistence imbalance
+KW  - Predictive regression
+KW  - Screening
+KW  - Shrinkage estimation
+AB  - Return predictability has been one of the central research questions in finance for many decades. This paper proposes a predictive regression with multiple structural changes to capture the sporadic predictive ability of potential predictors for the return series. An adaptive group Lasso procedure, augmented with a forward regression for break screening, is adopted to efficiently and consistently identify the structural breaks in the predictive regression, with predictors exhibiting low signal strength and heterogeneous degrees of persistence. To enhance the prediction accuracy, adaptive Lasso is further used to eliminate the irrelevant predictors and is shown to achieve the oracle property. Simulation studies demonstrate the effectiveness of the proposed methods in break detection and predictor selection, and further show that ignoring structural breaks could abate predictability. The application to predicting U.S. equity premium illustrates the practical merits of our methodology in revealing return predictability that changes over time.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of dynamic binary response models
+AU  - Khan, S.
+AU  - Ponomareva, M.
+AU  - Tamer, E.
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105515
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105515
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002312
+KW  - Binary choice
+KW  - Dynamic panel data
+KW  - Fixed effects
+KW  - Partial identification
+AB  - We consider identification of parameters in dynamic binary response models with panel data under minimal assumptions. This model is prominent in empirical economics as it has been used to infer state dependence in the presence of unobserved heterogeneity. The main results in our paper are characterizations of the identified set under weak assumptions. The results generalize the existing literature in several directions: (1) we do not require any restrictions on the support of the observables; for example, we allow for time trends, time dummies, and/or only discrete covariates; (2) we only maintain that the idiosyncratic error terms are stationary over time conditional on the fixed effect and the covariates (without conditioning on initial conditions) and without imposing a parametric distribution on the distribution of these error terms; (3) we show that it is possible to get point identification in some cases even with T=2 (two time periods). We also construct examples of identified sets in some designs to illustrate the informational content of different assumptions.
+ER  - 
+
+TY  - JOUR
+T1  - A new generalized exponentially weighted moving average quantile model and its statistical inference
+AU  - Zhu, Ke
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105510
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105510
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002269
+KW  - Conditional quantile
+KW  - Generalized exponentially weighted moving average quantile model
+KW  - Quantile time series model
+KW  - Value at risk
+AB  - The exponentially weighting scheme is a simple and pragmatic approach to compute the value at risk (VaR). However, the existing exponentially weighting methods lack a sound statistical inference procedure. To circumvent this deficiency, this paper proposes a new generalized exponentially weighted moving average (GEWMA) quantile model, which allows a much broader weighting scheme than the benchmark one used in “Risk Metrics” document. For the GEWMA quantile model, a systematic statistical inference procedure is provided, including the weighted estimators for the weighting parameters, a t-test for the stability of the conditional quantile, another t-test for the mean invariance of the conditional quantile, a unit root test for the absence of intercept term, and several dynamic quantile tests for the model checking. Under mild conditions, the asymptotics of all proposed estimators and tests are established. Simulations show that all proposed estimators and tests have good finite-sample performances. Applications to four major exchange rates demonstrate that the weighting scheme suggested by “Risk Metrics” document is inappropriate, and the GEWMA quantile model delivers better VaR predictions than its many competitive methods. As an extension, the asymmetric GEWMA quantile model is also studied.
+ER  - 
+
+TY  - JOUR
+T1  - What is a standard error?
+AU  - Gelman, Andrew
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105516
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105516
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002324
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105539
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00255-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002555
+ER  - 
+
+TY  - JOUR
+T1  - What is uncertainty in today’s practice of data science?
+AU  - Yu, Bin
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105519
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105519
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300235X
+ER  - 
+
+TY  - JOUR
+T1  - Discussion of “What is a standard error?”
+AU  - Powell, James L.
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 1
+SP  - 105518
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105518
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002348
+ER  - 

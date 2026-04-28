@@ -1,0 +1,101 @@
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 1
+SP  - IFC
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(13)00097-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000973
+ER  - 
+
+TY  - JOUR
+T1  - First difference maximum likelihood and dynamic panel estimation
+AU  - Han, Chirok
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 1
+SP  - 35
+EP  - 45
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000572
+KW  - Asymptote
+KW  - Bounded support
+KW  - Dynamic panel
+KW  - Efficiency
+KW  - First difference MLE
+KW  - Likelihood
+KW  - Quartic equation
+KW  - Restricted extremum estimator
+AB  - First difference maximum likelihood (FDML) seems an attractive estimation methodology in dynamic panel data modeling because differencing eliminates fixed effects and, in the case of a unit root, differencing transforms the data to stationarity, thereby addressing both incidental parameter problems and the possible effects of nonstationarity. This paper draws attention to certain pathologies that arise in the use of FDML that have gone unnoticed in the literature and that affect both finite sample performance and asymptotics. FDML uses the Gaussian likelihood function for first differenced data and parameter estimation is based on the whole domain over which the log-likelihood is defined. However, extending the domain of the likelihood beyond the stationary region has certain consequences that have a major effect on finite sample and asymptotic performance. First, the extended likelihood is not the true likelihood even in the Gaussian case and it has a finite upper bound of definition. Second, it is often bimodal, and one of its peaks can be so peculiar that numerical maximization of the extended likelihood frequently fails to locate the global maximum. As a result of these pathologies, the FDML estimator is a restricted estimator, numerical implementation is not straightforward and asymptotics are hard to derive in cases where the peculiarity occurs with non-negligible probabilities. The peculiarities in the likelihood are found to be particularly marked in time series with a unit root. In this case, the asymptotic distribution of the FDMLE has bounded support and its density is infinite at the upper bound when the time series sample size T→∞. As the panel width n→∞ the pathology is removed and the limit theory is normal. This result applies even for T fixed and we present an expression for the asymptotic distribution which does not depend on the time dimension. We also show how this limit theory depends on the form of the extended likelihood.
+ER  - 
+
+TY  - JOUR
+T1  - Nelson–Plosser revisited: The ACF approach
+AU  - Abadir, Karim M.
+AU  - Caggiano, Giovanni
+AU  - Talmain, Gabriel
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 1
+SP  - 22
+EP  - 34
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000419
+AB  - We detect a new stylized fact that is common to the dynamics of all macroeconomic series, including financial aggregates. Their Auto-Correlation Functions (ACFs) share a common four-parameter functional form that arises from the dynamics of a general equilibrium model with heterogeneous firms. We find that, not only does our formula fit the data better than the ACFs that arise from auto-regressive and fractionally-integrated models, but it also yields the correct shape of the ACF, thus explaining the lags with which macroeconomic variables evolve and the onset of seemingly-sudden turning points. This finding puts a premium on quick and decisive macroeconomic policy interventions at the first signs of a turning point, in contrast to gradualist approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of a nonlinear panel data model with semiparametric individual effects
+AU  - Gayle, Wayne-Roy
+AU  - Namoro, Soiliou Daw
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 1
+SP  - 46
+EP  - 59
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000614
+KW  - Semiparametric estimation
+KW  - Modified backfitting
+KW  - Panel data
+KW  - Nonlinear models
+AB  - This paper investigates identification and estimation of a class of nonlinear panel data, single-index models. The model allows for unknown time-specific link functions, and semiparametric specification of the individual-specific effects. We develop an estimator for the parameters of interest, and propose a powerful new kernel-based modified backfitting algorithm to compute the estimator. We derive uniform rates of convergence results for the estimators of the link functions, and show the estimators of the finite-dimensional parameters are root-N consistent with a Gaussian limiting distribution. We study the small sample properties of the estimator via Monte Carlo techniques.
+ER  - 
+
+TY  - JOUR
+T1  - The performance of estimators based on the propensity score
+AU  - Huber, Martin
+AU  - Lechner, Michael
+AU  - Wunsch, Conny
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 1
+SP  - 1
+EP  - 21
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000390
+KW  - Propensity score matching
+KW  - Kernel matching
+KW  - Inverse probability weighting
+KW  - Inverse probability tilting
+KW  - Selection on observables
+KW  - Empirical Monte Carlo study
+KW  - Finite sample properties
+AB  - We investigate the finite sample properties of a large number of estimators for the average treatment effect on the treated that are suitable when adjustment for observed covariates is required, like inverse probability weighting, kernel and other variants of matching, as well as different parametric models. The simulation design used is based on real data usually employed for the evaluation of labour market programmes in Germany. We vary several dimensions of the design that are of practical importance, like sample size, the type of the outcome variable, and aspects of the selection process. We find that trimming individual observations with too much weight as well as the choice of tuning parameters are important for all estimators. A conclusion from our simulations is that a particular radius matching estimator combined with regression performs best overall, in particular when robustness to misspecifications of the propensity score and different types of outcome variables is considered an important property.
+ER  - 

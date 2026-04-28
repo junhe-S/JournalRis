@@ -1,0 +1,234 @@
+TY  - JOUR
+AB  - This paper has presented a model for solving a central problem of short-term financial management — cash planning and credit-line determination. The core of the model is an algorithmic procedure for finding the best cash plan and the associated credit line for a given operating plan and long-term financial plan. Since the model requires a computation of cash balances, it must be embedded in a financial statement simulator.The two keys to the model are:1. the use of priority rankings in specifying the order in which assets and liabilities are used to change cash balances;2. the separation of solution constraints into two classes—consistency conditions given by C1, C2, and C3 and feasibility conditions stated in C4, C5, and C6. The latter conditions require changes in the long-term plan (or the operating plan) to obtain feasibility of the short-term plan.The use of priority rankings and the separation of solution constraints into these two classes makes possible the formulation of an algorithmic procedure that is computationally efficient and that avoids having to solve a
+mathematical programming problem.The benefits of the model are: (1) saved time; (2) increased accuracy in cash planning; (3) quick determination of infeasibility with respect to the short-term plan. For a firm already using financial statement simulation, the model is sufficiently easy to program and implement so that saved user time and system expense alone easily justify the cost of developing the system. Finally, a system that automatically handles short-term cash planning is critical for other areas of short-term planning, for meaningful sensitivity analysis, and for long-term financial planning for firms (such as General Recreation) for which a substantial part of the total financing is provided by either credit-line borrowing or commercial paper issuance.Because of the similarity of both banking and financial practice across firms and banks, the basic approach used in this model is applicable to most nonfinancial corporations.
+AU  - Stone, Bernell K.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329978
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 711-729
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Cash Planning and Credit-Line Determination With a Financial Statement Simulator: A Case Report on Short-Term Financial Planning
+UR  - https://www.cambridge.org/core/product/FA8B66042D1D5E30D275B4C79ABCF740
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - A firm periodically makes three major classes of decisions that determine its structure as reflected on its balance sheet. The first relates to the total amount of investment as well as the distribution of this total amount among different types of assets. This decision determines the size of the firm and the structure of the “assets” side of its balance sheet. The second is concerned with the relative proportion of equity versus debt capital to be used in financing the firm. This decision determines the structure of the “sources” side of the balance sheet by establishing relative sizes of liabilities and stockholders' worth. The third is the choice of the proportion of the equity which should be raised through the retention of earnings and the proportion to be raised through the sale of new stock. This decision determines the dividends that will be distributed and the composition of the stockholders' worth portion of the balance sheet.
+AU  - Inselbag, Isik
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329981
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 763-776
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Financing Decisions and the Theory of the Firm
+UR  - https://www.cambridge.org/core/product/F63544B0C81D2D7515E606DCA303DFFE
+VL  - 8
+ER  - 
+TY  - JOUR
+DB  - Cambridge Core
+DO  - DOI: 10.1017/S0022109000019876
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 846-846
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Reprint from June 1973 Journal of Financial and Quantitative Analysis
+UR  - https://www.cambridge.org/core/product/E729E06B9718274181E958DE8F42A54D
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - The majority of corporate bonds are callable before maturity at the option of the issuer. Unlike other security options (warrants, convertible bonds, etc.), the call provision cannot be resold; its value can be realized only by exercising it. The problem is to choose the optimal time to perform refunding (including the alternative of not refunding before maturity).
+AU  - Kraus, Alan
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329983
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 793-806
+T2  - Journal of Financial and Quantitative Analysis
+TI  - The Bond Refunding Decision in an Efficient Market
+UR  - https://www.cambridge.org/core/product/E1B4F779692D10340B6AE3458674B328
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - One of the most important innovations in bond financing and in mortgage lending has been the rapid adoption of variable-rate instruments in recent years. Notes and bonds bearing an interest rate between one and two percentage points above the prime rate are becoming common in corporate financing. Similarly, variable-rate mortgages (VRM's) with the interest rate tied to the deposit rate of S&amp;L's or linked to the changing yields on competing investments have spread beyond Florida and California to many states. The Federal Home Loan Bank Board has recently endorsed the variable-rate concept and the Federal Home Loan Mortgage Corporation is preparing guidelines for secondary market operations in VRM's. Portfolio managers are thus taking note of the possibility of acquiring long-term instruments providing some of the resiliency of yields and a measure of real value protection characteristic of short-term issues.
+AU  - von Furstenberg, George M.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329984
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 807-819
+T2  - Journal of Financial and Quantitative Analysis
+TI  - The Equilibrium Spread between Variable Rates and Fixed Rates on Long-Term Financing Instruments
+UR  - https://www.cambridge.org/core/product/C3E56F0D48CA87D5EE5D66D5B9C0CB95
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - The attempt to incorporate securities market imperfections other than proportional taxes within a mean-variance security valuation context has met with modest success. Lintner [5], however, has recently considered imperfections by the device of segmented markets. His paper has motivated the following taxonomy. Securities markets are defined as weakly segmented if some of the securities in at least one market are available to some investors but not to others, partially segmented if the sets containing both investors and available securities in each market are disjoint, and completely segmented if additionally the sets of firms in each market are disjoint. Segmented markets effectively relax the separation property of mean-variance equilibrium models (i.e., all investors, irrespective of differences in present wealth or preferences, divide their wealth between the same two mutual funds; one is risk-free and the other is the market portfolio of risky securities). This property unfortunately implies that each investor must hold a portion of every available risky security. This is empirically unrealistic, primarily due to restrictions on borrowing and shorting and scale economies in security analysis and brokerage. Moreover, even in the absence of these complications, ownership of nonmarketable assets, nonhomogeneous beliefs, or breakdown of the separation property due to tastes or nonnormality will motivate individuals to hold different risky portfolios. The device of segmented markets embodies in extreme form these obstacles to diversification and portfolio similarity.
+AU  - Rubinstein, Mark E.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329980
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 749-761
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Corporate Financial Policy in Segmented Securities Markets
+UR  - https://www.cambridge.org/core/product/A3CB22842F8CEE52693DAC2DC0770034
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - The evolution of corporate capital structure theory in the literature of finance has been marked by the development of an increasingly imaginative rendition of market processes under conditions of uncertainty. Trade-offs between debt and equity sources of financing, and their consequent impact on shareholder wealth, have been the major concern. While the evolution is by no means complete, the notion of an efficient capital market in which investor decisions are focused on security portfolio building activities has provided significant insights into the range of opportunities open to corporate management to enhance share valuation through enlightened financing decisions. One measure of the gap between theory and application, however, can be found in the topics which thus far have not been effectively comprehended in the literature, even though the analytical technology is clearly available. Among those topics is the question of convertible debt financing as a capital structure component. The treatment of such a funds source remains essentially in the realm of folklore, the typical story being that convertibles contain the “best elements” of both equity and straight debt or that they provide a vehicle for issuing equity at a “bonus” price higher than the current price. Closer examination reveals that either view is arrant nonsense, and it is to a demonstration of this point that the present paper is addressed.
+AU  - Lewellen, Wilbur G.
+AU  - Racette, George A.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329982
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 777-792
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Convertible Debt Financing
+UR  - https://www.cambridge.org/core/product/A0BD682B833EEFC24F66CAE58EE6904B
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - Intelligent corporate financial planning has been necessary for as long as the corporate form of business enterprise has existed. Only in recent years, however, have computer technology and academic theorizing been harnessed to meet this practical need. Without wishing to minimize the impact and value of these efforts on the practice of corporate finance, we do think there are grounds for believing that the new finance “tools” have been less than maximally effective. In this article we contrast typical financial modeling theory in order to interpret the gap between the two. Then we describe a financial policy model whose characteristics might be expected to be more acceptable in practice. Finally, we discuss the implications of the theory/practice gap and our experience with this model for future scholarly activities in the modeling of financial policies.
+AU  - Carleton, Willard T.
+AU  - Dick, Charles L.
+AU  - Downes, David H.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329977
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 691-709
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Financial Policy Models: Theory and Practice
+UR  - https://www.cambridge.org/core/product/99E3EC72BA885B74DF62137BC4F4E9BD
+VL  - 8
+ER  - 
+TY  - JOUR
+DB  - Cambridge Core
+DO  - DOI: 10.1017/S0022109000019748
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - f1-f5
+T2  - Journal of Financial and Quantitative Analysis
+TI  - JFQ volume 8 issue 5 Cover and Front matter
+UR  - https://www.cambridge.org/core/product/829ABD77EFB95006CB67AED6A0331177
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - In this paper, a model is developed for deriving the implied fixed cost of a bond flotation. Using a sample of electric utility companies over the 1961–1970 period, implied fixed costs are computed for 318 bond issues. These fixed costs then are evaluated in an effort to cast light on whether companies behave optimally with respect to the size and frequency of bond issues. Regression results are consistent with the adjustment of debt issuing behavior in keeping with: (1) expectations about the future course of interest rates; (2) variable costs increasing at a decreasing rate with the size of individual issue; and (3) differences in the cost of carrying excess liquidity which arise from differences in quality rating. An estimate of the average fixed cost of issuing bonds is evaluated as is the debt issuing behavior of individual companies. Over all, the model and its testing give considerable insight into the implied fixed costs of issuing debt.
+AU  - Van Horne, James C.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329985
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 821-833
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Implied Fixed Costs of Long-Term Debt Issues
+UR  - https://www.cambridge.org/core/product/82423BEAC2C0FF0520A57F7F69D0BD0C
+VL  - 8
+ER  - 
+TY  - JOUR
+DB  - Cambridge Core
+DO  - DOI: 10.1017/S0022109000019864
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 842-844
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Announcements
+UR  - https://www.cambridge.org/core/product/60E9E26D20BA9BD29259065358397E4C
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - It has been discovered in the context of various stock valuation models (see [1], [2] and [4]) that the shareholder is indifferent to the proceeds (or subscription) price chosen in a preemptive rights offering of equity capital, provided that the total equity capital raised by the offering is fixed. In this note we generalize this result to any stock valuation model in which arbitrage is present and which values only the total amount of the new investment, that is, places no value on holding more (or fewer) shares with a lower (or higher) market price.
+AU  - Wakoff, Gary I.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329986
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 835-836
+T2  - Journal of Financial and Quantitative Analysis
+TI  - On Shareholders' Indifference to the Proceeds Price in Preemptive Rights Offerings
+UR  - https://www.cambridge.org/core/product/360807C972956745D23A050D803B9580
+VL  - 8
+ER  - 
+TY  - JOUR
+DB  - Cambridge Core
+DO  - DOI: 10.1017/S0022109000019852
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 837-841
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Index to Volume VIII 1973
+UR  - https://www.cambridge.org/core/product/29E34824B7C65488AAA42931CFDF7606
+VL  - 8
+ER  - 
+TY  - JOUR
+AB  - The earliest successes in developing asset management theory focusing predominantly on short-term optimization of physical stock flow systems are due to Masse [13]; Arrow, Harris, and Marschak [1]; and Whitin [22]. This led to the development of burgeoning literature on what has come to be known as “inventory theory” followed by its application to cash management problems by Baumol [2]. In contrast to the conventional static analysis of Tobin [19] and Markowitz [12], Baumol's model incorporates what Hicks [11] referred to as “frictions” or the adjustment costs. More recently the pioneering works by Miller and Orr [14] Eppen and Fama [3], Weitzman [20], and Sethi [4] have sought to extend this basic model by incorporating different cash flow and operating cost assumptions.
+AU  - Gupta, Manak C.
+DB  - Cambridge Core
+DO  - DOI: 10.2307/2329979
+DP  - Cambridge University Press
+ET  - 2009/10/19
+IS  - 5
+PB  - Cambridge University Press
+PY  - 1973
+SN  - 0022-1090
+SP  - 731-747
+T2  - Journal of Financial and Quantitative Analysis
+TI  - Optimal Financing Policy for a Firm With Uncertain Fund Requirements
+UR  - https://www.cambridge.org/core/product/2857638551A4C5AABFAC2C32EED8F389
+VL  - 8
+ER  - 

@@ -1,0 +1,289 @@
+TY  - JOUR
+T1  - Uniform confidence bands in deconvolution with unknown error distribution
+AU  - Kato, Kengo
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 129
+EP  - 161
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301301
+KW  - Deconvolution
+KW  - Measurement error
+KW  - Multiplier bootstrap
+KW  - Uniform confidence bands
+AB  - This paper develops a method to construct uniform confidence bands in deconvolution when the error distribution is unknown. Simulation studies demonstrate the performance of the multiplier bootstrap confidence band in the finite sample. We apply our method to the Outer Continental Shelf (OCS) Auction Data and draw confidence bands for the density of common values of mineral rights on oil and gas tracts. We also present an application of our main theoretical result specifically to additive fixed-effect panel data models, and we draw confidence bands for the density of the total factor productivity in a manufacturing industry in Chile.
+ER  - 
+
+TY  - JOUR
+T1  - Linear double autoregression
+AU  - Zhu, Qianqian
+AU  - Zheng, Yao
+AU  - Li, Guodong
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 162
+EP  - 174
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.05.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301313
+KW  - Conditional quantile estimation
+KW  - Goodness-of-fit test
+KW  - Heavy tail
+KW  - Nonlinear time series model
+KW  - Stationary solution
+AB  - This paper proposes the linear double autoregression, a conditional heteroscedastic model with a conditional mean structure but compatible with the quantile regression. The existence of a strictly stationary solution is discussed, for which a necessary and sufficient condition is established. A doubly weighted quantile regression estimation procedure is introduced, where the first set of weights ensures the asymptotic normality of the estimator and the second set improves its efficiency through balancing individual quantile regression estimators across multiple quantile levels. Bayesian information criteria are proposed for model selection, and two goodness-of-fit tests are constructed to check the adequacy of the fitted conditional mean and conditional scale structures. Simulation studies indicate that the proposed inference tools perform well in finite samples, and an empirical example illustrates the usefulness of the new model.
+ER  - 
+
+TY  - JOUR
+T1  - Testing endogeneity with high dimensional covariates
+AU  - Guo, Zijian
+AU  - Kang, Hyunseung
+AU  - Cai, T. Tony
+AU  - Small, Dylan S.
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 175
+EP  - 187
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301325
+KW  - Durbin–Wu–Hausman test
+KW  - Endogeneity test
+KW  - High dimensions
+KW  - Instrumental variable
+KW  - Invalid instruments
+KW  - Power function
+AB  - Modern, high dimensional data has renewed investigation on instrumental variables (IV) analysis, primarily focusing on estimation of effects of endogenous variables and putting little attention towards specification tests. This paper studies in high dimensions the Durbin–Wu–Hausman (DWH) test, a popular specification test for endogeneity in IV regression. We show, surprisingly, that the DWH test maintains its size in high dimensions, but at an expense of power. We propose a new test that remedies this issue and has better power than the DWH test. Simulation studies reveal that our test achieves near-oracle performance to detect endogeneity.
+ER  - 
+
+TY  - JOUR
+T1  - On Bootstrap inconsistency and Bonferroni-based size-correction for the subset Anderson–Rubin test under conditional homoskedasticity
+AU  - Wang, Wenjie
+AU  - Doko Tchatoka, Firmin
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 188
+EP  - 211
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301337
+KW  - Subvector inference
+KW  - Linear IV model
+KW  - Anderson–Rubin test
+KW  - Plug-in estimator
+KW  - Weak identification
+KW  - Bootstrap inconsistency
+KW  - Edgeworth expansion
+KW  - Asymptotic size
+KW  - Bonferroni-based size-correction
+AB  - We focus on the linear instrumental variable model with two endogenous regressors under conditional homoskedasticity, and study the subset Anderson and Rubin (1949, AR) test when the nuisance structural parameter, the unrestricted slope coefficient of endogenous regressor, may be weakly identified. Weak identification leads to nonstandard null limiting distributions, and alternative to the usual chi-squared critical value is needed. We first investigate the bootstrap validity for the subset AR test based on various plug-in estimators, and show that the bootstrap provides asymptotic refinement when the nuisance structural parameter is strongly identified, but is inconsistent when it is weakly identified. This is in contrast to the result of bootstrap validity in Moreira et al. (2009). Then, we propose a Bonferroni-based size-correction method that yields correct asymptotic size for all the test statistics considered. The power performance of size-corrected tests can be further improved by applying the mapping between structural and endogenous parameters in the model. Monte Carlo experiments confirm the bootstrap inconsistency and demonstrate that all the subset tests based on our correction technique control the size.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of large dimensional factor models with an unknown number of breaks
+AU  - Ma, Shujie
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 1
+EP  - 29
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.06.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301155
+KW  - Break point
+KW  - Factor model
+KW  - Fused Lasso
+KW  - Group Lasso
+KW  - Information criterion
+KW  - Principal component
+KW  - Structural change
+KW  - Super-consistency
+KW  - Time-varying parameter
+AB  - In this paper we study the estimation of a large dimensional factor model when the factor loadings exhibit an unknown number of changes over time. We propose a novel three-step procedure to detect the breaks if any and then identify their locations. In the first step, we divide the whole time span into subintervals and fit a conventional factor model on each interval. In the second step, we apply the adaptive fused group Lasso to identify intervals containing a break. In the third step, we devise a grid search method to estimate the location of the break on each identified interval. We show that with probability approaching one our method can identify the correct number of changes and estimate the break locations. Simulation studies indicate superb finite sample performance of our method. We apply our method to investigate Stock and Watson’s (2009) U.S. monthly macroeconomic dataset and identify five breaks in the factor loadings, spanning 1959–2006.
+ER  - 
+
+TY  - JOUR
+T1  - Sequential estimation of censored quantile regression models
+AU  - Chen, Songnian
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 30
+EP  - 52
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.06.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301167
+KW  - Quantile regression
+KW  - Instrumental variable
+KW  - Censoring
+AB  - In this paper we propose sequential censored quantile regression (SCQR) and sequential instrumental variables censored quantile regression estimators (SIVCQR). We effectively transform the difficult censored quantile regression and censored instrumental variables quantile regression problems into more standard QR and IVQR procedures, consequently, our approaches make the quantile regression techniques for censored data easily accessible to applied researchers. Simulation results show that both estimators perform well.
+ER  - 
+
+TY  - JOUR
+T1  - Tests of stochastic monotonicity with improved power
+AU  - Seo, Juwon
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 53
+EP  - 70
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301179
+KW  - Stochastic monotonicity
+KW  - Copula
+KW  - Least concave majorant
+KW  - Hadamard differentiability
+KW  - Hadamard directional differentiability
+AB  - We develop improved statistical procedures for testing stochastic monotonicity. While existing tests use a fixed critical value to set the limiting rejection rate equal to nominal size at the least favorable case, we use a bootstrap procedure to raise the limiting rejection rate to nominal size over much of the null. This improves power against relevant local alternatives. To show the validity of our approach we draw on recent results on the directional differentiability of the least concave majorant operator, and on bootstrap inference when smoothness conditions sufficient to apply the functional delta method for the bootstrap are not satisfied.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and forecasting (un)reliable realized covariances for more reliable financial decisions
+AU  - Bollerslev, Tim
+AU  - Patton, Andrew J.
+AU  - Quaedvlieg, Rogier
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 71
+EP  - 91
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301180
+KW  - Common risks
+KW  - Realized covariances
+KW  - Forecasting
+KW  - Asset allocation
+KW  - Portfolio construction
+AB  - We propose a new framework for modeling and forecasting common financial risks based on (un)reliable realized covariance measures constructed from high-frequency intraday data. Our new approach explicitly incorporates the effect of measurement errors and time-varying attenuation biases into the covariance forecasts, by allowing the ex-ante predictions to respond more (less) aggressively to changes in the ex-post realized covariance measures when they are more (less) reliable. Applying the new procedures in the construction of minimum variance and minimum tracking error portfolios results in reduced turnover and statistically superior positions compared to existing procedures. Translating these statistical improvements into economic gains, we find that under empirically realistic assumptions a risk-averse investor would be willing to pay up to 170 basis points per year to shift to using the new class of forecasting models.
+ER  - 
+
+TY  - JOUR
+T1  - A robust test for network generated dependence
+AU  - Liu, Xiaodong
+AU  - Prucha, Ingmar R.
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 92
+EP  - 113
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301192
+KW  - Test for network dependence
+KW  - Generalized Moran  test
+KW  - LM test
+KW  - Laplace approximation
+KW  - Network endogeneity
+KW  - Network specification
+KW  - Robustness
+AB  - The paper introduces a robust testing procedure for network generated cross sectional dependence in the endogenous variables, exogenous variables and/or disturbances. Empirical researchers often face situations where they are unsure about how to model the proximity between cross sectional units in a network. The tests considered provide the empirical researcher an important degree of robustness in such situations. They generalize the Moran (1950) I test for dependence in spatial networks. The asymptotic properties of the tests are established under general conditions. The paper also discusses the use of the test statistics in situations where the network topology is endogenous.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - ii
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30160-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830160X
+ER  - 
+
+TY  - JOUR
+T1  - Additive nonparametric models with time variable and both stationary and nonstationary regressors
+AU  - Dong, Chaohua
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 212
+EP  - 236
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.05.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301404
+KW  - Additive nonparametric models
+KW  - Deterministic trend
+KW  - Pairs trading
+KW  - Series estimator
+KW  - Stationary and locally stationary processes
+KW  - Unit root process
+AB  - This paper considers nonparametric additive models that have a deterministic time trend and both stationary and integrated variables as components. The diverse nature of the regressors caters for applications in a variety of settings. In addition, we extend the analysis to allow the stationary regressor to be instead locally stationary, and we allow the models to include a linear form of the integrated variable. Heteroscedasticity is allowed for in all models. We propose an estimation strategy based on orthogonal series expansion that takes account of the different type of stationarity/nonstationarity possessed by each covariate. We establish pointwise asymptotic distribution theory jointly for all estimators of unknown functions and also show the conventional optimal convergence rates jointly in the L2 sense. In spite of the entanglement of different kinds of regressors, we can separate out the distribution theory for each estimator. We provide Monte Carlo simulations that establish the favorable properties of our procedures in moderate sized samples. Finally, we apply our techniques to the study of a pairs trading strategy.
+ER  - 
+
+TY  - JOUR
+T1  - Specification tests based on MCMC output
+AU  - Li, Yong
+AU  - Yu, Jun
+AU  - Zeng, Tao
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 237
+EP  - 260
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301416
+KW  - Specification test
+KW  - Point hypothesis test
+KW  - Latent variable models
+KW  - Markov chain Monte Carlo
+KW  - Power enhancement technique
+KW  - Information matrix
+AB  - Two test statistics are proposed to determine model specification after a model is estimated by an MCMC method. The first test is the MCMC version of IOSA test and its asymptotic null distribution is normal. The second test is motivated from the power enhancement technique of Fan et al. (2015). It combines a component (J1) that tests a null point hypothesis in an expanded model and a power enhancement component (J0) obtained from the first test. It is shown that J0 converges to zero when the null model is correctly specified and diverges when the null model is misspecified. Also shown is that J1 is asymptotically χ2-distributed, suggesting that the second test is asymptotically pivotal, when the null model is correctly specified. The main feature of the first test is that no alternative model is needed. The second test has several properties. First, its size distortion is small and hence bootstrap methods can be avoided. Second, it is easy to compute from MCMC output and hence is applicable to a wide range of models, including latent variable models for which frequentist methods are difficult to use. Third, when the test statistic rejects the null model and J1 takes a large value, the test suggests the source of misspecification. The finite sample performance is investigated using simulated data. The method is illustrated in a linear regression model, a linear state-space model, and a stochastic volatility model using real data.
+ER  - 
+
+TY  - JOUR
+T1  - Incidental parameters, initial conditions and sample size in statistical inference for dynamic panel data models
+AU  - Hsiao, Cheng
+AU  - Zhou, Qiankun
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 1
+SP  - 114
+EP  - 128
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301209
+KW  - Dynamic panel models
+KW  - Individual effects
+KW  - Initial values
+KW  - Projection method
+KW  - Conditional or unconditional likelihood approach
+AB  - We use a quasi-likelihood function approach to clarify the role of initial values and the relative sample size of the cross-section dimension N and the time series dimension T on the asymptotic properties of estimators for dynamic panel data models with the presence of individual-specific effects. We show that a properly specified quasi-likelihood estimator (QMLE) that uses the Mundlak–Chamberlain approach to condition the unobserved effects and initial values on the observed strictly exogenous covariates is asymptotically unbiased if N goes to infinity whether T is fixed or goes to infinity. Monte Carlo studies are conducted to demonstrate the importance of properly treating initial values in getting valid statistical inference. The simulation results also suggest that to deal with the incidental parameters issues arising from the presence of individual-specific effects or initial values, following the Mundlak’s (1978) suggestion to condition on the time series average of individual’s observed regressors performs better than conditioning on each observed variable at all different time periods.
+ER  - 

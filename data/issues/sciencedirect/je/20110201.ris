@@ -1,0 +1,135 @@
+TY  - JOUR
+T1  - Multivariate contemporaneous-threshold autoregressive models
+AU  - Dueker, Michael J.
+AU  - Psaradakis, Zacharias
+AU  - Sola, Martin
+AU  - Spagnolo, Fabio
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 2
+SP  - 311
+EP  - 325
+PY  - 2011
+DA  - 2011/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.09.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001910
+KW  - Nonlinear autoregressive model
+KW  - Smooth transition
+KW  - Stability
+KW  - Threshold
+AB  - This paper proposes a contemporaneous-threshold multivariate smooth transition autoregressive (C-MSTAR) model in which the regime weights depend on the ex-ante probabilities that latent regime-specific variables exceed certain threshold values. A key feature of the model is that the transition function depends on all the parameters of the model as well as on the data. Since the mixing weights are also a function of the regime-specific noise covariance matrix, the model can account for contemporaneous regime-specific co-movements of the variables. The stability and distributional properties of the proposed model are discussed, as well as issues of estimation, testing and forecasting. The practical usefulness of the C-MSTAR model is illustrated by examining the relationship between US stock prices and interest rates.
+ER  - 
+
+TY  - JOUR
+T1  - The Hausman test and weak instruments
+AU  - Hahn, Jinyong
+AU  - Ham, John C.
+AU  - Moon, Hyungsik Roger
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 2
+SP  - 289
+EP  - 299
+PY  - 2011
+DA  - 2011/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.09.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001892
+KW  - Hausman test
+KW  - Weak instruments
+AB  - We consider the following problem. There is a structural equation of interest that contains an explanatory variable that theory predicts is endogenous. There are one or more instrumental variables that credibly are exogenous with regard to this structural equation, but which have limited explanatory power for the endogenous variable. Further, there is one or more potentially ‘strong’ instruments, which has much more explanatory power but which may not be exogenous. Hausman (1978) provided a test for the exogeneity of the second instrument when none of the instruments are weak. Here, we focus on how the standard Hausman test does in the presence of weak instruments using the Staiger–Stock asymptotics. It is natural to conjecture that the standard version of the Hausman test would be invalid in the weak instrument case, which we confirm. However, we provide a version of the Hausman test that is valid even in the presence of weak IV and illustrate how to implement the test in the presence of heteroskedasticity. We show that the situation we analyze occurs in several important economic examples. Our Monte Carlo experiments show that our procedure works relatively well in finite samples. We should note that our test is not consistent, although we believe that it is impossible to construct a consistent test with weak instruments.
+ER  - 
+
+TY  - JOUR
+T1  - Robust tests for heteroskedasticity in the one-way error components model
+AU  - Montes-Rojas, Gabriel
+AU  - Sosa-Escudero, Walter
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 2
+SP  - 300
+EP  - 310
+PY  - 2011
+DA  - 2011/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001909
+KW  - Error components
+KW  - Heteroskedasticity
+KW  - Testing
+AB  - This paper constructs tests for heteroskedasticity in one-way error components models, in line with Baltagi et al. [Baltagi, B.H., Bresson, G., Pirotte, A., 2006. Joint LM test for homoskedasticity in a one-way error component model. Journal of Econometrics 134, 401–417]. Our tests have two additional robustness properties. First, standard tests for heteroskedasticity in the individual component are shown to be negatively affected by heteroskedasticity in the remainder component. We derive modified tests that are insensitive to heteroskedasticity in the component not being checked, and hence help identify the source of heteroskedasticity. Second, Gaussian-based LM tests are shown to reject too often in the presence of heavy-tailed (e.g. t-Student) distributions. By using a conditional moment framework, we derive distribution-free tests that are robust to non-normalities. Our tests are computationally convenient since they are based on simple artificial regressions after pooled OLS estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 2
+SP  - IFC
+PY  - 2011
+DA  - 2011/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00236-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002368
+ER  - 
+
+TY  - JOUR
+T1  - In Memorium
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 2
+SP  - iv
+EP  - v
+PY  - 2011
+DA  - 2011/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00242-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002423
+ER  - 
+
+TY  - JOUR
+T1  - Panels with non-stationary multifactor error structures
+AU  - Kapetanios, G.
+AU  - Pesaran, M. Hashem
+AU  - Yamagata, T.
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 2
+SP  - 326
+EP  - 348
+PY  - 2011
+DA  - 2011/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002022
+KW  - Cross-section dependence
+KW  - Large panels
+KW  - Unit roots
+KW  - Principal components
+KW  - Common correlated effects
+AB  - The presence of cross-sectionally correlated error terms invalidates much inferential theory of panel data models. Recently, work by Pesaran (2006) has suggested a method which makes use of cross-sectional averages to provide valid inference in the case of stationary panel regressions with a multifactor error structure. This paper extends this work and examines the important case where the unobservable common factors follow unit root processes. The extension to I(1) processes is remarkable on two counts. First, it is of great interest to note that while intermediate results needed for deriving the asymptotic distribution of the panel estimators differ between the I(1) and I(0) cases, the final results are surprisingly similar. This is in direct contrast to the standard distributional results for I(1) processes that radically differ from those for I(0) processes. Second, it is worth noting the significant extra technical demands required to prove the new results. The theoretical findings are further supported for small samples via an extensive Monte Carlo study. In particular, the results of the Monte Carlo study suggest that the cross-sectional-average-based method is robust to a wide variety of data generation processes and has lower biases than the alternative estimation methods considered in the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial heteroskedasticity and autocorrelation consistent estimation of covariance matrix
+AU  - Kim, Min Seong
+AU  - Sun, Yixiao
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 2
+SP  - 349
+EP  - 371
+PY  - 2011
+DA  - 2011/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002034
+KW  - Asymptotic mean squared error
+KW  - Heteroskedasticity and autocorrelation
+KW  - Covariance matrix estimator
+KW  - Optimal bandwidth choice
+KW  - Robust standard error
+KW  - Spatial dependence
+AB  - This paper considers spatial heteroskedasticity and autocorrelation consistent (spatial HAC) estimation of covariance matrices of parameter estimators. We generalize the spatial HAC estimator introduced by Kelejian and Prucha (2007) to apply to linear and nonlinear spatial models with moment conditions. We establish its consistency, rate of convergence and asymptotic truncated mean squared error (MSE). Based on the asymptotic truncated MSE criterion, we derive the optimal bandwidth parameter and suggest its data dependent estimation procedure using a parametric plug-in method. The finite sample performances of the spatial HAC estimator are evaluated via Monte Carlo simulation.
+ER  - 

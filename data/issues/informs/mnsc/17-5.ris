@@ -1,0 +1,375 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Validation of Simulation Results
+AU  - Van Horn, Richard L.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.247
+DO  - 10.1287/mnsc.17.5.247
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 247
+EP  - 258
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - Simulation models are designed and used with a goal of learning about a process. Validation is the act of increasing to an acceptable level the confidence that an inference about a simulated process is correct for the actual process. There is no such thing as ?the test?. The experimenter selects a set of tests from the many possible?a standard decision problem of balancing the cost of testing against the cost of an incorrect inference. This paper outlines possible validation actions and suggests considerations that enter into their choice. Three major classes of actions are finding models with face validity, testing assumptions and testing input-output transformations. Actions range from such highly technical approaches as spectral analysis to behaviorally oriented ones such as the ?Turing? test. Validation often becomes more tractable if simulation is viewed as one of several modes of investigation. Complementary research activities?related experiments, empirical analysis, analytic models, or prototypes?are widely used in the physical sciences to increase validity and appear equally appropriate for the management sciences. Some of the ideas and problems of validation are illustrated briefly in an example that involves all-machine simulation, man-machine simulation, related psychological experiments and a field test.
+AB  - Simulation models are designed and used with a goal of learning about a process. Validation is the act of increasing to an acceptable level the confidence that an inference about a simulated process is correct for the actual process. There is no such thing as ?the test?. The experimenter selects a set of tests from the many possible?a standard decision problem of balancing the cost of testing against the cost of an incorrect inference. This paper outlines possible validation actions and suggests considerations that enter into their choice. Three major classes of actions are finding models with face validity, testing assumptions and testing input-output transformations. Actions range from such highly technical approaches as spectral analysis to behaviorally oriented ones such as the ?Turing? test. Validation often becomes more tractable if simulation is viewed as one of several modes of investigation. Complementary research activities?related experiments, empirical analysis, analytic models, or prototypes?are widely used in the physical sciences to increase validity and appear equally appropriate for the management sciences. Some of the ideas and problems of validation are illustrated briefly in an example that involves all-machine simulation, man-machine simulation, related psychological experiments and a field test.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.247
+UR  - https://doi.org/10.1287/mnsc.17.5.247
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Loading Problem
+AU  - Eilon, Samuel
+AU  - Christofides, Nicos
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.259
+DO  - 10.1287/mnsc.17.5.259
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 259
+EP  - 268
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - The loading problem is defined as the allocation of given items with known magnitude to boxes with constrained capacity, so as to minimize the number of boxes required. Two methods of solution are considered: The first is by a zero-one programming model, for which the solution procedure is described; the second is by a heuristic algorithm. Fifty problems were solved by the two methods and in all but two the second method yielded the optimal solution with significantly less computing time than that needed by the first method.
+AB  - The loading problem is defined as the allocation of given items with known magnitude to boxes with constrained capacity, so as to minimize the number of boxes required. Two methods of solution are considered: The first is by a zero-one programming model, for which the solution procedure is described; the second is by a heuristic algorithm. Fifty problems were solved by the two methods and in all but two the second method yielded the optimal solution with significantly less computing time than that needed by the first method.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.259
+UR  - https://doi.org/10.1287/mnsc.17.5.259
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Dual Generalized Upper Bounding Technique
+AU  - Grigoriadis, Michael D.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.269
+DO  - 10.1287/mnsc.17.5.269
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 269
+EP  - 284
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - A Generalized Upper Bounding technique, similar to that introduced by Dantzig and Van Slyke [Dantzig, G. B., Van Slyke, R. M., 1967. Generalized upper bounding techniques. Journal of Computer and System Sciences. Vol. 1 pp. 213?226.], for solving large linear programs ?with m + L equations (m ? L), L of which have the property that each variable has at most one nonzero coefficient in them? is offered. The algorithm is a variant of the dual simplex method, uses a working basis of order m and allows implementation of various pivoting strategies. The necessary modifications to the algorithm for handling bounded variables are also described.
+AB  - A Generalized Upper Bounding technique, similar to that introduced by Dantzig and Van Slyke [Dantzig, G. B., Van Slyke, R. M., 1967. Generalized upper bounding techniques. Journal of Computer and System Sciences. Vol. 1 pp. 213?226.], for solving large linear programs ?with m + L equations (m ? L), L of which have the property that each variable has at most one nonzero coefficient in them? is offered. The algorithm is a variant of the dual simplex method, uses a working basis of order m and allows implementation of various pivoting strategies. The necessary modifications to the algorithm for handling bounded variables are also described.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.269
+UR  - https://doi.org/10.1287/mnsc.17.5.269
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Adaptive Group Theoretic Algorithm for Integer Programming Problems
+AU  - Gorry, G. Anthony
+AU  - Shapiro, Jeremy F.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.285
+DO  - 10.1287/mnsc.17.5.285
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 285
+EP  - 306
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - Group theory is used to integrate a wide variety of integer programming methods into a common computational process. Included are group optimization algorithms, Lagrangian methods, the cutting plane method, and the method of surrogate constraints. These methods are controlled by a supervisor which performs four main functions: set-up, directed search, subproblem analysis, and prognosis. Some computational experience is given. One appendix contains an algorithm for dynamically solving unconstrained group problems. A second appendix gives an algorithm for solving zero-one group problems.
+AB  - Group theory is used to integrate a wide variety of integer programming methods into a common computational process. Included are group optimization algorithms, Lagrangian methods, the cutting plane method, and the method of surrogate constraints. These methods are controlled by a supervisor which performs four main functions: set-up, directed search, subproblem analysis, and prognosis. Some computational experience is given. One appendix contains an algorithm for dynamically solving unconstrained group problems. A second appendix gives an algorithm for solving zero-one group problems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.285
+UR  - https://doi.org/10.1287/mnsc.17.5.285
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Direct Search Method to Locate Negative Cycles in a Graph
+AU  - Florian, M.
+AU  - Robert, P.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.307
+DO  - 10.1287/mnsc.17.5.307
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 307
+EP  - 310
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - A direct search method for locating and tracing negative cycles in a graph is developed based on a property of real, finite sequences. The efficiency of the method and its application for computing minimum cost flows is tested by applying it to solve a series of assignment problems.
+AB  - A direct search method for locating and tracing negative cycles in a graph is developed based on a property of real, finite sequences. The efficiency of the method and its application for computing minimum cost flows is tested by applying it to solve a series of assignment problems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.307
+UR  - https://doi.org/10.1287/mnsc.17.5.307
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Three Asset Cash Balance and Dynamic Portfolio Problems
+AU  - Eppen, Gary D.
+AU  - Fama, Eugene F.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.311
+DO  - 10.1287/mnsc.17.5.311
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 311
+EP  - 319
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - This paper describes the form of the optimal operating policy for a three asset cash balance problem in which (1) holding and penalty costs are proportional to the level of the cash balance, (2) the costs incurred in transferring funds between cash and earning assets are proportional to the amount of funds transferred, and (3) inflows and outflows of cash are to some extent random. There are assumed to be two earning assets, called ?bonds? and ?stock,? that can be used to change the level of cash. ?Stock? assets are the major source of the firm's earnings, and they are assumed to have higher expected returns per period than bonds but also to have higher transactions costs. The major concern, then, is with how ?bonds? should be used as a buffer against random fluctuations in the cash account.
+AB  - This paper describes the form of the optimal operating policy for a three asset cash balance problem in which (1) holding and penalty costs are proportional to the level of the cash balance, (2) the costs incurred in transferring funds between cash and earning assets are proportional to the amount of funds transferred, and (3) inflows and outflows of cash are to some extent random. There are assumed to be two earning assets, called ?bonds? and ?stock,? that can be used to change the level of cash. ?Stock? assets are the major source of the firm's earnings, and they are assumed to have higher expected returns per period than bonds but also to have higher transactions costs. The major concern, then, is with how ?bonds? should be used as a buffer against random fluctuations in the cash account.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.311
+UR  - https://doi.org/10.1287/mnsc.17.5.311
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Capital Expenditure Programming and Some Alternative Approaches to Risk
+AU  - Peterson, D. E.
+AU  - Laughhunn, D. J.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.320
+DO  - 10.1287/mnsc.17.5.320
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 320
+EP  - 336
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - This paper investigates the potential reduction in decision-making effort in capital budgeting problems obtainable through the use of measures of risk in addition to variance. Specific measures of risk treated are Baumol's lower confidence limit and the maximum probability of loss. The primary purpose of the paper is to present a methodology which imposes certain ?constraining relations? on acceptable investment programs rather than one which appeals to a specific utility function as the basis for ordering choices. In this connection a discussion of several different utility functions is presented, along with an analysis of their usefulness when the probability distributions of net present values for various investment portfolios cannot be taken as known. In addition, some of the logical problems involved in constructing a utility function are examined.
+AB  - This paper investigates the potential reduction in decision-making effort in capital budgeting problems obtainable through the use of measures of risk in addition to variance. Specific measures of risk treated are Baumol's lower confidence limit and the maximum probability of loss. The primary purpose of the paper is to present a methodology which imposes certain ?constraining relations? on acceptable investment programs rather than one which appeals to a specific utility function as the basis for ordering choices. In this connection a discussion of several different utility functions is presented, along with an analysis of their usefulness when the probability distributions of net present values for various investment portfolios cannot be taken as known. In addition, some of the logical problems involved in constructing a utility function are examined.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.320
+UR  - https://doi.org/10.1287/mnsc.17.5.320
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Admissible Decision Rules for the E-Model of Chance-Constrained Programming
+AU  - Eisner, Mark J.
+AU  - Kaplan, Robert S.
+AU  - Soden, John V.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.337
+DO  - 10.1287/mnsc.17.5.337
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 337
+EP  - 353
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - This paper is concerned with characterizing decision rules for the sequential E-model of chance-constrained programming. A key feature of our characterization will be a detailed discussion of various interpretations of the probability operator in the chance constraints. Specifically we define two new classes of decision rules by exhibiting those sets of constraints which locally support the corresponding probability requirements. The question of how the probabilistic constraints for future periods are affected by previous decisions and realizations of the random variables is considered in detail. Since we are primarily concerned with the feasibility of decision rules, we deal mainly with the constraints of the model. The procedure for selecting the optimum rule from among a particular class of feasible rules depends on the objective function and is briefly discussed in the final section along with some implications concerning the form of the optimum rule. The application of our proposed rules to a two-period example previously appearing in the literature concludes the paper.
+AB  - This paper is concerned with characterizing decision rules for the sequential E-model of chance-constrained programming. A key feature of our characterization will be a detailed discussion of various interpretations of the probability operator in the chance constraints. Specifically we define two new classes of decision rules by exhibiting those sets of constraints which locally support the corresponding probability requirements. The question of how the probabilistic constraints for future periods are affected by previous decisions and realizations of the random variables is considered in detail. Since we are primarily concerned with the feasibility of decision rules, we deal mainly with the constraints of the model. The procedure for selecting the optimum rule from among a particular class of feasible rules depends on the objective function and is briefly discussed in the final section along with some implications concerning the form of the optimum rule. The application of our proposed rules to a two-period example previously appearing in the literature concludes the paper.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.337
+UR  - https://doi.org/10.1287/mnsc.17.5.337
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Equivalent Integer Programs and Canonical Problems
+AU  - Bradley, Gordon H.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.354
+DO  - 10.1287/mnsc.17.5.354
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 354
+EP  - 366
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - A theory of equivalent integer programs is developed that shows that every all-integer integer programming problem is equivalent to infinitely many other integer programming problems. The equivalence is such that the solution to any one problem in the equivalence class determines the solution to every other problem in the class. Procedures to construct certain canonical problems in each equivalence class are described. The relationship of this theory to computational algorithms is discussed.
+AB  - A theory of equivalent integer programs is developed that shows that every all-integer integer programming problem is equivalent to infinitely many other integer programming problems. The equivalence is such that the solution to any one problem in the equivalence class determines the solution to every other problem in the class. Procedures to construct certain canonical problems in each equivalence class are described. The relationship of this theory to computational algorithms is discussed.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.354
+UR  - https://doi.org/10.1287/mnsc.17.5.354
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Communications to the Editor—Models of Fact and Laws of Behavior
+AU  - Charnes, A.
+AU  - Cooper, W. W.
+AU  - DeVoe, J. D.
+AU  - Learner, D. B.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.367
+DO  - 10.1287/mnsc.17.5.367
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 367
+EP  - 369
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - The querulous and exaggerated tones which seem to attend so many contemporary activities have now been permitted an entrance to the pages of Management Science where they are amply represented in the article published by A. S. C. Ehrenberg (?Models of Fact: Examples from Marketing,? Management Science Vol 16, No. 7 (March 1970), pp. 435?445.). The tone of Ehrenberg's article provides a warning that should naturally make anyone reluctant to attempt to reply to any of his criticisms or to question any of his claims. Some possibility for a productive response may be available, however, if one avoids a direct reply to Ehrenberg's claims and criticisms in order to respond by indicating possibilities and considerations other than those which Ehrenberg allows for in modeling, at least in management science.
+AB  - The querulous and exaggerated tones which seem to attend so many contemporary activities have now been permitted an entrance to the pages of Management Science where they are amply represented in the article published by A. S. C. Ehrenberg (?Models of Fact: Examples from Marketing,? Management Science Vol 16, No. 7 (March 1970), pp. 435?445.). The tone of Ehrenberg's article provides a warning that should naturally make anyone reluctant to attempt to reply to any of his criticisms or to question any of his claims. Some possibility for a productive response may be available, however, if one avoids a direct reply to Ehrenberg's claims and criticisms in order to respond by indicating possibilities and considerations other than those which Ehrenberg allows for in modeling, at least in management science.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.367
+UR  - https://doi.org/10.1287/mnsc.17.5.367
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Communications to the Editor—Tempus Fidgets: The Reference Business
+AU  - Ehrenberg, A. S. C.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.369
+DO  - 10.1287/mnsc.17.5.369
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 369
+EP  - 370
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - In their comments on ?Models of Fact?, Charnes, Cooper, DeVoe and Learner [Charnes, A., W. W. Cooper, J. K. DeVoe, D. B. Learner. 1971. Models of fact and laws of behaviour. Management Sci. 17 367?369.] state that they will avoid a direct reply to my claims and criticisms. In following this precedent, I remark briefly on the pertinent use of references, an important matter in our work.
+AB  - In their comments on ?Models of Fact?, Charnes, Cooper, DeVoe and Learner [Charnes, A., W. W. Cooper, J. K. DeVoe, D. B. Learner. 1971. Models of fact and laws of behaviour. Management Sci. 17 367?369.] state that they will avoid a direct reply to my claims and criticisms. In following this precedent, I remark briefly on the pertinent use of references, an important matter in our work.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.369
+UR  - https://doi.org/10.1287/mnsc.17.5.369
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Book Review
+AU  - Weinberg, Robert S.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.371
+DO  - 10.1287/mnsc.17.5.371
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 371
+EP  - 371
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - Book Review ?Ackoff, Russell L., A Concept of Corporate Planning. New York: Wiley-Interscience (a Division of John Wiley and Sons), 1970, 167 pp., $7.95.
+AB  - Book Review ?Ackoff, Russell L., A Concept of Corporate Planning. New York: Wiley-Interscience (a Division of John Wiley and Sons), 1970, 167 pp., $7.95.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.371
+UR  - https://doi.org/10.1287/mnsc.17.5.371
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Précis—Capital Budgeting/Project Selection by Mathematical Programming: An Annotated Bibliography
+AU  - Larson, Roy B.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.372
+DO  - 10.1287/mnsc.17.5.372
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 372
+EP  - 372
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - A comprehensive bibliography on the application of mathematical programming to the capital budgeting/project selection problem is presented. Over 150 items are cited with a brief summary given of the relevant contents of each item.
+AB  - A comprehensive bibliography on the application of mathematical programming to the capital budgeting/project selection problem is presented. Over 150 items are cited with a brief summary given of the relevant contents of each item.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.372
+UR  - https://doi.org/10.1287/mnsc.17.5.372
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Précis—User-Oriented Computer Modeling Environments
+AU  - Nugent, Christopher E.
+AU  - Vollmann, Thomas E.
+AU  - Howell, A. Harold
+AU  - Schuldenfrei, Robert L.
+AU  - Westfall, James R.
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.372a
+DO  - 10.1287/mnsc.17.5.372a
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 372
+EP  - 374
+VL  - 17
+IS  - 5
+PB  - INFORMS
+N2  - Evolution in models for problem solving is inevitable and desirable; as goals are achieved (or problems solved) new, more fundamental or telling, problems are identified leading to model revisions and better problem solutions. The speed of the evolution is dependent on two major factors: the inherent flexibility of the model and relationship of the model user to the model designer. This paper focuses on these two factors in the modeling environment. It is critical to note that the direction or course of the evolution can only be determined by users since they have the relevant goals, objectives, or criteria; expert model builders are much more capable of problem solution than of problem formulation or identification.
+AB  - Evolution in models for problem solving is inevitable and desirable; as goals are achieved (or problems solved) new, more fundamental or telling, problems are identified leading to model revisions and better problem solutions. The speed of the evolution is dependent on two major factors: the inherent flexibility of the model and relationship of the model user to the model designer. This paper focuses on these two factors in the modeling environment. It is critical to note that the direction or course of the evolution can only be determined by users since they have the relevant goals, objectives, or criteria; expert model builders are much more capable of problem solution than of problem formulation or identification.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.372a
+UR  - https://doi.org/10.1287/mnsc.17.5.372a
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Working Papers
+Y1  - 1971/01/01
+PY  - 1971
+DA  - 1971/01/01
+N1  - doi: 10.1287/mnsc.17.5.375
+DO  - 10.1287/mnsc.17.5.375
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 375
+EP  - 375
+VL  - 17
+IS  - 5
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.5.375
+UR  - https://doi.org/10.1287/mnsc.17.5.375
+Y2  - 2024/03/27
+ER  - 

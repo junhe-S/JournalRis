@@ -1,0 +1,290 @@
+TY  - JOUR
+T1  - Bootstrapping non-stationary stochastic volatility
+AU  - Boswijk, H. Peter
+AU  - Cavaliere, Giuseppe
+AU  - Georgiev, Iliyan
+AU  - Rahbek, Anders
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 161
+EP  - 180
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000282
+KW  - Bootstrap
+KW  - Non-stationary stochastic volatility
+KW  - Random limit measures
+KW  - Weak convergence in distribution
+AB  - In this paper we investigate to what extent the bootstrap can be applied to conditional mean models, such as regression or time series models, when the volatility of the innovations is random and possibly non-stationary. In fact, the volatility of many economic and financial time series displays persistent changes and possible non-stationarity. However, the theory of the bootstrap for such models has focused on deterministic changes of the unconditional variance and little is known about the performance and the validity of the bootstrap when the volatility is driven by a non-stationary stochastic process. This includes near-integrated exogenous volatility processes as well as near-integrated GARCH processes, where the conditional variance has a diffusion limit; a further important example is the case where volatility exhibits infrequent jumps. This paper fills this gap in the literature by developing conditions for bootstrap validity in time series and regression models with non-stationary, stochastic volatility. We show that in such cases the distribution of bootstrap statistics (conditional on the data) is random in the limit. Consequently, the conventional approaches to proofs of bootstrap consistency, based on the notion of weak convergence in probability of the bootstrap statistic, fail to deliver the required validity results. Instead, we use the concept of ‘weak convergence in distribution’ to develop and establish novel conditions for validity of the wild bootstrap, conditional on the volatility process. We apply our results to several testing problems in the presence of non-stationary stochastic volatility, including testing in a location model, testing for structural change using CUSUM-type functionals, and testing for a unit root in autoregressive models. Importantly, we work under sufficient conditions for bootstrap validity that include the absence of statistical leverage effects, i.e., correlation between the error process and its future conditional variance. The results of the paper are illustrated using Monte Carlo simulations, which indicate that a wild bootstrap approach leads to size control even in small samples.
+ER  - 
+
+TY  - JOUR
+T1  - Inference after estimation of breaks
+AU  - Andrews, Isaiah
+AU  - Kitagawa, Toru
+AU  - McCloskey, Adam
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 39
+EP  - 59
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.036
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302591
+KW  - Selective inference
+KW  - Sample splitting
+KW  - Structural breaks
+KW  - Threshold regression
+KW  - Misspecification
+AB  - In an important class of econometric problems, researchers select a target parameter by maximizing the Euclidean norm of a data-dependent vector. Examples that can be cast into this frame include threshold regression models with estimated thresholds and structural break models with estimated break dates. Estimation and inference procedures that ignore the randomness of the target parameter can be severely biased and misleading when this randomness is non-negligible. This paper studies conditional and unconditional inference in such settings, accounting for the data-dependent choice of target parameters. We detail the construction of quantile-unbiased estimators and confidence sets with correct coverage, and prove their asymptotic validity under data generating process such that the target parameter remains random in the limit. We also provide a novel sample splitting approach that improves on conventional split-sample inference.
+ER  - 
+
+TY  - JOUR
+T1  - Annals Issue: PI-Day Honoring Pierre Perron
+AU  - Ng, Serena
+AU  - Qu, Zhongjun
+AU  - Vogelsang, Timothy
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 1
+EP  - 2
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001287
+ER  - 
+
+TY  - JOUR
+T1  - Simple estimators and inference for higher-order stochastic volatility models
+AU  - Ahsan, Md. Nazmul
+AU  - Dufour, Jean-Marie
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 181
+EP  - 197
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001007
+KW  - Generalized method of moments
+KW  - Markov Chain Monte Carlo
+KW  - Monte Carlo tests
+KW  - Stochastic volatility
+KW  - Asymptotic distribution
+KW  - Stock returns
+KW  - Higher-order process
+AB  - We study the problem of estimating higher-order stochastic volatility [SV(p)] models. Due to the difficulty of evaluating the likelihood function, this remains a challenging problem, even in the relatively simple SV(1) case. We propose simple moment-based winsorized ARMA-type estimators, which are computationally inexpensive and remarkably accurate. The proposed estimators do not require choosing a sampling algorithm, initial parameter values, or an auxiliary model. We show that a Durbin–Levinson-type updating algorithm can be applied to recursively estimate models of increasing order p. The asymptotic distribution of the estimators is established. Due to their computational simplicity, the proposed estimators allow one to perform finite-sample Monte Carlo tests. Simulation results show that the proposed estimators have lower bias and mean squared error than all alternative estimators (including Bayes-type estimators). The proposed estimators are applied to S&P 500 daily returns (1928–2016). We find that an SV(3) model is preferable to an SV(1) model.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - ii
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00167-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001676
+ER  - 
+
+TY  - JOUR
+T1  - Sieve estimation of option-implied state price density
+AU  - Lu, Junwen
+AU  - Qu, Zhongjun
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 88
+EP  - 112
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000737
+KW  - State price density
+KW  - High-frequency data
+KW  - Inverse problem
+KW  - Tikhonov regularization
+AB  - This paper proposes a nonparametric estimator for the state price density implied by a single cross-section of European options with different strikes and the same maturity. The proposed estimator has two distinctive features. First, it extracts information from both call and put options, as opposed to only call options. Second, it does not require estimating any second-order derivative; instead, it solves a constrained and penalized linear regression. The asymptotic analysis faces two challenges because the state price density is defined by a Fredholm integral equation of the first kind with an unbounded support, and the kernel function is unbounded and non-differentiable. We address these challenges by exploiting the structure of the option pricing problem. After establishing the estimator’s consistency and convergence rate, we apply it to estimate the state price densities implied by the S&P500 index options and those by the VIX options. The sample period includes the recent financial crisis and the Great Recession, during which the turbulent market conditions imposed substantial challenges on the estimation. We show that the estimator can work with both daily and high-frequency observations. We also study whether the various features of this density can predict future asset returns and obtain positive findings. Finally, we apply the method to examine the causal effects of monetary policy announcements on the financial market, using high-frequency data.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in time series models using smoothed-clustered standard errors
+AU  - Rho, Seunghwa
+AU  - Vogelsang, Timothy J.
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 113
+EP  - 133
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302608
+KW  - Fixed-b asymptotics
+KW  - Equally weighted cosines
+KW  - Systematic missing data
+KW  - Heteroskedasticity autocorrelation robust inference
+AB  - This paper proposes a long run variance estimator for conducting inference in time series regression models that combines the nonparametric approach with a cluster approach. The basic idea is to divide the time periods into non-overlapping clusters. The long run variance estimator is constructed by first aggregating within clusters and then kernel smoothing across clusters or applying the nonparametric series method to the clusters with Type II discrete cosine transform. We develop an asymptotic theory for test statistics based on these “smoothed-clustered” long run variance estimators. We derive asymptotic results holding the number of clusters fixed and also treating the number of clusters as increasing with the sample size. For the kernel smoothing approach, these two asymptotic limits are different whereas for the cosine series approach, the two limits are the same. When clustering before kernel smoothing, we find that the “fixed-number-of-clusters” asymptotic approximation works well whether the number of clusters is small or large. Finite sample simulations suggest that the naive i.i.d. bootstrap mimics the fixed-number-of-clusters critical values. The simulations also suggest that clustering before kernel smoothing can reduce over-rejections caused by strong serial correlation at a cost of power. When there is a natural way of clustering, clustering can reduce over-rejection problems and achieve small gains in power for the kernel approach. In contrast, the cosine series approach does not benefit from clustering.
+ER  - 
+
+TY  - JOUR
+T1  - Continuous record Laplace-based inference about the break date in structural change models
+AU  - Casini, Alessandro
+AU  - Perron, Pierre
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 3
+EP  - 21
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.020
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030261X
+KW  - Asymptotic distribution
+KW  - Bias
+KW  - Break date
+KW  - Change-point
+KW  - Generalized Laplace
+KW  - Infill asymptotics
+KW  - Semimartingale
+AB  - Building upon the continuous record asymptotic framework recently introduced by Casini and Perron (2020a) for inference in structural change models, we propose a Laplace-based (Quasi-Bayes) procedure for the construction of the estimate and confidence set for the date of a structural change. It is defined by an integration rather than an optimization-based method. A transformation of the least-squares criterion function is evaluated in order to derive a proper distribution, referred to as the Quasi-posterior. For a given choice of a loss function, the Laplace-type estimator is the minimizer of the expected risk with the expectation taken under the Quasi-posterior. Besides providing an alternative estimate that is more precise—lower mean absolute error (MAE) and lower root-mean squared error (RMSE)—than the usual least-squares one, the Quasi-posterior distribution can be used to construct asymptotically valid inference using the concept of Highest Density Region. The resulting Laplace-based inferential procedure is shown to have lower MAE and RMSE, and the confidence sets strike a better balance between empirical coverage rates and average lengths of the confidence sets relative to traditional long-span methods, whether the break size is small or large.
+ER  - 
+
+TY  - JOUR
+T1  - Boosting high dimensional predictive regressions with time varying parameters
+AU  - Yousuf, Kashif
+AU  - Ng, Serena
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 60
+EP  - 87
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302827
+KW  -  boosting
+KW  - Forecasting
+KW  - Locally stationary
+KW  - Parameter instability
+KW  - Sparsity
+AB  - High dimensional predictive regressions are useful in wide range of applications. However, the theory is mainly developed assuming that the model is stationary with time invariant parameters. This is at odds with the prevalent evidence for parameter instability in economic time series, but theories for parameter instability are mainly developed for models with a small number of covariates. In this paper, we present two L2 boosting algorithms for estimating high dimensional models in which the coefficients are modeled as functions evolving smoothly over time and the predictors are locally stationary. The first method uses componentwise local constant estimators as base learner, while the second relies on componentwise local linear estimators. We establish consistency of both methods, and address the practical issues of choosing the bandwidth for the base learners and the number of boosting iterations. In an extensive application to macroeconomic forecasting with many potential predictors, we find that the benefits to modeling time variation are substantial and they increase with the forecast horizon. Furthermore, the timing of the benefits suggests that the Great Moderation is associated with substantial instability in the conditional mean of various economic series.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent inference for predictive regressions in persistent economic systems
+AU  - Andersen, Torben G.
+AU  - Varneskov, Rasmus T.
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 215
+EP  - 244
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.051
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303547
+KW  - Endogeneity bias
+KW  - Fractional integration
+KW  - Frequency domain inference
+KW  - Hypothesis testing
+KW  - Spurious inference
+KW  - Stochastic volatility
+KW  - VAR models
+AB  - This paper studies standard predictive regressions in economic systems governed by persistent vector autoregressive dynamics for the state variables. In particular, all – or a subset – of the variables may be fractionally integrated, which induces a spurious regression problem. We propose a new inference and testing procedure – the Local speCtruM (LCM) approach – for joint significance of the regressors, that is robust against the variables having different integration orders and remains valid regardless of whether predictors are significant and, if they are, whether they induce cointegration. Specifically, the LCM procedure is based on fractional filtering and band spectrum regression using a suitably selected set of frequency ordinates. Contrary to existing procedures, we establish a uniform Gaussian limit theory and a standard χ2-distributed test statistic. Using the LCM inference and testing techniques, we explore predictive regressions for the realized return variation. Standard least squares inference indicates that popular financial and macroeconomic variables convey valuable information about future return volatility. In contrast, we find no significant evidence using our robust LCM procedure. If anything, our tests support a reverse chain of causality, with rising financial volatility predating adverse innovations to key macroeconomic variables. Simulations are employed to illustrate the relevance of the theoretical arguments for finite-sample inference.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical tests of a simple energy balance equation in a synthetic model of cotrending and cointegration
+AU  - Carrion-i-Silvestre, Josep Lluís
+AU  - Kim, Dukpa
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 22
+EP  - 38
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303559
+KW  - Global mean temperature
+KW  - Radiative forcing
+AB  - We develop new tests for the linear relationship between temperature and forcing, which is one of the most studied implications from a simple energy balance model. We consider a bivariate system of temperature and forcing where the time path of well-mixed-greenhouse-gases forcing is included as a potential common trend function in addition to a stochastic trend and a broken linear trend. Our test statistics are first devised as the likelihood ratio and then are modified to remove nuisance parameters in the asymptotic null distribution. The asymptotic null distribution and the required modification differ as to the existence of a stochastic trend. Thus, the test statistics are modified in two different ways and then are combined using the super-efficient estimator of the sum of autoregressive coefficients. The asymptotic critical values from the two cases remain close and we use the bigger one to control size for both cases. The proposed tests are applied to four temperature series and a forcing series. The null hypothesis of the linear relationship is not rejected with conventional sizes.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic spatial panel data models with common shocks
+AU  - Bai, Jushan
+AU  - Li, Kunpeng
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 134
+EP  - 160
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303961
+KW  - Panel data models
+KW  - Spatial interactions
+KW  - Common shocks
+KW  - Cross-sectional dependence
+KW  - Incidental parameters
+KW  - Maximum likelihood estimation
+AB  - This paper studies dynamic spatial panel data models with common shocks to deal with both weak and strong cross-sectional correlations. Weak correlations are captured by a spatial structure and strong correlations are captured by a factor structure. The proposed quasi-maximum likelihood estimator (QMLE) is capable of handling both types of cross sectional dependence. We provide a rigorous analysis for the asymptotic theory of the QMLE, demonstrating its desirable properties. Heteroskedasticity is explicitly allowed. This is important because QML is inconsistent in the presence of heteroskedasticity while homoskedasticity is imposed. We further show that when heteroskedasticity is estimated, the limiting variance of QMLE is not a sandwich form regardless of normality. Monte Carlo simulations show that the QMLE has good finite sample properties.
+ER  - 
+
+TY  - JOUR
+T1  - Simple tests for stock return predictability with good size and power properties
+AU  - Harvey, David I.
+AU  - Leybourne, Stephen J.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 224
+IS  - 1
+SP  - 198
+EP  - 214
+PY  - 2021
+DA  - 2021/09/01/
+T2  - Annals Issue: PI Day
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000270
+KW  - Predictive regression
+KW  - Persistence
+KW  - Endogeneity
+KW  - Quasi-GLS demeaning
+KW  - Unit root test
+KW  - Hybrid statistic
+AB  - We develop easy-to-implement tests for return predictability which, relative to extant tests in the literature, display attractive finite sample size control and power across a wide range of persistence and endogeneity levels for the predictor. Our approach is based on the standard regression t-ratio and a variant where the predictor is quasi-GLS (rather than OLS) demeaned. In the strongly persistent near-unit root environment, the limiting null distributions of these statistics depend on the endogeneity and local-to-unity parameters characterising the predictor. Analysis of the asymptotic local power functions of feasible implementations of these two tests, based on asymptotically conservative critical values, motivates a switching procedure between the two, employing the quasi-GLS demeaned variant unless the magnitude of the estimated endogeneity correlation parameter is small. Additionally, if the data suggests the predictor is weakly persistent, our approach switches to the standard t-ratio test with reference to standard normal critical values.
+ER  - 

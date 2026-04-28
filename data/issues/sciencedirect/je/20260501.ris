@@ -1,0 +1,391 @@
+TY  - JOUR
+T1  - Consistency, distributional convergence, and optimality of time-varying parameters in score-driven models
+AU  - Beutner, Eric
+AU  - Lin, Yicong
+AU  - Lucas, Andre
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106218
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106218
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000394
+KW  - Observation-driven filtering
+KW  - Score-driven models
+KW  - Information theoretic optimality
+KW  - Kullback-Leibler divergence
+KW  - Pseudo true time-varying parameters
+KW  - In-fill asymptotics
+AB  - Observation-driven models for time series have a long history in statistics and econometrics, but are typically studied under the assumption of correct dynamic specification. We develop an in-fill asymptotic framework to study the limiting behavior of the estimated (i.e., filtered) time-varying parameter paths obtained with such models in (severely) mis-specified settings. We show that despite such mis-specification, the filtered paths, particularly those from the class of score-driven models of Creal et al. (2011, 2013) and Harvey (2013), still converge in probability to the Kullback-Leibler optimal time-varying parameter paths, even in severely mis-specified settings. We obtain distributional convergence results for the filtering errors and formulate the observation-driven filter that minimizes the asymptotic filter error variance. Such an optimal filter again has score-driven features. The results substantially generalize earlier findings, which we demonstrate by applying the new theory to time-varying tail shape models, dynamic copulas, and time-varying regression models. We further highlight the practical relevance of the asymptotic results by using them to construct pointwise intervals that quantify the uncertainty of filtered parameter paths based on observation-driven filters and apply these to the volatility path of intraday Pfizer log-returns.
+ER  - 
+
+TY  - JOUR
+T1  - Reduced rank multivariate spatial autoregressive model for large-scale networks
+AU  - Zhu, Tianyi
+AU  - Pu, Dan
+AU  - Ma, Yingying
+AU  - Huang, Danyang
+AU  - Lan, Wei
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106247
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106247
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000680
+KW  - Least squares estimator
+KW  - Low rank structure
+KW  - Multivariate responses
+KW  - Spatial autoregression
+KW  - Quasi-maximum likelihood estimator
+AB  - In spatial and social network analysis, multivariate spatial autoregressive (MSAR) models are effective tools for analyzing network data with multivariate responses. When the dimension of the response is divergent, however, the number of unknown parameters in an MSAR increases at a rate that is proportional to the square of the dimensionality, which poses significant challenges to the model estimation process. To address this issue, we propose a novel reduced-rank MSAR model by imposing a low-rank structure on the spatial influence matrix of the multivariate responses. The proposed model achieves substantial dimensionality reduction and offers insightful interpretations. To mitigate the high computational cost of the quasi-maximum likelihood estimator (QMLE), we propose a least squares estimator (LSE) for estimating the unknown parameters. Furthermore, we establish the asymptotic nature of the LSE when both the network size and the dimensionality of the responses diverge to infinity. To determine the rank, we propose an information criterion estimator and demonstrate the consistency of its rank selection process. Extensive numerical simulations validate the proposed model and parameter estimates. Finally, a dataset derived from Shouqianba, one of the largest aggregate payment platforms, is analyzed for illustration purposes.
+ER  - 
+
+TY  - JOUR
+T1  - A sorted penalty estimator: Inference for a correlation-robust shrinkage method
+AU  - Medeiros, Marcelo C.
+AU  - Sun, Chuanping
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106216
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106216
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000370
+KW  - LASSO
+KW  - Correlated variables
+KW  - Debiased estimator
+KW  - Shrinkage
+AB  - Variable correlations pose significant challenges for various LASSO-type shrinkage methods in big-data modeling. This paper presents a comprehensive framework for a correlation-robust shrinkage estimator, enhancing both the theoretical and practical aspects of high-dimensional estimation. We break down the penalty term into a “shrinkage” term and a “grouping” term, illustrating its distinctive properties in clustering highly correlated variables. We establish the (non-)asymptotic properties of this estimator under relaxed assumptions regarding mixing conditions and heavier-tailed distributions. Furthermore, we demonstrate the consistency of model selection under mild conditions. Additionally, we propose a debiased version of the estimator, proving its asymptotic normality. Simulated data indicate that the debiased estimator surpasses traditional benchmarks. In an empirical application, we use this debiased estimator to identify key Economic Policy Uncertainty (EPU) factors that account for inflation levels. Our findings imply that news-based EPU factors are essential in explaining CPI dynamics.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference of the forecast error variance decomposition for set-identified SVARs
+AU  - Fusari, Francesco
+AU  - Marlow, Joe
+AU  - Volpicella, Alessio
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106233
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106233
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000540
+KW  - Forecast error variance decomposition
+KW  - Set-identification
+KW  - SVAR
+KW  - Monetary policy
+AB  - We study estimation and inference of the Forecast Error Variance Decomposition (FEVD) in Structural Vector Autoregressions (SVARs) that are set-identified by internal and external (proxy) restrictions. The FEVD measures the importance of shocks for macroeconomic fluctuations and is thus key to business cycle analysis. We deliver three practitioner-oriented results. First, we characterize the endpoints of the FEVD as the extreme eigenvalues of a symmetric reduced-form matrix, and propose a consistent plug-in estimator. Second, we use perturbation theory and establish differentiability of the FEVD bounds with respect to reduced-form parameters. Third, we construct a set-length-adjusted delta-method confidence interval that ensures the nominal point-wise coverage. Monte-Carlo exercises based on macroeconomic sample sizes show that it effectively balances validity and tightness relative to conventional alternatives. Two applications illustrate the practical advantages of our approach, including substantial speed-ups relative to robust Bayesian procedures.
+ER  - 
+
+TY  - JOUR
+T1  - The information matrix test for Gaussian mixtures
+AU  - Amengual, Dante
+AU  - Fiorentini, Gabriele
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106234
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106234
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000552
+KW  - Expectation-Maximisation principle
+KW  - Incomplete data
+KW  - Hessian matrix
+KW  - Outer product of the score
+AB  - We obtain the Information Matrix test for finite Gaussian mixtures exploiting the EM principle, which implies the moments tested are the expectation given the data of the moments one would assess if one knew the latent component each observation belongs to. Simulations indicate analytical expressions for the asymptotic covariance matrix of those moments adjusted for sampling variability in parameter estimators provide reliable finite sample sizes and good power against various alternatives, especially combined with the parametric bootstrap. We apply the test to the univariate distribution of per capita income across countries and its joint distribution with per capita CO2 emissions.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on breaks in weak location time series models with the estimating function approach
+AU  - Francq, Christian
+AU  - Trapani, Lorenzo
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106220
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106220
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000412
+KW  - Break detection in the conditional mean
+KW  - CUSUM
+KW  - Estimating functions
+KW  - Quasi-likelihood estimator
+KW  - Segmentation of minimal cost
+AB  - Drawing on Godambe’s theory of estimating functions, we present a statistical approach for identifying breaks in time series dynamics under weak assumptions. We assume a parametric form for the conditional mean but make no specific assumptions about the data-generating process (DGP), nor about the other conditional moments. The cumulative sum (CUSUM) statistics and segmentation of minimal cost (SMC) statistics that we consider depend on a sequence of weights that influence their asymptotic accuracy. We propose data-driven procedures for the optimal choice of the sequence of weights in Godambe’s sense. We also study modified versions of the tests that can detect breaks in the dynamics even when the conditional mean is misspecified. Local asymptotic power comparisons with other tests are also proposed. Our results are illustrated using Monte Carlo experiments and real financial data.
+ER  - 
+
+TY  - JOUR
+T1  - Monitoring joint tail risks: An application to growth and inflation
+AU  - Corradi, Valentina
+AU  - Llorens-Terrazas, Jordi
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106237
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106237
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000588
+KW  - GIaR
+KW  - Iso-Curve
+KW  - Joint exceedance
+KW  - Location-Scale
+KW  - Stagflation
+KW  - Worst-case scenario
+AB  - This paper develops the concept of Growth and Inflation at Risk frontier (GIaR). This is a bivariate generalisation of the concepts of Growth-at-Risk (GaR) and Inflation-at-Risk (IaR). We propose a novel approach to identify and estimate GIaR and provide uniformly valid upper and lower confidence bands. We first apply our procedure to predict the conditional probability of stagflation. Second, we compute worst-case scenarios for a policy maker who is concerned about the joint tail risk of low growth and high inflation, and we also study the effect that a tightening of financial conditions has on the joint tail risks.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical evaluation of some long-horizon macroeconomic forecasts
+AU  - Lunsford, Kurt G.
+AU  - West, Kenneth D.
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106221
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106221
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000424
+KW  - Fractional integration
+KW  - Forecast interval
+KW  - Low frequency
+AB  - We use long-run annual cross-country data for 10 macroeconomic variables to evaluate the long-horizon forecast distributions of six forecasting models. The variables we use range from ones having little serial correlation to ones having persistence consistent with unit roots. Our forecasting models include simple time series models and frequency domain models developed in Müller and Watson (2016). For plausibly stationary variables, an AR(1) model and a frequency domain model that does not require the user to take a stand on the order of integration appear reasonably well calibrated for forecast horizons of 10 and 25 years. For plausibly non-stationary variables, a random walk model appears reasonably well calibrated for forecast horizons of 10 and 25 years.
+ER  - 
+
+TY  - JOUR
+T1  - Integrated variance estimation for assets traded in multiple venues
+AU  - Dias, Gustavo Fruet
+AU  - Schweikert, Karsten
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106244
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106244
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000655
+KW  - High-frequency data
+KW  - Ornstein-Uhlenbeck process
+KW  - Cointegration
+KW  - Realized variance
+KW  - Realized kernel estimators
+KW  - Market microstructure
+KW  - Price discovery
+AB  - We identify a novel form of multiplicative market microstructure noise, referred to as fragmentation noise, which arises when the same asset is traded across multiple venues and information about the efficient price is dispersed across markets. We demonstrate that conventional estimators, such as realized variance and other well-established noise-robust methods, yield inconsistent estimates in the presence of fragmentation noise. To address this estimation issue, we propose a two-step estimator. In the first step, we use estimates of the drift to remove the fragmentation noise. In the second step, we apply the realized variance, bipower variation, or pre-averaging estimators, depending on the presence of jumps or additive market microstructure noise, to consistently estimate the integrated variance. We derive the asymptotic distribution of the two-step estimator under each specification and evaluate its performance through extensive simulations. An application to the constituents of the DJIA reveals that our two-step estimator outperforms the alternative univariate estimators under consideration.
+ER  - 
+
+TY  - JOUR
+T1  - Robust econometrics for growth-at-risk
+AU  - Adrian, Tobias
+AU  - Sasaki, Yuya
+AU  - Wang, Yulong
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106235
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106235
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000564
+KW  - Growth-at-risk
+KW  - Robust estimation
+KW  - Forecast distributions
+AB  - The Growth-at-Risk (GaR) framework has garnered attention in recent econometric literature, yet current approaches implicitly assume a constant Pareto exponent. We introduce novel and robust econometrics to estimate the tails of GaR based on a rigorous theoretical framework and establish validity and effectiveness. Simulations demonstrate consistent outperformance relative to existing alternatives in terms of predictive accuracy. We perform a long-term GaR analysis that provides accurate and insightful predictions, effectively capturing financial anomalies better than current methods.
+ER  - 
+
+TY  - JOUR
+T1  - Should we augment large covariance matrix estimation with auxiliary network information?
+AU  - Ge, Shuyi
+AU  - Li, Shaoran
+AU  - Linton, Oliver
+AU  - Liu, Weiguang
+AU  - Su, Wen
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106236
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106236
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000576
+KW  - Auxiliary network information
+KW  - High-dimensional covariance matrix
+KW  - Thresholding
+KW  - Banding
+KW  - Portfolio management
+KW  - : C13
+KW  - C58
+KW  - G11
+AB  - This paper uses the auxiliary network information, observed in addition to the original sample, to infer latent network structures in the population correlation matrix and thus improve high-dimensional covariance matrix estimation. Building on estimated Location Indicator and Relative Importance matrices, we propose two Network-Guided estimators. Network-Guided Thresholding uses auxiliary network data to regularize the large and small elements in the sample covariance matrices differentially, delivering a faster convergence rate over a more general class of sparse covariance matrices when auxiliary information is informative. Network-Guided Banding extends the banding estimators to allow for data without a natural ordering, using the relative importance of elements indicated by the auxiliary datasets to construct a neighbor ordering, which can achieve the optimal convergence rate that would be infeasible without the auxiliary network information. Extensive simulation studies show robust finite-sample gains of the proposed Network-Guided estimators over existing benchmark methods. The proposed methods also deliver superior out-of-sample performance relative to the established baseline models in the empirical application of constructing Global Minimum Variance (GMV) and Mean-Variance Optimal (MVO) portfolios in the Chinese stock market with various sources of auxiliary network information, including analyst co-coverage, news co-mentions, and industry classifications.
+ER  - 
+
+TY  - JOUR
+T1  - A uniformly valid test for instrument exogeneity
+AU  - Dovonon, Prosper
+AU  - Gospodinov, Nikolay
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106231
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106231
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000527
+KW  - Linear instrumental variables (IV) model
+KW  - Conditional test for instrument exogeneity
+KW  - Uniform inference
+KW  - Instrument strength
+KW  - Generalized method of moments (GMM) estimator
+KW  - Drifting sequences
+KW  - Expanding set of basis functions
+AB  - This paper studies the limiting behavior of the test for instrument exogeneity in linear models when there is uncertainty about the strength of the identification signal. We consider the test for conditional moment restrictions with an expanding set of constructed instruments. We establish the uniform validity of the standard normal asymptotic approximation, under the null, of this specification test over all possible degrees of model identification. As a result, this allows the researcher to use standard inference for testing instrument exogeneity without the need of any prior knowledge if the instruments are strong, semi-strong, weak or completely irrelevant. Furthermore, we show that the test is consistent regardless of the instrument strength; i.e., even in cases (weak and completely irrelevant instruments) where the standard tests fail to exhibit asymptotic power. To obtain these results, we characterize the rate of the estimator under a drifting sequence for the identification signal. We illustrate the appealing properties of the test in simulations and an empirical application.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference for unbalanced panel data models with interactive fixed effects
+AU  - Su, Liangjun
+AU  - Wang, Fa
+AU  - Wang, Yiren
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106222
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106222
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000436
+AB  - This paper establishes the inferential theory for unbalanced panel data models with interactive fixed effects. We propose a two-step estimation algorithm with the first step obtaining an initial consistent estimator followed by an alternating maximization procedure. We prove that the alternating maximization procedure is a contractionary mapping and the final estimator is asymptotically normal, as long as the initial estimator is consistent. We also develop analytical bias corrections according to the derived asymptotic bias expressions and the observed missing pattern. Our results cover important missing patterns such as completely exogenous missing, selection on regressors/factors/loadings and block/staggered missing, and we also show that our results can be readily extended to cases with a Heckman correction term or more general settings. An empirical analysis of the U.S. state-level tax rates from 1951 to 2000 with missing data reveals persistence in tax rates, while state income influences different taxes in varying ways.
+ER  - 
+
+TY  - JOUR
+T1  - Mixture matrix-valued autoregressive model
+AU  - Wu, Fei
+AU  - Chan, Kung-Sik
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106245
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106245
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000667
+KW  - Lyapunov exponent
+KW  - Multimodality
+KW  - Regime switching
+KW  - Stationarity
+KW  - Constrained VAR model
+AB  - Time series of matrix-valued data are increasingly available in various areas including economics, finance, social science, among others. These data may shed light on the inter-dynamical relationships between two sets of attributes, for instance, countries and economic indices. The matrix autoregressive (MAR) model provides a parsimonious approach for analyzing such data. However, the MAR model, being a linear model with parametric constraints, cannot capture the nonlinear patterns in the data, such as regime shifts in the dynamics. We propose a mixture matrix autoregressive (MMAR) model for analyzing potential regime shifts in the dynamics between two attributes, for instance, due to recession versus expansion, or stable period versus pandemic. We propose an EM algorithm for maximum likelihood estimation. We derive some theoretical properties of the proposed method including consistency and asymptotic distribution, and illustrate its performance via simulations and real applications.
+ER  - 
+
+TY  - JOUR
+T1  - Nuclear norm regularized estimation of panel regression models
+AU  - Moon, Hyungsik Roger
+AU  - Weidner, Martin
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106246
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106246
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000679
+KW  - Interactive fixed effects
+KW  - Factor models
+KW  - Nuclear norm regularization
+KW  - Convex optimization
+KW  - Iterative estimation
+AB  - In this paper we investigate panel regression models with interactive fixed effects. We propose two new estimation methods that are based on minimizing convex objective functions. The first method minimizes the sum of squared residuals with a nuclear (trace) norm regularization. The second method minimizes the nuclear norm of the residuals. We establish the consistency of the two resulting estimators. Those estimators have a very important computational advantage compared to the existing least squares (LS) estimator, in that they are defined as minimizers of a convex objective function. In addition, the nuclear norm penalization helps to resolve a potential identification problem for interactive fixed effect models, in particular when the regressors are low-rank and the number of the factors is unknown. We also show how to construct estimators that are asymptotically equivalent to the least squares (LS) estimator in Bai(2009) and Moo(2017) by using our nuclear norm regularized or minimized estimators as initial values for a finite number of LS minimizing iteration steps. This iteration avoids any non-convex minimization, while the original LS estimation problem is generally non-convex, and can have multiple local minima.
+ER  - 
+
+TY  - JOUR
+T1  - LASSO inference for high dimensional predictive regressions
+AU  - Gao, Zhan
+AU  - Lee, Ji Hyung
+AU  - Mei, Ziwei
+AU  - Shi, Zhentao
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106240
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106240
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000618
+KW  - Data-rich environment
+KW  - Forecast
+KW  - Hypothesis testing
+KW  - LASSO
+KW  - Local unit root
+KW  - Shrinkage
+AB  - LASSO inflicts shrinkage bias on estimated coefficients, which undermines asymptotic normality and invalidates standard inferential procedures based on the t-statistic. Given cross sectional data, the desparsified LASSO has emerged as a well-known remedy for correcting the shrinkage bias. In the context of high dimensional predictive regression, the desparsified LASSO faces an additional challenge: the Stambaugh bias arising from nonstationary regressors modeled as local unit roots. To restore standard inference, we propose a novel estimator called IVX-desparsified LASSO (XDlasso). XDlasso simultaneously eliminates both shrinkage bias and Stambaugh bias and does not require prior knowledge about the identities of nonstationary and stationary regressors. We establish the asymptotic properties of XDlasso for hypothesis testing, and our theoretical findings are supported by Monte Carlo simulations. Applying our method to real-world applications from the FRED-MD database, we investigate two important empirical questions: (i) the predictability of the U.S. stock returns based on the earnings-price ratio, and (ii) the predictability of the U.S. inflation using the unemployment.
+ER  - 
+
+TY  - JOUR
+T1  - The modified conditional sum-of-squares estimator for fractionally integrated models
+AU  - Kılınç, Mustafa R.
+AU  - Massmann, Michael
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106232
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106232
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000539
+KW  - Long memory
+KW  - Fractional integration
+KW  - Conditional sum-of-squares estimator
+KW  - Asymptotic expansion
+KW  - Small sample bias
+AB  - In this paper, we analyse the influence of estimating a constant term on the bias of the conditional sum-of-squares (CSS) estimator in a stationary or non-stationary type-II ARFIMA (p1, d, p2) model. We derive expressions for the estimator’s bias and show that the leading term can be easily removed by a simple modification of the CSS objective function. We call this new estimator the modified conditional sum-of-squares (MCSS) estimator. We show theoretically and by means of Monte Carlo simulations that its performance relative to that of the CSS estimator is markedly improved even for small sample sizes. Finally, we revisit three classical short datasets that have in the past been described by ARFIMA(p1, d, p2) models with constant term, namely the post-second World War real GNP data, the extended Nelson-Plosser data, and the Nile data.
+ER  - 
+
+TY  - JOUR
+T1  - Using spatial modeling to address covariate measurement error
+AU  - Schennach, Susanne M.
+AU  - Starck, Vincent
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106241
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106241
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762600062X
+KW  - Errors-in-variables
+KW  - Economic development
+KW  - Operator methods
+KW  - Spatial statistics
+AB  - We propose a new estimation methodology to address the presence of covariate measurement error by exploiting the availability of spatial data. The approach uses neighboring observations as repeated measurements, after suitably controlling for the random distance between the observations in a way that allows the use of operator diagonalization methods to establish identification. The method is applicable to general nonlinear models with potentially nonclassical errors and does not rely on a priori distributional assumptions regarding any of the variables. The method’s implementation combines a sieve semiparametric maximum likelihood with a first-step kernel estimator and simulation methods. The method’s effectiveness is illustrated through both controlled simulations and an application to the assessment of the effect of pre-colonial political structure on current economic development in Africa.
+ER  - 
+
+TY  - JOUR
+T1  - Latent factor analysis in short panels
+AU  - Fortin, Alain-Philippe
+AU  - Gagliardini, Patrick
+AU  - Scaillet, Olivier
+JO  - Journal of Econometrics
+VL  - 255
+SP  - 106249
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2026.106249
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407626000709
+KW  - Latent factor analysis
+KW  - Uniformly most powerful invariant test
+KW  - Panel data
+KW  - Large  and fixed  asymptotics
+KW  - Equity returns
+AB  - We develop a pseudo maximum likelihood method for latent factor analysis in short panels without imposing sphericity nor Gaussianity. We derive an asymptotically uniformly most powerful invariant test for the number of factors. On a large panel of monthly U.S. stock returns, we separate month after month systematic and idiosyncratic risks in short subperiods of bear vs. bull markets. We observe an uptrend in the paths of total and idiosyncratic volatilities. The systematic risk explains a large part of the cross-sectional total variance in bear markets but is not driven by a single factor and not spanned by observed factors.
+ER  - 

@@ -1,0 +1,872 @@
+
+
+
+
+
+TY  - JOUR
+T1  - 2022 Management Science Service Awards
+Y1  - 2022/10/01
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2022.4523
+DO  - 10.1287/mnsc.2022.4523
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7065
+EP  - 7068
+VL  - 68
+IS  - 10
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4523
+UR  - https://doi.org/10.1287/mnsc.2022.4523
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Experimental Design in Two-Sided Platforms: An Analysis of Bias
+AU  - Johari, Ramesh
+AU  - Li, Hannah
+AU  - Liskovich, Inessa
+AU  - Weintraub, Gabriel Y.
+Y1  - 2022/01/25
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4247
+DO  - 10.1287/mnsc.2021.4247
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7069
+EP  - 7089
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We develop an analytical framework to study experimental design in two-sided marketplaces. Many of these experiments exhibit interference, where an intervention applied to one market participant influences the behavior of another participant. This interference leads to biased estimates of the treatment effect of the intervention. We develop a stochastic market model and associated mean field limit to capture dynamics in such experiments and use our model to investigate how the performance of different designs and estimators is affected by marketplace interference effects. Platforms typically use two common experimental designs: demand-side ?customer? randomization (CR) and supply-side ?listing? randomization (LR), along with their associated estimators. We show that good experimental design depends on market balance; in highly demand-constrained markets, CR is unbiased, whereas LR is biased; conversely, in highly supply-constrained markets, LR is unbiased, whereas CR is biased. We also introduce and study a novel experimental design based on two-sided randomization (TSR) where both customers and listings are randomized to treatment and control. We show that appropriate choices of TSR designs can be unbiased in both extremes of market balance while yielding relatively low bias in intermediate regimes of market balance.This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+AB  - We develop an analytical framework to study experimental design in two-sided marketplaces. Many of these experiments exhibit interference, where an intervention applied to one market participant influences the behavior of another participant. This interference leads to biased estimates of the treatment effect of the intervention. We develop a stochastic market model and associated mean field limit to capture dynamics in such experiments and use our model to investigate how the performance of different designs and estimators is affected by marketplace interference effects. Platforms typically use two common experimental designs: demand-side ?customer? randomization (CR) and supply-side ?listing? randomization (LR), along with their associated estimators. We show that good experimental design depends on market balance; in highly demand-constrained markets, CR is unbiased, whereas LR is biased; conversely, in highly supply-constrained markets, LR is unbiased, whereas CR is biased. We also introduce and study a novel experimental design based on two-sided randomization (TSR) where both customers and listings are randomized to treatment and control. We show that appropriate choices of TSR designs can be unbiased in both extremes of market balance while yielding relatively low bias in intermediate regimes of market balance.This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4247
+UR  - https://doi.org/10.1287/mnsc.2021.4247
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Decision Forest: A Nonparametric Approach to Modeling Irrational Choice
+AU  - Chen, Yi-Chun
+AU  - Mišić, Velibor V.
+Y1  - 2022/01/21
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4256
+DO  - 10.1287/mnsc.2021.4256
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7090
+EP  - 7111
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Customer behavior is often assumed to follow weak rationality, which implies that adding a product to an assortment will not increase the choice probability of another product in that assortment. However, an increasing amount of research has revealed that customers are not necessarily rational when making decisions. In this paper, we propose a new nonparametric choice model that relaxes this assumption and can model a wider range of customer behavior, such as decoy effects between products. In this model, each customer type is associated with a binary decision tree, which represents a decision process for making a purchase based on checking for the existence of specific products in the assortment. Together with a probability distribution over customer types, we show that the resulting model?a decision forest?is able to represent any customer choice model, including models that are inconsistent with weak rationality. We theoretically characterize the depth of the forest needed to fit a data set of historical assortments and prove that with high probability, a forest whose depth scales logarithmically in the number of assortments is sufficient to fit most data sets. We also propose two practical algorithms?one based on column generation and one based on random sampling?for estimating such models from data. Using synthetic data and real transaction data exhibiting nonrational behavior, we show that the model outperforms both rational and nonrational benchmark models in out-of-sample predictive ability.This paper was accepted by Chung Piaw Teo, optimization.
+AB  - Customer behavior is often assumed to follow weak rationality, which implies that adding a product to an assortment will not increase the choice probability of another product in that assortment. However, an increasing amount of research has revealed that customers are not necessarily rational when making decisions. In this paper, we propose a new nonparametric choice model that relaxes this assumption and can model a wider range of customer behavior, such as decoy effects between products. In this model, each customer type is associated with a binary decision tree, which represents a decision process for making a purchase based on checking for the existence of specific products in the assortment. Together with a probability distribution over customer types, we show that the resulting model?a decision forest?is able to represent any customer choice model, including models that are inconsistent with weak rationality. We theoretically characterize the depth of the forest needed to fit a data set of historical assortments and prove that with high probability, a forest whose depth scales logarithmically in the number of assortments is sufficient to fit most data sets. We also propose two practical algorithms?one based on column generation and one based on random sampling?for estimating such models from data. Using synthetic data and real transaction data exhibiting nonrational behavior, we show that the model outperforms both rational and nonrational benchmark models in out-of-sample predictive ability.This paper was accepted by Chung Piaw Teo, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4256
+UR  - https://doi.org/10.1287/mnsc.2021.4256
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Pricing with Demand Learning and Reference Effects
+AU  - den Boer, Arnoud V.
+AU  - Keskin, N. Bora
+Y1  - 2022/08/08
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4234
+DO  - 10.1287/mnsc.2021.4234
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7112
+EP  - 7130
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We consider a seller?s dynamic pricing problem with demand learning and reference effects. We first study the case in which customers are loss-averse: they have a reference price that can vary over time, and the demand reduction when the selling price exceeds the reference price dominates the demand increase when the selling price falls behind the reference price by the same amount. Thus, the expected demand as a function of price has a time-varying ?kink? and is not differentiable everywhere. The seller neither knows the underlying demand function nor observes the time-varying reference prices. In this setting, we design and analyze a policy that (i) changes the selling price very slowly to control the evolution of the reference price and (ii) gradually accumulates sales data to balance the trade-off between learning and earning. We prove that, under a variety of reference-price updating mechanisms, our policy is asymptotically optimal; that is, its T-period revenue loss relative to a clairvoyant who knows the demand function and the reference-price updating mechanism grows at the smallest possible rate in T. We also extend our analysis to the case of a fixed reference price and show how reference effects increase the complexity of dynamic pricing with demand learning in this case. Moreover, we study the case in which customers are gain-seeking and design asymptotically optimal policies for this case. Finally, we design and analyze an asymptotically optimal statistical test for detecting whether customers are loss-averse or gain-seeking.This paper was accepted by Omar Besbes, revenue management and market analytics.
+AB  - We consider a seller?s dynamic pricing problem with demand learning and reference effects. We first study the case in which customers are loss-averse: they have a reference price that can vary over time, and the demand reduction when the selling price exceeds the reference price dominates the demand increase when the selling price falls behind the reference price by the same amount. Thus, the expected demand as a function of price has a time-varying ?kink? and is not differentiable everywhere. The seller neither knows the underlying demand function nor observes the time-varying reference prices. In this setting, we design and analyze a policy that (i) changes the selling price very slowly to control the evolution of the reference price and (ii) gradually accumulates sales data to balance the trade-off between learning and earning. We prove that, under a variety of reference-price updating mechanisms, our policy is asymptotically optimal; that is, its T-period revenue loss relative to a clairvoyant who knows the demand function and the reference-price updating mechanism grows at the smallest possible rate in T. We also extend our analysis to the case of a fixed reference price and show how reference effects increase the complexity of dynamic pricing with demand learning in this case. Moreover, we study the case in which customers are gain-seeking and design asymptotically optimal policies for this case. Finally, we design and analyze an asymptotically optimal statistical test for detecting whether customers are loss-averse or gain-seeking.This paper was accepted by Omar Besbes, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4234
+UR  - https://doi.org/10.1287/mnsc.2021.4234
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Investor Tastes, Corporate Behavior, and Stock Returns: An Analysis of Corporate Social Responsibility
+AU  - Hwang, Chuan Yang
+AU  - Titman, Sheridan
+AU  - Wang, Ying
+Y1  - 2021/12/14
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4179
+DO  - 10.1287/mnsc.2021.4179
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7131
+EP  - 7152
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We classify institutions into socially responsible investors (SRI) and not socially responsible investors using the value weighted corporate social responsibility (CSR) scores of their portfolio holdings. We find that firms that exhibit increases in SRI ownership tend to increase future CSR scores. Our analysis of stock price responses to the revelation of SRI ownership changes indicates that the revelation of higher SRI ownership is associated with negative stock returns. These effects are particularly strong when we focus on SRI-activists, who tend to target firms with low CSR scores and lobby to increase them over time. These observations are consistent with the hypothesis that anticipated increases in CSR activities reduce firm values.This paper was accepted by David Simchi-Levi, finance.
+AB  - We classify institutions into socially responsible investors (SRI) and not socially responsible investors using the value weighted corporate social responsibility (CSR) scores of their portfolio holdings. We find that firms that exhibit increases in SRI ownership tend to increase future CSR scores. Our analysis of stock price responses to the revelation of SRI ownership changes indicates that the revelation of higher SRI ownership is associated with negative stock returns. These effects are particularly strong when we focus on SRI-activists, who tend to target firms with low CSR scores and lobby to increase them over time. These observations are consistent with the hypothesis that anticipated increases in CSR activities reduce firm values.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4179
+UR  - https://doi.org/10.1287/mnsc.2021.4179
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - When Is Society Susceptible to Manipulation?
+AU  - Mostagir, Mohamed
+AU  - Ozdaglar, Asuman
+AU  - Siderius, James
+Y1  - 2022/01/21
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4265
+DO  - 10.1287/mnsc.2021.4265
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7153
+EP  - 7175
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We consider a social learning model where agents learn about an underlying state of the world from individual observations as well as from exchanging information with each other. A principal (e.g., a firm or a government) interferes with the learning process in order to manipulate the beliefs of the agents. By utilizing the same forces that give rise to the ?wisdom of the crowd? phenomenon, the principal can get the agents to take an action that is not necessarily optimal for them but is in the principal?s best interest. We characterize the social norms and network structures that are susceptible to this kind of manipulation and derive conditions under which a social network is impervious and cannot be manipulated. In the process, we develop a new centrality measure and describe how our model offers insights into designing networks that are resistant to manipulation.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - We consider a social learning model where agents learn about an underlying state of the world from individual observations as well as from exchanging information with each other. A principal (e.g., a firm or a government) interferes with the learning process in order to manipulate the beliefs of the agents. By utilizing the same forces that give rise to the ?wisdom of the crowd? phenomenon, the principal can get the agents to take an action that is not necessarily optimal for them but is in the principal?s best interest. We characterize the social norms and network structures that are susceptible to this kind of manipulation and derive conditions under which a social network is impervious and cannot be manipulated. In the process, we develop a new centrality measure and describe how our model offers insights into designing networks that are resistant to manipulation.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4265
+UR  - https://doi.org/10.1287/mnsc.2021.4265
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Science and the Market for Technology
+AU  - Arora, Ashish
+AU  - Belenzon, Sharon
+AU  - Suh, Jungkyu
+Y1  - 2022/01/27
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4268
+DO  - 10.1287/mnsc.2021.4268
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7176
+EP  - 7201
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Well-functioning markets for technology (MFT) allow inventors to sell their inventions to others that may derive more value from them. We argue that the growing use of science in inventions enhances MFT. Science-based inventions have higher gains from trade and lower transaction costs. This relationship is amplified in equilibrium because science-based inventions are also likely to feature smaller inventors with a greater propensity to trade. Using large-scale data, we show that patents citing science are more likely to be traded, especially for novel patents and for smaller inventors. We conclude that the growing use of science in invention is beneficial by encouraging the expansion of MFT and supporting a division of innovative labor.This paper was accepted by David Simchi-Levi, entrepreneurship and innovation.
+AB  - Well-functioning markets for technology (MFT) allow inventors to sell their inventions to others that may derive more value from them. We argue that the growing use of science in inventions enhances MFT. Science-based inventions have higher gains from trade and lower transaction costs. This relationship is amplified in equilibrium because science-based inventions are also likely to feature smaller inventors with a greater propensity to trade. Using large-scale data, we show that patents citing science are more likely to be traded, especially for novel patents and for smaller inventors. We conclude that the growing use of science in invention is beneficial by encouraging the expansion of MFT and supporting a division of innovative labor.This paper was accepted by David Simchi-Levi, entrepreneurship and innovation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4268
+UR  - https://doi.org/10.1287/mnsc.2021.4268
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Tax-Induced Inequalities in the Sharing Economy
+AU  - Cui, Yao
+AU  - Davis, Andrew M.
+Y1  - 2022/01/12
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4277
+DO  - 10.1287/mnsc.2021.4277
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7202
+EP  - 7220
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - The growth of sharing economy marketplaces like Airbnb has generated discussions on their socioeconomic impact and lack of regulation. As a result, most major cities in the United States have started to collect an ?occupancy tax? for Airbnb bookings. In this study, we investigate the heterogeneous treatment effects of the occupancy tax policy on Airbnb listings, using a combination of a generalized causal forest methodology and a difference-in-differences framework. While we find that the introduction of the tax significantly reduces both listing revenues and sales, more importantly, these effects are disproportionately more pronounced for residential hosts with single shared-space (nontarget) listings versus commercial hosts with multiple properties or entire-space (target) listings. We further show that this unintended consequence is caused by customers? discriminatory tax aversion against nontarget listings. We then leverage these empirical results by prescribing how hosts should optimally set prices in response to the occupancy tax and identify the discriminatory tax rates that would equalize the tax?s effect across nontarget and target listings.This paper was accepted by Victor Martínez-de-Albéniz, operations management.
+AB  - The growth of sharing economy marketplaces like Airbnb has generated discussions on their socioeconomic impact and lack of regulation. As a result, most major cities in the United States have started to collect an ?occupancy tax? for Airbnb bookings. In this study, we investigate the heterogeneous treatment effects of the occupancy tax policy on Airbnb listings, using a combination of a generalized causal forest methodology and a difference-in-differences framework. While we find that the introduction of the tax significantly reduces both listing revenues and sales, more importantly, these effects are disproportionately more pronounced for residential hosts with single shared-space (nontarget) listings versus commercial hosts with multiple properties or entire-space (target) listings. We further show that this unintended consequence is caused by customers? discriminatory tax aversion against nontarget listings. We then leverage these empirical results by prescribing how hosts should optimally set prices in response to the occupancy tax and identify the discriminatory tax rates that would equalize the tax?s effect across nontarget and target listings.This paper was accepted by Victor Martínez-de-Albéniz, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4277
+UR  - https://doi.org/10.1287/mnsc.2021.4277
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Brand Capital and Stock Price Crash Risk
+AU  - Hasan, Mostafa Monzur
+AU  - Taylor, Grantley
+AU  - Richardson, Grant
+Y1  - 2021/12/07
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4197
+DO  - 10.1287/mnsc.2021.4197
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7221
+EP  - 7247
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We examine the relationship between brand capital and stock price crash risk. Crash risk, defined as the negative skewness in the distribution of returns for individual stocks, captures asymmetry in risk, and has important implications for investment choices and risk management. Using a sample of 39,685 publicly listed U.S. firm-year observations covering 1975 to 2018, we show that brand capital is significantly and negatively related to crash risk. We also use an advanced machine learning approach and confirm that brand capital is a strong predictor of future stock price crashes. Our cross-sectional analyses show that this negative relationship is more evident for subsamples with transitory poor earnings performance or persistent good earnings performance, greater corporate tax avoidance, and weak corporate governance structures. The results survive numerous robustness tests, including the use of alternative measures of brand capital, crash risk, and several endogeneity tests. In sum, our findings are consistent with agency theory, suggesting that high levels of brand capital expose firms to investor and customer scrutiny, which reduces managerial opportunistic behavior that may include the accumulation and concealment of negative information.This paper was accepted by Karl Diether, finance.
+AB  - We examine the relationship between brand capital and stock price crash risk. Crash risk, defined as the negative skewness in the distribution of returns for individual stocks, captures asymmetry in risk, and has important implications for investment choices and risk management. Using a sample of 39,685 publicly listed U.S. firm-year observations covering 1975 to 2018, we show that brand capital is significantly and negatively related to crash risk. We also use an advanced machine learning approach and confirm that brand capital is a strong predictor of future stock price crashes. Our cross-sectional analyses show that this negative relationship is more evident for subsamples with transitory poor earnings performance or persistent good earnings performance, greater corporate tax avoidance, and weak corporate governance structures. The results survive numerous robustness tests, including the use of alternative measures of brand capital, crash risk, and several endogeneity tests. In sum, our findings are consistent with agency theory, suggesting that high levels of brand capital expose firms to investor and customer scrutiny, which reduces managerial opportunistic behavior that may include the accumulation and concealment of negative information.This paper was accepted by Karl Diether, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4197
+UR  - https://doi.org/10.1287/mnsc.2021.4197
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Is the Chinese Anticorruption Campaign Authentic? Evidence from Corporate Investigations
+AU  - Griffin, John M.
+AU  - Liu, Clark
+AU  - Shu, Tao
+Y1  - 2021/12/30
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4181
+DO  - 10.1287/mnsc.2021.4181
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7248
+EP  - 7273
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - This paper examines whether the massive Chinese anticorruption campaign ensnares corrupt firms, contains a political component, and reduces corporate corruption. Consistent with the campaign?s stated objectives, investigated executives are more likely to come from Chinese firms with characteristics commonly associated with measures of poor governance, self-dealing, and inefficiencies. However, affiliations with prominent investigated political leaders increase investigation likelihood, while university affiliations with current central leadership decrease investigation likelihood, possibly indicating political partiality. Except for reported entertainment expenditures and chief executive officer pay, there has been little evidence of a substantial overall decrease in measures of potential corporate corruption.This paper was accepted by Tomasz Piskorski, finance.
+AB  - This paper examines whether the massive Chinese anticorruption campaign ensnares corrupt firms, contains a political component, and reduces corporate corruption. Consistent with the campaign?s stated objectives, investigated executives are more likely to come from Chinese firms with characteristics commonly associated with measures of poor governance, self-dealing, and inefficiencies. However, affiliations with prominent investigated political leaders increase investigation likelihood, while university affiliations with current central leadership decrease investigation likelihood, possibly indicating political partiality. Except for reported entertainment expenditures and chief executive officer pay, there has been little evidence of a substantial overall decrease in measures of potential corporate corruption.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4181
+UR  - https://doi.org/10.1287/mnsc.2021.4181
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Do Venture Capital Investors Learn from Public Markets?
+AU  - Liu, Bibo
+AU  - Tian, Xuan
+Y1  - 2021/12/10
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4201
+DO  - 10.1287/mnsc.2021.4201
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7274
+EP  - 7297
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We examine whether venture capital (VC) investors learn information contained in public market stock prices. VCs are less likely to stage finance startups and syndicate with other VCs when stock prices are more informative. An instrumental variable approach suggests that the relation is likely causal. The startup?s initial public offering (IPO) prospect is the plausible information contained in stock prices learned by VCs. The effect of VC learning on staging and syndication is more pronounced when collecting information is more costly and the information learned is more reliable. Evidence from a survey of VC investors confirms that they actively learn information from the public market. VCs? learning from the public market significantly affects their investments across startup firms. Our paper sheds new light on the real effects of financial markets and suggests that the informational role of security prices is much broader than what we have thought.This paper was accepted by Gustavo Manso, finance.
+AB  - We examine whether venture capital (VC) investors learn information contained in public market stock prices. VCs are less likely to stage finance startups and syndicate with other VCs when stock prices are more informative. An instrumental variable approach suggests that the relation is likely causal. The startup?s initial public offering (IPO) prospect is the plausible information contained in stock prices learned by VCs. The effect of VC learning on staging and syndication is more pronounced when collecting information is more costly and the information learned is more reliable. Evidence from a survey of VC investors confirms that they actively learn information from the public market. VCs? learning from the public market significantly affects their investments across startup firms. Our paper sheds new light on the real effects of financial markets and suggests that the informational role of security prices is much broader than what we have thought.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4201
+UR  - https://doi.org/10.1287/mnsc.2021.4201
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Data Breach Announcements and Stock Market Reactions: A Matter of Timing?
+AU  - Foerderer, Jens
+AU  - Schuetz, Sebastian W.
+Y1  - 2022/02/15
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4264
+DO  - 10.1287/mnsc.2021.4264
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7298
+EP  - 7322
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Although firms? announcement of data breaches can lead to reputational or operational damages, extant research suggests that stock markets are relatively unresponsive to such announcements. We investigate whether markets? unresponsiveness can be explained by firms strategically timing the announcement to coincide with busy days in the media, thereby reducing attention and, ultimately, attenuating market reactions. We leverage novel data on data breach announcements in the United States between 2008 and 2018 and create a measure of busyness in the trade press?news pressure?based on the Wall Street Journal. To investigate, we conduct two complementary studies. In Study 1, we employ an instrumental variable approach to assess whether announcements coincide with days of predictably high news pressure. We find that this is the case. On days with a one-standard-deviation-higher predictable news pressure, 4.44% more data breaches are announced (or approximately 19.024 data records). Strategic timing is more prevalent for breaches that are severe, that have firm-internal causes, and that leak healthcare data or credentials. In Study 2, we utilize a stock market event study to assess market reactions conditional on news pressure on the announcement day. We find that data breach announcements are associated with negative market reactions, yet these are attenuated by higher news pressure on the announcement day. If news pressure is on its empirical mean (respectively, one standard deviation above), we estimate a median decline in market capitalization of $347 (respectively, $85) million. We conclude that firms? strategic timing might explain inconsistent findings in prior work.This paper was accepted by Chris Forman, information systems.
+AB  - Although firms? announcement of data breaches can lead to reputational or operational damages, extant research suggests that stock markets are relatively unresponsive to such announcements. We investigate whether markets? unresponsiveness can be explained by firms strategically timing the announcement to coincide with busy days in the media, thereby reducing attention and, ultimately, attenuating market reactions. We leverage novel data on data breach announcements in the United States between 2008 and 2018 and create a measure of busyness in the trade press?news pressure?based on the Wall Street Journal. To investigate, we conduct two complementary studies. In Study 1, we employ an instrumental variable approach to assess whether announcements coincide with days of predictably high news pressure. We find that this is the case. On days with a one-standard-deviation-higher predictable news pressure, 4.44% more data breaches are announced (or approximately 19.024 data records). Strategic timing is more prevalent for breaches that are severe, that have firm-internal causes, and that leak healthcare data or credentials. In Study 2, we utilize a stock market event study to assess market reactions conditional on news pressure on the announcement day. We find that data breach announcements are associated with negative market reactions, yet these are attenuated by higher news pressure on the announcement day. If news pressure is on its empirical mean (respectively, one standard deviation above), we estimate a median decline in market capitalization of $347 (respectively, $85) million. We conclude that firms? strategic timing might explain inconsistent findings in prior work.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4264
+UR  - https://doi.org/10.1287/mnsc.2021.4264
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Why Bitcoin Will Fail to Scale?
+AU  - Malik, Nikhil
+AU  - Aseri, Manmohan
+AU  - Singh, Param Vir
+AU  - Srinivasan, Kannan
+Y1  - 2022/01/11
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4271
+DO  - 10.1287/mnsc.2021.4271
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7323
+EP  - 7349
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Bitcoin falls dramatically short of the scale provided by banks for payments. Currently, its ledger grows by the addition of blocks of ?2,000 transactions every 10 minutes. Intuitively, one would expect that increasing the block capacity would solve this scaling problem. However, we show that increasing the block capacity would be futile. We analyze strategic interactions of miners, who are heterogeneous in their power over block addition, and users, who are heterogeneous in the value of their transactions, using a game-theoretic model. We show that a capacity increase can facilitate large miners to tacitly collude?artificially reversing back the capacity via strategically adding partially filled blocks in order to extract economic rents. This strategic partial filling crowds out low-value payments. Collusion is sustained if the smallest colluding miner has a share of block addition power above a lower bound. We provide empirical evidence of such strategic partial filling of blocks by large miners of Bitcoin. We show that a protocol design intervention can breach the lower bound and eliminate collusion. However, this also makes the system less secure. On the one hand, collusion crowds out low-value payments; on the other hand, if collusion is suppressed, security threatens high-value payments. As a result, it is untenable to include a range of payments with vastly different outside options, willingness to bear security risk, and delay onto a single chain. Thus, we show economic limits to the scalability of Bitcoin. Under these economic limits, collusive rent extraction acts as an effective mechanism to invest in platform security and build responsiveness to demand shocks. These traits are otherwise hard to attain in a disintermediated setting owing to the high cost of consensus.This paper was accepted by Kartik Hosanagar, information systems.
+AB  - Bitcoin falls dramatically short of the scale provided by banks for payments. Currently, its ledger grows by the addition of blocks of ?2,000 transactions every 10 minutes. Intuitively, one would expect that increasing the block capacity would solve this scaling problem. However, we show that increasing the block capacity would be futile. We analyze strategic interactions of miners, who are heterogeneous in their power over block addition, and users, who are heterogeneous in the value of their transactions, using a game-theoretic model. We show that a capacity increase can facilitate large miners to tacitly collude?artificially reversing back the capacity via strategically adding partially filled blocks in order to extract economic rents. This strategic partial filling crowds out low-value payments. Collusion is sustained if the smallest colluding miner has a share of block addition power above a lower bound. We provide empirical evidence of such strategic partial filling of blocks by large miners of Bitcoin. We show that a protocol design intervention can breach the lower bound and eliminate collusion. However, this also makes the system less secure. On the one hand, collusion crowds out low-value payments; on the other hand, if collusion is suppressed, security threatens high-value payments. As a result, it is untenable to include a range of payments with vastly different outside options, willingness to bear security risk, and delay onto a single chain. Thus, we show economic limits to the scalability of Bitcoin. Under these economic limits, collusive rent extraction acts as an effective mechanism to invest in platform security and build responsiveness to demand shocks. These traits are otherwise hard to attain in a disintermediated setting owing to the high cost of consensus.This paper was accepted by Kartik Hosanagar, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4271
+UR  - https://doi.org/10.1287/mnsc.2021.4271
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Leverage Factor: Credit Cycles and Asset Returns
+AU  - Davis, Josh
+AU  - Taylor, Alan M.
+Y1  - 2022/08/04
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2022.4508
+DO  - 10.1287/mnsc.2022.4508
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7350
+EP  - 7361
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Research has found strong links between past credit booms and adverse outcomes for macroeconomic aggregates like output and investment. However, are price impacts also seen more widely in broad asset classes such as equity and fixed-income markets? We document such a robust and significant connection using a large sample of historical data for many advanced countries since 1870. Credit boom periods with a high ?leverage factor? tend to be predictably followed by unusually low returns to risky equities, in absolute terms and relative to a safe fixed-income portfolio. Fixed income is a safe haven at these times and has slightly higher than normal returns. We show these properties hold in-sample and out-of-sample. Return predictability because of the leverage factor is distinct from that because of momentum (lagged return) and value (cashflow relative to price). Trading strategies built on the leverage factor accrue meaningful excess profits out-of-sample.This paper was accepted by Victoria Ivashina, finance.
+AB  - Research has found strong links between past credit booms and adverse outcomes for macroeconomic aggregates like output and investment. However, are price impacts also seen more widely in broad asset classes such as equity and fixed-income markets? We document such a robust and significant connection using a large sample of historical data for many advanced countries since 1870. Credit boom periods with a high ?leverage factor? tend to be predictably followed by unusually low returns to risky equities, in absolute terms and relative to a safe fixed-income portfolio. Fixed income is a safe haven at these times and has slightly higher than normal returns. We show these properties hold in-sample and out-of-sample. Return predictability because of the leverage factor is distinct from that because of momentum (lagged return) and value (cashflow relative to price). Trading strategies built on the leverage factor accrue meaningful excess profits out-of-sample.This paper was accepted by Victoria Ivashina, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4508
+UR  - https://doi.org/10.1287/mnsc.2022.4508
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Joint Learning and Optimization for Multi-Product Pricing (and Ranking) Under a General Cascade Click Model
+AU  - Gao, Xiangyu
+AU  - Jasin, Stefanus
+AU  - Najafi, Sajjad
+AU  - Zhang, Huanan
+Y1  - 2022/01/28
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4246
+DO  - 10.1287/mnsc.2021.4246
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7362
+EP  - 7382
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We consider joint learning and optimization problems under a general Cascade Click model. Under this model, customers examine the products in a decreasing order of display, from the top to (potentially) the bottom of the list. At each step, customers can decide to either purchase the current product, forego the current product and continue examining the next product, or simply terminate the search without purchasing any product. We first consider the core pricing problem, where the display position (ranking) of each product is fixed and the only decision that the firm needs to make is pricing. We then consider an extension to the problem of joint ranking and pricing in the presence of filtering options, which the customers can use to filter out some undesirable products. For both problems, we develop Upper Confidence Bound (UCB)-based joint learning and optimization algorithms with theoretical performance guarantees. The key challenge here is in constructing a UCB algorithm that exploits the structure of the Cascade Click model while at the same time taking into account all of the historical click and purchase information. Our numerical results yield three key insights. First, naively applying a standard black box UCB algorithm without adapting it to the Cascade structure is very inefficient and results in a huge loss in total revenues during a finite horizon. Second, applying a learning algorithm by assuming a mis-specified model that ignores the Cascade behavior may result in a highly suboptimal solution. Third, jointly optimizing ranking and pricing can significantly improve performance. Thus, although in practice these decisions are sometimes made separately due to organizational structure, our results suggest that a significant benefit can be realized when the two decisions are more closely coordinated.This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - We consider joint learning and optimization problems under a general Cascade Click model. Under this model, customers examine the products in a decreasing order of display, from the top to (potentially) the bottom of the list. At each step, customers can decide to either purchase the current product, forego the current product and continue examining the next product, or simply terminate the search without purchasing any product. We first consider the core pricing problem, where the display position (ranking) of each product is fixed and the only decision that the firm needs to make is pricing. We then consider an extension to the problem of joint ranking and pricing in the presence of filtering options, which the customers can use to filter out some undesirable products. For both problems, we develop Upper Confidence Bound (UCB)-based joint learning and optimization algorithms with theoretical performance guarantees. The key challenge here is in constructing a UCB algorithm that exploits the structure of the Cascade Click model while at the same time taking into account all of the historical click and purchase information. Our numerical results yield three key insights. First, naively applying a standard black box UCB algorithm without adapting it to the Cascade structure is very inefficient and results in a huge loss in total revenues during a finite horizon. Second, applying a learning algorithm by assuming a mis-specified model that ignores the Cascade behavior may result in a highly suboptimal solution. Third, jointly optimizing ranking and pricing can significantly improve performance. Thus, although in practice these decisions are sometimes made separately due to organizational structure, our results suggest that a significant benefit can be realized when the two decisions are more closely coordinated.This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4246
+UR  - https://doi.org/10.1287/mnsc.2021.4246
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - From Contextualizing to Context Theorizing: Assessing Context Effects in Privacy Research
+AU  - Xu, Heng
+AU  - Zhang, Nan
+Y1  - 2022/01/31
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4249
+DO  - 10.1287/mnsc.2021.4249
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7383
+EP  - 7401
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Over the past two decades, behavioral research in privacy has made considerable progress transitioning from acontextual studies to using contextualization as a powerful sensitizing device for illuminating the boundary conditions of privacy theories. Significant challenges and opportunities wait, however, on elevating and converging individually contextualized studies to a context-contingent theory that explicates the mechanisms through which contexts influence consumers? privacy concerns and their behavioral reactions. This paper identifies the important barriers occasioned by this lack of context theorizing on the generalizability of privacy research findings and argues for accelerating the transition from the contextualization of individual research studies to an integrative understanding of context effects on privacy concerns. It also takes a first step toward this goal by providing a conceptual framework and the associated methodological instantiation for assessing how context-oriented nuances influence privacy concerns. Empirical evidence demonstrates the value of the framework as a diagnostic device guiding the selection of contextual contingencies in future research, so as to advance the pace of convergence toward context-contingent theories in information privacy.This paper was accepted by Anindya Ghose, information systems.
+AB  - Over the past two decades, behavioral research in privacy has made considerable progress transitioning from acontextual studies to using contextualization as a powerful sensitizing device for illuminating the boundary conditions of privacy theories. Significant challenges and opportunities wait, however, on elevating and converging individually contextualized studies to a context-contingent theory that explicates the mechanisms through which contexts influence consumers? privacy concerns and their behavioral reactions. This paper identifies the important barriers occasioned by this lack of context theorizing on the generalizability of privacy research findings and argues for accelerating the transition from the contextualization of individual research studies to an integrative understanding of context effects on privacy concerns. It also takes a first step toward this goal by providing a conceptual framework and the associated methodological instantiation for assessing how context-oriented nuances influence privacy concerns. Empirical evidence demonstrates the value of the framework as a diagnostic device guiding the selection of contextual contingencies in future research, so as to advance the pace of convergence toward context-contingent theories in information privacy.This paper was accepted by Anindya Ghose, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4249
+UR  - https://doi.org/10.1287/mnsc.2021.4249
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Online Learning and Optimization for Revenue Management Problems with Add-on Discounts
+AU  - Simchi-Levi, David
+AU  - Sun, Rui
+AU  - Zhang, Huanan
+Y1  - 2022/01/12
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4222
+DO  - 10.1287/mnsc.2021.4222
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7402
+EP  - 7421
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We study in this paper a revenue-management problem with add-on discounts. The problem is motivated by the practice in the video game industry by which a retailer offers discounts on selected supportive products (e.g., video games) to customers who have also purchased the core products (e.g., video game consoles). We formulate this problem as an optimization problem to determine the prices of different products and the selection of products for add-on discounts. In the base model, we focus on an independent demand structure. To overcome the computational challenge of this optimization problem, we propose an efficient fully polynomial-time approximation scheme (FPTAS) algorithm that solves the problem approximately to any desired accuracy. Moreover, we consider the problem in the setting in which the retailer has no prior knowledge of the demand functions of different products. To solve this joint learning and optimization problem, we propose an upper confidence bound?based learning algorithm that uses the FPTAS optimization algorithm as a subroutine. We show that our learning algorithm can converge to the optimal algorithm that has access to the true demand functions, and the convergence rate is tight up to a certain logarithmic term. We further show that these results for the independent demand model can be extended to multinomial logit choice models. In addition, we conduct numerical experiments with the real-world transaction data we collect from a popular video gaming brand?s online store on Tmall.com. The experiment results illustrate our learning algorithm?s robust performance and fast convergence in various scenarios. We also compare our algorithm with the optimal policy that does not use any add-on discount. The comparison results show the advantages of using the add-on discount strategy in practice.This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - We study in this paper a revenue-management problem with add-on discounts. The problem is motivated by the practice in the video game industry by which a retailer offers discounts on selected supportive products (e.g., video games) to customers who have also purchased the core products (e.g., video game consoles). We formulate this problem as an optimization problem to determine the prices of different products and the selection of products for add-on discounts. In the base model, we focus on an independent demand structure. To overcome the computational challenge of this optimization problem, we propose an efficient fully polynomial-time approximation scheme (FPTAS) algorithm that solves the problem approximately to any desired accuracy. Moreover, we consider the problem in the setting in which the retailer has no prior knowledge of the demand functions of different products. To solve this joint learning and optimization problem, we propose an upper confidence bound?based learning algorithm that uses the FPTAS optimization algorithm as a subroutine. We show that our learning algorithm can converge to the optimal algorithm that has access to the true demand functions, and the convergence rate is tight up to a certain logarithmic term. We further show that these results for the independent demand model can be extended to multinomial logit choice models. In addition, we conduct numerical experiments with the real-world transaction data we collect from a popular video gaming brand?s online store on Tmall.com. The experiment results illustrate our learning algorithm?s robust performance and fast convergence in various scenarios. We also compare our algorithm with the optimal policy that does not use any add-on discount. The comparison results show the advantages of using the add-on discount strategy in practice.This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4222
+UR  - https://doi.org/10.1287/mnsc.2021.4222
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Appointment Scheduling for Multiple Servers
+AU  - Kuiper, Alex
+AU  - Lee, Robert H.
+Y1  - 2022/02/04
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4221
+DO  - 10.1287/mnsc.2021.4221
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7422
+EP  - 7440
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Appointment schedules, in essence, balance supply and demand and are often employed in settings where resources are scarce and thus a high utilization is realized (e.g., healthcare). Whereas most of the existing literature focuses on the single-server case, a framework is developed to study appointment scheduling in multiserver settings. Relying on phase-type approximations, general service-time distributions are modeled, which are fed into a recursive approach allowing evaluation and optimization of an objective function that balances expected waiting times and idle times. Studying optimized schedules for multiple servers reveals that the start and end of a session can deviate greatly from the dome-shaped pattern as established for the single-server case. Furthermore, a comparison of various multiserver setups shows that significant performance gains can be achieved when servers are pooled. This allows an explicit quantification of the cost of continuity of care. In addition, session overtime as well as early finish of servers can be incorporated in the approach; the benefits of the additional flexibility that a multiserver setting provides are summarized. For the stationary plateau of the dome, to which the optimal interarrival times converge, steady-state appointment schedules are obtained by exploiting the embedded Markov chain; these schedules are shown and argued to converge quickly to optimal solutions obtained in a heavy-traffic regime. In this regime, algebraic solutions are derived, which provide interesting managerial guidelines when the pooling of servers is considered in appointment scheduling.This paper was accepted by Bari? Ata, stochastic models and simulation.
+AB  - Appointment schedules, in essence, balance supply and demand and are often employed in settings where resources are scarce and thus a high utilization is realized (e.g., healthcare). Whereas most of the existing literature focuses on the single-server case, a framework is developed to study appointment scheduling in multiserver settings. Relying on phase-type approximations, general service-time distributions are modeled, which are fed into a recursive approach allowing evaluation and optimization of an objective function that balances expected waiting times and idle times. Studying optimized schedules for multiple servers reveals that the start and end of a session can deviate greatly from the dome-shaped pattern as established for the single-server case. Furthermore, a comparison of various multiserver setups shows that significant performance gains can be achieved when servers are pooled. This allows an explicit quantification of the cost of continuity of care. In addition, session overtime as well as early finish of servers can be incorporated in the approach; the benefits of the additional flexibility that a multiserver setting provides are summarized. For the stationary plateau of the dome, to which the optimal interarrival times converge, steady-state appointment schedules are obtained by exploiting the embedded Markov chain; these schedules are shown and argued to converge quickly to optimal solutions obtained in a heavy-traffic regime. In this regime, algebraic solutions are derived, which provide interesting managerial guidelines when the pooling of servers is considered in appointment scheduling.This paper was accepted by Bari? Ata, stochastic models and simulation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4221
+UR  - https://doi.org/10.1287/mnsc.2021.4221
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Design of Electricity Demand-Response Programs
+AU  - Agrawal, Vishal V.
+AU  - Yücel, Şafak
+Y1  - 2022/01/28
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4278
+DO  - 10.1287/mnsc.2021.4278
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7441
+EP  - 7456
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - During a heat wave on a summer afternoon, a utility firm may face unusually high demand and procurement cost for electricity. Under such conditions, a demand-response event occurs, and the firm asks residential customers to reduce their demand. Such a demand-response program not only reduces the firm?s procurement cost, but it can also be environmentally beneficial by reducing generation from emissions-intensive power plants. In a demand-response program, a utility firm pays a rebate to customers for each unit of their demand reduction?the difference between a customer?s demand and consumption. However, the demand reduction cannot be directly measured because the firm cannot observe the customer?s demand, but only its consumption. Accordingly, a utility firm estimates the demand reduction by subtracting the consumption from a baseline, which is typically set as a customer?s average historical demand. In this paper, we first investigate how the existence of a baseline influences a customer?s demand reduction decision and when it leads to under- or overestimation of the actual demand reduction. We then analyze how a utility firm should adjust the baseline from the customer?s average demand. We find that it should inflate (deflate) the baseline if the cost difference between event and non-event periods is large (small), even though this may lead to greater overestimation (underestimation) of the customer?s demand reduction. Interestingly, we show that inflation of the baseline, which one would expect to make reducing demand more attractive for a customer, can actually lead to a smaller demand reduction, resulting in higher emissions.This paper was accepted by Vishal Gaur, operations management.
+AB  - During a heat wave on a summer afternoon, a utility firm may face unusually high demand and procurement cost for electricity. Under such conditions, a demand-response event occurs, and the firm asks residential customers to reduce their demand. Such a demand-response program not only reduces the firm?s procurement cost, but it can also be environmentally beneficial by reducing generation from emissions-intensive power plants. In a demand-response program, a utility firm pays a rebate to customers for each unit of their demand reduction?the difference between a customer?s demand and consumption. However, the demand reduction cannot be directly measured because the firm cannot observe the customer?s demand, but only its consumption. Accordingly, a utility firm estimates the demand reduction by subtracting the consumption from a baseline, which is typically set as a customer?s average historical demand. In this paper, we first investigate how the existence of a baseline influences a customer?s demand reduction decision and when it leads to under- or overestimation of the actual demand reduction. We then analyze how a utility firm should adjust the baseline from the customer?s average demand. We find that it should inflate (deflate) the baseline if the cost difference between event and non-event periods is large (small), even though this may lead to greater overestimation (underestimation) of the customer?s demand reduction. Interestingly, we show that inflation of the baseline, which one would expect to make reducing demand more attractive for a customer, can actually lead to a smaller demand reduction, resulting in higher emissions.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4278
+UR  - https://doi.org/10.1287/mnsc.2021.4278
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Shapley Meets Uniform: An Axiomatic Framework for Attribution in Online Advertising
+AU  - Singal, Raghav
+AU  - Besbes, Omar
+AU  - Desir, Antoine
+AU  - Goyal, Vineet
+AU  - Iyengar, Garud
+Y1  - 2022/01/21
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4263
+DO  - 10.1287/mnsc.2021.4263
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7457
+EP  - 7479
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - One of the central challenges in online advertising is attribution, namely, assessing the contribution of individual advertiser actions such as emails, display ads, and search ads to eventual conversion. Several heuristics are used for attribution in practice; however, most do not have any formal justification. The main contribution in this work is to propose an axiomatic framework for attribution in online advertising. We show that the most common heuristics can be cast under the framework and illustrate how these may fail. We propose a novel attribution metric, which we refer to as counterfactual adjusted Shapley value (CASV), which inherits the desirable properties of the traditional Shapley value while overcoming its shortcomings in the online advertising context. We also propose a Markovian model for the user journey through the conversion funnel, in which ad actions may have disparate impacts at different stages. We use the Markovian model to compare our metric with commonly used metrics. Furthermore, under the Markovian model, we establish that the CASV metric coincides with an adjusted ?unique-uniform? attribution scheme. This scheme is efficiently implementable and can be interpreted as a correction to the commonly used uniform attribution scheme. We supplement our theoretical developments with numerical experiments using a real-world large-scale data set.This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+AB  - One of the central challenges in online advertising is attribution, namely, assessing the contribution of individual advertiser actions such as emails, display ads, and search ads to eventual conversion. Several heuristics are used for attribution in practice; however, most do not have any formal justification. The main contribution in this work is to propose an axiomatic framework for attribution in online advertising. We show that the most common heuristics can be cast under the framework and illustrate how these may fail. We propose a novel attribution metric, which we refer to as counterfactual adjusted Shapley value (CASV), which inherits the desirable properties of the traditional Shapley value while overcoming its shortcomings in the online advertising context. We also propose a Markovian model for the user journey through the conversion funnel, in which ad actions may have disparate impacts at different stages. We use the Markovian model to compare our metric with commonly used metrics. Furthermore, under the Markovian model, we establish that the CASV metric coincides with an adjusted ?unique-uniform? attribution scheme. This scheme is efficiently implementable and can be interpreted as a correction to the commonly used uniform attribution scheme. We supplement our theoretical developments with numerical experiments using a real-world large-scale data set.This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4263
+UR  - https://doi.org/10.1287/mnsc.2021.4263
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Price Optimization Under the Finite-Mixture Logit Model
+AU  - van de Geer, Ruben
+AU  - den Boer, Arnoud V.
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4272
+DO  - 10.1287/mnsc.2021.4272
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7480
+EP  - 7496
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We consider price optimization under the finite-mixture logit model. This model assumes that customers belong to one of a number of customer segments, where each customer segment chooses according to a multinomial logit model with segment-specific parameters. We reformulate the corresponding price optimization problem and develop a novel characterization. Leveraging this new characterization, we construct an algorithm that obtains prices at which the revenue is guaranteed to be at least (1??) times the maximum attainable revenue for any prespecified ?>0. Existing global optimization methods require exponential time in the number of products to obtain such a result, which practically means that the prices of only a handful of products can be optimized. The running time of our algorithm, however, is exponential in the number of customer segments and only polynomial in the number of products. This is of great practical value, because in applications, the number of products can be very large, whereas it has been found in various contexts that a low number of segments is sufficient to capture customer heterogeneity appropriately. The results of our numerical study show that (i) ignoring customer segmentation can be detrimental for the obtained revenue, (ii) heuristics for optimization can get stuck in local optima, and (iii) our algorithm runs fast on a broad range of problem instances.This paper was accepted by Omar Besbes, revenue management and market analytics.
+AB  - We consider price optimization under the finite-mixture logit model. This model assumes that customers belong to one of a number of customer segments, where each customer segment chooses according to a multinomial logit model with segment-specific parameters. We reformulate the corresponding price optimization problem and develop a novel characterization. Leveraging this new characterization, we construct an algorithm that obtains prices at which the revenue is guaranteed to be at least (1??) times the maximum attainable revenue for any prespecified ?>0. Existing global optimization methods require exponential time in the number of products to obtain such a result, which practically means that the prices of only a handful of products can be optimized. The running time of our algorithm, however, is exponential in the number of customer segments and only polynomial in the number of products. This is of great practical value, because in applications, the number of products can be very large, whereas it has been found in various contexts that a low number of segments is sufficient to capture customer heterogeneity appropriately. The results of our numerical study show that (i) ignoring customer segmentation can be detrimental for the obtained revenue, (ii) heuristics for optimization can get stuck in local optima, and (iii) our algorithm runs fast on a broad range of problem instances.This paper was accepted by Omar Besbes, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4272
+UR  - https://doi.org/10.1287/mnsc.2021.4272
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Picking Policies in E-Commerce Warehouses
+AU  - Schiffer, Maximilian
+AU  - Boysen, Nils
+AU  - Klein, Patrick S.
+AU  - Laporte, Gilbert
+AU  - Pavone, Marco
+Y1  - 2022/03/24
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4275
+DO  - 10.1287/mnsc.2021.4275
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7497
+EP  - 7517
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker?s unproductive walking time. This paper optimizes picker routing through such mixed-shelves warehouses. Specifically, we introduce a generic exact algorithmic framework that covers a multitude of picking policies, independently of the underlying picking zone layout, and is suitable for real-time applications. This framework embeds a bidirectional layered graph algorithm that provides the best known performance for the simple picking problem with a single depot and no further attributes. We compare three different real-world e-commerce warehouse settings that differ slightly in their application of scattered storage and in their picking policies. Based on these, we derive additional layouts and settings that yield further managerial insights. Our results reveal that the right combination of drop-off points, dynamic batching, the utilization of picking carts, and the picking zone layout can greatly improve the picking performance. In particular, some combinations of policies yield efficiency increases of more than 30% compared with standard policies currently used in practice.This paper was accepted by Chung Piaw Teo, optimization.
+AB  - In e-commerce warehouses, online retailers increase their efficiency by using a mixed-shelves (or scattered storage) concept, where unit loads are purposefully broken down into single items, which are individually stored in multiple locations. Irrespective of the stock keeping units a customer jointly orders, this storage strategy increases the likelihood that somewhere in the warehouse the items of the requested stock keeping units will be in close vicinity, which may significantly reduce an order picker?s unproductive walking time. This paper optimizes picker routing through such mixed-shelves warehouses. Specifically, we introduce a generic exact algorithmic framework that covers a multitude of picking policies, independently of the underlying picking zone layout, and is suitable for real-time applications. This framework embeds a bidirectional layered graph algorithm that provides the best known performance for the simple picking problem with a single depot and no further attributes. We compare three different real-world e-commerce warehouse settings that differ slightly in their application of scattered storage and in their picking policies. Based on these, we derive additional layouts and settings that yield further managerial insights. Our results reveal that the right combination of drop-off points, dynamic batching, the utilization of picking carts, and the picking zone layout can greatly improve the picking performance. In particular, some combinations of policies yield efficiency increases of more than 30% compared with standard policies currently used in practice.This paper was accepted by Chung Piaw Teo, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4275
+UR  - https://doi.org/10.1287/mnsc.2021.4275
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Loss-Framed Incentives and Employee (Mis-)Behavior
+AU  - Czibor, Eszter
+AU  - Hsu, Danny
+AU  - Jimenez-Gomez, David
+AU  - Neckermann, Susanne
+AU  - Subasi, Burcu
+Y1  - 2022/02/17
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4280
+DO  - 10.1287/mnsc.2021.4280
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7518
+EP  - 7537
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - This paper explores how loss-framed incentives affect behavior in a multitasking environment in which participants have more than one way of recovering (expected) losses. In a real-effort laboratory experiment, we offer participants task incentives that are framed as either a reward (gain) or penalty (loss). We study their responses along three dimensions: performance in the incentivized task, theft, and voluntary provision of help. We find that framing incentives as a penalty rather than as a reward does not significantly improve task performance, but it increases theft and leads to a small and insignificant reduction in the share of participants willing to help the experimenter. Secondary analyses based on our theoretical framework help us pin down the mechanism at play and suggest that loss aversion drives participants? response. Our findings have important implications for incentive design in practice.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+AB  - This paper explores how loss-framed incentives affect behavior in a multitasking environment in which participants have more than one way of recovering (expected) losses. In a real-effort laboratory experiment, we offer participants task incentives that are framed as either a reward (gain) or penalty (loss). We study their responses along three dimensions: performance in the incentivized task, theft, and voluntary provision of help. We find that framing incentives as a penalty rather than as a reward does not significantly improve task performance, but it increases theft and leads to a small and insignificant reduction in the share of participants willing to help the experimenter. Secondary analyses based on our theoretical framework help us pin down the mechanism at play and suggest that loss aversion drives participants? response. Our findings have important implications for incentive design in practice.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4280
+UR  - https://doi.org/10.1287/mnsc.2021.4280
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Agency or Wholesale? The Role of Retail Pass-Through
+AU  - Hu, Honggang
+AU  - Zheng, Quan
+AU  - Pan, Xiajun Amy
+Y1  - 2022/03/02
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4262
+DO  - 10.1287/mnsc.2021.4262
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7538
+EP  - 7554
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - With the rapid growth of e-commerce, agency selling is currently gaining popularity among online retailers (e-tailers). Prior research implicitly abstracts away cross-brand pass-through under traditional wholesale selling (i.e., how the retail price of another brand adjusts to changes in a given brand?s wholesale price) and suggests that a shift to agency selling benefits e-tailers but harms suppliers. As an important counterweight to this result, we discover that an e-tailer?s choice regarding selling format is critically moderated by retail pass-through behavior. On the one hand, agency selling can improve channel efficiency compared with wholesale selling. On the other hand, the relative intensity of supplier competition between these two selling formats is ambiguous. We show that the existing result applies only for a nonnegative cross-brand pass-through rate (e.g., under linear demands); otherwise (e.g., under multiplicative or exponential demands), the opposite may hold. Interestingly, we find that the conflict over the preference of selling format may not arise, and that all channel members could be better off with wholesale selling. Compared with the case of Bertrand competition, the e-tailer is even more likely to adopt wholesale selling under Cournot competition. Finally, under agency selling with an endogenous commission fee, we advise caution regarding the seemingly innocuous normalization of suppliers? marginal costs. Surprisingly, suppliers may benefit from higher marginal costs. Overall, our findings not only shed light on the theory of agency selling but also provide a plausible explanation for the observation that wholesale selling continues to prevail in online markets.This paper was accepted by Eric Anderson, marketing.
+AB  - With the rapid growth of e-commerce, agency selling is currently gaining popularity among online retailers (e-tailers). Prior research implicitly abstracts away cross-brand pass-through under traditional wholesale selling (i.e., how the retail price of another brand adjusts to changes in a given brand?s wholesale price) and suggests that a shift to agency selling benefits e-tailers but harms suppliers. As an important counterweight to this result, we discover that an e-tailer?s choice regarding selling format is critically moderated by retail pass-through behavior. On the one hand, agency selling can improve channel efficiency compared with wholesale selling. On the other hand, the relative intensity of supplier competition between these two selling formats is ambiguous. We show that the existing result applies only for a nonnegative cross-brand pass-through rate (e.g., under linear demands); otherwise (e.g., under multiplicative or exponential demands), the opposite may hold. Interestingly, we find that the conflict over the preference of selling format may not arise, and that all channel members could be better off with wholesale selling. Compared with the case of Bertrand competition, the e-tailer is even more likely to adopt wholesale selling under Cournot competition. Finally, under agency selling with an endogenous commission fee, we advise caution regarding the seemingly innocuous normalization of suppliers? marginal costs. Surprisingly, suppliers may benefit from higher marginal costs. Overall, our findings not only shed light on the theory of agency selling but also provide a plausible explanation for the observation that wholesale selling continues to prevail in online markets.This paper was accepted by Eric Anderson, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4262
+UR  - https://doi.org/10.1287/mnsc.2021.4262
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Good Names Beget Favors: The Impact of Country Image on Trade Flows and Welfare
+AU  - Chang, Pao-Li
+AU  - Fujii, Tomoki
+AU  - Jin, Wei
+Y1  - 2022/02/17
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4250
+DO  - 10.1287/mnsc.2021.4250
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7555
+EP  - 7596
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - This paper estimates the effects of time-varying consumer preference bias on trade flows and welfare. We use a unique data set from the BBC World Service Poll, which surveys (annually during 2005?2017 with some gaps) the populations of a wide array of countries on their views of whether an evaluated country is having a mainly positive or negative influence in the world. We identify the effects on consumer preference parameters due to shifts in these country image perceptions and quantify their general equilibrium effects on bilateral exports and welfare (each time for an evaluated exporting country, holding the exporting country?s own preference parameters constant). We consider five important shifts in country image: the George W. Bush effect, the Donald Trump effect, the Senkaku Islands Dispute effect, the Brexit effect, and the Good-Boy Canadian effect. We find that such changes in bilateral country image perceptions have quantitatively important trade and welfare effects. The negative impact of Donald Trump?s ?America First? campaign rhetoric on the U.S.?s country image might have cost the United States 4%?5% of its total exports and welfare gains from trade. In contrast, the consistent improvement of Canada?s country image between 2010 and 2017 has amounted to more than 8% of its total welfare gains from trade.This paper was accepted by Matthew Shum, marketing.
+AB  - This paper estimates the effects of time-varying consumer preference bias on trade flows and welfare. We use a unique data set from the BBC World Service Poll, which surveys (annually during 2005?2017 with some gaps) the populations of a wide array of countries on their views of whether an evaluated country is having a mainly positive or negative influence in the world. We identify the effects on consumer preference parameters due to shifts in these country image perceptions and quantify their general equilibrium effects on bilateral exports and welfare (each time for an evaluated exporting country, holding the exporting country?s own preference parameters constant). We consider five important shifts in country image: the George W. Bush effect, the Donald Trump effect, the Senkaku Islands Dispute effect, the Brexit effect, and the Good-Boy Canadian effect. We find that such changes in bilateral country image perceptions have quantitatively important trade and welfare effects. The negative impact of Donald Trump?s ?America First? campaign rhetoric on the U.S.?s country image might have cost the United States 4%?5% of its total exports and welfare gains from trade. In contrast, the consistent improvement of Canada?s country image between 2010 and 2017 has amounted to more than 8% of its total welfare gains from trade.This paper was accepted by Matthew Shum, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4250
+UR  - https://doi.org/10.1287/mnsc.2021.4250
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Designing Entry Strategies for Subscription Platforms
+AU  - Gal-Or, Esther
+AU  - Shi, Qiaoni
+Y1  - 2022/01/05
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4251
+DO  - 10.1287/mnsc.2021.4251
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7597
+EP  - 7613
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We consider a subscription platform that offers services to variety-seeking consumers who incorporate transportation costs in their decision of how many and which vendor services to consume. ClassPass in fitness and MoviePass in entertainment are examples of such platforms. We find that for the platform to be successful, it should enter markets where consumers? added benefit from patronizing more than one vendor is relatively high, thus strengthening the position of the platform in negotiations with the vendors. As well, managers should consider entering markets where competition between the vendors is relatively weak and in particular, where vendors benefit from local monopoly positions because of high transportation costs incurred by consumers. When entering such markets, offering the subscription contract is likely to attract new customers who are not active when the platform does not exist. Moreover, appropriate crafting of the agreement with the vendors in this case allows the parties to fully extract the surplus derived by platform customers. Last, the platform?s managers should be cognizant of the need to identify tools that facilitate alleviated price competition with vendors. Negotiating over an appropriate transfer fee per customer to pay the vendor or imposing restrictions on the level of service that their customers can use may be such tools. Offering customers lower-quality services when using the vendor in comparison with the quality they could obtain by buying directly from him may not be a successful tool to alleviate price competition.This paper was accepted by Duncan Simester, marketing.
+AB  - We consider a subscription platform that offers services to variety-seeking consumers who incorporate transportation costs in their decision of how many and which vendor services to consume. ClassPass in fitness and MoviePass in entertainment are examples of such platforms. We find that for the platform to be successful, it should enter markets where consumers? added benefit from patronizing more than one vendor is relatively high, thus strengthening the position of the platform in negotiations with the vendors. As well, managers should consider entering markets where competition between the vendors is relatively weak and in particular, where vendors benefit from local monopoly positions because of high transportation costs incurred by consumers. When entering such markets, offering the subscription contract is likely to attract new customers who are not active when the platform does not exist. Moreover, appropriate crafting of the agreement with the vendors in this case allows the parties to fully extract the surplus derived by platform customers. Last, the platform?s managers should be cognizant of the need to identify tools that facilitate alleviated price competition with vendors. Negotiating over an appropriate transfer fee per customer to pay the vendor or imposing restrictions on the level of service that their customers can use may be such tools. Offering customers lower-quality services when using the vendor in comparison with the quality they could obtain by buying directly from him may not be a successful tool to alleviate price competition.This paper was accepted by Duncan Simester, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4251
+UR  - https://doi.org/10.1287/mnsc.2021.4251
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Promoting Mobile Payment with Price Incentives
+AU  - Ho, Chun-Yu
+AU  - Kim, Nayoung
+AU  - Rong, Ying
+AU  - Tian, Xin
+Y1  - 2022/02/02
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4233
+DO  - 10.1287/mnsc.2021.4233
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7614
+EP  - 7630
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Using a proprietary data set containing more than 10 million transactions over 14 months from hundreds of grocery stores, we examine consumer payment choices at point of sale (POS) between cash and mobile, where the use of other methods (including cards) is minimal. We find that cash is the dominant method of payment. Nonetheless, the share of mobile payments has increased at the expense of cash payments over time. Importantly, we exploit price incentives for consumers using mobile payment to examine the price substitution between cash and mobile payments. Our results show that consumers are more likely to use mobile payment when they receive price incentives for doing so, and such an effect persists for a few days, even after the price incentive expires. Nonetheless, the price incentives are unlikely financed by additional transactions paid via mobile but subsidized by mobile payment providers. Interestingly, we find several factors that enhance and supplement the steering effect of price incentives. First, a larger monetary reward seems to induce a stronger impact of price incentive on mobile payment. Second, the steering effect of price incentive is stronger for stores that serve consumers who have frequently been using mobile payment and for price-sensitive consumers. Third, the additional mobile payments come from transactions that would not have occurred with price incentive and those that switch from cash transactions.This paper was accepted by Eric Anderson, marketing.
+AB  - Using a proprietary data set containing more than 10 million transactions over 14 months from hundreds of grocery stores, we examine consumer payment choices at point of sale (POS) between cash and mobile, where the use of other methods (including cards) is minimal. We find that cash is the dominant method of payment. Nonetheless, the share of mobile payments has increased at the expense of cash payments over time. Importantly, we exploit price incentives for consumers using mobile payment to examine the price substitution between cash and mobile payments. Our results show that consumers are more likely to use mobile payment when they receive price incentives for doing so, and such an effect persists for a few days, even after the price incentive expires. Nonetheless, the price incentives are unlikely financed by additional transactions paid via mobile but subsidized by mobile payment providers. Interestingly, we find several factors that enhance and supplement the steering effect of price incentives. First, a larger monetary reward seems to induce a stronger impact of price incentive on mobile payment. Second, the steering effect of price incentive is stronger for stores that serve consumers who have frequently been using mobile payment and for price-sensitive consumers. Third, the additional mobile payments come from transactions that would not have occurred with price incentive and those that switch from cash transactions.This paper was accepted by Eric Anderson, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4233
+UR  - https://doi.org/10.1287/mnsc.2021.4233
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Social Performance Incentives in Mission-Driven Firms
+AU  - Jung, Sun-Moon
+AU  - Shin, Jae Yong
+Y1  - 2022/03/03
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4232
+DO  - 10.1287/mnsc.2021.4232
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7631
+EP  - 7657
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We examine the effect of introducing an incentive plan based on social performance in a sample of 186 social mission?oriented firms in Korea. We find that the social performance of social enterprises (SEs) significantly improves over time after adoption of an incentive plan based on social performance, and that the incentive effect increases with managers? perceived measurability of social performance. Moreover, we document that social bonuses do not harm SEs? financial performance and that they have a positive spillover effect on financial performance in SEs that have a higher level of task complementarity between social and financial goals. Our results also show that when the main beneficiary of social bonuses is expected to be a firm?s employees, the incentive effect of social bonuses decreases (increases) with a firm?s focus on social controls (formal controls). In contrast, when the main beneficiary is expected to be a firm?s social mission, the incentive effect increases with a firm?s reliance on social controls.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - We examine the effect of introducing an incentive plan based on social performance in a sample of 186 social mission?oriented firms in Korea. We find that the social performance of social enterprises (SEs) significantly improves over time after adoption of an incentive plan based on social performance, and that the incentive effect increases with managers? perceived measurability of social performance. Moreover, we document that social bonuses do not harm SEs? financial performance and that they have a positive spillover effect on financial performance in SEs that have a higher level of task complementarity between social and financial goals. Our results also show that when the main beneficiary of social bonuses is expected to be a firm?s employees, the incentive effect of social bonuses decreases (increases) with a firm?s focus on social controls (formal controls). In contrast, when the main beneficiary is expected to be a firm?s social mission, the incentive effect increases with a firm?s reliance on social controls.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4232
+UR  - https://doi.org/10.1287/mnsc.2021.4232
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Postfundamentals Price Drift in Capital Markets: A Regression Regularization Perspective
+AU  - Avramov, Doron
+AU  - Kaplanski, Guy
+AU  - Subrahmanyam, Avanidhar
+Y1  - 2021/12/15
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4202
+DO  - 10.1287/mnsc.2021.4202
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7658
+EP  - 7681
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Regression regularization techniques show that deviations of accounting fundamentals from their preceding moving averages forecast drifts in equity market prices. Deviations-based predictability survives a comprehensive set of prominent anomalies. The profitability applies strongly to the long leg and survives value weighting and excluding microcaps. We provide evidence that the predictability arises because investors anchor to recent means of fundamentals. A factor based on our fundamentals-based index yields economically significant intercepts after controlling for a comprehensive set of other factors, including those based on profit margins and earnings drift.This paper was accepted by Gustavo Manso, finance.
+AB  - Regression regularization techniques show that deviations of accounting fundamentals from their preceding moving averages forecast drifts in equity market prices. Deviations-based predictability survives a comprehensive set of prominent anomalies. The profitability applies strongly to the long leg and survives value weighting and excluding microcaps. We provide evidence that the predictability arises because investors anchor to recent means of fundamentals. A factor based on our fundamentals-based index yields economically significant intercepts after controlling for a comprehensive set of other factors, including those based on profit margins and earnings drift.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4202
+UR  - https://doi.org/10.1287/mnsc.2021.4202
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Credit Stimulus, Executive Ownership, and Firm Leverage
+AU  - Chakraborti, Rajdeep
+AU  - Dahiya, Sandeep
+AU  - Ge, Lei
+AU  - Gete, Pedro
+Y1  - 2021/12/14
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4188
+DO  - 10.1287/mnsc.2021.4188
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7682
+EP  - 7700
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - We show that executive ownership is a significant driver of the demand for credit following credit expansion policies. Our focus on credit demand is in contrast to most studies that have focused on credit supply factors such as bank capital. Our identification exploits the large and unexpected Chinese credit expansion in 2008. This setting offers a unique advantage as in 2008 the Chinese government had almost complete control over the banking sector and it directed the banks to increase credit supply. Thus, in this setting, demand, rather than supply, largely drives the observed changes in firms? borrowing. We provide extensive robustness tests to validate our results.This paper was accepted by Kay Giesecke, finance.
+AB  - We show that executive ownership is a significant driver of the demand for credit following credit expansion policies. Our focus on credit demand is in contrast to most studies that have focused on credit supply factors such as bank capital. Our identification exploits the large and unexpected Chinese credit expansion in 2008. This setting offers a unique advantage as in 2008 the Chinese government had almost complete control over the banking sector and it directed the banks to increase credit supply. Thus, in this setting, demand, rather than supply, largely drives the observed changes in firms? borrowing. We provide extensive robustness tests to validate our results.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4188
+UR  - https://doi.org/10.1287/mnsc.2021.4188
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bimodal Characteristic Returns and Predictability Enhancement via Machine Learning
+AU  - Han, Chulwoo
+Y1  - 2021/12/13
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4189
+DO  - 10.1287/mnsc.2021.4189
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7701
+EP  - 7741
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - This paper documents the bimodality of momentum stocks: both high- and low-momentum stocks have nontrivial probabilities for both high and low returns. The bimodality makes the momentum strategy fundamentally risky and can cause a large loss. To alleviate the bimodality and improve return predictability, this paper develops a novel cross-sectional prediction model via machine learning. By reclassifying stocks based on their predicted financial performance, the model significantly outperforms off-the-shelf machine learning models. Tested on the U.S. market, a value-weighted long-short portfolio earns a monthly alpha of 2.4% (t-statistic = 6.63) when regressed against the Fama?French five factors plus the momentum and short-term reversal factors.This paper was accepted by Kay Giesecke, finance.
+AB  - This paper documents the bimodality of momentum stocks: both high- and low-momentum stocks have nontrivial probabilities for both high and low returns. The bimodality makes the momentum strategy fundamentally risky and can cause a large loss. To alleviate the bimodality and improve return predictability, this paper develops a novel cross-sectional prediction model via machine learning. By reclassifying stocks based on their predicted financial performance, the model significantly outperforms off-the-shelf machine learning models. Tested on the U.S. market, a value-weighted long-short portfolio earns a monthly alpha of 2.4% (t-statistic = 6.63) when regressed against the Fama?French five factors plus the momentum and short-term reversal factors.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4189
+UR  - https://doi.org/10.1287/mnsc.2021.4189
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Small Business Lending and Regulation for Small Banks
+AU  - Srivastav, Abhishek
+AU  - Vallascas, Francesco
+Y1  - 2021/12/15
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4176
+DO  - 10.1287/mnsc.2021.4176
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7742
+EP  - 7760
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - Since May 2015 several U.S. Bank Holding Companies (BHCs) have been newly classified as small banks by regulators, thus benefiting from a friendlier regulatory capital environment. Using a difference-in-differences setting, we show that less regulation on small BHCs boosts small business lending of the affiliated commercial banks. We employ various tests to demonstrate that these findings are attributable to a capital channel where increases in lending are driven by the preferential capital treatment granted to the small BHC. The regulatory capital relief also has some positive effects for the local economy. Overall, the effects of the regulatory capital relief for small BHCs are consistent with its desired policy objectives.This paper was accepted by Tomasz Piskorski, finance.
+AB  - Since May 2015 several U.S. Bank Holding Companies (BHCs) have been newly classified as small banks by regulators, thus benefiting from a friendlier regulatory capital environment. Using a difference-in-differences setting, we show that less regulation on small BHCs boosts small business lending of the affiliated commercial banks. We employ various tests to demonstrate that these findings are attributable to a capital channel where increases in lending are driven by the preferential capital treatment granted to the small BHC. The regulatory capital relief also has some positive effects for the local economy. Overall, the effects of the regulatory capital relief for small BHCs are consistent with its desired policy objectives.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4176
+UR  - https://doi.org/10.1287/mnsc.2021.4176
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Time-Varying Skew in VIX Derivatives Pricing
+AU  - Yuan, Peixuan
+Y1  - 2021/11/29
+PY  - 2021
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2021.4168
+DO  - 10.1287/mnsc.2021.4168
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7761
+EP  - 7791
+VL  - 68
+IS  - 10
+PB  - INFORMS
+N2  - This paper proposes a new reduced-form model for the pricing of VIX derivatives that includes an independent stochastic jump intensity factor and cojumps in the level and variance of VIX, while allowing the mean of VIX variance to be time varying. I fit the model to daily prices of futures and European options from April 2007 through December 2017. The empirical results indicate that the model significantly outperforms all other nested models and improves on benchmark by 21.6% in sample and 31.2% out of sample. The model more accurately portrays the tail behavior of VIX risk-neutral distribution for both short and long maturities, as it better captures the time-varying skew found to be largely independent of the level of the VIX smile.This paper was accepted by Kay Giesecke, finance.
+AB  - This paper proposes a new reduced-form model for the pricing of VIX derivatives that includes an independent stochastic jump intensity factor and cojumps in the level and variance of VIX, while allowing the mean of VIX variance to be time varying. I fit the model to daily prices of futures and European options from April 2007 through December 2017. The empirical results indicate that the model significantly outperforms all other nested models and improves on benchmark by 21.6% in sample and 31.2% out of sample. The model more accurately portrays the tail behavior of VIX risk-neutral distribution for both short and long maturities, as it better captures the time-varying skew found to be largely independent of the level of the VIX smile.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4168
+UR  - https://doi.org/10.1287/mnsc.2021.4168
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2022/10/01
+PY  - 2022
+DA  - 2022/10/01
+N1  - doi: 10.1287/mnsc.2022.eb.v68n10
+DO  - 10.1287/mnsc.2022.eb.v68n10
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 68
+IS  - 10
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.eb.v68n10
+UR  - https://doi.org/10.1287/mnsc.2022.eb.v68n10
+Y2  - 2024/03/29
+ER  - 

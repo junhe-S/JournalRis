@@ -1,0 +1,126 @@
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - IFC
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90047-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900470
+ER  - 
+
+TY  - JOUR
+T1  - Editor's introduction
+AU  - Dent, Warren T.
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - 1
+EP  - 2
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90048-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900482
+ER  - 
+
+TY  - JOUR
+T1  - On restricted estimation in linear models
+AU  - Dent, Warren T.
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - 49
+EP  - 58
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90052-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900524
+AB  - Efficient estimation of models under linear restrictions on parameters has received little attention. We present a unified approach which takes account of both full rank and less than full rank design and constraint matrices. The procedure is numerically fast, accurate, and space efficient. An example is included.
+ER  - 
+
+TY  - JOUR
+T1  - Computations for constrained linear models
+AU  - Gallant, A.Ronald
+AU  - Gerig, Thomas M.
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - 59
+EP  - 84
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90053-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900536
+AB  - The article presents an algorithm for linear regression computations subject to linear parametric equality constraints, linear parametric inequality constraints, or a mixture of the two. No rank conditions are imposed on the regression specification or the constraint specification. The algorithm requires a full Moore-Penrose g-inverse which entails extra computational effort relative to other orthonormalization type algorithms. In exchange, auxiliary statistical information is generated: feasibility of a set of constraints may be checked, estimability of a linear parametric function may be checked, and bias and variance may be decomposed by source.
+ER  - 
+
+TY  - JOUR
+T1  - Autoreg: a computer program library for dynamic econometric models with autoregressive errors
+AU  - Hendry, David F.
+AU  - Srba, Frank
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - 85
+EP  - 102
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90054-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900548
+ER  - 
+
+TY  - JOUR
+T1  - Simultaneous equations estimation: Computational aspects
+AU  - Jennings, L.S.
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - 23
+EP  - 39
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90050-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900500
+AB  - In this paper the problem of estimating the parameters of economic models is studied from a computational point of view. Because the user of software packages may not know the limitations of computer arithmetic, we are concerned with using the best numerical techniques and with specifying just what numerical error information such a package for simultaneous estimation should return to the user. Also because models can become large it is necessary to look for ways of conserving space. Several techniques for three stage least squares are summarized which take into account limitations of space and accuracy.
+ER  - 
+
+TY  - JOUR
+T1  - Rules and software for detecting rank degeneracy
+AU  - Golub, Gene
+AU  - Klema, Virginia
+AU  - Peters, Stephen C.
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - 41
+EP  - 48
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90051-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900512
+AB  - We describe an algorithm that can be used to select a set of independent columns of a matrix when numerical rank can be determined, and we associate the uncertainty of the data with rank selection. Mathematical software written in Fortran which implements this algorithm is available for a variety of computing machines.
+ER  - 
+
+TY  - JOUR
+T1  - Test procedures and test problems for least squares algorithms
+AU  - Wampler, Roy H.
+JO  - Journal of Econometrics
+VL  - 12
+IS  - 1
+SP  - 3
+EP  - 22
+PY  - 1980
+DA  - 1980/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(80)90049-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407680900494
+AB  - Numerous test problems have been introduced in the past twenty years for the purpose of studying and comparing least squares algorithms and computer programs. This paper discusses and classifies some of the useful test problems which have appeared in the literature. A recent large scale test procedure is briefly summarized. Several neat, mathematical examples are displayed. One of these, first introduced by Läuchli, is modified so that it can be solved by the method of inverting a matrix of correlation coefficients. Comparative results from running two types of problems on several different algorithms are given which illustrate some of the factors affecting computational accuracy: choice of algorithm, scaling of the data, tolerance parameters, and iterative refinement.
+ER  - 

@@ -1,0 +1,198 @@
+TY  - JOUR
+T1  - Inference for large dimensional factor models under general missing data patterns
+AU  - Su, Liangjun
+AU  - Wang, Fa
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106022
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000764
+KW  - Factor models
+KW  - Missing data
+KW  - EM algorithm
+KW  - Least squares
+KW  - Matrix completion
+KW  - Nuclear norm
+KW  - Causal inference
+KW  - Mixed frequency
+AB  - This paper establishes the inferential theory for the least squares estimation of large factor models with missing data. We propose a unified framework for asymptotic analysis of factor models that covers a wide range of missing patterns, including heterogenous random missing, selection on covariates/factors/loadings, block/staggered missing, mixed frequency and ragged edge. We establish the average convergence rates of the estimated factor space and loading space, the limit distributions of the estimated factors and loadings, as well as the limit distributions of the estimated average treatment effects and the parameter estimates in the factor-augmented regressions. These results allow us to impute the unbalanced panel appropriately or make inference for the heterogenous treatment effects. For computation, we can use the nuclear norm regularized estimator as the initial value for the EM algorithm and iterate until convergence. Empirically, we apply our method to test the average treatment effects of partisan alignment on grant allocation in UK.
+ER  - 
+
+TY  - JOUR
+T1  - On changepoint detection in functional data using empirical energy distance
+AU  - Boniece, B. Cooper
+AU  - Horváth, Lajos
+AU  - Trapani, Lorenzo
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106023
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000776
+KW  - Change-point detection
+KW  - Functional data analysis
+KW  - Energy distance
+KW  - Empirical characteristic function
+KW  - Karhunen–Loève expansion
+AB  - We propose a novel family of test statistics to detect the presence of changepoints in a sequence of dependent, possibly multivariate, functional-valued observations. Our approach allows to test for a very general class of changepoints, including the “classical” case of changes in the mean, and even changes in the whole distribution. Our statistics are based on a generalisation of the empirical energy distance; we propose weighted functionals of the energy distance process, which are designed in order to enhance the ability to detect breaks occurring at sample endpoints. The limiting distribution of the maximally selected version of our statistics requires only the computation of the eigenvalues of the covariance function, thus being readily implementable in the most commonly employed packages, e.g. R. We show that, under the alternative, our statistics are able to detect changepoints occurring even very close to the beginning/end of the sample. In the presence of multiple changepoints, we propose a binary segmentation algorithm to estimate the number of breaks and the locations thereof. Simulations show that our procedures work very well in finite samples. We complement our theory with applications to financial and temperature data.
+ER  - 
+
+TY  - JOUR
+T1  - Dimension-agnostic change point detection
+AU  - Gao, Hanjia
+AU  - Wang, Runmin
+AU  - Shao, Xiaofeng
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106012
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000661
+KW  - Cross-sectional dependence
+KW  - Panel data
+KW  - Sample splitting
+KW  - Self-normalization
+KW  - Time series
+AB  - Change point testing for high-dimensional data has attracted a lot of attention in statistics, econometrics and machine learning owing to the emergence of high-dimensional data with structural breaks from many fields. In practice, when the dimension is less than the sample size but is not small, it is often unclear whether a method that is tailored to high-dimensional data or simply a classical method that is developed and justified for low-dimensional data is preferred. In addition, the methods designed for low-dimensional data may not work well in the high-dimensional environment and vice versa. In this paper, we propose a dimension-agnostic testing procedure targeting a single change point in the mean of a multivariate weakly dependent time series. Specifically, we can show that the limiting null distribution for our test statistic is the same regardless of the dimensionality and the magnitude of cross-sectional dependence. The power analysis is also conducted to understand the large sample behavior of the proposed test. Through Monte Carlo simulations and a real data illustration, we demonstrate that the finite sample results strongly corroborate the theory and suggest that the proposed test can be used as a benchmark for change-point detection of time series of low, medium, and high dimensions with complex cross-sectional and temporal dependence.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic treatment effect estimation with interactive fixed effects and short panels
+AU  - Brown, Nicholas L.
+AU  - Butts, Kyle
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106013
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000673
+KW  - Factor model
+KW  - Panel treatment effect
+KW  - Causal inference
+KW  - Fixed-T
+AB  - We study the estimation and inference of dynamic average treatment effect parameters when parallel trends holds conditional on interactive fixed effects and where units enter into treatment at different time periods. Our proposed generalized method of moments estimator consists of two parts: first, we estimate the unobserved time effects by applying the fixed-T consistent quasi-long-differencing estimator of Ahn et al., (2013) to the never-treated group. Second, we estimate the interactive fixed effects for treated groups post-treatment to recover their unobserved counterfactual outcomes then subtract this quantity from the observed outcomes and average over group membership to estimate the Average Treatment Effect on the Treated. We also demonstrate the robustness of two-way fixed effects to certain parallel trends violations and describe how to test for consistency. We investigate the effect of Walmart openings on local economic conditions and demonstrate that our methods ameliorate pre-trend violations commonly found in the literature. We also provide statistical software to implement our estimator in Julia and R.
+ER  - 
+
+TY  - JOUR
+T1  - Realized candlestick wicks
+AU  - Li, Yifan
+AU  - Nolte, Ingmar
+AU  - Nolte, Sandra
+AU  - Yu, Shifan
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106014
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000685
+KW  - High-frequency data
+KW  - Integrated variance
+KW  - Range-based volatility estimation
+KW  - Drift burst
+KW  - Extreme price movements
+AB  - We develop a novel nonparametric estimator of integrated variance by summing up the squared wick lengths of intraday candlesticks over a fixed time interval. The proposed wick-based estimator is robust to short-lived extreme price movements, such as gradual jumps and flash crashes. We investigate the asymptotic properties of the proposed estimator, and show that its asymptotic variance is about four times smaller than the state-of-the-art differenced-return volatility (DV) estimator. We also develop a Hausman-type test for the presence of both jumps and episodic extreme price movements. Monte Carlo simulations and empirical applications further validate the practical reliability of our proposed estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Faster estimation of dynamic discrete choice models using index invertibility
+AU  - Bunting, Jackson
+AU  - Ura, Takuya
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106004
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000582
+KW  - Dynamic discrete choice
+KW  - Multiple-index model
+KW  - Pairwise differences
+KW  - Semiparametric regression
+AB  - Many estimators of dynamic discrete choice models with persistent unobserved heterogeneity have desirable statistical properties but are computationally intensive. In this paper we propose a method to quicken estimation for a broad class of dynamic discrete choice problems by exploiting semiparametric index restrictions. Specifically, we propose an estimator for models whose reduced form parameters are invertible functions of one or more linear indices (Ahn et al., 2018) , a property we term index invertibility. We establish that index invertibility implies a set of equality constraints on the model parameters. Our proposed estimator uses the equality constraints to decrease the dimension of the optimization problem, thereby generating computational gains. Our main result shows that the proposed estimator is asymptotically equivalent to the unconstrained, computationally heavy estimator. In addition, we provide a series of results on the number of independent index restrictions on the model parameters, providing theoretical guidance on the extent of computational gains. Finally, we demonstrate the advantages of our approach via Monte Carlo simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106046
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(25)00100-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625001009
+ER  - 
+
+TY  - JOUR
+T1  - Pairwise valid instruments
+AU  - Sun, Zhenting
+AU  - Wüthrich, Kaspar
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106009
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000636
+KW  - Invalid instruments
+KW  - Local average treatment effects
+KW  - Identification
+KW  - Instrumental variable estimation
+KW  - Asymptotic bias reduction
+AB  - Finding valid instruments is difficult. We propose Validity Set Instrumental Variable (VSIV) estimation, a method for estimating local average treatment effects (LATEs) in heterogeneous causal effect models when the instruments are partially invalid. We consider settings with pairwise valid instruments, that is, instruments that are valid for a subset of instrument value pairs. VSIV estimation exploits testable implications of instrument validity to remove invalid pairs and provides estimates of the LATEs for all remaining pairs, which can be aggregated into a single parameter of interest using researcher-specified weights. We show that the proposed VSIV estimators are asymptotically normal under weak conditions and remove or reduce the asymptotic bias relative to standard LATE estimators (that is, LATE estimators that do not use testable implications to remove invalid variation). We evaluate the finite sample properties of VSIV estimation in application-based simulations and apply our method to estimate the returns to college education using parental education as an instrument.
+ER  - 
+
+TY  - JOUR
+T1  - A simple and computationally trivial estimator for grouped fixed effects models
+AU  - Mugnier, Martin
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106011
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106011
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762500065X
+KW  - Panel data
+KW  - Time-varying unobserved heterogeneity
+KW  - Grouped fixed effects
+KW  - Agglomerative clustering
+AB  - This paper introduces a new fixed effects estimator for linear panel data models with clustered time patterns of unobserved heterogeneity. The method avoids non-convex and combinatorial optimization by combining a preliminary consistent estimator of the slope coefficient, an agglomerative pairwise-differencing clustering of cross-sectional units, and a pooled ordinary least squares regression. Asymptotic guarantees are established in a framework where T can grow at any power of N, as both N and T approach infinity. Unlike most existing approaches, the proposed estimator is computationally straightforward and does not require a known upper bound on the number of groups. As existing approaches, this method leads to a consistent estimation of well-separated groups and an estimator of common parameters asymptotically equivalent to the infeasible regression controlling for the true groups. An application revisits the statistical association between income and democracy.
+ER  - 
+
+TY  - JOUR
+T1  - Finite- and large-sample inference for ranks using multinomial data with an application to ranking political parties
+AU  - Bazylik, Sergei
+AU  - Mogstad, Magne
+AU  - Romano, Joseph P.
+AU  - Shaikh, Azeem M.
+AU  - Wilhelm, Daniel
+JO  - Journal of Econometrics
+VL  - 250
+SP  - 106010
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000648
+KW  - Confidence sets
+KW  - Multinomial data
+KW  - Multiple testing
+KW  - Polls
+KW  - Ranks
+KW  - Surveys
+AB  - It is common to rank different categories by means of preferences that are revealed through data on choices. A prominent example is the ranking of political candidates or parties using the estimated share of support each one receives in surveys or polls about political attitudes. Since these rankings are computed using estimates of the share of support rather than the true share of support, there may be considerable uncertainty concerning the true ranking of the political candidates or parties. In this paper, we consider the problem of accounting for such uncertainty by constructing confidence sets for the rank of each category. We consider both the problem of constructing marginal confidence sets for the rank of a particular category as well as simultaneous confidence sets for the ranks of all categories. A distinguishing feature of our analysis is that we exploit the multinomial structure of the data to develop confidence sets that are valid in finite samples. We additionally develop confidence sets using the bootstrap that are valid only approximately in large samples. We use our methodology to rank political parties in Australia using data from the 2019 Australian Election Survey. We find that our finite-sample confidence sets are informative across the entire ranking of political parties, even in Australian territories with few survey respondents and/or with parties that are chosen by only a small share of the survey respondents. In contrast, the bootstrap-based confidence sets may sometimes be considerably less informative. These findings motivate us to compare these methods in an empirically-driven simulation study, in which we conclude that our finite-sample confidence sets often perform better than their large-sample, bootstrap-based counterparts, especially in settings that resemble our empirical application.
+ER  - 

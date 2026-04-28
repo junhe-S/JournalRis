@@ -1,0 +1,845 @@
+
+
+
+
+
+TY  - JOUR
+T1  - A Theory of ICOs: Diversification, Agency, and Information Asymmetry
+AU  - Chod, Jiri
+AU  - Lyandres, Evgeny
+Y1  - 2021/01/14
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3754
+DO  - 10.1287/mnsc.2020.3754
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5969
+EP  - 5989
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - This paper develops a theory of financing of entrepreneurial ventures via crypto tokens, which is not limited to platform-based ventures. We compare token financing with traditional equity financing, focusing on agency problems and information asymmetry frictions associated with the two financing methods, as well as on risk sharing between entrepreneurs and investors. Token financing introduces an agency problem not present under equity financing (underproduction), while mitigating an agency problem often associated with equity financing (entrepreneurial effort underprovision). Our theory abstracts from all institutional and potentially transient differences between tokens and equity and is based on a single intrinsic characteristic of tokens: they represent claims to a venture?s output. We show that tokens are likely to dominate equity for ventures developing goods or services that involve low marginal production costs, those for which entrepreneurial effort is crucial, and/or those with relatively low payoff volatility. In addition, tokens can have an advantage over equity in signaling venture quality to outside investors. This paper was accepted by Kay Giesecke, finance.
+AB  - This paper develops a theory of financing of entrepreneurial ventures via crypto tokens, which is not limited to platform-based ventures. We compare token financing with traditional equity financing, focusing on agency problems and information asymmetry frictions associated with the two financing methods, as well as on risk sharing between entrepreneurs and investors. Token financing introduces an agency problem not present under equity financing (underproduction), while mitigating an agency problem often associated with equity financing (entrepreneurial effort underprovision). Our theory abstracts from all institutional and potentially transient differences between tokens and equity and is based on a single intrinsic characteristic of tokens: they represent claims to a venture?s output. We show that tokens are likely to dominate equity for ventures developing goods or services that involve low marginal production costs, those for which entrepreneurial effort is crucial, and/or those with relatively low payoff volatility. In addition, tokens can have an advantage over equity in signaling venture quality to outside investors. This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3754
+UR  - https://doi.org/10.1287/mnsc.2020.3754
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Facilitating the Search for Partners on Matching Platforms
+AU  - Kanoria, Yash
+AU  - Saban, Daniela
+Y1  - 2021/05/19
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3794
+DO  - 10.1287/mnsc.2020.3794
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5990
+EP  - 6029
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Two-sided matching platforms can control and optimize over many aspects of the search for partners. To understand how matching platforms should be designed, we introduce a dynamic two-sided search model with strategic agents who must bear a cost to discover their value for each potential partner and can do so nonsimultaneously. We characterize evolutionarily stable stationary equilibria and find that, in many settings, the platform can mitigate wasted search effort by imposing suitable restrictions on agents. In unbalanced markets, the platform should force the short side of the market to initiate contact with potential partners, by disallowing the long side from doing so. This allows the agents on the long side to exercise more choice in equilibrium. When agents are vertically differentiated, the platform can significantly improve welfare even in the limit of vanishing screening costs by forcing the shorter side of the market to propose and by hiding information about the quality of potential partners. Furthermore, a Pareto improvement in welfare is possible in this limit. This paper was accepted by Baris Ata, stochastic models and simulation.
+AB  - Two-sided matching platforms can control and optimize over many aspects of the search for partners. To understand how matching platforms should be designed, we introduce a dynamic two-sided search model with strategic agents who must bear a cost to discover their value for each potential partner and can do so nonsimultaneously. We characterize evolutionarily stable stationary equilibria and find that, in many settings, the platform can mitigate wasted search effort by imposing suitable restrictions on agents. In unbalanced markets, the platform should force the short side of the market to initiate contact with potential partners, by disallowing the long side from doing so. This allows the agents on the long side to exercise more choice in equilibrium. When agents are vertically differentiated, the platform can significantly improve welfare even in the limit of vanishing screening costs by forcing the shorter side of the market to propose and by hiding information about the quality of potential partners. Furthermore, a Pareto improvement in welfare is possible in this limit. This paper was accepted by Baris Ata, stochastic models and simulation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3794
+UR  - https://doi.org/10.1287/mnsc.2020.3794
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Maximizing Sequence-Submodular Functions and Its Application to Online Advertising
+AU  - Alaei, Saeed
+AU  - Makhdoumi, Ali
+AU  - Malekian, Azarakhsh
+Y1  - 2021/02/04
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3820
+DO  - 10.1287/mnsc.2020.3820
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6030
+EP  - 6054
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Motivated by applications in online advertising, we consider a class of maximization problems where the objective is a function of the sequence of actions and the running duration of each action. For these problems, we introduce the concepts of sequence-submodularity and sequence-monotonicity, which extend the notions of submodularity and monotonicity from functions defined over sets to functions defined over sequences. We establish that if the objective function is sequence-submodular and sequence-nondecreasing, then there exists a greedy algorithm that achieves 1 ? 1 / e of the optimal solution. We apply our algorithm and analysis to two applications in online advertising: online ad allocation and query rewriting. We first show that both problems can be formulated as maximizing nondecreasing sequence-submodular functions. We then apply our framework to these two problems, leading to simple greedy approaches with guaranteed performances. In particular, for the online ad allocation problem, the performance of our algorithm is 1 ? 1 / e , which matches the best known existing performance, and for the query rewriting problem, the performance of our algorithm is 1 ? 1 / e 1 ? 1 / e , which improves on the best known existing performance in the literature. This paper was accepted by Chung Piaw Teo, optimization.
+AB  - Motivated by applications in online advertising, we consider a class of maximization problems where the objective is a function of the sequence of actions and the running duration of each action. For these problems, we introduce the concepts of sequence-submodularity and sequence-monotonicity, which extend the notions of submodularity and monotonicity from functions defined over sets to functions defined over sequences. We establish that if the objective function is sequence-submodular and sequence-nondecreasing, then there exists a greedy algorithm that achieves 1 ? 1 / e of the optimal solution. We apply our algorithm and analysis to two applications in online advertising: online ad allocation and query rewriting. We first show that both problems can be formulated as maximizing nondecreasing sequence-submodular functions. We then apply our framework to these two problems, leading to simple greedy approaches with guaranteed performances. In particular, for the online ad allocation problem, the performance of our algorithm is 1 ? 1 / e , which matches the best known existing performance, and for the query rewriting problem, the performance of our algorithm is 1 ? 1 / e 1 ? 1 / e , which improves on the best known existing performance in the literature. This paper was accepted by Chung Piaw Teo, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3820
+UR  - https://doi.org/10.1287/mnsc.2020.3820
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Value of Personalized Pricing
+AU  - Elmachtoub, Adam N.
+AU  - Gupta, Vishal
+AU  - Hamilton, Michael L.
+Y1  - 2021/04/05
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3821
+DO  - 10.1287/mnsc.2020.3821
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6055
+EP  - 6070
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Increased availability of high-quality customer information has fueled interest in personalized pricing strategies, that is, strategies that predict an individual customer?s valuation for a product and then offer a price tailored to that customer. Although the appeal of personalized pricing is clear, it may also incur large costs in the forms of market research, investment in information technology and analytics expertise, and branding risks. In light of these trade-offs, our work studies the value of personalized pricing strategies over a simple single-price strategy. We first provide closed-form lower and upper bounds on the ratio between the profits of an idealized personalized pricing strategy (first-degree price discrimination) and a single-price strategy. Our bounds depend on simple statistics of the valuation distribution and shed light on the types of markets for which personalized pricing has little or significant potential value. Second, we consider a feature-based pricing model where customer valuations can be estimated from observed features. We show how to transform our aforementioned bounds into lower and upper bounds on the value of feature-based pricing over single pricing depending on the degree to which the features are informative for the valuation. Finally, we demonstrate how to obtain sharper bounds by incorporating additional information about the valuation distribution (moments or shape constraints) by solving tractable linear optimization problems. This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+AB  - Increased availability of high-quality customer information has fueled interest in personalized pricing strategies, that is, strategies that predict an individual customer?s valuation for a product and then offer a price tailored to that customer. Although the appeal of personalized pricing is clear, it may also incur large costs in the forms of market research, investment in information technology and analytics expertise, and branding risks. In light of these trade-offs, our work studies the value of personalized pricing strategies over a simple single-price strategy. We first provide closed-form lower and upper bounds on the ratio between the profits of an idealized personalized pricing strategy (first-degree price discrimination) and a single-price strategy. Our bounds depend on simple statistics of the valuation distribution and shed light on the types of markets for which personalized pricing has little or significant potential value. Second, we consider a feature-based pricing model where customer valuations can be estimated from observed features. We show how to transform our aforementioned bounds into lower and upper bounds on the value of feature-based pricing over single pricing depending on the degree to which the features are informative for the valuation. Finally, we demonstrate how to obtain sharper bounds by incorporating additional information about the valuation distribution (moments or shape constraints) by solving tractable linear optimization problems. This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3821
+UR  - https://doi.org/10.1287/mnsc.2020.3821
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Supply Chain Theory of Factoring and Reverse Factoring
+AU  - Kouvelis, Panos
+AU  - Xu, Fasheng
+Y1  - 2021/02/03
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3788
+DO  - 10.1287/mnsc.2020.3788
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6071
+EP  - 6088
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Factoring is a financial arrangement where the supplier sells accounts receivable to the factor against a premium and receives cash for immediate working capital needs. Reverse factoring takes advantage of the retailer?s payment guarantee and the credit rating differential between a small supplier and a large retailer, enabling the supplier to receive financing at a more favorable rate. We develop a supply chain theory of (recourse/non-recourse) factoring and reverse factoring showing when these post-shipment financing schemes should be adopted and who really benefits from the adoption. We find that recourse factoring is preferred when the supplier?s credit rating is relatively high, whereas non-recourse factoring is preferred within certain medium range of ratings. Both factoring schemes, if adopted, benefit both the supplier and the retailer, and thus the overall supply chain. Further, we find that reverse factoring may not always be preferred by suppliers compared to recourse and non-recourse factorings. Retailers should only offer reverse factoring to suppliers with low (but above a threshold) to medium credit ratings. The optimally designed reverse factoring program can always increase the retailer?s profit, but it may leave the supplier indifferent to the current factoring option when followed by an aggressive payment extension. More importantly, contrary to conventional wisdom, our theory implies that reverse factoring could be adopted even when the retailer has no credit rating advantage over the supplier, and it could benefit the retailer even without extending payment terms. This paper was accepted by Victor Martínez-de-Albéniz, operations management.
+AB  - Factoring is a financial arrangement where the supplier sells accounts receivable to the factor against a premium and receives cash for immediate working capital needs. Reverse factoring takes advantage of the retailer?s payment guarantee and the credit rating differential between a small supplier and a large retailer, enabling the supplier to receive financing at a more favorable rate. We develop a supply chain theory of (recourse/non-recourse) factoring and reverse factoring showing when these post-shipment financing schemes should be adopted and who really benefits from the adoption. We find that recourse factoring is preferred when the supplier?s credit rating is relatively high, whereas non-recourse factoring is preferred within certain medium range of ratings. Both factoring schemes, if adopted, benefit both the supplier and the retailer, and thus the overall supply chain. Further, we find that reverse factoring may not always be preferred by suppliers compared to recourse and non-recourse factorings. Retailers should only offer reverse factoring to suppliers with low (but above a threshold) to medium credit ratings. The optimally designed reverse factoring program can always increase the retailer?s profit, but it may leave the supplier indifferent to the current factoring option when followed by an aggressive payment extension. More importantly, contrary to conventional wisdom, our theory implies that reverse factoring could be adopted even when the retailer has no credit rating advantage over the supplier, and it could benefit the retailer even without extending payment terms. This paper was accepted by Victor Martínez-de-Albéniz, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3788
+UR  - https://doi.org/10.1287/mnsc.2020.3788
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Marrying Stochastic Gradient Descent with Bandits: Learning Algorithms for Inventory Systems with Fixed Costs
+AU  - Yuan, Hao
+AU  - Luo, Qi
+AU  - Shi, Cong
+Y1  - 2021/02/08
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3799
+DO  - 10.1287/mnsc.2020.3799
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6089
+EP  - 6115
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We consider a periodic-review single-product inventory system with fixed cost under censored demand. Under full demand distributional information, it is well known that the celebrated (s, S) policy is optimal. In this paper, we assume the firm does not know the demand distribution a priori and makes adaptive inventory ordering decisions in each period based only on the past sales (a.k.a. censored demand). Our performance measure is regret, which is the cost difference between a feasible learning algorithm and the clairvoyant (full-information) benchmark. Compared with prior literature, the key difficulty of this problem lies in the loss of joint convexity of the objective function as a result of the presence of fixed cost. We develop the first learning algorithm, termed the ( δ , ? S ) policy, that combines the power of stochastic gradient descent, bandit controls, and simulation-based methods in a seamless and nontrivial fashion. We prove that the cumulative regret is O ( log ? T T ) , which is provably tight up to a logarithmic factor. We also develop several technical results that are of independent interest. We believe that the developed framework could be widely applied to learning other important stochastic systems with partial convexity in the objectives. This paper was accepted by Chung Piaw Teo, optimization.
+AB  - We consider a periodic-review single-product inventory system with fixed cost under censored demand. Under full demand distributional information, it is well known that the celebrated (s, S) policy is optimal. In this paper, we assume the firm does not know the demand distribution a priori and makes adaptive inventory ordering decisions in each period based only on the past sales (a.k.a. censored demand). Our performance measure is regret, which is the cost difference between a feasible learning algorithm and the clairvoyant (full-information) benchmark. Compared with prior literature, the key difficulty of this problem lies in the loss of joint convexity of the objective function as a result of the presence of fixed cost. We develop the first learning algorithm, termed the ( δ , ? S ) policy, that combines the power of stochastic gradient descent, bandit controls, and simulation-based methods in a seamless and nontrivial fashion. We prove that the cumulative regret is O ( log ? T T ) , which is provably tight up to a logarithmic factor. We also develop several technical results that are of independent interest. We believe that the developed framework could be widely applied to learning other important stochastic systems with partial convexity in the objectives. This paper was accepted by Chung Piaw Teo, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3799
+UR  - https://doi.org/10.1287/mnsc.2020.3799
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Gender and Sibling Dynamics in the Intergenerational Transmission of Entrepreneurship
+AU  - Mishkin, Elizabeth
+Y1  - 2021/02/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3790
+DO  - 10.1287/mnsc.2020.3790
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6116
+EP  - 6135
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - This project uses gender and sibling dynamics to explore the intergenerational transmission of entrepreneurship. I find that the transmission of self-employment from fathers to daughters is significantly reduced when there are sons in the family. I interpret this as evidence that the intergenerational transmission of entrepreneurship is driven, at least in part, by costly investments by parents, which can be crowded out by or redirected toward brothers. I investigate specific types of parental investments?transfers of money, businesses, and human capital?that potentially underlie this transmission and conclude that sons reduce human-capital acquisition by daughters. If all daughters of self-employed men experienced the ?sisters-only? level of transmission, the overall gender gap in self-employment would be reduced by roughly 15%. This paper was accepted by Toby Stuart, entrepreneurship and innovation.
+AB  - This project uses gender and sibling dynamics to explore the intergenerational transmission of entrepreneurship. I find that the transmission of self-employment from fathers to daughters is significantly reduced when there are sons in the family. I interpret this as evidence that the intergenerational transmission of entrepreneurship is driven, at least in part, by costly investments by parents, which can be crowded out by or redirected toward brothers. I investigate specific types of parental investments?transfers of money, businesses, and human capital?that potentially underlie this transmission and conclude that sons reduce human-capital acquisition by daughters. If all daughters of self-employed men experienced the ?sisters-only? level of transmission, the overall gender gap in self-employment would be reduced by roughly 15%. This paper was accepted by Toby Stuart, entrepreneurship and innovation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3790
+UR  - https://doi.org/10.1287/mnsc.2020.3790
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Multimodal Dynamic Pricing
+AU  - Wang, Yining
+AU  - Chen, Boxiao
+AU  - Simchi-Levi, David
+Y1  - 2021/01/27
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3819
+DO  - 10.1287/mnsc.2020.3819
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6136
+EP  - 6152
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We consider a single product dynamic pricing with demand learning. The candidate prices belong to a wide range of a price interval; the modeling of the demand functions is nonparametric in nature, imposing only smoothness regularity conditions. One important aspect of our model is the possibility of the expected reward function to be nonconcave and indeed multimodal, which leads to many conceptual and technical challenges. Our proposed algorithm is inspired by both the Upper-Confidence-Bound algorithm for multiarmed bandit and the Optimism-in-the-Face-of-Uncertainty principle arising from linear contextual bandits. The multiarmed bandit formulation arises from local-bin approximation of an unknown continuous demand function, and the linear contextual bandit formulation is then applied to obtain more accurate local polynomial approximators within each bin. Through rigorous regret analysis, we demonstrate that our proposed algorithm achieves optimal worst-case regret over a wide range of smooth function classes. More specifically, for k-times smooth functions and T selling periods, the regret of our proposed algorithm is O ? ( T ( K + 1 ) / ( 2 K + 1 ) ) , which is shown to be optimal via the development of information theoretical lower bounds. We also show that in special cases, such as strongly concave or infinitely smooth reward functions, our algorithm achieves an O ( T ) regret, matching optimal regret established in previous works. Finally, we present computational results that verify the effectiveness of our method in numerical simulations. This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - We consider a single product dynamic pricing with demand learning. The candidate prices belong to a wide range of a price interval; the modeling of the demand functions is nonparametric in nature, imposing only smoothness regularity conditions. One important aspect of our model is the possibility of the expected reward function to be nonconcave and indeed multimodal, which leads to many conceptual and technical challenges. Our proposed algorithm is inspired by both the Upper-Confidence-Bound algorithm for multiarmed bandit and the Optimism-in-the-Face-of-Uncertainty principle arising from linear contextual bandits. The multiarmed bandit formulation arises from local-bin approximation of an unknown continuous demand function, and the linear contextual bandit formulation is then applied to obtain more accurate local polynomial approximators within each bin. Through rigorous regret analysis, we demonstrate that our proposed algorithm achieves optimal worst-case regret over a wide range of smooth function classes. More specifically, for k-times smooth functions and T selling periods, the regret of our proposed algorithm is O ? ( T ( K + 1 ) / ( 2 K + 1 ) ) , which is shown to be optimal via the development of information theoretical lower bounds. We also show that in special cases, such as strongly concave or infinitely smooth reward functions, our algorithm achieves an O ( T ) regret, matching optimal regret established in previous works. Finally, we present computational results that verify the effectiveness of our method in numerical simulations. This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3819
+UR  - https://doi.org/10.1287/mnsc.2020.3819
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Bullwhip Effect in Supply Networks
+AU  - Osadchiy, Nikolay
+AU  - Schmidt, William
+AU  - Wu, Jing
+Y1  - 2021/02/18
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3824
+DO  - 10.1287/mnsc.2020.3824
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6153
+EP  - 6173
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We offer a new network perspective on one of the central topics in operations management?the bullwhip effect (BWE). The topic has both practical and scholarly implications. We start with an observation: the variability of orders placed to suppliers is larger than the variability of sales to customers for most firms, yet the aggregate demand variability felt by suppliers upstream does not amplify commensurably. We hypothesize that changes to the supplier?s customer base can smooth out its aggregate demand. We test the hypothesis with a data set that tracks the evolution of supply relationships over time. We show that the effect of customer base management extends beyond the statistical benefits of aggregation. In particular, both the formation and the dissolution of customer-supplier relationships are associated with the smoothing of the aggregate demand experienced by suppliers. This provides fresh insight into how firms may leverage their customer-supplier relationships to mitigate the impact of the BWE. This paper was accepted by Jay Swaminathan, operations management.
+AB  - We offer a new network perspective on one of the central topics in operations management?the bullwhip effect (BWE). The topic has both practical and scholarly implications. We start with an observation: the variability of orders placed to suppliers is larger than the variability of sales to customers for most firms, yet the aggregate demand variability felt by suppliers upstream does not amplify commensurably. We hypothesize that changes to the supplier?s customer base can smooth out its aggregate demand. We test the hypothesis with a data set that tracks the evolution of supply relationships over time. We show that the effect of customer base management extends beyond the statistical benefits of aggregation. In particular, both the formation and the dissolution of customer-supplier relationships are associated with the smoothing of the aggregate demand experienced by suppliers. This provides fresh insight into how firms may leverage their customer-supplier relationships to mitigate the impact of the BWE. This paper was accepted by Jay Swaminathan, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3824
+UR  - https://doi.org/10.1287/mnsc.2020.3824
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Theory of Statistical Inference for Ensuring the Robustness of Scientific Results
+AU  - Coker, Beau
+AU  - Rudin, Cynthia
+AU  - King, Gary
+Y1  - 2021/03/25
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3818
+DO  - 10.1287/mnsc.2020.3818
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6174
+EP  - 6197
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Inference is the process of using facts we know to learn about facts we do not know. A theory of inference gives assumptions necessary to get from the former to the latter, along with a definition for and summary of the resulting uncertainty. Any one theory of inference is neither right nor wrong but merely an axiom that may or may not be useful. Each of the many diverse theories of inference can be valuable for certain applications. However, no existing theory of inference addresses the tendency to choose, from the range of plausible data analysis specifications consistent with prior evidence, those that inadvertently favor one?s own hypotheses. Because the biases from these choices are a growing concern across scientific fields, and in a sense the reason the scientific community was invented in the first place, we introduce a new theory of inference designed to address this critical problem. We introduce hacking intervals, which are the range of a summary statistic one may obtain given a class of possible endogenous manipulations of the data. Hacking intervals require no appeal to hypothetical data sets drawn from imaginary superpopulations. A scientific result with a small hacking interval is more robust to researcher manipulation than one with a larger interval and is often easier to interpret than a classical confidence interval. Some versions of hacking intervals turn out to be equivalent to classical confidence intervals, which means they may also provide a more intuitive and potentially more useful interpretation of classical confidence intervals. This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - Inference is the process of using facts we know to learn about facts we do not know. A theory of inference gives assumptions necessary to get from the former to the latter, along with a definition for and summary of the resulting uncertainty. Any one theory of inference is neither right nor wrong but merely an axiom that may or may not be useful. Each of the many diverse theories of inference can be valuable for certain applications. However, no existing theory of inference addresses the tendency to choose, from the range of plausible data analysis specifications consistent with prior evidence, those that inadvertently favor one?s own hypotheses. Because the biases from these choices are a growing concern across scientific fields, and in a sense the reason the scientific community was invented in the first place, we introduce a new theory of inference designed to address this critical problem. We introduce hacking intervals, which are the range of a summary statistic one may obtain given a class of possible endogenous manipulations of the data. Hacking intervals require no appeal to hypothetical data sets drawn from imaginary superpopulations. A scientific result with a small hacking interval is more robust to researcher manipulation than one with a larger interval and is often easier to interpret than a classical confidence interval. Some versions of hacking intervals turn out to be equivalent to classical confidence intervals, which means they may also provide a more intuitive and potentially more useful interpretation of classical confidence intervals. This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3818
+UR  - https://doi.org/10.1287/mnsc.2020.3818
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Pledging Puzzle: How Can Revocable Promises Increase Charitable Giving?
+AU  - Andreoni, James
+AU  - Serra-Garcia, Marta
+Y1  - 2021/03/19
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3811
+DO  - 10.1287/mnsc.2020.3811
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6198
+EP  - 6210
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - What is the value of pledges if they are often reneged upon? In this paper, we show?both theoretically and experimentally?that pledges can be used to screen donors and to better understand their motives for giving. In return, nonprofit managers can use the information they glean from pledges to better target future charitable giving appeals and interventions to donors, such as expressions of gratitude. In an experiment, we find that offering the option to pledge gifts induces self-selection. If expressions of gratitude are then targeted to individuals who select into pledges, reneging can be significantly reduced. Our findings provide an explanation for the potential usefulness of pledges. This paper was accepted by Yan Chen, decision analysis.
+AB  - What is the value of pledges if they are often reneged upon? In this paper, we show?both theoretically and experimentally?that pledges can be used to screen donors and to better understand their motives for giving. In return, nonprofit managers can use the information they glean from pledges to better target future charitable giving appeals and interventions to donors, such as expressions of gratitude. In an experiment, we find that offering the option to pledge gifts induces self-selection. If expressions of gratitude are then targeted to individuals who select into pledges, reneging can be significantly reduced. Our findings provide an explanation for the potential usefulness of pledges. This paper was accepted by Yan Chen, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3811
+UR  - https://doi.org/10.1287/mnsc.2020.3811
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Asset Dissemination Through Dealer Markets
+AU  - Colliard, Jean-Edouard
+AU  - Demange, Gabrielle
+Y1  - 2021/03/19
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3779
+DO  - 10.1287/mnsc.2020.3779
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6211
+EP  - 6234
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - In over-the-counter markets for assets, such as bonds and securitizations, large volumes can be split into smaller pieces and gradually sold to several final investors with the intermediation of multiple dealers. This paper proposes a model to study this process, called asset dissemination. A dealer buys several units of an asset from a customer and then sells some units to the dealer?s customers and to a second dealer, who sells to the second dealer?s customers and to a third dealer, and so on. The extent of dissemination is measured by the number of dealers involved and the total customer demand served. We show that asymmetric information on customer demand hinders both dimensions of dissemination. We also study how the quantity to disseminate and the dealers? funding costs impact dissemination and the prices and quantities in interdealer transactions. This paper was accepted by Gustavo Manso, finance.
+AB  - In over-the-counter markets for assets, such as bonds and securitizations, large volumes can be split into smaller pieces and gradually sold to several final investors with the intermediation of multiple dealers. This paper proposes a model to study this process, called asset dissemination. A dealer buys several units of an asset from a customer and then sells some units to the dealer?s customers and to a second dealer, who sells to the second dealer?s customers and to a third dealer, and so on. The extent of dissemination is measured by the number of dealers involved and the total customer demand served. We show that asymmetric information on customer demand hinders both dimensions of dissemination. We also study how the quantity to disseminate and the dealers? funding costs impact dissemination and the prices and quantities in interdealer transactions. This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3779
+UR  - https://doi.org/10.1287/mnsc.2020.3779
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - What Determines the Return to Bribery? Evidence from Corruption Cases Worldwide
+AU  - Cheung, Yan-Leung
+AU  - Rau, P. Raghavendra
+AU  - Stouraitis, Aris
+Y1  - 2020/12/08
+PY  - 2020
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3763
+DO  - 10.1287/mnsc.2020.3763
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6235
+EP  - 6265
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We analyze a hand-collected sample of bribery cases from around the world to describe how the payment of bribes affects shareholder value. The net present value of a bribe conditional on getting caught is close to zero for the median firm in our sample. However, controlling for industry, country, and firm characteristics, a $1 increase in the size of the bribe is associated with an ex ante $6?$9 increase in the value of the firm, suggesting a correlation between the size of bribes and the size of available benefits. Proxies for information disclosure appear significant in explaining these benefits with more disclosure associated with lower benefits. However, this result is driven by democratic countries where bribe-paying firms receive smaller benefits relative to the bribes they pay. Information disclosure is not significant in autocratic countries. This paper was accepted by Gustavo Manso, finance.
+AB  - We analyze a hand-collected sample of bribery cases from around the world to describe how the payment of bribes affects shareholder value. The net present value of a bribe conditional on getting caught is close to zero for the median firm in our sample. However, controlling for industry, country, and firm characteristics, a $1 increase in the size of the bribe is associated with an ex ante $6?$9 increase in the value of the firm, suggesting a correlation between the size of bribes and the size of available benefits. Proxies for information disclosure appear significant in explaining these benefits with more disclosure associated with lower benefits. However, this result is driven by democratic countries where bribe-paying firms receive smaller benefits relative to the bribes they pay. Information disclosure is not significant in autocratic countries. This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3763
+UR  - https://doi.org/10.1287/mnsc.2020.3763
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Disappointment Aversion, Term Structure, and Predictability Puzzles in Bond Markets
+AU  - Augustin, Patrick
+AU  - Tédongap, Roméo
+Y1  - 2020/12/10
+PY  - 2020
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3757
+DO  - 10.1287/mnsc.2020.3757
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6266
+EP  - 6293
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We solve a dynamic equilibrium model with generalized disappointment-aversion preferences and continuous state-endowment dynamics. We apply the framework to the term structure of interest rates and show that the model generates an upward-sloping term structure of nominal interest rates and a downward-sloping term structure of real interest rates and that it accounts for the failure of the expectations hypothesis. The key ingredients are preferences with disappointment aversion, preference for early resolution of uncertainty, and an endowment economy with three state variables: time-varying macroeconomic uncertainty, time-varying expected inflation, and inflation uncertainty. This paper was accepted by Karl Diether, finance.
+AB  - We solve a dynamic equilibrium model with generalized disappointment-aversion preferences and continuous state-endowment dynamics. We apply the framework to the term structure of interest rates and show that the model generates an upward-sloping term structure of nominal interest rates and a downward-sloping term structure of real interest rates and that it accounts for the failure of the expectations hypothesis. The key ingredients are preferences with disappointment aversion, preference for early resolution of uncertainty, and an endowment economy with three state variables: time-varying macroeconomic uncertainty, time-varying expected inflation, and inflation uncertainty. This paper was accepted by Karl Diether, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3757
+UR  - https://doi.org/10.1287/mnsc.2020.3757
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Do Nascent Social Entrepreneurs Respond to Rewards? A Field Experiment on Motivations in a Grant Competition
+AU  - Ganguli, Ina
+AU  - Huysentruyt, Marieke
+AU  - Le Coq, Chloé
+Y1  - 2021/02/15
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3793
+DO  - 10.1287/mnsc.2020.3793
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6294
+EP  - 6316
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We conducted a field experiment to identify the causal effect of extrinsic reward cues on the sorting and performance of nascent social entrepreneurs. The experiment, carried out with one of the United Kingdom?s largest support agencies for social entrepreneurs, encouraged 431 nascent social entrepreneurs to submit a full application for a grant competition that provides cash and in-kind mentoring through a one-time mailing sent by the agency. The applicants were randomly assigned to one of three groups: one group received a standard mailing that emphasized the intrinsic incentives of the program, or the opportunity to do good (Social treatment), and the other two groups received a mailing that instead emphasized the extrinsic incentives?either the financial reward (Cash treatment) or the in-kind reward (Support treatment). Our results show that an emphasis on extrinsic incentives has a causal impact on sorting into the applicant pool: the extrinsic reward cues led fewer candidates to apply and ?crowded out? the more prosocial candidates while ?crowding in? the more money-oriented ones. The extrinsic reward cues also increased application effort, which led these candidates to be more successful in receiving the grant. Yet the selection resulting from the extrinsic incentive cues led to worse performance at the end of the one-year grant period. Our results highlight the critical role of intrinsic motives in the selection and performance of social enterprises and suggest that using extrinsic incentives to promote the development of successful social enterprises may backfire in the longer run. This paper was accepted by Toby Stuart, entrepreneurship and innovation.
+AB  - We conducted a field experiment to identify the causal effect of extrinsic reward cues on the sorting and performance of nascent social entrepreneurs. The experiment, carried out with one of the United Kingdom?s largest support agencies for social entrepreneurs, encouraged 431 nascent social entrepreneurs to submit a full application for a grant competition that provides cash and in-kind mentoring through a one-time mailing sent by the agency. The applicants were randomly assigned to one of three groups: one group received a standard mailing that emphasized the intrinsic incentives of the program, or the opportunity to do good (Social treatment), and the other two groups received a mailing that instead emphasized the extrinsic incentives?either the financial reward (Cash treatment) or the in-kind reward (Support treatment). Our results show that an emphasis on extrinsic incentives has a causal impact on sorting into the applicant pool: the extrinsic reward cues led fewer candidates to apply and ?crowded out? the more prosocial candidates while ?crowding in? the more money-oriented ones. The extrinsic reward cues also increased application effort, which led these candidates to be more successful in receiving the grant. Yet the selection resulting from the extrinsic incentive cues led to worse performance at the end of the one-year grant period. Our results highlight the critical role of intrinsic motives in the selection and performance of social enterprises and suggest that using extrinsic incentives to promote the development of successful social enterprises may backfire in the longer run. This paper was accepted by Toby Stuart, entrepreneurship and innovation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3793
+UR  - https://doi.org/10.1287/mnsc.2020.3793
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Delegating Innovation Projects with Deadline: Committed vs. Flexible Stopping
+AU  - Rahmani, Morvarid
+AU  - Ramachandran, Karthik
+Y1  - 2021/01/02
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3800
+DO  - 10.1287/mnsc.2020.3800
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6317
+EP  - 6332
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - In many contexts such as product design and development, advertising, and scouting for technical solutions, clients seek the expertise of external providers to generate innovative solutions for their business problems. Because innovation projects are beset with uncertainty, they often require multiple iterations of ideation and evaluation. Although some clients make a commitment to take the first feasible solution from the provider, other clients retain the flexibility to seek more solutions until they decide to stop the project. Which of these policies is the better way to delegate an innovation project? To answer this question, we develop game-theoretic models that capture two salient aspects of delegated innovation projects: a deadline for the project and dynamic effort adjustment by the provider. We show that the flexible stopping policy, despite its intuitive appeal, may not always benefit the client. Specifically, the committed stopping policy is optimal when the provider is highly capable of generating solutions and when the client?s cost of evaluating solutions is in an intermediate range. In such situations, the committed stopping policy provides a stronger incentive to the provider to exert costly effort early on, which improves the quality of initial solutions. Considering endogenous payments, we show that the committed policy not only mitigates the provider?s tendency to postpone effort but also does so with a smaller payment. This paper was accepted by Serguei Netessine, operations management.
+AB  - In many contexts such as product design and development, advertising, and scouting for technical solutions, clients seek the expertise of external providers to generate innovative solutions for their business problems. Because innovation projects are beset with uncertainty, they often require multiple iterations of ideation and evaluation. Although some clients make a commitment to take the first feasible solution from the provider, other clients retain the flexibility to seek more solutions until they decide to stop the project. Which of these policies is the better way to delegate an innovation project? To answer this question, we develop game-theoretic models that capture two salient aspects of delegated innovation projects: a deadline for the project and dynamic effort adjustment by the provider. We show that the flexible stopping policy, despite its intuitive appeal, may not always benefit the client. Specifically, the committed stopping policy is optimal when the provider is highly capable of generating solutions and when the client?s cost of evaluating solutions is in an intermediate range. In such situations, the committed stopping policy provides a stronger incentive to the provider to exert costly effort early on, which improves the quality of initial solutions. Considering endogenous payments, we show that the committed policy not only mitigates the provider?s tendency to postpone effort but also does so with a smaller payment. This paper was accepted by Serguei Netessine, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3800
+UR  - https://doi.org/10.1287/mnsc.2020.3800
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Is Charitable Giving a Zero-Sum Game? The Effect of Competition Between Charities on Giving Behavior
+AU  - Schmitz, Jan
+Y1  - 2021/02/11
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3809
+DO  - 10.1287/mnsc.2020.3809
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6333
+EP  - 6349
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - The competition for donations between charities is tough. Yet, little is known about how giving behavior is affected by competition between charities. Do people have a need to satisfy their demand for giving by contributing to a particular charity? Or can the demand for doing good be satisfied by giving to any organization? In a donation dictator game, I vary competition between charities by (i) altering the set of similar real charities to which subjects can donate and (ii) changing the relative price of giving to a randomly selected charity in the choice set by introducing a matching grant. I find weak substitution between charities when giving to more than one charity is possible, as the donated amounts to individual charities decrease with the size of the choice set. At the same time, aggregate giving to all charities increases when charities are in competition. Intensified competition through an increase in the charitable giving market seems to attract new giving and increases overall public good provision. Price competition, however, does not attract new donations when market size is constant and charities compete for donations. These findings carry important insights for managers of nonprofit organizations and provide information on how to improve existing fundraising strategies.This paper was accepted by Yan Chen, decision analysis.
+AB  - The competition for donations between charities is tough. Yet, little is known about how giving behavior is affected by competition between charities. Do people have a need to satisfy their demand for giving by contributing to a particular charity? Or can the demand for doing good be satisfied by giving to any organization? In a donation dictator game, I vary competition between charities by (i) altering the set of similar real charities to which subjects can donate and (ii) changing the relative price of giving to a randomly selected charity in the choice set by introducing a matching grant. I find weak substitution between charities when giving to more than one charity is possible, as the donated amounts to individual charities decrease with the size of the choice set. At the same time, aggregate giving to all charities increases when charities are in competition. Intensified competition through an increase in the charitable giving market seems to attract new giving and increases overall public good provision. Price competition, however, does not attract new donations when market size is constant and charities compete for donations. These findings carry important insights for managers of nonprofit organizations and provide information on how to improve existing fundraising strategies.This paper was accepted by Yan Chen, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3809
+UR  - https://doi.org/10.1287/mnsc.2020.3809
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Informing the Public About a Pandemic
+AU  - de Véricourt, Francis
+AU  - Gurkan, Huseyin
+AU  - Wang, Shouqiang
+Y1  - 2021/08/12
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2021.4016
+DO  - 10.1287/mnsc.2021.4016
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6350
+EP  - 6357
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - This paper explores how governments may efficiently inform the public about an epidemic to induce compliance with their confinement measures. Using an information design framework, we find the government has an incentive to either downplay or exaggerate the severity of the epidemic if it heavily prioritizes the economy over population health or vice versa. Importantly, we find that the level of economic inequality in the population has an effect on these distortions. The more unequal the disease?s economic impact on the population, the less the government exaggerates and the more it downplays the severity of the epidemic. When the government weighs the economy and population health sufficiently equally, however, the government should always be fully transparent about the severity of the epidemic. This paper was accepted by Stefan Scholtes, healthcare management.
+AB  - This paper explores how governments may efficiently inform the public about an epidemic to induce compliance with their confinement measures. Using an information design framework, we find the government has an incentive to either downplay or exaggerate the severity of the epidemic if it heavily prioritizes the economy over population health or vice versa. Importantly, we find that the level of economic inequality in the population has an effect on these distortions. The more unequal the disease?s economic impact on the population, the less the government exaggerates and the more it downplays the severity of the epidemic. When the government weighs the economy and population health sufficiently equally, however, the government should always be fully transparent about the severity of the epidemic. This paper was accepted by Stefan Scholtes, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4016
+UR  - https://doi.org/10.1287/mnsc.2021.4016
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Judgment Aggregation in Creative Production: Evidence from the Movie Industry
+AU  - Luo, Hong
+AU  - Macher, Jeffrey
+AU  - Wahlen, Michael
+Y1  - 2021/02/09
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3815
+DO  - 10.1287/mnsc.2020.3815
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6358
+EP  - 6377
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We study a novel, low-cost approach to aggregating judgment from a large number of industry experts on ideas that they encounter in their normal course of business. Our context is the movie industry, in which customer appeal is difficult to predict and investment costs are high. The Black List, an annual publication, ranks unproduced scripts based on anonymous nominations from film executives. This approach entails an inherent trade-off: Low participation costs enable high response rates, but nominations lack standard criteria, and which voters see which ideas is unobservable and influenced by various factors. Despite these challenges, we find that such aggregation is predictive: Listed scripts are substantially more likely to be released than observably similar, but unlisted, scripts, and, conditional on release and investment levels, listed scripts generate higher box-office revenues. We also find that this method mitigates entry barriers for less-experienced writers, as (i) their scripts are more likely to be listed than those by experienced writers and to rank higher if listed and (ii) within scripts by less-experienced writers, being listed is associated with a higher release rate. Yet, the gap in release probabilities relative to experienced writers remains large, even for top-ranked scripts. These results can be explained by the premise that scripts from less-experienced writers are more visible among eligible voters than scripts from experienced writers. This highlights idea visibility as an important determinant of votes and surfaces the trade-offs, as well as potential limitations, associated with such methods. This paper was accepted by Ashish Arora, entrepreneurship and innovation.
+AB  - We study a novel, low-cost approach to aggregating judgment from a large number of industry experts on ideas that they encounter in their normal course of business. Our context is the movie industry, in which customer appeal is difficult to predict and investment costs are high. The Black List, an annual publication, ranks unproduced scripts based on anonymous nominations from film executives. This approach entails an inherent trade-off: Low participation costs enable high response rates, but nominations lack standard criteria, and which voters see which ideas is unobservable and influenced by various factors. Despite these challenges, we find that such aggregation is predictive: Listed scripts are substantially more likely to be released than observably similar, but unlisted, scripts, and, conditional on release and investment levels, listed scripts generate higher box-office revenues. We also find that this method mitigates entry barriers for less-experienced writers, as (i) their scripts are more likely to be listed than those by experienced writers and to rank higher if listed and (ii) within scripts by less-experienced writers, being listed is associated with a higher release rate. Yet, the gap in release probabilities relative to experienced writers remains large, even for top-ranked scripts. These results can be explained by the premise that scripts from less-experienced writers are more visible among eligible voters than scripts from experienced writers. This highlights idea visibility as an important determinant of votes and surfaces the trade-offs, as well as potential limitations, associated with such methods. This paper was accepted by Ashish Arora, entrepreneurship and innovation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3815
+UR  - https://doi.org/10.1287/mnsc.2020.3815
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Content-Based Model of Web Search Behavior: An Application to TV Show Search
+AU  - Liu, Jia
+AU  - Toubia, Olivier
+AU  - Hill, Shawndra
+Y1  - 2021/02/26
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3827
+DO  - 10.1287/mnsc.2020.3827
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6378
+EP  - 6398
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We develop a flexible content-based search model that links the content preferences of search engine users to query search volume and click-through rates, while allowing content preferences to vary systematically based on the context of a search. Content preferences are defined over latent topics that describe the content of search queries and search result descriptions. Compared with existing applications of topic modeling in marketing and recommendation systems, our proposed approach can simultaneously capture multiple types of information and investigate multiple aspects of behavioral dynamics in a single framework that enables interpretable results for business decision making. To facilitate efficient and scalable inference, we develop a full Bayesian variational inference algorithm. We evaluate our modeling framework using real-world search data for TV shows from the Bing search engine. We illustrate how our model can quantify the content preferences associated with each query and how these preferences vary systematically based on whether the query is observed before, during, or after a TV show is aired. We also show that our model can help the search engine improve its ranking of search results as well as address the cold-start problem for new page links. This paper was accepted by Hamid Nazerzadeh, big data analytics.
+AB  - We develop a flexible content-based search model that links the content preferences of search engine users to query search volume and click-through rates, while allowing content preferences to vary systematically based on the context of a search. Content preferences are defined over latent topics that describe the content of search queries and search result descriptions. Compared with existing applications of topic modeling in marketing and recommendation systems, our proposed approach can simultaneously capture multiple types of information and investigate multiple aspects of behavioral dynamics in a single framework that enables interpretable results for business decision making. To facilitate efficient and scalable inference, we develop a full Bayesian variational inference algorithm. We evaluate our modeling framework using real-world search data for TV shows from the Bing search engine. We illustrate how our model can quantify the content preferences associated with each query and how these preferences vary systematically based on whether the query is observed before, during, or after a TV show is aired. We also show that our model can help the search engine improve its ranking of search results as well as address the cold-start problem for new page links. This paper was accepted by Hamid Nazerzadeh, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3827
+UR  - https://doi.org/10.1287/mnsc.2020.3827
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Directors’ Perceptions of Board Effectiveness and Internal Operations
+AU  - Cheng, J. Yo-Jud
+AU  - Groysberg, Boris
+AU  - Healy, Paul
+AU  - Vijayaraghavan, Rajesh
+Y1  - 2021/01/04
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3789
+DO  - 10.1287/mnsc.2020.3789
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6399
+EP  - 6420
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We contribute to the growing literature on the effectiveness of corporate boards by examining the effect of two insights that have been largely unexplored in prior studies that use public data. First, since boards? responsibilities are wide-ranging, more holistic performance measures may better capture the full range of their duties than specific public actions and outcomes (e.g., disclosure of risk management processes, financial restatements, acquisition returns, CEO turnover). And second, because corporate boards share many characteristics of other types of teams, their effectiveness is likely to be influenced by their internal operations. To examine the performance effects of these insights, we use data from 577 directors of U.S. public firms that responded to a survey we conducted in 2015?2016 and qualitative data from interviews of 75 directors. Our study establishes a strong relation between director perceptions of board performance effectiveness and internal board operations. Further, by highlighting the critical role of internal operations, identifying areas of relative strength and weakness in boards? effectiveness in various activities, and probing director perceptions of their primary responsibilities, we are able to offer concrete suggestions for future research on board effectiveness.This paper was accepted by Shiva Rajgopal, accounting.
+AB  - We contribute to the growing literature on the effectiveness of corporate boards by examining the effect of two insights that have been largely unexplored in prior studies that use public data. First, since boards? responsibilities are wide-ranging, more holistic performance measures may better capture the full range of their duties than specific public actions and outcomes (e.g., disclosure of risk management processes, financial restatements, acquisition returns, CEO turnover). And second, because corporate boards share many characteristics of other types of teams, their effectiveness is likely to be influenced by their internal operations. To examine the performance effects of these insights, we use data from 577 directors of U.S. public firms that responded to a survey we conducted in 2015?2016 and qualitative data from interviews of 75 directors. Our study establishes a strong relation between director perceptions of board performance effectiveness and internal board operations. Further, by highlighting the critical role of internal operations, identifying areas of relative strength and weakness in boards? effectiveness in various activities, and probing director perceptions of their primary responsibilities, we are able to offer concrete suggestions for future research on board effectiveness.This paper was accepted by Shiva Rajgopal, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3789
+UR  - https://doi.org/10.1287/mnsc.2020.3789
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Extrapolation Bias and Robust Dynamic Liquidity Management
+AU  - Lee, Seokwoo
+AU  - Rivera, Alejandro
+Y1  - 2021/03/16
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3765
+DO  - 10.1287/mnsc.2020.3765
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6421
+EP  - 6442
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We consider the optimal dynamic liquidity management of a financially constrained firm when its existing shareholders are risk neutral but ambiguity averse with respect to the firm?s future cash flows. The shareholders? ambiguity aversion generates endogenous time-varying worst-case beliefs that overweight recent cash flow realizations, thereby providing a microeconomic foundation for extrapolation bias. Moreover, shareholders? ambiguity aversion has different implications on firms? liquidity management and recapitalization policies than risk. Models with risk alone imply that higher cash flow volatility increases firms? payout and refinancing thresholds. By contrast, our model predicts that, when ambiguity-averse shareholders face a higher long-term cash flow uncertainty, they optimally reduce firms? payout and refinancing thresholds. The implications for investment are also studied. This paper was accepted by Agostino Capponi, finance.
+AB  - We consider the optimal dynamic liquidity management of a financially constrained firm when its existing shareholders are risk neutral but ambiguity averse with respect to the firm?s future cash flows. The shareholders? ambiguity aversion generates endogenous time-varying worst-case beliefs that overweight recent cash flow realizations, thereby providing a microeconomic foundation for extrapolation bias. Moreover, shareholders? ambiguity aversion has different implications on firms? liquidity management and recapitalization policies than risk. Models with risk alone imply that higher cash flow volatility increases firms? payout and refinancing thresholds. By contrast, our model predicts that, when ambiguity-averse shareholders face a higher long-term cash flow uncertainty, they optimally reduce firms? payout and refinancing thresholds. The implications for investment are also studied. This paper was accepted by Agostino Capponi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3765
+UR  - https://doi.org/10.1287/mnsc.2020.3765
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Wisdom of the Crowd When Acquiring Information Is Costly
+AU  - Glazer, Jacob
+AU  - Kremer, Ilan
+AU  - Perry, Motty
+Y1  - 2021/01/21
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3792
+DO  - 10.1287/mnsc.2020.3792
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6443
+EP  - 6456
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We consider a sequential investment process that is characteristic of crowdfunding platforms, among other contexts. Investors wish to avoid the cost of information acquisition and thus prefer to rely on information acquired by previous investors. This may lead to a phenomenon similar to an information cascade. We characterize the optimal policy that balances between the incentive to acquire information and the optimal investment decision. The policy is based on time-varying transparency levels such that it may be worthwhile to conceal some information in some periods. This paper was accepted by Joshua Gans, business strategy.
+AB  - We consider a sequential investment process that is characteristic of crowdfunding platforms, among other contexts. Investors wish to avoid the cost of information acquisition and thus prefer to rely on information acquired by previous investors. This may lead to a phenomenon similar to an information cascade. We characterize the optimal policy that balances between the incentive to acquire information and the optimal investment decision. The policy is based on time-varying transparency levels such that it may be worthwhile to conceal some information in some periods. This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3792
+UR  - https://doi.org/10.1287/mnsc.2020.3792
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Inventory in Times of War
+AU  - Jola-Sanchez, Andres F.
+AU  - Serpa, Juan Camilo
+Y1  - 2021/01/25
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3801
+DO  - 10.1287/mnsc.2020.3801
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6457
+EP  - 6479
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Using data from 38,916 businesses in war-torn Colombia and from 5,138 attacks by the two rebel groups, FARC and ELN, we study how firms manage inventory during civil war. We obtain exogenous variation in the conflict intensity via a difference-in-differences model, which hinges on the peace process between Colombia?s government and FARC. Relying on this identification strategy, we hypothesize and show that war causes two effects on firm-level inventories. First, it leads firms to replace physical assets (inventory) with fungible assets (cash), causing them to operate with an oversecured financial buffer, but a fragile operational buffer. Second, this inventory reduction occurs mostly in unprocessed inventories (finished-goods inventories are insensitive to violence), meaning that, although war-torn businesses are equipped to fulfill planned orders, they become inflexible at handling uncertain future demand. We then show that the magnitude of these effects is highly contingent on the firm?s position in the supply chain, its proximity to distribution markets, and the type of attacks it is subject to. We then propose policies to address war-related risk in supply chains. This paper was accepted by Vishal Gaur, operations management.
+AB  - Using data from 38,916 businesses in war-torn Colombia and from 5,138 attacks by the two rebel groups, FARC and ELN, we study how firms manage inventory during civil war. We obtain exogenous variation in the conflict intensity via a difference-in-differences model, which hinges on the peace process between Colombia?s government and FARC. Relying on this identification strategy, we hypothesize and show that war causes two effects on firm-level inventories. First, it leads firms to replace physical assets (inventory) with fungible assets (cash), causing them to operate with an oversecured financial buffer, but a fragile operational buffer. Second, this inventory reduction occurs mostly in unprocessed inventories (finished-goods inventories are insensitive to violence), meaning that, although war-torn businesses are equipped to fulfill planned orders, they become inflexible at handling uncertain future demand. We then show that the magnitude of these effects is highly contingent on the firm?s position in the supply chain, its proximity to distribution markets, and the type of attacks it is subject to. We then propose policies to address war-related risk in supply chains. This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3801
+UR  - https://doi.org/10.1287/mnsc.2020.3801
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Knowledge Accumulation, Privacy, and Growth in a Data Economy
+AU  - Cong, Lin William
+AU  - Xie, Danxia
+AU  - Zhang, Longtian
+Y1  - 2021/08/24
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2021.3986
+DO  - 10.1287/mnsc.2021.3986
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6480
+EP  - 6492
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We build an endogenous growth model with consumer-generated data as a new key factor for knowledge accumulation. Consumers balance between providing data for profit and potential privacy infringement. Intermediate good producers use data to innovate and contribute to the final good production, which fuels economic growth. Data are dynamically nonrival with flexible ownership while their production is endogenous and policy-dependent. Although a decentralized economy can grow at the same rate (but are at different levels) as the social optimum on the Balanced Growth Path, the R&D sector underemploys labor and overuses data?an inefficiency mitigated by subsidizing innovators instead of direct data regulation. As a data economy emerges and matures, consumers? data provision endogenously declines after a transitional acceleration, allaying long-run privacy concerns but portending initial growth traps that call for interventions. This paper was accepted by Kay Giesecke, finance.
+AB  - We build an endogenous growth model with consumer-generated data as a new key factor for knowledge accumulation. Consumers balance between providing data for profit and potential privacy infringement. Intermediate good producers use data to innovate and contribute to the final good production, which fuels economic growth. Data are dynamically nonrival with flexible ownership while their production is endogenous and policy-dependent. Although a decentralized economy can grow at the same rate (but are at different levels) as the social optimum on the Balanced Growth Path, the R&D sector underemploys labor and overuses data?an inefficiency mitigated by subsidizing innovators instead of direct data regulation. As a data economy emerges and matures, consumers? data provision endogenously declines after a transitional acceleration, allaying long-run privacy concerns but portending initial growth traps that call for interventions. This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3986
+UR  - https://doi.org/10.1287/mnsc.2021.3986
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Does Competition Improve Service Quality? The Case of Nursing Homes Where Public and Private Payers Coexist
+AU  - Lu, Susan Feng
+AU  - Serfes, Konstantinos
+AU  - Wedig, Gerard
+AU  - Wu, Bingxiao
+Y1  - 2021/02/04
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3806
+DO  - 10.1287/mnsc.2020.3806
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6493
+EP  - 6512
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Competition plays an ambiguous role in nursing home markets where public and private payers coexist. Using U.S. nursing home data with a wide range of market structures, we find a U-shaped relationship between competition and service quality when nursing homes serve a mix of public and private segments, and a monotonically increasing relationship when nursing homes mostly serve the public, price-regulated, segment. The outcomes can be explained by the interplay of two opposing effects of competition: the reputation-building effect, whereby competing firms choose high quality to build a good reputation, and the rent-extraction effect, whereby competition hinders investment for quality improvements by lowering price premia. These observations are consistent with a repeated game model that incorporates public and private-payer segments. This paper was accepted by Stefan Scholtes, healthcare management.
+AB  - Competition plays an ambiguous role in nursing home markets where public and private payers coexist. Using U.S. nursing home data with a wide range of market structures, we find a U-shaped relationship between competition and service quality when nursing homes serve a mix of public and private segments, and a monotonically increasing relationship when nursing homes mostly serve the public, price-regulated, segment. The outcomes can be explained by the interplay of two opposing effects of competition: the reputation-building effect, whereby competing firms choose high quality to build a good reputation, and the rent-extraction effect, whereby competition hinders investment for quality improvements by lowering price premia. These observations are consistent with a repeated game model that incorporates public and private-payer segments. This paper was accepted by Stefan Scholtes, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3806
+UR  - https://doi.org/10.1287/mnsc.2020.3806
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - On the Learning Benefits of Resource Flexibility
+AU  - Chod, Jiri
+AU  - Markakis, Mihalis G.
+AU  - Trichakis, Nikolaos
+Y1  - 2021/02/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3795
+DO  - 10.1287/mnsc.2020.3795
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6513
+EP  - 6528
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - Resource flexibility, arguably among the most celebrated operational concepts, is known to provide firms facing demand uncertainty with such benefits as risk pooling, revenue-maximization optionality, and operational hedging. In this paper, we uncover a heretofore unknown benefit: we establish that resource flexibility facilitates learning the demand when the latter is censored, which could, in turn, enable firms to make better-informed future operational decisions, thereby increasing profitability. Further, we quantify these learning benefits of flexibility and find that they could be of the same order of magnitude as the extensively studied risk-pooling benefits of flexibility. This suggests that flexibility?s learning benefits could be a first-order consideration and that extant theories, which view flexibility only as the ability to act ex post, could be underestimating its true value when learning the demand is desirable, for example, when it enables managers to make better ex ante capacity, assortment, or pricing decisions in future periods. This paper was accepted by Vishal Gaur, operations management.
+AB  - Resource flexibility, arguably among the most celebrated operational concepts, is known to provide firms facing demand uncertainty with such benefits as risk pooling, revenue-maximization optionality, and operational hedging. In this paper, we uncover a heretofore unknown benefit: we establish that resource flexibility facilitates learning the demand when the latter is censored, which could, in turn, enable firms to make better-informed future operational decisions, thereby increasing profitability. Further, we quantify these learning benefits of flexibility and find that they could be of the same order of magnitude as the extensively studied risk-pooling benefits of flexibility. This suggests that flexibility?s learning benefits could be a first-order consideration and that extant theories, which view flexibility only as the ability to act ex post, could be underestimating its true value when learning the demand is desirable, for example, when it enables managers to make better ex ante capacity, assortment, or pricing decisions in future periods. This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3795
+UR  - https://doi.org/10.1287/mnsc.2020.3795
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Toolkit for Robust Risk Assessment Using F-Divergences
+AU  - Kruse, Thomas
+AU  - Schneider, Judith C.
+AU  - Schweizer, Nikolaus
+Y1  - 2021/03/18
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3822
+DO  - 10.1287/mnsc.2020.3822
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6529
+EP  - 6552
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - This paper assembles a toolkit for the assessment of model risk when model uncertainty sets are defined in terms of an F-divergence ball around a reference model. We propose a new family of F-divergences that are easy to implement and flexible enough to imply convincing uncertainty sets for broad classes of reference models. We use our theoretical results to construct concrete examples of divergences that allow for significant amounts of uncertainty about lognormal or heavy-tailed Weibull reference models without implying that the worst case is necessarily infinitely bad. We implement our tools in an open-source software package and apply them to three risk management problems from operations management, insurance, and finance. This paper was accepted by Baris Ata, stochastic models and simulation.
+AB  - This paper assembles a toolkit for the assessment of model risk when model uncertainty sets are defined in terms of an F-divergence ball around a reference model. We propose a new family of F-divergences that are easy to implement and flexible enough to imply convincing uncertainty sets for broad classes of reference models. We use our theoretical results to construct concrete examples of divergences that allow for significant amounts of uncertainty about lognormal or heavy-tailed Weibull reference models without implying that the worst case is necessarily infinitely bad. We implement our tools in an open-source software package and apply them to three risk management problems from operations management, insurance, and finance. This paper was accepted by Baris Ata, stochastic models and simulation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3822
+UR  - https://doi.org/10.1287/mnsc.2020.3822
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bounded Rationality in Strategic Decisions: Undershooting in a Resource Pool-Choice Dilemma
+AU  - Hsee, Christopher K.
+AU  - Zeng, Ying
+AU  - Li, Xilin
+AU  - Imas, Alex
+Y1  - 2021/02/17
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3814
+DO  - 10.1287/mnsc.2020.3814
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6553
+EP  - 6567
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - This research studies a resource pool-choice dilemma, in which a group of resource seekers independently choose between a larger pool containing more resources and a smaller pool containing fewer resources, knowing that the resources in each pool will be divided equally among its choosers, so that the more (fewer) people choose a certain pool, the fewer (more) resources each of them will get. This setting corresponds to many real-world situations, ranging from students choosing majors as a function of job opportunities to entrepreneurs choosing markets as a function of customer bases. Ten studies reveal a systematic undershooting bias: fewer people choose the larger pool relative to both the normative equilibrium benchmark and chance (random choice), thus advantaging those who choose the larger pool and disadvantaging those who choose the smaller pool. We present evidence showing that the undershooting bias is driven by bounded rationality in strategic thinking and discuss the relationship between our paradigm and other coordination games. This paper was accepted by Yuval Rottenstreich, decision analysis.
+AB  - This research studies a resource pool-choice dilemma, in which a group of resource seekers independently choose between a larger pool containing more resources and a smaller pool containing fewer resources, knowing that the resources in each pool will be divided equally among its choosers, so that the more (fewer) people choose a certain pool, the fewer (more) resources each of them will get. This setting corresponds to many real-world situations, ranging from students choosing majors as a function of job opportunities to entrepreneurs choosing markets as a function of customer bases. Ten studies reveal a systematic undershooting bias: fewer people choose the larger pool relative to both the normative equilibrium benchmark and chance (random choice), thus advantaging those who choose the larger pool and disadvantaging those who choose the smaller pool. We present evidence showing that the undershooting bias is driven by bounded rationality in strategic thinking and discuss the relationship between our paradigm and other coordination games. This paper was accepted by Yuval Rottenstreich, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3814
+UR  - https://doi.org/10.1287/mnsc.2020.3814
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Price Effect of Stock Repurchases: Evidence from Dual Class Firms
+AU  - Bargeron, Leonce
+AU  - Farrell, Michael
+Y1  - 2021/07/26
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2021.4066
+DO  - 10.1287/mnsc.2021.4066
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6568
+EP  - 6580
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We examine a sample of dual-class firms to isolate the magnitude and duration of the demand-driven price effect from stock repurchases. In this novel setting, the non-repurchased class serves as a near-perfect counterfactual to the repurchased class and controls for private information about firm value contained in the repurchases. The average repurchase in our sample, 0.30% of outstanding shares within a month, increases the stock price by 40 to 70 basis points relative to the non-repurchased class of stock. The effect dissipates completely over the subsequent month unless extended by continued repurchases. This small, short-lived price effect leaves little scope for CEOs to benefit from value-destroying repurchases motivated by self-interest. This paper was accepted by Victoria Ivashina, finance.
+AB  - We examine a sample of dual-class firms to isolate the magnitude and duration of the demand-driven price effect from stock repurchases. In this novel setting, the non-repurchased class serves as a near-perfect counterfactual to the repurchased class and controls for private information about firm value contained in the repurchases. The average repurchase in our sample, 0.30% of outstanding shares within a month, increases the stock price by 40 to 70 basis points relative to the non-repurchased class of stock. The effect dissipates completely over the subsequent month unless extended by continued repurchases. This small, short-lived price effect leaves little scope for CEOs to benefit from value-destroying repurchases motivated by self-interest. This paper was accepted by Victoria Ivashina, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4066
+UR  - https://doi.org/10.1287/mnsc.2021.4066
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Optimality of Call Provision Terms
+AU  - Powers, Eric
+Y1  - 2020/12/17
+PY  - 2020
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3774
+DO  - 10.1287/mnsc.2020.3774
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6581
+EP  - 6601
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - There is substantial variation in fixed-price call provision terms?call price premium and call protection. I investigate determinants of call price, call protection, and estimated call option value. Consistent with agency theory and asymmetric information models, I find that lower credit quality and opaque issuers choose higher call premiums, longer call protection, and overall less valuable call options. Higher-quality issuers, particularly financial institutions that struggle when interest rates are low, do the opposite. This paper was accepted by David Simchi-Levi, finance.
+AB  - There is substantial variation in fixed-price call provision terms?call price premium and call protection. I investigate determinants of call price, call protection, and estimated call option value. Consistent with agency theory and asymmetric information models, I find that lower credit quality and opaque issuers choose higher call premiums, longer call protection, and overall less valuable call options. Higher-quality issuers, particularly financial institutions that struggle when interest rates are low, do the opposite. This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3774
+UR  - https://doi.org/10.1287/mnsc.2020.3774
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Top Management Team Power in China: Measurement and Validation
+AU  - Ke, Bin
+AU  - Mao, Xinshu
+AU  - Wang, Bin
+AU  - Zuo, Luo
+Y1  - 2021/02/12
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2020.3798
+DO  - 10.1287/mnsc.2020.3798
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6602
+EP  - 6627
+VL  - 67
+IS  - 10
+PB  - INFORMS
+N2  - We propose and validate a comprehensive measure of power for the top management teams (TMTs) of publicly listed Chinese firms. We show that our measure is positively associated with the four power dimensions developed by prior research for U.S. firms as well as three Asia-relevant power dimensions, including political capital, seniority, and gender. We find that our TMT power measure is a valid proxy for TMT power for both state-controlled firms and non-state-controlled firms. We also compare our TMT power measure with one alternative TMT power proxy based on executive compensation and find no evidence that the alternative proxy is better than our measure in capturing TMT?s true power. Further, we provide evidence that the divergence between our power proxy and the power proxy based on executive compensation reflects nonmarket institutional forces in China and has important implications for corporate outcomes. This paper was accepted by Brian Bushee, accounting.
+AB  - We propose and validate a comprehensive measure of power for the top management teams (TMTs) of publicly listed Chinese firms. We show that our measure is positively associated with the four power dimensions developed by prior research for U.S. firms as well as three Asia-relevant power dimensions, including political capital, seniority, and gender. We find that our TMT power measure is a valid proxy for TMT power for both state-controlled firms and non-state-controlled firms. We also compare our TMT power measure with one alternative TMT power proxy based on executive compensation and find no evidence that the alternative proxy is better than our measure in capturing TMT?s true power. Further, we provide evidence that the divergence between our power proxy and the power proxy based on executive compensation reflects nonmarket institutional forces in China and has important implications for corporate outcomes. This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3798
+UR  - https://doi.org/10.1287/mnsc.2020.3798
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - doi: 10.1287/mnsc.2021.eb.v67n10
+DO  - 10.1287/mnsc.2021.eb.v67n10
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 67
+IS  - 10
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.eb.v67n10
+UR  - https://doi.org/10.1287/mnsc.2021.eb.v67n10
+Y2  - 2024/03/29
+ER  - 

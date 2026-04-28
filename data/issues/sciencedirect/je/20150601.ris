@@ -1,0 +1,288 @@
+TY  - JOUR
+T1  - Asymptotic analysis of the squared estimation error in misspecified factor models
+AU  - Onatski, Alexei
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 388
+EP  - 406
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000408
+KW  - Misspecification
+KW  - Factor model
+KW  - Number of factors
+KW  - Loss efficiency
+AB  - In this paper, we obtain asymptotic approximations to the squared error of the least squares estimator of the common component in large approximate factor models with possibly misspecified number of factors. The approximations are derived under both strong and weak factors asymptotics assuming that the cross-sectional and temporal dimensions of the data are comparable. We develop consistent estimators of these approximations and propose to use them for model comparison and for selection of the number of factors. We show that the estimators of the number of factors that minimize these loss estimators are asymptotically loss efficient in the sense of Shibata (1980), Li (1987), and Shao (1997).
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap inference for linear dynamic panel data models with individual fixed effects
+AU  - Gonçalves, Sílvia
+AU  - Kaffo, Maximilien
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 407
+EP  - 426
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.017
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500041X
+KW  - Bootstrap
+KW  - Panel data autoregression
+KW  - Fixed effects
+KW  - Incidental parameter bias
+AB  - This paper’s main contribution is to propose and theoretically justify the application of bootstrap methods for inference in autoregressive panel data models with fixed effects. Whereas the focus of the existing literature has been on bias correcting the standard fixed effects OLS estimator (due to the well known incidental parameter bias), our focus here is on improving the quality of inference by relying on the bootstrap instead of the standard normal distribution when computing critical values for test statistics. In particular, we show by simulation that confidence intervals based on the normal distribution can be very distorted in finite samples. Instead, a bootstrap that resamples the residuals and generates the bootstrap observations recursively using the estimated autoregressive panel data model greatly reduces these distortions. We show that this recursive-design residual-based bootstrap fixed effects OLS estimator contains a built-in bias correction term that mimics the incidental parameter bias. Thus, this method can be used to approximate the bias (as well as the entire distribution) of the (biased) fixed effects OLS estimator. This is in contrast with two other methods we consider (a fixed-design residual-based bootstrap and a pairs bootstrap) whose distributions are incorrectly centered at zero. As it turns out, both the recursive-design and the pairs bootstrap are asymptotically valid when applied to the bias-corrected estimator, but the fixed-design bootstrap is not. In the simulations, the recursive-design bootstrap is the method that does best overall.
+ER  - 
+
+TY  - JOUR
+T1  - The three-pass regression filter: A new approach to forecasting using many predictors
+AU  - Kelly, Bryan
+AU  - Pruitt, Seth
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 294
+EP  - 316
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000354
+KW  - Forecast
+KW  - Factor model
+KW  - Principal components
+KW  - Constrained least squares
+KW  - Partial least squares
+AB  - We forecast a single time series using many predictor variables with a new estimator called the three-pass regression filter (3PRF). It is calculated in closed form and conveniently represented as a set of ordinary least squares regressions. 3PRF forecasts are consistent for the infeasible best forecast when both the time dimension and cross section dimension become large. This requires specifying only the number of relevant factors driving the forecast target, regardless of the total number of common factors driving the cross section of predictors. The 3PRF is a constrained least squares estimator and reduces to partial least squares as a special case. Simulation evidence confirms the 3PRF’s forecasting performance relative to alternatives. We explore two empirical applications: Forecasting macroeconomic aggregates with a large panel of economic indices, and forecasting stock market returns with price–dividend ratios of stock portfolios.
+ER  - 
+
+TY  - JOUR
+T1  - Forecasting with factor-augmented regression: A frequentist model averaging approach
+AU  - Cheng, Xu
+AU  - Hansen, Bruce E.
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 280
+EP  - 293
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000342
+KW  - Cross-validation
+KW  - Factor models
+KW  - Forecast combination
+KW  - Generated regressors
+KW  - Mallows
+AB  - This paper considers forecast combination with factor-augmented regression. In this framework, a large number of forecasting models are available, varying by the choice of factors and the number of lags. We investigate forecast combination across models using weights that minimize the Mallows and the leave-h-out cross validation criteria. The unobserved factor regressors are estimated by principle components of a large panel with N predictors over T periods. With these generated regressors, we show that the Mallows and leave-h-out cross validation criteria are asymptotically unbiased estimators of the one-step-ahead and multi-step-ahead mean squared forecast errors, respectively, provided that N,T→∞. (However, the paper does not establish any optimality properties for the methods.) In contrast to well-known results in the literature, this result suggests that the generated-regressor issue can be ignored for forecast combination, without restrictions on the relation between N and T. Simulations show that the Mallows model averaging and leave-h-out cross-validation averaging methods yield lower mean squared forecast errors than alternative model selection and averaging methods such as AIC, BIC, cross validation, and Bayesian model averaging. We apply the proposed methods to the US macroeconomic data set in Stock and Watson (2012) and find that they compare favorably to many popular shrinkage-type forecasting methods.
+ER  - 
+
+TY  - JOUR
+T1  - High dimensional problems in econometrics
+AU  - Carrasco, Marine
+AU  - Chernozhukov, Victor
+AU  - Gonçalves, Silvia
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 277
+EP  - 279
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000330
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable estimation in functional linear models
+AU  - Florens, Jean-Pierre
+AU  - Van Bellegem, Sébastien
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 465
+EP  - 476
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000445
+KW  - High dimensional model
+KW  - Penalized least squares
+KW  - Instrumental variable
+KW  - Functional data
+KW  - Fertility rate
+KW  - Growth
+AB  - In an increasing number of empirical studies, the dimensionality measured e.g. as the size of the parameter space of interest, can be very large. Two instances of large dimensional models are the linear regression with a large number of covariates and the estimation of a regression function with many instrumental variables. An appropriate setting to analyze high dimensional problems is provided by a functional linear model, in which the covariates belong to Hilbert spaces. This paper considers the case where covariates are endogenous and assumes the existence of instrumental variables (that are functional as well). The paper shows that estimating the regression function is a linear ill-posed inverse problem, with a known but data-dependent operator. The first contribution is to analyze the rate of convergence of the penalized least squares estimator. Based on the result, we discuss the notion of “instrument strength” in the high dimensional setting. We also discuss a generalized version of the estimator, when the problem is premultiplied by an instrument-dependent operator. This extends the technology of Generalized Method of Moments to high dimensional, functional data. A central limit theorem is also established on the inner product of the estimator. The studied estimators are easy and fast to implement, and the finite-sample performance is discussed through simulations and an application to the impact of age-specific fertility rate curves on yearly economic growth in the United Kingdom.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - IFC
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00140-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001402
+ER  - 
+
+TY  - JOUR
+T1  - Oracle inequalities for high dimensional vector autoregressions
+AU  - Kock, Anders Bredahl
+AU  - Callot, Laurent
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 325
+EP  - 344
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000378
+KW  - VAR
+KW  - LASSO
+KW  - Adaptive LASSO
+KW  - Oracle inequality
+KW  - High-dimensional data
+AB  - This paper establishes non-asymptotic oracle inequalities for the prediction error and estimation accuracy of the LASSO in stationary vector autoregressive models. These inequalities are used to establish consistency of the LASSO even when the number of parameters is of a much larger order of magnitude than the sample size. We also state conditions under which no relevant variables are excluded. Next, non-asymptotic probabilities are given for the adaptive LASSO to select the correct sparsity pattern. We then provide conditions under which the adaptive LASSO reveals the correct sparsity pattern asymptotically. We establish that the estimates of the non-zero coefficients are asymptotically equivalent to the oracle assisted least squares estimator. This is used to show that the rate of convergence of the estimates of the non-zero coefficients is identical to the one of least squares only including the relevant covariates.
+ER  - 
+
+TY  - JOUR
+T1  - Select the valid and relevant moments: An information-based LASSO for GMM with many moments
+AU  - Cheng, Xu
+AU  - Liao, Zhipeng
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 443
+EP  - 464
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000433
+KW  - Adaptive penalty
+KW  - GMM
+KW  - Many moments
+KW  - Moment selection
+KW  - Oracle properties
+KW  - Shrinkage estimation
+AB  - This paper studies the selection of valid and relevant moments for the generalized method of moments (GMM) estimation. For applications with many candidate moments, our asymptotic analysis accommodates a diverging number of moments as the sample size increases. The proposed procedure achieves three objectives in one-step: (i) the valid and relevant moments are distinguished from the invalid or irrelevant ones; (ii) all desired moments are selected in one step instead of in a stepwise manner; (iii) the parameters of interest are automatically estimated with all selected moments as opposed to a post-selection estimation. The new method performs moment selection and efficient estimation simultaneously via an information-based adaptive GMM shrinkage estimation, where an appropriate penalty is attached to the standard GMM criterion to link moment selection to shrinkage estimation. The penalty is designed to signal both moment validity and relevance for consistent moment selection. We develop asymptotic results for the high-dimensional GMM shrinkage estimator, allowing for non-smooth sample moments and weakly dependent observations. For practical implementation, this one-step procedure is computationally attractive.
+ER  - 
+
+TY  - JOUR
+T1  - On the residual empirical process based on the ALASSO in high dimensions and its functional oracle property
+AU  - Chatterjee, A.
+AU  - Gupta, S.
+AU  - Lahiri, S.N.
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 317
+EP  - 324
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000366
+KW  - Asymptotic uniform linearity
+KW  - Brownian bridge
+KW  - Oracle property
+KW  - Prediction intervals
+KW  - Regularization
+KW  - Weak convergence
+AB  - This paper considers post variable-selection inference in a high dimensional penalized regression model based on the ALASSO method of Zou (2006). It is shown that under suitable sparsity conditions, the residual empirical process based on the ALASSO provides valid inference methodology in very high dimensional regression problems where conventional methods fail. It is also shown that the ALASSO based residual empirical process satisfies a functional oracle property, i.e., in addition to selecting the set of relevant variables with probability tending to one, the ALASSO based residual empirical process converges to the same limiting Gaussian process as the OLS based residual empirical process under the oracle. The functional oracle property is critically exploited to construct asymptotically valid confidence bands for the error distribution function and prediction intervals for unobserved values of the response variable in the high dimensional set up, where traditional non-penalized methods are known to fail. Simulation results are presented illustrating finite sample performance of the proposed methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Some new asymptotic theory for least squares series: Pointwise and uniform results
+AU  - Belloni, Alexandre
+AU  - Chernozhukov, Victor
+AU  - Chetverikov, Denis
+AU  - Kato, Kengo
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 345
+EP  - 366
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.014
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500038X
+KW  - Least squares series
+KW  - Strong approximations
+KW  - Uniform confidence bands
+AB  - In econometric applications it is common that the exact form of a conditional expectation is unknown and having flexible functional forms can lead to improvements over a pre-specified functional form, especially if they nest some successful parametric economically-motivated forms. Series method offers exactly that by approximating the unknown function based on k basis functions, where k is allowed to grow with the sample size n to balance the trade off between variance and bias. In this work we consider series estimators for the conditional mean in light of four new ingredients: (i) sharp LLNs for matrices derived from the non-commutative Khinchin inequalities, (ii) bounds on the Lebesgue factor that controls the ratio between the L∞ and L2-norms of approximation errors, (iii) maximal inequalities for processes whose entropy integrals diverge at some rate, and (iv) strong approximations to series-type processes. These technical tools allow us to contribute to the series literature, specifically the seminal work of Newey (1997), as follows. First, we weaken considerably the condition on the number k of approximating functions used in series estimation from the typical k2/n→0 to k/n→0, up to log factors, which was available only for spline series before. Second, under the same weak conditions we derive L2 rates and pointwise central limit theorems results when the approximation error vanishes. Under an incorrectly specified model, i.e. when the approximation error does not vanish, analogous results are also shown. Third, under stronger conditions we derive uniform rates and functional central limit theorems that hold if the approximation error vanishes or not. That is, we derive the strong approximation for the entire estimate of the nonparametric function. Finally and most importantly, from a point of view of practice, we derive uniform rates, Gaussian approximations, and uniform confidence bands for a wide collection of linear functionals of the conditional expectation function, for example, the function itself, the partial derivative function, the conditional average partial derivative function, and other similar quantities. All of these results are new.
+ER  - 
+
+TY  - JOUR
+T1  - Regularized LIML for many instruments
+AU  - Carrasco, Marine
+AU  - Tchuente, Guy
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 427
+EP  - 442
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000421
+KW  - Heteroskedasticity
+KW  - High-dimensional models
+KW  - LIML
+KW  - Many instruments
+KW  - MSE
+KW  - Regularization methods
+AB  - The use of many moment conditions improves the asymptotic efficiency of the instrumental variables estimators. However, in finite samples, the inclusion of an excessive number of moments increases the bias. To solve this problem, we propose regularized versions of the limited information maximum likelihood (LIML) based on three different regularizations: Tikhonov, Landweber–Fridman, and principal components. Our estimators are consistent and asymptotically normal under heteroskedastic error. Moreover, they reach the semiparametric efficiency bound assuming homoskedastic error. We show that the regularized LIML estimators possess finite moments when the sample size is large enough. The higher order expansion of the mean square error (MSE) shows the dominance of regularized LIML over regularized two-staged least squares estimators. We devise a data driven selection of the regularization parameter based on the approximate MSE. A Monte Carlo study and two empirical applications illustrate the relevance of our estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Risks of large portfolios
+AU  - Fan, Jianqing
+AU  - Liao, Yuan
+AU  - Shi, Xiaofeng
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 2
+SP  - 367
+EP  - 387
+PY  - 2015
+DA  - 2015/06/01/
+T2  - High Dimensional Problems in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000391
+KW  - High dimensionality
+KW  - Factor models
+KW  - Principal components
+KW  - Sparse matrix
+KW  - Volatility
+AB  - The risk of a large portfolio is often estimated by substituting a good estimator of the volatility matrix. However, the accuracy of such a risk estimator is largely unknown. We study factor-based risk estimators under a large amount of assets, and introduce a high-confidence level upper bound (H-CLUB) to assess the estimation. The H-CLUB is constructed using the confidence interval of risk estimators with either known or unknown factors. We derive the limiting distribution of the estimated risks in high dimensionality. We find that when the dimension is large, the factor-based risk estimators have the same asymptotic variance no matter whether the factors are known or not, which is slightly smaller than that of the sample covariance-based estimator. Numerically, H-CLUB outperforms the traditional crude bounds, and provides an insightful risk assessment. In addition, our simulated results quantify the relative error in the risk estimation, which is usually negligible using 3-month daily data.
+ER  - 

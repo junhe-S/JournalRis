@@ -1,0 +1,254 @@
+TY  - JOUR
+T1  - Testing a parametric quantile-regression model with an endogenous explanatory variable against a nonparametric alternative
+AU  - Horowitz, Joel L.
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 141
+EP  - 152
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000189
+KW  - Hypothesis test
+KW  - Quantile estimation
+KW  - Instrumental variables
+KW  - Specification testing
+KW  - Consistent testing
+AB  - This paper is concerned with inference about a function g that is identified by a conditional quantile restriction involving instrumental variables. The paper presents a test of the hypothesis that g belongs to a finite-dimensional parametric family against a nonparametric alternative. The test is not subject to the ill-posed inverse problem of nonparametric instrumental variable estimation. Under mild conditions, the test is consistent against any alternative model. In large samples, its power is arbitrarily close to 1 uniformly over a class of alternatives whose distance from the null hypothesis is proportional to n−1/2, where n is the sample size. Monte Carlo simulations illustrate the finite-sample performance of the test.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric and robust methods in econometrics
+AU  - Lima, Luiz Renato
+AU  - Moreira, Marcelo
+AU  - Porter, Jack
+AU  - Xiao, Zhijie
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 79
+EP  - 80
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000992
+ER  - 
+
+TY  - JOUR
+T1  - Parametric links for binary choice models: A Fisherian–Bayesian colloquy
+AU  - Koenker, Roger
+AU  - Yoon, Jungmo
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 120
+EP  - 130
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000207
+KW  - Binary response model
+KW  - Link function
+KW  - Cauchit
+KW  - Markov chain Monte-Carlo
+AB  - The familiar logit and probit models provide convenient settings for many binary response applications, but a larger class of link functions may be occasionally desirable. Two parametric families of link functions are investigated: the Gosset link based on the Student t latent variable model with the degrees of freedom parameter controlling the tail behavior, and the Pregibon link based on the (generalized) Tukey λ family, with two shape parameters controlling skewness and tail behavior. Both Bayesian and maximum likelihood methods for estimation and inference are explored, compared and contrasted. In applications, like the propensity score matching problem discussed below, where it is critical to have accurate estimates of the conditional probabilities, we find that misspecification of the link function can create serious bias. Bayesian point estimation via MCMC performs quite competitively with MLE methods; however nominal coverage of Bayes credible regions is somewhat more problematic.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on endogenously censored regression models using conditional moment inequalities
+AU  - Khan, Shakeeb
+AU  - Tamer, Elie
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 104
+EP  - 119
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000219
+KW  - Conditional moment inequality models
+KW  - Quantile minimum distance
+KW  - Covariate dependent censoring
+KW  - Heteroscedasticity
+KW  - Endogeneity
+AB  - Under a quantile restriction, randomly censored regression models can be written in terms of conditional moment inequalities. We study the identified features of these moment inequalities with respect to the regression parameters where we allow for covariate dependent censoring, endogenous censoring and endogenous regressors. These inequalities restrict the parameters to a set. We show regular point identification can be achieved under a set of interpretable sufficient conditions. We then provide a simple way to convert conditional moment inequalities into unconditional ones while preserving the informational content. Our method obviates the need for nonparametric estimation, which would require the selection of smoothing parameters and trimming procedures. Without the point identification conditions, our objective function can be used to do inference on the partially identified parameter. Maintaining the point identification conditions, we propose a quantile minimum distance estimator which converges at the parametric rate to the parameter vector of interest, and has an asymptotically normal distribution. A small scale simulation study and an application using drug relapse data demonstrate satisfactory finite sample performance.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - IFC
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(09)00180-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001808
+ER  - 
+
+TY  - JOUR
+T1  - Tests with correct size when instruments can be arbitrarily weak
+AU  - Moreira, Marcelo J.
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 131
+EP  - 140
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000190
+KW  - Instrumental variables regression
+KW  - Curved exponential family
+KW  - Weak instruments
+KW  - Pre-testing
+AB  - This paper applies classical exponential-family statistical theory to develop a unifying framework for testing structural parameters in the simultaneous equations model under the assumption of normal errors with known reduced-form variance matrix. The results can be divided into the limited-information and full-information categories. In the limited-information model, it is possible to characterize the entire class of similar tests in a model with only one endogenous explanatory variable. In the full-information framework, this paper proposes a family of similar tests for subsets of endogenous variables’ coefficients. For both limited- and full-information models, there exist power upper bounds for unbiased tests. When the model is just-identified, the Anderson–Rubin, score, and (pseudo) conditional likelihood ratio tests are optimal. When the model is over-identified, the (pseudo) conditional likelihood ratio test has power close to the power envelope when identification is strong.
+ER  - 
+
+TY  - JOUR
+T1  - Unit root quantile autoregression testing using covariates
+AU  - Galvao, Antonio F.
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 165
+EP  - 178
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000165
+KW  - Unit root
+KW  - Quantile
+KW  - Covariates
+KW  - Linear time trend
+AB  - This paper extends unit root tests based on quantile regression proposed by Koenker and Xiao [Koenker, R., Xiao, Z., 2004. Unit root quantile autoregression inference, Journal of the American Statistical Association 99, 775–787] to allow stationary covariates and a linear time trend. The limiting distribution of the test is a convex combination of Dickey–Fuller and standard normal distributions, with weight determined by the correlation between the equation error and the regression covariates. A simulation experiment is described, illustrating the finite sample performance of the unit root test for several types of distributions. The test based on quantile autoregression turns out to be especially advantageous when innovations are heavy-tailed. An application to the CPI-based real exchange rates using four different countries suggests that real exchange rates are not constant unit root processes.
+ER  - 
+
+TY  - JOUR
+T1  - Finite sample inference for quantile regression models
+AU  - Chernozhukov, Victor
+AU  - Hansen, Christian
+AU  - Jansson, Michael
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 93
+EP  - 103
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000220
+KW  - Extremal quantile regression
+KW  - Instrumental quantile regression
+KW  - Partial identification
+KW  - Weak identification
+AB  - Under minimal assumptions, finite sample confidence bands for quantile regression models can be constructed. These confidence bands are based on the “conditional pivotal property” of estimating equations that quantile regression methods solve and provide valid finite sample inference for linear and nonlinear quantile models with endogenous or exogenous covariates. The confidence regions can be computed using Markov Chain Monte Carlo (MCMC) methods. We illustrate the finite sample procedure through two empirical examples: estimating a heterogeneous demand elasticity and estimating heterogeneous returns to schooling. We find pronounced differences between asymptotic and finite sample confidence regions in cases where the usual asymptotics are suspect.
+ER  - 
+
+TY  - JOUR
+T1  - A panel data approach to economic forecasting: The bias-corrected average forecast
+AU  - Issler, João Victor
+AU  - Lima, Luiz Renato
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 153
+EP  - 164
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000177
+KW  - Forecast combination
+KW  - Forecast-combination puzzle
+KW  - Common features
+KW  - Panel-data
+KW  - Bias-corrected average forecast
+AB  - In this paper, we propose a novel approach to econometric forecasting of stationary and ergodic time series within a panel-data framework. Our key element is to employ the (feasible) bias-corrected average forecast. Using panel-data sequential asymptotics we show that it is potentially superior to other techniques in several contexts. In particular, it is asymptotically equivalent to the conditional expectation, i.e., has an optimal limiting mean-squared error. We also develop a zero-mean test for the average bias and discuss the forecast-combination puzzle in small and large samples. Monte-Carlo simulations are conducted to evaluate the performance of the feasible bias-corrected average forecast in finite samples. An empirical exercise, based upon data from a well known survey is also presented. Overall, these results show promise for the feasible bias-corrected average forecast.
+ER  - 
+
+TY  - JOUR
+T1  - Functional-coefficient cointegration models
+AU  - Xiao, Zhijie
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 81
+EP  - 92
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000232
+KW  - Cointegration
+KW  - Local polynomial
+KW  - Nonparametric
+KW  - Time varying
+KW  - Functional coefficients
+AB  - This paper studies estimation and inference of functional coefficient cointegration models. The proposed model offers a more flexible structure of cointegration where the value of cointegrating coefficients may be affected by informative covariates and thus may vary over time. The model may be viewed as a stochastic cointegration model and includes the conventional cointegration model as a special case. The proposed new model provides a useful complement to the conventional fixed coefficient cointegration models. Both kernel and local polynomial estimators are investigated. Inference procedures for instability of cointegrating parameters and a test for cointegration are proposed based on the functional-coefficient estimates. Limiting distributions of the estimates and testing statistics are derived.
+ER  - 
+
+TY  - JOUR
+T1  - A test of non-identifying restrictions and confidence regions for partially identified parameters
+AU  - Galichon, Alfred
+AU  - Henry, Marc
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 186
+EP  - 196
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000141
+KW  - Partial identification
+KW  - Mass transportation
+KW  - Specification test
+AB  - We propose an easily implementable test of the validity of a set of theoretical restrictions on the relationship between economic variables, which do not necessarily identify the data generating process. The restrictions can be derived from any model of interactions, allowing censoring and multiple equilibria. When the restrictions are parameterized, the test can be inverted to yield confidence regions for partially identified parameters, thereby complementing other proposals, primarily Chernozhukov et al. [Chernozhukov, V., Hong, H., Tamer, E., 2007. Estimation and confidence regions for parameter sets in econometric models. Econometrica 75, 1243–1285].
+ER  - 
+
+TY  - JOUR
+T1  - Quantiles, expectiles and splines
+AU  - De Rossi, Giuliano
+AU  - Harvey, Andrew
+JO  - Journal of Econometrics
+VL  - 152
+IS  - 2
+SP  - 179
+EP  - 185
+PY  - 2009
+DA  - 2009/10/01/
+T2  - Nonparametric and Robust Methods in Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000153
+KW  - Asymmetric least squares
+KW  - Cubic splines
+KW  - Quantile regression
+KW  - Signal extraction
+KW  - State space smoother
+AB  - A time-varying quantile can be fitted by formulating a time series model for the corresponding population quantile and iteratively applying a suitably modified state space signal extraction algorithm. It is shown that such quantiles satisfy the defining property of fixed quantiles in having the appropriate number of observations above and below. Like quantiles, time-varying expectiles can be estimated by a state space signal extraction algorithm and they satisfy properties that generalize the moment conditions associated with fixed expectiles. Because the state space form can handle irregularly spaced observations, the proposed algorithms can be adapted to provide a viable means of computing spline-based non-parametric quantile and expectile regressions.
+ER  - 

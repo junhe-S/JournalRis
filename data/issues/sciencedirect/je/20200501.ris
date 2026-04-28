@@ -1,0 +1,452 @@
+TY  - JOUR
+T1  - Two-mode network autoregressive model for large-scale networks
+AU  - Huang, Danyang
+AU  - Wang, Feifei
+AU  - Zhu, Xuening
+AU  - Wang, Hansheng
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 203
+EP  - 219
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300191
+KW  - Two-mode network
+KW  - Quasi-maximum likelihood estimator
+KW  - Least squares estimator
+KW  - Network autoregressive model
+KW  - Large-scale network
+AB  - A two-mode network refers to a network where the nodes are classified into two distinct types, and edges can only exist between nodes of different types. In analysis of two-mode networks, one important objective is to explore the relationship between responses of two types of nodes. To this end, we propose a network autoregressive model for two-mode networks. Different network autocorrelation coefficients are allowed. To estimate the model, a quasi-maximum likelihood estimator is developed with high computational cost. To alleviate the computational burden, a least squares estimator is proposed, which is applicable in large-scale networks. The least squares estimator can be viewed as one particular type of generalized methods of moments estimator. The theoretical properties of both estimators are investigated. The finite sample performances are assessed through simulations and a real data example.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized dynamic factor models and volatilities: Consistency, rates, and prediction intervals
+AU  - Barigozzi, Matteo
+AU  - Hallin, Marc
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 4
+EP  - 34
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300087
+KW  - Volatility
+KW  - Dynamic factor models
+KW  - Prediction intervals
+KW  - GARCH
+AB  - Volatilities, in high-dimensional panels of economic time series with a dynamic factor structure on the levels or returns, typically also admit a dynamic factor decomposition. We consider a two-stage dynamic factor model method recovering the common and idiosyncratic components of both levels and log-volatilities. Specifically, in a first estimation step, we extract the common and idiosyncratic shocks for the levels, from which a log-volatility proxy is computed. In a second step, we estimate a dynamic factor model, which is equivalent to a multiplicative factor structure for volatilities, for the log-volatility panel. By exploiting this two-stage factor approach, we build one-step-ahead conditional prediction intervals for large n×T panels of returns. Those intervals are based on empirical quantiles, not on conditional variances; they can be either equal- or unequal-tailed. We provide uniform consistency and consistency rates results for the proposed estimators as both n and T tend to infinity. We study the finite-sample properties of our estimators by means of Monte Carlo simulations. Finally, we apply our methodology to a panel of asset returns belonging to the S&P100 index in order to compute one-step-ahead conditional prediction intervals for the period 2006–2013. A comparison with the componentwise GARCH benchmark (which does not take advantage of cross-sectional information) demonstrates the superiority of our approach, which is genuinely multivariate (and high-dimensional), nonparametric, and model-free.
+ER  - 
+
+TY  - JOUR
+T1  - Variable selection for high-dimensional regression models with time series and heteroscedastic errors
+AU  - Chiou, Hai-Tang
+AU  - Guo, Meihui
+AU  - Ing, Ching-Kang
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 118
+EP  - 136
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300142
+KW  - Heteroscedasticity
+KW  - High-dimensional information criterion
+KW  - Orthogonal greedy algorithm
+KW  - Long-range dependence
+AB  - Although existing literature on high-dimensional regression models is rich, the vast majority of studies have focused on independent and homogeneous error terms. In this article, we consider the problem of selecting high-dimensional regression models with heteroscedastic and time series errors, which have broad applications in economics, quantitative finance, environmental science, and many other fields. The error term in our model is the product of two components: one time series component, allowing for a short-memory, long-memory, or conditional heteroscedasticity effect, and a high-dimensional dispersion function accounting for exogenous heteroscedasticity. By making use of the orthogonal greedy algorithm and the high-dimensional information criterion, we propose a new model selection procedure that consistently chooses the relevant variables in both the regression and the dispersion functions. The finite sample performance of the proposed procedure is also illustrated via simulations and real data analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Introduction of the annals issue: Statistical learning for dependent data — A celebration of the 85th birthday of Professor George C. Tiao
+AU  - Chen, Rong
+AU  - Tsay, Ruey S.
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300075
+ER  - 
+
+TY  - JOUR
+T1  - Testing serial correlations in high-dimensional time series via extreme value theory
+AU  - Tsay, Ruey S.
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 106
+EP  - 117
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300130
+KW  - Autocorrelation
+KW  - Cross-correlation
+KW  - Extreme value theory
+KW  - Portmanteau test
+KW  - Spearman’s rho
+KW  - White noise
+AB  - This paper proposes a simple test for detecting serial correlations in high-dimensional time series. The proposed test makes use of the robust properties of Spearman’s rank correlation and the theory of extreme values. Asymptotic properties of the test statistics are derived under some minor conditions as both the sample size and dimension go to infinity. The test is not sensitive to the underlying distribution of the time series so long as the data are continuously distributed. In particular, the existence of finite-order moments of the underlying distribution is not required, and asymptotic critical values of the test statistics are available in closed form. In finite samples, we correct biases of the sample autocorrelations and conduct simulations to study the performance of the proposed test statistics. Simulation results show that the proposed test statistics enjoy good properties of size and power in finite samples. We apply the proposed test to a 92-dimensional series of asset returns. Finally, a simple R code is available to obtain finite-sample critical values of the test statistics if needed.
+ER  - 
+
+TY  - JOUR
+T1  - Inference for the degree distributions of preferential attachment networks with zero-degree nodes
+AU  - Chan, N.H.
+AU  - Cheung, Simon K.C.
+AU  - Wong, Samuel P.S.
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 220
+EP  - 234
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300208
+KW  - Preferential attachment with zero-degree nodes
+KW  - Power-tail of degree distribution
+KW  - Sylvester matrix equation
+KW  - Martingale convergence theorem
+AB  - The tail of the logarithmic degree distribution of networks decays linearly with respect to the logarithmic degree is known as the power law and is ubiquitous in daily lives. A commonly used technique in modeling the power law is preferential attachment (PA), which sequentially joins each new node to the existing nodes according to the conditional probability law proportional to a linear function of their degrees. Although effective, it is tricky to apply PA to real networks because the number of nodes and that of edges have to satisfy a linear constraint. This paper enables real application of PA by making each new node as an isolated node that attaches to other nodes according to PA scheme in some later epochs. This simple and novel strategy provides an additional degree of freedom to relax the aforementioned constraint to the observed data and uses the PA scheme to compute the implied proportion of the unobserved zero-degree nodes. By using martingale convergence theory, the degree distribution of the proposed model is shown to follow the power law and its asymptotic variance is proved to be the solution of a Sylvester matrix equation, a class of equations frequently found in the control theory (see Hansen and Sargent (2008, 2014)). These results give a strongly consistent estimator for the power-law parameter and its asymptotic normality. Note that this statistical inference procedure is non-iterative and is particularly applicable for big networks such as the World Wide Web presented in Section 6. Moreover, the proposed model offers a theoretically coherent framework that can be used to study other network features, such as clustering and connectedness, as given in Cheung (2016).
+ER  - 
+
+TY  - JOUR
+T1  - Robust causality test of infinite variance processes
+AU  - Akashi, Fumiya
+AU  - Taniguchi, Masanobu
+AU  - Monti, Anna Clara
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 235
+EP  - 245
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.016
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030021X
+KW  - Granger causality
+KW  - Nonparametric hypothesis testing
+KW  - Generalized empirical likelihood
+KW  - Self-weighting
+AB  - This paper develops a robust causality test for time series with infinite variance innovation processes. First, we introduce a measure of dependence for vector nonparametric linear processes, and derive the asymptotic distribution of the test statistic by Taniguchi et al. (1996) in the infinite variance case. Second, we construct a weighted version of the generalized empirical likelihood (GEL) test statistic, called the self-weighted GEL statistic in the time domain. The limiting distribution of the self-weighted GEL test statistic is shown to be the usual chi-squared one regardless of whether the model has finite variance or not. Some simulation experiments illustrate satisfactory finite sample performances of the proposed test.
+ER  - 
+
+TY  - JOUR
+T1  - High-frequency factor models and regressions
+AU  - Aït-Sahalia, Yacine
+AU  - Kalnina, Ilze
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 86
+EP  - 105
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300129
+KW  - Factor model
+KW  - Time-varying betas
+KW  - Fama–French factors
+KW  - Idiosyncratic risk
+KW  - Big data
+AB  - We consider a nonparametric time series regression model. Our framework allows precise estimation of betas without the usual assumption of betas being piecewise constant. This property makes our framework particularly suitable to study individual stocks. We provide an inference framework for all components of the model, including idiosyncratic volatility and idiosyncratic jumps. Our empirical analysis investigates the largest dataset in the high-frequency literature. First, we use all traded stocks from NYSE, AMEX, and NASDAQ stock markets for 1996–2017 to construct the five Fama–French factors and the momentum factor at the 5-minute frequency. Second, we document the key empirical properties across all the stocks and the new factors, and apply the nonparametric time series regression model with the new high-frequency Fama–French factors. We find that this factor model is effective in explaining the systematic component of the risk of individual stocks. In addition, we provide evidence that idiosyncratic jumps are related to idiosyncratic events such as earnings disappointments.
+ER  - 
+
+TY  - JOUR
+T1  - Double machine learning with gradient boosting and its application to the Big N audit quality effect
+AU  - Yang, Jui-Chung
+AU  - Chuang, Hui-Ching
+AU  - Kuan, Chung-Ming
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 268
+EP  - 283
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300245
+KW  - Audit quality
+KW  - Average treatment effect
+KW  - Big N effect
+KW  - Double machine learning
+KW  - Gradient boosting
+KW  - Performance-matched discretionary accruals
+AB  - In this paper, we study the double machine learning (DML) approach of Chernozhukov et al. (2018) for estimating average treatment effect and apply this approach to examine the Big N audit quality effect in the accounting literature. This approach relies on machine learning methods and is suitable when a high dimensional nuisance function with many covariates is present in the model. This approach does not suffer from the “regularization bias” when a learning method with a proper convergence rate is used. We demonstrate by simulations that, for the DML approach, the gradient boosting method is fairly robust and to be preferred to other methods, such as regression tree, random forest, support vector regression machine, and the conventional Nadaraya–Watson nonparametric estimator. We then apply the DML approach with gradient boosting to estimate the Big N effect. We find that Big N auditors have a positive effect on audit quality and that this effect is not only statistically significant but also economically important. We further show that, in contrast to the results of propensity score matching, our estimates of said effect are quite robust to the hyper-parameters in the gradient boosting algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation for double-nonlinear cointegration
+AU  - Lin, Yingqian
+AU  - Tu, Yundong
+AU  - Yao, Qiwei
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 175
+EP  - 191
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300178
+KW  - Box–Cox transformation
+KW  - Nonlinear cointegration
+KW  - Semiparametrics
+KW  - Sieve method
+KW  - Transformation models
+AB  - In recent years statistical inference for nonlinear cointegration has attracted attention from both academics and practitioners. This paper proposes a new type of cointegration in the sense that two univariate time series yt and xt are cointegrated via two (unknown) smooth nonlinear transformations, further generalizing the notion of cointegration initially revealed by Box and Tiao (1977), and more systematically studied by Engle and Granger (1987). More precisely, it holds that G(yt,β0)=g(xt)+ut, where G(⋅,β0) is strictly increasing and known up to an unknown parameter β0, g(⋅) is unknown and smooth, xt is I(1), and ut is the stationary disturbance. This setting nests the nonlinear cointegration model of Wang and Phillips (2009b) as a special case with G(y,β0)=y. It extends the model of Linton et al. (2008) to the cases with a unit-root nonstationary regressor. Sieve approximations to the smooth nonparametric function g are applied, leading to an extremum estimator for β and a plugging-in estimator for g(⋅). Asymptotic properties of the estimators are established, revealing that both the convergence rates and the limiting distributions depend intimately on the properties of the two nonlinear transformation functions. Simulation studies demonstrate that the estimators perform well even with small samples. A real data example on the environmental Kuznets curve portraying the nonlinear impact of per-capita GDP on air-pollution illustrates the practical relevance of the proposed double-nonlinear cointegration.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - ii
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30069-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300695
+ER  - 
+
+TY  - JOUR
+T1  - Twisted probabilities, uncertainty, and prices
+AU  - Hansen, Lars Peter
+AU  - Szőke, Bálint
+AU  - Han, Lloyd S.
+AU  - Sargent, Thomas J.
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 151
+EP  - 174
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300166
+KW  - Risk
+KW  - Uncertainty
+KW  - Relative entropy
+KW  - Robustness
+KW  - Asset prices
+KW  - Exponential quadratic stochastic discount factor
+AB  - A decision maker constructs a convex set of nonnegative martingales to use as likelihood ratios that represent alternatives that are statistically close to a decision maker’s baseline model. The set is twisted to include some specific models of interest. Max–min expected utility over that set gives rise to equilibrium prices of model uncertainty expressed as worst-case distortions to drifts in a representative investor’s baseline model. Three quantitative illustrations start with baseline models having exogenous long-run risks in technology shocks. These put endogenous long-run risks into consumption dynamics that differ in details that depend on how shocks affect returns to capital stocks. We describe sets of alternatives to a baseline model that generate countercyclical prices of uncertainty.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic theory for near integrated processes driven by tempered linear processes
+AU  - Sabzikar, Farzad
+AU  - Wang, Qiying
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 192
+EP  - 202
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030018X
+KW  - Asymptotics
+KW  - Fractional integration
+KW  - Integrated process
+KW  - Near unit root
+KW  - Tempered process
+AB  - In an early article on near-unit root autoregression, Ahtola and Tiao (1984) studied the behavior of the score function in a stationary first order autoregression driven by independent Gaussian innovations as the autoregressive coefficient approached unity from below. The present paper develops asymptotic theory for near-integrated random processes and associated regressions including the score function in more general settings where the errors are tempered linear processes. Tempered processes are stationary time series that have a semi-long memory property in the sense that the autocovariogram of the process resembles that of a long memory model for moderate lags but eventually diminishes exponentially fast according to the presence of a decay factor governed by a tempering parameter. When the tempering parameter is sample size dependent, the resulting class of processes admits a wide range of behavior that includes both long memory, semi-long memory, and short memory processes. The paper develops asymptotic theory for such processes and associated regression statistics thereby extending earlier findings that fall within certain subclasses of processes involving near-integrated time series. The limit results relate to tempered fractional processes that include tempered fractional Brownian motion and tempered fractional diffusions of the second kind. The theory is extended to provide the limiting distribution for autoregressions with such tempered near-integrated time series, thereby enabling analysis of the limit properties of statistics of particular interest in econometrics, such as unit root tests, under more general conditions than existing theory. Some extensions of the theory to the multivariate case are reported.
+ER  - 
+
+TY  - JOUR
+T1  - Noncausal vector AR processes with application to economic time series
+AU  - Davis, Richard A.
+AU  - Song, Li
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 246
+EP  - 267
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300221
+KW  - Vector autoregressive model
+KW  - Noncausal
+KW  - Non-Gaussian
+AB  - Inference procedures for noncausal autoregressive (AR) models have been well studied and applied in a variety of applications from environmental to financial. For such processes, the observation at time t may depend on both past and future shocks in the system. In this paper, we consider extension of the univariate noncausal AR models to the vector AR (VAR) case. The extension presents several interesting challenges since even a first-order VAR can possess both causal and noncausal components. Assuming a non-Gaussian distribution for the noise, we show how to compute an approximation to the likelihood function. Under suitable conditions, it is shown that the maximum likelihood estimator (MLE) of the vector of AR parameters is asymptotically normal. The estimation procedure is illustrated with a simulation study for a VAR(1) process and with two real data examples.
+ER  - 
+
+TY  - JOUR
+T1  - A robust procedure to build dynamic factor models with cluster structure
+AU  - Alonso, Andrés M.
+AU  - Galeano, Pedro
+AU  - Peña, Daniel
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 35
+EP  - 52
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300099
+KW  - Clustering time series
+KW  - Dependency measures
+KW  - Multivariate additive outliers
+KW  - Multivariate level shifts
+KW  - Principal components
+AB  - Dynamic factor models provide a useful way to model large sets of time series. These data often have heterogeneity and cluster structure and the formulation and estimation of dynamic factor models should be adapted to these features. This article presents a procedure to fit Dynamic Factor Models with Cluster Structure (DFMCS), where some of the factors are global and others group-specific, to heterogeneous data that may include multivariate additive outliers and level shifts. The procedure starts with an initial cleaning of the times series from outlying effects. Then a first estimation of the possible factors is applied to the cleaned data and these factors are used to build the common component of each series. The groups are found by studying the joint dependency of these common components. Then, additional factors are estimated by using the series in each cluster and, finally, all the factors found are classified as global or group-specific. We show in a Monte Carlo study that the procedure works well and seems to be better than other alternatives in terms of estimation of factors and loadings as well as in terms of misclassification rates for the series. An example of an electricity market is presented to illustrate the advantages of cleaning for outliers and taking into account the cluster structure for understanding and forecasting.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic conditional angular correlation
+AU  - Jarjour, Riad
+AU  - Chan, Kung-Sik
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 137
+EP  - 150
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300154
+KW  - Instantaneous correlation matrix
+KW  - Portfolio construction
+KW  - Positive definiteness
+KW  - Robustness
+KW  - Volatility
+AB  - We introduce the concept of angular correlation for estimating the instantaneous correlation matrix with a single multivariate realization. The proposed estimator is generally a positive definite correlation matrix and robust in that for bivariate normal data, the sample angular correlation is equally likely to be above or below the population correlation coefficient. We then generalize the dynamic conditional correlation (DCC) model to the dynamic conditional angular correlation (DCAC) model. We demonstrate the efficacy and robustness of the proposed methods against leptokurticity, with some numerical experiments. In particular, a real application illustrates the better performance of the DCAC model than the DCC model in portfolio construction.
+ER  - 
+
+TY  - JOUR
+T1  - Factor-adjusted regularized model selection
+AU  - Fan, Jianqing
+AU  - Ke, Yuan
+AU  - Wang, Kaizheng
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 71
+EP  - 85
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300117
+KW  - Model selection consistency
+KW  - Correlated covariates
+KW  - Factor model
+KW  - Regularized -estimator
+KW  - Time series
+AB  - This paper studies model selection consistency for high dimensional sparse regression when data exhibits both cross-sectional and serial dependency. Most commonly-used model selection methods fail to consistently recover the true model when the covariates are highly correlated. Motivated by econometric and financial studies, we consider the case where covariate dependence can be reduced through the factor model, and propose a consistency strategy named Factor-Adjusted Regularized Model Selection (FarmSelect). By learning the latent factors and idiosyncratic components and using both of them as predictors, FarmSelect transforms the problem from model selection with highly correlated covariates to that with weakly correlated ones via lifting. Model selection consistency, as well as optimal rates of convergence, are obtained under mild conditions. Numerical studies demonstrate the nice finite sample performance in terms of both model selection and out-of-sample prediction. Moreover, our method is flexible in the sense that it pays no price for weakly correlated and uncorrelated cases. Our method is applicable to a wide range of high dimensional sparse regression problems. An R-package FarmSelect is also provided for implementation.
+ER  - 
+
+TY  - JOUR
+T1  - Threshold factor models for high-dimensional time series
+AU  - Liu, Xialu
+AU  - Chen, Rong
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 53
+EP  - 70
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300105
+KW  - Factor model
+KW  - High-dimensional time series
+KW  - Non-stationary process
+KW  - Threshold variable
+AB  - We consider a threshold factor model for high-dimensional time series in which the dynamics of the time series is assumed to switch between different regimes according to the value of a threshold variable. This is an extension of threshold modeling to a high-dimensional time series setting under a factor structure. Specifically, within each threshold regime, the time series is assumed to follow a factor model. The regime switching mechanism creates structural changes in the factor loading matrices. It provides flexibility in dealing with situations that the underlying states may be changing over time, as often observed in economic time series and other applications. We develop the procedures for the estimation of the loading spaces, the number of factors and the threshold value, as well as the identification of the threshold variable, which governs the regime change mechanism. The theoretical properties are investigated. Simulated and real data examples are presented to illustrate the performance of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Multiscale clustering of nonparametric regression curves
+AU  - Vogt, Michael
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 305
+EP  - 325
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300269
+KW  - Clustering of nonparametric curves
+KW  - Nonparametric regression
+KW  - Multiscale statistics
+KW  - Multiple time series
+AB  - In a wide range of modern applications, one observes a large number of time series rather than only a single one. It is often natural to suppose that there is some group structure in the observed time series. When each time series is modeled by a nonparametric regression equation, one may in particular assume that the observed time series can be partitioned into a small number of groups whose members share the same nonparametric regression function. We develop a bandwidth-free clustering method to estimate the unknown group structure from the data. More precisely speaking, we construct multiscale estimators of the unknown groups and their unknown number which are free of classical bandwidth or smoothing parameters. In the theoretical part of the paper, we analyze the statistical properties of our estimators. Our theoretical results are derived under general conditions which allow the data to be dependent both in time series direction and across different time series. The technical analysis of the paper is complemented by simulated and real-data examples.
+ER  - 
+
+TY  - JOUR
+T1  - Pairwise local Fisher and naive Bayes: Improving two standard discriminants
+AU  - Otneim, Håkon
+AU  - Jullum, Martin
+AU  - Tjøstheim, Dag
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 1
+SP  - 284
+EP  - 304
+PY  - 2020
+DA  - 2020/05/01/
+T2  - Annals Issue in honor of George Tiao: Statistical Learning for Dependent Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300257
+KW  - Kernel estimator
+KW  - Local Fisher discriminant
+KW  - Naive Bayes discriminant
+KW  - Pairwise dependence
+KW  - Local Gaussian density
+AB  - The Fisher discriminant is probably the best known likelihood discriminant for continuous data. Another benchmark discriminant is the naive Bayes, which is based on marginals only. In this paper we extend both discriminants by modeling dependence between pairs of variables. In the continuous case this is done by local Gaussian versions of the Fisher discriminant. In the discrete case the naive Bayes is extended by taking geometric averages of pairwise joint probabilities. We also indicate how the two approaches can be combined for mixed continuous and discrete data. The new discriminants show promising results in a number of simulation experiments and real data illustrations.
+ER  - 

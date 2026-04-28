@@ -1,0 +1,393 @@
+TY  - JOUR
+T1  - Testing capital asset pricing models using functional-coefficient panel data models with cross-sectional dependence
+AU  - Cai, Zongwu
+AU  - Fang, Ying
+AU  - Xu, Qiuhua
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 114
+EP  - 133
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302086
+KW  - Cross-sectional dependence
+KW  - Functional coefficients
+KW  - Local linear estimation
+KW  - Nonlinear panel data models
+KW  - Nonparametric test
+AB  - This paper proposes a functional-coefficient panel data model with cross-sectional dependence motivated by re-examining the empirical performance of conditional capital asset pricing model. In order to characterize the time-varying property of assets’ betas and alpha, our proposed model allows the betas to be unknown functions of some macroeconomic and financial instruments. Moreover, a common factor structure is introduced to characterize cross-sectional dependence which is an attractive feature under a panel data regression setting as different assets or portfolios may be affected by same unobserved shocks. Compared to the existing studies, such as the classic Fama–MacBeth two-step procedure, our model can achieve substantial efficiency gains for inference by adopting a one-step procedure using the entire sample rather than a single cross-sectional regression at each time point. We propose a local linear common correlated effects estimator for estimating time-varying betas by pooling the data. The consistency and asymptotic normality of the proposed estimators are established. Another methodological and empirical challenge in asset pricing is how to test the constancy of conditional betas and the significance of pricing errors, we echo this challenge by constructing an L2-norm statistic for functional-coefficient panel data models allowing for cross-sectional dependence. We show that the new test statistic has a limiting standard normal distribution under the null hypothesis. Finally, the method is applied to test the model in Fama and French (1993) using Fama–French 25 and 100 portfolios, sorted by size and book-to-market ratio, respectively, dated from July 1963 to July 2018.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of structural multivariate GARCH models
+AU  - Hafner, Christian M.
+AU  - Herwartz, Helmut
+AU  - Maxand, Simone
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 212
+EP  - 227
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302098
+KW  - Structural innovations
+KW  - Identifying assumptions
+KW  - MGARCH
+KW  - Portfolio risk
+KW  - Volatility transmission
+AB  - The class of multivariate GARCH models is widely used to quantify and monitor volatility and correlation dynamics of financial time series. While many specifications have been proposed in the literature, these models are typically silent about the system inherent transmission of implied orthogonalized shocks to vector returns. In a framework of non-Gaussian independent structural shocks, this paper proposes a loss statistic, based on higher order co-moments, to discriminate in a data-driven way between alternative structural assumptions about the transmission scheme, and hence identify the structural model. Consistency of identification is shown theoretically and via a simulation study. In its structural form, a four dimensional system comprising US and Latin American stock market returns points to a substantial volatility transmission from the US to the Latin American markets. The identified structural model improves the estimation of classical measures of portfolio risk, as well as corresponding variations.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid quantile estimation for asymmetric power GARCH models
+AU  - Wang, Guochang
+AU  - Zhu, Ke
+AU  - Li, Guodong
+AU  - Li, Wai Keung
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 264
+EP  - 284
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302220
+KW  - Asymmetric power GARCH
+KW  - Asymmetry testing
+KW  - Non-stationarity
+KW  - Quantile estimation
+KW  - Strict stationarity testing
+AB  - Asymmetric power GARCH models have been widely used to study the higher order moments of financial returns, while their quantile estimation has been rarely investigated. This paper introduces a simple monotonic transformation on its conditional quantile function to make the quantile regression tractable. The asymptotic normality of the resulting quantile estimators is established under either stationarity or non-stationarity. Moreover, based on the estimation procedure, new tests for strict stationarity and asymmetry are also constructed. This is the first try of the quantile estimation for non-stationary ARCH-type models in the literature. The usefulness of the proposed methodology is illustrated by simulation results and real data analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap inference on the boundary of the parameter space, with application to conditional volatility models
+AU  - Cavaliere, Giuseppe
+AU  - Nielsen, Heino Bohn
+AU  - Pedersen, Rasmus Søndergaard
+AU  - Rahbek, Anders
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 241
+EP  - 263
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302232
+KW  - Inference on the boundary
+KW  - Nuisance parameters
+KW  - Bootstrap
+KW  - ARCH models
+AB  - It is a well-established fact that – with an unknown number of nuisance parameters at the boundary – testing a null hypothesis on the boundary of the parameter space is infeasible in practice as the limiting distributions of standard test statistics are non-pivotal. In particular, likelihood ratio statistics have limiting distributions which can be characterized in terms of quadratic forms minimized over cones, where the shape of the cones depends on the unknown location of the (possibly multiple) model parameters not restricted by the null hypothesis. We propose to solve this inference problem by a novel bootstrap, which we show to be valid under general conditions, irrespective of the presence of (unknown) nuisance parameters on the boundary. That is, the new bootstrap replicates the unknown limiting distribution of the likelihood ratio statistic under the null hypothesis and is bounded (in probability) under the alternative. The new bootstrap approach, which is very simple to implement, is based on shrinkage of the parameter estimates used to generate the bootstrap sample toward the boundary of the parameter space at an appropriate rate. As an application of our general theory, we treat the problem of inference in finite-order ARCH models with coefficients subject to inequality constraints. Extensive Monte Carlo simulations illustrate that the proposed bootstrap has attractive finite sample properties both under the null and under the alternative hypothesis.
+ER  - 
+
+TY  - JOUR
+T1  - Overview: Time series analysis of higher moments and distributions of financial data
+AU  - Andersen, Torben G.
+AU  - Chang, Chia-Lin
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002335
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - ii
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(22)00014-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000148
+ER  - 
+
+TY  - JOUR
+T1  - A time-varying parameter model for local explosions
+AU  - Blasques, Francisco
+AU  - Koopman, Siem Jan
+AU  - Nientker, Marc
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 65
+EP  - 84
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001846
+KW  - Speculative bubble
+KW  - Explosive processes
+KW  - Invertibility
+KW  - Consistency
+KW  - Asymptotic normality
+AB  - Financial and economic time series can feature locally explosive behaviour when bubbles are formed. We develop a time-varying parameter model that is capable of describing this behaviour in time series data. Our proposed dynamic model can be used to predict the emergence, existence and burst of bubbles. We adopt a flexible observation driven model specification that allows for different bubble shapes and behaviour. We establish stationarity, ergodicity, and bounded moments of the data generated by our model. Furthermore, we obtain the consistency and asymptotic normality of the maximum likelihood estimator. Given the parameter estimates in the model, the implied filter is capable of extracting the unobserved bubble process from the observed data. We study finite-sample properties of our estimator through a Monte Carlo simulation study. Finally, we show that our model compares well with existing noncausal models in a financial application concerning the Bitcoin/US dollar exchange rate.
+ER  - 
+
+TY  - JOUR
+T1  - Occupation density estimation for noisy high-frequency data
+AU  - Zhang, Congshan
+AU  - Li, Jia
+AU  - Bollerslev, Tim
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 189
+EP  - 211
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030230X
+KW  - High-frequency data
+KW  - Volatility
+KW  - Occupation density
+KW  - Microstructure noise
+KW  - Informed trading
+AB  - This paper studies the nonparametric estimation of occupation densities for semimartingale processes observed with noise. As leading examples we consider the stochastic volatility of a latent efficient price process, the volatility of the latent noise that separates the efficient price from the actually observed price, and nonlinear transformations of these processes. Our estimation methods are decidedly nonparametric and consist of two steps: the estimation of the spot price and noise volatility processes based on pre-averaging techniques and in-fill asymptotic arguments, followed by a kernel-type estimation of the occupation densities. Our spot volatility estimates attain the optimal rate of convergence, and are robust to leverage effects, price and volatility jumps, general forms of serial dependence in the noise, and random irregular sampling. The convergence rates of our occupation density estimates are directly related to that of the estimated spot volatilities and the smoothness of the true occupation densities. An empirical application involving high-frequency equity data illustrates the usefulness of the new methods in illuminating time-varying risks, market liquidity, and informational asymmetries across time and assets.
+ER  - 
+
+TY  - JOUR
+T1  - Realized matrix-exponential stochastic volatility with asymmetry, long memory and higher-moment spillovers
+AU  - Asai, Manabu
+AU  - Chang, Chia-Lin
+AU  - McAleer, Michael
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 285
+EP  - 304
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001809
+KW  - Matrix-exponential transformation
+KW  - Realized stochastic covariances
+KW  - Realized conditional covariances
+KW  - Asymmetry
+KW  - Long memory
+KW  - Higher-moment spillovers
+KW  - Dynamic covariance matrix
+KW  - Finite sample properties
+KW  - Forecasting performance
+AB  - The paper develops a novel realized matrix-exponential stochastic volatility model of multivariate returns and realized covariances that incorporates asymmetry and long memory (hereafter the RMESV-ALM model), and higher-moment spillovers. The matrix exponential transformation guarantees the positive definiteness of the dynamic covariance matrix. We decompose the likelihood function of the RMESV-ALM model into two components: one based on the conventional Kalman filter, and the other evaluated by a Monte Carlo likelihood technique. We consider a two-step quasi-maximum likelihood estimator for maximizing the likelihood function, and examine the finite sample properties of the estimator. The specification enables us to analyze asymmetric and higher-moment spillover effects in the covariance dynamics via news impact curves and impulse response functions. Using high frequency data for three US financial assets, the new model is estimated and evaluated. The forecasting performance of the new model is compared with a novel dynamic realized matrix-exponential conditional covariance model. Our empirical results suggest the RMESV-ALE specification to be superior, and spillover effects are found from returns or volatility to the remaining volatilities.
+ER  - 
+
+TY  - JOUR
+T1  - β in the tails
+AU  - Bandi, Federico M.
+AU  - Renò, Roberto
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 134
+EP  - 150
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302128
+KW  - Hedge funds
+KW  - Diffusive risk
+KW  - Jump risk
+KW  - Beta
+AB  - Do hedge funds hedge? In negative states of the world, often not as much as they should. For several styles, we report larger market betas when market returns are low (i.e., “beta in the tails”). We justify this finding through a combination of negative-mean jumps in the market returns and large market jump betas: when moving to the left tail of the market return distribution jump dynamics dominate continuous dynamics and the overall systematic risk of the fund is driven by the higher systematic risk associated with return discontinuities. Methodologically, the separation of continuous and discontinuous dynamics is conducted by exploiting the informational content of the high-order infinitesimal cross-moments of hedge-fund and market returns.
+ER  - 
+
+TY  - JOUR
+T1  - Asset selection based on high frequency Sharpe ratio
+AU  - Wang, Christina Dan
+AU  - Chen, Zhao
+AU  - Lian, Yimin
+AU  - Chen, Min
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 168
+EP  - 188
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302244
+KW  - Asset selection
+KW  - High frequency Sharpe ratio
+KW  - Ultrahigh dimensional
+KW  - Serial correlation
+KW  - Sure screening property
+AB  - In portfolio choice problems, the classical Mean–Variance model in Markowitz (1952) relies heavily on the covariance structure among assets. As the number and types of assets increase rapidly, traditional methods to estimate the covariance matrix and its inverse suffer from the common issues in high or ultra-high dimensional analysis. To avoid the issue of estimating the covariance matrix with high or ultra-high dimensional data, we propose a fast procedure to reduce dimension based on a new risk/return measure constructed from intra-day high frequency data and select assets via Dependent Sure Explained Variability and Independence Screening (D-SEVIS). While most feature screening methods assume i.i.d. samples, by nature of our data, we make contribution to studying D-SEVIS for samples with serial correlation, specifically, for the stationary α-mixing processes. Under α-mixing condition, we prove that D-SEVIS satisfies sure screening property and ranking consistency property. More importantly, with the assets selected through D-SEVIS, we will build a portfolio that earns more excess return compared with several existing portfolio allocation methods. We illustrate this advantage of our asset selection method with the real data from the stock market.
+ER  - 
+
+TY  - JOUR
+T1  - Goodness-of-fit testing for time series models via distance covariance
+AU  - Wan, Phyllis
+AU  - Davis, Richard A.
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 4
+EP  - 24
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302256
+KW  - Distance covariance
+KW  - Time series models
+KW  - Estimated residuals
+KW  - Goodness-of-fit testing
+KW  - Serial dependence
+AB  - In many statistical modeling frameworks, goodness-of-fit tests are typically administered to the estimated residuals. In the time series setting, whiteness of the residuals is assessed using the sample autocorrelation function. For many time series models, especially those used for financial time series, the key assumption on the residuals is that they are in fact independent and not just uncorrelated. In this paper, we apply the auto-distance covariance function (ADCV) to evaluate the serial dependence of the estimated residuals. Distance covariance can discriminate between dependence and independence of two random vectors. The limit behavior of the test statistic based on the ADCV is derived for a general class of time series models. One of the key aspects in this theory is adjusting for the dependence that arises due to parameter estimation. This adjustment has essentially the same form regardless of the model specification. We illustrate the results in simulated examples.
+ER  - 
+
+TY  - JOUR
+T1  - Testing the existence of moments for GARCH processes
+AU  - Francq, Christian
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 47
+EP  - 64
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302268
+KW  - Conditional heteroskedasticity
+KW  - Efficiency comparisons
+KW  - Non-Gaussian QMLE
+KW  - Residual bootstrap
+KW  - Stationarity tests
+AB  - It is generally admitted that many financial time series have heavy tailed marginal distributions. When time series models are fitted on such data, the non-existence of appropriate moments may invalidate standard statistical tools used for inference. Moreover, the existence of moments can be crucial for risk management, for instance when risk is measured through the expected shortfall. This paper considers testing the existence of moments in the framework of GARCH processes. While the second-order stationarity condition does not depend on the distribution of the innovation, higher-order moment conditions involve moments of the independent innovation process. We propose tests for the existence of high moments of the returns process which are based on the joint asymptotic distribution of the Quasi-Maximum Likelihood (QML) estimator of the volatility parameters and empirical moments of the residuals. A bootstrap procedure is proposed to improve the finite-sample performance of our test. To achieve efficiency gains we consider non Gaussian QML estimators founded on reparameterizations of the GARCH model, and we discuss optimality issues. Monte Carlo experiments and an empirical study illustrate the asymptotic results.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for episodic predictability in stock returns
+AU  - Demetrescu, Matei
+AU  - Georgiev, Iliyan
+AU  - Rodrigues, Paulo M.M.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 85
+EP  - 113
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300026
+KW  - Predictive regression
+KW  - Rolling and recursive IV estimation
+KW  - Persistence
+KW  - Endogeneity
+KW  - Conditional and unconditional heteroskedasticity
+AB  - Standard tests based on predictive regressions estimated over the full available sample data have tended to find little evidence of predictability in stock returns. Recent approaches based on the analysis of subsamples of the data suggest in fact that predictability where it occurs might exist only within so-called “pockets of predictability” rather than across the entire sample. However, these methods are prone to the criticism that the subsample dates are endogenously determined such that the use of standard critical values appropriate for full sample tests will result in incorrectly sized tests leading to spurious findings of stock returns predictability. To avoid the problem of endogenously-determined sample splits, we propose new tests derived from sequences of predictability statistics systematically calculated over subsamples of the data. Specifically, we will base tests on the maximum of such statistics from sequences of forward and backward recursive, rolling, and double-recursive predictive subsample regressions. We develop our approach using the over-identified instrumental variable-based predictability test statistics of Breitung and Demetrescu (2015). This approach is based on partial-sum asymptotics and so, unlike many other popular approaches including, for example, those based on Bonferroni corrections, can be readily adapted to implementation over sequences of subsamples. We show that the limiting null distributions of our proposed test statistics depend in general on whether the putative predictor is strongly or weakly persistent and on any heteroskedasticity present (indeed on any time-variation present in the unconditional variance matrix of the innovations), the latter even if the subsample statistics are based on heteroskedasticity-robust standard errors. As a consequence, we develop fixed regressor wild bootstrap implementations of the tests which we demonstrate to be first-order asymptotically valid. Finite sample behaviour against a variety of temporarily predictable processes is considered. An empirical application to US stock returns illustrates the usefulness of the new predictability testing methods we propose.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation of high-dimensional dynamic covariance by risk factor mapping: Applications for financial risk management
+AU  - So, Mike K.P.
+AU  - Chan, Thomas W.C.
+AU  - Chu, Amanda M.Y.
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 151
+EP  - 167
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.040
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301664
+KW  - Dynamic covariance modeling
+KW  - Dynamic mapping
+KW  - Multivariate GARCH
+KW  - Risk contribution
+KW  - Tail risk
+AB  - This paper aims to explore a modified method of high-dimensional dynamic variance–covariance matrix estimation via risk factor mapping, which can yield a dependence estimation of asset returns within a large portfolio with high computational efficiency. The essence of our methodology is to express the time-varying dependence of high-dimensional return variables using the co-movement concept of returns with respect to risk factors. A novelty of the proposed methodology is to allow mapping matrices, which govern the co-movement of returns, to be time-varying. We also consider the flexible modeling of risk factors by a copula multivariate generalized autoregressive conditional heteroscedasticity (MGARCH) model. Through the proposed risk factor mapping model, the number of parameters and the time complexity are functions of a small number of risk factors instead of the number of stocks in the portfolio, making our proposed methodology highly scalable. We adopt Bayesian methods to estimate unknown parameters and various risk measures in the proposed model. The proposed risk mapping method and financial applications are demonstrated by an empirical study of the Hong Kong stock market. The assessment of the effectiveness of the mapping via risk measure estimation is also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding temporal aggregation effects on kurtosis in financial indices
+AU  - Lieberman, Offer
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 25
+EP  - 46
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.035
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030258X
+KW  - Autoregression
+KW  - Diffusion
+KW  - Kurtosis
+KW  - Stochastic unit root
+KW  - Time-varying coefficients
+AB  - Indices of financial returns typically display sample kurtosis that declines towards the Gaussian value 3 as the sampling interval increases. This paper uses stochastic unit root (STUR) and continuous time analysis to explain the phenomenon. Limit theory for the sample kurtosis reveals that STUR specifications provide two sources of excess kurtosis, both of which decline with the sampling interval. Limiting kurtosis is shown to be random and is a functional of the limiting price process. Using a continuous time version of the model under no-drift, local drift, and drift inclusions, we suggest a new continuous time kurtosis measure for financial returns that assists in reconciling these models with the empirical kurtosis characteristics of returns. Simulations are reported and applications to several financial indices demonstrate the usefulness of this approach.
+ER  - 
+
+TY  - JOUR
+T1  - LADE-based inferences for autoregressive models with heavy-tailed G-GARCH(1, 1) noise
+AU  - Zhang, Xingfa
+AU  - Zhang, Rongmao
+AU  - Li, Yuan
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 1
+SP  - 228
+EP  - 240
+PY  - 2022
+DA  - 2022/03/01/
+T2  - Annals Issue: Time Series Analysis of Higher Moments and Distributions of Financial Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303742
+KW  - G-GARCH-model
+KW  - AR model
+KW  - Heavy tails
+KW  - LADE
+AB  - This paper explores the least absolute deviation (LAD) estimator of the autoregressive model with heavy-tailed G-GARCH(1, 1) noise. When the tail index α∈(1,2], it is shown that the LAD estimator asymptotically converges to a linear function of a series of α-stable random vectors with a rate of convergence n1−1/α. The result is significantly different from that of the corresponding least square estimator which is not consistent, and partially solves the problem on the asymptoticity of the LAD estimator when the tail index is less than 2. A simulation study is carried out to assess the performance of the LAD estimator and a real example is given to illustrate this approach.
+ER  - 

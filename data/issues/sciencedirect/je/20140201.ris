@@ -1,0 +1,225 @@
+TY  - JOUR
+T1  - Identification theory for high dimensional static and dynamic factor models
+AU  - Bai, Jushan
+AU  - Wang, Peng
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 794
+EP  - 804
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002315
+KW  - High dimensional dynamic factor models
+KW  - Identification
+KW  - Rank conditions
+AB  - High dimensional factor models can involve thousands of parameters. The Jacobian matrix for identification is of a large dimension. It can be difficult and numerically inaccurate to evaluate the rank of such a Jacobian matrix. We reduce the identification problem to a small rank problem, which is easy to check. The identification conditions allow both linear and nonlinear restrictions. Under reasonable assumptions for high dimensional factor models, the small rank conditions are shown to be necessary and sufficient for local identification.
+ER  - 
+
+TY  - JOUR
+T1  - Integrated modified OLS estimation and fixed-b inference for cointegrating regressions
+AU  - Vogelsang, Timothy J.
+AU  - Wagner, Martin
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 741
+EP  - 760
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002303
+KW  - Bandwidth
+KW  - Cointegration
+KW  - Fixed- asymptotics
+KW  - FM-OLS
+KW  - IM-OLS
+KW  - Kernel
+AB  - This paper is concerned with parameter estimation and inference in a cointegrating regression, where as usual endogenous regressors as well as serially correlated errors are considered. We propose a simple, new estimation method based on an augmented partial sum (integration) transformation of the regression model. The new estimator is labeled integrated modified ordinary least squares (IM-OLS). IM-OLS is similar in spirit to the fully modified OLS approach of Phillips and Hansen (1990) and also bears similarities to the dynamic OLS approach of Phillips and Loretan (1991), Saikkonen (1991) and Stock and Watson (1993), with the key difference that IM-OLS does not require estimation of long run variance matrices and avoids the need to choose tuning parameters (kernels, bandwidths, lags). Inference does require that a long run variance be scaled out, and we propose traditional and fixed-b methods for obtaining critical values for test statistics. The properties of IM-OLS are analyzed using asymptotic theory and finite sample simulations. IM-OLS performs well relative to other approaches in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Treatment effect estimation with covariate measurement error
+AU  - Battistin, Erich
+AU  - Chesher, Andrew
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 707
+EP  - 715
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761300225X
+KW  - Measurement error
+KW  - Potential outcomes
+KW  - Parameter asymptotics
+KW  - Treatment effects
+AB  - This paper investigates the effect that covariate measurement error has on a treatment effect analysis built on an unconfoundedness restriction in which there is conditioning on error free covariates. The approach uses small parameter asymptotic methods to obtain the approximate effects of measurement error for estimators of average treatment effects. The approximations can be estimated using data on observed outcomes, the treatment indicator and error contaminated covariates without employing additional information from validation data or instrumental variables. The results can be used in a sensitivity analysis to probe the potential effects of measurement error on the evaluation of treatment effects.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - IFC
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(13)00269-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002698
+ER  - 
+
+TY  - JOUR
+T1  - Announcement
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 829
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002662
+ER  - 
+
+TY  - JOUR
+T1  - List of Referees for 2013
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 825
+EP  - 828
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002650
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of long-run parameters in unbalanced cointegration
+AU  - Hualde, Javier
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 761
+EP  - 778
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002297
+KW  - Unbalanced cointegration
+KW  - Long run parameters
+KW  - Nonlinear least squares
+KW  - Type II fractional Brownian motion
+AB  - This paper analyses the asymptotic properties of nonlinear least squares estimators of the long run parameters in a bivariate unbalanced cointegration framework. Unbalanced cointegration refers to the situation where the integration orders of the observables are different, but their corresponding balanced versions (with equal integration orders after filtering) are cointegrated in the usual sense. Within this setting, the long run linkage between the observables is driven by both the cointegrating parameter and the difference between the integration orders of the observables, which we consider to be unknown. Our results reveal three noticeable features. First, superconsistent (faster than n-consistent) estimators of the difference between memory parameters are achievable. Next, the joint limiting distribution of the estimators of both parameters is singular, and, finally, a modified version of the “Type II” fractional Brownian motion arises in the limiting theory. A Monte Carlo experiment and the discussion of an economic example are included.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic binary outcome models with maximal heterogeneity
+AU  - Browning, Martin
+AU  - Carro, Jesus M.
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 805
+EP  - 823
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002352
+KW  - Discrete choice
+KW  - Markov processes
+KW  - Nonparametric identification
+KW  - Unemployment dynamics
+AB  - Most econometric schemes to allow for heterogeneity in micro behavior have two drawbacks: they do not fit the data and they rule out interesting economic models. In this paper we consider the time homogeneous first order Markov (HFOM) model that allows for maximal heterogeneity. That is, the modeling of the heterogeneity does not impose anything on the data (except the HFOM assumption for each agent) and it allows for any theory model (that gives a HFOM process for an individual observable variable). ‘Maximal’ means that the joint distribution of initial values and the transition probabilities is unrestricted. We establish necessary and sufficient conditions for generic local point identification of our heterogeneity structure that are very easy to check, and we show how it depends on the length of the panel. We apply our techniques to a long panel of Danish workers who are very homogeneous in terms of observables. We show that individual unemployment dynamics are very heterogeneous, even for such a homogeneous group. We also show that the impact of cyclical variables on individual unemployment probabilities differs widely across workers. Some workers have unemployment dynamics that are independent of the cycle whereas others are highly sensitive to macro shocks.
+ER  - 
+
+TY  - JOUR
+T1  - A Γ-moment approach to monotonic boundary estimation
+AU  - Daouia, Abdelaati
+AU  - Girard, Stéphane
+AU  - Guillou, Armelle
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 727
+EP  - 740
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002285
+KW  - Cost function
+KW  - Edge data
+KW  - Extreme-value index
+KW  - Free disposal hull
+KW  - Moment frontier
+AB  - The estimation of optimal support boundaries under the monotonicity constraint is relatively unexplored and still in full development. This article examines a new extreme-value based model which provides a valid alternative for complete envelopment frontier models that often suffer from lack of precision, and for purely stochastic ones that are known to be sensitive to model misspecification. We provide different motivating applications including the estimation of the minimal cost in production activity and the assessment of the reliability of nuclear reactors.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum to “Maximum likelihood estimation and inference methods for the covariance stationary panel AR(1)/unit root model” [J. Econom. 144 (2008) 447–464]
+AU  - Kruiniger, Hugo
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 824
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002340
+ER  - 
+
+TY  - JOUR
+T1  - Time-varying sparsity in dynamic regression models
+AU  - Kalli, Maria
+AU  - Griffin, Jim E.
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 779
+EP  - 793
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002273
+KW  - Time-varying regression
+KW  - Shrinkage priors
+KW  - Normal-gamma priors
+KW  - Markov chain Monte Carlo
+KW  - Equity premium
+KW  - Inflation
+AB  - A novel Bayesian method for inference in dynamic regression models is proposed where both the values of the regression coefficients and the importance of the variables are allowed to change over time. We focus on forecasting and so the parsimony of the model is important for good performance. A prior is developed which allows the shrinkage of the regression coefficients to suitably change over time and an efficient Markov chain Monte Carlo method for posterior inference is described. The new method is applied to two forecasting problems in econometrics: equity premium prediction and inflation forecasting. The results show that this method outperforms current competing Bayesian methods.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of finite sequential games
+AU  - Maruyama, Shiko
+JO  - Journal of Econometrics
+VL  - 178
+IS  - 2
+SP  - 716
+EP  - 726
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002261
+KW  - Inference in discrete games
+KW  - Sequential games
+KW  - Monte Carlo integration
+KW  - GHK simulator
+KW  - Subgame perfection
+AB  - I propose a new estimation method for finite sequential games that is efficient, computationally attractive, and applicable to a fairly general class of finite sequential games that is beyond the scope of existing studies. The major challenge is the computation of high-dimensional truncated integration whose domain is complicated by strategic interaction. This complication resolves when unobserved off-the-equilibrium-path strategies are controlled for. Separately evaluating the likelihood contribution of each subgame-perfect equilibrium that generates the observed outcome allows the use of the GHK simulator, a widely used importance-sampling probit simulator. Monte Carlo experiments demonstrate the performance and robustness of the proposed method.
+ER  - 

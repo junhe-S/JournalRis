@@ -1,0 +1,408 @@
+TY  - JOUR
+T1  - Editors’ introduction
+AU  - Darolles, S.
+AU  - Monfort, Alain
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 173
+EP  - 175
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301483
+ER  - 
+
+TY  - JOUR
+T1  - Double instrumental variable estimation of interaction models with big data
+AU  - Gagliardini, Patrick
+AU  - Gouriéroux, Christian
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 176
+EP  - 197
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301495
+KW  - Interaction model
+KW  - Factor analysis
+KW  - Big data
+KW  - Instrumental variable
+KW  - Recommender system
+AB  - The factor analysis of a (n,m) matrix of observations Y is based on the joint spectral decomposition of the matrix squares YY′ and Y′Y for Principal Component Analysis (PCA). For very large matrix dimensions n and m, this approach has a high level of numerical complexity. The big data feature suggests new estimation methods with a smaller degree of numerical complexity. The double Instrumental Variable (IV) approach uses row and column instruments to estimate consistently the factors via an averaging method. We compare the double IV approach to PCA in terms of numerical complexity and statistical efficiency. The double IV approach can be used for the analysis of recommender systems and provides a new collaborative filtering approach.
+ER  - 
+
+TY  - JOUR
+T1  - A discrete model for bootstrap iteration
+AU  - Davidson, Russell
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 228
+EP  - 236
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301550
+KW  - Bootstrap
+KW  - Bootstrap iteration
+KW  - Unit root
+KW  - MA(1)
+AB  - The bootstrap can be validated by considering the sequence of P values obtained by bootstrap iteration, rather than asymptotically. If this sequence converges to a random variable with the uniform U(0,1) distribution, the bootstrap is valid. Here, the model is made discrete and finite, characterised by a three-dimensional array of probabilities. This renders bootstrap iteration to any desired order feasible. A unit-root test for a process driven by a stationary MA(1) process is known to be unreliable when the MA(1) parameter is near −1. Iteration of the bootstrap P value to convergence achieves reliable inference unless the parameter value is very close to −1.
+ER  - 
+
+TY  - JOUR
+T1  - Mixed-scale jump regressions with bootstrap inference
+AU  - Li, Jia
+AU  - Todorov, Viktor
+AU  - Tauchen, George
+AU  - Chen, Rui
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 417
+EP  - 432
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301690
+KW  - Bootstrap
+KW  - High-frequency data
+KW  - Jumps
+KW  - Regression
+KW  - Semimartingale
+KW  - Specification test
+KW  - Stochastic volatility
+AB  - We develop an efficient mixed-scale estimator for jump regressions using high-frequency asset returns. A fine time scale is used to accurately identify the locations of large rare jumps in the explanatory variables such as the price of the market portfolio. A coarse scale is then used in the estimation in order to attenuate the effect of trading frictions in the dependent variable such as the prices of potentially less liquid assets. The proposed estimator has a non-standard asymptotic distribution that cannot be made asymptotically pivotal via studentization. We propose a novel bootstrap procedure for feasible inference and justify its asymptotic validity. We show that the bootstrap provides an automatic higher-order asymptotic approximation by accounting for the sampling variation in estimates of nuisance quantities that are used in efficient estimation. The Monte Carlo analysis indicates good finite-sample performance of the general specification test and confidence intervals based on the bootstrap. We apply the method to a high-frequency panel of Dow stock prices together with the market index defined by the S&P 500 index futures over the period 2007–2014. We document remarkable temporal stability in the way that stocks react to market jumps. However, this relationship for many of the stocks in the sample is significantly noisier and more unstable during sector-specific jump events.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in continuous systems with mildly explosive regressors
+AU  - Chen, Ye
+AU  - Phillips, Peter C.B.
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 400
+EP  - 416
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301689
+KW  - Cointegrated system
+KW  - Explosive process
+KW  - Moderate deviations from unity
+KW  - Double asymptotics
+KW  - Real estate market
+AB  - New limit theory is developed for co-moving systems with explosive processes, connecting continuous and discrete time formulations. The theory uses double asymptotics with infill (as the sampling interval tends to zero) and large time span asymptotics. The limit theory explicitly involves initial conditions, allows for drift in the system, is provided for single and multiple explosive regressors, and is feasible to implement in practice. Simulations show that double asymptotics deliver a good approximation to the finite sample distribution, with both finite sample and asymptotic distributions showing sensitivity to initial conditions. The methods are implemented in the US real estate market for an empirical application, illustrating the usefulness of double asymptotics in practical work.
+ER  - 
+
+TY  - JOUR
+T1  - Mixture of distribution hypothesis: Analyzing daily liquidity frictions and information flows
+AU  - Darolles, Serge
+AU  - Le Fol, Gaëlle
+AU  - Mero, Gulten
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 367
+EP  - 383
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301665
+KW  - Strategic liquidity trading
+KW  - Market efficiency
+KW  - Mixture of distribution hypothesis
+KW  - Information-based trading
+KW  - Extended Kalman Filter
+AB  - The mixture of distribution hypothesis (MDH) model offers an appealing explanation for the positive relation between trading volume and volatility of returns. In this specification, the information flow constitutes the only mixing variable responsible for all changes. However, this single static latent mixing variable cannot account for the observed short-run dynamics of volume and volatility. In this paper, we propose a dynamic extension of the MDH that specifies the impact of information arrival on market characteristics in the context of liquidity frictions. We distinguish between short-term and long-term liquidity frictions. Our results highlight the economic value and statistical accuracy of our specification. First, based on some goodness of fit tests, we show that our dynamic two-latent factor model outperforms all competing specifications. Second, the information flow latent variable can be used to propose a new momentum strategy. We show that this signal improves once we allow for a second signal – the liquidity frictions latent variable – as the momentum strategies based on our model present better performance than those based on competing models.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian estimation of state space models using moment conditions
+AU  - Gallant, A. Ronald
+AU  - Giacomini, Raffaella
+AU  - Ragusa, Giuseppe
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 198
+EP  - 211
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301501
+KW  - State space models
+KW  - Bayesian estimation
+KW  - Moment equations
+KW  - Structural models
+KW  - DSGE models
+KW  - Particle filter
+AB  - We consider Bayesian estimation of state space models when the measurement density is not available but estimating equations for the parameters of the measurement density are available from moment conditions. The most common applications are partial equilibrium models involving moment conditions that depend on dynamic latent variables (e.g., time–varying parameters, stochastic volatility) and dynamic general equilibrium models when moment equations from the first order conditions are available but computing an accurate approximation to the measurement density is difficult.
+ER  - 
+
+TY  - JOUR
+T1  - Using principal component analysis to estimate a high dimensional factor model with high-frequency data
+AU  - Aït-Sahalia, Yacine
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 384
+EP  - 399
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301677
+KW  - High-dimensional data
+KW  - High-frequency data
+KW  - Latent factor model
+KW  - Principal components
+KW  - Portfolio optimization
+AB  - This paper constructs an estimator for the number of common factors in a setting where both the sampling frequency and the number of variables increase. Empirically, we document that the covariance matrix of a large portfolio of US equities is well represented by a low rank common structure with sparse residual matrix. When employed for out-of-sample portfolio allocation, the proposed estimator largely outperforms the sample covariance estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - IFC
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30196-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301963
+ER  - 
+
+TY  - JOUR
+T1  - Functional linear regression with functional response
+AU  - Benatia, David
+AU  - Carrasco, Marine
+AU  - Florens, Jean-Pierre
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 269
+EP  - 291
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301586
+KW  - Functional regression
+KW  - Instrumental variables
+KW  - Linear operator
+KW  - Tikhonov regularization
+AB  - In this paper, we develop new estimation results for functional regressions where both the regressor Z(t) and the response Y(t) are functions of Hilbert spaces, indexed by the time or a spatial location. The model can be thought as a generalization of the multivariate regression where the regression coefficient is now an unknown operator Π. We propose to estimate the operator Π by Tikhonov regularization, which amounts to apply a penalty on the L2 norm of Π. We derive the rate of convergence of the mean-square error, the asymptotic distribution of the estimator, and develop tests on Π. As trajectories are often not fully observed, we consider the scenario where the data become more and more frequent (infill asymptotics). We also address the case where Z is endogenous and instrumental variables are used to estimate Π. An application to the electricity consumption completes the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Scenario generation for long run interest rate risk assessment
+AU  - Engle, Robert
+AU  - Roussellet, Guillaume
+AU  - Siriwardane, Emil
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 333
+EP  - 347
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301641
+KW  - Yield curve forecast
+KW  - Risk management
+KW  - Scenario simulation
+KW  - Switching regimes
+AB  - We propose a statistical model of the term structure of U.S. treasury yields tailored for long-term probability-based scenario generation and forecasts. Our model is easy to estimate and is able to simultaneously reproduce the positivity, persistence, and factor structure of the yield curve. Moreover, we incorporate heteroskedasticity and time-varying correlations across yields, both prevalent features of the data. The model also features a regime-switching short-rate model. We evaluate the out-of-sample performance of our model in terms of forecasting ability and coverage properties, and find that it improves on the standard Diebold and Li model.
+ER  - 
+
+TY  - JOUR
+T1  - Staying at zero with affine processes: An application to term structure modelling
+AU  - Monfort, Alain
+AU  - Pegoraro, Fulvio
+AU  - Renne, Jean-Paul
+AU  - Roussellet, Guillaume
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 348
+EP  - 366
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301653
+KW  - Zero lower bound
+KW  - Affine process
+KW  - Term structure model
+KW  - Lift-off probabilities
+AB  - We build an Affine Term Structure Model that provides non-negative yields at any maturity and that is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time while longer-term rates feature high volatilities. We introduce these features through a new univariate non-negative affine process called ARG-Zero, and its multivariate affine counterpart (VARG), entailing conditional distributions with zero-point masses. The affine property of this new class of processes implies both explicit bond pricing and quasi-explicit lift-off probability formulas. We provide an empirical application to Japanese Government Bond (JGB) yields, observed weekly from June 1995 to May 2014 with maturities from six months to ten years. Our four-factor specification is able to closely match yield levels and to capture conditional yield variances.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of non-exchangeable latent-variable models
+AU  - Bonhomme, Stéphane
+AU  - Jochmans, Koen
+AU  - Robin, Jean-Marc
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 237
+EP  - 248
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301562
+KW  - Latent variable models
+KW  - Unobserved heterogeneity
+KW  - Finite mixtures
+KW  - Hidden Markov models
+KW  - Nonparametric estimation
+KW  - Panel data
+KW  - Wage dynamics
+AB  - We propose a two-step method to nonparametrically estimate multivariate models in which the observed outcomes are independent conditional on a discrete latent variable. Applications include microeconometric models with unobserved types of agents, regime-switching models, and models with misclassification error. In the first step, we estimate weights that transform moments of the marginal distribution of the data into moments of the conditional distribution of the data for given values of the latent variable. In the second step, these conditional moments are estimated as weighted sample averages. We illustrate the method by estimating a model of wages with unobserved heterogeneity on PSID data.
+ER  - 
+
+TY  - JOUR
+T1  - Rationalization and identification of binary games with correlated types
+AU  - Liu, Nianqing
+AU  - Vuong, Quang
+AU  - Xu, Haiqing
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 249
+EP  - 268
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301574
+KW  - Rationalization
+KW  - Identification
+KW  - Discrete game
+KW  - Social interactions
+KW  - Global games
+AB  - This paper studies the rationalization and identification of binary games where players have correlated private types. Allowing for type correlation is crucial in global games and in models with social interactions as it represents correlated private information and homophily, respectively. Our approach is fully nonparametric in the joint distribution of types and the strategic effects in the payoffs. First, under monotone pure Bayesian Nash Equilibrium strategy, we characterize all the restrictions if any on the distribution of players’ choices imposed by the game-theoretic model as well as restrictions associated with two assumptions frequently made in the empirical analysis of discrete games. Namely, we consider exogeneity of payoff shifters relative to private information, and mutual independence of private information given payoff shifters. Second, we study the nonparametric identification of the payoff functions and types distribution. We show that the model with exogenous payoff shifters is fully identified up to a single location-scale normalization under some exclusion restrictions and rank conditions. Third, we discuss partial identification under weaker conditions and multiple equilibria. Lastly, we briefly point out the implications of our results for model testing and estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Sufficient forecasting using factor models
+AU  - Fan, Jianqing
+AU  - Xue, Lingzhou
+AU  - Yao, Jiawei
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 292
+EP  - 306
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301616
+KW  - Forecasting
+KW  - Factor model
+KW  - Learning indices
+KW  - Sliced inverse regression
+KW  - Asymptotic properties
+AB  - We consider forecasting a single time series when there is a large number of predictors and a possible nonlinear effect. The dimensionality was first reduced via a high-dimensional factor model implemented by the principal component analysis. Using the extracted factors, we develop a novel forecasting method called the sufficient forecasting, which provides a set of sufficient predictive indices, inferred from high-dimensional predictors, to deliver additional predictive power. The projected principal component analysis will be employed to enhance the accuracy of inferred factors when a semi-parametric factor model is assumed. Our method is also applicable to cross-sectional sufficient regression using extracted factors. The connection between the sufficient forecasting and the deep learning architecture is explicitly stated. The sufficient forecasting correctly estimates projection indices of the underlying factors even in the presence of a nonparametric forecasting function. The proposed method extends the sufficient dimension reduction to high-dimensional regimes by condensing the cross-sectional information through factor models. We derive asymptotic properties for the estimate of the central subspace spanned by these projection directions as well as the estimates of the sufficient predictive indices. We further show that the natural method of running multiple regression of target on estimated factors yields a linear estimate that actually falls into this central subspace. Our method and theory allow the number of predictors to be larger than the number of observations. We finally demonstrate that the sufficient forecasting improves upon the linear forecasting in both simulation studies and an empirical study of forecasting macroeconomic variables.
+ER  - 
+
+TY  - JOUR
+T1  - Real-time forecast evaluation of DSGE models with stochastic volatility
+AU  - Diebold, Francis X.
+AU  - Schorfheide, Frank
+AU  - Shin, Minchul
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 322
+EP  - 332
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730163X
+KW  - Dynamic stochastic general equilibrium model
+KW  - Prediction
+KW  - Stochastic volatility
+AB  - Recent work has analyzed the forecasting performance of standard dynamic stochastic general equilibrium (DSGE) models, but little attention has been given to DSGE models that incorporate nonlinearities in exogenous driving processes. Against that background,we explore whether incorporating stochastic volatility improves DSGE forecasts (point, interval, and density). We examine real-time forecast accuracy for key macroeconomic variables including output growth, inflation, and the policy rate. We find that incorporating stochastic volatility in DSGE models of macroeconomic fundamentals markedly improves their density forecasts, just as incorporating stochastic volatility in models of financial asset returns improves their density forecasts.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized dynamic factor models and volatilities: estimation and forecasting
+AU  - Barigozzi, Matteo
+AU  - Hallin, Marc
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 307
+EP  - 321
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301628
+KW  - Volatility
+KW  - Dynamic factor models
+KW  - GARCH models
+KW  - High-dimensional time series
+AB  - In large panels of financial time series with dynamic factor structure on the levels or returns, the volatilities of the common and idiosyncratic components often exhibit strong correlations, indicating that both are exposed to the same market volatility shocks. This suggests, alongside the dynamic factor decomposition of returns, a dynamic factor decomposition of volatilities or volatility proxies. Based on this observation, Barigozzi and Hallin (2016) proposed an entirely non-parametric and model-free two-step general dynamic factor approach which accounts for a joint factor structure of returns and volatilities, and allows for extracting the market volatility shocks. Here, we go one step further, and show how the same two-step approach naturally produces volatility forecasts for the various stocks under study. In an applied exercise, we consider the panel of asset returns of the constituents of the S&P100 index over the period 2000–2009. Numerical results show that the predictors based on our two-step method outperform existing univariate and multivariate GARCH methods, as well as static factor GARCH models, in the prediction of daily high–low range—while avoiding the usual problems associated with the curse of dimensionality.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient two-step estimation via targeting
+AU  - Frazier, David T.
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 2
+SP  - 212
+EP  - 227
+PY  - 2017
+DA  - 2017/12/01/
+T2  - THEORETICAL AND FINANCIAL ECONOMETRICS: ESSAYS IN HONOR OF C. GOURIEROUX
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301549
+KW  - Targeting
+KW  - Penalization
+KW  - Multivariate time series models
+KW  - Asset pricing
+AB  - The standard description of two-step extremum estimation amounts to plugging-in a first-step estimator of nuisance parameters to simplify the optimization problem and then deducing a user friendly, but potentially inefficient, estimator for the parameters of interest. In this paper, we consider a more general setting of two-step estimation where we do not necessarily have ‘nuisance parameters’ but rather awkward occurrences of the parameters of interest. The efficiency problem associated with two-step estimators in this context is more difficult than with standard nuisance parameters as even if the true unknown value of the parameters were plugged-in to alleviate the awkward occurrences of the parameters, the resulting second-step estimator may not be efficient. In addition, standard approaches to restore efficiency for two-step procedures may not work due to a consistency issue. To alleviate this potential issue, we propose a new computationally simple two-step estimation procedure that relies on targeting and penalization to enforce consistency, with the second-step estimators maintaining asymptotic efficiency. We compare this new method with existing iterative methods in the framework of copula models and asset pricing models. Simulation results illustrate that this new method performs better than existing iterative procedures and is (nearly) computationally equivalent.
+ER  - 

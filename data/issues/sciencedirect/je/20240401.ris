@@ -1,0 +1,222 @@
+TY  - JOUR
+T1  - Dynamic partial correlation models
+AU  - D’Innocenzo, Enzo
+AU  - Lucas, Andre
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105747
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105747
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000939
+KW  - Dynamic correlations
+KW  - Score-driven models
+KW  - Stationarity
+KW  - Filter invertibility
+AB  - We introduce a new scalable model for dynamic conditional correlation matrices based on a recursion of dynamic bivariate partial correlation models. By exploiting the model’s recursive structure and the theory of perturbed stochastic recurrence equations, we establish stationarity, ergodicity, and filter invertibility in the multivariate setting using conditions for bivariate slices of the data only. From this, we establish consistency and asymptotic normality of the maximum likelihood estimator for the model’s static parameters. The new model outperforms benchmarks like the t-cDCC and the multivariate t-GAS, both in simulations and in an in-sample and out-of-sample asset pricing application to US stock returns.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring tail risk
+AU  - Dierkes, Maik
+AU  - Hollstein, Fabian
+AU  - Prokopczuk, Marcel
+AU  - Würsig, Christoph Matthias
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105769
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105769
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001155
+KW  - Tail risk
+KW  - Return forecasting
+KW  - Tail event forecasting
+AB  - We comprehensively investigate the usefulness of tail risk measures proposed in the literature. We evaluate their statistical as well as their economic validity. The option-implied measure of Bollerslev and Todorov (2011b) (BT11Q) performs best overall. While some other tail risk measures excel at specialized tasks, BT11Q performs well in all tests: First, BT11Q can predict both future tail events and future tail volatility. Second, it has predictive power for returns in both the time series and the cross-section, as well as for real economic activity. Finally, a simulation analysis shows that the main driver of performance is measurement error.
+ER  - 
+
+TY  - JOUR
+T1  - Robust inference of panel data models with interactive fixed effects under long memory: A frequency domain approach
+AU  - Ke, Shuyao
+AU  - Phillips, Peter C.B.
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105761
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105761
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001076
+KW  - Factor error structure
+KW  - Fourier transform
+KW  - Frequency domain regression
+KW  - Interactive fixed effects
+KW  - Long-range dependence
+KW  - Principal components
+AB  - This paper studies a linear panel data model with interactive fixed effects wherein regressors, factors and idiosyncratic error terms are all stationary but with potential long memory. The setup involves a new formulation of panel data models, where weakly dependent regressors, factors and idiosyncratic errors are embedded as a special case. Standard methods based on principal component decomposition and least squares estimation, as in Bai (2009), are found to be biased and distorted in inference. To cope with this failure and to provide a simple implementable estimation procedure, a frequency domain least squares estimation is proposed. The limit distribution of the frequency domain estimator is established and a self-normalized approach to inference without the need for plug-in estimation of memory parameters is developed. Simulations show that the frequency domain estimator performs robustly under short memory and outperforms the time domain estimator when long range dependence is present. An empirical illustration is provided, examining the long-run relationship between stock returns and realized volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Correcting attrition bias using changes-in-changes
+AU  - Ghanem, Dalia
+AU  - Hirshleifer, Sarojini
+AU  - Kédagni, Désiré
+AU  - Ortiz-Becerra, Karen
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105737
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105737
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000836
+KW  - Nonresponse bias
+KW  - Panel data
+KW  - Randomized experiments
+KW  - Difference-in-differences
+AB  - Attrition is a common and potentially important threat to internal validity in treatment effect studies. We extend the changes-in-changes approach to identify the average treatment effect for respondents and the entire study population in the presence of attrition. Our method, which exploits baseline outcome data, can be applied to randomized experiments as well as quasi-experimental difference-in-difference designs. A formal comparison highlights that while widely used corrections typically impose restrictions on whether or how response depends on treatment, our proposed attrition correction exploits restrictions on the outcome model. We further show that the conditions required for our correction can accommodate a broad class of response models that depend on treatment in an arbitrary way. We illustrate the implementation of the proposed corrections in an application to a large-scale randomized experiment.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference for high dimensional factor model with regime switching
+AU  - Urga, Giovanni
+AU  - Wang, Fa
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105752
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105752
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000988
+KW  - Factor model
+KW  - Regime switching
+KW  - Maximum likelihood
+KW  - High dimension
+KW  - EM algorithm
+KW  - Turning points
+AB  - This paper proposes maximum (quasi)likelihood estimation for high dimensional factor models with regime switching in the loadings. The model parameters are estimated jointly by the EM (expectation maximization) algorithm, which in the current context only requires iteratively calculating regime probabilities and principal components of the weighted sample covariance matrix. When regime dynamics are taken into account, smoothed regime probabilities are calculated using a recursive algorithm. Consistency, convergence rates and limit distributions of the estimated loadings and the estimated factors are established under weak cross-sectional and temporal dependence as well as heteroscedasticity. It is worth noting that due to high dimension, regime switching can be identified consistently after the switching point with only one observation period. Simulation results show good performance of the proposed method. An application to the FRED-MD dataset illustrates the potential of the proposed method for detection of business cycle turning points.
+ER  - 
+
+TY  - JOUR
+T1  - Parametric risk-neutral density estimation via finite lognormal-Weibull mixtures
+AU  - Li, Yifan
+AU  - Nolte, Ingmar
+AU  - Pham, Manh Cuong
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105748
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105748
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000940
+KW  - Risk-neutral density
+KW  - Parametric modelling
+KW  - Mixture-of-distribution method
+AB  - This paper proposes a new parametric risk-neutral density (RND) estimator based on a finite lognormal-Weibull mixture (LWM) density. We establish the consistency and asymptotic normality of the LWM method in a general misspecified parametric framework. Based on the theoretical results, we propose a sequential test procedure to evaluate the goodness-of-fit of the LWM model, which leads to an adaptive choice for the number and type of mixture components. Our simulation results show that, in finite samples with various observation error specifications, the LWM method can approximate complex RNDs generated by state-of-the-art multi-factor stochastic volatility models with a few (typically less than 4) mixtures. Application of the LWM model on index options confirms its reliability in recovering empirical RNDs with a heavy left tail or bimodality, which can be incorrectly identified as bimodality or a heavy left tail by existing (semi)-nonparametric methods if the goodness-of-fit to the observed data is ignored.
+ER  - 
+
+TY  - JOUR
+T1  - The local to unity dynamic Tobit model
+AU  - Bykhovskaya, Anna
+AU  - Duffy, James A.
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105764
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105764
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001106
+KW  - Non-negative time series
+KW  - Dynamic tobit
+KW  - Local unit root
+KW  - Unit root test
+AB  - This paper considers highly persistent time series that are subject to nonlinearities in the form of censoring or an occasionally binding constraint, such as are regularly encountered in macroeconomics. A tractable candidate model for such series is the dynamic Tobit with a root local to unity. We show that this model generates a process that converges weakly to a non-standard limiting process, that is constrained (regulated) to be positive. Surprisingly, despite the presence of censoring, the OLS estimators of the model parameters are consistent. We show that this allows OLS-based inferences to be drawn on the overall persistence of the process (as measured by the sum of the autoregressive coefficients), and for the null of a unit root to be tested in the presence of censoring. Our simulations illustrate that the conventional ADF test substantially over-rejects when the data is generated by a dynamic Tobit with a unit root, whereas our proposed test is correctly sized. We provide an application of our methods to testing for a unit root in the Swiss franc/euro exchange rate, during a period when this was subject to an occasionally binding lower bound.
+ER  - 
+
+TY  - JOUR
+T1  - Identifiability and estimation of possibly non-invertible SVARMA Models: The normalised canonical WHF parametrisation
+AU  - Funovits, Bernd
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105766
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105766
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400112X
+KW  - Non-invertibility
+KW  - Wiener–Hopf factorisation
+KW  - Structural Vector Autoregressive Moving-Average Models
+KW  - Non-Gaussianity
+KW  - Identifiability
+AB  - This article focuses on the parametrisation, identifiability, and (quasi-) maximum likelihood (QML) estimation of possibly non-invertible structural vector autoregressive moving average (SVARMA) models. SVAR models are routinely adopted due to their well-known implementation strategy. However, for various economic and statistical reasons, multivariate SVARMA settings are often more suitable. These settings introduce complexity in the analysis, primarily due to the presence of the moving average (MA) polynomial. We propose a novel representation of the MA polynomial matrix using the Wiener–Hopf factorization (WHF). A significant advantage of the WHF is its ability to handle possible non-invertibility and thus models with informational asymmetry between economic agents and outside observers. Since solutions of Dynamic Stochastic General Equilibrium (DSGE) models often involve this informational asymmetry, SVARMA models in WHF parametrisation can be considered data-driven alternatives to DSGE models and used for their evaluation. Furthermore, we provide low-level conditions for the asymptotic normality of the (Q)ML estimator and analytic expressions for the score and information matrix. As application, we estimate the Blanchard and Quah model, and compare our results and implied impulse response function with the ones in the SVAR model by Blanchard and Quah and a non-invertible SVARMA model by Gouriéroux and co-authors. Importantly, we have implemented this novel method in a well-documented R-package, making it readily accessible for researchers and practitioners.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105778
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00124-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001246
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid unadjusted Langevin methods for high-dimensional latent variable models
+AU  - Loaiza-Maya, Rubén
+AU  - Nibbering, Didier
+AU  - Zhu, Dan
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105741
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105741
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000873
+KW  - Unadjusted Langevin algorithm
+KW  - Latent variable models
+KW  - Markov chain Monte Carlo
+AB  - The exact estimation of latent variable models with big data is known to be challenging. The latents have to be integrated out numerically, and the dimension of the latent variables increases with the sample size. This paper develops a novel approximate Bayesian method based on the Langevin diffusion process. The method employs the Fisher identity to integrate out the latent variables, which makes it accurate and computationally feasible when applied to big data. In contrast to other approximate estimation methods, it does not require the choice of a parametric distribution for the unknowns, which often leads to inaccuracies. In an empirical discrete choice example with a million observations, the proposed method accurately estimates the posterior choice probabilities using only 2% of the computation time of exact MCMC.
+ER  - 
+
+TY  - JOUR
+T1  - Extreme expectile estimation for short-tailed data
+AU  - Daouia, Abdelaati
+AU  - Padoan, Simone A.
+AU  - Stupfler, Gilles
+JO  - Journal of Econometrics
+VL  - 241
+IS  - 2
+SP  - 105770
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105770
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001167
+KW  - Expectiles
+KW  - Extreme values
+KW  - Second-order condition
+KW  - Short tails
+KW  - Weak dependence
+AB  - The use of expectiles in risk management has recently gathered remarkable momentum due to their excellent axiomatic and probabilistic properties. In particular, the class of elicitable law-invariant coherent risk measures only consists of expectiles. While the theory of expectile estimation at central levels is substantial, tail estimation at extreme levels has so far only been considered when the tail of the underlying distribution is heavy. This article is the first work to handle the short-tailed setting where the loss (e.g. negative log-returns) distribution of interest is bounded to the right and the corresponding extreme value index is negative. This is motivated by the assessment of long-term market risk carried by low-frequency (e.g. weekly) returns of equities that show evidence of being generated from short-tailed distributions. We derive an asymptotic expansion of tail expectiles in this challenging context under a general second-order extreme value condition, which allows to come up with two semiparametric estimators of extreme expectiles, and with their asymptotic properties in a general model of strictly stationary but weakly dependent observations. We also extend the applicability of the proposed method to the regression setting. A simulation study and a real data analysis from a forecasting perspective are performed to compare the proposed competing estimation procedures.
+ER  - 

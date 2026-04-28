@@ -1,0 +1,163 @@
+TY  - JOUR
+T1  - Estimating a class of triangular simultaneous equations models without exclusion restrictions
+AU  - Klein, Roger
+AU  - Vella, Francis
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - 154
+EP  - 164
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001675
+KW  - Triangular semiparametric models
+KW  - Heteroscedasticity
+KW  - Identification
+AB  - This paper provides a control function estimator to adjust for endogeneity in the triangular simultaneous equations model where there are no available exclusion restrictions to generate suitable instruments. Our approach is to exploit the dependence of the errors on exogenous variables (e.g. heteroscedasticity) to adjust the conventional control function estimator. The form of the error dependence on the exogenous variables is subject to restrictions, but is not parametrically specified. In addition to providing the estimator and deriving its large-sample properties, we present simulation evidence which indicates the estimator works well.
+ER  - 
+
+TY  - JOUR
+T1  - A comparison of two model averaging techniques with an application to growth empirics
+AU  - Magnus, Jan R.
+AU  - Powell, Owen
+AU  - Prüfer, Patricia
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - 139
+EP  - 153
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001663
+KW  - Model averaging
+KW  - Bayesian analysis
+KW  - Growth determinants
+AB  - Parameter estimation under model uncertainty is a difficult and fundamental issue in econometrics. This paper compares the performance of various model averaging techniques. In particular, it contrasts Bayesian model averaging (BMA) — currently one of the standard methods used in growth empirics — with a new method called weighted-average least squares (WALS). The new method has two major advantages over BMA: its computational burden is trivial and it is based on a transparent definition of prior ignorance. The theory is applied to and sheds new light on growth empirics where a high degree of model uncertainty is typically present.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for heteroskedasticity and serial correlation in a random effects panel data model
+AU  - Baltagi, Badi H.
+AU  - Jung, Byoung Cheol
+AU  - Song, Seuck Heun
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - 122
+EP  - 124
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760900164X
+KW  - Panel data
+KW  - Heteroskedasticity
+KW  - Serial correlation
+KW  - Lagrange multiplier tests
+KW  - Likelihood ratio
+KW  - Random effects
+AB  - This paper considers a panel data regression model with heteroskedastic as well as serially correlated disturbances, and derives a joint LM test for homoskedasticity and no first order serial correlation. The restricted model is the standard random individual error component model. It also derives a conditional LM test for homoskedasticity given serial correlation, as well as, a conditional LM test for no first order serial correlation given heteroskedasticity, all in the context of a random effects panel data model. Monte Carlo results show that these tests along with their likelihood ratio alternatives have good size and power under various forms of heteroskedasticity including exponential and quadratic functional forms.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of spatial autoregressive panel data models with fixed effects
+AU  - Lee, Lung-fei
+AU  - Yu, Jihai
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - 165
+EP  - 185
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760900178X
+KW  - Spatial autoregression
+KW  - Panel data
+KW  - Fixed effects
+KW  - Quasi-maximum likelihood estimation
+KW  - Conditional likelihood
+AB  - This paper establishes asymptotic properties of quasi-maximum likelihood estimators for SAR panel data models with fixed effects and SAR disturbances. A direct approach is to estimate all the parameters including the fixed effects. Because of the incidental parameter problem, some parameter estimators may be inconsistent or their distributions are not properly centered. We propose an alternative estimation method based on transformation which yields consistent estimators with properly centered distributions. For the model with individual effects only, the direct approach does not yield a consistent estimator of the variance parameter unless T is large, but the estimators for other common parameters are the same as those of the transformation approach. We also consider the estimation of the model with both individual and time effects.
+ER  - 
+
+TY  - JOUR
+T1  - On the distribution of the sample autocorrelation coefficients
+AU  - Kan, Raymond
+AU  - Wang, Xiaolu
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - 101
+EP  - 121
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001638
+KW  - Sample autocorrelation coefficient
+KW  - Finite sample distribution
+KW  - Rank-one update
+AB  - Sample autocorrelation coefficients are widely used to test the randomness of a time series. Despite its unsatisfactory performance, the asymptotic normal distribution is often used to approximate the distribution of the sample autocorrelation coefficients. This is mainly due to the lack of an efficient approach in obtaining the exact distribution of sample autocorrelation coefficients. In this paper, we provide an efficient algorithm for evaluating the exact distribution of the sample autocorrelation coefficients. Under the multivariate elliptical distribution assumption, the exact distribution as well as exact moments and joint moments of sample autocorrelation coefficients are presented. In addition, the exact mean and variance of various autocorrelation-based tests are provided. Actual size properties of the Box–Pierce and Ljung–Box tests are investigated, and they are shown to be poor when the number of lags is moderately large relative to the sample size. Using the exact mean and variance of the Box–Pierce test statistic, we propose an adjusted Box–Pierce test that has a far superior size property than the traditional Box–Pierce and Ljung–Box tests.
+ER  - 
+
+TY  - JOUR
+T1  - Activity signature functions for high-frequency data analysis
+AU  - Todorov, Viktor
+AU  - Tauchen, George
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - 125
+EP  - 138
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001651
+KW  - Activity index
+KW  - Blumenthal–Getoor index
+KW  - Jumps
+KW  - Lévy process
+KW  - Realized power variation
+AB  - We define a new concept termed activity signature function, which is constructed from discrete observations of a continuous-time process, and derive its asymptotic properties as the sampling frequency increases. We show that the function is a useful device for estimating the activity level of the underlying process and in particular for deciding whether the process contains a continuous martingale. An application to $ /DM exchange rate over 1986–1999 indicates that a jump-diffusion model is more plausible than a pure-jump model. A second application to internet traffic at NASA servers shows that an infinite variation pure-jump model is appropriate for its modeling.
+ER  - 
+
+TY  - JOUR
+T1  - An improved bootstrap test of stochastic dominance
+AU  - Linton, Oliver
+AU  - Song, Kyungchul
+AU  - Whang, Yoon-Jae
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - 186
+EP  - 202
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001882
+KW  - Stochastic dominance
+KW  - Inequality restrictions
+KW  - Bootstrap
+KW  - Set estimation
+AB  - We propose a new method of testing stochastic dominance that improves on existing tests based on the standard bootstrap or subsampling. The method admits prospects involving infinite as well as finite dimensional unknown parameters, so that the variables are allowed to be residuals from nonparametric and semiparametric models. The proposed bootstrap tests have asymptotic sizes that are less than or equal to the nominal level uniformly over probabilities in the null hypothesis under regularity conditions. This paper also characterizes the set of probabilities so that the asymptotic size is exactly equal to the nominal level uniformly. As our simulation results show, these characteristics of our tests lead to an improved power property in general. The improvement stems from the design of the bootstrap test whose limiting behavior mimics the discontinuity of the original test’s limiting distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 154
+IS  - 2
+SP  - IFC
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(09)00249-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002498
+ER  - 

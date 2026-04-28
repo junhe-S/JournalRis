@@ -1,0 +1,169 @@
+TY  - JOUR
+T1  - Bias corrections for two-step fixed effects panel data estimators
+AU  - Fernández-Val, Iván
+AU  - Vella, Francis
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - 144
+EP  - 162
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000649
+KW  - Panel data
+KW  - Two-step estimation
+KW  - Endogenous regressors
+KW  - Fixed effects
+KW  - Sample selection bias
+KW  - Union premium
+AB  - This paper introduces large-T bias-corrected estimators for nonlinear panel data models with both time invariant and time varying heterogeneity. These models include systems of equations with limited dependent variables and unobserved individual effects, and sample selection models with unobserved individual effects. Our two-step approach first estimates the reduced form by fixed effects procedures to obtain estimates of the time varying heterogeneity underlying the endogeneity/selection bias. We then estimate the primary equation by fixed effects including an appropriately constructed control variable from the reduced form estimates as an additional explanatory variable. The fixed effects approach in this second step captures the time invariant heterogeneity while the control variable accounts for the time varying heterogeneity. Since either or both steps might employ nonlinear fixed effects procedures it is necessary to bias adjust the estimates due to the incidental parameters problem. This problem is exacerbated by the two-step nature of the procedure. As these two-step approaches are not covered in the existing literature we derive the appropriate correction thereby extending the use of large-T bias adjustments to an important class of models. Simulation evidence indicates our approach works well in finite samples and an empirical example illustrates the applicability of our estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification of a binary random factor in cross section data
+AU  - Dong, Yingying
+AU  - Lewbel, Arthur
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - 163
+EP  - 171
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000650
+KW  - Mixture model
+KW  - Random effects
+KW  - Binary
+KW  - Unobserved factor
+KW  - Unobserved regressor
+KW  - Nonparametric identification
+KW  - Deconvolution
+KW  - Treatment
+AB  - Suppose V and U are two independent mean zero random variables, where V has an asymmetric distribution with two mass points and U has some zero odd moments (having a symmetric distribution suffices). We show that the distributions of V and U are nonparametrically identified just from observing the sum V+U, and provide a pointwise rate root n estimator. This can permit point identification of average treatment effects when the econometrician does not observe who was treated. We extend our results to include covariates X, showing that we can nonparametrically identify and estimate cross section regression models of the form Y=g(X,D∗)+U, where D∗ is an unobserved binary regressor.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic distributions of impulse response functions in short panel vector autoregressions
+AU  - Cao, Bolong
+AU  - Sun, Yixiao
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - 127
+EP  - 143
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000662
+KW  - Asymptotic distribution
+KW  - Bootstrap
+KW  - Nonorthogonalized impulse response function
+KW  - Orthogonalized impulse response function
+KW  - Panel data
+KW  - Vector autoregressions
+AB  - This paper establishes the asymptotic distributions of the impulse response functions in panel vector autoregressions with a fixed time dimension. It also proves the asymptotic validity of a bootstrap approximation to their sampling distributions. The autoregressive parameters are estimated using the GMM estimators based on the first differenced equations and the error variance is estimated using an extended analysis-of-variance type estimator. Contrary to the time series setting, we find that the GMM estimator of the autoregressive coefficients is not asymptotically independent of the error variance estimator. The asymptotic dependence calls for variance correction for the orthogonalized impulse response functions. Simulation results show that the variance correction improves the coverage accuracy of both the asymptotic confidence band and the studentized bootstrap confidence band for the orthogonalized impulse response functions.
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood-based scoring rules for comparing density forecasts in tails
+AU  - Diks, Cees
+AU  - Panchenko, Valentyn
+AU  - van Dijk, Dick
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - 215
+EP  - 230
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000807
+KW  - Density forecast evaluation
+KW  - Scoring rules
+KW  - Weighted likelihood ratio scores
+KW  - Conditional likelihood
+KW  - Censored likelihood
+KW  - Risk management
+AB  - We propose new scoring rules based on conditional and censored likelihood for assessing the predictive accuracy of competing density forecasts over a specific region of interest, such as the left tail in financial risk management. These scoring rules can be interpreted in terms of Kullback–Leibler divergence between weighted versions of the density forecast and the true density. Existing scoring rules based on weighted likelihood favor density forecasts with more probability mass in the given region, rendering predictive accuracy tests biased toward such densities. Using our novel likelihood-based scoring rules avoids this problem.
+ER  - 
+
+TY  - JOUR
+T1  - A class of simple distribution-free rank-based unit root tests
+AU  - Hallin, Marc
+AU  - van den Akker, Ramon
+AU  - Werker, Bas J.M.
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - 200
+EP  - 214
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000698
+KW  - Unit root
+KW  - Dickey–Fuller test
+KW  - Local asymptotic normality
+KW  - Rank test
+AB  - We propose a class of distribution-free rank-based tests for the null hypothesis of a unit root. This class is indexed by the choice of a reference density g, which need not coincide with the unknown actual innovation density f. The validity of these tests, in terms of exact finite-sample size, is guaranteed, irrespective of the actual underlying density, by distribution-freeness. Those tests are locally and asymptotically optimal under a particular asymptotic scheme, for which we provide a complete analysis of asymptotic relative efficiencies. Rather than stressing asymptotic optimality, however, we emphasize finite-sample performances, which also depend, quite heavily, on initial values. It appears that our rank-based tests significantly outperform the traditional Dickey–Fuller tests, as well as the more recent procedures proposed by Elliott et al. (1996), Ng and Perron (2001), and Elliott and Müller (2006), for a broad range of initial values and for heavy-tailed innovation densities. Thus, they provide a useful complement to existing techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Inference and prediction in a multiple-structural-break model
+AU  - Geweke, John
+AU  - Jiang, Yu
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - 172
+EP  - 185
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000674
+AB  - This paper develops a new Bayesian approach to structural break modeling. The focuses of the approach are the modeling of in-sample structural breaks and forecasting time series allowing out-of-sample breaks. The model has several desirable features. First, the number of regimes is not fixed but is treated as a random variable. Second, the model adopts a hierarchical prior for regime coefficients, which allows for the coefficients of one regime to contain information about coefficients of other regimes. Third, the regime coefficients can be integrated analytically in the posterior density; as a consequence the posterior simulator is fast and reliable. An application to US real GDP quarterly growth rates links groups of regimes to specific historical periods and provides forecasts of future growth rates.
+ER  - 
+
+TY  - JOUR
+T1  - An I(d) model with trend and cycles
+AU  - Abadir, Karim M.
+AU  - Distaso, Walter
+AU  - Giraitis, Liudas
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - 186
+EP  - 199
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000686
+KW  - Fractional integration
+KW  - Trend
+KW  - Cycle
+KW  - Nonlinear process
+KW  - Whittle objective function
+AB  - This paper deals with models allowing for trending processes and cyclical component with error processes that are possibly nonstationary, nonlinear, and non-Gaussian. Asymptotic confidence intervals for the trend, cyclical component, and memory parameters are obtained. The confidence intervals are applicable for a wide class of processes, exhibit good coverage accuracy, and are easy to implement.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 2
+SP  - IFC
+PY  - 2011
+DA  - 2011/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(11)00106-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001060
+ER  - 

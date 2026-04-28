@@ -1,0 +1,363 @@
+TY  - JOUR
+T1  - Granger causality and path diagrams for multivariate time series
+AU  - Eichler, Michael
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 334
+EP  - 353
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.06.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000480
+KW  - Granger causality
+KW  - Graphical models
+KW  - Spurious causality
+KW  - Multivariate time series
+KW  - Causal inference
+AB  - In this paper, we introduce path diagrams for multivariate time series which visualize the dynamic relationships among the variables. In these path diagrams, the vertices represent the components of the time series and are connected by arrows or lines according to the nonvanishing parameters in the autoregressive representation of the time series. We show that these path diagrams provide a framework for the analysis of the dependence structure of the time series. In particular, we give sufficient graphical conditions for Granger-noncausality and Granger-noncausality up to a certain horizon.
+ER  - 
+
+TY  - JOUR
+T1  - A simple approach to the parametric estimation of potentially nonstationary diffusions
+AU  - Bandi, Federico M.
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 354
+EP  - 395
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.06.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000492
+KW  - Diffusion
+KW  - Drift
+KW  - Local time
+KW  - Parametric estimation
+KW  - Stochastic differential equation
+AB  - A simple and robust approach is proposed for the parametric estimation of scalar homogeneous stochastic differential equations. We specify a parametric class of diffusions and estimate the parameters of interest by minimizing criteria based on the integrated squared difference between kernel estimates of the drift and diffusion functions and their parametric counterparts. The procedure does not require simulations or approximations to the true transition density and has the simplicity of standard nonlinear least-squares methods in discrete time. A complete asymptotic theory for the parametric estimates is developed. The limit theory relies on infill and long span asymptotics and is robust to deviations from stationarity, requiring only recurrence.
+ER  - 
+
+TY  - JOUR
+T1  - GMM and 2SLS estimation of mixed regressive, spatial autoregressive models
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 489
+EP  - 514
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000662
+KW  - Spatial econometrics
+KW  - Spatial autoregressive models
+KW  - Regression
+KW  - 2SLS
+KW  - GMM
+KW  - ML
+KW  - Efficiency
+AB  - The GMM method and the classical 2SLS method are considered for the estimation of mixed regressive, spatial autoregressive models. These methods have computational advantage over the conventional maximum likelihood method. The proposed GMM estimators are shown to be consistent and asymptotically normal. Within certain classes of GMM estimators, best ones are derived. The proposed GMM estimators improve upon the 2SLS estimators and are applicable even if all regressors are irrelevant. A best GMM estimator may have the same limiting distribution as the ML estimator (with normal disturbances).
+ER  - 
+
+TY  - JOUR
+T1  - Gaussian semiparametric estimation of multivariate fractionally integrated processes
+AU  - Shimotsu, Katsumi
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 277
+EP  - 310
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000443
+KW  - Fractional integration
+KW  - Long memory
+KW  - Semiparametric estimation
+AB  - This paper analyzes the semiparametric estimation of multivariate long-range dependent processes. The class of spectral densities considered is motivated by and includes those of multivariate fractionally integrated processes. The paper establishes the consistency of the multivariate Gaussian semiparametric estimator (GSE), which has not been shown in other work, and the asymptotic normality of the GSE estimator. The proposed GSE estimator is shown to have a smaller limiting variance than the two-step GSE estimator studied by Lobato [1999. A semiparametric two-step estimator in a multivariate long memory model. Journal of Econometrics 90, 129–153]. Gaussianity is not assumed in the asymptotic theory. Some simulations confirm the relevance of the asymptotic results in samples of the size used in practical work.
+ER  - 
+
+TY  - JOUR
+T1  - Alternative approximations of the bias and MSE of the IV estimator under weak identification with an application to bias correction
+AU  - Chao, John
+AU  - Swanson, Norman R.
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 515
+EP  - 555
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000674
+KW  - Confluent hypergeometric function
+KW  - Laplace approximation
+KW  - Local-to-zero asymptotics
+KW  - Weak instruments
+AB  - We provide analytical formulae for the asymptotic bias (ABIAS) and mean-squared error (AMSE) of the IV estimator, and obtain approximations thereof based on an asymptotic scheme which essentially requires the expectation of the first stage F-statistic to converge to a finite (possibly small) positive limit as the number of instruments approaches infinity. Our analytical formulae can be viewed as generalizing the bias and MSE results of [Richardson and Wu 1971. A note on the comparison of ordinary and two-stage least squares estimators. Econometrica 39, 973–982] to the case with nonnormal errors and stochastic instruments. Our approximations are shown to compare favorably with approximations due to [Morimune 1983. Approximate distributions of k-class estimators when the degree of overidentifiability is large compared with the sample size. Econometrica 51, 821–841] and [Donald and Newey 2001. Choosing the number of instruments. Econometrica 69, 1161–1191], particularly when the instruments are weak. We also construct consistent estimators for the ABIAS and AMSE, and we use these to further construct a number of bias corrected OLS and IV estimators, the properties of which are examined both analytically and via a series of Monte Carlo experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Decisionmetrics: A decision-based approach to econometric modelling
+AU  - Skouras, Spyros
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 414
+EP  - 440
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000510
+KW  - Statistical decision theory
+KW  - Misspecification
+KW  - Statistical risk
+KW  - Loss function
+KW  - Parametric action rules
+KW  - Financial decision-making
+KW  - Technical analysis
+AB  - An approach to developing a possibly misspecified econometric model that will be used as the beliefs of an expected utility maximiser is proposed. This approach builds on a novel objective function that measures the value of predictive distributions in decision-making and is used in model estimation, selection and evaluation. The methods proposed also provide an econometric approach for developing arbitrary parametric action rules such as technical trading rules. The approach is compared in detail with existing methods and is applied in the context of a CARA investor's decision problem where analytical and empirical results suggest it is very effective.
+ER  - 
+
+TY  - JOUR
+T1  - Interval estimation of value-at-risk based on GARCH models with heavy-tailed innovations
+AU  - Hang Chan, Ngai
+AU  - Deng, Shi-Jie
+AU  - Peng, Liang
+AU  - Xia, Zhendong
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 556
+EP  - 576
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000686
+KW  - Data tilting
+KW  - GARCH models
+KW  - Heavy tail
+KW  - Tail empirical process
+KW  - Value-at-risk
+AB  - ARCH and GARCH models are widely used to model financial market volatilities in risk management applications. Considering a GARCH model with heavy-tailed innovations, we characterize the limiting distribution of an estimator of the conditional value-at-risk (VaR), which corresponds to the extremal quantile of the conditional distribution of the GARCH process. We propose two methods, the normal approximation method and the data tilting method, for constructing confidence intervals for the conditional VaR estimator and assess their accuracies by simulation studies. Finally, we apply the proposed approach to an energy market data set.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal statistical decisions about some alternative financial models
+AU  - Stummer, Wolfgang
+AU  - Vajda, Igor
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 441
+EP  - 471
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000522
+KW  - Generalized Black–Scholes–Merton models
+KW  - Bayesian decisions
+KW  - Neyman–Pearson testing
+KW  - Statistical divergences of hypothetic and alternative distributions
+KW  - Cressie–Read divergences
+KW  - Hellinger integrals
+KW  - Renyi distances
+KW  - Total variation distance
+AB  - We study Neyman–Pearson testing and Bayesian decision making based on observations of the price dynamics (Xt:t∈[0,T]) of a financial asset, when the hypothesis is the classical geometric Brownian motion with a given constant growth rate and the alternative is a different random diffusion process with a given, possibly price-dependent, growth rate. Examples of asset price observations are introduced and used throughout the paper to demonstrate the applicability of the theory. By a rigorous mathematical approach, we obtain exact formulae and bounds for the most common statistical characteristics of testing and decision making, such as the power of test (type II error probability), the Bayes factor and its moments (power divergences), and the Bayes risk or Bayes error. These bounds can be much more easily evaluated than the exact formulae themselves and, consequently, they are useful for practical applications. An important theoretical conclusion of this paper is that for the class of alternatives considered neither the risk nor the errors converge to zero faster than exponentially in the observation time T. We illustrate in concrete decision situations that the actual rate of convergence is well approximated by the bounds given in the paper.
+ER  - 
+
+TY  - JOUR
+T1  - On efficient estimation of the ordered response model
+AU  - Coppejans, Mark
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 577
+EP  - 614
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000698
+KW  - Ordered response
+KW  - Efficiency
+KW  - B-splines
+KW  - Sieve
+KW  - Monotonicity
+AB  - In this paper, we derive efficiency bounds for the ordered response model when the distribution of the errors is unknown. Furthermore, we develop an estimator that is efficient under suitable conditions. Interestingly, neither the bounds nor the estimator are trivial extensions of what has been proposed in the literature for the binary response model. The estimator is composed of quadratic B-splines, and estimation is performed by the method of sieves. In addition, the estimator of the distribution function is restricted to be a proper distribution function. An empirical example on the effect of fees on attendance rates at universities and community colleges is also included; we get substantively different results by relaxing the assumption that the distribution of the errors is normal.
+ER  - 
+
+TY  - JOUR
+T1  - A robust version of the KPSS test based on indicators
+AU  - de Jong, Robert M.
+AU  - Amsler, Christine
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 311
+EP  - 333
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000479
+KW  - Unit root testing
+KW  - Time series
+KW  - Asymptotic theory
+AB  - This paper proposes a test of the null hypothesis of stationarity that is robust to the presence of fat-tailed errors. The test statistic is a modified version of the so-called KPSS statistic. The modified statistic uses the “sign” of the data minus the sample median, whereas KPSS used deviations from means. This “indicator” KPSS statistic has the same limit distribution as the standard KPSS statistic under the null, without relying on assumptions about moments, but a different limit distribution under unit root alternatives. The indicator test has lower power than standard KPSS when tails are thin, but higher power when tails are fat.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for ARCH in the presence of nonlinearity of unknown form in the conditional mean
+AU  - Blake, Andrew P.
+AU  - Kapetanios, George
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 472
+EP  - 488
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000558
+KW  - Nonlinearity
+KW  - ARCH
+KW  - Neural networks
+AB  - Tests of ARCH are a routine diagnostic in empirical econometric and financial analysis. However, it is well known that misspecification of the conditional mean may lead to spurious rejection of the null hypothesis of no ARCH. Nonlinearity is a prime example of this phenomenon. There is little work on the extent of the effect of neglected nonlinearity on the properties of ARCH tests. We investigate this using new ARCH testing procedures that are robust to the presence of neglected nonlinearity. Monte Carlo evidence shows that the problem is serious and that the new methods alleviate this problem to a very large extent. We apply the new tests to exchange rate data and find substantial evidence of spurious rejection of the null hypothesis of no ARCH.
+ER  - 
+
+TY  - JOUR
+T1  - MCMC maximum likelihood for latent state models
+AU  - Jacquier, Eric
+AU  - Johannes, Michael
+AU  - Polson, Nicholas
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 615
+EP  - 640
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.11.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000704
+KW  - MCMC
+KW  - Maximum likelihood
+KW  - Optimization
+KW  - Simulated annealing
+KW  - Evolutionary Monte-Carlo
+KW  - Stochastic volatility
+KW  - Jumps
+KW  - Diffusion
+KW  - Financial econometrics
+AB  - This paper develops a pure simulation-based approach for computing maximum likelihood estimates in latent state variable models using Markov Chain Monte Carlo methods (MCMC). Our MCMC algorithm simultaneously evaluates and optimizes the likelihood function without resorting to gradient methods. The approach relies on data augmentation, with insights similar to simulated annealing and evolutionary Monte Carlo algorithms. We prove a limit theorem in the degree of data augmentation and use this to provide standard errors and convergence diagnostics. The resulting estimator inherits the sampling asymptotic properties of maximum likelihood. We demonstrate the approach on two latent state models central to financial econometrics: a stochastic volatility and a multivariate jump-diffusion models. We find that convergence to the MLE is fast, requiring only a small degree of augmentation.
+ER  - 
+
+TY  - JOUR
+T1  - Model comparison of coordinate-free multivariate skewed distributions with an application to stochastic frontiers
+AU  - Ferreira, José T.A.S.
+AU  - Steel, Mark F.J.
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 641
+EP  - 673
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.11.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000716
+KW  - Coordinate-free distributions
+KW  - Dairy farm
+KW  - Multivariate skewness
+KW  - Orthogonal transformation
+KW  - Stochastic frontier
+AB  - We consider classes of multivariate distributions which can model skewness and are closed under orthogonal transformations. We review two classes of such distributions proposed in the literature and focus our attention on a particular, yet quite flexible, subclass of one of these classes. Members of this subclass are defined by affine transformations of univariate (skewed) distributions that ensure the existence of a set of coordinate axes along which there is independence and the marginals are known analytically. The choice of an appropriate m-dimensional skewed distribution is then restricted to the simpler problem of choosing m univariate skewed distributions. We introduce a Bayesian model comparison setup for selection of these univariate skewed distributions. The analysis does not rely on the existence of moments (allowing for any tail behaviour) and uses equivalent priors on the common characteristics of the different models. Finally, we apply this framework to multi-output stochastic frontiers using data from Dutch dairy farms.
+ER  - 
+
+TY  - JOUR
+T1  - Marginal likelihood and unit roots
+AU  - Francke, Marc K.
+AU  - de Vos, Aart F.
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 708
+EP  - 728
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760600073X
+KW  - Asymptotic distribution
+KW  - The autoregressive moving average model
+KW  - Hypothesis testing
+AB  - We develop new tests for the hypothesis of unit roots that are based on the marginal likelihood of the general linear model. The marginal likelihood allows the incorporation of invariance arguments in the likelihood function. It turns out that marginal likelihood tests for unit roots appear to be more powerful than other unit root tests. For some basic models power functions almost coincide with the power envelopes, even in small samples. General correlation structures can be incorporated, either by standard likelihood procedures or by adjustments of the test statistics on the basis of asymptotic distributions.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on inequality from household survey data
+AU  - Bhattacharya, Debopam
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 674
+EP  - 707
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000728
+KW  - Complex survey
+KW  - Inequality
+KW  - Lorenz process
+KW  - Hadamard differentiable
+KW  - Gini
+KW  - Dominance
+AB  - I develop a theory of asymptotic inference for the Lorenz curve and the Gini coefficient for testing economic inequality when the data come from stratified and clustered household surveys with large number of clusters per stratum. Using the asymptotic framework of Bhattacharya [Asymptotic Inference from multi-stage surveys. Journal of Econometrics 126(1), 145–171], I derive a weak convergence result for the continuously-indexed Lorenz process even when the underlying density is not uniformly bounded away from zero. I provide analytical formulae for the asymptotic covariance functions that are corrected for both stratification and clustering and develop consistent tests for Lorenz dominance. Inference on the Gini coefficient follows as a corollary. The methods are applied to per capita household expenditure data from the complexly designed Indian national sample survey to test for changes in inequality before and after the reforms of the early 1990s. Ignoring the survey design is seen to produce qualitatively different results, especially in the urban sector where the population sorts more completely into rich and poor neighborhoods.
+ER  - 
+
+TY  - JOUR
+T1  - Finite sample properties of maximum likelihood estimator in spatial models
+AU  - Bao, Yong
+AU  - Ullah, Aman
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - 396
+EP  - 413
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000509
+KW  - Bias
+KW  - Mean squared error
+KW  - Spatial autoregressive model
+AB  - We investigate the finite sample properties of the maximum likelihood estimator for the spatial autoregressive model. A stochastic expansion of the score function is used to develop the second-order bias and mean squared error of the maximum likelihood estimator. We show that the results can be expressed in terms of the expectations of cross products of quadratic forms, or ratios of quadratic forms in a normal vector which can be evaluated using the top order invariant polynomial. Our numerical calculations demonstrate that the second-order behaviors of the maximum likelihood estimator depend on the degree of sparseness of the weights matrix.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 2
+SP  - CO2
+PY  - 2007
+DA  - 2007/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(07)00030-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607000309
+ER  - 

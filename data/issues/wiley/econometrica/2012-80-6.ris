@@ -1,0 +1,827 @@
+
+TY  - JOUR
+T1  - Frontmatter of Econometrica Vol. 80 Iss. 6
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA806FM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - i
+EP  - vi
+VL  - 80
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA806FM
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Sparse Models and Methods for Optimal Instruments With an Application to Eminent Domain
+AU  - Belloni, A.
+AU  - Chen, D.
+AU  - Chernozhukov, V.
+AU  - Hansen, C.
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9626
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2369
+EP  - 2429
+VL  - 80
+IS  - 6
+KW  - Inference on a low-dimensional parameter after model selection
+KW  - imperfect model selection
+KW  - instrumental variables
+KW  - Lasso
+KW  - post-Lasso
+KW  - data-driven penalty
+KW  - heteroscedasticity
+KW  - non-Gaussian errors
+KW  - moderate deviations for self-normalized sums
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9626
+Y2  - 2024/03/26
+N2  - We develop results for the use of Lasso and post-Lasso methods to form first-stage predictions and estimate optimal instruments in linear instrumental variables (IV) models with many instruments, p. Our results apply even when p is much larger than the sample size, n. We show that the IV estimator based on using Lasso or post-Lasso in the first stage is root-n consistent and asymptotically normal when the first stage is approximately sparse, that is, when the conditional expectation of the endogenous variables given the instruments can be well-approximated by a relatively small set of variables whose identities may be unknown. We also show that the estimator is semiparametrically efficient when the structural error is homoscedastic. Notably, our results allow for imperfect model selection, and do not rely upon the unrealistic ?beta-min? conditions that are widely used to establish validity of inference following model selection (see also Belloni, Chernozhukov, and Hansen (2011b)). In simulation experiments, the Lasso-based IV estimator with a data-driven penalty performs well compared to recently advocated many-instrument robust procedures. In an empirical example dealing with the effect of judicial eminent domain decisions on economic outcomes, the Lasso-based IV estimator outperforms an intuitive benchmark. Optimal instruments are conditional expectations. In developing the IV results, we establish a series of new results for Lasso and post-Lasso estimators of nonparametric conditional expectation functions which are of independent theoretical and practical interest. We construct a modification of Lasso designed to deal with non-Gaussian, heteroscedastic disturbances that uses a data-weighted ?1-penalty function. By innovatively using moderate deviation theory for self-normalized sums, we provide convergence rates for the resulting Lasso and post-Lasso estimators that are as sharp as the corresponding rates in the homoscedastic Gaussian case under the condition that logp = o(n1/3). We also provide a data-driven method for choosing the penalty level that must be specified in obtaining Lasso and post-Lasso estimates and establish its asymptotic validity under non-Gaussian, heteroscedastic disturbances.
+ER  - 
+
+TY  - JOUR
+T1  - Sparse Models and Methods for Optimal Instruments With an Application to Eminent Domain
+AU  - Belloni, A.
+AU  - Chen, D.
+AU  - Chernozhukov, V.
+AU  - Hansen, C.
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9626
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2369
+EP  - 2429
+VL  - 80
+IS  - 6
+KW  - Inference on a low-dimensional parameter after model selection
+KW  - imperfect model selection
+KW  - instrumental variables
+KW  - Lasso
+KW  - post-Lasso
+KW  - data-driven penalty
+KW  - heteroscedasticity
+KW  - non-Gaussian errors
+KW  - moderate deviations for self-normalized sums
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9626
+Y2  - 2024/03/26
+N2  - We develop results for the use of Lasso and post-Lasso methods to form first-stage predictions and estimate optimal instruments in linear instrumental variables (IV) models with many instruments, p. Our results apply even when p is much larger than the sample size, n. We show that the IV estimator based on using Lasso or post-Lasso in the first stage is root-n consistent and asymptotically normal when the first stage is approximately sparse, that is, when the conditional expectation of the endogenous variables given the instruments can be well-approximated by a relatively small set of variables whose identities may be unknown. We also show that the estimator is semiparametrically efficient when the structural error is homoscedastic. Notably, our results allow for imperfect model selection, and do not rely upon the unrealistic ?beta-min? conditions that are widely used to establish validity of inference following model selection (see also Belloni, Chernozhukov, and Hansen (2011b)). In simulation experiments, the Lasso-based IV estimator with a data-driven penalty performs well compared to recently advocated many-instrument robust procedures. In an empirical example dealing with the effect of judicial eminent domain decisions on economic outcomes, the Lasso-based IV estimator outperforms an intuitive benchmark. Optimal instruments are conditional expectations. In developing the IV results, we establish a series of new results for Lasso and post-Lasso estimators of nonparametric conditional expectation functions which are of independent theoretical and practical interest. We construct a modification of Lasso designed to deal with non-Gaussian, heteroscedastic disturbances that uses a data-weighted ?1-penalty function. By innovatively using moderate deviation theory for self-normalized sums, we provide convergence rates for the resulting Lasso and post-Lasso estimators that are as sharp as the corresponding rates in the homoscedastic Gaussian case under the condition that logp = o(n1/3). We also provide a data-driven method for choosing the penalty level that must be specified in obtaining Lasso and post-Lasso estimates and establish its asymptotic validity under non-Gaussian, heteroscedastic disturbances.
+ER  - 
+
+TY  - JOUR
+T1  - Constrained Efficiency in the Neoclassical Growth Model With Uninsurable Idiosyncratic Shocks
+AU  - Dávila, Julio
+AU  - Hong, Jay H.
+AU  - Krusell, Per
+AU  - Ríos-Rull, José-Víctor
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA5989
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2431
+EP  - 2467
+VL  - 80
+IS  - 6
+KW  - Constrained efficiency
+KW  - uninsurable shocks
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA5989
+Y2  - 2024/03/26
+N2  - We investigate the welfare properties of the one-sector neoclassical growth model with uninsurable idiosyncratic shocks. We focus on the notion of constrained efficiency used in the general equilibrium literature. Our characterization of constrained efficiency uses the first-order condition of a constrained planner's problem. This condition highlights the margins of relevance for whether capital is too high or too low: the factor composition of income of the (consumption-)poor. Using three calibrations commonly considered in the literature, we illustrate that there can be either over- or underaccumulation of capital in steady state and that the constrained optimum may or may not be consistent with a nondegenerate long-run distribution of wealth. For the calibration that roughly matches the income and wealth distribution, the constrained inefficiency of the market outcome is rather striking: it has much too low a steady-state capital stock.
+ER  - 
+
+TY  - JOUR
+T1  - Constrained Efficiency in the Neoclassical Growth Model With Uninsurable Idiosyncratic Shocks
+AU  - Dávila, Julio
+AU  - Hong, Jay H.
+AU  - Krusell, Per
+AU  - Ríos-Rull, José-Víctor
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA5989
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2431
+EP  - 2467
+VL  - 80
+IS  - 6
+KW  - Constrained efficiency
+KW  - uninsurable shocks
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA5989
+Y2  - 2024/03/26
+N2  - We investigate the welfare properties of the one-sector neoclassical growth model with uninsurable idiosyncratic shocks. We focus on the notion of constrained efficiency used in the general equilibrium literature. Our characterization of constrained efficiency uses the first-order condition of a constrained planner's problem. This condition highlights the margins of relevance for whether capital is too high or too low: the factor composition of income of the (consumption-)poor. Using three calibrations commonly considered in the literature, we illustrate that there can be either over- or underaccumulation of capital in steady state and that the constrained optimum may or may not be consistent with a nondegenerate long-run distribution of wealth. For the calibration that roughly matches the income and wealth distribution, the constrained inefficiency of the market outcome is rather striking: it has much too low a steady-state capital stock.
+ER  - 
+
+TY  - JOUR
+T1  - Capital Mobility and Asset Pricing
+AU  - Duffie, Darrell
+AU  - Strulovici, Bruno
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8822
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2469
+EP  - 2509
+VL  - 80
+IS  - 6
+KW  - Capital mobility
+KW  - market frictions
+KW  - financial intermediation
+KW  - law of one price
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8822
+Y2  - 2024/03/26
+N2  - We present a model for the equilibrium movement of capital between asset markets that are distinguished only by the levels of capital invested in each. Investment in that market with the greatest amount of capital earns the lowest risk premium. Intermediaries optimally trade off the costs of intermediation against fees that depend on the gain they can offer to investors for moving their capital to the market with the higher mean return. The bargaining power of an investor depends on potential access to alternative intermediaries. In equilibrium, the speeds of adjustment of mean returns and of capital between the two markets are increasing in the degree to which capital is imbalanced between the two markets, and can be reduced by competition among intermediaries.
+ER  - 
+
+TY  - JOUR
+T1  - Capital Mobility and Asset Pricing
+AU  - Duffie, Darrell
+AU  - Strulovici, Bruno
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8822
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2469
+EP  - 2509
+VL  - 80
+IS  - 6
+KW  - Capital mobility
+KW  - market frictions
+KW  - financial intermediation
+KW  - law of one price
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8822
+Y2  - 2024/03/26
+N2  - We present a model for the equilibrium movement of capital between asset markets that are distinguished only by the levels of capital invested in each. Investment in that market with the greatest amount of capital earns the lowest risk premium. Intermediaries optimally trade off the costs of intermediation against fees that depend on the gain they can offer to investors for moving their capital to the market with the higher mean return. The bargaining power of an investor depends on potential access to alternative intermediaries. In equilibrium, the speeds of adjustment of mean returns and of capital between the two markets are increasing in the degree to which capital is imbalanced between the two markets, and can be reduced by competition among intermediaries.
+ER  - 
+
+TY  - JOUR
+T1  - Valuing Dealers' Informational Advantage: A Study of Canadian Treasury Auctions
+AU  - Hortaçsu, Ali
+AU  - Kastl, Jakub
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8365
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2511
+EP  - 2542
+VL  - 80
+IS  - 6
+KW  - Multi-unit auctions
+KW  - treasury auctions
+KW  - structural estimation
+KW  - nonparametric identification and estimation
+KW  - test for common values
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8365
+Y2  - 2024/03/26
+N2  - In many financial markets, dealers have the advantage of observing the orders of their customers. To quantify the economic benefit that dealers derive from this advantage, we study detailed data from Canadian Treasury auctions, where dealers observe customer bids while preparing their own bids. In this setting, dealers can use information on customer bids to learn about (i) competition, that is, the distribution of competing bids in the auction, and (ii) fundamentals, that is, the ex post value of the security being auctioned. We devise formal hypothesis tests for both sources of informational advantage. In our data, we do not find evidence that dealers are learning about fundamentals. We find that the ?information about competition? contained in customer bids accounts for 13?27% of dealers' expected profits.
+ER  - 
+
+TY  - JOUR
+T1  - Valuing Dealers' Informational Advantage: A Study of Canadian Treasury Auctions
+AU  - Hortaçsu, Ali
+AU  - Kastl, Jakub
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8365
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2511
+EP  - 2542
+VL  - 80
+IS  - 6
+KW  - Multi-unit auctions
+KW  - treasury auctions
+KW  - structural estimation
+KW  - nonparametric identification and estimation
+KW  - test for common values
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8365
+Y2  - 2024/03/26
+N2  - In many financial markets, dealers have the advantage of observing the orders of their customers. To quantify the economic benefit that dealers derive from this advantage, we study detailed data from Canadian Treasury auctions, where dealers observe customer bids while preparing their own bids. In this setting, dealers can use information on customer bids to learn about (i) competition, that is, the distribution of competing bids in the auction, and (ii) fundamentals, that is, the ex post value of the security being auctioned. We devise formal hypothesis tests for both sources of informational advantage. In our data, we do not find evidence that dealers are learning about fundamentals. We find that the ?information about competition? contained in customer bids accounts for 13?27% of dealers' expected profits.
+ER  - 
+
+TY  - JOUR
+T1  - The Productivity Advantages of Large Cities: Distinguishing Agglomeration From Firm Selection
+AU  - Combes, Pierre-Philippe
+AU  - Duranton, Gilles
+AU  - Gobillon, Laurent
+AU  - Puga, Diego
+AU  - Roux, Sébastien
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8442
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2543
+EP  - 2594
+VL  - 80
+IS  - 6
+KW  - Agglomeration
+KW  - firm selection
+KW  - productivity
+KW  - cities
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8442
+Y2  - 2024/03/26
+N2  - Firms are more productive, on average, in larger cities. Two main explanations have been offered: firm selection (larger cities toughen competition, allowing only the most productive to survive) and agglomeration economies (larger cities promote interactions that increase productivity), possibly reinforced by localized natural advantage. To distinguish between them, we nest a generalized version of a tractable firm selection model and a standard model of agglomeration. Stronger selection in larger cities left-truncates the productivity distribution, whereas stronger agglomeration right-shifts and dilates the distribution. Using this prediction, French establishment-level data, and a new quantile approach, we show that firm selection cannot explain spatial productivity differences. This result holds across sectors, city size thresholds, establishment samples, and area definitions.
+ER  - 
+
+TY  - JOUR
+T1  - The Productivity Advantages of Large Cities: Distinguishing Agglomeration From Firm Selection
+AU  - Combes, Pierre-Philippe
+AU  - Duranton, Gilles
+AU  - Gobillon, Laurent
+AU  - Puga, Diego
+AU  - Roux, Sébastien
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8442
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2543
+EP  - 2594
+VL  - 80
+IS  - 6
+KW  - Agglomeration
+KW  - firm selection
+KW  - productivity
+KW  - cities
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8442
+Y2  - 2024/03/26
+N2  - Firms are more productive, on average, in larger cities. Two main explanations have been offered: firm selection (larger cities toughen competition, allowing only the most productive to survive) and agglomeration economies (larger cities promote interactions that increase productivity), possibly reinforced by localized natural advantage. To distinguish between them, we nest a generalized version of a tractable firm selection model and a standard model of agglomeration. Stronger selection in larger cities left-truncates the productivity distribution, whereas stronger agglomeration right-shifts and dilates the distribution. Using this prediction, French establishment-level data, and a new quantile approach, we show that firm selection cannot explain spatial productivity differences. This result holds across sectors, city size thresholds, establishment samples, and area definitions.
+ER  - 
+
+TY  - JOUR
+T1  - Information Aggregation in Dynamic Markets With Strategic Traders
+AU  - Ostrovsky, Michael
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8479
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2595
+EP  - 2647
+VL  - 80
+IS  - 6
+KW  - Information aggregation
+KW  - efficient market hypothesis
+KW  - rational expectations equilibrium
+KW  - arbitrage
+KW  - prediction markets
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8479
+Y2  - 2024/03/26
+N2  - This paper studies information aggregation in dynamic markets with a finite number of partially informed strategic traders. It shows that, for a broad class of securities, information in such markets always gets aggregated. Trading takes place in a bounded time interval, and in every equilibrium, as time approaches the end of the interval, the market price of a ?separable? security converges in probability to its expected value conditional on the traders' pooled information. If the security is ?non-separable,? then there exists a common prior over the states of the world and an equilibrium such that information does not get aggregated. The class of separable securities includes, among others, Arrow?Debreu securities, whose value is 1 in one state of the world and 0 in all others, and ?additive? securities, whose value can be interpreted as the sum of traders' signals.
+ER  - 
+
+TY  - JOUR
+T1  - Information Aggregation in Dynamic Markets With Strategic Traders
+AU  - Ostrovsky, Michael
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8479
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2595
+EP  - 2647
+VL  - 80
+IS  - 6
+KW  - Information aggregation
+KW  - efficient market hypothesis
+KW  - rational expectations equilibrium
+KW  - arbitrage
+KW  - prediction markets
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8479
+Y2  - 2024/03/26
+N2  - This paper studies information aggregation in dynamic markets with a finite number of partially informed strategic traders. It shows that, for a broad class of securities, information in such markets always gets aggregated. Trading takes place in a bounded time interval, and in every equilibrium, as time approaches the end of the interval, the market price of a ?separable? security converges in probability to its expected value conditional on the traders' pooled information. If the security is ?non-separable,? then there exists a common prior over the states of the world and an equilibrium such that information does not get aggregated. The class of separable securities includes, among others, Arrow?Debreu securities, whose value is 1 in one state of the world and 0 in all others, and ?additive? securities, whose value can be interpreted as the sum of traders' signals.
+ER  - 
+
+TY  - JOUR
+T1  - On the Asymptotic Sizes of Subset Anderson–Rubin and Lagrange Multiplier Tests in Linear Instrumental Variables Regression
+AU  - Guggenberger, Patrik
+AU  - Kleibergen, Frank
+AU  - Mavroeidis, Sophocles
+AU  - Chen, Linchun
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8953
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2649
+EP  - 2666
+VL  - 80
+IS  - 6
+KW  - Asymptotic size
+KW  - linear IV model
+KW  - size distortion
+KW  - subset inference
+KW  - weak instruments
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8953
+Y2  - 2024/03/26
+N2  - We consider tests of a simple null hypothesis on a subset of the coefficients of the exogenous and endogenous regressors in a single-equation linear instrumental variables regression model with potentially weak identification. Existing methods of subset inference (i) rely on the assumption that the parameters not under test are strongly identified, or (ii) are based on projection-type arguments. We show that, under homoskedasticity, the subset Anderson and Rubin (1949) test that replaces unknown parameters by limited information maximum likelihood estimates has correct asymptotic size without imposing additional identification assumptions, but that the corresponding subset Lagrange multiplier test is size distorted asymptotically.
+ER  - 
+
+TY  - JOUR
+T1  - On the Asymptotic Sizes of Subset Anderson–Rubin and Lagrange Multiplier Tests in Linear Instrumental Variables Regression
+AU  - Guggenberger, Patrik
+AU  - Kleibergen, Frank
+AU  - Mavroeidis, Sophocles
+AU  - Chen, Linchun
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8953
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2649
+EP  - 2666
+VL  - 80
+IS  - 6
+KW  - Asymptotic size
+KW  - linear IV model
+KW  - size distortion
+KW  - subset inference
+KW  - weak instruments
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8953
+Y2  - 2024/03/26
+N2  - We consider tests of a simple null hypothesis on a subset of the coefficients of the exogenous and endogenous regressors in a single-equation linear instrumental variables regression model with potentially weak identification. Existing methods of subset inference (i) rely on the assumption that the parameters not under test are strongly identified, or (ii) are based on projection-type arguments. We show that, under homoskedasticity, the subset Anderson and Rubin (1949) test that replaces unknown parameters by limited information maximum likelihood estimates has correct asymptotic size without imposing additional identification assumptions, but that the corresponding subset Lagrange multiplier test is size distorted asymptotically.
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood Inference for a Fractionally Cointegrated Vector Autoregressive Model
+AU  - Johansen, Søren
+AU  - Nielsen, Morten Ørregaard
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9299
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2667
+EP  - 2732
+VL  - 80
+IS  - 6
+KW  - Cofractional processes
+KW  - cointegration rank
+KW  - fractional cointegration
+KW  - likelihood inference
+KW  - vector autoregressive model
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9299
+Y2  - 2024/03/26
+N2  - We consider model based inference in a fractionally cointegrated (or cofractional) vector autoregressive model, based on the Gaussian likelihood conditional on initial values. We give conditions on the parameters such that the process Xt is fractional of order d and cofractional of order d?b; that is, there exist vectors ? for which ??Xt is fractional of order d?b and no other fractionality order is possible. For b=1, the model nests the I(d?1) vector autoregressive model. We define the statistical model by 0 < bd, but conduct inference when the true values satisfy 0d0?b0<1/2 and b0?1/2, for which ?0?Xt is (asymptotically) a stationary process. Our main technical contribution is the proof of consistency of the maximum likelihood estimators. To this end, we prove weak convergence of the conditional likelihood as a continuous stochastic process in the parameters when errors are independent and identically distributed with suitable moment conditions and initial values are bounded. Because the limit is deterministic, this implies uniform convergence in probability of the conditional likelihood function. If the true value b0>1/2, we prove that the limit distribution of is mixed Gaussian, while for the remaining parameters it is Gaussian. The limit distribution of the likelihood ratio test for cointegration rank is a functional of fractional Brownian motion of type II. If b0<1/2, all limit distributions are Gaussian or chi-squared. We derive similar results for the model with d?=?b, allowing for a constant term.
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood Inference for a Fractionally Cointegrated Vector Autoregressive Model
+AU  - Johansen, Søren
+AU  - Nielsen, Morten Ørregaard
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9299
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2667
+EP  - 2732
+VL  - 80
+IS  - 6
+KW  - Cofractional processes
+KW  - cointegration rank
+KW  - fractional cointegration
+KW  - likelihood inference
+KW  - vector autoregressive model
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9299
+Y2  - 2024/03/26
+N2  - We consider model based inference in a fractionally cointegrated (or cofractional) vector autoregressive model, based on the Gaussian likelihood conditional on initial values. We give conditions on the parameters such that the process Xt is fractional of order d and cofractional of order d?b; that is, there exist vectors ? for which ??Xt is fractional of order d?b and no other fractionality order is possible. For b=1, the model nests the I(d?1) vector autoregressive model. We define the statistical model by 0 < bd, but conduct inference when the true values satisfy 0d0?b0<1/2 and b0?1/2, for which ?0?Xt is (asymptotically) a stationary process. Our main technical contribution is the proof of consistency of the maximum likelihood estimators. To this end, we prove weak convergence of the conditional likelihood as a continuous stochastic process in the parameters when errors are independent and identically distributed with suitable moment conditions and initial values are bounded. Because the limit is deterministic, this implies uniform convergence in probability of the conditional likelihood function. If the true value b0>1/2, we prove that the limit distribution of is mixed Gaussian, while for the remaining parameters it is Gaussian. The limit distribution of the likelihood ratio test for cointegration rank is a functional of fractional Brownian motion of type II. If b0<1/2, all limit distributions are Gaussian or chi-squared. We derive similar results for the model with d?=?b, allowing for a constant term.
+ER  - 
+
+TY  - JOUR
+T1  - What's News in Business Cycles
+AU  - Schmitt-Grohé, Stephanie
+AU  - Uribe, Martín
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8050
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2733
+EP  - 2764
+VL  - 80
+IS  - 6
+KW  - Anticipated shocks
+KW  - sources of aggregate fluctuations
+KW  - Bayesian estimation
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8050
+Y2  - 2024/03/26
+N2  - In the context of a dynamic, stochastic, general equilibrium model, we perform classical maximum likelihood and Bayesian estimations of the contribution of anticipated shocks to business cycles in the postwar United States. Our identification approach relies on the fact that forward-looking agents react to anticipated changes in exogenous fundamentals before such changes materialize. It further allows us to distinguish changes in fundamentals by their anticipation horizon. We find that anticipated shocks account for about half of predicted aggregate fluctuations in output, consumption, investment, and employment.
+ER  - 
+
+TY  - JOUR
+T1  - What's News in Business Cycles
+AU  - Schmitt-Grohé, Stephanie
+AU  - Uribe, Martín
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8050
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2733
+EP  - 2764
+VL  - 80
+IS  - 6
+KW  - Anticipated shocks
+KW  - sources of aggregate fluctuations
+KW  - Bayesian estimation
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8050
+Y2  - 2024/03/26
+N2  - In the context of a dynamic, stochastic, general equilibrium model, we perform classical maximum likelihood and Bayesian estimations of the contribution of anticipated shocks to business cycles in the postwar United States. Our identification approach relies on the fact that forward-looking agents react to anticipated changes in exogenous fundamentals before such changes materialize. It further allows us to distinguish changes in fundamentals by their anticipation horizon. We find that anticipated shocks account for about half of predicted aggregate fluctuations in output, consumption, investment, and employment.
+ER  - 
+
+TY  - JOUR
+T1  - Monopolistic Competition: Beyond the Constant Elasticity of Substitution
+AU  - Zhelobodko, Evgeny
+AU  - Kokovin, Sergey
+AU  - Parenti, Mathieu
+AU  - Thisse, Jacques-François
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9986
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2765
+EP  - 2784
+VL  - 80
+IS  - 6
+KW  - Monopolistic competition
+KW  - additive preferences
+KW  - love for variety
+KW  - heterogeneous firms
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9986
+Y2  - 2024/03/26
+N2  - We propose a model of monopolistic competition with additive preferences and variable marginal costs. Using the concept of ?relative love for variety,? we provide a full characterization of the free-entry equilibrium. When the relative love for variety increases with individual consumption, the market generates pro-competitive effects. When it decreases, the market mimics anti-competitive behavior. The constant elasticity of substitution is the only case in which all competitive effects are washed out. We also show that our results hold true when the economy involves several sectors, firms are heterogeneous, and preferences are given by the quadratic utility and the translog.
+ER  - 
+
+TY  - JOUR
+T1  - Monopolistic Competition: Beyond the Constant Elasticity of Substitution
+AU  - Zhelobodko, Evgeny
+AU  - Kokovin, Sergey
+AU  - Parenti, Mathieu
+AU  - Thisse, Jacques-François
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9986
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2765
+EP  - 2784
+VL  - 80
+IS  - 6
+KW  - Monopolistic competition
+KW  - additive preferences
+KW  - love for variety
+KW  - heterogeneous firms
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9986
+Y2  - 2024/03/26
+N2  - We propose a model of monopolistic competition with additive preferences and variable marginal costs. Using the concept of ?relative love for variety,? we provide a full characterization of the free-entry equilibrium. When the relative love for variety increases with individual consumption, the market generates pro-competitive effects. When it decreases, the market mimics anti-competitive behavior. The constant elasticity of substitution is the only case in which all competitive effects are washed out. We also show that our results hold true when the economy involves several sectors, firms are heterogeneous, and preferences are given by the quadratic utility and the translog.
+ER  - 
+
+TY  - JOUR
+T1  - Rotten Parents and Disciplined Children: A Politico-Economic Theory of Public Expenditure and Debt
+AU  - Song, Zheng
+AU  - Storesletten, Kjetil
+AU  - Zilibotti, Fabrizio
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8910
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2785
+EP  - 2803
+VL  - 80
+IS  - 6
+KW  - Fiscal policy
+KW  - general equilibrium
+KW  - government debt
+KW  - intergenerational conflict
+KW  - Markov equilibrium
+KW  - political economy
+KW  - public goods
+KW  - repeated voting
+KW  - small open economies
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8910
+Y2  - 2024/03/26
+N2  - This paper proposes a dynamic politico-economic theory of fiscal policy in a world comprising a set of small open economies, whose driving force is the intergenerational conflict over debt, taxes, and public goods. Subsequent generations of voters choose fiscal policy through repeated elections. The presence of young voters induces fiscal discipline, that is, low taxes and low debt accumulation. The paper characterizes the Markov-perfect equilibrium of the voting game in each economy, as well as the stationary equilibrium debt distribution and interest rate of the world economy. The equilibrium can reproduce some salient features of fiscal policy in modern economies.
+ER  - 
+
+TY  - JOUR
+T1  - Rotten Parents and Disciplined Children: A Politico-Economic Theory of Public Expenditure and Debt
+AU  - Song, Zheng
+AU  - Storesletten, Kjetil
+AU  - Zilibotti, Fabrizio
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8910
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2785
+EP  - 2803
+VL  - 80
+IS  - 6
+KW  - Fiscal policy
+KW  - general equilibrium
+KW  - government debt
+KW  - intergenerational conflict
+KW  - Markov equilibrium
+KW  - political economy
+KW  - public goods
+KW  - repeated voting
+KW  - small open economies
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8910
+Y2  - 2024/03/26
+N2  - This paper proposes a dynamic politico-economic theory of fiscal policy in a world comprising a set of small open economies, whose driving force is the intergenerational conflict over debt, taxes, and public goods. Subsequent generations of voters choose fiscal policy through repeated elections. The presence of young voters induces fiscal discipline, that is, low taxes and low debt accumulation. The paper characterizes the Markov-perfect equilibrium of the voting game in each economy, as well as the stationary equilibrium debt distribution and interest rate of the world economy. The equilibrium can reproduce some salient features of fiscal policy in modern economies.
+ER  - 
+
+TY  - JOUR
+T1  - Inference for Parameters Defined by Moment Inequalities: A Recommended Moment Selection Procedure
+AU  - Andrews, Donald W. K.
+AU  - Barwick, Panle Jia
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8166
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2805
+EP  - 2826
+VL  - 80
+IS  - 6
+KW  - Asymptotic size
+KW  - asymptotic power
+KW  - bootstrap
+KW  - confidence set
+KW  - generalized moment selection
+KW  - moment inequalities
+KW  - partial identification
+KW  - refined moment selection
+KW  - test
+KW  - unidentified parameter
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8166
+Y2  - 2024/03/26
+N2  - This paper is concerned with tests and confidence intervals for parameters that are not necessarily point identified and are defined by moment inequalities. In the literature, different test statistics, critical-value methods, and implementation methods (i.e., the asymptotic distribution versus the bootstrap) have been proposed. In this paper, we compare these methods. We provide a recommended test statistic, moment selection critical value, and implementation method. We provide data-dependent procedures for choosing the key moment selection tuning parameter ? and a size-correction factor ?.
+ER  - 
+
+TY  - JOUR
+T1  - Inference for Parameters Defined by Moment Inequalities: A Recommended Moment Selection Procedure
+AU  - Andrews, Donald W. K.
+AU  - Barwick, Panle Jia
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA8166
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2805
+EP  - 2826
+VL  - 80
+IS  - 6
+KW  - Asymptotic size
+KW  - asymptotic power
+KW  - bootstrap
+KW  - confidence set
+KW  - generalized moment selection
+KW  - moment inequalities
+KW  - partial identification
+KW  - refined moment selection
+KW  - test
+KW  - unidentified parameter
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA8166
+Y2  - 2024/03/26
+N2  - This paper is concerned with tests and confidence intervals for parameters that are not necessarily point identified and are defined by moment inequalities. In the literature, different test statistics, critical-value methods, and implementation methods (i.e., the asymptotic distribution versus the bootstrap) have been proposed. In this paper, we compare these methods. We provide a recommended test statistic, moment selection critical value, and implementation method. We provide data-dependent procedures for choosing the key moment selection tuning parameter ? and a size-correction factor ?.
+ER  - 
+
+TY  - JOUR
+T1  - Ambiguity in the Small and in the Large
+AU  - Ghirardato, Paolo
+AU  - Siniscalchi, Marciano
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9367
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2827
+EP  - 2847
+VL  - 80
+IS  - 6
+KW  - Ambiguity
+KW  - Clarke differential
+KW  - optimization
+KW  - unambiguous preference
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9367
+Y2  - 2024/03/26
+N2  - This paper considers local and global multiple-prior representations of ambiguity for preferences that are (i) monotonic, (ii) Bernoullian, that is, admit an affine utility representation when restricted to constant acts, and (iii) locally Lipschitz continuous. We do not require either certainty independence or uncertainty aversion. We show that the set of priors identified by Ghirardato, Maccheroni, and Marinacci's (2004) ?unambiguous preference? relation can be characterized as a union of Clarke differentials. We then introduce a behavioral notion of ?locally better deviation? at an act and show that it characterizes the Clarke differential of the preference representation at that act. These results suggest that the priors identified by these preference statements are directly related to (local) optimizing behavior.
+ER  - 
+
+TY  - JOUR
+T1  - Ambiguity in the Small and in the Large
+AU  - Ghirardato, Paolo
+AU  - Siniscalchi, Marciano
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA9367
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2827
+EP  - 2847
+VL  - 80
+IS  - 6
+KW  - Ambiguity
+KW  - Clarke differential
+KW  - optimization
+KW  - unambiguous preference
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA9367
+Y2  - 2024/03/26
+N2  - This paper considers local and global multiple-prior representations of ambiguity for preferences that are (i) monotonic, (ii) Bernoullian, that is, admit an affine utility representation when restricted to constant acts, and (iii) locally Lipschitz continuous. We do not require either certainty independence or uncertainty aversion. We show that the set of priors identified by Ghirardato, Maccheroni, and Marinacci's (2004) ?unambiguous preference? relation can be characterized as a union of Clarke differentials. We then introduce a behavioral notion of ?locally better deviation? at an act and show that it characterizes the Clarke differential of the preference representation at that act. These results suggest that the priors identified by these preference statements are directly related to (local) optimizing behavior.
+ER  - 
+
+TY  - JOUR
+T1  - Announcements
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA806ANN
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2849
+EP  - 2850
+VL  - 80
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA806ANN
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Forthcoming Papers
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA806FORTH
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2851
+EP  - 2851
+VL  - 80
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA806FORTH
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - The Econometric Society 2011 Annual Report of the President
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA806PRES
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 2853
+EP  - 2857
+VL  - 80
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA806PRES
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Backmatter of Econometrica Vol. 80 Iss. 6
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+DO  - https://doi.org/10.3982/ECTA806BM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - vii
+EP  - ix
+VL  - 80
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA806BM
+Y2  - 2024/03/26
+ER  - 

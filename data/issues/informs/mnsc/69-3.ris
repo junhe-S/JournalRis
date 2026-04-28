@@ -1,0 +1,823 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Optimal Matchmaking Strategy in Two-Sided Marketplaces
+AU  - Shi, Peng
+Y1  - 2022/05/20
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4444
+DO  - 10.1287/mnsc.2022.4444
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1323
+EP  - 1340
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Online platforms that match customers with suitable service providers utilize a wide variety of matchmaking strategies; some create a searchable directory of one side of the market (i.e., Airbnb, Google Local Finder), some allow both sides of the market to search and initiate contact (i.e., Care.com, Upwork), and others implement centralized matching (i.e., Amazon Home Services, TaskRabbit). This paper compares these strategies in terms of their efficiency of matchmaking as proxied by the amount of communication needed to facilitate a good market outcome. The paper finds that the relative performance of these matchmaking strategies is driven by whether the preferences of agents on each side of the market are easy to describe. Here, ?easy to describe? means that the preferences can be inferred with sufficient accuracy based on responses to standardized questionnaires. For markets with suitable characteristics, each of these matchmaking strategies can provide near-optimal performance guarantees according to an analysis based on information theory. The analysis provides prescriptive insights for online platforms.This paper was accepted by Omar Besbes, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4444.
+AB  - Online platforms that match customers with suitable service providers utilize a wide variety of matchmaking strategies; some create a searchable directory of one side of the market (i.e., Airbnb, Google Local Finder), some allow both sides of the market to search and initiate contact (i.e., Care.com, Upwork), and others implement centralized matching (i.e., Amazon Home Services, TaskRabbit). This paper compares these strategies in terms of their efficiency of matchmaking as proxied by the amount of communication needed to facilitate a good market outcome. The paper finds that the relative performance of these matchmaking strategies is driven by whether the preferences of agents on each side of the market are easy to describe. Here, ?easy to describe? means that the preferences can be inferred with sufficient accuracy based on responses to standardized questionnaires. For markets with suitable characteristics, each of these matchmaking strategies can provide near-optimal performance guarantees according to an analysis based on information theory. The analysis provides prescriptive insights for online platforms.This paper was accepted by Omar Besbes, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4444.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4444
+UR  - https://doi.org/10.1287/mnsc.2022.4444
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Nudging Timely Wage Reporting: Field Experimental Evidence from the U.S. Supplemental Security Income Program
+AU  - Zhang, C. Yiwei
+AU  - Hemmeter, Jeffrey
+AU  - Kessler, Judd B.
+AU  - Metcalfe, Robert D.
+AU  - Weathers, Robert
+Y1  - 2022/12/30
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4645
+DO  - 10.1287/mnsc.2022.4645
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1341
+EP  - 1353
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We study a large-scale (n = 50,000) natural field experiment implemented by the U.S. Social Security Administration aimed at increasing the timely and accurate self-reporting of wages by Supplemental Security Income (SSI) recipients. A letter reminding SSI recipients of their wage reporting responsibilities significantly increased both the likelihood of reporting any earnings and the total earnings reported. However, the specific letter content?providing social information or highlighting the salience of penalties?had no systematic effect. We develop a conservative estimate that the letters generated roughly $5.91 in savings per dollar spent, highlighting the value of such a nudge in this important context.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4645.
+AB  - We study a large-scale (n = 50,000) natural field experiment implemented by the U.S. Social Security Administration aimed at increasing the timely and accurate self-reporting of wages by Supplemental Security Income (SSI) recipients. A letter reminding SSI recipients of their wage reporting responsibilities significantly increased both the likelihood of reporting any earnings and the total earnings reported. However, the specific letter content?providing social information or highlighting the salience of penalties?had no systematic effect. We develop a conservative estimate that the letters generated roughly $5.91 in savings per dollar spent, highlighting the value of such a nudge in this important context.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4645.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4645
+UR  - https://doi.org/10.1287/mnsc.2022.4645
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Incentive-Compatible Forecasting Competitions
+AU  - Witkowski, Jens
+AU  - Freeman, Rupert
+AU  - Vaughan, Jennifer Wortman
+AU  - Pennock, David M.
+AU  - Krause, Andreas
+Y1  - 2022/05/17
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4410
+DO  - 10.1287/mnsc.2022.4410
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1354
+EP  - 1374
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We initiate the study of incentive-compatible forecasting competitions in which multiple forecasters make predictions about one or more events and compete for a single prize. We have two objectives: (1) to incentivize forecasters to report truthfully and (2) to award the prize to the most accurate forecaster. Proper scoring rules incentivize truthful reporting if all forecasters are paid according to their scores. However, incentives become distorted if only the best-scoring forecaster wins a prize, since forecasters can often increase their probability of having the highest score by reporting more extreme beliefs. In this paper, we introduce two novel forecasting competition mechanisms. Our first mechanism is incentive compatible and guaranteed to select the most accurate forecaster with probability higher than any other forecaster. Moreover, we show that in the standard single-event, two-forecaster setting and under mild technical conditions, no other incentive-compatible mechanism selects the most accurate forecaster with higher probability. Our second mechanism is incentive compatible when forecasters? beliefs are such that information about one event does not lead to belief updates on other events, and it selects the best forecaster with probability approaching one as the number of events grows. Our notion of incentive compatibility is more general than previous definitions of dominant strategy incentive compatibility in that it allows for reports to be correlated with the event outcomes. Moreover, our mechanisms are easy to implement and can be generalized to the related problems of outputting a ranking over forecasters and hiring a forecaster with high accuracy on future events.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the European Research Council [Grant ERC StG 307036] and the National Science Foundation [Grant CCF-1445755].
+AB  - We initiate the study of incentive-compatible forecasting competitions in which multiple forecasters make predictions about one or more events and compete for a single prize. We have two objectives: (1) to incentivize forecasters to report truthfully and (2) to award the prize to the most accurate forecaster. Proper scoring rules incentivize truthful reporting if all forecasters are paid according to their scores. However, incentives become distorted if only the best-scoring forecaster wins a prize, since forecasters can often increase their probability of having the highest score by reporting more extreme beliefs. In this paper, we introduce two novel forecasting competition mechanisms. Our first mechanism is incentive compatible and guaranteed to select the most accurate forecaster with probability higher than any other forecaster. Moreover, we show that in the standard single-event, two-forecaster setting and under mild technical conditions, no other incentive-compatible mechanism selects the most accurate forecaster with higher probability. Our second mechanism is incentive compatible when forecasters? beliefs are such that information about one event does not lead to belief updates on other events, and it selects the best forecaster with probability approaching one as the number of events grows. Our notion of incentive compatibility is more general than previous definitions of dominant strategy incentive compatibility in that it allows for reports to be correlated with the event outcomes. Moreover, our mechanisms are easy to implement and can be generalized to the related problems of outputting a ranking over forecasters and hiring a forecaster with high accuracy on future events.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the European Research Council [Grant ERC StG 307036] and the National Science Foundation [Grant CCF-1445755].
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4410
+UR  - https://doi.org/10.1287/mnsc.2022.4410
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Implied Volatility Changes and Corporate Bond Returns
+AU  - Cao, Jie
+AU  - Goyal, Amit
+AU  - Xiao, Xiao
+AU  - Zhan, Xintong
+Y1  - 2022/03/25
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4379
+DO  - 10.1287/mnsc.2022.4379
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1375
+EP  - 1397
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Corporate bonds with large increases in implied volatility over the past month underperform those with large decreases in implied volatility by 0.6% per month. In contrast to existing studies that show implied volatility changes carry information about fundamental news, our evidence suggests that implied volatility changes contain information about uncertainty shocks to the firm. Our results are consistent with the notion that informed traders with new information about firm risk prefer to trade in the option market and the corporate bond market underreacts to this information.This paper was accepted by Haoxiang Zhu, finance.Funding: We thank the Canadian Derivatives Institute for financial support. J. Cao and X. Zhan acknowledge generous financial support of the Research Grant Council of the Hong Kong Special Administrative Region, China [Grants GRF 14501720, 14500919].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4379.
+AB  - Corporate bonds with large increases in implied volatility over the past month underperform those with large decreases in implied volatility by 0.6% per month. In contrast to existing studies that show implied volatility changes carry information about fundamental news, our evidence suggests that implied volatility changes contain information about uncertainty shocks to the firm. Our results are consistent with the notion that informed traders with new information about firm risk prefer to trade in the option market and the corporate bond market underreacts to this information.This paper was accepted by Haoxiang Zhu, finance.Funding: We thank the Canadian Derivatives Institute for financial support. J. Cao and X. Zhan acknowledge generous financial support of the Research Grant Council of the Hong Kong Special Administrative Region, China [Grants GRF 14501720, 14500919].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4379.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4379
+UR  - https://doi.org/10.1287/mnsc.2022.4379
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Robust Pricing and Production with Information Partitioning and Adaptation
+AU  - Perakis, Georgia
+AU  - Sim, Melvyn
+AU  - Tang, Qinshen
+AU  - Xiong, Peng
+Y1  - 2022/07/21
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4446
+DO  - 10.1287/mnsc.2022.4446
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1398
+EP  - 1419
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We introduce a new distributionally robust optimization model to address a two-period, multiitem joint pricing and production problem, which can be implemented in a data-driven setting using historical demand and side information pertinent to the prediction of demands. Starting from an additive demand model, we introduce a new partitioned-moment-based ambiguity set to characterize its residuals, which also determines how the second-period demand would evolve from the first-period information in a data-driven setting. We investigate the joint pricing and production problem by proposing a cluster-adapted markdown policy and an affine recourse adaptation, which allow us to reformulate the problem as a mixed-integer linear optimization problem that we can solve to optimality using commercial solvers. We also extend our framework to ensemble methods using a set of ambiguity sets constructed from different clustering approaches. Both the numerical experiments and case study demonstrate the benefits of the cluster-adapted markdown policy and the partitioned moment-based ambiguity set in improving the mean profit over the empirical model?when applied to most out-of-sample tests.This paper was accepted by J. George Shanthikumar, data science.Funding: The research of Q. Tang was supported by Nanyang Technological University [Start-Up Grant 020022-00001] and partly financed by a NUS Business School FY2018 Ph.D. Exchange Fellowship. The research of M. Sim and P. Xiong was supported by the Ministry of Education, Singapore, under its 2019 Academic Research Fund Tier 3 grant call [GrantMOE-2019-T3-1-010].Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4446.
+AB  - We introduce a new distributionally robust optimization model to address a two-period, multiitem joint pricing and production problem, which can be implemented in a data-driven setting using historical demand and side information pertinent to the prediction of demands. Starting from an additive demand model, we introduce a new partitioned-moment-based ambiguity set to characterize its residuals, which also determines how the second-period demand would evolve from the first-period information in a data-driven setting. We investigate the joint pricing and production problem by proposing a cluster-adapted markdown policy and an affine recourse adaptation, which allow us to reformulate the problem as a mixed-integer linear optimization problem that we can solve to optimality using commercial solvers. We also extend our framework to ensemble methods using a set of ambiguity sets constructed from different clustering approaches. Both the numerical experiments and case study demonstrate the benefits of the cluster-adapted markdown policy and the partitioned moment-based ambiguity set in improving the mean profit over the empirical model?when applied to most out-of-sample tests.This paper was accepted by J. George Shanthikumar, data science.Funding: The research of Q. Tang was supported by Nanyang Technological University [Start-Up Grant 020022-00001] and partly financed by a NUS Business School FY2018 Ph.D. Exchange Fellowship. The research of M. Sim and P. Xiong was supported by the Ministry of Education, Singapore, under its 2019 Academic Research Fund Tier 3 grant call [GrantMOE-2019-T3-1-010].Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4446.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4446
+UR  - https://doi.org/10.1287/mnsc.2022.4446
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - From Local to Global: Offshoring and Asset Prices
+AU  - Bretscher, Lorenzo
+Y1  - 2022/04/18
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4393
+DO  - 10.1287/mnsc.2022.4393
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1420
+EP  - 1448
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Industries differ in the extent to which they can offshore their production. I document that industries with low offshoring potential carry a sizeable risk premium compared with industries with high offshoring potential, suggesting that the possibility to offshore affects industry risk. A two-country dynamic trade model in which offshoring allows firms to secure market share against foreign competitors can rationalize the empirical findings.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The online appendix and data files available at https://doi.org/10.1287/mnsc.2022.4393.
+AB  - Industries differ in the extent to which they can offshore their production. I document that industries with low offshoring potential carry a sizeable risk premium compared with industries with high offshoring potential, suggesting that the possibility to offshore affects industry risk. A two-country dynamic trade model in which offshoring allows firms to secure market share against foreign competitors can rationalize the empirical findings.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The online appendix and data files available at https://doi.org/10.1287/mnsc.2022.4393.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4393
+UR  - https://doi.org/10.1287/mnsc.2022.4393
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Manufacturing and Regulatory Barriers to Generic Drug Competition: A Structural Model Approach
+AU  - Wang, Yixin (Iris)
+AU  - Li, Jun
+AU  - Anupindi, Ravi
+Y1  - 2022/04/26
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4423
+DO  - 10.1287/mnsc.2022.4423
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1449
+EP  - 1467
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Understanding the drivers of market concentration in the generic pharmaceutical industry is essential to guaranteeing the availability of low-cost generics. In this paper, we develop a structural model to capture the multiple determinants governing manufacturers? entry decisions; in particular, we focus on how manufacturing complexity and the regulatory environment for generics approval affect concentration in drug markets. We estimate the model using data collated from six disparate sources. We find that manufacturing complexity, as reflected in the number of active ingredients, for example, significantly reduces the likelihood of generics entry. Moreover, the delay in the review process for the generics applications significantly affects the number of firms entering a market. Our policy simulations suggest that a shortened drug approval review time significantly increases the average number of entrants per market and reduces the fraction of markets with no generics entry; however, a notable portion of markets would still lack any generic competition.This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4423.
+AB  - Understanding the drivers of market concentration in the generic pharmaceutical industry is essential to guaranteeing the availability of low-cost generics. In this paper, we develop a structural model to capture the multiple determinants governing manufacturers? entry decisions; in particular, we focus on how manufacturing complexity and the regulatory environment for generics approval affect concentration in drug markets. We estimate the model using data collated from six disparate sources. We find that manufacturing complexity, as reflected in the number of active ingredients, for example, significantly reduces the likelihood of generics entry. Moreover, the delay in the review process for the generics applications significantly affects the number of firms entering a market. Our policy simulations suggest that a shortened drug approval review time significantly increases the average number of entrants per market and reduces the fraction of markets with no generics entry; however, a notable portion of markets would still lack any generic competition.This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4423.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4423
+UR  - https://doi.org/10.1287/mnsc.2022.4423
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Capacity Rationing Policy for a Container Leasing System with Multiple Kinds of Customers and Substitutable Containers
+AU  - Yang, Xufeng
+AU  - Zhang, Juliang
+AU  - Jiao, Wen
+AU  - Yan, Hong
+Y1  - 2022/05/19
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4425
+DO  - 10.1287/mnsc.2022.4425
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1468
+EP  - 1485
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - In this paper, we consider a container leasing firm that has elementary and premium containers, which are downward substitutable and for use by elementary contract customers (ECCs), premium contract customers (PCCs), as well as walk-in customers (WICs). ECCs can be satisfied by elementary containers or premium ones at discounted prices while PCCs only accept premium containers. WICs can be satisfied by any type of container at different prices. The objective is to maximise the expected total rental revenue by managing its limited capacity. We formulate this problem as a discrete-time Markov Decision Process and show the submodularity and concavity of the value function. Based on this, we show that the optimal policy can be characterised by a series of rationing thresholds, a series of substitution thresholds and a priority threshold, all of which depend on the system states. We further give conditions under which the optimal policy can be simplified. Numerical experiments are conducted to show the impact of the substitution of two items on the revenue, to compare the performance of the optimal policy with those of the commonly used policies and to investigate the influence of arrival rates on the optimal policy. Last, we extend the basic model to consider different rental durations, ECCs? acceptance behaviour and endogenous prices for WICs.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: This work was supported by National Natural Science Foundation of China/Research Grants Council of Hong Kong Joint Research Scheme [Grant 71661167009, N_PolyU531/16], National Natural Science Foundation of China [Grants 72171016, 71831001], and British Academy\Leverhulme Small Research [Grant SRG19\190059]. This work was also supported by Zhejiang Shuren University Research [Grant KXJ0121605] and Beijing Logistics Informatics Research Base.Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2022.4425.
+AB  - In this paper, we consider a container leasing firm that has elementary and premium containers, which are downward substitutable and for use by elementary contract customers (ECCs), premium contract customers (PCCs), as well as walk-in customers (WICs). ECCs can be satisfied by elementary containers or premium ones at discounted prices while PCCs only accept premium containers. WICs can be satisfied by any type of container at different prices. The objective is to maximise the expected total rental revenue by managing its limited capacity. We formulate this problem as a discrete-time Markov Decision Process and show the submodularity and concavity of the value function. Based on this, we show that the optimal policy can be characterised by a series of rationing thresholds, a series of substitution thresholds and a priority threshold, all of which depend on the system states. We further give conditions under which the optimal policy can be simplified. Numerical experiments are conducted to show the impact of the substitution of two items on the revenue, to compare the performance of the optimal policy with those of the commonly used policies and to investigate the influence of arrival rates on the optimal policy. Last, we extend the basic model to consider different rental durations, ECCs? acceptance behaviour and endogenous prices for WICs.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: This work was supported by National Natural Science Foundation of China/Research Grants Council of Hong Kong Joint Research Scheme [Grant 71661167009, N_PolyU531/16], National Natural Science Foundation of China [Grants 72171016, 71831001], and British Academy\Leverhulme Small Research [Grant SRG19\190059]. This work was also supported by Zhejiang Shuren University Research [Grant KXJ0121605] and Beijing Logistics Informatics Research Base.Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2022.4425.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4425
+UR  - https://doi.org/10.1287/mnsc.2022.4425
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On the Benefit of Privatization in a Mixed Duopoly Service System
+AU  - Zhou, Wenhui
+AU  - Huang, Weixiang
+AU  - Hsu, Vernon N.
+AU  - Guo, Pengfei
+Y1  - 2022/05/05
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4424
+DO  - 10.1287/mnsc.2022.4424
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1486
+EP  - 1499
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We consider a mixed duopoly service system with two service providers (SPs): one private and the other public. The public SP?s objective is welfare maximization, whereas the private SP is profit driven. Customers are heterogeneous in terms of their quality tastes and choose from three options, namely, joining the private queue, joining the public queue, and balking (or taking an outside option). We first consider the scenario where the private SP provides a premium service and the public SP provides a regular service. Paradoxically, we find that although the public SP?s objective is welfare maximization, welfare in the system can be less than that obtained with only profit-seeking private SPs. We further demonstrate that the maximum social welfare is achieved by partially privatizing the public SP, that is, by including both welfare and profit maximization as arguments in its objective function. In extreme cases in which the public SP?s capacity is very small, fully privatizing the public SP can be socially desirable. We then consider the alternate setting where the public SP provides a premium service and the private SP provides a regular service and obtain similar conclusions. These findings, however, rely on the assumption that an outside option exists for balking customers, and one should be cautious in generalizing to no-balking situations.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: W. Zhou was supported by the National Natural Science Foundation of China [Grants 71925002 and 71731006]. W. Huang acknowledges the financial support from the National Natural Science Foundation of China [Grants 71801096 and 72101090] and the Guangdong Basic and Applied Basic Research Foundation [Grant 2022A1515011983]. V. N. Hsu was supported by the General Research Fund of the Hong Kong Research Grants Council [Grant CUHK14526216]. P. Guo received financial support from the Hong Kong Research Grants Council [Grant 15502820].Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2022.4424.
+AB  - We consider a mixed duopoly service system with two service providers (SPs): one private and the other public. The public SP?s objective is welfare maximization, whereas the private SP is profit driven. Customers are heterogeneous in terms of their quality tastes and choose from three options, namely, joining the private queue, joining the public queue, and balking (or taking an outside option). We first consider the scenario where the private SP provides a premium service and the public SP provides a regular service. Paradoxically, we find that although the public SP?s objective is welfare maximization, welfare in the system can be less than that obtained with only profit-seeking private SPs. We further demonstrate that the maximum social welfare is achieved by partially privatizing the public SP, that is, by including both welfare and profit maximization as arguments in its objective function. In extreme cases in which the public SP?s capacity is very small, fully privatizing the public SP can be socially desirable. We then consider the alternate setting where the public SP provides a premium service and the private SP provides a regular service and obtain similar conclusions. These findings, however, rely on the assumption that an outside option exists for balking customers, and one should be cautious in generalizing to no-balking situations.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: W. Zhou was supported by the National Natural Science Foundation of China [Grants 71925002 and 71731006]. W. Huang acknowledges the financial support from the National Natural Science Foundation of China [Grants 71801096 and 72101090] and the Guangdong Basic and Applied Basic Research Foundation [Grant 2022A1515011983]. V. N. Hsu was supported by the General Research Fund of the Hong Kong Research Grants Council [Grant CUHK14526216]. P. Guo received financial support from the Hong Kong Research Grants Council [Grant 15502820].Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2022.4424.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4424
+UR  - https://doi.org/10.1287/mnsc.2022.4424
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Leadership and Productivity: A Study of U.S. Automobile Assembly Plants
+AU  - Giardili, Soledad
+AU  - Ramdas, Kamalini
+AU  - Williams, Jonathan W.
+Y1  - 2022/08/19
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4427
+DO  - 10.1287/mnsc.2022.4427
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1500
+EP  - 1517
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We examine the effect of plant managers on productivity using unique matched manager-plant panel data on U.S. auto-assembly plants during 1993?2007. Our econometric approach is two-pronged. Our first approach relies on using the panel nature of our data to measure variation in productivity due to managerial influence. We estimate the interquartile range of the effect of individual plant managers on average hours-per-vehicle to be about 30%. Further, we find that plant managers? experience with the models that are in production ameliorates the negative impact of new model introductions on productivity. We also observe evidence that managers? plant-specific tenure has a positive impact on productivity. In our second approach, we use high-frequency time-series data, along with structural-break tests and machine-learning methodologies, to predict variation in production using plant-manager switches. We find that a plant manager?s identity is predictive of changes in both the mean and variance of production, further highlighting their channels of managerial influence. These findings are robust to narrowing the sample to focus on retirements as an exogenous source of managerial switches.This paper was accepted by Serguei Netessine, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.4427.
+AB  - We examine the effect of plant managers on productivity using unique matched manager-plant panel data on U.S. auto-assembly plants during 1993?2007. Our econometric approach is two-pronged. Our first approach relies on using the panel nature of our data to measure variation in productivity due to managerial influence. We estimate the interquartile range of the effect of individual plant managers on average hours-per-vehicle to be about 30%. Further, we find that plant managers? experience with the models that are in production ameliorates the negative impact of new model introductions on productivity. We also observe evidence that managers? plant-specific tenure has a positive impact on productivity. In our second approach, we use high-frequency time-series data, along with structural-break tests and machine-learning methodologies, to predict variation in production using plant-manager switches. We find that a plant manager?s identity is predictive of changes in both the mean and variance of production, further highlighting their channels of managerial influence. These findings are robust to narrowing the sample to focus on retirements as an exogenous source of managerial switches.This paper was accepted by Serguei Netessine, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.4427.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4427
+UR  - https://doi.org/10.1287/mnsc.2022.4427
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Impact of Traceability Technology Adoption in Food Supply Chain Networks
+AU  - Dong, Lingxiu
+AU  - Jiang, Puping (Phil)
+AU  - Xu, Fasheng
+Y1  - 2022/06/22
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4440
+DO  - 10.1287/mnsc.2022.4440
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1518
+EP  - 1535
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Improving traceability in food supply chains has been a big part of ongoing effort to reduce contamination risks and food waste. Recent technology advancement such as blockchain technology has propelled innovative retailers to promote food traceability system adoption in their supply chains. We develop a three-tier supply chain model with multiple upstream (tier 2) suppliers to investigate how traceability technology adoption affects incentives of supply chain members and whether and how its anticipated benefits can be realized. We find that full traceability brings direct revenue benefit to every supply chain member by saving uncontaminated food from disposal (pure traceability effect) but also leaves each tier of the supply chain vulnerable to its immediate downstream buyer?s exploitation through strategically lowering the purchasing price (strategic pricing effect). The interplay of the two effects may result in some of the supply chain members (even the retailer) being worse off with traceability adoption and the system being exposed to higher contamination risk; the latter is because of the weakened upstream supplier?s incentive to exert contamination risk-reduction effort. Moreover, we find that the supply chain network structure also influences the benefit distribution of traceability adoption: The retailer always benefits from traceability adoption in network structures where the tier 1 supplier?s strategic pricing power is eliminated or weakened; all supply chain members benefit from traceability adoption in a network with a large number of tier 2 suppliers. Finally, we show that alternative risk-mitigation schemes such as tier 2 coordination can diminish the value of traceability adoption, and partial traceability enabled by tier 1 product inspection can be more beneficial to the retailer than full traceability.This paper was accepted by Victor Martínez-de-Albéniz, operations management.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4440.
+AB  - Improving traceability in food supply chains has been a big part of ongoing effort to reduce contamination risks and food waste. Recent technology advancement such as blockchain technology has propelled innovative retailers to promote food traceability system adoption in their supply chains. We develop a three-tier supply chain model with multiple upstream (tier 2) suppliers to investigate how traceability technology adoption affects incentives of supply chain members and whether and how its anticipated benefits can be realized. We find that full traceability brings direct revenue benefit to every supply chain member by saving uncontaminated food from disposal (pure traceability effect) but also leaves each tier of the supply chain vulnerable to its immediate downstream buyer?s exploitation through strategically lowering the purchasing price (strategic pricing effect). The interplay of the two effects may result in some of the supply chain members (even the retailer) being worse off with traceability adoption and the system being exposed to higher contamination risk; the latter is because of the weakened upstream supplier?s incentive to exert contamination risk-reduction effort. Moreover, we find that the supply chain network structure also influences the benefit distribution of traceability adoption: The retailer always benefits from traceability adoption in network structures where the tier 1 supplier?s strategic pricing power is eliminated or weakened; all supply chain members benefit from traceability adoption in a network with a large number of tier 2 suppliers. Finally, we show that alternative risk-mitigation schemes such as tier 2 coordination can diminish the value of traceability adoption, and partial traceability enabled by tier 1 product inspection can be more beneficial to the retailer than full traceability.This paper was accepted by Victor Martínez-de-Albéniz, operations management.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4440.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4440
+UR  - https://doi.org/10.1287/mnsc.2022.4440
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Asymptotically Tight Learning Algorithm for Mobile-Promotion Platforms
+AU  - Feng, Zhichao
+AU  - Dawande, Milind
+AU  - Janakiraman, Ganesh
+AU  - Qi, Anyan
+Y1  - 2022/06/21
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4441
+DO  - 10.1287/mnsc.2022.4441
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1536
+EP  - 1554
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Operating under both supply-side and demand-side uncertainties, a mobile-promotion platform conducts advertising campaigns for individual advertisers. Campaigns arrive dynamically over time, which is divided into seasons; each campaign requires the platform to deliver a target number of mobile impressions from a desired set of locations over a desired time interval. The platform fulfills these campaigns by procuring impressions from publishers, who supply advertising space on apps via real-time bidding on ad exchanges. Each location is characterized by its win curve, that is, the relationship between the bid price and the probability of winning an impression at that bid. The win curves at the various locations of interest are initially unknown to the platform, and it learns them on the fly based on the bids it places to win impressions and the realized outcomes. Each acquired impression is allocated to one of the ongoing campaigns. The platform?s objective is to minimize its total cost (the amount spent in procuring impressions and the penalty incurred due to unmet targets of the campaigns) over the time horizon of interest. Our main result is a bidding and allocation policy for this problem. We show that our policy is the best possible (asymptotically tight) for the problem using the notion of regret under a policy, namely the difference between the expected total cost under that policy and the optimal cost for the clairvoyant problem (i.e., one in which the platform has full information about the win curves at all the locations in advance): The lower bound on the regret under any policy is of the order of the square root of the number of seasons, and the regret under our policy matches this lower bound. We demonstrate the performance of our policy through numerical experiments on a test bed of instances whose input parameters are based on our observations at a real-world mobile-promotion platform.This paper was accepted by Baris Ata, stochastic models and simulation.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4441.
+AB  - Operating under both supply-side and demand-side uncertainties, a mobile-promotion platform conducts advertising campaigns for individual advertisers. Campaigns arrive dynamically over time, which is divided into seasons; each campaign requires the platform to deliver a target number of mobile impressions from a desired set of locations over a desired time interval. The platform fulfills these campaigns by procuring impressions from publishers, who supply advertising space on apps via real-time bidding on ad exchanges. Each location is characterized by its win curve, that is, the relationship between the bid price and the probability of winning an impression at that bid. The win curves at the various locations of interest are initially unknown to the platform, and it learns them on the fly based on the bids it places to win impressions and the realized outcomes. Each acquired impression is allocated to one of the ongoing campaigns. The platform?s objective is to minimize its total cost (the amount spent in procuring impressions and the penalty incurred due to unmet targets of the campaigns) over the time horizon of interest. Our main result is a bidding and allocation policy for this problem. We show that our policy is the best possible (asymptotically tight) for the problem using the notion of regret under a policy, namely the difference between the expected total cost under that policy and the optimal cost for the clairvoyant problem (i.e., one in which the platform has full information about the win curves at all the locations in advance): The lower bound on the regret under any policy is of the order of the square root of the number of seasons, and the regret under our policy matches this lower bound. We demonstrate the performance of our policy through numerical experiments on a test bed of instances whose input parameters are based on our observations at a real-world mobile-promotion platform.This paper was accepted by Baris Ata, stochastic models and simulation.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4441.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4441
+UR  - https://doi.org/10.1287/mnsc.2022.4441
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Choosing Competition on Behalf of Someone Else
+AU  - Fornwagner, Helena
+AU  - Pompeo, Monika
+AU  - Serdarevic, Nina
+Y1  - 2022/04/15
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4413
+DO  - 10.1287/mnsc.2022.4413
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1555
+EP  - 1574
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We extend the existing literature on gender differences in competitive behavior by investigating tournament entry choices when a principal decides for an agent. In a laboratory experiment, we randomly assign subjects the role of either principal or agent. The principal decides whether the agent performs a real-effort task under piece-rate or tournament incentives. When deciding, the principal is informed about the agent?s previous performance, age, and residency. Between treatments, we vary whether the principal knows the agent?s gender. In a baseline treatment, we replicate the standard setting in which subjects decide for themselves whether to compete. Our main findings are, first, that there is no gender gap in tournament entry when principals decide for agents as opposed to the baseline treatment. Second, the gender gap closes because more women are made to compete by principals. Third, whereas there is no gender gap in either of the principal treatments, revealing the agent?s gender is associated with higher overall tournament entry rates. Exploratory analyses of principals? choice determinants reveal a positive effect of preferences to take risks, competitiveness, and confidence in agents? performances on making agents compete. In addition, we find no difference in how principals evaluate male and female agents? performances. Finally, we test the efficiency of principals? competition choices and show that they lead to fewer payoff-maximizing outcomes than when subjects decide for themselves. Additionally, overall tournament performances and winners? performances are lower when agents are made to compete, but this effect is not robust to controlling for agents? previous performances.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by L. Meltzers H?yskolefond; Austrian Science Fund [Grant SFB F63 ?Credence Goods, Incentives and Behavior?], and the Department of Economics at the University of Bergen. Also, we are grateful for funding from the Equal Opportunity Coordination Office of the University of Regensburg and its faculty of Business and Economics.Supplemental Material: The supplementary online material and data are available at https://doi.org/10.1287/mnsc.2022.4413.
+AB  - We extend the existing literature on gender differences in competitive behavior by investigating tournament entry choices when a principal decides for an agent. In a laboratory experiment, we randomly assign subjects the role of either principal or agent. The principal decides whether the agent performs a real-effort task under piece-rate or tournament incentives. When deciding, the principal is informed about the agent?s previous performance, age, and residency. Between treatments, we vary whether the principal knows the agent?s gender. In a baseline treatment, we replicate the standard setting in which subjects decide for themselves whether to compete. Our main findings are, first, that there is no gender gap in tournament entry when principals decide for agents as opposed to the baseline treatment. Second, the gender gap closes because more women are made to compete by principals. Third, whereas there is no gender gap in either of the principal treatments, revealing the agent?s gender is associated with higher overall tournament entry rates. Exploratory analyses of principals? choice determinants reveal a positive effect of preferences to take risks, competitiveness, and confidence in agents? performances on making agents compete. In addition, we find no difference in how principals evaluate male and female agents? performances. Finally, we test the efficiency of principals? competition choices and show that they lead to fewer payoff-maximizing outcomes than when subjects decide for themselves. Additionally, overall tournament performances and winners? performances are lower when agents are made to compete, but this effect is not robust to controlling for agents? previous performances.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by L. Meltzers H?yskolefond; Austrian Science Fund [Grant SFB F63 ?Credence Goods, Incentives and Behavior?], and the Department of Economics at the University of Bergen. Also, we are grateful for funding from the Equal Opportunity Coordination Office of the University of Regensburg and its faculty of Business and Economics.Supplemental Material: The supplementary online material and data are available at https://doi.org/10.1287/mnsc.2022.4413.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4413
+UR  - https://doi.org/10.1287/mnsc.2022.4413
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Worst-First Heuristic: How Decision Makers Manage Conjunctive Risk
+AU  - Lewis, Joshua
+AU  - Feiler, Daniel
+AU  - Adner, Ron
+Y1  - 2022/04/06
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4411
+DO  - 10.1287/mnsc.2022.4411
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1575
+EP  - 1596
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Many important managerial outcomes hinge on the co-occurrence of multiple uncertain events, a situation termed conjunctive risk. Whereas past literature has addressed the psychology of choosing to enter situations with conjunctive risk, this article elucidates a novel way in which the psychology of managing conjunctive risk is importantly distinct. We examine a case in which there are two independent events, one is currently less likely than the other, both are required for overall success, and the decision maker must evaluate opportunities to increase the chance of the less-likely or more-likely requirement. We introduce the hypothesis of a worst-first heuristic. Decision makers intuitively evaluate improvements in conjunctive risk according to their impact on the biggest barrier to success, the least likely of the required events. We find evidence for such a worst-first heuristic across nine experiments (n = 3,653, including samples from the United States and United Kingdom in Studies 1?5 and Studies S1?S3 in the online supplement, as well as a sample of managers in Study 6). Participants invest more to improve chances of less-likely requirements than more-likely requirements, even when the latter improvements have at least as much impact on the aggregate chance of success. Moreover, we find that decision makers exhibit this behavior particularly when managing conjunctive risk, as doing so makes them attend to which threat is the worst. Conversely, they do not appear to exhibit the behavior when making formally equivalent decisions about choosing between conjunctive risks. This bias toward underinvesting in stronger-links holds important implications for decision making in contexts subject to conjunctive risk?both managerial and societal.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.Supplemental Material: Data and the e-companion are available at https://doi.org/10.1287/mnsc.2022.4411.
+AB  - Many important managerial outcomes hinge on the co-occurrence of multiple uncertain events, a situation termed conjunctive risk. Whereas past literature has addressed the psychology of choosing to enter situations with conjunctive risk, this article elucidates a novel way in which the psychology of managing conjunctive risk is importantly distinct. We examine a case in which there are two independent events, one is currently less likely than the other, both are required for overall success, and the decision maker must evaluate opportunities to increase the chance of the less-likely or more-likely requirement. We introduce the hypothesis of a worst-first heuristic. Decision makers intuitively evaluate improvements in conjunctive risk according to their impact on the biggest barrier to success, the least likely of the required events. We find evidence for such a worst-first heuristic across nine experiments (n = 3,653, including samples from the United States and United Kingdom in Studies 1?5 and Studies S1?S3 in the online supplement, as well as a sample of managers in Study 6). Participants invest more to improve chances of less-likely requirements than more-likely requirements, even when the latter improvements have at least as much impact on the aggregate chance of success. Moreover, we find that decision makers exhibit this behavior particularly when managing conjunctive risk, as doing so makes them attend to which threat is the worst. Conversely, they do not appear to exhibit the behavior when making formally equivalent decisions about choosing between conjunctive risks. This bias toward underinvesting in stronger-links holds important implications for decision making in contexts subject to conjunctive risk?both managerial and societal.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.Supplemental Material: Data and the e-companion are available at https://doi.org/10.1287/mnsc.2022.4411.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4411
+UR  - https://doi.org/10.1287/mnsc.2022.4411
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Learning to Successfully Hire in Online Labor Markets
+AU  - Kokkodis, Marios
+AU  - Ransbotham, Sam
+Y1  - 2022/08/26
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4426
+DO  - 10.1287/mnsc.2022.4426
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1597
+EP  - 1614
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Hiring in online labor markets involves considerable uncertainty: which hiring choices are more likely to yield successful outcomes and how do employers adjust their hiring behaviors to make such choices? We argue that employers will initially explore the value of available information. When employers observe successful outcomes, they will keep reinforcing their hiring strategies; but when the outcomes are unsuccessful, employers will adjust their hiring behaviors. To investigate these dynamics, we propose a two-component framework that links hiring choices with task outcomes. The framework?s first component, a Hidden Markov Model, captures how employers transition from unsuccessful to successful hiring decisions. The framework?s second component, a conditional logit model, estimates employer hiring choices. Analysis of 238,364 hiring decisions from a large online labor market shows that, often, employers initially explore cheaper contractors with a lower reputation. When these options result in unsuccessful outcomes, employers learn and adjust their hiring behaviors to rely more on reputable contractors who are not as cheap. Such hiring tends to be successful, guiding employers to reinforce their hiring processes. As a result, the market observes employers transition from cheaper, lower-reputation options with poorer performance to more expensive reputable options with better performance. We attribute part of this behavior to employer confidence and risk attitude, which can change over time. This work is the first to investigate how employers learn to make successful hiring choices in online labor markets. As a result, it provides platform managers with new knowledge and analytics tools to target employer interventions.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4426.
+AB  - Hiring in online labor markets involves considerable uncertainty: which hiring choices are more likely to yield successful outcomes and how do employers adjust their hiring behaviors to make such choices? We argue that employers will initially explore the value of available information. When employers observe successful outcomes, they will keep reinforcing their hiring strategies; but when the outcomes are unsuccessful, employers will adjust their hiring behaviors. To investigate these dynamics, we propose a two-component framework that links hiring choices with task outcomes. The framework?s first component, a Hidden Markov Model, captures how employers transition from unsuccessful to successful hiring decisions. The framework?s second component, a conditional logit model, estimates employer hiring choices. Analysis of 238,364 hiring decisions from a large online labor market shows that, often, employers initially explore cheaper contractors with a lower reputation. When these options result in unsuccessful outcomes, employers learn and adjust their hiring behaviors to rely more on reputable contractors who are not as cheap. Such hiring tends to be successful, guiding employers to reinforce their hiring processes. As a result, the market observes employers transition from cheaper, lower-reputation options with poorer performance to more expensive reputable options with better performance. We attribute part of this behavior to employer confidence and risk attitude, which can change over time. This work is the first to investigate how employers learn to make successful hiring choices in online labor markets. As a result, it provides platform managers with new knowledge and analytics tools to target employer interventions.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4426.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4426
+UR  - https://doi.org/10.1287/mnsc.2022.4426
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Impact of Health Information Exchange Adoption on Referral Patterns
+AU  - Eftekhari, Saeede
+AU  - Yaraghi, Niam
+AU  - Gopal, Ram D.
+AU  - Ramesh, Ram
+Y1  - 2022/05/24
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4435
+DO  - 10.1287/mnsc.2022.4435
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1615
+EP  - 1638
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - Efforts to promote Health Information Exchanges (HIEs) on a nationwide scale are beset with major challenges, and one of them is its meaningful use for both physicians and patients. Referrals potentially provide a context for the meaningful use of HIE, and we are yet to understand how HIEs affect referrals. This research studies the impact of HIE on referral patterns. We establish that participation in an HIE network increases the referrals sent to and received from other HIE participants. We investigate this relationship using both econometric and network-analytic methods. Whereas the econometric analysis focuses on the underlying associations between HIE adoption and referral patterns, the network analysis addresses the transformation process by which HIE adoption and referrals coevolve over time. This study has significant implications for healthcare policy making, development of innovative HIE business models, and management of healthcare organizations.This paper was accepted by Anindya Ghose, information systems.Supplemental Material: Data and the online supplement is available at https://doi.org/10.1287/mnsc.2022.4435.
+AB  - Efforts to promote Health Information Exchanges (HIEs) on a nationwide scale are beset with major challenges, and one of them is its meaningful use for both physicians and patients. Referrals potentially provide a context for the meaningful use of HIE, and we are yet to understand how HIEs affect referrals. This research studies the impact of HIE on referral patterns. We establish that participation in an HIE network increases the referrals sent to and received from other HIE participants. We investigate this relationship using both econometric and network-analytic methods. Whereas the econometric analysis focuses on the underlying associations between HIE adoption and referral patterns, the network analysis addresses the transformation process by which HIE adoption and referrals coevolve over time. This study has significant implications for healthcare policy making, development of innovative HIE business models, and management of healthcare organizations.This paper was accepted by Anindya Ghose, information systems.Supplemental Material: Data and the online supplement is available at https://doi.org/10.1287/mnsc.2022.4435.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4435
+UR  - https://doi.org/10.1287/mnsc.2022.4435
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency
+AU  - Park, Jiyong
+AU  - Han, Kunsoo
+AU  - Lee, Byungtae
+Y1  - 2022/06/07
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4442
+DO  - 10.1287/mnsc.2022.4442
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1639
+EP  - 1664
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - The rapid, widespread adoption of cloud computing over the last decade has sparked debates on its environmental impacts. Given that cloud computing alters the dynamics of energy consumption between service providers and users, a complete understanding of the environmental impacts of cloud computing requires an investigation of its impact on the user side, which can be weighed against its impact on the vendor side. Drawing on production theory and using a stochastic frontier analysis, this study examines the impact of cloud computing on users? energy efficiency. To this end, we develop a novel industry-level measure of cloud computing based on cloud-based information technology (IT) services. Using U.S. economy-wide data from 57 industries during 1997?2017, our findings suggest that cloud-based IT services improve users? energy efficiency. This effect is found to be significant only after 2006, when cloud computing started to be commercialized, and becomes even stronger after 2010. Moreover, we find heterogeneous impacts of cloud computing, depending on the cloud service models, energy types, and internal IT hardware intensity, which jointly assist in teasing out the underlying mechanisms. Although software-as-a-service (SaaS) is significantly associated with both electric and nonelectric energy efficiency improvement across all industries, infrastructure-as-a-service (IaaS) is positively associated only with electric energy efficiency for industries with high IT hardware intensity. To illuminate the mechanisms more clearly, we conduct a firm-level survey analysis, which demonstrates that SaaS confers operational benefits by facilitating energy-efficient production, whereas the primary role of IaaS is to mitigate the energy consumption of internal IT equipment and infrastructure. According to our industry-level analysis, the total user-side energy cost savings from cloud computing in the overall U.S. economy are estimated to be USD 2.8?12.6 billion in 2017 alone, equivalent to a reduction in electricity use by 31.8?143.8 billion kilowatt-hours. This estimate exceeds the total energy expenditure in the cloud service vendor industries and is comparable to the total electricity consumption in U.S. data centers.This paper was accepted by Chris Forman, information systems.Supplemental Material: Data files and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4442.
+AB  - The rapid, widespread adoption of cloud computing over the last decade has sparked debates on its environmental impacts. Given that cloud computing alters the dynamics of energy consumption between service providers and users, a complete understanding of the environmental impacts of cloud computing requires an investigation of its impact on the user side, which can be weighed against its impact on the vendor side. Drawing on production theory and using a stochastic frontier analysis, this study examines the impact of cloud computing on users? energy efficiency. To this end, we develop a novel industry-level measure of cloud computing based on cloud-based information technology (IT) services. Using U.S. economy-wide data from 57 industries during 1997?2017, our findings suggest that cloud-based IT services improve users? energy efficiency. This effect is found to be significant only after 2006, when cloud computing started to be commercialized, and becomes even stronger after 2010. Moreover, we find heterogeneous impacts of cloud computing, depending on the cloud service models, energy types, and internal IT hardware intensity, which jointly assist in teasing out the underlying mechanisms. Although software-as-a-service (SaaS) is significantly associated with both electric and nonelectric energy efficiency improvement across all industries, infrastructure-as-a-service (IaaS) is positively associated only with electric energy efficiency for industries with high IT hardware intensity. To illuminate the mechanisms more clearly, we conduct a firm-level survey analysis, which demonstrates that SaaS confers operational benefits by facilitating energy-efficient production, whereas the primary role of IaaS is to mitigate the energy consumption of internal IT equipment and infrastructure. According to our industry-level analysis, the total user-side energy cost savings from cloud computing in the overall U.S. economy are estimated to be USD 2.8?12.6 billion in 2017 alone, equivalent to a reduction in electricity use by 31.8?143.8 billion kilowatt-hours. This estimate exceeds the total energy expenditure in the cloud service vendor industries and is comparable to the total electricity consumption in U.S. data centers.This paper was accepted by Chris Forman, information systems.Supplemental Material: Data files and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4442.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4442
+UR  - https://doi.org/10.1287/mnsc.2022.4442
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Incentive Misalignments in Programmatic Advertising: Evidence from a Randomized Field Experiment
+AU  - Frick, Thomas W.
+AU  - Belo, Rodrigo
+AU  - Telang, Rahul
+Y1  - 2022/05/26
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4438
+DO  - 10.1287/mnsc.2022.4438
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1665
+EP  - 1686
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - In programmatic advertising, firms outsource the bidding for ad impressions to ad platforms. Although firms are interested in targeting consumers that respond positively to advertising, ad platforms are usually rewarded for targeting consumers with high overall purchase probability. We develop a theoretical model that shows if consumers with high baseline purchase probability respond more positively to advertising, then firms and ad platforms agree on which consumers to target. If, conversely, consumers with low baseline purchase probability are the ones for which ads work best, then ad platforms target consumers that firms do not want to target?the incentives are misaligned. We conduct a large-scale randomized field experiment, targeting 208,538 individual consumers, in a display retargeting campaign. Our unique data set allows us to both causally identify advertising effectiveness and estimate the degree of incentive misalignments between the firm and ad platform. In accordance with the contracted incentives, the ad platform targets consumers that are more likely to purchase. Importantly, we find no evidence that ads are more effective for consumers with higher baseline purchase probability, rendering the ad platform?s bidding suboptimal for the firm. A welfare analysis suggests that the ad platform?s bidding optimization leads to a loss in profit for the firm and an overall decline in welfare. To remedy the incentive misalignment, we propose a solution in which the firm restricts the ad platform to target only consumers that are profitable based on individual consumer-level estimates for baseline purchase probability and ad effectiveness.This paper was accepted by Anandhi Bharadwaj, information systems.Funding: This work was funded by Vereniging Trustfonds Erasmus Universiteit Rotterdam [Grant 97090/17.16/741/oe], Fundac?o para a Ciência e a Tecnologia [UID/ECO/00124/2019, UIDB/00124/2020, UIDP/00124/2020, and Social Sciences DataLab - PINFRA/22209/2016], POR Lisboa, and POR Norte [Social Sciences DataLab, PINFRA/22209/2016].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4438.
+AB  - In programmatic advertising, firms outsource the bidding for ad impressions to ad platforms. Although firms are interested in targeting consumers that respond positively to advertising, ad platforms are usually rewarded for targeting consumers with high overall purchase probability. We develop a theoretical model that shows if consumers with high baseline purchase probability respond more positively to advertising, then firms and ad platforms agree on which consumers to target. If, conversely, consumers with low baseline purchase probability are the ones for which ads work best, then ad platforms target consumers that firms do not want to target?the incentives are misaligned. We conduct a large-scale randomized field experiment, targeting 208,538 individual consumers, in a display retargeting campaign. Our unique data set allows us to both causally identify advertising effectiveness and estimate the degree of incentive misalignments between the firm and ad platform. In accordance with the contracted incentives, the ad platform targets consumers that are more likely to purchase. Importantly, we find no evidence that ads are more effective for consumers with higher baseline purchase probability, rendering the ad platform?s bidding suboptimal for the firm. A welfare analysis suggests that the ad platform?s bidding optimization leads to a loss in profit for the firm and an overall decline in welfare. To remedy the incentive misalignment, we propose a solution in which the firm restricts the ad platform to target only consumers that are profitable based on individual consumer-level estimates for baseline purchase probability and ad effectiveness.This paper was accepted by Anandhi Bharadwaj, information systems.Funding: This work was funded by Vereniging Trustfonds Erasmus Universiteit Rotterdam [Grant 97090/17.16/741/oe], Fundac?o para a Ciência e a Tecnologia [UID/ECO/00124/2019, UIDB/00124/2020, UIDP/00124/2020, and Social Sciences DataLab - PINFRA/22209/2016], POR Lisboa, and POR Norte [Social Sciences DataLab, PINFRA/22209/2016].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4438.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4438
+UR  - https://doi.org/10.1287/mnsc.2022.4438
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Personalized Pricing and Distribution Strategies
+AU  - Jullien, Bruno
+AU  - Reisinger, Markus
+AU  - Rey, Patrick
+Y1  - 2022/07/26
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4437
+DO  - 10.1287/mnsc.2022.4437
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1687
+EP  - 1702
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - The availability of consumer data is inducing a growing number of firms to adopt more personalized pricing policies. This affects both the performance of, and the competition between, alternative distribution channels, which in turn has implications for firms? distribution strategies. We develop a formal model to examine a brand manufacturer?s choice between mono distribution (selling only through its own direct channel) or dual distribution (selling through an independent retailer as well). We consider different demand patterns, covering both horizontal and vertical differentiation and different pricing regimes, with the manufacturer and retailer each charging personalized prices or a uniform price. We show that dual distribution is optimal for a large number of cases. In particular, this is always the case when the channels are horizontally differentiated, regardless of the pricing regime; moreover, if both firms charge personalized prices, a well-designed wholesale tariff allows them to extract the entire consumer surplus. These insights obtained here for the case of intrabrand competition between vertically related firms are thus in stark contrast to those obtained for interbrand competition, where personalized pricing dissipates industry profit. With vertical differentiation, dual distribution remains optimal if the manufacturer charges a uniform price. By contrast, under personalized pricing, mono distribution can be optimal when the retailer does not expand demand sufficiently. Interestingly, the industry profit may be largest in a hybrid pricing regime, in which the manufacturer forgoes the use of personalized pricing and only the retailer charges personalized prices.This paper was accepted by Joshua Gans, business strategy.Funding: The financial support of the European Research Council under the European Union?s Horizon 2020 research and innovation programme [Grant Agreement 670494] and of the Agence nationale de la recherche (ANR) [Grant ANITI (ANR Grant 3IA)] and [Grant CHESS ANR-17-EURE-0010] (Investissements d?Avenir program) is gratefully acknowledged.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4437.
+AB  - The availability of consumer data is inducing a growing number of firms to adopt more personalized pricing policies. This affects both the performance of, and the competition between, alternative distribution channels, which in turn has implications for firms? distribution strategies. We develop a formal model to examine a brand manufacturer?s choice between mono distribution (selling only through its own direct channel) or dual distribution (selling through an independent retailer as well). We consider different demand patterns, covering both horizontal and vertical differentiation and different pricing regimes, with the manufacturer and retailer each charging personalized prices or a uniform price. We show that dual distribution is optimal for a large number of cases. In particular, this is always the case when the channels are horizontally differentiated, regardless of the pricing regime; moreover, if both firms charge personalized prices, a well-designed wholesale tariff allows them to extract the entire consumer surplus. These insights obtained here for the case of intrabrand competition between vertically related firms are thus in stark contrast to those obtained for interbrand competition, where personalized pricing dissipates industry profit. With vertical differentiation, dual distribution remains optimal if the manufacturer charges a uniform price. By contrast, under personalized pricing, mono distribution can be optimal when the retailer does not expand demand sufficiently. Interestingly, the industry profit may be largest in a hybrid pricing regime, in which the manufacturer forgoes the use of personalized pricing and only the retailer charges personalized prices.This paper was accepted by Joshua Gans, business strategy.Funding: The financial support of the European Research Council under the European Union?s Horizon 2020 research and innovation programme [Grant Agreement 670494] and of the Agence nationale de la recherche (ANR) [Grant ANITI (ANR Grant 3IA)] and [Grant CHESS ANR-17-EURE-0010] (Investissements d?Avenir program) is gratefully acknowledged.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4437.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4437
+UR  - https://doi.org/10.1287/mnsc.2022.4437
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Capability Building in Sluggish Organizations
+AU  - Eliaz, Kfir
+AU  - Spiegler, Ran
+Y1  - 2022/07/07
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4445
+DO  - 10.1287/mnsc.2022.4445
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1703
+EP  - 1713
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - In order to thrive, organizations need to build and maintain an ability to meet unexpected external challenges. Yet many organizations are sluggish: their capabilities can only undergo incremental changes over time. What are the stochastic processes governing ?routinely occurring? challenges that best prepare a sluggish organization for unexpected challenges? We address this question with a stylized principal-agent model. The ?agent? represents a sluggish organization that can only change its capability by one unit at a time, and the ?principal? represents the organization?s head or its competitive environment. The principal commits ex ante to a Markov process over challenge levels. We characterize the process that maximizes long-run capability for both myopic and arbitrarily patient agents. We show how stochastic, time-varying challenges dramatically improve a sluggish organization?s preparedness for sudden challenges.This paper was accepted by Joshua Gans, business strategy.Funding: This work was supported by the Foerder Institute for Economic Research.
+AB  - In order to thrive, organizations need to build and maintain an ability to meet unexpected external challenges. Yet many organizations are sluggish: their capabilities can only undergo incremental changes over time. What are the stochastic processes governing ?routinely occurring? challenges that best prepare a sluggish organization for unexpected challenges? We address this question with a stylized principal-agent model. The ?agent? represents a sluggish organization that can only change its capability by one unit at a time, and the ?principal? represents the organization?s head or its competitive environment. The principal commits ex ante to a Markov process over challenge levels. We characterize the process that maximizes long-run capability for both myopic and arbitrarily patient agents. We show how stochastic, time-varying challenges dramatically improve a sluggish organization?s preparedness for sudden challenges.This paper was accepted by Joshua Gans, business strategy.Funding: This work was supported by the Foerder Institute for Economic Research.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4445
+UR  - https://doi.org/10.1287/mnsc.2022.4445
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Lost Marie Curies: Parental Impact on the Probability of Becoming an Inventor
+AU  - Hoisl, Karin
+AU  - Kongsted, Hans Christian
+AU  - Mariani, Myriam
+Y1  - 2022/05/20
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4432
+DO  - 10.1287/mnsc.2022.4432
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1714
+EP  - 1738
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - This research investigates the role of parents in explaining the surprisingly low presence of women among inventors despite their increase among graduates from science, technology, engineering and mathematics (STEM) subjects. With Danish registry data on the population born between 1966 and 1985 and an experimental setting crafted on siblings? gender composition, we find that the transmission of inventorship from parents to children disfavors daughters if they have a (second-born) brother. We complement this analysis with evidence about the role of parental factors at different stages of children?s education. Overall, our results confirm that parental role models matter for children?s education, especially at early stages and, through this, increase the probability of a child?s becoming an inventor. However, the direct transmission of inventorship that favors boys much more than girls seems to be affected by gendered expectations developed by parents about daughters? and sons? returns from inventorship. Our study contributes to explaining who becomes an inventor and why by adding an important boundary condition to the literature: Parents are intermediaries who, based on their own interpretation of external information about inventive jobs, contribute to create or limit opportunities for their children.This paper was accepted by Olav Sorenson, organizations.Funding: The authors got financial funding from the Novo Nordisk Foundation in the course of the project ?Investments, incentives, and the impact of Danish research (Triple-I-Research)? [Grant NNF16OC0021444].Supplemental Material: Data files and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4432.
+AB  - This research investigates the role of parents in explaining the surprisingly low presence of women among inventors despite their increase among graduates from science, technology, engineering and mathematics (STEM) subjects. With Danish registry data on the population born between 1966 and 1985 and an experimental setting crafted on siblings? gender composition, we find that the transmission of inventorship from parents to children disfavors daughters if they have a (second-born) brother. We complement this analysis with evidence about the role of parental factors at different stages of children?s education. Overall, our results confirm that parental role models matter for children?s education, especially at early stages and, through this, increase the probability of a child?s becoming an inventor. However, the direct transmission of inventorship that favors boys much more than girls seems to be affected by gendered expectations developed by parents about daughters? and sons? returns from inventorship. Our study contributes to explaining who becomes an inventor and why by adding an important boundary condition to the literature: Parents are intermediaries who, based on their own interpretation of external information about inventive jobs, contribute to create or limit opportunities for their children.This paper was accepted by Olav Sorenson, organizations.Funding: The authors got financial funding from the Novo Nordisk Foundation in the course of the project ?Investments, incentives, and the impact of Danish research (Triple-I-Research)? [Grant NNF16OC0021444].Supplemental Material: Data files and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4432.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4432
+UR  - https://doi.org/10.1287/mnsc.2022.4432
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Mnemonomics of Contractual Screening
+AU  - Guo, Liang
+Y1  - 2022/08/01
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4415
+DO  - 10.1287/mnsc.2022.4415
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1739
+EP  - 1757
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - In many markets, buyers sign advance contracts before actual decisions on transactions or consumptions are made. Therefore, a buyer may have private information on expected payoff at the contracting stage, and as time moves on, new information on other components of payoff may arrive. However, prior information can be losable, forgettable, or unattended. In this paper, we investigate how limited memory may influence the optimal design of contracts for sequential screening. Despite memory loss, the buyer can make ex post inference about her initially informed type from the chosen contract. As ex ante screening facilitates subsequent retrospection, the chosen contract can serve as a self-reminding instrument. This would yield an endogenous demand for separation in ex ante contract choice. In response, distortions in the optimal contract design can be either mitigated or intensified, leading to improved or undermined social welfare, respectively. As a result, the equilibrium buyer surplus can be higher than that under perfect memory. We also show that the buyer can exhibit the so-called flat-rate bias, even though her preference is time consistent and perfectly predicted. In addition, as memory can be perfectly recovered from the equilibrium contract choice, investing on any other memory-improving instrument is redundant. Moreover, the buyer?s demand for screening can induce her to choose dominated refund contract. Nevertheless, when dominance must be obeyed, the seller may offer a menu of refund contracts with two-way distortions.This paper was accepted by Matthew Shum, marketing.Funding: The financial support offered by the Hong Kong RGC General Research Fund [Grant 14500519] is acknowledged.
+AB  - In many markets, buyers sign advance contracts before actual decisions on transactions or consumptions are made. Therefore, a buyer may have private information on expected payoff at the contracting stage, and as time moves on, new information on other components of payoff may arrive. However, prior information can be losable, forgettable, or unattended. In this paper, we investigate how limited memory may influence the optimal design of contracts for sequential screening. Despite memory loss, the buyer can make ex post inference about her initially informed type from the chosen contract. As ex ante screening facilitates subsequent retrospection, the chosen contract can serve as a self-reminding instrument. This would yield an endogenous demand for separation in ex ante contract choice. In response, distortions in the optimal contract design can be either mitigated or intensified, leading to improved or undermined social welfare, respectively. As a result, the equilibrium buyer surplus can be higher than that under perfect memory. We also show that the buyer can exhibit the so-called flat-rate bias, even though her preference is time consistent and perfectly predicted. In addition, as memory can be perfectly recovered from the equilibrium contract choice, investing on any other memory-improving instrument is redundant. Moreover, the buyer?s demand for screening can induce her to choose dominated refund contract. Nevertheless, when dominance must be obeyed, the seller may offer a menu of refund contracts with two-way distortions.This paper was accepted by Matthew Shum, marketing.Funding: The financial support offered by the Hong Kong RGC General Research Fund [Grant 14500519] is acknowledged.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4415
+UR  - https://doi.org/10.1287/mnsc.2022.4415
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Lender Trust and Bank Loan Contracts
+AU  - Hagendorff, Jens
+AU  - Lim, Sonya
+AU  - Nguyen, Duc Duy
+Y1  - 2022/03/23
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4371
+DO  - 10.1287/mnsc.2022.4371
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1758
+EP  - 1779
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We examine the contractual implications of a lender?s trust for corporate loans. We measure how trusting a lender is using the average trust attitude in the chief executive officer?s ancestral country of origin. We find that banks with trusting CEOs charge lower interest rates in U.S. syndicated loans. This effect is identified within existing lender?borrower relationships and similar types of loans. Further analyses indicate that trust reduces the cost of credit by boosting the perceived credibility of borrower information and by mitigating contracting problems. We corroborate our findings by conducting a survey of loan officers with experience in loan syndication.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2022.4371.
+AB  - We examine the contractual implications of a lender?s trust for corporate loans. We measure how trusting a lender is using the average trust attitude in the chief executive officer?s ancestral country of origin. We find that banks with trusting CEOs charge lower interest rates in U.S. syndicated loans. This effect is identified within existing lender?borrower relationships and similar types of loans. Further analyses indicate that trust reduces the cost of credit by boosting the perceived credibility of borrower information and by mitigating contracting problems. We corroborate our findings by conducting a survey of loan officers with experience in loan syndication.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2022.4371.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4371
+UR  - https://doi.org/10.1287/mnsc.2022.4371
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Machine-Learning-Based Return Predictors and the Spanning Controversy in Macro-Finance
+AU  - Huang, Jing-Zhi
+AU  - Shi, Zhan
+Y1  - 2022/03/30
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4386
+DO  - 10.1287/mnsc.2022.4386
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1780
+EP  - 1804
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We propose a two-step machine learning algorithm?the Supervised Adaptive Group LASSO (SAGLasso) method?that is suitable for constructing parsimonious return predictors from a large set of macro variables. We apply this method to government bonds and a set of 917 macro variables and construct a new, transparent, and easy-to-interpret macro variable with significant out-of-sample predictive power for excess bond returns. This new macro factor, termed the SAGLasso factor, is a linear combination of merely 30 selected macro variables out of 917. Furthermore, it can be decomposed into three sublevel factors: a novel housing factor, an employment factor, and an inflation factor. Importantly, the predictive power of the SAGLasso factor is robust to bond yields, namely, the SAGLasso factor is not spanned by bond yields. Moreover, we show that the unspanned variation of the SAGLasso factor cannot be attributed to yield measurement error or macro measurement error. The SAGLasso factor therefore provides a potential resolution to the spanning controversy in the macro-finance literature.This paper was accepted by Haoxiang Zhu, finance.Funding: This work was supported by a grant from the Penn State Institute for Real Estate Studies.Supplemental Material: Data and the internet appendices are available at https://doi.org/10.1287/mnsc.2022.4386.
+AB  - We propose a two-step machine learning algorithm?the Supervised Adaptive Group LASSO (SAGLasso) method?that is suitable for constructing parsimonious return predictors from a large set of macro variables. We apply this method to government bonds and a set of 917 macro variables and construct a new, transparent, and easy-to-interpret macro variable with significant out-of-sample predictive power for excess bond returns. This new macro factor, termed the SAGLasso factor, is a linear combination of merely 30 selected macro variables out of 917. Furthermore, it can be decomposed into three sublevel factors: a novel housing factor, an employment factor, and an inflation factor. Importantly, the predictive power of the SAGLasso factor is robust to bond yields, namely, the SAGLasso factor is not spanned by bond yields. Moreover, we show that the unspanned variation of the SAGLasso factor cannot be attributed to yield measurement error or macro measurement error. The SAGLasso factor therefore provides a potential resolution to the spanning controversy in the macro-finance literature.This paper was accepted by Haoxiang Zhu, finance.Funding: This work was supported by a grant from the Penn State Institute for Real Estate Studies.Supplemental Material: Data and the internet appendices are available at https://doi.org/10.1287/mnsc.2022.4386.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4386
+UR  - https://doi.org/10.1287/mnsc.2022.4386
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Attracting the Sharks: Corporate Innovation and Securities Class Action Lawsuits
+AU  - Kempf, Elisabeth
+AU  - Spalt, Oliver
+Y1  - 2022/04/11
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4388
+DO  - 10.1287/mnsc.2022.4388
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1805
+EP  - 1834
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - This paper provides novel evidence suggesting that securities class action lawsuits, a central pillar of the U.S. litigation and corporate governance system, can constitute an obstacle to valuable corporate innovation. We first establish that valuable innovation output makes firms particularly vulnerable to costly low-quality class action litigation. Exploiting judge turnover in federal courts, we then show that changes in class action litigation risk affect the value and number of patents filed, suggesting firms take into account that risk in their innovation decisions. A new perspective we provide is that innovation success, not only innovation failure, can increase firms? securities class action litigation risk.This paper was accepted by Victoria Ivashina, finance.Funding: E. Kempf gratefully acknowledges financial support from the James S. Kemper Foundation at the University of Chicago Booth School of Business.Supplemental Material: Data and the internet appendix are available at https://doi.org/10.1287/mnsc.2022.4388.
+AB  - This paper provides novel evidence suggesting that securities class action lawsuits, a central pillar of the U.S. litigation and corporate governance system, can constitute an obstacle to valuable corporate innovation. We first establish that valuable innovation output makes firms particularly vulnerable to costly low-quality class action litigation. Exploiting judge turnover in federal courts, we then show that changes in class action litigation risk affect the value and number of patents filed, suggesting firms take into account that risk in their innovation decisions. A new perspective we provide is that innovation success, not only innovation failure, can increase firms? securities class action litigation risk.This paper was accepted by Victoria Ivashina, finance.Funding: E. Kempf gratefully acknowledges financial support from the James S. Kemper Foundation at the University of Chicago Booth School of Business.Supplemental Material: Data and the internet appendix are available at https://doi.org/10.1287/mnsc.2022.4388.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4388
+UR  - https://doi.org/10.1287/mnsc.2022.4388
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Explaining the Failure of the Unconditional CAPM with the Conditional CAPM
+AU  - Hasler, Michael
+AU  - Martineau, Charles
+Y1  - 2022/03/23
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4381
+DO  - 10.1287/mnsc.2022.4381
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1835
+EP  - 1855
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - When the cost of hedging is nil, the conditional capital asset pricing model (CAPM) holds. We empirically test the conditional CAPM by regressing asset returns onto the product of their conditional betas and market returns. Estimated intercepts are not statistically different from zero, implying that the conditional CAPM successfully explains the conditional level of asset returns. Yet, unconditional betas do not explain the cross section of average asset returns; the unconditional CAPM fails. We show why and how the success of the conditional CAPM actually explains the failure of the unconditional CAPM, thereby rationalizing the coexistence of these two intriguing results.This paper was accepted by Gustavo Manso, finance.Funding: The University of Texas at Dallas and the University of Toronto provided financial support.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4381.
+AB  - When the cost of hedging is nil, the conditional capital asset pricing model (CAPM) holds. We empirically test the conditional CAPM by regressing asset returns onto the product of their conditional betas and market returns. Estimated intercepts are not statistically different from zero, implying that the conditional CAPM successfully explains the conditional level of asset returns. Yet, unconditional betas do not explain the cross section of average asset returns; the unconditional CAPM fails. We show why and how the success of the conditional CAPM actually explains the failure of the unconditional CAPM, thereby rationalizing the coexistence of these two intriguing results.This paper was accepted by Gustavo Manso, finance.Funding: The University of Texas at Dallas and the University of Toronto provided financial support.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4381.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4381
+UR  - https://doi.org/10.1287/mnsc.2022.4381
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Market Freeze and Bank Capital Structure Heterogeneity
+AU  - Song, Fenghua
+AU  - Thakor, Anjan V.
+Y1  - 2022/03/24
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4374
+DO  - 10.1287/mnsc.2022.4374
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1856
+EP  - 1876
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - We develop a theory wherein a priori identical banks may trade loans in a search market with reusable information. The equilibrium is unique, but its nature depends on the probability of a future market state. When the probability of a boom is high, all banks hold no equity and do no screening. When this probability is low, all banks choose a high level of equity and screen loans. For intermediate probability values, the equilibrium is heterogeneous, with some banks posting equity and screening and others avoiding equity and screening. This endogenously arising heterogeneity generates interbank trading. The credit market is partially frozen in a recession: only high-capital banks have continued funding access. Low-capital banks obtain funding by selling legacy loans to banks with ?financial muscle,? so market funding is reallocated from low-capital to high-capital banks.This paper was accepted by Bruno Biais, finance.
+AB  - We develop a theory wherein a priori identical banks may trade loans in a search market with reusable information. The equilibrium is unique, but its nature depends on the probability of a future market state. When the probability of a boom is high, all banks hold no equity and do no screening. When this probability is low, all banks choose a high level of equity and screen loans. For intermediate probability values, the equilibrium is heterogeneous, with some banks posting equity and screening and others avoiding equity and screening. This endogenously arising heterogeneity generates interbank trading. The credit market is partially frozen in a recession: only high-capital banks have continued funding access. Low-capital banks obtain funding by selling legacy loans to banks with ?financial muscle,? so market funding is reallocated from low-capital to high-capital banks.This paper was accepted by Bruno Biais, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4374
+UR  - https://doi.org/10.1287/mnsc.2022.4374
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Cash Flow Presentation Method on Investors’ Forecast of Future Cash Flows
+AU  - Pornupatham, Sompong
+AU  - Tan, Hun-Tong
+AU  - Vichitsarawong, Thanyaluk
+AU  - Yoo, G-Song
+Y1  - 2022/04/26
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4406
+DO  - 10.1287/mnsc.2022.4406
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1877
+EP  - 1900
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - The decision usefulness of the direct versus indirect presentation method of a cash flow statement has been a long-standing issue in both practice and accounting research. By capitalizing on comparative advantages of experimental methods, we provide insights into how investors process the information contained in different presentation methods to make cash flow forecasts, especially in the context of various types of nonrecurring items. We predict and find that, when nonrecurring accrued expenses are present, the indirect method leads to lower forecast errors by activating investors? underlying knowledge structures of operating cash flows in terms of an accrual (versus cash) basis. We also find that, in the presence of nonrecurring cash or nonrecurring accrued revenues, there is no difference in forecast errors between the indirect and direct methods. Moreover, we find that the combination of the direct and indirect methods (the direct-plus-indirect method) leads to lower forecast errors than the direct method, but it does not provide an incremental benefit for forecast accuracy beyond the indirect method.This paper was accepted by Brian Bushee, accounting.Funding: The authors acknowledge financial support from Chulalongkorn Business School, Korea University Business School, and the United Overseas Bank Endowment Fund.Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2022.4406.
+AB  - The decision usefulness of the direct versus indirect presentation method of a cash flow statement has been a long-standing issue in both practice and accounting research. By capitalizing on comparative advantages of experimental methods, we provide insights into how investors process the information contained in different presentation methods to make cash flow forecasts, especially in the context of various types of nonrecurring items. We predict and find that, when nonrecurring accrued expenses are present, the indirect method leads to lower forecast errors by activating investors? underlying knowledge structures of operating cash flows in terms of an accrual (versus cash) basis. We also find that, in the presence of nonrecurring cash or nonrecurring accrued revenues, there is no difference in forecast errors between the indirect and direct methods. Moreover, we find that the combination of the direct and indirect methods (the direct-plus-indirect method) leads to lower forecast errors than the direct method, but it does not provide an incremental benefit for forecast accuracy beyond the indirect method.This paper was accepted by Brian Bushee, accounting.Funding: The authors acknowledge financial support from Chulalongkorn Business School, Korea University Business School, and the United Overseas Bank Endowment Fund.Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2022.4406.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4406
+UR  - https://doi.org/10.1287/mnsc.2022.4406
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Growth of Information Asymmetry Between Earnings Announcements and Its Implications for Reporting Frequency
+AU  - Stoumbos, Robert
+Y1  - 2022/04/29
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4408
+DO  - 10.1287/mnsc.2022.4408
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1901
+EP  - 1928
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - I demonstrate that, on average, information asymmetry grows between earnings announcements and falls right after each new earnings announcement. I estimate that percent effective spreads typically grow 3.1% over the course of the inter-announcement period. I demonstrate that this inter-announcement growth in information asymmetry occurs gradually throughout the entire inter-announcement period and not just right before each new earnings announcement. This inter-announcement growth has implications for reporting frequency decisions. A semiannual reporter that switches to quarterly reporting cuts the growth time in half by cutting each semiannual reporting period into two quarterly reporting periods. As a result, it reduces information asymmetry in what would have been the second half of the semiannual reporting period. I confirm this in a European setting, showing that the average reduction in bid-ask spreads from the inter-announcement growth channel is 1.6% when firms switch from semiannual to quarterly reporting.This paper was accepted by Suraj Srinivasan, accounting.Funding: The author gratefully acknowledge financial support from the Yale School of Management and Columbia Business School.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4408.
+AB  - I demonstrate that, on average, information asymmetry grows between earnings announcements and falls right after each new earnings announcement. I estimate that percent effective spreads typically grow 3.1% over the course of the inter-announcement period. I demonstrate that this inter-announcement growth in information asymmetry occurs gradually throughout the entire inter-announcement period and not just right before each new earnings announcement. This inter-announcement growth has implications for reporting frequency decisions. A semiannual reporter that switches to quarterly reporting cuts the growth time in half by cutting each semiannual reporting period into two quarterly reporting periods. As a result, it reduces information asymmetry in what would have been the second half of the semiannual reporting period. I confirm this in a European setting, showing that the average reduction in bid-ask spreads from the inter-announcement growth channel is 1.6% when firms switch from semiannual to quarterly reporting.This paper was accepted by Suraj Srinivasan, accounting.Funding: The author gratefully acknowledge financial support from the Yale School of Management and Columbia Business School.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4408.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4408
+UR  - https://doi.org/10.1287/mnsc.2022.4408
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Comment on “Modeling Purchasing Behavior with Sudden ‘Death’: A Flexible Customer Lifetime Model”
+AU  - Adler, Jost
+Y1  - 2022/04/26
+PY  - 2022
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2022.4422
+DO  - 10.1287/mnsc.2022.4422
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1929
+EP  - 1930
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - In their 2012 paper, Bemmaor and Glady introduced the gamma/Gompertz/negative binomial distribution model for customer base analysis. Their model uses exponentially distributed interpurchase times and a Gompertz distributed customer lifetime, where the latter distribution is nonmemoryless. This comment corrects an error in their expression for the conditional expected number of individual future purchases E(xi*) in a forecasting interval of length T*. Contrary to their approach, the correct derivation of the conditional expectation must be based on the conditional survival and density functions of the lifetime distribution. Using the wrong formula leads managers to overestimate the expected future customer purchases. Further, the comment corrects the erroneous expressions for the conditional variance Var(xi*) and the conditional mean residual lifetime E(τ?Ti).This paper was accepted by Raphael Thomadsen, marketing.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4422.
+AB  - In their 2012 paper, Bemmaor and Glady introduced the gamma/Gompertz/negative binomial distribution model for customer base analysis. Their model uses exponentially distributed interpurchase times and a Gompertz distributed customer lifetime, where the latter distribution is nonmemoryless. This comment corrects an error in their expression for the conditional expected number of individual future purchases E(xi*) in a forecasting interval of length T*. Contrary to their approach, the correct derivation of the conditional expectation must be based on the conditional survival and density functions of the lifetime distribution. Using the wrong formula leads managers to overestimate the expected future customer purchases. Further, the comment corrects the erroneous expressions for the conditional variance Var(xi*) and the conditional mean residual lifetime E(τ?Ti).This paper was accepted by Raphael Thomadsen, marketing.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4422.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4422
+UR  - https://doi.org/10.1287/mnsc.2022.4422
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - 2022 Reviewers and Guest Editors
+Y1  - 2023/03/01
+PY  - 2023
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2023.4707
+DO  - 10.1287/mnsc.2023.4707
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1931
+EP  - 1934
+VL  - 69
+IS  - 3
+PB  - INFORMS
+N2  - The editors of Management Science acknowledge all our 2022 reviewers and guest associate editors who generously provided expert counsel and guidance on a voluntary basis. We are grateful for their contributions; without them, the journal could not function. Here, we list those reviewers who contributed four or more reviews in 2022.Supplemental Material: The complete list of our 2022 reviewers is available at https://doi.org/10.1287/mnsc.2023.4707.
+AB  - The editors of Management Science acknowledge all our 2022 reviewers and guest associate editors who generously provided expert counsel and guidance on a voluntary basis. We are grateful for their contributions; without them, the journal could not function. Here, we list those reviewers who contributed four or more reviews in 2022.Supplemental Material: The complete list of our 2022 reviewers is available at https://doi.org/10.1287/mnsc.2023.4707.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4707
+UR  - https://doi.org/10.1287/mnsc.2023.4707
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2023/03/01
+PY  - 2023
+DA  - 2023/03/01
+N1  - doi: 10.1287/mnsc.2023.eb.v69n3
+DO  - 10.1287/mnsc.2023.eb.v69n3
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 69
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.eb.v69n3
+UR  - https://doi.org/10.1287/mnsc.2023.eb.v69n3
+Y2  - 2024/03/27
+ER  - 

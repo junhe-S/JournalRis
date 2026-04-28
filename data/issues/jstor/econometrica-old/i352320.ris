@@ -1,0 +1,401 @@
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Front Matter
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938257
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Optimal Inference in Cointegrated Systems
+AU  - Phillips, P. C. B.
+AB  - [This paper studies the properties of maximum likelihood estimates of cointegrated systems. Alternative formulations of such models are considered including a new triangular system error correction mechanism. It is shown that full system maximum likelihood brings the problem of inference within the family that is covered by the locally asymptotically mixed normal asymptotic theory provided that all unit roots in the system have been eliminated by specification and data transformation. This result has far reaching consequences. It means that cointegrating coefficient estimates are symmetrically distributed and median unbiased asymptotically, that an optimal asymptotic theory of inference applies, and that hypothesis tests may be conducted using standard asymptotic chi-squared tests. In short, this solves problems of specification and inference in cointegrated systems that have recently troubled many investigators. Methodological issues are also addressed and these provide the major focus of the paper. Our results favor the use of full system estimation in error correction mechanisms or subsystem methods that are asymptotically equivalent. They also point to disadvantages in the use of unrestricted VAR's that are formulated in levels and in certain single equation approaches to the estimation of error correction mechanisms. Unrestricted VAR's implicitly estimate unit roots that are present in the system and the relevant asymptotic theory for the VAR estimates of the cointegrating subspace inevitably involves unit root asymptotics. Single equation error correction mechanisms generally suffer from similar disadvantages through the neglect of additional equations in the system. Both examples point to the importance of the proper use of information in the estimation of cointegrated systems. In classical estimation theory the neglect of information typically results in a loss of statistical efficiency. In cointegrated systems deeper consequences occur. Single equation and VAR approaches sacrifice asymptotic median unbiasedness as well as optimality and they run into inferential difficulties through the presence of nuisance parameters in the limit distributions. The advantages of the use of fully specified systems techniques are shown to be all the more compelling in the light of these alternatives. Attention is also given to the information content that is necessary to achieve optimal estimation of the cointegrating coefficients. It is shown that optimal estimation of the latter does not require simultaneous estimation of the transient dynamics even when the parameters of the transient dynamics are functionally dependent on the parameters of the cointegrating relationship. All that is required is consistent estimation of the long run covariance matrix of the system residuals and this covariance matrix estimate can be utilized in regression formulae of the generalized least squares type. Thus, optimal estimation can be achieved without a detailed specification of the system's transient responses and thus, in practice, without the use of eigenvalue routines such as those employed in the Johansen (1988) procedure.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938258
+EP  - 306
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 283
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938258
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Asymptotic Normality of Series Estimators for Nonparametric and Semiparametric Regression Models
+AU  - Donald W. K. Andrews
+AB  - [This paper establishes the asymptotic normality of series estimators for nonparametric regression models. Polynomial series estimators, trigonometric series estimators, and Gallant's Fourier flexible form estimators are prime examples of the estimators covered by the results. The results apply to a wide variety of estimands in the regression model under consideration, including derivatives and integrals of the regression function. The errors in the model may be homoskedastic or heteroskedastic. The paper also considers series estimators for additive interactive regression (AIR), partially linear regression, and semiparametric index regression models and shows them to be consistent and asymptotically normal. All of the consistency and asymptotic normality results in the paper follow from one set of general results for series estimators.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938259
+EP  - 345
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 307
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938259
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Conditional Heteroskedasticity in Asset Returns: A New Approach
+AU  - Nelson, Daniel B.
+AB  - [GARCH models have been applied in modelling the relation between conditional variance and asset risk premia. These models, however, have at least three major drawbacks in asset pricing applications: (i) Researchers beginning with Black (1976) have found a negative correlation between current returns and future returns volatility. GARCH models rule this out by assumption. (ii) GARCH models impose parameter restrictions that are often violated by estimated coefficients and that may unduly restrict the dynamics of the conditional variance process. (iii) Interpreting whether shocks to conditional variance "persist" or not is difficult in GARCH models, because the usual norms measuring persistence often do not agree. A new form of ARCH is proposed that meets these objections. The method is used to estimate a model of the risk premium on the CRSP Value-Weighted Market Index from 1962 to 1987.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938260
+EP  - 370
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 347
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938260
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Quadrature-Based Methods for Obtaining Approximate Solutions to Nonlinear Asset Pricing Models
+AU  - Tauchen, George
+AU  - Hussey, Robert
+AB  - [The paper develops a discrete state space solution method for a class of nonlinear rational expectations models. The method works by using numerical quadrature rules to approximate the integral operators that arise in stochastic intertemporal models. The method is particularly useful for approximating asset pricing models and has potential applications in other problems as well. An empirical application uses the method to study the relationship between the risk premium and the conditional variability of the equity return under an ARCH endowment process.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938261
+EP  - 396
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 371
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938261
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - The Permanent Income Hypothesis Revisited
+AU  - Christiano, Lawrence J.
+AU  - Eichenbaum, Martin
+AU  - Marshall, David
+AB  - [Measured aggregate U.S. consumption does not behave like a martingale. This paper develops and tests two variants of the permanent income model that are consistent with this fact. In both variants, we assume agents make decisions on a continuous time basis. According to the first variant, the martingale hypothesis holds in continuous time and serial persistence in measured consumption reflects only the effects of time aggregation. We investigate this variant using both structural and atheoretical econometric models. The evidence against these models is far from overwhelming. This suggests that the martingale hypothesis may yet be a useful way to conceptualize the relationship between aggregate quarterly U.S. consumption and income. According to the second variant of the permanent income model, serial persistence in measured consumption reflects the effects of exogenous technology shocks and time aggregation. In this model, continuous time consumption does not behave like a martingale. We find little evidence against this variant of the permanent income model. It is difficult, on the basis of aggregate quarterly U.S. data, to convincingly distinguish between the different continuous time models considered in the paper.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938262
+EP  - 423
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 397
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938262
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Observing Violations of Transitivity by Experimental Methods
+AU  - Loomes, Graham
+AU  - Starmer, Chris
+AU  - Sugden, Robert
+AB  - [The preference reversal phenomenon is usually interpreted as evidence of nontransitivity of preference, but has also been explained as the result of: the difference between individuals' responses to choice and valuation problems; the devices used by experimenters to elicit valuations; and the "random lottery selection" incentive system. This paper reports an experiment designed so that none of these factors could generate systematic nontransitivities; yet systematic violations of transitivity were still found. The pattern of violation was analogous with that found in previous preference reversal experiments and is consistent with regret theory.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938263
+EP  - 439
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 425
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938263
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - The Existence of Ramsey Equilibrium
+AU  - Becker, Robert A.
+AU  - Boyd, John H.
+AU  - Foias, Ciprian
+AB  - [We demonstrate existence of a perfect foresight equilibrium under borrowing constraints in a one-sector model with infinitely-lived heterogeneous agents. The class of admissible preferences includes, but is not limited to, recursive preferences. Existence is proven using a tâtonnement argument under appropriate conditions on preferences and technology. A new measure of discounting, the norm of marginal impatience, is used to determine which technologies are admissible. Depending on the norm of marginal impatience, the admissible technology may either allow for permanent growth, or have a maximum sustainable stock.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938264
+EP  - 460
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 441
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938264
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Bayesian Implementation
+AU  - Jackson, Mathew O.
+AB  - [The subject of this paper is the decentralization of decision making when agents have information which is incomplete and possibly exclusive. The first theorem states that in economic environments with three or more individuals, there exists a mechanism whose Bayesian equilibria coincide with a desired collection of social choice functions if and only if closure, incentive compatibility, and Bayesian monotonicity conditions are satisfied. With regards to the previous literature, this closes the gap between necessary and sufficient conditions by using a slightly stronger definition of Bayesian monotonicity, and extends the definition of economic environments to permit externalities. The second theorem extends the analysis to noneconomic environments. It states that closure, incentive compatibility, and a combination of monotonicity and no-veto conditions, are sufficient for implementation, when there are at least three individuals. An example shows that in a Bayesian setting, the second theorem does not hold for separate monotonicity and no-veto style conditions.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938265
+EP  - 477
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 461
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938265
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Nash Implementation Using Undominated Strategies
+AU  - Palfrey, Thomas R.
+AU  - Srivastava, Sanjay
+AB  - [We study the problem of implementing social choice correspondences using the concept of undominated Nash equilibrium, i.e. Nash equilibrium in which no one uses a weakly dominated strategy. We show that this mild refinement of Nash equilibrium has a dramatic impact on the set of implementable correspondences. Our main result is that if there are at least three agents in the society, then any correspondence which satisfies the usual no veto power condition is implementable unless some agents are completely indifferent over all possible outcomes. Many common welfare criteria, such as the Pareto correspondence, and several familiar voting rules, such as majority and plurality rules, satisfy our conditions. This possibility result stands in sharp contrast to the more restrictive findings with implementation in either Nash equilibrium or subgame perfect equilibrium. We present several examples to illustrate the difference between undominated Nash implementation and implementation with alternative solution concepts.]
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938266
+EP  - 501
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 479
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938266
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Comments on Brown and Rosenthal's Reexamination
+AU  - O'Neill, Barry
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938267
+EP  - 507
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 503
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938267
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - The Division Problem with Single-Peaked Preferences: A Characterization of the Uniform Allocation Rule
+AU  - Sprumont, Yves
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938268
+EP  - 519
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 509
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938268
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - A More Powerful Method for Triangularizing Input-Output Matrices: A Comment
+AU  - Howe, Eric C.
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938269
+EP  - 523
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 521
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938269
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Announcements
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+EP  - 527
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 525
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938270
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - News Notes
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+EP  - 528
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 528
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938271
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Report of the President
+AU  - J.-M. Grandmont
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+DO  - 10.2307/2938272
+EP  - 531
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 529
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938272
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Program of the Sixth World Congress of the Econometric Society
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+EP  - 593
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 532
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938273
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Back Matter
+C1  - Full publication date: Mar., 1991
+DB  - JSTOR
+EP  - 594
+IS  - 2
+PB  - [Wiley, Econometric Society]
+PY  - 1991
+SN  - 00129682, 14680262
+SP  - 594
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2938274
+VL  - 59
+Y2  - 2024/07/05/
+ER  - 

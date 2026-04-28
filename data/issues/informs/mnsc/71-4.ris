@@ -1,0 +1,1147 @@
+
+TY  - JOUR
+T1  - In Memoriam: The Pioneering Contributions of Martin K. Starr, Editor-in-Chief of Management Science (1967–1982)
+AU  - Loch, Christoph
+AU  - Singhal, Kalyan
+AU  - Tang, Christopher
+Y1  - 2025/02/21
+PY  - 2025
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2025.obit.v71.n4
+DO  - 10.1287/mnsc.2025.obit.v71.n4
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2751
+EP  - 2752
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Martin K. Starr, aged 97, passed away January 25, 2025. During his 15-year tenure as editor-in-chief of Management Science, he became the longest serving editor of any INFORMS journal. During this period, he published dozens of books and more than 100 articles. Starr made significant contributions to delineating the domain of modern operations and supply chain management, building a framework for system integration, modular design and production, and high-risk systems. This essay intends to underscore Martin Starr?s contributions to the field of management science, particularly emphasizing the crucial connection between theoretical analysis and practical applications in management.
+AB  - Martin K. Starr, aged 97, passed away January 25, 2025. During his 15-year tenure as editor-in-chief of Management Science, he became the longest serving editor of any INFORMS journal. During this period, he published dozens of books and more than 100 articles. Starr made significant contributions to delineating the domain of modern operations and supply chain management, building a framework for system integration, modular design and production, and high-risk systems. This essay intends to underscore Martin Starr?s contributions to the field of management science, particularly emphasizing the crucial connection between theoretical analysis and practical applications in management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2025.obit.v71.n4
+UR  - https://doi.org/10.1287/mnsc.2025.obit.v71.n4
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Using Grocery Data for Credit Decisions
+AU  - Lee, Jung Youn
+AU  - Yang, Joonhyuk
+AU  - Anderson, Eric T.
+Y1  - 2024/07/15
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.02364
+DO  - 10.1287/mnsc.2022.02364
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2753
+EP  - 2777
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Many consumers across the world struggle to gain access to credit because of their lack of credit scores. This paper explores the potential of a new alternative data source, grocery transaction data, for evaluating consumers? creditworthiness. Our analysis takes advantage of a unique, individual-level match of credit card data and supermarket loyalty card data. By developing credit scoring algorithms that either exclude or include grocery data, we illustrate both the incremental value of grocery data for credit decisions and its boundary conditions. We demonstrate that signals from grocery data can improve credit approval decisions, particularly for individuals who lack traditional credit scores. Furthermore, as a consumer establishes a relationship with lenders and builds a credit history, the marginal value of incorporating grocery data diminishes. These findings highlight the potential of grocery data in informing credit decisions and, consequently, in enabling financial institutions to extend credit to consumers who lack traditional credit scores.This paper was accepted by David Simchi-Levi, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02364.
+AB  - Many consumers across the world struggle to gain access to credit because of their lack of credit scores. This paper explores the potential of a new alternative data source, grocery transaction data, for evaluating consumers? creditworthiness. Our analysis takes advantage of a unique, individual-level match of credit card data and supermarket loyalty card data. By developing credit scoring algorithms that either exclude or include grocery data, we illustrate both the incremental value of grocery data for credit decisions and its boundary conditions. We demonstrate that signals from grocery data can improve credit approval decisions, particularly for individuals who lack traditional credit scores. Furthermore, as a consumer establishes a relationship with lenders and builds a credit history, the marginal value of incorporating grocery data diminishes. These findings highlight the potential of grocery data in informing credit decisions and, consequently, in enabling financial institutions to extend credit to consumers who lack traditional credit scores.This paper was accepted by David Simchi-Levi, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02364.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02364
+UR  - https://doi.org/10.1287/mnsc.2022.02364
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Secretary Problem with Independent Sampling
+AU  - Correa, José
+AU  - Cristi, Andrés
+AU  - Feuilloley, Laurent
+AU  - Oosterwijk, Tim
+AU  - Tsigonias-Dimitriadis, Alexandros
+Y1  - 2024/06/17
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2021.01580
+DO  - 10.1287/mnsc.2021.01580
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2778
+EP  - 2801
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - The secretary problem is probably the most well-studied optimal stopping problem with many applications in economics and management. In the secretary problem, a decision maker faces an unknown sequence of values, revealed successively, and has to make irrevocable take-it-or-leave-it decisions. Her goal is to select the maximum value in the sequence. Although in the classic secretary problem the values of upcoming elements are entirely unknown, in many realistic situations, the decision maker has access to some information, for example, from past data. In this paper, we take a sampling approach and assume that before starting the sequence, each element is sampled independently with probability p. We study both the adversarial and the random arrival models. Our main result is to obtain the best possible algorithms for both settings and all values of p. As p grows to one, the obtained guarantees converge to the optimal guarantees in the full information case. Notably, we establish that the best possible algorithm in the adversarial order setting is a fixed threshold algorithm. In the random order setting, we characterize the best possible algorithm by a sequence of thresholds, dictating at which point in time we should accept a value. Surprisingly, this sequence is independent of p. We complement our theoretical results with numerical experiments on data of people playing the secretary problem repeatedly. Our results help explain some behavioral issues they raised and indicate that people play a strategy similar to our optimal algorithms from the start onwards, albeit slightly suboptimally.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was partially funded by the Agencia Nacional de Investigación y Desarrollo Chile [Grants FB210005 (Centro de Modelamiento Matamático), AIM23_0004 (Millenium Institute for Research in Market Imperfections and Public Policy), AFB230002 (Instituto Sistemas Complejos de Ingeniería), ACT210005, and Fondo Nacional de Desarrollo Científico y Tecnológico 1220054], the Alexander von Humboldt Foundation with funds from the German Federal Ministry of Education and Research, and the German Research Foundation within the Research Training Group Advanced Optimization in a Networked Economy [Grant Graduiertenkolleg 2201]. The views expressed in this paper do not necessarily reflect those of the European Central Bank or the Eurosystem.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.01580.
+AB  - The secretary problem is probably the most well-studied optimal stopping problem with many applications in economics and management. In the secretary problem, a decision maker faces an unknown sequence of values, revealed successively, and has to make irrevocable take-it-or-leave-it decisions. Her goal is to select the maximum value in the sequence. Although in the classic secretary problem the values of upcoming elements are entirely unknown, in many realistic situations, the decision maker has access to some information, for example, from past data. In this paper, we take a sampling approach and assume that before starting the sequence, each element is sampled independently with probability p. We study both the adversarial and the random arrival models. Our main result is to obtain the best possible algorithms for both settings and all values of p. As p grows to one, the obtained guarantees converge to the optimal guarantees in the full information case. Notably, we establish that the best possible algorithm in the adversarial order setting is a fixed threshold algorithm. In the random order setting, we characterize the best possible algorithm by a sequence of thresholds, dictating at which point in time we should accept a value. Surprisingly, this sequence is independent of p. We complement our theoretical results with numerical experiments on data of people playing the secretary problem repeatedly. Our results help explain some behavioral issues they raised and indicate that people play a strategy similar to our optimal algorithms from the start onwards, albeit slightly suboptimally.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was partially funded by the Agencia Nacional de Investigación y Desarrollo Chile [Grants FB210005 (Centro de Modelamiento Matamático), AIM23_0004 (Millenium Institute for Research in Market Imperfections and Public Policy), AFB230002 (Instituto Sistemas Complejos de Ingeniería), ACT210005, and Fondo Nacional de Desarrollo Científico y Tecnológico 1220054], the Alexander von Humboldt Foundation with funds from the German Federal Ministry of Education and Research, and the German Research Foundation within the Research Training Group Advanced Optimization in a Networked Economy [Grant Graduiertenkolleg 2201]. The views expressed in this paper do not necessarily reflect those of the European Central Bank or the Eurosystem.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.01580.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01580
+UR  - https://doi.org/10.1287/mnsc.2021.01580
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Inferring the Unofficial Incomes of Officials from Home Ownership
+AU  - Deng, Yongheng
+AU  - Wei, Shang-Jin
+Y1  - 2024/06/19
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2021.01725
+DO  - 10.1287/mnsc.2021.01725
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2802
+EP  - 2829
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We estimate the size of the likely unofficial income of the government official household by assessing the difference between the income necessary to explain their observed home purchase behavior and the official income. Using unique and comprehensive House Provident Fund and home purchases data between 2006 and 2013 in a large Chinese city, we reach three conclusions. First, an average official?s unofficial income is 83% of her official income; this percentage increases sharply with the official?s rank. Second, about 13% of the officials have an unofficial income, and the proportion also increases with rank. Third, government officials are not underpaid, and their unofficial incomes are not compensation for low government salaries. Additionally, evidence suggests that unofficial incomes have declined since the recent anticorruption campaign. An analysis of a separate crosscity data set corroborates the key conclusion.This paper was accepted by David Sraer, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.01725.
+AB  - We estimate the size of the likely unofficial income of the government official household by assessing the difference between the income necessary to explain their observed home purchase behavior and the official income. Using unique and comprehensive House Provident Fund and home purchases data between 2006 and 2013 in a large Chinese city, we reach three conclusions. First, an average official?s unofficial income is 83% of her official income; this percentage increases sharply with the official?s rank. Second, about 13% of the officials have an unofficial income, and the proportion also increases with rank. Third, government officials are not underpaid, and their unofficial incomes are not compensation for low government salaries. Additionally, evidence suggests that unofficial incomes have declined since the recent anticorruption campaign. An analysis of a separate crosscity data set corroborates the key conclusion.This paper was accepted by David Sraer, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.01725.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01725
+UR  - https://doi.org/10.1287/mnsc.2021.01725
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - How to Design the Ask? Funding Units vs. Giving Money
+AU  - Epperson, Raphael
+AU  - Diederich, Johannes
+AU  - Goeschl, Timo
+Y1  - 2024/06/20
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2021.00157
+DO  - 10.1287/mnsc.2021.00157
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2830
+EP  - 2846
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Unit donations are an alternative fundraising scheme in which potential donors choose how many units of a charitable good to fund rather than just giving money. Based on evidence from an online experiment with 8,673 participants, we demonstrate that well-designed unit donation schemes can significantly boost giving above and beyond the standard money donation scheme. A decomposition of the underlying mechanisms shows patterns consistent with the conjecture that unit donations increase impact salience and leverage donors? cognitive biases by changing the metric of the donation space. Managers need to weigh the potential fundraising benefits of a unit scheme against some important challenges, such as expert handling of the choice of unit sizes.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Funding by Heidelberg University [Field of Focus IV under the Excellence Strategy] and the Austrian Science Fund [Grant SFB F63] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.00157.
+AB  - Unit donations are an alternative fundraising scheme in which potential donors choose how many units of a charitable good to fund rather than just giving money. Based on evidence from an online experiment with 8,673 participants, we demonstrate that well-designed unit donation schemes can significantly boost giving above and beyond the standard money donation scheme. A decomposition of the underlying mechanisms shows patterns consistent with the conjecture that unit donations increase impact salience and leverage donors? cognitive biases by changing the metric of the donation space. Managers need to weigh the potential fundraising benefits of a unit scheme against some important challenges, such as expert handling of the choice of unit sizes.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Funding by Heidelberg University [Field of Focus IV under the Excellence Strategy] and the Austrian Science Fund [Grant SFB F63] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.00157.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.00157
+UR  - https://doi.org/10.1287/mnsc.2021.00157
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Unintended Consequences of Unemployment Insurance Benefits: The Role of Banks
+AU  - Arslan, Yavuz
+AU  - Degerli, Ahmet
+AU  - Kabas, Gazi
+Y1  - 2024/06/21
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.03217
+DO  - 10.1287/mnsc.2022.03217
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2847
+EP  - 2866
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We use disaggregated U.S. data and a border discontinuity design to show that more generous unemployment insurance (UI) policies lower bank deposits. We test several channels that could explain this decline and find evidence consistent with households lowering their deposit holdings due to reduced precautionary savings. Because deposits are the largest and most stable source of funding for banks, the decrease in deposits affects bank lending. Banks that raise deposits in states with generous UI policies reduce their loan supply to small businesses. Furthermore, counties that are served by these banks experience a higher unemployment rate and lower wage growth.This paper was accepted by Lukas Schmid, finance.Funding: G. Kabas acknowledges financial support from the European Research Council [ERC ADG 2016-GA 740272 lending].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03217.
+AB  - We use disaggregated U.S. data and a border discontinuity design to show that more generous unemployment insurance (UI) policies lower bank deposits. We test several channels that could explain this decline and find evidence consistent with households lowering their deposit holdings due to reduced precautionary savings. Because deposits are the largest and most stable source of funding for banks, the decrease in deposits affects bank lending. Banks that raise deposits in states with generous UI policies reduce their loan supply to small businesses. Furthermore, counties that are served by these banks experience a higher unemployment rate and lower wage growth.This paper was accepted by Lukas Schmid, finance.Funding: G. Kabas acknowledges financial support from the European Research Council [ERC ADG 2016-GA 740272 lending].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03217.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03217
+UR  - https://doi.org/10.1287/mnsc.2022.03217
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic ESG Equilibrium
+AU  - Avramov, Doron
+AU  - Lioui, Abraham
+AU  - Liu, Yang
+AU  - Tarelli, Andrea
+Y1  - 2024/06/24
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.03491
+DO  - 10.1287/mnsc.2022.03491
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2867
+EP  - 2889
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - This paper proposes a conditional asset pricing model that integrates environmental, social, and governance (ESG) demand and supply dynamics. Shocks in the demand for sustainable investing represent a novel risk source, characterized by diminishing marginal utility and positive premium. Green assets exhibit positive exposure to ESG demand shocks, hence commanding higher premia. Conversely, time-varying convenience yield leads to lower expected returns for green assets. Moreover, ESG demand shocks have positive contemporaneous effects on unexpected returns, contributing to large positive payoffs in the green-minus-brown portfolio over extended horizons. The model predictions align closely with evidence on return spreads between green and brown assets, further reinforcing the apparent gap between realized and expected spreads.This paper was accepted by Lin William Cong, finance.Funding: Y. Liu acknowledges funding by the Research Grants Council of the Hong Kong Special Administrative Region, China [Grant T35/710/20R]. A. Tarelli acknowledges funding by the European Union - Next Generation EU [Project Code 2022FWZ2CR]. The views and opinions expressed are only those of the authors.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.03491.
+AB  - This paper proposes a conditional asset pricing model that integrates environmental, social, and governance (ESG) demand and supply dynamics. Shocks in the demand for sustainable investing represent a novel risk source, characterized by diminishing marginal utility and positive premium. Green assets exhibit positive exposure to ESG demand shocks, hence commanding higher premia. Conversely, time-varying convenience yield leads to lower expected returns for green assets. Moreover, ESG demand shocks have positive contemporaneous effects on unexpected returns, contributing to large positive payoffs in the green-minus-brown portfolio over extended horizons. The model predictions align closely with evidence on return spreads between green and brown assets, further reinforcing the apparent gap between realized and expected spreads.This paper was accepted by Lin William Cong, finance.Funding: Y. Liu acknowledges funding by the Research Grants Council of the Hong Kong Special Administrative Region, China [Grant T35/710/20R]. A. Tarelli acknowledges funding by the European Union - Next Generation EU [Project Code 2022FWZ2CR]. The views and opinions expressed are only those of the authors.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.03491.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03491
+UR  - https://doi.org/10.1287/mnsc.2022.03491
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Managerial and Financial Barriers to the Green Transition
+AU  - De Haas, Ralph
+AU  - Martin, Ralf
+AU  - Muûls, Mirabelle
+AU  - Schweiger, Helena
+Y1  - 2024/06/26
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.00772
+DO  - 10.1287/mnsc.2023.00772
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2890
+EP  - 2921
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Using data on 10,776 firms across 22 emerging markets, we show that both credit constraints and weak green management hold back corporate investment in green technologies embodied in new machinery, equipment, and vehicles. In contrast, investment in measures to explicitly reduce emissions and other pollution is mainly determined by the quality of a firm?s green management and less so by binding credit constraints. Data from the European Pollutant Release and Transfer Register reveal the environmental impact of these organizational constraints. In areas where more firms are credit constrained and weakly managed, industrial facilities systematically emit more CO2 and pollutants. A counterfactual analysis shows that credit constraints and weak management have respectively kept CO2 emissions 4.5% and 2.3% above the levels that would have prevailed without such constraints. This is further corroborated by our finding that in localities where banks had to deleverage more due to the global financial crisis, carbon emissions by industrial facilities remained 5.6% higher a decade later.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00772.
+AB  - Using data on 10,776 firms across 22 emerging markets, we show that both credit constraints and weak green management hold back corporate investment in green technologies embodied in new machinery, equipment, and vehicles. In contrast, investment in measures to explicitly reduce emissions and other pollution is mainly determined by the quality of a firm?s green management and less so by binding credit constraints. Data from the European Pollutant Release and Transfer Register reveal the environmental impact of these organizational constraints. In areas where more firms are credit constrained and weakly managed, industrial facilities systematically emit more CO2 and pollutants. A counterfactual analysis shows that credit constraints and weak management have respectively kept CO2 emissions 4.5% and 2.3% above the levels that would have prevailed without such constraints. This is further corroborated by our finding that in localities where banks had to deleverage more due to the global financial crisis, carbon emissions by industrial facilities remained 5.6% higher a decade later.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00772.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00772
+UR  - https://doi.org/10.1287/mnsc.2023.00772
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Deep Learning of Transition Probability Densities for Stochastic Asset Models with Applications in Option Pricing
+AU  - Su, Haozhe
+AU  - Tretyakov, M. V.
+AU  - Newton, David P.
+Y1  - 2024/06/27
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.01448
+DO  - 10.1287/mnsc.2022.01448
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2922
+EP  - 2952
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Transition probability density functions (TPDFs) are fundamental to computational finance, including option pricing and hedging. Advancing recent work in deep learning, we develop novel neural TPDF generators through solving backward Kolmogorov equations in parametric space for cumulative probability functions. The generators are ultra-fast, very accurate and can be trained for any asset model described by stochastic differential equations. These are ?single solve,? so they do not require retraining when parameters of the stochastic model are changed (e.g., recalibration of volatility). Once trained, the neural TDPF generators can be transferred to less powerful computers where they can be used for e.g. option pricing at speeds as fast as if the TPDF were known in a closed form. We illustrate the computational efficiency of the proposed neural approximations of TPDFs by inserting them into numerical option pricing methods. We demonstrate a wide range of applications including the Black-Scholes-Merton model, the standard Heston model, the SABR model, and jump-diffusion models. These numerical experiments confirm the ultra-fast speed and high accuracy of the developed neural TPDF generators.This paper was accepted by Kay Giesecke, finance.Funding: H. Su received research funding support from Nottingham Business School at Nottingham Trent University. M. V. Tretyakov was supported by the Engineering and Physical Sciences Research Council [Grant EP/X022617/1]. D. P. Newton received research funding support from the School of Management at Bath University.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.01448.
+AB  - Transition probability density functions (TPDFs) are fundamental to computational finance, including option pricing and hedging. Advancing recent work in deep learning, we develop novel neural TPDF generators through solving backward Kolmogorov equations in parametric space for cumulative probability functions. The generators are ultra-fast, very accurate and can be trained for any asset model described by stochastic differential equations. These are ?single solve,? so they do not require retraining when parameters of the stochastic model are changed (e.g., recalibration of volatility). Once trained, the neural TDPF generators can be transferred to less powerful computers where they can be used for e.g. option pricing at speeds as fast as if the TPDF were known in a closed form. We illustrate the computational efficiency of the proposed neural approximations of TPDFs by inserting them into numerical option pricing methods. We demonstrate a wide range of applications including the Black-Scholes-Merton model, the standard Heston model, the SABR model, and jump-diffusion models. These numerical experiments confirm the ultra-fast speed and high accuracy of the developed neural TPDF generators.This paper was accepted by Kay Giesecke, finance.Funding: H. Su received research funding support from Nottingham Business School at Nottingham Trent University. M. V. Tretyakov was supported by the Engineering and Physical Sciences Research Council [Grant EP/X022617/1]. D. P. Newton received research funding support from the School of Management at Bath University.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.01448.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01448
+UR  - https://doi.org/10.1287/mnsc.2022.01448
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Dynamic Clearing for Interbank Payments
+AU  - Chen, Shuzhen
+AU  - Baron, Opher
+AU  - Chen, Ningyuan
+Y1  - 2024/06/27
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.00380
+DO  - 10.1287/mnsc.2023.00380
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2953
+EP  - 2974
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We investigate the optimal clearing policy for a financial payment system composed of a number of member banks and a central bank in a dynamic setting, when new payment obligations or debts between member banks are generated over time. The central bank clears the debts among members in the system in order to minimize the costs, including the setup cost of each clearing, the variable cost of clearing the net debts, and the liquidity cost of uncleared debts. We formulate the problem using dynamic programming via state space reduction that provides a tractable framework to analyze and compute the optimal policy. We characterize the structure of the optimal policy and show that it is optimal for the central bank either to clear all the debts in the system or not to clear at all in each period under mild conditions. This structure leads to efficient computation of the optimal clearing policy. We further characterize the optimal clearing frequency based upon the deterministic approximation for the debt process. We conduct a comprehensive case study based on the data acquired from our industry partner, Payments Canada, to demonstrate the performance of the policy and its feasibility in industrial-size problems.This paper was accepted by Chung Piaw Teo, optimization.Funding: S. Chen?s research was supported by the National Natural Science Foundation of China [Grants 72101273, 72188101, 72101258, and 71991463], the Humanities and Social Science General Foundation of the Ministry of Education of China [Grant 21YJC630008], and the Hunan Provincial Natural Science Foundation of China [Grant 2022JJ40643]. Support for O. Baron?s research on this paper was provided by a grant from the Natural Science and Engineering Research Council of Canada (NSERC). N. Chen?s research was supported by the NSERC [Discovery Grant RGPIN-2020-04038].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00380.
+AB  - We investigate the optimal clearing policy for a financial payment system composed of a number of member banks and a central bank in a dynamic setting, when new payment obligations or debts between member banks are generated over time. The central bank clears the debts among members in the system in order to minimize the costs, including the setup cost of each clearing, the variable cost of clearing the net debts, and the liquidity cost of uncleared debts. We formulate the problem using dynamic programming via state space reduction that provides a tractable framework to analyze and compute the optimal policy. We characterize the structure of the optimal policy and show that it is optimal for the central bank either to clear all the debts in the system or not to clear at all in each period under mild conditions. This structure leads to efficient computation of the optimal clearing policy. We further characterize the optimal clearing frequency based upon the deterministic approximation for the debt process. We conduct a comprehensive case study based on the data acquired from our industry partner, Payments Canada, to demonstrate the performance of the policy and its feasibility in industrial-size problems.This paper was accepted by Chung Piaw Teo, optimization.Funding: S. Chen?s research was supported by the National Natural Science Foundation of China [Grants 72101273, 72188101, 72101258, and 71991463], the Humanities and Social Science General Foundation of the Ministry of Education of China [Grant 21YJC630008], and the Hunan Provincial Natural Science Foundation of China [Grant 2022JJ40643]. Support for O. Baron?s research on this paper was provided by a grant from the Natural Science and Engineering Research Council of Canada (NSERC). N. Chen?s research was supported by the NSERC [Discovery Grant RGPIN-2020-04038].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00380.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00380
+UR  - https://doi.org/10.1287/mnsc.2023.00380
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Talent Poaching and Job Rotation
+AU  - Battiston, Diego
+AU  - Espinosa, Miguel
+AU  - Liu, Shuo
+Y1  - 2024/07/01
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.02275
+DO  - 10.1287/mnsc.2022.02275
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2975
+EP  - 2992
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - The value of a firm?s service lies both in its workers and its relationship with clients. In this paper, we study the interaction between the client-specific experience accumulated by workers, poaching behaviour from clients, and strategic rotation of workers by firms. Using detailed personnel data from a security service firm, we show that an increase in client-specific experience increases both the productivity of workers and their probability of being poached. The firm reacts to this risk by rotating workers across multiple clients, and more frequently so for those workers more likely to be poached. Furthermore, we find that after a policy change that prohibited poaching, the firm sharply decreased the frequency of rotation, which in turn increased workers? productivity. We propose a theoretical model that guides the empirical patterns and allows us to argue their external validity beyond our specific empirical setting. Finally, we provide survey evidence from the security service sector, demonstrating the consistency between our findings and industry observations.This paper was accepted by Lamar Pierce, organizations.Funding: S. Liu acknowledges financial support from the National Natural Science of China [Grants 72192844 and 72322006].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02275.
+AB  - The value of a firm?s service lies both in its workers and its relationship with clients. In this paper, we study the interaction between the client-specific experience accumulated by workers, poaching behaviour from clients, and strategic rotation of workers by firms. Using detailed personnel data from a security service firm, we show that an increase in client-specific experience increases both the productivity of workers and their probability of being poached. The firm reacts to this risk by rotating workers across multiple clients, and more frequently so for those workers more likely to be poached. Furthermore, we find that after a policy change that prohibited poaching, the firm sharply decreased the frequency of rotation, which in turn increased workers? productivity. We propose a theoretical model that guides the empirical patterns and allows us to argue their external validity beyond our specific empirical setting. Finally, we provide survey evidence from the security service sector, demonstrating the consistency between our findings and industry observations.This paper was accepted by Lamar Pierce, organizations.Funding: S. Liu acknowledges financial support from the National Natural Science of China [Grants 72192844 and 72322006].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02275.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02275
+UR  - https://doi.org/10.1287/mnsc.2022.02275
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Endogenous Multihoming and Network Effects: PlayStation, Xbox, or Both?
+AU  - Foros, Øystein
+AU  - Kind, Hans Jarle
+AU  - Stähler, Frank
+Y1  - 2024/07/02
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.00613
+DO  - 10.1287/mnsc.2022.00613
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2993
+EP  - 3012
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Competition between firms that sell incompatible varieties of network products can be fierce because it is important for each of them to attract a large number of users. The literature, therefore, predicts that stronger network effects decrease prices and profits. We show that this prediction hinges critically on an implicit or explicit assumption that each consumer buys only one of the varieties available in the market (singlehoming consumers). We show that multihoming (some consumers buying more than one variety) can arise endogenously if the number of exclusive features that each variety offers is sufficiently large. In sharp contrast to the conventional prediction under consumer singlehoming, we further show that both prices and profits can increase with the strength of the network effects if (some) consumers multihome. However, this does not necessarily imply that profits are higher under multihoming than under singlehoming. On the contrary, multihoming can constitute a prisoner?s dilemma for the firms in the sense that they could make higher profits if each consumer bought only one of the varieties.This paper was accepted by Joshua Gans, business strategy.Funding: This work was supported by The Research Council of Norway (Program Kulmedia).
+AB  - Competition between firms that sell incompatible varieties of network products can be fierce because it is important for each of them to attract a large number of users. The literature, therefore, predicts that stronger network effects decrease prices and profits. We show that this prediction hinges critically on an implicit or explicit assumption that each consumer buys only one of the varieties available in the market (singlehoming consumers). We show that multihoming (some consumers buying more than one variety) can arise endogenously if the number of exclusive features that each variety offers is sufficiently large. In sharp contrast to the conventional prediction under consumer singlehoming, we further show that both prices and profits can increase with the strength of the network effects if (some) consumers multihome. However, this does not necessarily imply that profits are higher under multihoming than under singlehoming. On the contrary, multihoming can constitute a prisoner?s dilemma for the firms in the sense that they could make higher profits if each consumer bought only one of the varieties.This paper was accepted by Joshua Gans, business strategy.Funding: This work was supported by The Research Council of Norway (Program Kulmedia).
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00613
+UR  - https://doi.org/10.1287/mnsc.2022.00613
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - How Framing Influences Strategic Interactions
+AU  - Hsee, Christopher K.
+AU  - Imas, Alex
+AU  - Li, Xilin
+Y1  - 2024/07/03
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.00518
+DO  - 10.1287/mnsc.2023.00518
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3013
+EP  - 3025
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - In many settings, a person?s outcome depends not only on her own behavior, but also on her counterpart?s. Such strategic decisions have traditionally been studied using normative game theory, which assumes that people adopt equilibrium strategies and will reach the same decision, regardless of how the problem is described (framed). We examine a potentially important type of framing effect?focusing on how the relationship between players? actions generates joint outcomes. Any strategic interaction can be described by either spelling out the outcomes of all possible action combinations (which we call ?outcome framing,? or simply ?O-framing?) or describing what will happen if different players choose the same action or choose different actions (which we call ?relation framing,? or simply ?R-framing?). O-framing has been the typical way to describe a strategic problem in prior work, whereas R-framing is commonly employed in real-life communications. We propose that these functionally equivalent frames induce different psychological processes and lead to different decisions: Relative to O-framing, R-framing increases players? beliefs about their counterparts? likelihood of coordinating on a cooperative option. We demonstrate this effect in the context of classic games such as the Prisoner?s Dilemma and the Stag Hunt. We find that, compared with O-framing, R-framing significantly increases people?s likelihood to choose the action that maximizes collective benefits rather than individual interests, and it does so by increasing beliefs that one?s partner will choose the same action as well. We derive conditions when this effect is likely to emerge and discuss the managerial implications of this research.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00518.
+AB  - In many settings, a person?s outcome depends not only on her own behavior, but also on her counterpart?s. Such strategic decisions have traditionally been studied using normative game theory, which assumes that people adopt equilibrium strategies and will reach the same decision, regardless of how the problem is described (framed). We examine a potentially important type of framing effect?focusing on how the relationship between players? actions generates joint outcomes. Any strategic interaction can be described by either spelling out the outcomes of all possible action combinations (which we call ?outcome framing,? or simply ?O-framing?) or describing what will happen if different players choose the same action or choose different actions (which we call ?relation framing,? or simply ?R-framing?). O-framing has been the typical way to describe a strategic problem in prior work, whereas R-framing is commonly employed in real-life communications. We propose that these functionally equivalent frames induce different psychological processes and lead to different decisions: Relative to O-framing, R-framing increases players? beliefs about their counterparts? likelihood of coordinating on a cooperative option. We demonstrate this effect in the context of classic games such as the Prisoner?s Dilemma and the Stag Hunt. We find that, compared with O-framing, R-framing significantly increases people?s likelihood to choose the action that maximizes collective benefits rather than individual interests, and it does so by increasing beliefs that one?s partner will choose the same action as well. We derive conditions when this effect is likely to emerge and discuss the managerial implications of this research.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00518.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00518
+UR  - https://doi.org/10.1287/mnsc.2023.00518
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Identity, Diversity, and Team Performance: Evidence from U.S. Mutual Funds
+AU  - Evans, Richard B.
+AU  - Prado, Melissa Porras
+AU  - Rizzo, A. Emanuele
+AU  - Zambrana, Rafael
+Y1  - 2024/07/05
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.00544
+DO  - 10.1287/mnsc.2022.00544
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3026
+EP  - 3051
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We examine team diversity and performance in the asset management industry through the lens of identity. Focusing on political ideology as the relevant dimension of identity, we find that diverse teams outperform homogeneous teams. The mechanism involves both improved decision making due to more diverse perspectives and increased monitoring by heterogeneous team members. The benefits of ideological diversity are undone when political polarization is higher, consistent with increased intrateam conflict. In examining why less diverse teams are prevalent in asset management, we find entrenched managers prefer homogeneous teams, and the local labor market supply of ideologically diverse managers is constrained.This paper was accepted by Victoria Ivashina, finance.Funding: This work was funded by the Fundaç?o para a Ciência e a Tecnologia [UID/ECO/00124/2013 and Social Sciences DataLab, Project 22209], POR Lisboa [LISBOA-01-0145-FEDER-007722 and Social Sciences DataLab, Project 22209], and POR Norte [Social Sciences DataLab, Project 22209].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00544.
+AB  - We examine team diversity and performance in the asset management industry through the lens of identity. Focusing on political ideology as the relevant dimension of identity, we find that diverse teams outperform homogeneous teams. The mechanism involves both improved decision making due to more diverse perspectives and increased monitoring by heterogeneous team members. The benefits of ideological diversity are undone when political polarization is higher, consistent with increased intrateam conflict. In examining why less diverse teams are prevalent in asset management, we find entrenched managers prefer homogeneous teams, and the local labor market supply of ideologically diverse managers is constrained.This paper was accepted by Victoria Ivashina, finance.Funding: This work was funded by the Fundaç?o para a Ciência e a Tecnologia [UID/ECO/00124/2013 and Social Sciences DataLab, Project 22209], POR Lisboa [LISBOA-01-0145-FEDER-007722 and Social Sciences DataLab, Project 22209], and POR Norte [Social Sciences DataLab, Project 22209].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00544.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00544
+UR  - https://doi.org/10.1287/mnsc.2022.00544
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Advance Selling to Ease Financial Distress
+AU  - Papanastasiou, Yiangos
+AU  - Xiao, Shuang
+AU  - Yang, S. Alex
+Y1  - 2024/07/05
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2020.03904
+DO  - 10.1287/mnsc.2020.03904
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3052
+EP  - 3105
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Left unable to provide service during the COVID-19 pandemic, many small businesses have experimented with alternative ways of generating income. One approach that has gained traction is the use of advance selling, whereby the firm asks consumers in its local community to support the business by paying in advance for consumption at a future date. In this paper, we develop a game theoretic model to investigate whether and how advance selling schemes can be successfully implemented by firms facing financial distress. In cases of high distress (i.e., where obtaining bank financing is infeasible given the firm?s financial need), we show that advance selling in its classic implementation can help the firm secure its survival in some scenarios but may suffer from significant inefficiencies associated with strategic consumer behavior and firm moral hazard. We demonstrate that two modifications of the classic scheme currently observed in practice?namely, (i) the introduction of an ?all-or-nothing? clause and (ii) selling future discount coupons as opposed to the full service?can expand the set of scenarios in which survival is ensured while also allowing the firm to extract higher profit. In cases of moderate financial distress (i.e., where bank financing is a feasible but inefficient option), we find that simple advance selling schemes typically fail to make an impact. However, we show that a more complex scheme, combining both of the aforementioned modifications simultaneously, can be used in conjunction with bank financing to generate a substantial improvement in firm profit.This paper was accepted by Jeannette Song, operations management.Funding: The work of author S. Xiao was supported by the National Natural Science Foundation of China [Grant 71901221].
+AB  - Left unable to provide service during the COVID-19 pandemic, many small businesses have experimented with alternative ways of generating income. One approach that has gained traction is the use of advance selling, whereby the firm asks consumers in its local community to support the business by paying in advance for consumption at a future date. In this paper, we develop a game theoretic model to investigate whether and how advance selling schemes can be successfully implemented by firms facing financial distress. In cases of high distress (i.e., where obtaining bank financing is infeasible given the firm?s financial need), we show that advance selling in its classic implementation can help the firm secure its survival in some scenarios but may suffer from significant inefficiencies associated with strategic consumer behavior and firm moral hazard. We demonstrate that two modifications of the classic scheme currently observed in practice?namely, (i) the introduction of an ?all-or-nothing? clause and (ii) selling future discount coupons as opposed to the full service?can expand the set of scenarios in which survival is ensured while also allowing the firm to extract higher profit. In cases of moderate financial distress (i.e., where bank financing is a feasible but inefficient option), we find that simple advance selling schemes typically fail to make an impact. However, we show that a more complex scheme, combining both of the aforementioned modifications simultaneously, can be used in conjunction with bank financing to generate a substantial improvement in firm profit.This paper was accepted by Jeannette Song, operations management.Funding: The work of author S. Xiao was supported by the National Natural Science Foundation of China [Grant 71901221].
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.03904
+UR  - https://doi.org/10.1287/mnsc.2020.03904
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Estimating Stockout Costs and Optimal Stockout Rates: A Case on the Management of Ugly Produce Inventory
+AU  - Lim, Stanley Frederick W. T.
+AU  - Rabinovich, Elliot
+AU  - Lee, Sanghak
+AU  - Park, Sungho
+Y1  - 2024/07/09
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2021.03174
+DO  - 10.1287/mnsc.2021.03174
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3106
+EP  - 3126
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Efficiently managing inventories requires an accurate estimation of stockout costs. This estimation is complicated by challenges in determining how to compensate consumers monetarily to ensure they will maintain the same level of utility they would have obtained had stockouts not occurred. This paper presents an analysis of these compensation costs as applied to the design of optimal stockout rates by an online retailer marketing to consumers aesthetically substandard fruits and vegetables rejected by mainstream grocery chains. Because growers face high uncertainty in their harvesting conditions and in the aesthetic quality of their crops and there are little data on hand to predict the value consumers attach to the availability of subpar produce, it is difficult to optimally match the supply of these products with consumers? demand. Our analysis draws from a multiple discrete-continuous extreme value (MDCEV) choice model to calculate consumer compensations that the retailer can use to estimate the opportunity costs of stockouts to manage its inventory. We show that not taking into account these compensation costs could unduly inflate the optimal stockout rates for these products. Armed with these compensation cost estimates, we show how these costs can serve as incentives for retailers to source greater inventory amounts of imperfect produce from growers and how this will ultimately translate into less waste in the supply chain.This paper was accepted by Charles Corbett, operations management.Funding: Funding from Agriculture and Food Research Initiative (National Institute for Food and Agriculture, USDA) [Grant 2016-09900] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03174.
+AB  - Efficiently managing inventories requires an accurate estimation of stockout costs. This estimation is complicated by challenges in determining how to compensate consumers monetarily to ensure they will maintain the same level of utility they would have obtained had stockouts not occurred. This paper presents an analysis of these compensation costs as applied to the design of optimal stockout rates by an online retailer marketing to consumers aesthetically substandard fruits and vegetables rejected by mainstream grocery chains. Because growers face high uncertainty in their harvesting conditions and in the aesthetic quality of their crops and there are little data on hand to predict the value consumers attach to the availability of subpar produce, it is difficult to optimally match the supply of these products with consumers? demand. Our analysis draws from a multiple discrete-continuous extreme value (MDCEV) choice model to calculate consumer compensations that the retailer can use to estimate the opportunity costs of stockouts to manage its inventory. We show that not taking into account these compensation costs could unduly inflate the optimal stockout rates for these products. Armed with these compensation cost estimates, we show how these costs can serve as incentives for retailers to source greater inventory amounts of imperfect produce from growers and how this will ultimately translate into less waste in the supply chain.This paper was accepted by Charles Corbett, operations management.Funding: Funding from Agriculture and Food Research Initiative (National Institute for Food and Agriculture, USDA) [Grant 2016-09900] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03174.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03174
+UR  - https://doi.org/10.1287/mnsc.2021.03174
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Networking Frictions and Entrepreneurial Learning in Developing Economies
+AU  - Dimitriadis, Stefan
+AU  - Koning, Rembrand
+Y1  - 2024/07/10
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.00281
+DO  - 10.1287/mnsc.2022.00281
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3127
+EP  - 3145
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Relationships with peers help entrepreneurs learn and improve firm performance. Recent scholarship confirms that events?social gatherings such as mixers, conferences, or training programs?can help entrepreneurs build valuable social connections. Yet, for entrepreneurs in developing economies, networking frictions may make connecting with peers challenging and undermine the benefits of events. We argue that when networking frictions are high, the value of events will lie more in connecting neighbors rather than bringing together distant peers. In the presence of networking frictions, neighbors are both less likely to be someone the entrepreneur has already learned from and easier to sustain a relationship with. To test this argument, we use data from a series of networking events in Togo during which entrepreneurs were randomly assigned to meet with peers from across the city of Lomé. We find that entrepreneurs who were assigned to neighboring peers were much more likely to sustain a relationship, learn from their peer?s management knowledge, and in turn benefit more: Profits increase by 10% when entrepreneurs get to know peers who are located on average 1?km closer to them. Our results highlight the central role that networking frictions play in shaping who entrepreneurs in developing economies can successfully learn from.This paper was accepted by Lamar Pierce, organizations.Funding: Ewing Marion Kauffman Foundation [Dissertation Fellowship] and the Strategic Management Society [SRF Dissertation Fellowship].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00281.
+AB  - Relationships with peers help entrepreneurs learn and improve firm performance. Recent scholarship confirms that events?social gatherings such as mixers, conferences, or training programs?can help entrepreneurs build valuable social connections. Yet, for entrepreneurs in developing economies, networking frictions may make connecting with peers challenging and undermine the benefits of events. We argue that when networking frictions are high, the value of events will lie more in connecting neighbors rather than bringing together distant peers. In the presence of networking frictions, neighbors are both less likely to be someone the entrepreneur has already learned from and easier to sustain a relationship with. To test this argument, we use data from a series of networking events in Togo during which entrepreneurs were randomly assigned to meet with peers from across the city of Lomé. We find that entrepreneurs who were assigned to neighboring peers were much more likely to sustain a relationship, learn from their peer?s management knowledge, and in turn benefit more: Profits increase by 10% when entrepreneurs get to know peers who are located on average 1?km closer to them. Our results highlight the central role that networking frictions play in shaping who entrepreneurs in developing economies can successfully learn from.This paper was accepted by Lamar Pierce, organizations.Funding: Ewing Marion Kauffman Foundation [Dissertation Fellowship] and the Strategic Management Society [SRF Dissertation Fellowship].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00281.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00281
+UR  - https://doi.org/10.1287/mnsc.2022.00281
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Sleep Disruptions and Information Processing in Financial Markets
+AU  - Bazley, William
+AU  - Cuculiza, Carina
+AU  - Pisciotta, Kevin
+Y1  - 2024/07/11
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.01102
+DO  - 10.1287/mnsc.2022.01102
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3146
+EP  - 3165
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Despite evidence of the importance of sleep for cognitive performance, prior research finds limited effects of sleep disruptions on financial markets. This is puzzling because financial decisions rely on higher-order cognitive processes that are typically affected by sleep. We reconcile this dissonance by examining forecasts of corporate earnings by nonprofessional and professional forecasters. We find that nonprofessional forecasters exhibit a significant decline in their forecast accuracy following spring daylight saving time changes relative to professional forecasters. Using a separate sample of professional equity analysts? forecasts, we continue to find that the information processing of analysts with less expertise is disproportionately negatively affected following sleep disruptions. Placebo tests provide support for sleep disruptions as the main driver of these effects. Overall, our evidence that information processing by less experienced and skilled market participants is particularly vulnerable to sleep disruptions provides one compelling reason why aggregate financial markets seem to be immune to sleep effects even though individual participants are not.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01102.
+AB  - Despite evidence of the importance of sleep for cognitive performance, prior research finds limited effects of sleep disruptions on financial markets. This is puzzling because financial decisions rely on higher-order cognitive processes that are typically affected by sleep. We reconcile this dissonance by examining forecasts of corporate earnings by nonprofessional and professional forecasters. We find that nonprofessional forecasters exhibit a significant decline in their forecast accuracy following spring daylight saving time changes relative to professional forecasters. Using a separate sample of professional equity analysts? forecasts, we continue to find that the information processing of analysts with less expertise is disproportionately negatively affected following sleep disruptions. Placebo tests provide support for sleep disruptions as the main driver of these effects. Overall, our evidence that information processing by less experienced and skilled market participants is particularly vulnerable to sleep disruptions provides one compelling reason why aggregate financial markets seem to be immune to sleep effects even though individual participants are not.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01102.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01102
+UR  - https://doi.org/10.1287/mnsc.2022.01102
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Scarcity of Ideas and Optimal R&D Policy
+AU  - Basov, Suren
+AU  - Erkal, Nisvan
+AU  - Minehart, Deborah
+AU  - Scotchmer, Suzanne
+Y1  - 2024/07/12
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.03362
+DO  - 10.1287/mnsc.2023.03362
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3166
+EP  - 3184
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We consider a model of innovation that distinguishes between ideas and innovations. Although innovation responds to incentives, ideas are a scarce resource that provides an exogenous constraint on the rate of innovation. We investigate how the optimal reward structure is shaped by the scarcity of ideas. Substitute ideas for innovation in the model arrive to random recipients at random times. By forgoing investment in a current idea, society preserves an option to invest in a better idea for the same market niche but with delay. Because successive ideas may occur to different people, there is a conflict between private and social optimality. The social planner does not observe the arrival of ideas and learns over time about the arrival rate of ideas. We represent the social planner?s beliefs using a general continuous density and illustrate that the evolution of beliefs can be tracked by the cumulative hazard function. The reward set by the social planner serves a dual purpose: learning about the arrival rate of ideas and trading off lower delays against lower-cost ideas. We show that the optimal reward increases as time passes because the social planner comes to view ideas as more scarce.This paper was accepted by Joshua Gans, business strategy.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.03362.
+AB  - We consider a model of innovation that distinguishes between ideas and innovations. Although innovation responds to incentives, ideas are a scarce resource that provides an exogenous constraint on the rate of innovation. We investigate how the optimal reward structure is shaped by the scarcity of ideas. Substitute ideas for innovation in the model arrive to random recipients at random times. By forgoing investment in a current idea, society preserves an option to invest in a better idea for the same market niche but with delay. Because successive ideas may occur to different people, there is a conflict between private and social optimality. The social planner does not observe the arrival of ideas and learns over time about the arrival rate of ideas. We represent the social planner?s beliefs using a general continuous density and illustrate that the evolution of beliefs can be tracked by the cumulative hazard function. The reward set by the social planner serves a dual purpose: learning about the arrival rate of ideas and trading off lower delays against lower-cost ideas. We show that the optimal reward increases as time passes because the social planner comes to view ideas as more scarce.This paper was accepted by Joshua Gans, business strategy.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.03362.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.03362
+UR  - https://doi.org/10.1287/mnsc.2023.03362
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Do Proprietary Costs Deter Insider Trading?
+AU  - Choi, Lyungmae
+AU  - Faurel, Lucile
+AU  - Hillegeist, Stephen
+Y1  - 2024/07/12
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2021.02469
+DO  - 10.1287/mnsc.2021.02469
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3185
+EP  - 3215
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Insider trading conveys insiders? private information to outsiders. This private information potentially benefits rival firms, which may reduce the competitive advantage of the insiders? firms. Using a composite proprietary cost measure, we find proprietary costs are negatively associated with insiders? purchases, especially when their trades are more likely to be informative to rivals. Consistent with proprietary costs increasing the costs of insider purchases and, hence, the expected benefits required to trade, insiders earn significantly higher abnormal profits when proprietary costs are higher. Exploiting settings with exogenous and event-driven variation in proprietary costs, we find insiders significantly reduce their purchases when noncompete agreement enforceability is high and before new product launches. Moreover, firms with higher proprietary costs are more likely to impose window-based insider trading restrictions and insiders with greater equity holdings reduce their purchases more strongly in the presence of proprietary costs. Finally, we provide evidence of real effects of insider trading on rivals? investment decisions. We find that investments are associated with insiders? purchases at rival firms, and these associations are stronger when proprietary costs at rivals are higher. Our findings indicate insiders and firms are aware of potential proprietary costs when insiders trade on private information and respond accordingly.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2021.02469.
+AB  - Insider trading conveys insiders? private information to outsiders. This private information potentially benefits rival firms, which may reduce the competitive advantage of the insiders? firms. Using a composite proprietary cost measure, we find proprietary costs are negatively associated with insiders? purchases, especially when their trades are more likely to be informative to rivals. Consistent with proprietary costs increasing the costs of insider purchases and, hence, the expected benefits required to trade, insiders earn significantly higher abnormal profits when proprietary costs are higher. Exploiting settings with exogenous and event-driven variation in proprietary costs, we find insiders significantly reduce their purchases when noncompete agreement enforceability is high and before new product launches. Moreover, firms with higher proprietary costs are more likely to impose window-based insider trading restrictions and insiders with greater equity holdings reduce their purchases more strongly in the presence of proprietary costs. Finally, we provide evidence of real effects of insider trading on rivals? investment decisions. We find that investments are associated with insiders? purchases at rival firms, and these associations are stronger when proprietary costs at rivals are higher. Our findings indicate insiders and firms are aware of potential proprietary costs when insiders trade on private information and respond accordingly.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2021.02469.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02469
+UR  - https://doi.org/10.1287/mnsc.2021.02469
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Does Online Fundraising Increase Charitable Giving? A Nationwide Field Experiment on Facebook
+AU  - Adena, Maja
+AU  - Hager, Anselm
+Y1  - 2024/07/16
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2020.00596
+DO  - 10.1287/mnsc.2020.00596
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3216
+EP  - 3231
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Does online fundraising increase charitable giving? Using the Facebook advertising tool, we implemented a natural field experiment across Germany, randomly assigning almost 8,000 postal codes to Save the Children fundraising videos or to a pure control. We studied changes in the donation revenue and frequency for Save the Children and other charities by postal code. Our geo-randomized design circumvented many difficulties inherent in studies based on click-through data, especially substitution and measurement issues. We found that (i) video fundraising increased donation revenue and frequency to Save the Children during the campaign and in the subsequent five weeks, that (ii) the campaign was profitable for the fundraiser, and that (iii) the effects were similar independent of video content and impression assignment strategy. However, we also found some crowding out of donations to other similar charities or projects. Finally, we demonstrated that click data may be an inappropriate proxy for donations and recommend that managers use careful experimental designs that can plausibly evaluate the effects of advertising on relevant outcomes.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: M. Adena acknowledges financial support from the Deutsche Forschungsgemeinschaft [Grants 417014946 and CRC TRR 190 (Project 280092119)].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.00596.
+AB  - Does online fundraising increase charitable giving? Using the Facebook advertising tool, we implemented a natural field experiment across Germany, randomly assigning almost 8,000 postal codes to Save the Children fundraising videos or to a pure control. We studied changes in the donation revenue and frequency for Save the Children and other charities by postal code. Our geo-randomized design circumvented many difficulties inherent in studies based on click-through data, especially substitution and measurement issues. We found that (i) video fundraising increased donation revenue and frequency to Save the Children during the campaign and in the subsequent five weeks, that (ii) the campaign was profitable for the fundraiser, and that (iii) the effects were similar independent of video content and impression assignment strategy. However, we also found some crowding out of donations to other similar charities or projects. Finally, we demonstrated that click data may be an inappropriate proxy for donations and recommend that managers use careful experimental designs that can plausibly evaluate the effects of advertising on relevant outcomes.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: M. Adena acknowledges financial support from the Deutsche Forschungsgemeinschaft [Grants 417014946 and CRC TRR 190 (Project 280092119)].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.00596.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.00596
+UR  - https://doi.org/10.1287/mnsc.2020.00596
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Information Ambiguity, Market Institutions, and Asset Prices: Experimental Evidence
+AU  - Bao, Te
+AU  - Duffy, John
+AU  - Zhu, Jiahua
+Y1  - 2024/07/17
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.01223
+DO  - 10.1287/mnsc.2022.01223
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3232
+EP  - 3252
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We explore how information ambiguity and traders? attitudes toward such ambiguity affect expectations and asset prices under three different market institutions. Specifically, we test a theoretical prediction that information ambiguity will lead market prices to overreact to bad news and underreact to good news. We find that such an asymmetric reaction exists and is strongest in individual prediction markets. It occurs to a lesser extent in single price call markets. It is weakest of all in double auction markets, in which buyers? asymmetric reaction to good/bad news is cancelled out by the opposite asymmetric reaction of sellers.This paper was accepted by Camelia Kuhnen, finance.Funding: Financial support from a Tier 1 Grant from MOE of Singapore [Grant RG 69/19], NTU-WeBank JRC [Grant NWJ-2020-003], the National Natural Science Foundation of China [Grants 72303170, 72141304], and the National Key Research and Development Program of China [Grant 2022YFC3303304] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01223.
+AB  - We explore how information ambiguity and traders? attitudes toward such ambiguity affect expectations and asset prices under three different market institutions. Specifically, we test a theoretical prediction that information ambiguity will lead market prices to overreact to bad news and underreact to good news. We find that such an asymmetric reaction exists and is strongest in individual prediction markets. It occurs to a lesser extent in single price call markets. It is weakest of all in double auction markets, in which buyers? asymmetric reaction to good/bad news is cancelled out by the opposite asymmetric reaction of sellers.This paper was accepted by Camelia Kuhnen, finance.Funding: Financial support from a Tier 1 Grant from MOE of Singapore [Grant RG 69/19], NTU-WeBank JRC [Grant NWJ-2020-003], the National Natural Science Foundation of China [Grants 72303170, 72141304], and the National Key Research and Development Program of China [Grant 2022YFC3303304] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01223.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01223
+UR  - https://doi.org/10.1287/mnsc.2022.01223
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Return to the United States: Impact of Reshoring Announcements and Reshoring Risks on Market Valuation
+AU  - Cheng, Miyuki P. S.
+AU  - Tang, Christopher
+AU  - Lo, Chris K. Y.
+AU  - Yeung, Andy C. L.
+AU  - Lam, Hugo K. S.
+Y1  - 2024/07/17
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.00599
+DO  - 10.1287/mnsc.2022.00599
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3253
+EP  - 3282
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - With soaring labor and logistics costs in developing countries, supply chain disruptions during the COVID-19 pandemic triggered Western firms to ?reshore? some of their offshore operations (performed in-house or outsourced) for certain strategically important products or production processes from foreign countries to their home countries. Although reshoring can create more domestic jobs and reduce supply chain risks, the impact of various external and internal risks associated with reshoring on market reaction remains unclear. This observation motivates us first to conduct a text mining analysis, revealing four important types of reshoring risks inherent to (1) foreign currency fluctuation, (2) intellectual property (IP) protection, (3) reshoring types (in-house, insourced, or outsourcing-to-outsourcing (OTO)), and (4) reshoring location choice (Republican- versus Democrat-led states). We then examine how these risk factors help explain the variations in reshoring?s market valuation based on 281 reshoring initiatives of 132 publicly traded firms in the United States announced between 2009 and 2022. Our empirical analysis reveals that the market reacts more positively to a firm?s reshoring announcement when the firm reshores under a high-currency-fluctuation environment or from countries with weak IP protection. However, the market?s reaction is more negative when the firm?s reshoring announcement entails insourced reshoring operations or when the reshored location is a Democrat- rather than Republican-led state. We do not find a significant market reaction to OTO reshoring.This paper was accepted by Vishal Gaur, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00599.
+AB  - With soaring labor and logistics costs in developing countries, supply chain disruptions during the COVID-19 pandemic triggered Western firms to ?reshore? some of their offshore operations (performed in-house or outsourced) for certain strategically important products or production processes from foreign countries to their home countries. Although reshoring can create more domestic jobs and reduce supply chain risks, the impact of various external and internal risks associated with reshoring on market reaction remains unclear. This observation motivates us first to conduct a text mining analysis, revealing four important types of reshoring risks inherent to (1) foreign currency fluctuation, (2) intellectual property (IP) protection, (3) reshoring types (in-house, insourced, or outsourcing-to-outsourcing (OTO)), and (4) reshoring location choice (Republican- versus Democrat-led states). We then examine how these risk factors help explain the variations in reshoring?s market valuation based on 281 reshoring initiatives of 132 publicly traded firms in the United States announced between 2009 and 2022. Our empirical analysis reveals that the market reacts more positively to a firm?s reshoring announcement when the firm reshores under a high-currency-fluctuation environment or from countries with weak IP protection. However, the market?s reaction is more negative when the firm?s reshoring announcement entails insourced reshoring operations or when the reshored location is a Democrat- rather than Republican-led state. We do not find a significant market reaction to OTO reshoring.This paper was accepted by Vishal Gaur, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00599.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00599
+UR  - https://doi.org/10.1287/mnsc.2022.00599
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Discovering Causal Models with Optimization: Confounders, Cycles, and Instrument Validity
+AU  - Eberhardt, Frederick
+AU  - Kaynar, Nur
+AU  - Siddiq, Auyon
+Y1  - 2024/07/17
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2021.02066
+DO  - 10.1287/mnsc.2021.02066
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3283
+EP  - 3302
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We propose a new optimization-based method for learning causal structures from observational data, a process known as causal discovery. Our method takes as input observational data over a set of variables and returns a graph in which causal relations are specified by directed edges. We consider a highly general search space that accommodates latent confounders and feedback cycles, which few extant methods do. We formulate the discovery problem as an integer program, and propose a solution technique that exploits the conditional independence structure in the data to identify promising edges for inclusion in the output graph. In the large-sample limit, our method recovers a graph that is (Markov) equivalent to the true data-generating graph. Computationally, our method is competitive with the state-of-the-art, and can solve in minutes instances that are intractable for alternative causal discovery methods. We leverage our method to develop a procedure for investigating the validity of an instrumental variable and demonstrate it on the influential quarter-of-birth and proximity-to-college instruments for estimating the returns to education. In particular, our procedure complements existing instrument tests by revealing the precise causal pathways that undermine instrument validity, highlighting the unique merits of the graphical perspective on causality.This paper was accepted by J. George Shanthikumar, data science.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.02066.
+AB  - We propose a new optimization-based method for learning causal structures from observational data, a process known as causal discovery. Our method takes as input observational data over a set of variables and returns a graph in which causal relations are specified by directed edges. We consider a highly general search space that accommodates latent confounders and feedback cycles, which few extant methods do. We formulate the discovery problem as an integer program, and propose a solution technique that exploits the conditional independence structure in the data to identify promising edges for inclusion in the output graph. In the large-sample limit, our method recovers a graph that is (Markov) equivalent to the true data-generating graph. Computationally, our method is competitive with the state-of-the-art, and can solve in minutes instances that are intractable for alternative causal discovery methods. We leverage our method to develop a procedure for investigating the validity of an instrumental variable and demonstrate it on the influential quarter-of-birth and proximity-to-college instruments for estimating the returns to education. In particular, our procedure complements existing instrument tests by revealing the precise causal pathways that undermine instrument validity, highlighting the unique merits of the graphical perspective on causality.This paper was accepted by J. George Shanthikumar, data science.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.02066.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02066
+UR  - https://doi.org/10.1287/mnsc.2021.02066
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Cost of Impatience in Dynamic Matching: Scaling Laws and Operating Regimes
+AU  - Kohlenberg, Angela
+AU  - Gurvich, Itai
+Y1  - 2024/07/19
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.01513
+DO  - 10.1287/mnsc.2023.01513
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3303
+EP  - 3319
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We study matching queues with abandonment. The simplest of these is the two-sided queue with servers on one side and customers on the other, both arriving dynamically over time and abandoning if not matched by the time their patience elapses. We identify nonasymptotic and universal scaling laws for the matching loss due to abandonment, which we refer to as the ?cost of impatience.? The scaling laws characterize the way in which this cost depends on the arrival rates and the (possibly different) mean patience of servers and customers. Our characterization reveals four operating regimes identified by an operational measure of patience that brings together mean patience and utilization. The four regimes subsume the regimes that arise in asymptotic (heavy-traffic) approximations. The scaling laws, specialized to each regime, reveal the fundamental structure of the cost of impatience and show that its order of magnitude is fully determined by (i) a ?winner-take-all? competition between customer impatience and utilization, and (ii) the ability to accumulate inventory on the server side. Practically important is that when servers are impatient, the cost of impatience is, up to an order of magnitude, given by an insightful expression where only the minimum of the two patience rates appears. Considering the trade-off between abandonment and capacity costs, we characterize the scaling of the optimal safety capacity as a function of costs, arrival rates, and patience parameters. We prove that the ability to hold inventory of servers means that the optimal safety capacity grows logarithmically in abandonment cost and, in turn, slower than the square-root growth in the single-sided queue.This paper was accepted by Baris Ata, stochastic models and simulation.Funding: This work was supported by the National Science Foundation [Grant CMM-2137286].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01513.
+AB  - We study matching queues with abandonment. The simplest of these is the two-sided queue with servers on one side and customers on the other, both arriving dynamically over time and abandoning if not matched by the time their patience elapses. We identify nonasymptotic and universal scaling laws for the matching loss due to abandonment, which we refer to as the ?cost of impatience.? The scaling laws characterize the way in which this cost depends on the arrival rates and the (possibly different) mean patience of servers and customers. Our characterization reveals four operating regimes identified by an operational measure of patience that brings together mean patience and utilization. The four regimes subsume the regimes that arise in asymptotic (heavy-traffic) approximations. The scaling laws, specialized to each regime, reveal the fundamental structure of the cost of impatience and show that its order of magnitude is fully determined by (i) a ?winner-take-all? competition between customer impatience and utilization, and (ii) the ability to accumulate inventory on the server side. Practically important is that when servers are impatient, the cost of impatience is, up to an order of magnitude, given by an insightful expression where only the minimum of the two patience rates appears. Considering the trade-off between abandonment and capacity costs, we characterize the scaling of the optimal safety capacity as a function of costs, arrival rates, and patience parameters. We prove that the ability to hold inventory of servers means that the optimal safety capacity grows logarithmically in abandonment cost and, in turn, slower than the square-root growth in the single-sided queue.This paper was accepted by Baris Ata, stochastic models and simulation.Funding: This work was supported by the National Science Foundation [Grant CMM-2137286].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01513.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01513
+UR  - https://doi.org/10.1287/mnsc.2023.01513
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - A High-Dimensional Choice Model for Online Retailing
+AU  - Jiang, Zhaohui (Zoey)
+AU  - Li, Jun
+AU  - Zhang, Dennis
+Y1  - 2024/07/19
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2020.02715
+DO  - 10.1287/mnsc.2020.02715
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3320
+EP  - 3339
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Online retailers are facing an increasing variety of product choices and diversified consumer decision journeys. To improve many operations decisions for online retailers, such as demand forecasting and inventory management and pricing, an important first step is to obtain an accurate estimate of the substitution patterns among a large number of products offered in the complex online environment. Classic choice models either do not account for these substitution patterns beyond what is reflected through observed product features or do so in a simplified way by making a priori assumptions. These shortcomings become particularly restrictive when the underlying substitution patterns get complex as the number of options increases. We provide a solution by developing a high-dimensional choice model that allows for flexible substitution patterns and easily scales up. We leverage consumer clickstream data and combine econometric and machine learning (graphical lasso, in particular) methods to learn the substitution patterns among a large number of products. We show our method offers more accurate demand forecasts in a wide range of synthetic scenarios when compared with classical models (e.g., the independent and identically distributed Probit model), reducing out-of-sample mean absolute percentage error by 10%?30%. Such performance improvement is further supported by observations from a real-world empirical setting. More importantly, our method excels in precisely recovering substitution patterns across products. Compared with benchmark models, it reduces the percentage deviation from the underlying elasticity matrix by approximately half. This precision serves as a critical input for enhancing business decisions such as assortment planning, inventory management, and pricing strategies.This paper was accepted by Vishal Gaur, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.02715.
+AB  - Online retailers are facing an increasing variety of product choices and diversified consumer decision journeys. To improve many operations decisions for online retailers, such as demand forecasting and inventory management and pricing, an important first step is to obtain an accurate estimate of the substitution patterns among a large number of products offered in the complex online environment. Classic choice models either do not account for these substitution patterns beyond what is reflected through observed product features or do so in a simplified way by making a priori assumptions. These shortcomings become particularly restrictive when the underlying substitution patterns get complex as the number of options increases. We provide a solution by developing a high-dimensional choice model that allows for flexible substitution patterns and easily scales up. We leverage consumer clickstream data and combine econometric and machine learning (graphical lasso, in particular) methods to learn the substitution patterns among a large number of products. We show our method offers more accurate demand forecasts in a wide range of synthetic scenarios when compared with classical models (e.g., the independent and identically distributed Probit model), reducing out-of-sample mean absolute percentage error by 10%?30%. Such performance improvement is further supported by observations from a real-world empirical setting. More importantly, our method excels in precisely recovering substitution patterns across products. Compared with benchmark models, it reduces the percentage deviation from the underlying elasticity matrix by approximately half. This precision serves as a critical input for enhancing business decisions such as assortment planning, inventory management, and pricing strategies.This paper was accepted by Vishal Gaur, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.02715.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.02715
+UR  - https://doi.org/10.1287/mnsc.2020.02715
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Third-Degree Price Discrimination in Two-Sided Markets
+AU  - de Cornière, Alexandre
+AU  - Mantovani, Andrea
+AU  - Shekhar, Shiva
+Y1  - 2024/07/22
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.02788
+DO  - 10.1287/mnsc.2023.02788
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3340
+EP  - 3356
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We investigate the welfare effects of third-degree price discrimination by a two-sided platform that enables interaction between buyers and sellers. Sellers are heterogeneous with respect to their per-interaction benefit, and, under price discrimination, the platform can condition its fee on sellers? type. In a model with linear demand on each side, we show that price discrimination (i) increases participation on both sides, (ii) enhances total welfare, and (iii) may result in a strict Pareto improvement, with both seller types being better off than under uniform pricing. These results, which are in stark contrast to the traditional analysis of price discrimination, are driven by the existence of cross-group network effects. By improving the ability to monetize seller participation, price discrimination induces the platform to attract more buyers, which then increases seller participation. The Pareto improvement result means that even those sellers who pay a higher price under discrimination can be better off, because of the increased buyer participation.This paper was accepted by Joshua Gans, business strategy.Funding: A. de Cornière acknowledges funding from ANR [Grant ANR-17-EURE-0010] (Investissements d?Avenir program).Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02788.
+AB  - We investigate the welfare effects of third-degree price discrimination by a two-sided platform that enables interaction between buyers and sellers. Sellers are heterogeneous with respect to their per-interaction benefit, and, under price discrimination, the platform can condition its fee on sellers? type. In a model with linear demand on each side, we show that price discrimination (i) increases participation on both sides, (ii) enhances total welfare, and (iii) may result in a strict Pareto improvement, with both seller types being better off than under uniform pricing. These results, which are in stark contrast to the traditional analysis of price discrimination, are driven by the existence of cross-group network effects. By improving the ability to monetize seller participation, price discrimination induces the platform to attract more buyers, which then increases seller participation. The Pareto improvement result means that even those sellers who pay a higher price under discrimination can be better off, because of the increased buyer participation.This paper was accepted by Joshua Gans, business strategy.Funding: A. de Cornière acknowledges funding from ANR [Grant ANR-17-EURE-0010] (Investissements d?Avenir program).Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02788.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.02788
+UR  - https://doi.org/10.1287/mnsc.2023.02788
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Skin or Skim? Inside Investment and Hedge Fund Performance
+AU  - Gupta, Arpit
+AU  - Sachdeva, Kunal
+Y1  - 2024/07/23
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2024.4984
+DO  - 10.1287/mnsc.2024.4984
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3357
+EP  - 3383
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Hedge fund managers contribute substantial personal capital, or ?skin in the game,? into their funds. Although these allocations may better align incentives, managers may also strategically allocate their private capital in ways that negatively affect outside investors. We find that funds with more inside investment outperform other funds within the same family. This relationship is driven by managerial decisions to invest their own capital in their least-scalable strategies and restrict the entry of new outsider capital into these funds. Our results suggest that insider capital may work as a rent-extraction mechanism at the expense of fund participation of outside investors.This paper was accepted by Gustavo Manso, finance.Funding: This work was supported by Columbia University and the Leonard N. Stern School of Business, New York University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4984.
+AB  - Hedge fund managers contribute substantial personal capital, or ?skin in the game,? into their funds. Although these allocations may better align incentives, managers may also strategically allocate their private capital in ways that negatively affect outside investors. We find that funds with more inside investment outperform other funds within the same family. This relationship is driven by managerial decisions to invest their own capital in their least-scalable strategies and restrict the entry of new outsider capital into these funds. Our results suggest that insider capital may work as a rent-extraction mechanism at the expense of fund participation of outside investors.This paper was accepted by Gustavo Manso, finance.Funding: This work was supported by Columbia University and the Leonard N. Stern School of Business, New York University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4984.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2024.4984
+UR  - https://doi.org/10.1287/mnsc.2024.4984
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Self-Guided Approximate Linear Programs: Randomized Multi-Shot Approximation of Discounted Cost Markov Decision Processes
+AU  - Pakiman, Parshan
+AU  - Nadarajah, Selvaprabu
+AU  - Soheili, Negar
+AU  - Lin, Qihang
+Y1  - 2024/07/23
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2020.00038
+DO  - 10.1287/mnsc.2020.00038
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3384
+EP  - 3404
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Approximate linear programs (ALPs) are well-known models based on value function approximations (VFAs) to obtain policies and lower bounds on the optimal policy cost of discounted-cost Markov decision processes (MDPs). Formulating an ALP requires (i) basis functions, the linear combination of which defines the VFA, and (ii) a state-relevance distribution, which determines the relative importance of different states in the ALP objective for the purpose of minimizing VFA error. Both of these choices are typically heuristic; basis function selection relies on domain knowledge, whereas the state-relevance distribution is specified using the frequency of states visited by a baseline policy. We propose a self-guided sequence of ALPs that embeds random basis functions obtained via inexpensive sampling and uses the known VFA from the previous iteration to guide VFA computation in the current iteration. In other words, this sequence takes multiple shots at randomly approximating the MDP value function with VFA-based guidance between consecutive approximation attempts. Self-guided ALPs mitigate domain knowledge during basis function selection and the impact of the state-relevance-distribution choice, thus reducing the ALP implementation burden. We establish high-probability error bounds on the VFAs from this sequence and show that a worst-case measure of policy performance is improved. We find that these favorable implementation and theoretical properties translate to encouraging numerical results on perishable inventory control and options pricing applications, where self-guided ALP policies improve upon policies from problem-specific methods. More broadly, our research takes a meaningful step toward application-agnostic policies and bounds for MDPs.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.00038.
+AB  - Approximate linear programs (ALPs) are well-known models based on value function approximations (VFAs) to obtain policies and lower bounds on the optimal policy cost of discounted-cost Markov decision processes (MDPs). Formulating an ALP requires (i) basis functions, the linear combination of which defines the VFA, and (ii) a state-relevance distribution, which determines the relative importance of different states in the ALP objective for the purpose of minimizing VFA error. Both of these choices are typically heuristic; basis function selection relies on domain knowledge, whereas the state-relevance distribution is specified using the frequency of states visited by a baseline policy. We propose a self-guided sequence of ALPs that embeds random basis functions obtained via inexpensive sampling and uses the known VFA from the previous iteration to guide VFA computation in the current iteration. In other words, this sequence takes multiple shots at randomly approximating the MDP value function with VFA-based guidance between consecutive approximation attempts. Self-guided ALPs mitigate domain knowledge during basis function selection and the impact of the state-relevance-distribution choice, thus reducing the ALP implementation burden. We establish high-probability error bounds on the VFAs from this sequence and show that a worst-case measure of policy performance is improved. We find that these favorable implementation and theoretical properties translate to encouraging numerical results on perishable inventory control and options pricing applications, where self-guided ALP policies improve upon policies from problem-specific methods. More broadly, our research takes a meaningful step toward application-agnostic policies and bounds for MDPs.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.00038.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.00038
+UR  - https://doi.org/10.1287/mnsc.2020.00038
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Penny Wise and Pound Foolish: Does Striving to Meet Earnings Expectations by Manipulating Real Activities Trigger Product Recalls?
+AU  - Chen, Yangyang
+AU  - Ma, Lijun
+AU  - Pittman, Jeffrey
+AU  - Yang, Xin
+Y1  - 2024/07/30
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2021.04035
+DO  - 10.1287/mnsc.2021.04035
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3405
+EP  - 3427
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We examine whether managers? activities in striving to reach earnings targets through real earnings manipulation affect their firms? product recalls. Our evidence implies that firms suspected of manipulating real activities in trying to meet earnings benchmarks exhibit a higher likelihood and frequency of product recalls. In cross-sectional results consistent with expectations, we find that the impact of exploiting real activities to attain earnings benchmarks on product recalls intensifies for firms whose managers have stronger incentives to manage earnings and subsides for firms subject to greater customer power and firms with more growth opportunities. Additional analysis shows that lowering product quality to meet or beat earnings expectations undermines firms? future performance.This paper was accepted by Ranjani Krishnan, accounting.Funding: Y. Chen acknowledges the General Research Fund of the Research Grants Council of Hong Kong [Project 15504219] for financial support. L. Ma acknowledges financial support from the Ministry of Education Project of Humanities and Social Sciences [Project 22YJC630099] and the Young Scholars Grant Program of the University of International Business and Economics [Project 20YQ06].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.04035.
+AB  - We examine whether managers? activities in striving to reach earnings targets through real earnings manipulation affect their firms? product recalls. Our evidence implies that firms suspected of manipulating real activities in trying to meet earnings benchmarks exhibit a higher likelihood and frequency of product recalls. In cross-sectional results consistent with expectations, we find that the impact of exploiting real activities to attain earnings benchmarks on product recalls intensifies for firms whose managers have stronger incentives to manage earnings and subsides for firms subject to greater customer power and firms with more growth opportunities. Additional analysis shows that lowering product quality to meet or beat earnings expectations undermines firms? future performance.This paper was accepted by Ranjani Krishnan, accounting.Funding: Y. Chen acknowledges the General Research Fund of the Research Grants Council of Hong Kong [Project 15504219] for financial support. L. Ma acknowledges financial support from the Ministry of Education Project of Humanities and Social Sciences [Project 22YJC630099] and the Young Scholars Grant Program of the University of International Business and Economics [Project 20YQ06].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.04035.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.04035
+UR  - https://doi.org/10.1287/mnsc.2021.04035
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Silos: Increased Modularity and Decreased Stability in Intraorganizational Communication Networks During the COVID-19 Pandemic
+AU  - Zuzul, Tiona
+AU  - Cox Pahnke, Emily
+AU  - Larson, Jonathan
+AU  - Bourke, Patrick
+AU  - Caurvina, Nicholas
+AU  - Parikh Shah, Neha
+AU  - Amini, Fereshteh
+AU  - Weston, Jeffrey
+AU  - Park, Youngser
+AU  - Vogelstein, Joshua
+AU  - White, Christopher
+AU  - Priebe, Carey E.
+Y1  - 2024/07/30
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.02797
+DO  - 10.1287/mnsc.2022.02797
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3428
+EP  - 3448
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Workplace communications around the world were drastically altered by the COVID-19 pandemic, related work-from-home orders, and the rise of remote work. To understand these shifts, we analyzed aggregated, anonymized metadata from over 360 billion emails within 4,361 organizations worldwide. By comparing month-to-month and year-over-year metrics, we examined changes in network community structures over the 24 months before and after COVID-19. We also examined shifts across multiple communication media (email, instant message, video call, and calendaring software) within a single global organization and compared them with communications shifts that were driven by changes in formal organizational structure. We found that in 2020, organizations around the world became more siloed than in 2019, evidenced by increased modularity. This shift was concurrent with decreased stability within silos. Collectively, our analyses indicate that following the onset of COVID-19, employees? communications began to shift more dynamically between subcommunities (teams, workgroups, or functional areas). At the same time, once in a subcommunity, they limited their communication to other members of that community. We term these network changes dynamic silos. We provide initial insights into the meaning and implications of dynamic silos for the future of work.This paper was accepted by Lamar Pierce, organizations.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.02797.
+AB  - Workplace communications around the world were drastically altered by the COVID-19 pandemic, related work-from-home orders, and the rise of remote work. To understand these shifts, we analyzed aggregated, anonymized metadata from over 360 billion emails within 4,361 organizations worldwide. By comparing month-to-month and year-over-year metrics, we examined changes in network community structures over the 24 months before and after COVID-19. We also examined shifts across multiple communication media (email, instant message, video call, and calendaring software) within a single global organization and compared them with communications shifts that were driven by changes in formal organizational structure. We found that in 2020, organizations around the world became more siloed than in 2019, evidenced by increased modularity. This shift was concurrent with decreased stability within silos. Collectively, our analyses indicate that following the onset of COVID-19, employees? communications began to shift more dynamically between subcommunities (teams, workgroups, or functional areas). At the same time, once in a subcommunity, they limited their communication to other members of that community. We term these network changes dynamic silos. We provide initial insights into the meaning and implications of dynamic silos for the future of work.This paper was accepted by Lamar Pierce, organizations.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.02797.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02797
+UR  - https://doi.org/10.1287/mnsc.2022.02797
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinear Decision Rules Made Scalable by Nonparametric Liftings
+AU  - Han, Eojin
+AU  - Nohadani, Omid
+Y1  - 2024/07/30
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2024.4988
+DO  - 10.1287/mnsc.2024.4988
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3449
+EP  - 3471
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Sequential decision making often requires dynamic policies, which are computationally not tractable in general. Decision rules provide approximate solutions by restricting decisions to simple functions of uncertainties. In this paper, we consider a nonparametric lifting framework where the uncertainty space is lifted to higher dimensions to obtain nonlinear decision rules. Current lifting-based approaches require predetermined functions and are parametric. We propose two nonparametric liftings, which derive the nonlinear functions by leveraging the uncertainty set structure and problem coefficients. Both methods integrate the benefits from lifting and nonparametric approaches, and hence provide scalable decision rules with performance bounds. More specifically, the set-driven lifting is constructed by finding polyhedrons within uncertainty sets, inducing piecewise-linear decision rules with performance bounds. The dynamics-driven lifting, on the other hand, is constructed by extracting geometric information and accounting for problem coefficients. This is achieved by using linear decision rules of the original problem, also enabling one to quantify lower bounds of objective improvements over linear decision rules. Numerical comparisons with competing methods demonstrate superior computational scalability and comparable performance in objectives. These observations are magnified in multistage problems with extended time horizons, suggesting practical applicability of the proposed nonparametric liftings in large-scale dynamic robust optimization.This paper was accepted by David Simchi-Levi, optimization.Supplemental Material: The electronic companion and data files are available at https://doi.org/10.1287/mnsc.2024.4988.
+AB  - Sequential decision making often requires dynamic policies, which are computationally not tractable in general. Decision rules provide approximate solutions by restricting decisions to simple functions of uncertainties. In this paper, we consider a nonparametric lifting framework where the uncertainty space is lifted to higher dimensions to obtain nonlinear decision rules. Current lifting-based approaches require predetermined functions and are parametric. We propose two nonparametric liftings, which derive the nonlinear functions by leveraging the uncertainty set structure and problem coefficients. Both methods integrate the benefits from lifting and nonparametric approaches, and hence provide scalable decision rules with performance bounds. More specifically, the set-driven lifting is constructed by finding polyhedrons within uncertainty sets, inducing piecewise-linear decision rules with performance bounds. The dynamics-driven lifting, on the other hand, is constructed by extracting geometric information and accounting for problem coefficients. This is achieved by using linear decision rules of the original problem, also enabling one to quantify lower bounds of objective improvements over linear decision rules. Numerical comparisons with competing methods demonstrate superior computational scalability and comparable performance in objectives. These observations are magnified in multistage problems with extended time horizons, suggesting practical applicability of the proposed nonparametric liftings in large-scale dynamic robust optimization.This paper was accepted by David Simchi-Levi, optimization.Supplemental Material: The electronic companion and data files are available at https://doi.org/10.1287/mnsc.2024.4988.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2024.4988
+UR  - https://doi.org/10.1287/mnsc.2024.4988
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Bright Side of Price Volatility in Global Commodity Procurement
+AU  - Xing, Wei
+AU  - Liu, Liming
+AU  - Zhang, Fuqiang
+AU  - Zhao, Qian
+Y1  - 2024/07/30
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.00304
+DO  - 10.1287/mnsc.2023.00304
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3472
+EP  - 3484
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - This paper studies two competing firms? choices between the contingent-price contract (CPC) and fixed-price contract (FPC) in global commodity procurement. The FPC price is determined when signing the contract, whereas the CPC price is pegged to an underlying index and remains open until the delivery date. Under both contracts, each firm determines its order quantity based on the updated belief about the market demand. The unrealized CPC price correlates with the market demand, allowing a firm to update its belief about the CPC price using demand information, thereby generating a price-learning effect. We find that, contrary to conventional wisdom, a larger price volatility could benefit the firms, and, under differentiated contracts, a firm might benefit from the improvement of forecast accuracy at its rival. We further show that the price-learning effect plays a critical role in the firms? contract choices. First, significant price volatility forces the firms to pursue the responsiveness of the CPC. Second, the firms may adopt differentiated contracts to enhance their responses to market changes and dampen competition, and a higher competition intensity more likely leads to contract differentiation. Third, the firms in a small market seek responsiveness and contract differentiation rather than cost efficiency. This study reveals the bright side of price volatility and takes a step toward understanding the effect of two-dimensional information updating.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported in part by the National Natural Science Foundation of China [W. Xing was supported by Grant 72071210, L. Liu was supported by Grant 72371122, and F. Zhang was supported by Grants 71929201 and 72131004].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00304.
+AB  - This paper studies two competing firms? choices between the contingent-price contract (CPC) and fixed-price contract (FPC) in global commodity procurement. The FPC price is determined when signing the contract, whereas the CPC price is pegged to an underlying index and remains open until the delivery date. Under both contracts, each firm determines its order quantity based on the updated belief about the market demand. The unrealized CPC price correlates with the market demand, allowing a firm to update its belief about the CPC price using demand information, thereby generating a price-learning effect. We find that, contrary to conventional wisdom, a larger price volatility could benefit the firms, and, under differentiated contracts, a firm might benefit from the improvement of forecast accuracy at its rival. We further show that the price-learning effect plays a critical role in the firms? contract choices. First, significant price volatility forces the firms to pursue the responsiveness of the CPC. Second, the firms may adopt differentiated contracts to enhance their responses to market changes and dampen competition, and a higher competition intensity more likely leads to contract differentiation. Third, the firms in a small market seek responsiveness and contract differentiation rather than cost efficiency. This study reveals the bright side of price volatility and takes a step toward understanding the effect of two-dimensional information updating.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported in part by the National Natural Science Foundation of China [W. Xing was supported by Grant 72071210, L. Liu was supported by Grant 72371122, and F. Zhang was supported by Grants 71929201 and 72131004].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00304.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00304
+UR  - https://doi.org/10.1287/mnsc.2023.00304
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Acquihiring for Monopsony Power
+AU  - Bar-Isaac, Heski
+AU  - Johnson, Justin P.
+AU  - Nocke, Volker
+Y1  - 2024/07/31
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2024.04604
+DO  - 10.1287/mnsc.2024.04604
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3485
+EP  - 3496
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - It is often argued that startups are acquired for the sole purpose of hiring specialized talent. We show that the goal of such acquihires might be to shut down the most relevant labor market competitor. This grants the acquirer monopsony power over specialized talent. As a consequence, acquihiring may harm employees and be socially inefficient. We explore the robustness of these effects, allowing for private benefits associated with working at a startup, varying bargaining protocols, multiple employees with and without complementarities, and private information.This paper was accepted by Maria Guadalupe, strategy.Funding: H. Bar-Isaac thanks the Social Sciences and Humanities Research Council of Canada for financial support. V. Nocke gratefully acknowledges support from the German Research Foundation (DFG) through CRC TR 224 [Project B03].
+AB  - It is often argued that startups are acquired for the sole purpose of hiring specialized talent. We show that the goal of such acquihires might be to shut down the most relevant labor market competitor. This grants the acquirer monopsony power over specialized talent. As a consequence, acquihiring may harm employees and be socially inefficient. We explore the robustness of these effects, allowing for private benefits associated with working at a startup, varying bargaining protocols, multiple employees with and without complementarities, and private information.This paper was accepted by Maria Guadalupe, strategy.Funding: H. Bar-Isaac thanks the Social Sciences and Humanities Research Council of Canada for financial support. V. Nocke gratefully acknowledges support from the German Research Foundation (DFG) through CRC TR 224 [Project B03].
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2024.04604
+UR  - https://doi.org/10.1287/mnsc.2024.04604
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Gender and Preferences for Performance Feedback
+AU  - Coffman, Katherine
+AU  - Klinowski, David
+Y1  - 2024/08/07
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.02482
+DO  - 10.1287/mnsc.2023.02482
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3497
+EP  - 3516
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - Across multiple studies, we investigate whether there are gender differences in preferences for receiving performance feedback. We vary many features of the feedback context: whether the performance task is a cognitive test or a mock interview, the feedback is objective or subjective, and it is possible for the provider of the feedback to discriminate on the basis of gender. Consistent with past work, we find that women are less optimistic about their performance than men and that, on average, more optimistic individuals have greater demand for feedback. Results like these have been hypothesized in the literature to imply that women will shy away from performance feedback more so than men. And, when we survey participants from a similar population, they also anticipate that women will demand feedback at lower rates than men. Yet, across our two incentivized studies, we find that women are no less eager to receive performance feedback than men. Understanding whether and how these results might generalize to broader contexts, particularly those with more social factors, is an important question for future work.This paper was accepted by Dorothea Kubler, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02482.
+AB  - Across multiple studies, we investigate whether there are gender differences in preferences for receiving performance feedback. We vary many features of the feedback context: whether the performance task is a cognitive test or a mock interview, the feedback is objective or subjective, and it is possible for the provider of the feedback to discriminate on the basis of gender. Consistent with past work, we find that women are less optimistic about their performance than men and that, on average, more optimistic individuals have greater demand for feedback. Results like these have been hypothesized in the literature to imply that women will shy away from performance feedback more so than men. And, when we survey participants from a similar population, they also anticipate that women will demand feedback at lower rates than men. Yet, across our two incentivized studies, we find that women are no less eager to receive performance feedback than men. Understanding whether and how these results might generalize to broader contexts, particularly those with more social factors, is an important question for future work.This paper was accepted by Dorothea Kubler, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02482.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.02482
+UR  - https://doi.org/10.1287/mnsc.2023.02482
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Estimating and Testing Long-Run Risk Models: International Evidence
+AU  - Fulop, Andras
+AU  - Li, Junye
+AU  - Liu, Hening
+AU  - Yan, Cheng
+Y1  - 2024/08/08
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.04054
+DO  - 10.1287/mnsc.2022.04054
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3517
+EP  - 3536
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We estimate and test long-run risk models using international macroeconomic and financial data. The benchmark model features a representative agent who has recursive preferences with a time preference shock, a persistent component in expected consumption growth, and stochastic volatility in fundamentals characterized by an autoregressive gamma process. We construct a comprehensive data set with quarterly frequency for 10 developed countries and employ an efficient likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to make full econometric inference. Our empirical findings provide international evidence in support of long-run risks, time-varying preference shocks, and countercyclicality of the stochastic discount factor. We show the existence of a global long-run consumption factor driving equity returns across individual countries.This paper was accepted by Lukas Schmid, finance.Funding: A. Fulop acknowledges support from CY Initiative of Excellence [Grant ?Investissements d?Avenir? ANR-16-IDEX-0008], and H. Liu acknowledges support from National Science Foundation of China [Grant 72141305].Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04054.
+AB  - We estimate and test long-run risk models using international macroeconomic and financial data. The benchmark model features a representative agent who has recursive preferences with a time preference shock, a persistent component in expected consumption growth, and stochastic volatility in fundamentals characterized by an autoregressive gamma process. We construct a comprehensive data set with quarterly frequency for 10 developed countries and employ an efficient likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to make full econometric inference. Our empirical findings provide international evidence in support of long-run risks, time-varying preference shocks, and countercyclicality of the stochastic discount factor. We show the existence of a global long-run consumption factor driving equity returns across individual countries.This paper was accepted by Lukas Schmid, finance.Funding: A. Fulop acknowledges support from CY Initiative of Excellence [Grant ?Investissements d?Avenir? ANR-16-IDEX-0008], and H. Liu acknowledges support from National Science Foundation of China [Grant 72141305].Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04054.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.04054
+UR  - https://doi.org/10.1287/mnsc.2022.04054
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Asset-Side Bank Runs and Liquidity Rationing: A Vicious Cycle
+AU  - Huang, Zongbo
+Y1  - 2024/08/09
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.00872
+DO  - 10.1287/mnsc.2023.00872
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3537
+EP  - 3557
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - I analyze runs on credit lines in an infinite-horizon banking model, focusing on the strategic complementarity between bankers and credit line borrowers. Panic drawdowns by borrowers coupled with bank liquidity rationing can mutually reinforce each other, creating a vicious cycle. Using data from U.S. banks, I estimate the model and quantify the amplification effect arising from strategic complementarity. This amplification effect accounted for two-thirds of the contraction of bank credit during the 2008?2009 crisis. Moreover, I show that policies targeting borrowers have a crowding-in effect and can effectively contain credit contraction.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00872.
+AB  - I analyze runs on credit lines in an infinite-horizon banking model, focusing on the strategic complementarity between bankers and credit line borrowers. Panic drawdowns by borrowers coupled with bank liquidity rationing can mutually reinforce each other, creating a vicious cycle. Using data from U.S. banks, I estimate the model and quantify the amplification effect arising from strategic complementarity. This amplification effect accounted for two-thirds of the contraction of bank credit during the 2008?2009 crisis. Moreover, I show that policies targeting borrowers have a crowding-in effect and can effectively contain credit contraction.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00872.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00872
+UR  - https://doi.org/10.1287/mnsc.2023.00872
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Effects of Real-Time Feedback on Effort and Performance: Evidence from a Natural Quasi-Experiment
+AU  - Margolin, Maximilian
+AU  - Reimer, Marko
+AU  - Schaupp, Daniel
+Y1  - 2024/08/09
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.02084
+DO  - 10.1287/mnsc.2022.02084
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3558
+EP  - 3582
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - New digital technologies allow companies to provide employees with performance feedback in real time. We investigate the causal effects of such real-time feedback on individual effort and the quality of initial (prefeedback) and final (postfeedback) decisions by exploiting a natural quasi-experiment in the setting of professional soccer refereeing. Our results suggest that real-time feedback has differential effects for experienced compared with inexperienced agents. Specifically, we find some evidence that experienced agents decrease their effort under real-time feedback without harming the quality of their initial decisions. This results in better final decisions because real-time feedback allows agents to correct wrong initial decisions upon feedback. In contrast, inexperienced agents increase their effort, but make worse initial decisions. Upon feedback, they manage to compensate for their increased number of wrong initial decisions, but see no improvement in the quality of final decisions.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02084.
+AB  - New digital technologies allow companies to provide employees with performance feedback in real time. We investigate the causal effects of such real-time feedback on individual effort and the quality of initial (prefeedback) and final (postfeedback) decisions by exploiting a natural quasi-experiment in the setting of professional soccer refereeing. Our results suggest that real-time feedback has differential effects for experienced compared with inexperienced agents. Specifically, we find some evidence that experienced agents decrease their effort under real-time feedback without harming the quality of their initial decisions. This results in better final decisions because real-time feedback allows agents to correct wrong initial decisions upon feedback. In contrast, inexperienced agents increase their effort, but make worse initial decisions. Upon feedback, they manage to compensate for their increased number of wrong initial decisions, but see no improvement in the quality of final decisions.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02084.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02084
+UR  - https://doi.org/10.1287/mnsc.2022.02084
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - A Theory of Credit Rating Criteria
+AU  - Guo, Nan
+AU  - Kou, Steven
+AU  - Wang, Bin
+AU  - Wang, Ruodu
+Y1  - 2024/08/13
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.01075
+DO  - 10.1287/mnsc.2023.01075
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3583
+EP  - 3599
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - We propose a theory for rating financial securities in the presence of structural maximization by the issuer in a market with investors who rely on credit rating. Two types of investors, simple investors who price tranches solely based on the ratings and model-based investors who use the rating information to calibrate models, are considered. Concepts of self-consistency and information gap are proposed to study different rating criteria. In particular, the expected loss criterion used by Moody?s satisfies self-consistency, but the probability of default criterion used by Standard & Poor?s does not. Moreover, the probability of default criterion typically has a higher information gap than the expected loss criterion. Empirical evidence in the post?Dodd?Frank period is consistent with our theoretical implications. We show that a set of axioms based on self-consistency leads to a tractable representation for all self-consistent rating criteria, which can also be extended to incorporate economic scenarios. New examples of self-consistent and scenario-based rating criteria are suggested.This paper was accepted by Agostino Capponi, finance.Funding: This work was supported by the National Key Research and Development Program of China [Grant 2020YFA0712700], the Natural Sciences and Engineering Research Council of Canada [Grants RGPIN-2018-03823, RGPAS-2018-522590], and the National Natural Science Foundation of China [Grant 12371476].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01075.
+AB  - We propose a theory for rating financial securities in the presence of structural maximization by the issuer in a market with investors who rely on credit rating. Two types of investors, simple investors who price tranches solely based on the ratings and model-based investors who use the rating information to calibrate models, are considered. Concepts of self-consistency and information gap are proposed to study different rating criteria. In particular, the expected loss criterion used by Moody?s satisfies self-consistency, but the probability of default criterion used by Standard & Poor?s does not. Moreover, the probability of default criterion typically has a higher information gap than the expected loss criterion. Empirical evidence in the post?Dodd?Frank period is consistent with our theoretical implications. We show that a set of axioms based on self-consistency leads to a tractable representation for all self-consistent rating criteria, which can also be extended to incorporate economic scenarios. New examples of self-consistent and scenario-based rating criteria are suggested.This paper was accepted by Agostino Capponi, finance.Funding: This work was supported by the National Key Research and Development Program of China [Grant 2020YFA0712700], the Natural Sciences and Engineering Research Council of Canada [Grants RGPIN-2018-03823, RGPAS-2018-522590], and the National Natural Science Foundation of China [Grant 12371476].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01075.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01075
+UR  - https://doi.org/10.1287/mnsc.2023.01075
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Value of Competitor Information: Evidence from a Field Experiment
+AU  - Kim, Hyunjin
+Y1  - 2024/08/14
+PY  - 2024
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2022.04062
+DO  - 10.1287/mnsc.2022.04062
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3600
+EP  - 3621
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - To what extent do firms know available information on key competitor decisions, and how does competitor information change their own strategic choices? These questions are fundamental to understanding how firms compete and make strategic decisions, yet systematic evidence on them remains limited. I designed a field experiment across 3,218 differentiated firms in the personal care industry, where firms randomly assigned to treatment received easily accessible information on competitor prices. At baseline, nearly half of treatment firms appeared to lack knowledge of competitor prices. Once treatment firms received competitor information, they were more likely to change their own decisions, aligning them with competitors rather than differentiating. These changes were driven by firms that were more misaligned in their price and quality decisions, and appear to have been performance enhancing. If competitor information was both easily accessible and decision relevant, why did firms not use this information on their own? Results from a follow-up experiment suggest that this lack of knowledge may have been driven by managerial inattention. These findings highlight that limited information processing is a key problem for firms and a central issue in strategy, and raise the possibility that growing availability of competitor data may lead firms to align their decisions more with their competitors.This paper was accepted by Alfonso Gambardella, business strategy.Funding: H. Kim is grateful for the support of Harvard Business School, the Foundations of Human Behavior, the Ewing Marion Kauffman Foundation, and Yelp.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04062.
+AB  - To what extent do firms know available information on key competitor decisions, and how does competitor information change their own strategic choices? These questions are fundamental to understanding how firms compete and make strategic decisions, yet systematic evidence on them remains limited. I designed a field experiment across 3,218 differentiated firms in the personal care industry, where firms randomly assigned to treatment received easily accessible information on competitor prices. At baseline, nearly half of treatment firms appeared to lack knowledge of competitor prices. Once treatment firms received competitor information, they were more likely to change their own decisions, aligning them with competitors rather than differentiating. These changes were driven by firms that were more misaligned in their price and quality decisions, and appear to have been performance enhancing. If competitor information was both easily accessible and decision relevant, why did firms not use this information on their own? Results from a follow-up experiment suggest that this lack of knowledge may have been driven by managerial inattention. These findings highlight that limited information processing is a key problem for firms and a central issue in strategy, and raise the possibility that growing availability of competitor data may lead firms to align their decisions more with their competitors.This paper was accepted by Alfonso Gambardella, business strategy.Funding: H. Kim is grateful for the support of Harvard Business School, the Foundations of Human Behavior, the Ewing Marion Kauffman Foundation, and Yelp.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04062.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.04062
+UR  - https://doi.org/10.1287/mnsc.2022.04062
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - An Anatomy of Crypto-Enabled Cybercrimes
+AU  - Cong, Will
+AU  - Harvey, Campbell
+AU  - Rabetti, Daniel
+AU  - Wu, Zong-Yu
+Y1  - 2025/02/18
+PY  - 2025
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2023.03691
+DO  - 10.1287/mnsc.2023.03691
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3622
+EP  - 3633
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - The advent of cryptocurrencies and digital assets holds the promise of improving financial systems by offering cheap, quick, and secure transfer of value. However, it also opens up new payment channels for cybercrimes. Assembling a diverse set of public on- and off-chain, proprietary, and hand-collected data, including attacker?victim negotiations and dark web conversations in Russian, we present an initial anatomy of crypto-enabled cybercrimes, highlighting relevant economic issues and proposing areas for future research. Among others, we find ransomware, as the most dominant organized crypto-enabled cybercrime, entails criminal gangs that operate like firms who adopt modern revenue models and carefully manage their reputations. We suggest that blanket restrictions on cryptocurrency usage may prove counterproductive. Instead, blockchain transparency enables effective forensics for tracking, monitoring, and shutting down dominant cybercriminal organizations, which potentially facilitates a more secure and reliable crypto ecosystem in the longer term.This paper was accepted by David Simchi-Levi, finance.Funding: This work was supported by the National University of Singapore (NUS), Ripple?s University Blockchain Research Initiative (UBRI), the Israel Science Foundation (ISF), and the Cornell FinTech Initiative.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03691.
+AB  - The advent of cryptocurrencies and digital assets holds the promise of improving financial systems by offering cheap, quick, and secure transfer of value. However, it also opens up new payment channels for cybercrimes. Assembling a diverse set of public on- and off-chain, proprietary, and hand-collected data, including attacker?victim negotiations and dark web conversations in Russian, we present an initial anatomy of crypto-enabled cybercrimes, highlighting relevant economic issues and proposing areas for future research. Among others, we find ransomware, as the most dominant organized crypto-enabled cybercrime, entails criminal gangs that operate like firms who adopt modern revenue models and carefully manage their reputations. We suggest that blanket restrictions on cryptocurrency usage may prove counterproductive. Instead, blockchain transparency enables effective forensics for tracking, monitoring, and shutting down dominant cybercriminal organizations, which potentially facilitates a more secure and reliable crypto ecosystem in the longer term.This paper was accepted by David Simchi-Levi, finance.Funding: This work was supported by the National University of Singapore (NUS), Ripple?s University Blockchain Research Initiative (UBRI), the Israel Science Foundation (ISF), and the Cornell FinTech Initiative.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03691.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.03691
+UR  - https://doi.org/10.1287/mnsc.2023.03691
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Erratum to “The Impact of Corporate Sustainability on Organizational Processes and Performance”
+AU  - Eccles, Robert G.
+AU  - Ioannou, Ioannis
+AU  - Serafeim, George
+Y1  - 2025/03/11
+PY  - 2025
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2025.00751
+DO  - 10.1287/mnsc.2025.00751
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3634
+EP  - 3634
+VL  - 71
+IS  - 4
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2025.00751
+UR  - https://doi.org/10.1287/mnsc.2025.00751
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - 2024 Reviewers and Guest Editors
+Y1  - 2025/04/01
+PY  - 2025
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2025.acknowledgements.v71.n4
+DO  - 10.1287/mnsc.2025.acknowledgements.v71.n4
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3635
+EP  - 3639
+VL  - 71
+IS  - 4
+PB  - INFORMS
+N2  - The editors of Management Science acknowledge all our 2024 reviewers and guest associate editors who generously provided expert counsel and guidance on a voluntary basis. We are grateful for their contributions; without them, the journal could not function. Here, we list those reviewers who contributed four or more reviews in 2024.Supplemental Material: The complete list of our 2024 reviewers is available at https://doi.org/10.1287/mnsc.2025.acknowledgements.v71.n4.
+AB  - The editors of Management Science acknowledge all our 2024 reviewers and guest associate editors who generously provided expert counsel and guidance on a voluntary basis. We are grateful for their contributions; without them, the journal could not function. Here, we list those reviewers who contributed four or more reviews in 2024.Supplemental Material: The complete list of our 2024 reviewers is available at https://doi.org/10.1287/mnsc.2025.acknowledgements.v71.n4.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2025.acknowledgements.v71.n4
+UR  - https://doi.org/10.1287/mnsc.2025.acknowledgements.v71.n4
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2025/04/01
+PY  - 2025
+DA  - 2025/04/01
+N1  - doi: 10.1287/mnsc.2025.eb.v71n4
+DO  - 10.1287/mnsc.2025.eb.v71n4
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - vi
+VL  - 71
+IS  - 4
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2025.eb.v71n4
+UR  - https://doi.org/10.1287/mnsc.2025.eb.v71n4
+Y2  - 2026/04/24
+ER  - 

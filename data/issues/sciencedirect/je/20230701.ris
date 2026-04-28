@@ -1,0 +1,340 @@
+TY  - JOUR
+T1  - On the power of the conditional likelihood ratio and related tests for weak-instrument robust inference
+AU  - Van de Sijpe, Nicolas
+AU  - Windmeijer, Frank
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 82
+EP  - 104
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000367
+KW  - Instrumental variables
+KW  - Weak-instrument robust inference
+KW  - Conditional likelihood ratio test
+KW  - Power
+AB  - Power curves of the Conditional Likelihood Ratio (CLR) and related tests for testing H0:β=β0 in linear models with a single endogenous variable, y=xβ+u, estimated using potentially weak instrumental variables have been presented for two different designs. One design keeps the variance matrix of the structural and first-stage errors, Σ, constant, the other instead keeps the variance matrix of the reduced-form and first-stage errors, Ω, constant. The values of Σ govern the endogeneity features of the model. The fixed-Ω design changes these endogeneity features with changing values of β in a way that makes it less suitable for an analysis of the behaviour of the tests in low to moderate endogeneity settings, or when β and the correlation of the structural and first-stage errors, ρuv, have the same sign. At larger values of |β|, the fixed-Ω design implicitly selects values for Σ where the power of the CLR test is high. We further show that the Likelihood Ratio statistic is identical to the t0(βˆL)2 statistic as proposed by Mills et al. (2014), where βˆL is the Liml estimator. In fixed-Σ design Monte Carlo simulations, we find that Liml- and Fuller-based conditional Wald tests and the Fuller-based conditional t02 test are more powerful than the CLR test when the degree of endogeneity is low to moderate. The conditional Wald tests are further the most powerful of these tests when β and ρuv have the same sign. We show that in the fixed-Ω design, setting β0=0 and the diagonal elements of Ω equal to 1 is not without loss of generality, unlike in the fixed-Σ design.
+ER  - 
+
+TY  - JOUR
+T1  - A higher-order correct fast moving-average bootstrap for dependent data
+AU  - La Vecchia, Davide
+AU  - Moor, Alban
+AU  - Scaillet, Olivier
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 65
+EP  - 81
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000422
+KW  - Fast bootstrap methods
+KW  - Higher-order refinements
+KW  - GeneraLized Empirical Likelihood
+KW  - Confidence distributions
+KW  - Mixing processes
+AB  - We develop the theory of a novel fast bootstrap for dependent data. Our scheme deploys i.i.d. resampling of smoothed moment indicators. We characterize the class of parametric and semiparametric estimation problems for which the method is valid. We show the asymptotic refinements of the new procedure, proving that it is higher-order correct under mild assumptions on the time series, the estimating functions, and the smoothing kernel. We illustrate the applicability and the advantages of our procedure for M-estimation, generalized method of moments, and generalized empirical likelihood estimation. In a Monte Carlo study, we consider an autoregressive conditional duration model and we compare our method with other extant, routinely-applied first- and higher-order correct methods. The results provide numerical evidence that the novel bootstrap yields higher-order accurate confidence intervals, while remaining computationally lighter than its higher-order correct competitors. A real-data example on dynamics of trading volume of US stocks illustrates the empirical relevance of our method.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical inference for linear mediation models with high-dimensional mediators and application to studying stock reaction to COVID-19 pandemic
+AU  - Guo, Xu
+AU  - Li, Runze
+AU  - Liu, Jingyuan
+AU  - Zeng, Mudong
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 166
+EP  - 179
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000598
+KW  - Mediation analysis
+KW  - Penalized least squares
+KW  - Sparsity
+KW  - Wald test
+AB  - Mediation analysis draws increasing attention in many research areas such as economics, finance and social sciences. In this paper, we propose new statistical inference procedures for high dimensional mediation models, in which both the outcome model and the mediator model are linear with high dimensional mediators. Traditional procedures for mediation analysis cannot be used to make statistical inference for high dimensional linear mediation models due to high-dimensionality of the mediators. We propose an estimation procedure for the indirect effects of the models via a partially penalized least squares method, and further establish its theoretical properties. We further develop a partially penalized Wald test on the indirect effects, and prove that the proposed test has a χ2 limiting null distribution. We also propose an F-type test for direct effects and show that the proposed test asymptotically follows a χ2-distribution under null hypothesis and a noncentral χ2-distribution under local alternatives. Monte Carlo simulations are conducted to examine the finite sample performance of the proposed tests and compare their performance with existing ones. We further apply the newly proposed statistical inference procedures to study stock reaction to COVID-19 pandemic via an empirical analysis of studying the mediation effects of financial metrics that bridge company’s sector and stock return.
+ER  - 
+
+TY  - JOUR
+T1  - Logical differencing in dyadic network formation models with nontransferable utilities
+AU  - Gao, Wayne Yuan
+AU  - Li, Ming
+AU  - Xu, Sheng
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 302
+EP  - 324
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000884
+KW  - Dyadic network formation
+KW  - Semiparametric estimation
+KW  - Nontransferable utilities
+KW  - Additive nonseparability
+AB  - This paper considers a semiparametric model of dyadic network formation under nontransferable utilities (NTU). Such dyadic links arise frequently in real-world social interactions that require bilateral consent but by their nature induce additive non-separability. In our model we show how unobserved individual heterogeneity in the network formation model can be canceled out without requiring additive separability. The approach uses a new method we call logical differencing. The key idea is to construct an observable event involving the intersection of two mutually exclusive restrictions—derived based on weak multivariate monotonicity—on the fixed effects. Based on this identification strategy we provide consistent estimators of the network formation model under NTU. Finite-sample performance of our method is analyzed in a simulation study, and an empirical illustration using the risk-sharing network data from Nyakatoke demonstrates that our proposed method is able to obtain economically intuitive estimates.
+ER  - 
+
+TY  - JOUR
+T1  - A condition for the identification of multivariate models with binary instruments
+AU  - Gunsilius, Florian F.
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 220
+EP  - 238
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000872
+KW  - Cyclic monotonicity
+KW  - Fixed set iteration
+KW  - Instrumental variable
+KW  - Nonseparable model
+KW  - Optimal transportation
+AB  - This article introduces an empirical condition for the nonparametric point-identification of multivariate instrumental variable models with continuous endogenous variables using binary instruments. Verifying this condition can confirm point-identification in settings in which traditional approaches are not applicable. In particular, it shows that nonlinear instrumental variable models with general heterogeneity can be point-identified with only a binary instrument. This generalizes existing identification results which either restrict the unobserved heterogeneity substantially or require the instrument to have a large support. The main assumption on the instrumental variable model is cyclic monotonicity of its first stage, a multivariate generalization of the classical rank-invariance assumption for univariate models. Asymptotic convergence results for the empirical observable distributions are derived that allow to check the condition in practice. The identification rests on a fixed-set convergence result of cyclically monotone maps between quasi-concave functions.
+ER  - 
+
+TY  - JOUR
+T1  - A corrected Clarke test for model selection and beyond
+AU  - Brück, Florian
+AU  - Fermanian, Jean-David
+AU  - Min, Aleksey
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 105
+EP  - 132
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.12.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000446
+KW  - Asymptotic law
+KW  - Bootstrap
+KW  - Clarke test
+KW  - Kullback–Leibler information criterion
+KW  - Model selection
+AB  - We introduce a large family of model selection tests based on the expectation of an arbitrary, possibly non-smooth, parametric criterion function of the data. The considered methodology is illustrated for several econometric problems, including linear and quantile regression. It covers the case of strictly locally non-nested models and some overlapping models. The asymptotic theory of the proposed test statistic is stated. A general exchangeable bootstrap scheme allows the evaluation of its limiting law as well as its asymptotic variance. Our framework includes the tests for non-nested model selection of Vuong (1989) and Clarke (2007) as particular cases. We show that the statistic of the latter test is not Binomial distributed as originally stated and we provide its corrected limiting law. In a simulation study, we empirically verify the distributional approximation of our test statistic in a finite sample and examine the empirical level and power of the corresponding model selection tests in various settings. Finally, an analysis of a financial dataset illustrates the proposed model selection procedure at work.
+ER  - 
+
+TY  - JOUR
+T1  - Identification-robust nonparametric inference in a linear IV model
+AU  - Antoine, Bertille
+AU  - Lavergne, Pascal
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 1
+EP  - 24
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200046X
+KW  - Weak instruments
+KW  - Hypothesis testing
+KW  - Semiparametric model
+AB  - For a linear IV regression, we propose two new inference procedures on parameters of endogenous variables that are robust to any identification pattern, do not rely on a linear first-stage equation, and account for heteroskedasticity of unknown form. Building on  Bierens (1982), we first propose an Integrated Conditional Moment (ICM) type statistic constructed by setting the parameters to the value under the null hypothesis. The ICM procedure tests at the same time the value of the coefficient and the specification of the model. We then adopt a conditionality principle to condition on a set of ICM statistics that informs on identification strength. Our two procedures uniformly control size irrespective of identification strength. They are powerful irrespective of the nonlinear form of the link between instruments and endogenous variables and are competitive with existing procedures in simulations and application.
+ER  - 
+
+TY  - JOUR
+T1  - Over-identified Doubly Robust identification and estimation
+AU  - Lewbel, Arthur
+AU  - Choi, Jin Young
+AU  - Zhou, Zhuzhu
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 25
+EP  - 42
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000434
+KW  - Doubly Robust estimation
+KW  - Generalized method of moments
+KW  - Instrumental variables
+KW  - Average Treatment Effects
+KW  - Parametric models
+AB  - Consider two parametric models. At least one is correctly specified, but we do not know which. Both models include a common vector of parameters. An estimator for this common parameter vector is called Doubly Robust (DR) if it is consistent no matter which model is correct. We provide a general technique for constructing DR estimators (assuming the models are over identified). Our Over-identified Doubly Robust (ODR) technique is a simple extension of the Generalized Method of Moments. We illustrate our ODR with a variety of models. Our empirical application is instrumental variables estimation, where either one of two instrument vectors might be invalid.
+ER  - 
+
+TY  - JOUR
+T1  - Time series estimation of the dynamic effects of disaster-type shocks
+AU  - Davis, Richard
+AU  - Ng, Serena
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 180
+EP  - 201
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000665
+KW  - Heavy-tails
+KW  - Independent component analysis
+KW  - Distance covariance
+AB  - This paper provides three results for SVARs under the assumption that the primitive shocks are mutually independent. First, a framework is proposed to accommodate a disaster-type variable with infinite variance into a SVAR. We show that the least squares estimates of the SVAR are consistent but have non-standard asymptotics. Second, the disaster shock is identified as the component with the largest kurtosis. An estimator that is robust to infinite variance is used to recover the mutually independent components. Third, an independence test on the residuals pre-whitened by the Choleski decomposition is proposed to test the restrictions imposed on a SVAR. The test can be applied whether the data have fat or thin tails, and to over as well as exactly identified models. Three applications are considered. In the first, the independence test is used to shed light on the conflicting evidence regarding the role of uncertainty in economic fluctuations. In the second, disaster shocks are shown to have short term economic impact arising mostly from feedback dynamics. The third uses the framework to study the dynamic effects of economic shocks post-covid.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap analysis of mutual fund performance
+AU  - Huang, Haitao
+AU  - Jiang, Lei
+AU  - Leng, Xuan
+AU  - Peng, Liang
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 239
+EP  - 255
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000951
+KW  - Bootstrap
+KW  - Edgeworth expansion
+KW  - Hotelling’s -squared test
+KW  - Mutual fund performance
+AB  - We study bootstrap methods for fund performance evaluation. We first show that two prominent bootstrap tests have biased test sizes in a large cross-section with short time series and lack test power to detect skilled funds when a substantial number of unskilled funds are present. We then develop the theory for a valid bootstrap Hotelling’s T-squared test for zero alpha. We apply the proposed bootstrap test in a practical two-step procedure to identify skilled funds. Our empirical analysis finds that skilled funds are more engaged in active management and hold stocks with higher expected anomalous returns.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic properties of Bayesian inference in linear regression with a structural break
+AU  - Shimizu, Kenichi
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 202
+EP  - 219
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200077X
+KW  - Structural break
+KW  - Bernstein–von Mises theorem
+KW  - Sensitivity check
+KW  - Model averaging
+AB  - This paper studies large sample properties of a Bayesian approach to inference about slope parameters γ in linear regression models with a structural break. In contrast to the conventional approach to inference about γ that does not take into account the uncertainty of the unknown break date, the Bayesian approach that we consider incorporates such uncertainty. Our main theoretical contribution is a Bernstein–von Mises type theorem (Bayesian asymptotic normality) for γ under a wide class of priors, which essentially indicates an asymptotic equivalence between the conventional frequentist and Bayesian inference. Consequently, a frequentist researcher could look at credible intervals of γ to check robustness with respect to the uncertainty of the break date. Simulation studies show that the conventional confidence intervals of γ tend to undercover in finite samples whereas the credible intervals offer more reasonable coverages in general. As the sample size increases, the two methods coincide, as predicted from our theoretical conclusion. Using data from Paye and Timmermann (2006) on stock return prediction, we illustrate that the traditional confidence intervals on γ might underrepresent the true sampling uncertainty.
+ER  - 
+
+TY  - JOUR
+T1  - Model averaging prediction by K-fold cross-validation
+AU  - Zhang, Xinyu
+AU  - Liu, Chu-An
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 280
+EP  - 301
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000975
+KW  - Asymptotic optimality
+KW  - Cross-validation
+KW  - Model averaging
+KW  - Weight convergence
+AB  - This paper considers the model averaging prediction in a quasi-likelihood framework that allows for parameter uncertainty and model misspecification. We propose an averaging prediction that selects the data-driven weights by minimizing a K-fold cross-validation. We provide two theoretical justifications for the proposed method. First, when all candidate models are misspecified, we show that the proposed averaging prediction using K-fold cross-validation weights is asymptotically optimal in the sense of achieving the lowest possible prediction risk. Second, when the model set includes correctly specified models, we demonstrate that the proposed K-fold cross-validation asymptotically assigns all weights to the correctly specified models. Monte Carlo simulations show that the proposed averaging prediction achieves lower empirical risk than other existing model averaging methods. As an empirical illustration, the proposed method is applied to credit card default prediction.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling realized covariance measures with heterogeneous liquidity: A generalized matrix-variate Wishart state-space model
+AU  - Gribisch, Bastian
+AU  - Hartkopf, Jan Patrick
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 43
+EP  - 64
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000392
+KW  - Realized covariance
+KW  - State-space model
+KW  - Riesz distribution
+KW  - Bayesian inference
+AB  - We propose to generalize the Wishart state-space model for realized covariance matrices of asset returns in order to capture complex measurement error structures induced by modern robust and data efficient realized covariance estimators and heterogeneous liquidity across assets. Our model assumes that the latent covariance matrix of the assets is observed through their realized covariance matrix with a Riesz measurement density, which generalizes the Wishart to monotone missing data. The Riesz alleviates the Wishart-implied attenuation of measurement errors and translates into a convenient likelihood factorization which facilitates inference using simple Bayesian MCMC procedures. The state-space approach allows for a flexible description of the covariance dynamics implied by the data and an empirical application shows that the model performs very well in- and out-of-sample.
+ER  - 
+
+TY  - JOUR
+T1  - The effects of training incidence and planned training duration on labor market transitions
+AU  - Fitzenberger, Bernd
+AU  - Osikominu, Aderonke
+AU  - Paul, Marie
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 256
+EP  - 279
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000690
+KW  - Dynamic treatment effects
+KW  - Dynamic nonlinear panel data models
+KW  - MCMC
+KW  - Training
+KW  - Active labor market programs
+AB  - This paper uses a dynamic model for employment and training transitions in discrete time to estimate average employment effects of training incidence and planned training duration for the treated. We account for the dynamics of program start and continuation while treatment and outcome transitions are linked through correlated individual-specific effects. Identification relies on a consistency condition, conditional sequential randomization, time-varying covariates, and exclusion restrictions. We implement our framework applying MCMC methods to rich administrative data for a large training program in Germany. In addition to finding a positive training effect on employment between 6 and 12 percentage points 2.5 years after program start, we demonstrate that a longer planned training duration typically results in higher medium- to long-term employment gains.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap inference for Hawkes and general point processes
+AU  - Cavaliere, Giuseppe
+AU  - Lu, Ye
+AU  - Rahbek, Anders
+AU  - Stærk-Østergaard, Jacob
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - 133
+EP  - 165
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000574
+KW  - Self-exciting point processes
+KW  - Conditional intensity
+KW  - Bootstrap inference
+KW  - Hawkes process
+KW  - Autoregressive conditional duration models
+AB  - Inference and testing in general point process models such as the Hawkes model is predominantly based on asymptotic approximations for likelihood-based estimators and tests. As an alternative, and to improve finite sample performance, this paper considers bootstrap-based inference for interval estimation and testing. Specifically, for a wide class of point process models we consider a novel bootstrap scheme labeled ‘fixed intensity bootstrap’ (FIB), where the conditional intensity is kept fixed across bootstrap repetitions. The FIB, which is very simple to implement and fast in practice, extends previous ideas from the bootstrap literature on time series in discrete time, where the so-called ‘fixed design’ and ‘fixed volatility’ bootstrap schemes have shown to be particularly useful and effective. We compare the FIB with the classic recursive bootstrap, which is here labeled ‘recursive intensity bootstrap’ (RIB). In RIB algorithms, the intensity is stochastic in the bootstrap world and implementation of the bootstrap is more involved, due to its sequential structure. For both bootstrap schemes, we provide new bootstrap (asymptotic) theory which allows to assess bootstrap validity, and propose a ‘non-parametric’ approach based on resampling time-changed transformations of the original waiting times. We also establish the link between the proposed bootstraps for point process models and the related autoregressive conditional duration (ACD) models. Lastly, we show effectiveness of the different bootstrap schemes in finite samples through a set of detailed Monte Carlo experiments, and provide applications to both financial data and social media data to illustrate the proposed methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 235
+IS  - 1
+SP  - ii
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00136-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001367
+ER  - 

@@ -1,0 +1,410 @@
+TY  - JOUR
+T1  - Modeling heaped duration data: An application to neonatal mortality
+AU  - Arulampalam, Wiji
+AU  - Corradi, Valentina
+AU  - Gutknecht, Daniel
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 363
+EP  - 377
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301021
+KW  - Discrete time duration model
+KW  - Heaping
+KW  - Measurement error
+KW  - Parameters on the boundary
+KW  - Neonatal mortality
+AB  - In 2005, the Indian Government launched a conditional cash-incentive program to encourage institutional delivery. This paper studies the effects of the program on neonatal mortality using district-level household survey data. We model mortality using survival analysis, paying special attention to substantial heaping, a form of measurement error, present in the data. The main objective of this paper is to provide a set of sufficient conditions for identification and consistent estimation of the (discretized) baseline hazard accounting for heaping and unobserved heterogeneity. Our identification strategy requires neither administrative data nor multiple measurements, but a correctly reported duration point and the presence of some flat segment(s) in the baseline hazard. We establish the asymptotic properties of the maximum likelihood estimator and derive a set of specification tests that allow, among other things, to test for the presence of heaping and to compare different heaping mechanisms. Our empirical findings do not suggest a significant reduction of mortality in treated districts. However, they do indicate that accounting for heaping matters for the estimation of the hazard parameters.
+ER  - 
+
+TY  - JOUR
+T1  - The precision of subjective data and the explanatory power of economic models
+AU  - Drerup, Tilman
+AU  - Enke, Benjamin
+AU  - von Gaudecker, Hans-Martin
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 378
+EP  - 389
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301033
+KW  - Measurement error
+KW  - Subjective expectations
+KW  - Stock market participation
+AB  - Subjective expectations are important primitives in many economic models, yet their direct measurement often yields imprecise and inconsistent data. This has previously been treated as a pure measurement error problem. In contrast, this paper argues that the individual-level precision of such data may reflect the structure of the underlying decision process. We estimate a semiparametric double index model on data specifically collected for this purpose and show that stock market participation decisions exhibit little variation in economic model primitives when individuals provide error-ridden belief statements. In contrast, beliefs and risk preferences predict strong variation in stock market participation for individuals who report precise expectations measures.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent estimation of linear panel data models with measurement error
+AU  - Meijer, Erik
+AU  - Spierdijk, Laura
+AU  - Wansbeek, Tom
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 169
+EP  - 180
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300842
+KW  - Measurement error
+KW  - Panel data
+KW  - Third moments
+KW  - Heteroskedasticity
+KW  - GMM
+AB  - Measurement error causes a bias towards zero when estimating a panel data linear regression model. The panel data context offers various opportunities to derive instrumental variables allowing for consistent estimation. We consider three sources of moment conditions: (i) restrictions on the covariance matrix of the errors in the equations, (ii) nonzero third moments of the regressors, and (iii) heteroskedasticity and nonlinearity in the relation between the error-ridden regressor and another, error-free, regressor. In simulations, these approaches appear to work well.
+ER  - 
+
+TY  - JOUR
+T1  - Counting rotten apples: Student achievement and score manipulation in Italian elementary Schools
+AU  - Battistin, Erich
+AU  - De Nadai, Michele
+AU  - Vuri, Daniela
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 344
+EP  - 362
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.015
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730101X
+KW  - Measurement error
+KW  - Non-parametric bounds
+KW  - Partial identification
+KW  - Score manipulation
+AB  - We derive bounds on the distribution of math and language scores of elementary school students in Italy correcting for pervasive manipulation. A natural experiment that randomly assigns external monitors to schools is used to deal with endogeneity of manipulation, as well as its mismeasurement in the data. Bounds are obtained from properties of the statistical model used to detect classes with manipulated scores, and from restrictions on the relationship between manipulation and true scores. Our results show that regional rankings by academic performance are reversed once manipulation is taken into account.
+ER  - 
+
+TY  - JOUR
+T1  - Simulated minimum distance estimation of dynamic models with errors-in-variables
+AU  - Gospodinov, Nikolay
+AU  - Komunjer, Ivana
+AU  - Ng, Serena
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 181
+EP  - 193
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300854
+KW  - Measurement error
+KW  - Minimum distance
+KW  - Simulation estimation
+KW  - Dynamic models
+AB  - Empirical analysis often involves using inexact measures of the predictors suggested by economic theory. The bias created by the correlation between the mismeasured regressors and the error term motivates the need for instrumental variable estimation. This paper considers a class of estimators that can be used in dynamic models with measurement errors when external instruments may not be available or are weak. The idea is to exploit the relation between the parameters of the model and the least squares biases. In cases when the latter are not analytically tractable, a special algorithm is designed to simulate the model without completely specifying the processes that generate the latent predictors. The proposed estimators perform well in simulations of the autoregressive distributed lag model. The methodology is used to estimate the long-run risks model.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of first-price auctions with non-equilibrium beliefs: A measurement error approach
+AU  - An, Yonghong
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 326
+EP  - 343
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301008
+KW  - First-price auctions
+KW  - Measurement error models
+KW  - Non-equilibrium beliefs
+KW  - Asymmetric value distributions
+KW  - Nonparametric identification and estimation
+AB  - This paper studies identification and estimation of two models for first-price auctions: (1) bidders’ beliefs about their opponents’ bidding behavior are not in equilibrium but follow “level-k” thinking, and (2) bidders’ values are asymmetrically distributed. Exploiting the nonparametric methodology developed for measurement error models (e.g., Hu, 2008), we show that both models can be identified by a unified methodology. The proposed methodology is applied to US Forest Service timber auction data and the estimation results suggest that bidders hold heterogeneous and non-equilibrium beliefs.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric identification of the bid–ask spread in extended Roll models
+AU  - Chen, Xiaohong
+AU  - Linton, Oliver
+AU  - Yi, Yanping
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 312
+EP  - 325
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300994
+KW  - Bid–ask spread
+KW  - Roll model
+KW  - Semiparametric identification
+KW  - Latent variables
+AB  - This paper provides new identification results for the bid–ask spread and the nonparametric distribution of the latent fundamental price increments (εt) from the observed transaction prices alone. The results are established via the characteristic function approach, and hence allow for discrete or continuous εt and the observed price increments do not need to have any finite moments. Constructive identification (and overidentification) results are established first in the basic Roll (1984) model, and then in various extended Roll models, including general unbalanced order flow, serially dependent latent trade direction indicators, adverse selection, random spread and a multivariate Roll model.
+ER  - 
+
+TY  - JOUR
+T1  - The econometrics of unobservables: Applications of measurement error models in empirical industrial organization and labor economics
+AU  - Hu, Yingyao
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 154
+EP  - 168
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300830
+KW  - Measurement error model
+KW  - Errors-in-variables
+KW  - Latent variable
+KW  - Unobserved heterogeneity
+KW  - Unobserved state variable
+KW  - Mixture model
+KW  - Hidden Markov model
+KW  - Dynamic discrete choice
+KW  - Nonparametric identification
+KW  - Conditional independence
+KW  - Endogeneity
+KW  - Instrument
+KW  - Type
+KW  - Unemployment rates
+KW  - IPV auction
+KW  - Multiple equilibria
+KW  - Incomplete information game
+KW  - Belief
+KW  - Learning model
+KW  - Fixed effects
+KW  - Panel data model
+KW  - Cognitive and non-cognitive skills
+KW  - Matching
+KW  - Income dynamics
+AB  - This paper reviews the recent developments in nonparametric identification of measurement error models and their applications in applied microeconomics, in particular, in empirical industrial organization and labor economics. Measurement error models describe mappings from a latent distribution to an observed distribution. The identification and estimation of measurement error models focus on how to obtain the latent distribution and the measurement error distribution from the observed distribution. Such a framework is suitable for many microeconomic models with latent variables, such as models with unobserved heterogeneity or unobserved state variables and panel data models with fixed effects. Recent developments in measurement error models allow very flexible specification of the latent distribution and the measurement error distribution. These developments greatly broaden economic applications of measurement error models. This paper provides an accessible introduction of these technical results to empirical researchers so as to expand applications of measurement error models.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian moment-based inference in a regression model with misclassification error
+AU  - Bollinger, Christopher R.
+AU  - van Hasselt, Martijn
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 282
+EP  - 294
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300970
+KW  - Binary misclassification
+KW  - Partial identification
+KW  - Bayesian bootstrap
+KW  - Empirical likelihood
+AB  - We present a Bayesian analysis of a regression model with a binary covariate that may have classification (measurement) error. Prior research demonstrates that the regression coefficient is only partially identified. We take a Bayesian approach which adds assumptions in the form of priors on the unknown misclassification probabilities. The approach is intermediate between the frequentist bounds of previous literature and strong assumptions which achieve point identification, and thus preferable in many settings. We present two simple algorithms to sample from the posterior distribution when the likelihood function is not fully parametric but only satisfies a set of moment restrictions. We focus on how varying amounts of information contained in a prior distribution on the misclassification probabilities change the posterior of the parameters of interest. While the priors add information to the model, they do not necessarily tighten the identified set. However, the information is sufficient to tighten Bayesian inferences. We also consider the case where the mismeasured binary regressor is endogenous. We illustrate the use of our Bayesian approach in a simulated data set and an empirical application investigating the association between narcotic pain reliever use and earnings.
+ER  - 
+
+TY  - JOUR
+T1  - Misclassification in binary choice models
+AU  - Meyer, Bruce D.
+AU  - Mittag, Nikolas
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 295
+EP  - 311
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300982
+KW  - Measurement error
+KW  - Binary choice models
+KW  - Program take-up
+KW  - Food stamps
+AB  - Bias from misclassification of binary dependent variables can be pronounced. We examine what can be learned from such contaminated data. First, we derive the asymptotic bias in parametric models allowing misclassification to be correlated with observables and unobservables. Simulations and validation data show that the bias formulas are accurate in finite samples and in most situations imply attenuation. Second, we examine the bias in a prototypical application. Erroneously restricting the covariance of misclassification and covariates aggravates the bias for all estimators we examine. Estimators that relax this restriction perform well if a model of misclassification or validation data is available.
+ER  - 
+
+TY  - JOUR
+T1  - Measurement error models: Editors’ introduction
+AU  - Hu, Yingyao
+AU  - Wansbeek, Tom
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 151
+EP  - 153
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300817
+ER  - 
+
+TY  - JOUR
+T1  - Regression discontinuity design with continuous measurement error in the running variable
+AU  - Davezies, Laurent
+AU  - Le Barbanchon, Thomas
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 260
+EP  - 281
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300969
+KW  - Regression discontinuity design
+KW  - Measurement error
+AB  - Since the late 90s, Regression Discontinuity (RD) designs have been widely used to estimate Local Average Treatment Effects (LATE). When the running variable is observed with continuous measurement error, identification fails. Assuming non-differential measurement error, we propose a consistent nonparametric estimator of the LATE when the discrepancy between the true running variable and its noisy measure is observed in an auxiliary sample of treated individuals, and when there are treated individuals at any value of the true running variable — two-sided fuzzy designs. We apply our method to estimate the effect of receiving unemployment benefits.
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable estimation of nonlinear models with nonclassical measurement error using control variables
+AU  - Hahn, Jinyong
+AU  - Ridder, Geert
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 238
+EP  - 250
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300945
+KW  - Measurement error
+KW  - Endogenous regressor
+KW  - Control variables
+KW  - Semi-parametric estimation
+KW  - Influence function
+AB  - We consider nonlinear parametric models with an independent variable that is measured with error. The measurement error can be correlated with the true value, i.e., the measurement error is allowed to be nonclassical. We propose a control variable estimator for the parameters of interest. The estimator is consistent even if the latent true value is endogenous. We derive the influence function of the semi-parametric estimator that accounts for the estimation of the control variable in the first stage.
+ER  - 
+
+TY  - JOUR
+T1  - Many IVs estimation of dynamic panel regression models with measurement error
+AU  - Lee, Nayoung
+AU  - Moon, Hyungsik Roger
+AU  - Zhou, Qiankun
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 251
+EP  - 259
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300957
+KW  - Dynamic panel regression
+KW  - Measurement error
+KW  - Many IVs
+KW  - JIVE
+AB  - In this paper, we investigate a dynamic linear panel regression model with measurement error. We consider the panel data estimation whose time dimension (T) is not small and comparable to the cross sectional dimension (N). First, we show that the 2SLS estimator suffers from the bias problem due to many instrumental variables. Using the alternative asymptotics where T3N goes to a constant as N,T→∞, we characterize its asymptotic bias due to many IVs. As a bias reduction method, we investigate the JIVE and derive its limiting distribution under the alternative asymptotics.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of additive and polynomial models of mismeasured regressors without instruments
+AU  - Ben-Moshe, Dan
+AU  - D’Haultfœuille, Xavier
+AU  - Lewbel, Arthur
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 207
+EP  - 222
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300921
+KW  - Nonparametric
+KW  - Semiparametric
+KW  - Measurement error
+KW  - Additive regression
+KW  - Polynomial regression
+KW  - Identification
+AB  - We show nonparametric point identification of a measurement error model with covariates that can be interpreted as invalid instruments. Our main contribution is to replace standard exclusion restrictions with the weaker assumption of additivity in the covariates. Measurement errors are ubiquitous and additive models are popular, so our results combining the two should have widespread potential application. We also identify a model that replaces the nonparametric function of the mismeasured regressor with a polynomial in that regressor and other covariates. This allows for rich interactions between the variables, at the expense of introducing a parametric restriction. Our identification proofs are constructive, and so can be used to form estimators. We establish root-n asymptotic normality for one of our estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - IFC
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30132-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730132X
+ER  - 
+
+TY  - JOUR
+T1  - Understanding the effect of measurement error on quantile regressions
+AU  - Chesher, Andrew
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 223
+EP  - 237
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300933
+KW  - Measurement error
+KW  - Parameter approximations
+KW  - Quantile regression
+AB  - The impact of measurement error in explanatory variables on quantile regression functions is investigated using a small variance approximation. The approximation shows how the error contaminated and error free quantile regression functions are related. A key factor is the distribution of the error free explanatory variable. Exact calculations probe the accuracy of the approximation. The order of the approximation error is unchanged if the density of the error free explanatory variable is replaced by the density of the error contaminated explanatory variable which is easily estimated. It is then possible to use the approximation to investigate the sensitivity of estimates to varying amounts of measurement error.
+ER  - 
+
+TY  - JOUR
+T1  - Simultaneous treatment of unspecified heteroskedastic model error distribution and mismeasured covariates for restricted moment models
+AU  - Garcia, Tanya P.
+AU  - Ma, Yanyuan
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 2
+SP  - 194
+EP  - 206
+PY  - 2017
+DA  - 2017/10/01/
+T2  - Measurement Error Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300908
+KW  - Influence function
+KW  - Linear operator
+KW  - Measurement error
+KW  - Nuisance tangent space
+KW  - Restricted moment model
+AB  - We develop consistent and efficient estimation of parameters in general regression models with mismeasured covariates. We assume the model error and covariate distributions are unspecified, and the measurement error distribution is a general parametric distribution with unknown variance–covariance. We construct root-n consistent, asymptotically normal and locally efficient estimators using the semiparametric efficient score. We do not estimate any unknown distribution or model error heteroskedasticity. Instead, we form the estimator under possibly incorrect working distribution models for the model error, error-prone covariate, or both. Empirical results demonstrate robustness to different incorrect working models in homoscedastic and heteroskedastic models with error-prone covariates.
+ER  - 

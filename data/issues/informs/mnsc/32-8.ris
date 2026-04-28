@@ -1,0 +1,299 @@
+
+
+
+
+
+TY  - JOUR
+T1  - A Survey of Exact Algorithms for the Simple Assembly Line Balancing Problem
+AU  - Baybars, İlker
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.909
+DO  - 10.1287/mnsc.32.8.909
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 909
+EP  - 932
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - In this survey paper we discuss the development of the simple assembly line balancing problem (SALBP); modifications and generalizations over time; present alternate 0-1 programming formulations and a general integer programming formulation of the problem; discuss other well-known problems related to SALBP; describe and comment on a number of exact (i.e., optimum-seeking) methods; and present a summary of the reported computational experiences. All models discussed here are deterministic (i.e., all input parameters are assumed to be known with certainty) and all the algorithms discussed are exact. The problem is termed ?simple? in the sense that no ?mixed-models,? ?subassembly lines,? ?zoning restrictions,? etc. are considered. Due to the richness of the literature, we exclude from discussion here (a) the inexact (i.e., heuristic/approximate) algorithms for SALPB and (b) the algorithms for the general assembly line balancing problem (including the stochastic models).
+AB  - In this survey paper we discuss the development of the simple assembly line balancing problem (SALBP); modifications and generalizations over time; present alternate 0-1 programming formulations and a general integer programming formulation of the problem; discuss other well-known problems related to SALBP; describe and comment on a number of exact (i.e., optimum-seeking) methods; and present a summary of the reported computational experiences. All models discussed here are deterministic (i.e., all input parameters are assumed to be known with certainty) and all the algorithms discussed are exact. The problem is termed ?simple? in the sense that no ?mixed-models,? ?subassembly lines,? ?zoning restrictions,? etc. are considered. Due to the richness of the literature, we exclude from discussion here (a) the inexact (i.e., heuristic/approximate) algorithms for SALPB and (b) the algorithms for the general assembly line balancing problem (including the stochastic models).
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.909
+UR  - https://doi.org/10.1287/mnsc.32.8.909
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Financial Futures Hedging Via Goal Programming
+AU  - Sharda, Ramesh
+AU  - Musser, Kathryn D.
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.933
+DO  - 10.1287/mnsc.32.8.933
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 933
+EP  - 947
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - This paper presents multiperiod, multiple objective goal programming as an alternative to the more conventional hedge ratio approaches to financial futures hedging. The described model offers the potential benefits of: (i) simultaneous achievement of multiple hedge-related objectives (i.e., minimization of transactions and margin opportunity costs; regulation of cash flow, and maximization of profits accruing from both the cash and futures positions); and (ii) periodic modification and updating of the futures position, as suggested by actual, observed prices and interest rates, throughout the hedging period. To assess its overall effectiveness, the model was applied to develop appropriate hedging strategies for three separate time periods, each representing a unique interest rate trend (i.e., upward movement, downward movement, and no change). Since real-world implementation of the model requires the use of forecast data, independent forecasts of both cash and futures prices were generated via (1) moving average, (2) exponential smoothing, and (3) random walk techniques. In progressing through each of the 13-week time periods, all forecasts were updated with the previous weeks' actual price data. Revised forecasts and actual price data were then incorporated into the model constraints on a weekly schedule. This approach, in essence, provided weekly futures activity recommendations based on the most recent price and interest rate developments observed at any point during the hedging period. The realized gains or losses were then compared to the previously-derived ?perfect foresight? model results and to the traditional hedge ratio results. This allowed for evaluation of the model's effectiveness under varying forecast methods and varying interest rate trends. The results show that the goal programming model outperformed other strategies in most cases.
+AB  - This paper presents multiperiod, multiple objective goal programming as an alternative to the more conventional hedge ratio approaches to financial futures hedging. The described model offers the potential benefits of: (i) simultaneous achievement of multiple hedge-related objectives (i.e., minimization of transactions and margin opportunity costs; regulation of cash flow, and maximization of profits accruing from both the cash and futures positions); and (ii) periodic modification and updating of the futures position, as suggested by actual, observed prices and interest rates, throughout the hedging period. To assess its overall effectiveness, the model was applied to develop appropriate hedging strategies for three separate time periods, each representing a unique interest rate trend (i.e., upward movement, downward movement, and no change). Since real-world implementation of the model requires the use of forecast data, independent forecasts of both cash and futures prices were generated via (1) moving average, (2) exponential smoothing, and (3) random walk techniques. In progressing through each of the 13-week time periods, all forecasts were updated with the previous weeks' actual price data. Revised forecasts and actual price data were then incorporated into the model constraints on a weekly schedule. This approach, in essence, provided weekly futures activity recommendations based on the most recent price and interest rate developments observed at any point during the hedging period. The realized gains or losses were then compared to the previously-derived ?perfect foresight? model results and to the traditional hedge ratio results. This allowed for evaluation of the model's effectiveness under varying forecast methods and varying interest rate trends. The results show that the goal programming model outperformed other strategies in most cases.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.933
+UR  - https://doi.org/10.1287/mnsc.32.8.933
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Search Theory and the Manufacturing Progress Function
+AU  - Muth, John F.
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.948
+DO  - 10.1287/mnsc.32.8.948
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 948
+EP  - 962
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - A theory based upon random search within a fixed population of technological possibilities is used to explain the manufacturing progress function. The theory is consistent with the power function relation between unit costs and cumulative output that has frequently been observed. It is also consistent with initial rates of improvement smaller than those predicted later by the power function relation, the eventual cessation of cost reduction, and an irregularity of improvements. Existing theories in the literature either fail to agree with the main empirical phenomena or else assume precisely what they attempt to explain.
+AB  - A theory based upon random search within a fixed population of technological possibilities is used to explain the manufacturing progress function. The theory is consistent with the power function relation between unit costs and cumulative output that has frequently been observed. It is also consistent with initial rates of improvement smaller than those predicted later by the power function relation, the eventual cessation of cost reduction, and an irregularity of improvements. Existing theories in the literature either fail to agree with the main empirical phenomena or else assume precisely what they attempt to explain.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.948
+UR  - https://doi.org/10.1287/mnsc.32.8.948
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Arbitrating a Dispute: A Decision Analytic Approach
+AU  - Eliashberg, Jehoshua
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.963
+DO  - 10.1287/mnsc.32.8.963
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 963
+EP  - 974
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - Many collective decision-making and bargaining situations can be described through the set of the feasible joint evaluations of all conceivable settlements. Attention should then be restricted to that subset (Pareto-optimal frontier) from which no joint gains are possible. Hence, the focal issue becomes which element of the Pareto-optimal subset should be chosen as a solution to the dispute. This paper proposes an arbitration procedure to address this issue. The proposed approach, decision-analytic in its nature, is inspired by LaValle?s (LaValle, I. H. 1978. Fundamentals of Decision Analysis. Holt, Rinehart and Winston, New York.) allocation-function approach (which is not specific on how to obtain an allocation function) and by Eliashberg and Winkler's (Eliashberg, J., R. L. Winkler. 1981. Risk sharing and group decision making. Management Sci. 27 (November) 1221?1235.) work (which does not accommodate probability differences within the group). After the new approach is presented, its implications are examined for some likely scenarios and examples are considered.
+AB  - Many collective decision-making and bargaining situations can be described through the set of the feasible joint evaluations of all conceivable settlements. Attention should then be restricted to that subset (Pareto-optimal frontier) from which no joint gains are possible. Hence, the focal issue becomes which element of the Pareto-optimal subset should be chosen as a solution to the dispute. This paper proposes an arbitration procedure to address this issue. The proposed approach, decision-analytic in its nature, is inspired by LaValle?s (LaValle, I. H. 1978. Fundamentals of Decision Analysis. Holt, Rinehart and Winston, New York.) allocation-function approach (which is not specific on how to obtain an allocation function) and by Eliashberg and Winkler's (Eliashberg, J., R. L. Winkler. 1981. Risk sharing and group decision making. Management Sci. 27 (November) 1221?1235.) work (which does not accommodate probability differences within the group). After the new approach is presented, its implications are examined for some likely scenarios and examples are considered.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.963
+UR  - https://doi.org/10.1287/mnsc.32.8.963
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Inventory Service-Level Measures: Convexity and Approximation
+AU  - Zipkin, Paul
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.975
+DO  - 10.1287/mnsc.32.8.975
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 975
+EP  - 981
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - We argue that standard approximations for two often-used inventory service-level measures may perform poorly in many situations. Then we confirm the long-standing conjecture that the (relatively) exact formulas for these quantities are convex functions of the relevant control variables. Both results suggest the exact expressions should be seriously considered in practical work.
+AB  - We argue that standard approximations for two often-used inventory service-level measures may perform poorly in many situations. Then we confirm the long-standing conjecture that the (relatively) exact formulas for these quantities are convex functions of the relevant control variables. Both results suggest the exact expressions should be seriously considered in practical work.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.975
+UR  - https://doi.org/10.1287/mnsc.32.8.975
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Commonality on Safety Stock in a Simple Inventory Model
+AU  - Baker, Kenneth R.
+AU  - Magazine, Michael J.
+AU  - Nuttle, Henry L. W.
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.982
+DO  - 10.1287/mnsc.32.8.982
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 982
+EP  - 988
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - We examine the effects of component commonality on optimal safety stock levels in a two-product, two-level inventory model. The criterion is to minimize system safety stock subject to a service level constraint. Although our model is specialized, its analysis provides insights not available in other multilevel inventory models.
+AB  - We examine the effects of component commonality on optimal safety stock levels in a two-product, two-level inventory model. The criterion is to minimize system safety stock subject to a service level constraint. Although our model is specialized, its analysis provides insights not available in other multilevel inventory models.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.982
+UR  - https://doi.org/10.1287/mnsc.32.8.982
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Heuristics for Multilevel Lot-Sizing with a Bottleneck
+AU  - Billington, Peter J.
+AU  - McClain, John O.
+AU  - Thomas, L. Joseph
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.989
+DO  - 10.1287/mnsc.32.8.989
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 989
+EP  - 1006
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - In this paper we present a heuristic method, based on Lagrangian relaxation, for multilevel lot-sizing when there is a single bottleneck facility. A series of Lagrangian relaxations (one for each item in the product structure) is imbedded in a branch and bound procedure. The objective is to find a production schedule that fits within available capacity at minimum cost. The method has two solution phases, dual and primal. In the dual phase of the procedure, implied costs of setups and production are determined based on a tentative schedule. The primal phase is repeated with these new prices and we iterate to reach a good solution. The solution procedure is first tested on two special cases: uncapacitated multilevel lot-sizing and the capacitated, single-level multi-item lot sizing problem. The results show that the solution procedure can provide better solutions than some heuristics designed especially for those problems. Test results on the bottleneck problem indicate that good feasible solutions are found for problems too difficult to solve with exact methods.
+AB  - In this paper we present a heuristic method, based on Lagrangian relaxation, for multilevel lot-sizing when there is a single bottleneck facility. A series of Lagrangian relaxations (one for each item in the product structure) is imbedded in a branch and bound procedure. The objective is to find a production schedule that fits within available capacity at minimum cost. The method has two solution phases, dual and primal. In the dual phase of the procedure, implied costs of setups and production are determined based on a tentative schedule. The primal phase is repeated with these new prices and we iterate to reach a good solution. The solution procedure is first tested on two special cases: uncapacitated multilevel lot-sizing and the capacitated, single-level multi-item lot sizing problem. The results show that the solution procedure can provide better solutions than some heuristics designed especially for those problems. Test results on the bottleneck problem indicate that good feasible solutions are found for problems too difficult to solve with exact methods.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.989
+UR  - https://doi.org/10.1287/mnsc.32.8.989
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Generalized Network Formulation of the Pairwise Comparison Consensus Ranking Model
+AU  - Barzilai, Jonathan
+AU  - Cook, Wade D.
+AU  - Kress, Moshe
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.1007
+DO  - 10.1287/mnsc.32.8.1007
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1007
+EP  - 1014
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - One of the best known and most widely referenced models for representing ordinal preferences is that due to Kemeny and Snell (Kemeny, J. G., L. J. Snell. 1962. Preference ranking: an axiomatic approach. Mathematical Models in the Social Sciences. Glnn, New York, 9?23.). This model is designed to accommodate pairwise comparison data with an l1 norm used to measure voter disagreement. While this model possesses many of the necessary properties for a social choice function, solution procedures developed to date have been capable of handling only small problems due to the difficulty of modelling the transitivity requirements of an optimal consensus ranking. This paper shows how the consensus formation problem for strict linear orderings can be modelled as a generalized network. Since efficient computer codes already exist for handling this special structure, this approach will permit the solution of much larger problems than has been the case previously.
+AB  - One of the best known and most widely referenced models for representing ordinal preferences is that due to Kemeny and Snell (Kemeny, J. G., L. J. Snell. 1962. Preference ranking: an axiomatic approach. Mathematical Models in the Social Sciences. Glnn, New York, 9?23.). This model is designed to accommodate pairwise comparison data with an l1 norm used to measure voter disagreement. While this model possesses many of the necessary properties for a social choice function, solution procedures developed to date have been capable of handling only small problems due to the difficulty of modelling the transitivity requirements of an optimal consensus ranking. This paper shows how the consensus formation problem for strict linear orderings can be modelled as a generalized network. Since efficient computer codes already exist for handling this special structure, this approach will permit the solution of much larger problems than has been the case previously.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.1007
+UR  - https://doi.org/10.1287/mnsc.32.8.1007
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Game Theory and Cost Allocation Problems
+AU  - Tijs, S. H.
+AU  - Driessen, T. S. H.
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.1015
+DO  - 10.1287/mnsc.32.8.1015
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1015
+EP  - 1028
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - Problems of allocating joint costs in a reasonable way arise in many practical situations where people decide to work together to save costs. Cost allocation methods based on game theoretical concepts take into account the strategic aspects of cost allocation situations. We give a survey of cost allocation methods based on the nucleolus and the Shapley value, and introduce also a new one, the so-called cost gap allocation method which is based on the τ-value. It is shown that for some large subclasses of cost allocation problems this new cost allocation method coincides with old separable cost methods proposed in the thirties by the Tennessee Valley Authority and also with the separable costs-remaining benefits (SCRB) method. Properties of this cost gap allocation method are also treated.
+AB  - Problems of allocating joint costs in a reasonable way arise in many practical situations where people decide to work together to save costs. Cost allocation methods based on game theoretical concepts take into account the strategic aspects of cost allocation situations. We give a survey of cost allocation methods based on the nucleolus and the Shapley value, and introduce also a new one, the so-called cost gap allocation method which is based on the τ-value. It is shown that for some large subclasses of cost allocation problems this new cost allocation method coincides with old separable cost methods proposed in the thirties by the Tennessee Valley Authority and also with the separable costs-remaining benefits (SCRB) method. Properties of this cost gap allocation method are also treated.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.1015
+UR  - https://doi.org/10.1287/mnsc.32.8.1015
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Game Theoretic Approach to Collections and Disbursements
+AU  - Orgler, Yair E.
+AU  - Tauman, Yair
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.1029
+DO  - 10.1287/mnsc.32.8.1029
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1029
+EP  - 1039
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - Many firms use lock boxes serviced by local depository banks in an attempt to reduce collection float. Likewise, an increasing number of large firms use controlled disbursing to pay their bills, in order to increase and control their disbursement float. Almost all the literature treats the lock box location problem and the disbursement bank location problem separately. The purpose of this paper is to examine simultaneously the optimal collection strategies of sellers and the optimal payment strategies of buyers. Our analysis involves multiple periods where the decisions of each party take into consideration the potential strategies of the other. That is, the collection-payment problem is analyzed both as a two-party and a multiple-party game. The rationale for casting the problem in a game theoretic framework is quite simple: When a seller selects lock boxes and depository banks he takes into consideration the fact that his buyers may use controlled disbursing banks. Likewise, when buyers select disbursing banks or branches they realize that the seller may shift the location of the designated lock boxes in response. Obviously, our analysis is relevant primarily for firms that manage large amounts of payments and collections and use sophisticated cash management techniques.
+AB  - Many firms use lock boxes serviced by local depository banks in an attempt to reduce collection float. Likewise, an increasing number of large firms use controlled disbursing to pay their bills, in order to increase and control their disbursement float. Almost all the literature treats the lock box location problem and the disbursement bank location problem separately. The purpose of this paper is to examine simultaneously the optimal collection strategies of sellers and the optimal payment strategies of buyers. Our analysis involves multiple periods where the decisions of each party take into consideration the potential strategies of the other. That is, the collection-payment problem is analyzed both as a two-party and a multiple-party game. The rationale for casting the problem in a game theoretic framework is quite simple: When a seller selects lock boxes and depository banks he takes into consideration the fact that his buyers may use controlled disbursing banks. Likewise, when buyers select disbursing banks or branches they realize that the seller may shift the location of the designated lock boxes in response. Obviously, our analysis is relevant primarily for firms that manage large amounts of payments and collections and use sophisticated cash management techniques.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.1029
+UR  - https://doi.org/10.1287/mnsc.32.8.1029
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Searching for Positive Returns at the Track: A Multinomial Logit Model for Handicapping Horse Races
+AU  - Bolton, Ruth N.
+AU  - Chapman, Randall G.
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.1040
+DO  - 10.1287/mnsc.32.8.1040
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1040
+EP  - 1060
+VL  - 32
+IS  - 8
+PB  - INFORMS
+N2  - This paper investigates fundamental investment strategies to detect and exploit the public's systematic errors in horse race wager markets. A handicapping model is developed and applied to win-betting in the pari-mutuel system. A multinomial logit model of the horse racing process is posited and estimated on a data base of 200 races. A recently developed procedure for exploiting the information content of rank ordered choice sets is employed to obtain more efficient parameter estimates. The variables in this discrete choice probability model include horse and jockey characteristics, plus several race-specific features. Hold-out sampling procedures are employed to evaluate wagering strategies. A wagering strategy that involves unobtrusive bets, with a side constraint eliminating long-shot betting, appears to offer the promise of positive expected returns, even in the presence of the typically large track take encountered at Thoroughbred racing events.
+AB  - This paper investigates fundamental investment strategies to detect and exploit the public's systematic errors in horse race wager markets. A handicapping model is developed and applied to win-betting in the pari-mutuel system. A multinomial logit model of the horse racing process is posited and estimated on a data base of 200 races. A recently developed procedure for exploiting the information content of rank ordered choice sets is employed to obtain more efficient parameter estimates. The variables in this discrete choice probability model include horse and jockey characteristics, plus several race-specific features. Hold-out sampling procedures are employed to evaluate wagering strategies. A wagering strategy that involves unobtrusive bets, with a side constraint eliminating long-shot betting, appears to offer the promise of positive expected returns, even in the presence of the typically large track take encountered at Thoroughbred racing events.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.1040
+UR  - https://doi.org/10.1287/mnsc.32.8.1040
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - About Authors
+Y1  - 1986/08/01
+PY  - 1986
+DA  - 1986/08/01
+N1  - doi: 10.1287/mnsc.32.8.1061
+DO  - 10.1287/mnsc.32.8.1061
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1061
+EP  - 1063
+VL  - 32
+IS  - 8
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.32.8.1061
+UR  - https://doi.org/10.1287/mnsc.32.8.1061
+Y2  - 2024/03/28
+ER  - 

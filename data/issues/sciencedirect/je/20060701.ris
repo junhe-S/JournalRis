@@ -1,0 +1,326 @@
+TY  - JOUR
+T1  - Monte Carlo methods for estimating, smoothing, and filtering one- and two-factor stochastic volatility models
+AU  - Durham, Garland B.
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 273
+EP  - 305
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000916
+KW  - Stochastic volatility
+KW  - Simulation-based estimation
+KW  - Model diagnostics
+KW  - Stock returns
+AB  - One- and two-factor stochastic volatility models are assessed over three sets of stock returns data: S&P 500, DJIA, and Nasdaq. Estimation is done by simulated maximum likelihood using techniques that are computationally efficient, robust, straightforward to implement, and easy to adapt to different models. The models are evaluated using standard, easily interpretable time-series tools. The results are broadly similar across the three data sets. The tests provide no evidence that even the simple single-factor models are unable to capture the dynamics of volatility adequately; the problem is to get the shape of the conditional returns distribution right. None of the models come close to matching the tails of this distribution. Including a second factor provides only a relatively small improvement over the single-factor models. Fitting this aspect of the data is important for option pricing and risk management.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic normality of narrow-band least squares in the stationary fractional cointegration model and volatility forecasting
+AU  - Christensen, Bent Jesper
+AU  - Nielsen, Morten Ørregaard
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 343
+EP  - 371
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.018
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760500093X
+KW  - Asymptotic distribution theory
+KW  - High-frequency data
+KW  - Long memory
+KW  - Semiparametric methods
+KW  - Stationary fractional cointegration
+AB  - We consider semiparametric frequency domain analysis of cointegration between long memory processes, i.e. fractional cointegration, allowing derivation of useful long-run relations even among stationary processes. The approach is due to Robinson (1994b. Annals of Statistics 22, 515–539) and uses a degenerating part of the periodogram near the origin to form a narrow-band frequency domain least squares (FDLS) estimator of the cointegrating relation, which is consistent for arbitrary short-run dynamics. We derive the asymptotic distribution theory for the FDLS estimator of the cointegration vector in the stationary long memory case, thus complementing Robinson's consistency result. An application to the relation between the volatility realized in the stock market and the associated implicit volatility derived from option prices is offered.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating the probability of leaving unemployment using uncompleted spells from repeated cross-section data
+AU  - Güell, Maia
+AU  - Hu, Luojia
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 307
+EP  - 341
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000928
+KW  - Repeated cross-section data
+KW  - GMM
+KW  - Duration analysis
+KW  - Unemployment
+AB  - We propose a new econometric estimation method for analyzing the probability of leaving unemployment using uncompleted spells from repeated cross-section data, which can be especially useful when panel data are not available. The proposed method-of-moments-based estimator has two important features: (1) it estimates the exit probability at the individual level and (2) it does not rely on the stationarity assumption of the inflow composition. We illustrate and gauge the performance of the proposed estimator using Spanish Labor Force Survey data, and analyze the changes in distribution of unemployment between the 1980s and 1990s during a period of labor market reform. We find that the relative probability of leaving unemployment for the short-term unemployed compared to the long-term unemployed becomes significantly higher in the 1990s.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for stochastic dominance using the weighted McFadden-type statistic
+AU  - Horváth, Lajos
+AU  - Kokoszka, Piotr
+AU  - Zitikis, Ričardas
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 191
+EP  - 205
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000886
+KW  - Stochastic dominance
+KW  - Kolmogorov–Smirnov-type statistic
+KW  - Asymptotic distribution
+KW  - Brownian bridge
+KW  - Bootstrap
+AB  - We demonstrate that when testing for stochastic dominance of order three and above, using a weighted version of the Kolmogorov–Smirnov-type statistic proposed by McFadden [1989. In: Fomby, T.B., Seo, T.K. (Eds.), Studies in the Economics of Uncertainty. Springer, New York, pp. 113–134] is necessary for obtaining a non-degenerate asymptotic distribution. Since the asymptotic distribution is complex, we discuss a bootstrap approximation for it in the context of a real application.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric efficient adaptive estimation of asymmetric GARCH models
+AU  - Sun, Yiguo
+AU  - Stengos, Thanasis
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 373
+EP  - 386
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000941
+KW  - Asymmetric GARCH
+KW  - Semiparametric adaptive estimation
+AB  - In this paper we derive a semiparametric efficient adaptive estimator of an asymmetric GARCH model. Applying some general results from Drost et al. [1997. The Annals of Statistics 25, 786–818], we first estimate the unknown density function of the disturbances by kernel methods, then apply a one-step Newton–Raphson method to obtain a more efficient estimator than the quasi-maximum likelihood estimator. The proposed semiparametric estimator is adaptive for parameters appearing in the conditional standard deviation model with respect to the unknown distribution of the disturbances.
+ER  - 
+
+TY  - JOUR
+T1  - Functional coefficient instrumental variables models
+AU  - Cai, Zongwu
+AU  - Das, Mitali
+AU  - Xiong, Huaiyu
+AU  - Wu, Xizhi
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 207
+EP  - 241
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000898
+KW  - Endogenous variables
+KW  - Functional coefficient models
+KW  - Instrumental variables
+KW  - Local linear fitting
+KW  - Nonparametric smoothing
+KW  - Simultaneous equations
+AB  - We consider estimation of nonparametric structural models under a functional coefficient representation for the regression function. Under this representation, models are linear in the endogenous components with coefficients given by unknown functions of the predetermined variables, a nonparametric generalization of random coefficient models. The functional coefficient restriction is an intermediate approach between fully nonparametric structural models that are ill posed when endogenous variables are continuously distributed, and partially linear models over which they have appreciable flexibility. We propose two-step estimators that use local linear approximations in both steps. The first step is to estimate a vector of reduced forms of regression models and the second step is local linear regression using the estimated reduced forms as regressors. Our large sample results include consistency and asymptotic normality of the proposed estimators. The high practical power of estimators is illustrated via both a Monte Carlo simulation study and an application to returns to education.
+ER  - 
+
+TY  - JOUR
+T1  - GMM estimators with improved finite sample properties using principal components of the weighting matrix, with an application to the dynamic panel data model
+AU  - Doran, Howard E.
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 387
+EP  - 409
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000953
+KW  - GMM
+KW  - Generalized method of moments
+KW  - Principal components
+KW  - Dynamic panel data model
+AB  - GMM estimators have poor finite sample properties in highly overidentified models. With many moment conditions the optimal weighting matrix is poorly estimated. We suggest using principal components of the weighting matrix. This effectively drops some of the moment conditions. Our simulations, done in the context of the dynamic panel data model, show that the resulting GMM estimator has better finite sample properties than the usual two-step GMM estimator, in the sense of smaller bias and more reliable standard errors.
+ER  - 
+
+TY  - JOUR
+T1  - Bounding parameters in a linear regression model with a mismeasured regressor using additional information
+AU  - Hu, Yingyao
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 51
+EP  - 70
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000837
+KW  - Nonclassical measurement error
+KW  - Dichotomous latent regressor
+AB  - This paper discusses a linear regression model with a mismeasured regressor in which the measurement error is correlated with both the latent variable and the regression error. We use a linear structure to capture the correlation between the measurement error and the latent variable. This paper shows that the variance of the latent variable is very useful for revealing information on the parameters which otherwise cannot be obtained with such a nonclassical measurement error. The main result is that the finite bounds on the parameters can be found using the variance of the latent variable, regardless of how severely the measurement error and the regression error are correlated, if the mismeasured regressor contains enough information on the latent one. This paper also discusses the special but interesting case of the latent variable being dichotomous. In this case, the mean of the latent variable may even reveal information on the correlation between the measurement error and the regression error. All the bounds developed in the paper are tight.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of stochastic frontier production functions with input-oriented technical efficiency
+AU  - Kumbhakar, Subal C.
+AU  - Tsionas, Efthymios G.
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 71
+EP  - 96
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000849
+KW  - Input and output technical inefficiency
+KW  - Translog production function
+KW  - Returns to scale
+KW  - Technical change
+AB  - This paper deals with estimation of input-oriented (IO) technical inefficiency using a stochastic production frontier model. Econometrically the model is similar to a class of models that arise in specifying technical inefficiency in cost-minimizing and profit-maximizing frameworks. The standard maximum likelihood (ML) method that is used to estimate output-oriented (OO) technical efficiency cannot be applied to estimate these models. We use a simulated ML approach to estimate the IO production function and compare results from the IO and OO models, mainly to emphasize the point that estimated efficiency, returns to scale, technical change, etc., differ depending on whether one uses the model with IO or OO technical inefficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Simulation-based estimation of peer effects
+AU  - Krauth, Brian V.
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 243
+EP  - 271
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000904
+KW  - Social interactions
+KW  - Discrete games
+KW  - Simulation-based estimation
+AB  - The influence of peer behavior on an individual's choices has received renewed interest in recent years. However, accurate measures of this influence are difficult to obtain. Standard reduced-form methods lead to upwardly biased estimates due to simultaneity, common shocks, and nonrandom peer group selection. This paper describes a structural econometric model of peer effects in binary choice, as well as a simulated maximum likelihood estimator for its parameters. The model is nonparametrically identified under plausible restrictions, and can place informative bounds on parameter values under much weaker restrictions. Monte Carlo results indicate that this estimator performs better than a reduced form approach in a wide variety of settings. A brief application to youth smoking demonstrates the method and suggests that previous studies dramatically overstate peer influence.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of models with grouped and ungrouped data by means of “2SLS”
+AU  - Dhrymes, Phoebus J.
+AU  - Lleras-Muney, Adriana
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 1
+EP  - 29
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000813
+KW  - Two-stage least squares
+KW  - Instrumental variables
+KW  - Grouped data
+KW  - Mixed two-stage least squares
+KW  - Test of efficiency
+AB  - This paper deals with a special case of estimation with grouped data, where the dependent variable is only available for groups, whereas the endogenous regressor(s) is available at the individual level. By estimating the first stage using the available individual data, and then estimating the second stage at the aggregate level, it might be possible to gain efficiency relative to the OLS and 2SLS estimators that use only grouped data. We term this the mixed-2SLS estimator (M2SLS). The M2SLS estimator is consistent and asymptotically normal. We also provide a test of efficiency of M2SLS relative to OLS and “2SLS” estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Limited information Bayesian analysis of a simultaneous equation with an autocorrelated error term and its application to the U.S. gasoline market
+AU  - Radchenko, Stanislav
+AU  - Tsurumi, Hiroki
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 31
+EP  - 49
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000825
+KW  - Limited information Bayesian estimation
+KW  - Exogeneity
+KW  - Identifying restrictions
+KW  - MCMC algorithms
+KW  - U.S. gasoline market
+AB  - Using Markov Chain Monte Carlo algorithms within the limited information Bayesian framework, we estimate the parameters of the structural equation of interest and test weak exogeneity in a simultaneous equation model with white noise as well as autocorrelated error terms. A numerical example and an estimation of the supply and demand equations of the U.S. gasoline market show that if we ignore autocorrelation we obtain unreasonable posterior distributions of the parameters of interest. Also we find that the hypothesis of the asymmetric effect of the changes in oil price on the changes in gasoline price is rejected. Oil inventory has a significant negative effect on the gasoline price.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - CO2
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(06)00121-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001217
+ER  - 
+
+TY  - JOUR
+T1  - The thick market effect on local unemployment rate fluctuations
+AU  - Gan, Li
+AU  - Zhang, Qinghua
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 127
+EP  - 152
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000862
+KW  - Thick market effect
+KW  - Local unemployment fluctuation
+KW  - Matching
+AB  - This paper studies how the thick market effect influences local unemployment rate fluctuations. The paper presents a model to demonstrate that the average matching quality improves as the number of workers and firms increases. Unemployed workers accumulate in a city until the local labor market reaches a critical minimum size, which leads to cyclical fluctuations in the local unemployment rate. Since larger cities attain the critical market size more frequently, they have shorter unemployment cycles, lower peak unemployment rates and lower mean unemployment rates. Our empirical tests are consistent with the predictions of the model. In particular, we find that an increase of two standard deviations in city size shortens the unemployment cycles by about 0.72 months, lowers the peak unemployment rate by 0.33 percentage points, and lowers the mean unemployment rate by 0.16 percentage points.
+ER  - 
+
+TY  - JOUR
+T1  - A flexible prior distribution for Markov switching autoregressions with Student-t errors
+AU  - Deschamps, Philippe J.
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 153
+EP  - 190
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000874
+KW  - Hidden Markov models
+KW  - Empirical Bayes prior
+KW  - Truncated inverted gamma
+KW  - Permutation sampler
+KW  - Real interest rate
+AB  - This paper proposes an empirical Bayes approach for Markov switching autoregressions that can constrain some of the state-dependent parameters (regression coefficients and error variances) to be approximately equal across regimes. By flexibly reducing the dimension of the parameter space, this can help to ensure regime separation and to detect the Markov switching nature of the data. The permutation sampler with a hierarchical prior is used for choosing the prior moments, the identification constraint, and the parameters governing prior state dependence. The empirical relevance of the methodology is illustrated with an application to quarterly and monthly real interest rate data.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized reduced rank tests using the singular value decomposition
+AU  - Kleibergen, Frank
+AU  - Paap, Richard
+JO  - Journal of Econometrics
+VL  - 133
+IS  - 1
+SP  - 97
+EP  - 126
+PY  - 2006
+DA  - 2006/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.02.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000850
+KW  - Stochastic discount factor model
+KW  - Cointegration
+KW  - GMM
+AB  - We propose a novel statistic to test the rank of a matrix. The rank statistic overcomes deficiencies of existing rank statistics, like: a Kronecker covariance matrix for the canonical correlation rank statistic of Anderson [Annals of Mathematical Statistics (1951), 22, 327–351] sensitivity to the ordering of the variables for the LDU rank statistic of Cragg and Donald [Journal of the American Statistical Association (1996), 91, 1301–1309] and Gill and Lewbel [Journal of the American Statistical Association (1992), 87, 766–776] a limiting distribution that is not a standard chi-squared distribution for the rank statistic of Robin and Smith [Econometric Theory (2000), 16, 151–175] usage of numerical optimization for the objective function statistic of Cragg and Donald [Journal of Econometrics (1997), 76, 223–250] and ignoring the non-negativity restriction on the singular values in Ratsimalahelo [2002, Rank test based on matrix perturbation theory. Unpublished working paper, U.F.R. Science Economique, University de Franche-Comté]. In the non-stationary cointegration case, the limiting distribution of the new rank statistic is identical to that of the Johansen trace statistic.
+ER  - 

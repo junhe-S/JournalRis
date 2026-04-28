@@ -1,0 +1,246 @@
+TY  - JOUR
+T1  - Partial identification and inference in censored quantile regression
+AU  - Fan, Yanqin
+AU  - Liu, Ruixuan
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 1
+EP  - 38
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300708
+KW  - Archimedean copula
+KW  - Competing risks model
+KW  - Confidence set
+KW  - Dependent censoring
+KW  - Independent censoring
+AB  - In this paper, we study partial identification and inference in a linear quantile regression, where the dependent variable is subject to possibly unknown dependent censoring characterized by an Archimedean copula. An outer set of the identified set for the regression coefficient is characterized via inequality constraints. For one-parameter ordered families of Archimedean copulas, we construct a simple confidence set by inverting an asymptotically pivotal statistic. A bootstrap confidence set is also constructed. Sensitivity of the identified set to possible misspecification of the true copula and the finite sample performance of the boostrap confidence set are investigated numerically.
+ER  - 
+
+TY  - JOUR
+T1  - A semi-nonparametric estimator of regression discontinuity design with discrete duration outcomes
+AU  - Xu, Ke-Li
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 258
+EP  - 278
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.06.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301143
+KW  - Generalized wald test
+KW  - Grouped duration data
+KW  - Semi-nonparametric models
+KW  - Proportional hazard
+KW  - Regression discontinuity
+KW  - Series estimator
+KW  - Treatment effects
+AB  - We consider the regression discontinuity (RD) design with the duration outcome which has discrete support. The parameters of policy interest are treatment effects on unconditional (duration effect) and conditional (hazard effect) exiting probabilities for each discrete level. We propose a novel semi-nonparametric estimator which exploits a flexible separability structure of the underlying continuous-time duration process. Simultaneous inference over discrete levels is nonstandard since the asymptotic variance matrix is singular with unknown rank. The peculiarity is delivered by the nature of the RD estimand, and we provide solutions. Random censoring and competing risks can also be allowed in our framework.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - ii
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30137-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301374
+ER  - 
+
+TY  - JOUR
+T1  - Best subset binary prediction
+AU  - Chen, Le-Yu
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 39
+EP  - 56
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300770
+KW  - Binary choice
+KW  - Maximum score estimation
+KW  - Best subset selection
+KW  - 
+               -constrained maximization
+KW  - Mixed integer optimization
+KW  - Minimax optimality
+KW  - Finite sample property
+AB  - We consider a variable selection problem for the prediction of binary outcomes. We study the best subset selection procedure by which the covariates are chosen by maximizing Manski (1975, 1985)’s maximum score objective function subject to a constraint on the maximal number of selected variables. We show that this procedure can be equivalently reformulated as solving a mixed integer optimization problem, which enables computation of the exact or an approximate solution with a definite approximation error bound. In terms of theoretical results, we obtain non-asymptotic upper and lower risk bounds when the dimension of potential covariates is possibly much larger than the sample size. Our upper and lower risk bounds are minimax rate-optimal when the maximal number of selected variables is fixed and does not increase with the sample size. We illustrate usefulness of the best subset binary prediction approach via Monte Carlo simulations and an empirical application of the work-trip transportation mode choice.
+ER  - 
+
+TY  - JOUR
+T1  - Confidence regions for entries of a large precision matrix
+AU  - Chang, Jinyuan
+AU  - Qiu, Yumou
+AU  - Yao, Qiwei
+AU  - Zou, Tao
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 57
+EP  - 82
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.03.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300782
+KW  - Bias correction
+KW  - Dependent data
+KW  - High dimensionality
+KW  - Kernel estimation
+KW  - Parametric bootstrap
+KW  - Precision matrix
+AB  - We consider the statistical inference for high-dimensional precision matrices. Specifically, we propose a data-driven procedure for constructing a class of simultaneous confidence regions for a subset of the entries of a large precision matrix. The confidence regions can be applied to test for specific structures of a precision matrix, and to recover its nonzero components. We first construct an estimator for the precision matrix via penalized node-wise regression. We then develop the Gaussian approximation to approximate the distribution of the maximum difference between the estimated and the true precision coefficients.A computationally feasible parametric bootstrap algorithm is developed to implement the proposed procedure. The theoretical justification is established under the setting which allows temporal dependence among observations. Therefore the proposed procedure is applicable to both independent and identically distributed data and time series data. Numerical results with both simulated and real data confirm the good performance of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification of the distribution of random coefficients in binary response static games of complete information
+AU  - Dunker, Fabian
+AU  - Hoderlein, Stefan
+AU  - Kaido, Hiroaki
+AU  - Sherman, Robert
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 83
+EP  - 102
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300794
+KW  - Binary response
+KW  - Static games
+KW  - Complete information
+KW  - Heterogeneity
+KW  - Nonparametric identification
+KW  - Random coefficients
+AB  - This paper studies binary response static games of complete information allowing complex heterogeneity through a random coefficients specification. The main result of the paper establishes nonparametric point identification of the joint density of all random coefficients except those on interaction effects. Under additional independence assumptions, we identify the joint density of the interaction coefficients. Moreover, we prove that in the presence of covariates that are common to both players, the player-specific coefficient densities are identified, while the joint density of all random coefficients is not point-identified. However, we do provide bounds on counterfactual probabilities that involve this joint density.
+ER  - 
+
+TY  - JOUR
+T1  - Simultaneous multiple change-point and factor analysis for high-dimensional time series
+AU  - Barigozzi, Matteo
+AU  - Cho, Haeran
+AU  - Fryzlewicz, Piotr
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 187
+EP  - 225
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300915
+KW  - Piecewise stationary factor model
+KW  - Change-point detection
+KW  - Principal component analysis
+KW  - Wavelet transformation
+KW  - Double CUSUM binary segmentation
+AB  - We propose the first comprehensive treatment of high-dimensional time series factor models with multiple change-points in their second-order structure. We operate under the most flexible definition of piecewise stationarity, and estimate the number and locations of change-points consistently as well as identifying whether they originate in the common or idiosyncratic components. Through the use of wavelets, we transform the problem of change-point detection in the second-order structure of a high-dimensional time series, into the (relatively easier) problem of change-point detection in the means of high-dimensional panel data. Also, our methodology circumvents the difficult issue of the accurate estimation of the true number of factors in the presence of multiple change-points by adopting a screening procedure. We further show that consistent factor analysis is achieved over each segment defined by the change-points estimated by the proposed methodology. In extensive simulation studies, we observe that factor analysis prior to change-point detection improves the detectability of change-points, and identify and describe an interesting ‘spillover’ effect in which substantial breaks in the idiosyncratic components get, naturally enough, identified as change-points in the common components, which prompts us to regard the corresponding change-points as also acting as a form of ‘factors’. Our methodology is implemented in the R package factorcpt, available from CRAN.
+ER  - 
+
+TY  - JOUR
+T1  - A nonparametric eigenvalue-regularized integrated covariance matrix estimator for asset return data
+AU  - Lam, Clifford
+AU  - Feng, Phoenix
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 226
+EP  - 257
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300927
+KW  - High frequency data
+KW  - Microstructure noise
+KW  - Non-synchronous trading
+KW  - Integrated covariance matrix
+KW  - Minimum variance portfolio
+KW  - Nonlinear shrinkage
+AB  - In high-frequency data analysis, the extreme eigenvalues of a realized covariance matrix are biased when its dimension p is large relative to the sample size n. Furthermore, with non-synchronous trading and contamination of microstructure noise, we propose a nonparametrically eigenvalue-regularized integrated covariance matrix estimator (NERIVE) which does not assume specific structures for the underlying integrated covariance matrix. We show that NERIVE is positive definite in probability, with extreme eigenvalues shrunk nonlinearly under the high dimensional framework p∕n→c>0. We also prove that in portfolio allocation, the minimum variance optimal weight vector constructed using NERIVE has maximum exposure and actual risk upper bounds of order p−1∕2. Incidentally, the same maximum exposure bound is also satisfied by the theoretical minimum variance portfolio weights. All these results hold true also under a jump–diffusion model for the log-price processes with jumps removed using the wavelet method proposed in Fan and Wang (2007). They are further extended to accommodate the existence of pervasive factors such as a market factor under the setting p3∕2∕n→c>0. The practical performance of NERIVE is illustrated by comparing to the usual two-scale realized covariance matrix as well as some other nonparametric alternatives using different simulation settings and a real data set.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient asymptotic variance reduction when estimating volatility in high frequency data
+AU  - Clinet, Simon
+AU  - Potiron, Yoann
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 103
+EP  - 142
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300800
+KW  - High frequency data
+KW  - Jumps
+KW  - Market microstructure noise
+KW  - Integrated volatility
+KW  - Quasi-maximum likelihood estimator
+KW  - Realized kernels
+KW  - Stochastic sampling times
+AB  - This paper shows how to carry out efficient asymptotic variance reduction when estimating volatility in the presence of stochastic volatility and microstructure noise with the realized kernels (RK) from Barndorff-Nielsen et al. (2008) and the quasi-maximum likelihood estimator (QMLE) studied in Xiu (2010). To obtain such a reduction, we chop the data into B blocks, compute the RK (or QMLE) on each block, and aggregate the block estimates. The ratio of asymptotic variance over the bound of asymptotic efficiency converges as B increases to the ratio in the parametric version of the problem, i.e. 1.0025 in the case of the fastest RK Tukey-Hanning 16 and 1 for the QMLE. The impact of stochastic sampling times and jump in the price process is examined carefully. The finite sample performance of both estimators is investigated in simulations, while empirical work illustrates the gain in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Comparing distributions by multiple testing across quantiles or CDF values
+AU  - Goldman, Matt
+AU  - Kaplan, David M.
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 143
+EP  - 166
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300812
+KW  - Dirichlet
+KW  - Familywise error rate
+KW  - Kolmogorov–Smirnov
+KW  - Probability integral transform
+KW  - Regression discontinuity
+AB  - We first show that one-sample and two-sample Kolmogorov–Smirnov tests may be interpreted as multiple testing procedures, nonparametrically testing equality at each point in the distribution with strong control of the finite-sample familywise error rate. Second, we provide an alternative procedure that distributes power across the distribution more evenly than the Kolmogorov–Smirnov test, which suffers low sensitivity to tail deviations. Third, we provide a formula for near-instant one-sample computation. Fourth, we improve power with stepdown and pre-test procedures. Finally, we extend our results to conditional distributions and regression discontinuity designs. Simulations, empirical examples, and code are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Portfolio optimization based on stochastic dominance and empirical likelihood
+AU  - Post, Thierry
+AU  - Karabatı, Selçuk
+AU  - Arvanitis, Stelios
+JO  - Journal of Econometrics
+VL  - 206
+IS  - 1
+SP  - 167
+EP  - 186
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300824
+KW  - Stochastic dominance
+KW  - Empirical likelihood
+KW  - Portfolio optimization
+KW  - Momentum strategies
+AB  - This study develops a portfolio optimization method based on the Stochastic Dominance (SD) decision criterion and the Empirical Likelihood (EL) estimation method. SD and EL share a distribution-free assumption framework which allows for dynamic and non-Gaussian multivariate return distributions. The SD/EL method can be implemented using a two-stage procedure which first elicits the implied probabilities using Convex Optimization and subsequently constructs the optimal portfolio using Linear Programming. The solution asymptotically dominates the benchmark and optimizes the goal function in probability, for a class of weakly dependent processes. A Monte Carlo simulation experiment illustrates the improvement in estimation precision using a set of conservative moment conditions about common factors in small samples. In an application to equity industry momentum strategies, SD/EL yields important out-of-sample performance improvements relative to heuristic diversification, Mean–Variance optimization, and a simple ‘plug-in’ approach.
+ER  - 

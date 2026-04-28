@@ -1,0 +1,223 @@
+TY  - JOUR
+T1  - New goodness-of-fit diagnostics for conditional discrete response models
+AU  - Kheifets, Igor
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 135
+EP  - 149
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300805
+KW  - Specification tests
+KW  - Count data
+KW  - Dynamic discrete choice models
+KW  - Conditional probability integral transform
+AB  - This paper proposes new specification tests for conditional models with discrete responses, which are key to apply efficient maximum likelihood methods, to obtain consistent estimates of partial effects and to get appropriate predictions of the probability of future events. In particular, we test the static and dynamic ordered choice model specifications and can cover infinite support distributions for e.g. count data. The traditional approach for specification testing of discrete response models is based on probability integral transforms of a jittered discrete data which leads to continuous uniform i.i.d. series under the true conditional distribution. Then, standard specification testing techniques for continuous variables could be applied to the transformed series, but the extra randomness from jitters affects the power properties of these methods. We investigate in this paper an alternative transformation based only on original discrete data that avoids any randomization. We analyze the asymptotic properties of goodness-of-fit tests based on this new transformation and explore the properties in finite samples of a bootstrap algorithm to approximate the critical values of test statistics which are model and parameter dependent. We show analytically and in simulations that our approach dominates the methods based on randomization in terms of power. We apply the new tests to models of the monetary policy conducted by the Federal Reserve.
+ER  - 
+
+TY  - JOUR
+T1  - Tests of additional conditional moment restrictions
+AU  - Parente, Paulo M.D.C.
+AU  - Smith, Richard J.
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 1
+EP  - 16
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300349
+KW  - GMM
+KW  - Generalised empirical likelihood
+KW  - Series approximations
+KW  - Restricted tests
+KW  - Unrestricted tests
+KW  - Local power
+AB  - The primary focus of this article is the provision of tests for the validity of a set of conditional moment constraints additional to those defining the maintained hypothesis that are relevant for independent cross-sectional data contexts. The point of departure and principal contribution of the paper is the explicit and full incorporation of the conditional moment information defining the maintained hypothesis in the design of the test statistics. Thus, the approach mirrors that of the classical parametric likelihood setting by defining restricted tests in contradistinction to unrestricted tests that partially or completely fail to incorporate the maintained information in their formulation. The framework is quite general allowing the parameters defining the additional and maintained conditional moment restrictions to differ and permitting the conditioning variates to differ likewise. GMM and generalised empirical likelihood test statistics are suggested. The asymptotic properties of the statistics are described under both null hypothesis and a suitable sequence of local alternatives. An extensive set of simulation experiments explores the practical efficacy of the various test statistics in terms of empirical size and size-adjusted power confirming the superiority of restricted over unrestricted tests. A number of restricted tests possess both sufficiently satisfactory empirical size and power characteristics to allow their recommendation for econometric practice.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive estimation of continuous-time regression models using high-frequency data
+AU  - Li, Jia
+AU  - Todorov, Viktor
+AU  - Tauchen, George
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 36
+EP  - 47
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300635
+KW  - Adaptive estimation
+KW  - Beta
+KW  - Stochastic volatility
+KW  - Spot variance
+KW  - Semiparametric efficiency
+KW  - High-frequency data
+AB  - We derive the asymptotic efficiency bound for regular estimates of the slope coefficient in a linear continuous-time regression model for the continuous martingale parts of two Itô semimartingales observed on a fixed time interval with asymptotically shrinking mesh of the observation grid. We further construct an estimator from high-frequency data that achieves this efficiency bound and, indeed, is adaptive to the presence of infinite-dimensional nuisance components. The estimator is formed by taking optimal weighted average of local nonparametric volatility estimates that are constructed over blocks of high-frequency observations. The asymptotic efficiency bound is derived under a Markov assumption for the bivariate process while the high-frequency estimator and its asymptotic properties are derived in a general Itô semimartingale setting. To study the asymptotic behavior of the proposed estimator, we introduce a general spatial localization procedure which extends known results on the estimation of integrated volatility functionals to more general classes of functions of volatility. Empirically relevant numerical examples illustrate that the proposed efficient estimator provides nontrivial improvement over alternatives in the extant literature.
+ER  - 
+
+TY  - JOUR
+T1  - Bonferroni-based size-correction for nonstandard testing problems
+AU  - McCloskey, Adam
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 17
+EP  - 35
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300556
+KW  - Hypothesis testing
+KW  - Uniform inference
+KW  - Asymptotic size
+KW  - Bonferroni bounds
+KW  - Power
+KW  - Size-correction
+KW  - Model selection
+KW  - Pretesting
+KW  - Local asymptotics
+AB  - We develop a set of powerful and flexible size-correction procedures for general nonstandard testing environments in which the asymptotic distribution of a test statistic is discontinuous in a nuisance parameter under the null hypothesis. Examples of this form of testing problem are pervasive in econometrics and complicate inference by making the size difficult to control. The test constructions introduced here simultaneously control the asymptotic size of the test uniformly over the nuisance parameter space while leading to tests with desirable power properties. They have the flexibility to allow the user to direct the power of the resultant test toward alternatives of particular interest. We introduce three types of size-corrected critical values that make use of reasoning derived from Bonferroni bounds. The new methods provide complementary alternatives to existing size-correction methods, entailing substantially higher power for many testing problems. The critical value constructions are developed for an expanded class of testing problems, allowing application in problems to which previously available size-corrections only yield tests with negligible power. We detail the construction and performance of the new tests in examples of testing after conservative and consistent model selection in the linear regression model.
+ER  - 
+
+TY  - JOUR
+T1  - Specification testing for nonlinear multivariate cointegrating regressions
+AU  - Dong, Chaohua
+AU  - Gao, Jiti
+AU  - Tjøstheim, Dag
+AU  - Yin, Jiying
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 104
+EP  - 117
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300787
+KW  - Cointegration
+KW  - Endogeneity
+KW  - Nonparametric kernel estimation
+KW  - Parametric model specification
+KW  - Time series
+AB  - This paper considers a general model specification test for nonlinear multivariate cointegrating regressions where the regressor consists of a univariate integrated time series and a vector of stationary time series. The regressors and the errors are generated from the same innovations, so that the model accommodates endogeneity. A new and simple test is proposed, and the resulting asymptotic theory is established. The test statistic is constructed based on a natural distance function between a nonparametric estimate and a smoothed parametric counterpart. The asymptotic distribution of the test statistic under the parametric specification is proportional to that of a local-time random variable with a known distribution. In addition, the finite sample performance of the proposed test is evaluated using both simulated and real data examples.
+ER  - 
+
+TY  - JOUR
+T1  - Noncausal vector autoregressive process: Representation, identification and semi-parametric estimation
+AU  - Gourieroux, Christian
+AU  - Jasiak, Joann
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 118
+EP  - 134
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300799
+KW  - Multivariate noncausal process
+KW  - Identification
+KW  - Representation
+KW  - Semi-parametric estimation
+KW  - Generalized covariance estimator
+KW  - Speculative bubble, Alternative investment
+KW  - Alternative investment
+AB  - This paper introduces a representation theorem for a mixed VAR(p) process by distinguishing its causal and noncausal components. That representation is used to discuss the advantages and limitations of second-order identification in a mixed VAR. We show that it is possible to find the numbers of causal or noncausal components of the process from its multivariate autocovariance function, while nonlinear autocovariances are needed to distinguish between them. The paper introduces also a consistent semi-parametric estimator for mixed causal/noncausal multivariate non-Gaussian processes, called the Generalized Covariance (GCov) estimator, which relies on combined standard and nonlinear autocovariances of the process. The GCov does not require any distributional assumptions on the errors. The approach is illustrated by a simulation study and applied to commodity prices.
+ER  - 
+
+TY  - JOUR
+T1  - Inferences in panel data with interactive effects using large covariance matrices
+AU  - Bai, Jushan
+AU  - Liao, Yuan
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 59
+EP  - 78
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300763
+KW  - High dimensionality
+KW  - Unknown factors
+KW  - Conditional sparsity
+KW  - Thresholding
+KW  - Cross-sectional correlation
+KW  - Heteroskedasticity
+KW  - Optimal weight matrix
+AB  - We consider efficient estimation of panel data models with interactive effects, which relies on a high-dimensional inverse covariance matrix estimator. By using a consistent estimator of the error covariance matrix, we can take into account both cross-sectional correlations and heteroskedasticity. In the presence of cross-sectional correlations, the proposed estimator eliminates the cross-sectional correlation bias, and is more efficient than the existing methods. The rate of convergence is also improved. In addition, we find that when the statistical inference involves estimating a high-dimensional inverse covariance matrix, the minimax convergence rate on large covariance estimations is not sufficient for inferences. To address this issue, a new “doubly weighted convergence” result is developed. The proposed method is applied to the US divorce rate data. We find that our more efficient estimator identifies the significant effects of divorce-law reforms on the divorce rate, and provides tighter confidence intervals than existing methods. This provides a confirmation for the empirical findings of Wolfers (2006) under more general unobserved heterogeneity.
+ER  - 
+
+TY  - JOUR
+T1  - Model-free approaches to discern non-stationary microstructure noise and time-varying liquidity in high-frequency data
+AU  - Chen, Richard Y.
+AU  - Mykland, Per A.
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 79
+EP  - 103
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300775
+KW  - Microstructure
+KW  - High-frequency tests
+KW  - Statistical powers
+KW  - Stable central limit theorems
+KW  - Non-stationarity
+KW  - Volatility
+KW  - Liquidity
+AB  - In this paper, we provide non-parametric statistical tools to test stationarity of microstructure noise in general hidden Itô semimartingales, and discuss how to measure liquidity risk using high-frequency financial data. In particular, we investigate the impact of non-stationary microstructure noise on some volatility estimators, and design three complementary tests by exploiting edge effects, information aggregation of local estimates and high-frequency asymptotic approximation. The asymptotic distributions of these tests are available under both stationary and non-stationary assumptions, thereby enable us to conservatively control type-I errors and meanwhile ensure the proposed tests enjoy the asymptotically optimal statistical power. Besides, it also enables us to empirically measure aggregate liquidity risks by these test statistics. As byproducts, functional dependence and endogenous microstructure noise are briefly discussed. Simulation with a realistic configuration corroborates our theoretical results, and our empirical study indicates the prevalence of non-stationary microstructure noise in New York Stock Exchange.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - IFC
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30121-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301215
+ER  - 
+
+TY  - JOUR
+T1  - Injectivity of a class of integral operators with compactly supported kernels
+AU  - Hu, Yingyao
+AU  - Schennach, Susanne M.
+AU  - Shiu, Ji-Liang
+JO  - Journal of Econometrics
+VL  - 200
+IS  - 1
+SP  - 48
+EP  - 58
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300751
+KW  - Nonparametric identification
+KW  - Instrumental variable
+KW  - Completeness
+KW  - Endogeneity
+AB  - Injectivity of integral operators is related to completeness conditions of their corresponding kernel functions. Completeness provides a useful way of obtaining nonparametric identification in various models including nonparametric regression models with instrumental variables, nonclassical measurement error models, and auction models, etc. However, the condition is quite abstract for empirical work and lacks a proper economic interpretation. We rely on known results regarding the Volterra equation to provide sufficient conditions for completeness conditions for densities with compact support. Our conditions include various smoothness assumptions and monotonously moving support assumptions on the kernel function of the operator. We apply our results to establish nonparametric identification in nonparametric IV regression models, nonclassical measurement error models, and auction models with an accessible interpretation and without specific functional form restrictions.
+ER  - 

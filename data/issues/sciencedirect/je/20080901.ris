@@ -1,0 +1,334 @@
+TY  - JOUR
+T1  - Confidence sets for partially identified parameters that satisfy a finite number of moment inequalities
+AU  - Rosen, Adam M.
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 107
+EP  - 117
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000791
+KW  - Partial identification
+KW  - Inference
+KW  - Moment inequalities
+AB  - This paper proposes a computationally simple way to construct confidence sets for a parameter of interest in models comprised of moment inequalities. Building on results from the literature on multivariate one-sided tests, I show how to test the hypothesis that any particular parameter value is logically consistent with the maintained moment inequalities. The associated test statistic has an asymptotic chi-bar-square distribution, and can be inverted to construct an asymptotic confidence set for the parameter of interest, even if that parameter is only partially identified. Critical values for the test are easily computed, and a Monte Carlo study demonstrates implementation and finite sample performance.
+ER  - 
+
+TY  - JOUR
+T1  - A joint serial correlation test for linear panel data models
+AU  - Yamagata, Takashi
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 135
+EP  - 145
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800081X
+KW  - Method of moments
+KW  - Dynamic panel data
+KW  - Serial correlation test
+KW  - Slope heterogeneity
+KW  - Cross section dependence
+KW  -  test
+KW  - Overidentifying restrictions test
+AB  - This paper proposes a joint error serial correlation test to be applied to linear panel data models after generalised method of moments estimation. This new test is an alternative inferential tool to both the m2 test of [Arellano, M., Bond, S., 1991. Some tests of specification for panel data: Monte Carlo evidence and an application to employment equations. Review of Economic Studies 58, 277–297] and the overidentifying restrictions test. The proposed test, called the m(2,p)2 test, involves an examination of the joint significance of estimates of second to pth-order (first differenced) error serial correlations. The small sample properties of the m(2,p)2 test are investigated by means of Monte Carlo experiments. The evidence shows that the proposed test mostly outperforms the conventional m2 test and has high power when the overidentifying restrictions test does not, under a variety of alternatives including slope heterogeneity and cross section dependence.
+ER  - 
+
+TY  - JOUR
+T1  - Quasi-maximum likelihood estimators for spatial dynamic panel data with fixed effects when both n and T are large
+AU  - Yu, Jihai
+AU  - de Jong, Robert
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 118
+EP  - 134
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000808
+KW  - Spatial autoregression
+KW  - Dynamic panels
+KW  - Fixed effects
+KW  - Maximum likelihood estimation
+KW  - Quasi-maximum likelihood estimation
+KW  - Bias correction
+AB  - This paper investigates the asymptotic properties of quasi-maximum likelihood estimators for spatial dynamic panel data with fixed effects, when both the number of individuals n and the number of time periods T are large. We consider the case where T is asymptotically large relative to n, the case where T is asymptotically proportional to n, and the case where n is asymptotically large relative to T. In the case where T is asymptotically large relative to n, the estimators are nT consistent and asymptotically normal, with the limit distribution centered around 0. When n is asymptotically proportional to T, the estimators are nT consistent and asymptotically normal, but the limit distribution is not centered around 0; and when n is large relative to T, the estimators are T consistent, and have a degenerate limit distribution. The estimators of the fixed effects are T consistent and asymptotically normal. We also propose a bias correction for our estimators. We show that when T grows faster than n1/3, the correction will asymptotically eliminate the bias and yield a centered confidence interval.
+ER  - 
+
+TY  - JOUR
+T1  - Local likelihood estimation of truncated regression and its partial derivatives: Theory and application
+AU  - Park, Byeong U.
+AU  - Simar, Léopold
+AU  - Zelenyuk, Valentin
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 185
+EP  - 198
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800095X
+KW  - Nonparametric truncated regression
+KW  - Local likelihood
+AB  - In this paper we propose a very flexible estimator in the context of truncated regression that does not require parametric assumptions. To do this, we adapt the theory of local maximum likelihood estimation. We provide the asymptotic results and illustrate the performance of our estimator on simulated and real data sets. Our estimator performs as well as the fully parametric estimator when the assumptions for the latter hold, but as expected, much better when they do not (provided that the curse of dimensionality problem is not the issue). Overall, our estimator exhibits a fair degree of robustness to various deviations from linearity in the regression equation and also to deviations from the specification of the error term. So the approach should prove to be very useful in practical applications, where the parametric form of the regression or of the distribution is rarely known.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for structural change in regression quantiles
+AU  - Qu, Zhongjun
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 170
+EP  - 184
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000948
+KW  - Change-point
+KW  - Multiple structural change
+KW  - Quantile regression
+KW  - Conditional distribution
+KW  - Hypothesis testing
+AB  - Most studies in the structural change literature focus solely on the conditional mean, while under various circumstances, structural change in the conditional distribution or in conditional quantiles is of key importance. This paper proposes several tests for structural change in regression quantiles. Two types of statistics are considered, namely, a fluctuation type statistic based on the subgradient and a Wald type statistic, based on comparing parameter estimates obtained from different subsamples. The former requires estimating the model under the null hypothesis, and the latter involves estimation under the alternative hypothesis. The tests proposed can be used to test for structural change occurring in a pre-specified quantile, or across quantiles, which can be viewed as testing for change in the conditional distribution with a linear specification of the conditional quantile function. Both single and multiple structural changes are considered. We derive the limiting distributions under the null hypothesis, and show they are nuisance parameter free and can be easily simulated. A simulation study is conducted to assess the size and power in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Partial identification and testable restrictions in multi-unit auctions
+AU  - McAdams, David
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 74
+EP  - 85
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000766
+AB  - Bidders’ values in discriminatory and uniform-price auctions are not necessarily point-identified under the assumptions of equilibrium bidding and independent private values, but meaningful policy analysis can proceed from bounds on bidder values. This paper provides upper and lower bounds on the set of values that can rationalize a given distribution of bids, under the additional (and standard) assumption of non-increasing marginal values. Novel testable implications of the best response hypothesis are also provided, again under the assumption of non-increasing marginal values.
+ER  - 
+
+TY  - JOUR
+T1  - Pseudo-likelihood estimation and bootstrap inference for structural discrete Markov decision models
+AU  - Kasahara, Hiroyuki
+AU  - Shimotsu, Katsumi
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 92
+EP  - 106
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800078X
+KW  - Edgeworth expansion
+KW  - Finite mixture
+KW  - -step bootstrap
+KW  - Maximum pseudo-likelihood estimators
+KW  - Nested fixed point algorithm
+KW  - Newton–Raphson method
+KW  - Policy iteration
+AB  - This paper analyzes the higher-order properties of the estimators based on the nested pseudo-likelihood (NPL) algorithm and the practical implementation of such estimators for parametric discrete Markov decision models. We derive the rate at which the NPL algorithm converges to the MLE and provide a theoretical explanation for the simulation results in Aguirregabiria and Mira [Aguirregabiria, V., Mira, P., 2002. Swapping the nested fixed point algorithm: A class of estimators for discrete Markov decision models. Econometrica 70, 1519–1543], in which iterating the NPL algorithm improves the accuracy of the estimator. We then propose a new NPL algorithm that can achieve quadratic convergence without fully solving the fixed point problem in every iteration and apply our estimation procedure to a finite mixture model. We also develop one-step NPL bootstrap procedures for discrete Markov decision models. The Monte Carlo simulation evidence based on a machine replacement model of Rust [Rust, J., 1987. Optimal replacement of GMC bus engines: An empirical model of Harold Zurcher. Econometrica 55, 999–1033] shows that the proposed one-step bootstrap test statistics and confidence intervals improve upon the first order asymptotics even with a relatively small number of iterations.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic and bootstrap tests for linearity in a TAR-GARCH(1,1) model with a unit root
+AU  - Gospodinov, Nikolay
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 146
+EP  - 161
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000821
+KW  - Threshold autoregressive model
+KW  - Unit root process
+KW  - GARCH
+KW  - Two-parameter Brownian motion
+KW  - Bootstrap
+AB  - This paper derives the limiting distribution of the Lagrange Multiplier (LM) test for threshold nonlinearity in a TAR model with GARCH errors when one of the regimes contains a unit root. It is shown that the asymptotic distribution is nonstandard and depends on nuisance parameters that capture the degree of conditional heteroskedasticity and non-Gaussian nature of the process. We propose a bootstrap procedure for approximating the exact finite-sample distribution of the test for linearity and establish its asymptotic validity.
+ER  - 
+
+TY  - JOUR
+T1  - Exact computation of max weighted score estimators
+AU  - Florios, Kostas
+AU  - Skouras, Spyros
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 86
+EP  - 91
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.05.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000778
+KW  - Maximum score
+KW  - Mixed integer programming
+KW  - Estimator computation
+KW  - Work-trip mode choice
+AB  - We show that exact computation of a family of ‘max weighted score’ estimators, including Manski’s max score estimator, can be achieved efficiently by reformulating them as mixed integer programs (MIP) with disjunctive constraints. The advantage of our MIP formulation is that estimates are exact and can be computed using widely available solvers in reasonable time. In a classic work-trip mode choice application, our method delivers exact estimates that lead to a different economic interpretation of the data than previous heuristic estimates. In a small Monte Carlo study we find that our approach is computationally efficient for usual estimation problem sizes.
+ER  - 
+
+TY  - JOUR
+T1  - The wild bootstrap, tamed at last
+AU  - Davidson, Russell
+AU  - Flachaire, Emmanuel
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 162
+EP  - 169
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000833
+KW  - Wild bootstrap
+KW  - Heteroskedasticity
+KW  - Bootstrap inference
+AB  - The wild bootstrap is studied in the context of regression models with heteroskedastic disturbances. We show that, in one very specific case, perfect bootstrap inference is possible, and a substantial reduction in the error in the rejection probability of a bootstrap test is available much more generally. However, the version of the wild bootstrap with this desirable property is without the skewness correction afforded by the currently most popular version of the wild bootstrap. Simulation experiments show that this does not prevent the preferred version from having the smallest error in rejection probability in small and medium-sized samples.
+ER  - 
+
+TY  - JOUR
+T1  - Explaining individual response using aggregated data
+AU  - van Dijk, Bram
+AU  - Paap, Richard
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 1
+EP  - 9
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000614
+KW  - Aggregated explanatory variables
+KW  - Mixture regression
+KW  - Bayesian analysis
+KW  - Markov Chain Monte Carlo
+AB  - Empirical analysis of individual response behavior is sometimes limited due to the lack of explanatory variables at the individual level. In this paper we put forward a new approach to estimate the effects of covariates on individual response, where the covariates are unknown at the individual level but observed at some aggregated level. This situation may, for example, occur when the response variable is available at the household level but covariates only at the zip-code level. We describe the missing individual covariates by a latent variable model which matches the sample information at the aggregate level. Parameter estimates can be obtained using maximum likelihood or a Bayesian analysis. We illustrate the approach estimating the effects of household characteristics on donating behavior to a Dutch charity. Donating behavior is observed at the household level, while the covariates are only observed at the zip-code level.
+ER  - 
+
+TY  - JOUR
+T1  - Indirect estimation of large conditionally heteroskedastic factor models, with an application to the Dow 30 stocks
+AU  - Sentana, Enrique
+AU  - Calzolari, Giorgio
+AU  - Fiorentini, Gabriele
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 10
+EP  - 25
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000626
+KW  - ARCH
+KW  - Idiosyncratic risk
+KW  - Inequality constraints
+KW  - Kalman filter
+KW  - Sequential estimators
+KW  - Simulation estimators
+KW  - Volatility
+AB  - We derive indirect estimators of conditionally heteroskedastic factor models in which the volatilities of common and idiosyncratic factors depend on their past unobserved values by calibrating the score of a Kalman-filter approximation with inequality constraints on the auxiliary model parameters. We also propose alternative indirect estimators for large-scale models, and explain how to apply our procedures to many other dynamic latent variable models. We analyse the small sample behaviour of our indirect estimators and several likelihood-based procedures through an extensive Monte Carlo experiment with empirically realistic designs. Finally, we apply our procedures to weekly returns on the Dow 30 stocks.
+ER  - 
+
+TY  - JOUR
+T1  - Forecasting the yield curve in a data-rich environment: A no-arbitrage factor-augmented VAR approach
+AU  - Moench, Emanuel
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 26
+EP  - 43
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000730
+KW  - Yield curve
+KW  - Factor-augmented VAR
+KW  - Affine term structure models
+KW  - Dynamic factor models
+KW  - Forecasting
+AB  - This paper suggests a term structure model which parsimoniously exploits a broad macroeconomic information set. The model uses the short rate and the common components of a large number of macroeconomic variables as factors. Precisely, the dynamics of the short rate are modeled with a Factor-Augmented Vector Autoregression and the term structure is derived using parameter restrictions implied by no-arbitrage. The model has economic appeal and provides better out-of-sample yield forecasts at intermediate and long horizons than a number of previously suggested approaches. The forecast improvement is highly significant and particularly pronounced for short and medium-term maturities.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - IFC
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(08)00156-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001565
+ER  - 
+
+TY  - JOUR
+T1  - A Gaussian approximation scheme for computation of option prices in stochastic volatility models
+AU  - Cheng, Ai-ru (Meg)
+AU  - Gallant, A. Ronald
+AU  - Ji, Chuanshu
+AU  - Lee, Beom S.
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 44
+EP  - 58
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000742
+KW  - Central limit theorem
+KW  - Option pricing
+KW  - Stochastic volatility
+KW  - Foreign exchange
+KW  - Markov chain Monte Carlo
+AB  - We consider European options on a price process that follows the log-linear stochastic volatility model. Two stochastic integrals in the option pricing formula are costly to compute. We derive a central limit theorem to approximate them. At parameter settings appropriate to foreign exchange data our formulas improve computation speed by a factor of 1000 over brute force Monte Carlo making MCMC statistical methods practicable. We provide estimates of model parameters from daily data on the Swiss Franc to Euro and Japanese Yen to Euro over the period 1999–2002.
+ER  - 
+
+TY  - JOUR
+T1  - The limit distribution of the estimates in cointegrated regression models with multiple structural changes
+AU  - Kejriwal, Mohitosh
+AU  - Perron, Pierre
+JO  - Journal of Econometrics
+VL  - 146
+IS  - 1
+SP  - 59
+EP  - 73
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608000754
+KW  - Change-point
+KW  - Break dates
+KW  - Unit roots
+KW  - Cointegration
+KW  - Confidence intervals
+AB  - We study estimation and inference in cointegrated regression models with multiple structural changes allowing both stationary and integrated regressors. Both pure and partial structural change models are analyzed. We derive the consistency, rate of convergence and the limit distribution of the estimated break fractions. Our technical conditions are considerably less restrictive than those in Bai et al. [Bai, J., Lumsdaine, R.L., Stock, J.H., 1998. Testing for and dating breaks in multivariate time series. Review of Economic Studies 65, 395–432] who considered the single break case in a multi-equations system, and permit a wide class of practically relevant models. Our analysis is, however, restricted to a single equation framework. We show that if the coefficients of the integrated regressors are allowed to change, the estimated break fractions are asymptotically dependent so that confidence intervals need to be constructed jointly. If, however, only the intercept and/or the coefficients of the stationary regressors are allowed to change, the estimates of the break dates are asymptotically independent as in the stationary case analyzed by Bai and Perron [Bai, J., Perron, P., 1998. Estimating and testing linear models with multiple structural changes. Econometrica 66, 47–78]. We also show that our results remain valid, under very weak conditions, when the potential endogeneity of the non-stationary regressors is accounted for via an increasing sequence of leads and lags of their first-differences as additional regressors. Simulation evidence is presented to assess the adequacy of the asymptotic approximations in finite samples.
+ER  - 

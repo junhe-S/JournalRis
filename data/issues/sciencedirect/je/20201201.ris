@@ -1,0 +1,332 @@
+TY  - JOUR
+T1  - Heterogeneous panel data models with cross-sectional dependence
+AU  - Gao, Jiti
+AU  - Xia, Kai
+AU  - Zhu, Huanjun
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 329
+EP  - 353
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301020
+KW  - Health care expenditure
+KW  - Nonlinear trending function
+KW  - Nonstationary time series
+AB  - This paper considers a semiparametric panel data model with heterogeneous coefficients and individual-specific trending functions, where the random errors are assumed to be serially correlated and cross-sectionally dependent. We propose mean group estimators for the coefficients and trending functions involved in the model. It can be shown that the proposed estimators can achieve an asymptotic consistency with rates of root−NT and root−NTh, respectively as (N,T)→(∞,∞), where N is allowed to increase faster than T. Furthermore, a statistic for testing homogeneous coefficients is constructed based on the difference between the mean group estimator and a pooled estimator. Its asymptotic distributions are established under both the null and a sequence of local alternatives, even if the difference between these estimators vanishes considerably fast (can achieve root-NT2 rate at most under the null) and no consistent estimator for the covariance matrix is required. The finite sample performance of the proposed estimators together with the size and local power properties of the test are demonstrated by simulated data examples, and an empirical application with the OECD health care expenditure dataset is also provided.
+ER  - 
+
+TY  - JOUR
+T1  - Level shift estimation in the presence of non-stationary volatility with an application to the unit root testing problem
+AU  - Harris, David
+AU  - Kew, Hsein
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 354
+EP  - 388
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301032
+KW  - Level break fraction
+KW  - Non-stationary volatility
+KW  - Adaptive estimation
+KW  - Feasible weighted estimator
+KW  - Information criteria
+KW  - Unit root tests and trend breaks
+AB  - This paper focuses on the estimation of the location of level breaks in time series whose shocks display non-stationary volatility (permanent changes in unconditional volatility). We propose a new feasible weighted least squares (WLS) estimator, based on an adaptive estimate of the volatility path of the shocks. We show that this estimator belongs to a generic class of weighted residual sum of squares which also contains the ordinary least squares (OLS) and WLS estimators, the latter based on the true volatility process. For fixed magnitude breaks we show that the consistency rate of the generic estimator is unaffected by non-stationary volatility. We also provide local limiting distribution theory for cases where the break magnitude is either local-to-zero at some polynomial rate in the sample size or is exactly zero. The former includes the Pitman drift rate which is shown via Monte Carlo experiments to predict well the key features of the finite sample behaviour of both the OLS and our feasible WLS estimators. The simulations highlight the importance of the break location, break magnitude, and the form of non-stationary volatility for the finite sample performance of these estimators, and show that our proposed feasible WLS estimator can deliver significant improvements over the OLS estimator under heteroskedasticity. We discuss how these results can be applied, by using level break fraction estimators on the first differences of the data, when testing for a unit root in the presence of trend breaks and/or non-stationary volatility. Methods to select between the break and no break cases, using standard information criteria and feasible weighted information criteria based on our adaptive volatility estimator, are also discussed. Simulation evidence suggests that unit root tests based on these weighted quantities can display significantly improved finite sample behaviour under heteroskedasticity relative to their unweighted counterparts. An empirical illustration to U.S. and U.K. real GDP is also considered.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - ii
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30359-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303596
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of infinite order regression and its application to the risk-return tradeoff
+AU  - Hong, Seok Young
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 389
+EP  - 424
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301044
+AB  - This paper studies nonparametric estimation of the infinite order regression E(Ytk|Ft−1), k∈Z with stationary and weakly dependent data. We propose a Nadaraya–Watson type estimator that operates with an infinite number of conditioning variables. We propose a bandwidth sequence that shrinks the effects of long lags, so the influence of all conditioning information is modelled in a natural and flexible way, and the issues of omitted information bias and specification error are effectively handled. We establish the asymptotic properties of the estimator under a wide range of static and dynamic regressions frameworks, thereby allowing various kinds of conditioning variables to be used. We establish pointwise/uniform consistency and CLTs. We show that the convergence rates are at best logarithmic, and depend on the smoothness of the regression, the distribution of the marginal regressors and their dependence structure in a non-trivial way via the Lambert W function. We apply our methodology to examine the intertemporal risk-return relation for the aggregate stock market, and some new empirical evidence is reported. For the S&P 500 daily data from 1950 to 2017 using our estimator we report an overall positive risk-return relation. We also find evidence of strong time variation and counter-cyclical behaviour in risk aversion. These conclusions are possibly attributable to the allowance of further flexibility and the inclusion of otherwise neglected information in our method.
+ER  - 
+
+TY  - JOUR
+T1  - Adjusted QMLE for the spatial autoregressive parameter
+AU  - Martellosio, Federico
+AU  - Hillier, Grant
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 488
+EP  - 506
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301081
+KW  - Adjusted maximum likelihood estimation
+KW  - Fixed effects
+KW  - Group interaction
+KW  - Networks
+KW  - Spatial autoregression
+AB  - One simple, and often very effective, way to attenuate the impact of nuisance parameters on maximum likelihood estimation of a parameter of interest is to recenter the profile score for that parameter. We apply this general principle to the quasi-maximum likelihood estimator (QMLE) of the autoregressive parameter λ in a spatial autoregression. The resulting estimator for λ has better finite sample properties compared to the QMLE for λ, especially in the presence of a large number of covariates. It can also solve the incidental parameter problem that arises, for example, in social interaction models with network fixed effects. However, spatial autoregressions present specific challenges for this type of adjustment, because recentering the profile score may cause the adjusted estimate to be outside the usual parameter space for λ. Conditions for this to happen are given, and implications are discussed. For inference, we propose confidence intervals based on a Lugannani–Rice approximation to the distribution of the adjusted QMLE of λ. Based on our simulations, the coverage properties of these intervals are excellent even in models with a large number of covariates.
+ER  - 
+
+TY  - JOUR
+T1  - Econometric analysis of production networks with dominant units
+AU  - Pesaran, M. Hashem
+AU  - Yang, Cynthia Fan
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 507
+EP  - 541
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301093
+KW  - Aggregate fluctuations
+KW  - Strongly and weakly dominant units
+KW  - Spatial models
+KW  - Outdegrees
+KW  - Degree of pervasiveness
+KW  - Extremum estimator
+KW  - Power law
+KW  - Input–output tables
+KW  - US economy
+AB  - This paper introduces the notions of strongly and weakly dominant units for networks, and shows that pervasiveness of shocks to a network is measured by the degree of dominance of its most pervasive unit; shown to be equivalent to the inverse of the shape parameter of the power law fitted to the network outdegrees. New cross-section and panel extremum estimators of the degree of dominance in networks are proposed, and their asymptotic properties investigated. The small sample properties of the proposed estimators are examined by Monte Carlo experiments, and their use is illustrated by an empirical application to US input–output tables.
+ER  - 
+
+TY  - JOUR
+T1  - Special Issue of the Journal of Econometrics on “Econometric Estimation and Testing: Essays in Honour of Maxwell King”
+AU  - Gao, Jiti
+AU  - Anderson, Heather
+AU  - Li, Tong
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 201
+EP  - 203
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300968
+ER  - 
+
+TY  - JOUR
+T1  - The term structure of equity and variance risk premia
+AU  - Aït-Sahalia, Yacine
+AU  - Karaman, Mustafa
+AU  - Mancini, Loriano
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 204
+EP  - 230
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030097X
+KW  - Variance swap
+KW  - Stochastic volatility
+KW  - Likelihood approximation
+KW  - Term structure
+KW  - Equity risk premium
+KW  - Variance risk premium
+AB  - We study the term structure of variance swaps, equity and variance risk premia. A model-free analysis reveals a significant price jump component in variance swaps. A model-based analysis shows that investors’ willingness to ensure against volatility risk increases after a market drop. This effect is stronger for short maturities, but more persistent for long maturities. During the financial crisis investors demanded large risk premia to hold equities, but the risk premia largely depended on and strongly decreased with the holding horizon. The term structure of equity and variance risk premia responds differently to various economic indicators.
+ER  - 
+
+TY  - JOUR
+T1  - Score tests in GMM: Why use implied probabilities?
+AU  - Chaudhuri, Saraswata
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 260
+EP  - 280
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300993
+KW  - GEL
+KW  - GMM
+KW  - Implied probabilities
+KW  - Score test
+AB  - While simple to implement and thus attractive in practice, the GMM score test of Newey and West (1987) often displays upward size distortion under common scenarios involving skewed moment vectors or models with weak identification. Inference based on the Generalized Empirical Likelihood (GEL) is seen as a general solution to this problem. Kleibergen (2005) and, more generally, Guggenberger and Smith (2005) devised an elegant theory for the GEL score tests. However, strictly speaking, the GEL score tests do not nest the Newey–West score test. Our paper provides a unified framework for score tests in GMM that nests all of the above as special cases and helps us to understand the precise mechanism by which the standard first order asymptotic theory on size and power well approximates the finite sample behavior of some score tests (namely, a subset of the GEL score tests) but not others. Special attention is paid to models with weak identification. We also argue that the apparent computational burden of GEL can be overcome in practice by recognizing the fundamental common role played by the GEL implied probabilities under all special cases of our framework. In particular, we show that all the GEL implied probabilities are asymptotically equivalent at a higher order – both under the null and under appropriate sequences of alternatives – and thus are exchangeable across computationally burdensome (e.g. Empirical Likelihood) and easy (e.g. Euclidean Empirical Likelihood) GEL score tests without affecting the first order asymptotics. Extensive simulation evidence is provided to corroborate our theoretical results. The simulation results also support a simple and yet important insight on the power of the tests: the use of implied probabilities to efficiently estimate the components of the score statistic, namely, the Jacobian and the asymptotic variance of the moment vector, can significantly improve the power of the score test in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Point optimal testing with roots that are functionally local to unity
+AU  - Bykhovskaya, Anna
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 231
+EP  - 259
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300981
+KW  - Functional local unit root
+KW  - Local to unity
+KW  - Uniform confidence interval
+KW  - Unit root model
+AB  - Limit theory for regressions involving local to unit roots (LURs) is now used extensively in time series econometric work, establishing power properties for unit root and cointegration tests, assisting the construction of uniform confidence intervals for autoregressive coefficients, and enabling the development of methods robust to departures from unit roots. The present paper shows how to generalize LUR asymptotics to cases where the localized departure from unity is a time varying function rather than a constant. Such a functional local unit root (FLUR) model has much greater generality and encompasses many cases of additional interest that appear in practical work, including structural break formulations that admit subperiods of unit root, local stationary and local explosive behavior within a given sample. Point optimal FLUR tests are constructed in the paper to accommodate such cases and demonstrate how the power envelope changes in situations of practical interest. Against FLUR alternatives, conventional constant point optimal tests can be asymptotically infinitely deficient in power, with poor finite sample power performance particularly when the departure from unity occurs early in the sample period. New analytic explanation for this phenomenon is provided. Simulation results are reported and some implications for empirical practice are examined.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic theory for time series with changing mean and variance
+AU  - Dalla, Violetta
+AU  - Giraitis, Liudas
+AU  - Robinson, Peter M.
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 281
+EP  - 313
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301007
+KW  - Semiparametric time series model
+KW  - Nonparametric heteroscedasticity
+KW  - Nonparametric moving mean
+KW  - Parametric autocorrelation
+AB  - The paper develops point estimation and asymptotic theory with respect to a semiparametric model for time series with moving mean and unconditional heteroscedasticity. These two features are modelled nonparametrically, whereas autocorrelations are described by a short memory stationary parametric time series model. We first study the usual least squares estimate of the coefficient of the first-order autoregressive model based on constant but unknown mean and variance. Allowing for both the latter to vary over time in a general way we establish its probability limit and a central limit theorem for a suitably normed and centred statistic, giving explicit bias and variance formulae. As expected mean variation is the main source of inconsistency and heteroscedasticity the main source of inefficiency, though we discuss circumstances in which the estimate is consistent for, and asymptotically normal about, the autoregressive coefficient, albeit inefficient. We then consider standard implicitly-defined Whittle estimates of a more general class of short memory parametric time series model, under otherwise more restrictive conditions. When the mean is correctly assumed to be constant, estimates that ignore the heteroscedasticity are again found to be asymptotically normal but inefficient. Allowing a slowly time-varying mean we resort to trimming out of low frequencies to achieve the same outcome. Returning to finite order autoregression, nonparametric estimates of the varying mean and variance are given asymptotic justification, and forecasting formulae developed. Finite sample properties are studied by a small Monte Carlo simulation, and an empirical example is also included.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for a trend with persistent errors
+AU  - Elliott, Graham
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 314
+EP  - 328
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301019
+KW  - Composite hypothesis
+KW  - Trend
+AB  - We develop new tests for the coefficient on a time trend in a regression of a variable on a constant and time trend where there is potentially strong serial correlation. This serial correlation can also include a unit root. We obtain tests under two different assumptions on the initial value for the stochastic component of the variable being examined, either this being zero asymptotically and also allowing the initial condition to be drawn from its unconditional distribution. We find that statistics perform better under the second of these assumptions, which is the more natural assumption to make.
+ER  - 
+
+TY  - JOUR
+T1  - Hypothesis testing based on a vector of statistics
+AU  - King, Maxwell L.
+AU  - Zhang, Xibin
+AU  - Akram, Muhammad
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 425
+EP  - 455
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301056
+KW  - Bootstrap
+KW  - Cross-market prediction
+KW  - Information matrix test
+KW  - Markov chain Monte Carlo
+KW  - Multivariate kernel density
+KW  - -value
+KW  - Smallest acceptance region tests
+AB  - This paper presents a new approach to hypothesis testing based on a vector of statistics. It involves simulating the statistics under the null hypothesis and then estimating the joint density of the statistics. This allows the p-value of the smallest acceptance region test to be estimated. We prove this p-value is a consistent estimate under some regularity conditions. The small-sample properties of the proposed procedure are investigated in the context of testing for autocorrelation, testing for normality, and testing for model misspecification through the information matrix. We find that our testing procedure has appropriate sizes and good powers.
+ER  - 
+
+TY  - JOUR
+T1  - High-frequency jump tests: Which test should we use?
+AU  - Maneesoonthorn, Worapree
+AU  - Martin, Gael M.
+AU  - Forbes, Catherine S.
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 478
+EP  - 487
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.012
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030107X
+KW  - Price jump tests
+KW  - Nonparametric jump measures
+KW  - Bivariate jump diffusion model
+KW  - Volatility jumps
+KW  - Microstructure noise
+KW  - Sampling frequency
+AB  - We conduct an extensive evaluation of price jump tests based on high-frequency financial data. After providing a concise review of multiple alternative tests, we document the size and power of all tests in a range of empirically relevant scenarios. Particular focus is given to the robustness of test performance to the presence of jumps in volatility and microstructure noise, and to the impact of sampling frequency. The paper concludes by providing guidelines for empirical researchers about which test to choose in any given setting.
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional predictive regression in the presence of cointegration
+AU  - Koo, Bonsoo
+AU  - Anderson, Heather M.
+AU  - Seo, Myung Hwan
+AU  - Yao, Wenying
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 2
+SP  - 456
+EP  - 477
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Annals Issue: Econometric Estimation and Testing: Essays in Honour of Maxwell King
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301068
+KW  - Cointegration
+KW  - High-dimensional predictive regression
+KW  - LASSO
+KW  - Return predictability
+AB  - We propose a Least Absolute Shrinkage and Selection Operator (LASSO) estimator of a predictive regression in which stock returns are conditioned on a large set of lagged covariates, some of which are highly persistent and potentially cointegrated. We establish the asymptotic properties of the proposed LASSO estimator and validate our theoretical findings using simulation studies. The application of this proposed LASSO approach to forecasting stock returns suggests that a cointegrating relationship among the persistent predictors leads to a significant improvement in the prediction of stock returns over various competing forecasting methods with respect to mean squared error.
+ER  - 

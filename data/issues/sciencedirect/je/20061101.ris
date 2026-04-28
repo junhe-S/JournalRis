@@ -1,0 +1,440 @@
+TY  - JOUR
+T1  - Time-series estimation of the effects of natural experiments
+AU  - White, Halbert
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 527
+EP  - 566
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001636
+AB  - This paper builds on the labor econometrics and classical treatment effects literatures to provide a framework supporting causal concepts and methods for estimating effects of natural experiments operating over time in an explicitly dynamic time-series context. We examine conditions for the construction of covariates instrumental in identifying effects of interest that lead to new tests for unconfoundedness, a key condition for the identification of causal effects that we link to the concept of Granger non-causality. Our new tests for unconfoundedness are useful in both cross-section and dynamic time-series settings.
+ER  - 
+
+TY  - JOUR
+T1  - A comparison of direct and iterated multistep AR methods for forecasting macroeconomic time series
+AU  - Marcellino, Massimiliano
+AU  - Stock, James H.
+AU  - Watson, Mark W.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 499
+EP  - 526
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.020
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760500165X
+KW  - Multistep forecasts
+KW  - Var forecasts
+KW  - Forecast comparisons
+AB  - “Iterated” multiperiod-ahead time series forecasts are made using a one-period ahead model, iterated forward for the desired number of periods, whereas “direct” forecasts are made using a horizon-specific estimated model, where the dependent variable is the multiperiod ahead value being forecasted. Which approach is better is an empirical matter: in theory, iterated forecasts are more efficient if the one-period ahead model is correctly specified, but direct forecasts are more robust to model misspecification. This paper compares empirical iterated and direct forecasts from linear univariate and bivariate models by applying simulated out-of-sample methods to 170 U.S. monthly macroeconomic time series spanning 1959–2002. The iterated forecasts typically outperform the direct forecasts, particularly, if the models can select long-lag specifications. The relative performance of the iterated forecasts improves with the forecast horizon.
+ER  - 
+
+TY  - JOUR
+T1  - Using out-of-sample mean squared prediction errors to test the martingale difference hypothesis
+AU  - Clark, Todd E.
+AU  - West, Kenneth D.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 155
+EP  - 186
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001648
+KW  - Exchange rate
+KW  - Forecasting
+KW  - Causality
+KW  - Random walk
+KW  - Testing
+KW  - Efficient markets
+AB  - We consider using out-of-sample mean squared prediction errors (MSPEs) to evaluate the null that a given series follows a zero mean martingale difference against the alternative that it is linearly predictable. Under the null of no predictability, the population MSPE of the null “no change” model equals that of the linear alternative. We show analytically and via simulations that despite this equality, the alternative model's sample MSPE is expected to be greater than the null's. For rolling regression estimators of the alternative model's parameters, we propose and evaluate an asymptotically normal test that properly accounts for the upward shift of the sample MSPE of the alternative model. Our simulations indicate that our proposed procedure works well.
+ER  - 
+
+TY  - JOUR
+T1  - Modified two-stage least-squares estimators for the estimation of a structural vector autoregressive integrated process
+AU  - Hsiao, Cheng
+AU  - Wang, Siyan
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 427
+EP  - 463
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001703
+KW  - Structural vector autoregression
+KW  - Unit root
+KW  - Cointegration
+KW  - Asymptotic properties
+KW  - Hypothesis testing
+AB  - We consider the estimation of a structural vector autoregressive model of nonstationary and possibly cointegrated variables without the prior knowledge of unit roots or rank of cointegration. We propose two modified two-stage least-squares estimators that are consistent and have limiting distributions that are either normal or mixed normal. Limited Monte Carlo studies are also conducted to evaluate their finite sample properties.
+ER  - 
+
+TY  - JOUR
+T1  - Predictive methodology and application in economics and finance: Volume in honor of the accomplishments of Clive W.J. Granger
+AU  - Swanson, Norman R.
+AU  - Elliott, Graham
+AU  - Ghysels, Eric
+AU  - Gonzalo, Jesus
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 1
+EP  - 9
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001612
+ER  - 
+
+TY  - JOUR
+T1  - Reduced rank regression for blocks of simultaneous equations
+AU  - Anderson, T.W.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 55
+EP  - 76
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001788
+KW  - Estimation of restricted regressions
+KW  - Identification of blocks of equations
+KW  - Confidence regions for restrictions
+AB  - Reduced rank regression analysis provides maximum likelihood estimators of a matrix of regression coefficients of specified rank and of corresponding linear restrictions on such matrices. These estimators depend on the eigenvectors of an “effect” matrix in the metric of an error covariance matrix. In this paper it is shown that the maximum likelihood estimator of the restrictions can be approximated by a function of the effect matrix alone. The procedures are applied to a block of simultaneous equations. The block may be over-identified in the entire model and the individual equations just-identified within the block. The procedures are generalizations of the limited information maximum likelihood and two-stage least squares estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Opening comments: Predictive methodology and application in economics and finance.: Presentation for the San Diego Conference, January, 2004
+AU  - Granger, Clive W.J.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 11
+EP  - 13
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001624
+ER  - 
+
+TY  - JOUR
+T1  - Monitoring disruptions in financial markets
+AU  - Andreou, Elena
+AU  - Ghysels, Eric
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 77
+EP  - 124
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001739
+KW  - Structural change
+KW  - CUSUM
+KW  - GARCH
+KW  - Quadratic variation
+KW  - Power variation
+KW  - High-frequency data
+KW  - Brownian bridge
+KW  - Boundary crossing
+KW  - Sequential tests
+KW  - Local power
+AB  - We study historical and sequential CUSUM change-point tests for strongly dependent nonlinear processes. These tests are used to monitor the conditional variance of asset returns and to provide real-time information regarding instabilities or disruptions in financial risk. We discuss in detail the theoretical underpinnings of applying historical and sequential CUSUM change-point tests to monitor the stability of dynamic variance processes. Data-driven volatility monitoring schemes are investigated that satisfy the FCLT and provide various advantages for sequential analysis. We examine various issues that emerge when using such processes. One such issue is the sampling frequency since the processes can be sampled at alternative frequencies. We study the power of detection as sampling frequencies vary. Analytical relative local power results are obtained for the CUSUM test for monitoring volatility processes at low versus high sampling frequencies. The analytical results provide evidence of some nontrivial trade-offs between relative local power and the role of sampling frequency, persistence and tails of the volatility process. A comprehensive simulation analysis unfolds the finite sample properties of the CUSUM volatility change-point test and provides additional support to the analytical asymptotic results on relative local power.
+ER  - 
+
+TY  - JOUR
+T1  - Interval forecasts and parameter uncertainty
+AU  - Hansen, Bruce E.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 377
+EP  - 398
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.030
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001806
+KW  - Forecast intervals
+KW  - Nonparametric
+KW  - Quantile
+KW  - Estimation
+AB  - Forecast intervals generalize point forecasts to represent and incorporate uncertainty. Forecast intervals calculated from dynamic models typically sidestep the issue of parameter estimation. This paper shows how to construct asymptotic forecast intervals which incorporate the uncertainty due to parameter estimation. Our proposed solution is a simple proportional adjustment to the interval endpoints, the adjustment factor depending on the asymptotic variance of the interval estimates. Our analysis is in the context of a forecasting equation with an error independent of the forecasting variables but with unknown distribution. The methods are illustrated with a simulation experiment and an application to the US monthly unemployment rate.
+ER  - 
+
+TY  - JOUR
+T1  - A regime switching long memory model for electricity prices
+AU  - Haldrup, Niels
+AU  - Nielsen, Morten Ørregaard
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 349
+EP  - 376
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001715
+KW  - Cointegration
+KW  - Electricity prices
+KW  - Forecasting
+KW  - Fractional integration and cointegration
+KW  - Long memory
+KW  - Markov switching
+AB  - In this paper we develop a regime switching model which can generate long memory (fractional integration) in each of the regime states. This property is relevant, e.g., for the deregulated market for electricity power in the Nordic countries, which is characterized by electricity spot prices with a high degree of long memory. It occurs that in some time periods bilateral prices are identical whereas in other periods the prices differ. If the price series are fractionally integrated, then in the former regimes, an extreme form of fractional cointegration amongst prices will exist. The latter regimes occur when a capacity congestion exists across regions and multiple price areas will result. We define a Markov switching fractional integration model from which the fractional orders of integration in separate states can be estimated using maximum likelihood techniques. The model is adapted to data for the Nordic electricity spot market, and we find that regime switching and long memory are empirically relevant to co-exist. In particular, we find that the price behaviour for single markets can be very different depending upon the presence or absence of bottlenecks in electricity transmission. Using Monte Carlo forecasting we find that the regime switching model appears to be especially attractive in forecasting relative prices.
+ER  - 
+
+TY  - JOUR
+T1  - Large shocks vs. small shocks. (Or does size matter? May be so.)
+AU  - Gonzalo, Jesús
+AU  - Martínez, Oscar
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 311
+EP  - 347
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001727
+KW  - Asymmetries
+KW  - Nonlinear permanent–transitory decomposition
+KW  - Persistence
+KW  - Shocks
+KW  - Threshold models
+AB  - What are the shocks that drive economic fluctuations? The answer to this question requires as a first step solving the shock identification issue. This paper proposes a new identification scheme based on two aspects: the long-run effect of the shock (permanent or transitory), and the size of the shock (Large or small). This is done by using a threshold integrated moving average model (TIMA) previously introduced in the literature by the authors. Based on this model we develop a testing strategy to determine whether Large and small shocks have different long-run effects, as well as whether one of them is purely transitory. The paper analyzes the impulse response function of both types of shocks, and provides the asymptotic results sufficient to implement the above testing strategy. Based on these results we develop a new nonlinear permanent–transitory decomposition, that is applied to US stock prices to analyze the quality of the stock market, and to US GNP to investigate the asymmetric behavior of its shocks.
+ER  - 
+
+TY  - JOUR
+T1  - Persistence in forecasting performance and conditional combination strategies
+AU  - Aiolfi, Marco
+AU  - Timmermann, Allan
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 31
+EP  - 53
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001661
+KW  - Forecast combination
+KW  - Shrinkage
+KW  - Clustering
+KW  - Persistence in forecasting performance
+AB  - This paper considers measures of persistence in the (relative) forecasting performance of linear and nonlinear time-series models applied to a large cross-section of economic variables in the G7 countries. We find strong evidence of persistence among top and bottom forecasting models and relate this to the possibility of improving performance through forecast combinations. We propose a new four-stage conditional model combination method that first sorts models into clusters based on their past performance, then pools forecasts within each cluster, followed by estimation of the optimal forecast combination weights for these clusters and shrinkage towards equal weights. These methods are shown to work well empirically in out-of-sample forecasting experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Structural attribution of observed volatility clustering
+AU  - Granger, Clive W.J.
+AU  - Machina, Mark J.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 15
+EP  - 29
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001673
+KW  - Volatility clustering
+KW  - Induced volatility clustering
+KW  - Structural attribution
+KW  - Stochastic volatility
+KW  - ARCH
+AB  - Virtually all nonlinear economic models with independent, identically distributed stochastic shocks and time-invariant structural parameters will generate persistent, partially predictable heteroskedasticity (“volatility clustering”) in their key dependent variables. This paper offers some examples of this phenomenon, derives i.i.d. shock, time-invariant structural forms which generate various types of observed volatility clustering, and examines the modeling and forecasting implications of such “structural attribution.”
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - CO2
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(06)00180-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001801
+ER  - 
+
+TY  - JOUR
+T1  - Predictive density and conditional confidence interval accuracy tests
+AU  - Corradi, Valentina
+AU  - Swanson, Norman R.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 187
+EP  - 228
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001764
+KW  - Block bootstrap
+KW  - Rolling and recursive estimation scheme
+KW  - Parameter estimation error
+KW  - Predictive density
+AB  - This paper outlines testing procedures for assessing the relative out-of-sample predictive accuracy of multiple conditional distribution models. The tests that are discussed are based on either the comparison of entire conditional distributions or the comparison of predictive confidence intervals. We also briefly survey existing related methods in the area of predictive density evaluation, including methods based on the probability integral transform and the Kullback–Leibler Information Criterion. The procedures proposed in this paper are similar in many ways to [Andrews’, 1997. A conditional Kolmogorov test. Econometrica 65, 1097–1128.] conditional Kolmogorov test and to [White's, 2000. A reality check for data snooping. Econometrica 68, 1097–1126.] reality check. In particular, a predictive density test is outlined that involves comparing square (approximation) errors associated with models i,i=1,…,n, by constructing weighted averages over U of E((Fi(u|Zt,θi†)-F0(u|Zt,θ0))2), where F0(·|·) and Fi(·|·) are true and model-i distributions, u∈U, and U is a possibly unbounded set on the real line. A conditional confidence interval version of this test is also outlined, and appropriate bootstrap procedures for obtaining critical values when predictions used in the formation of the test statistics are obtained via rolling and recursive estimation schemes are developed. An empirical illustration comparing alternative predictive models for U.S. inflation is given for the predictive confidence interval test.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and model selection of semiparametric copula-based multivariate dynamic models under copula misspecification
+AU  - Chen, Xiaohong
+AU  - Fan, Yanqin
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 125
+EP  - 154
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001776
+KW  - Multivariate dynamic models
+KW  - Misspecified copulas
+KW  - Semiparametric inference
+KW  - Multiple model selection
+KW  - Mixture copulas
+AB  - We introduce a new class of semiparametric copula-based multivariate dynamic (SCOMDY) models, which specify the conditional mean and the conditional variance of a multivariate time series parametrically, but specify the multivariate distribution of the standardized innovation semiparametrically as a parametric copula evaluated at nonparametric marginal distributions. We first study large sample properties of the estimators of SCOMDY model parameters under a misspecified parametric copula, then propose pseudo likelihood ratio (PLR) tests for model selection between two SCOMDY models with possibly misspecified copulas, and finally develop PLR tests for model selection between more than two SCOMDY models. The limiting null distributions of the PLR tests do not depend on the estimation of conditional mean and conditional variance parameters, hence are very easy to simulate. Empirical applications to three and higher dimensional daily exchange rate series indicate that a SCOMDY model with a tail-dependent copula is generally preferred.
+ER  - 
+
+TY  - JOUR
+T1  - Robustifying forecasts from equilibrium-correction systems
+AU  - Hendry, David F.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 399
+EP  - 426
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.029
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760500179X
+KW  - Cointegration
+KW  - Non-stationarity
+KW  - Equilibrium correction
+KW  - Robust forecasts
+KW  - UK money
+AB  - Cointegration analysis has led to equilibrium-correction econometric systems being ubiquitous. But in a non-stationary world subject to structural breaks, where model and mechanism differ, equilibrium-correction models are a risky device from which to forecast. Equilibrium shifts entail systematic forecast failure, as forecasts will tend to move in the opposite direction to data. We explain the empirical success of second-differenced devices and of model transformations based on additional differencing as reducing forecast-error biases, at some cost in increased forecast-error variances. The analysis is illustrated by an empirical application to narrow money holdings in the UK.
+ER  - 
+
+TY  - JOUR
+T1  - Bagging binary and quantile predictors for time series
+AU  - Lee, Tae-Hwy
+AU  - Yang, Yang
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 465
+EP  - 497
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001685
+KW  - Asymmetric cost function
+KW  - Bagging
+KW  - Binary prediction
+KW  - BMA
+KW  - Forecast combination
+KW  - Majority voting
+KW  - Quantile prediction
+KW  - Time series
+AB  - Bootstrap aggregating or Bagging, introduced by Breiman (1996a. Bagging predictors. Machine Learning 24, 123–140), has been proved to be effective to improve on unstable forecast. Theoretical and empirical works using classification, regression trees, variable selection in linear and non-linear regression have shown that bagging can generate substantial prediction gain. However, most of the existing literature on bagging has been limited to the cross sectional circumstances with symmetric cost functions. In this paper, we extend the application of bagging to time series settings with asymmetric cost functions, particularly for predicting signs and quantiles. We use quantile predictions to construct a binary predictor and the majority-voted bagging binary prediction. We show that bagging may improve the binary prediction in small sample, but it does not improve in large sample. Various bagging forecast combination weights are used such as equal weighted and Bayesian model averaging (BMA) weighted combinations. For demonstration, we present results from Monte Carlo experiments and from empirical applications using monthly S&P500 and NASDAQ stock index returns.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing the impact of the initial condition on testing for unit roots
+AU  - Elliott, Graham
+AU  - Müller, Ulrich K.
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 285
+EP  - 310
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001740
+KW  - Invariance
+KW  - Characteristic function
+KW  - Efficient tests
+AB  - The outcome of popular unit root tests depends heavily on the initial condition, i.e. on the difference between the initial observation and the deterministic component. In some applications it is difficult to rule out small or large values of the initial condition a priori, so this dependence can be quite difficult to deal with in practice. We explore a number of methods for constructing unit root tests whose properties are less affected by the initial condition. We show that no nontrivial test can remain completely unaffected, and instead derive an asymptotically efficient unit root test whose power varies relatively little as a function of the initial condition.
+ER  - 
+
+TY  - JOUR
+T1  - Validating forecasts of the joint probability density of bond yields: Can affine models beat random walk?
+AU  - Egorov, Alexei V.
+AU  - Hong, Yongmiao
+AU  - Li, Haitao
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 255
+EP  - 284
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001697
+KW  - Density forecast
+KW  - Affine term structure models
+KW  - Probability integral transform
+KW  - Financial risk management
+KW  - Value at risk
+KW  - Fixed-income portfolio management
+AB  - Most existing empirical studies on affine term structure models (ATSMs) have mainly focused on in-sample goodness-of-fit of historical bond yields and ignored out-of-sample forecast of future bond yields. Using an omnibus nonparametric procedure for density forecast evaluation in a continuous-time framework, we provide probably the first comprehensive empirical analysis of the out-of-sample performance of ATSMs in forecasting the joint conditional probability density of bond yields. We find that although the random walk models tend to have better forecasts for the conditional mean dynamics of bond yields, some ATSMs provide better forecasts for the joint probability density of bond yields. However, all ATSMs considered are still overwhelmingly rejected by our tests and fail to provide satisfactory density forecasts. There exists room for further improving density forecasts for bond yields by extending ATSMs.
+ER  - 
+
+TY  - JOUR
+T1  - Finite-sample simulation-based inference in VAR models with application to Granger causality testing
+AU  - Dufour, Jean-Marie
+AU  - Jouini, Tarek
+JO  - Journal of Econometrics
+VL  - 135
+IS  - 1
+SP  - 229
+EP  - 254
+PY  - 2006
+DA  - 2006/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.07.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001752
+KW  - VAR
+KW  - Exact test
+KW  - Monte Carlo test
+KW  - Maximized Monte Carlo test
+KW  - Bootstrap
+KW  - Non-stationary model
+KW  - Macroeconomics
+KW  - Money and income
+KW  - Interest rate
+AB  - Tests in vector autoregressive (VAR) models are typically based on large-sample approximations, involving the use of asymptotic distributions or bootstrap techniques. After documenting that such methods can be very misleading even with fairly large samples, we propose a general simulation-based technique that allows one to control completely test levels in parametric VAR models. In particular, we show that maximized Monte Carlo tests [Dufour, 2005. Monte Carlo tests with nuisance parameters: a general approach to finite-sample inference and nonstandard asymptotics in econometrics. Journal of Econometrics, forthcoming] can provide provably exact tests for such models, whether they are stationary or integrated. Applications to order selection and causality testing are considered as special cases. The technique developed is applied to a VAR model of the U.S. economy.
+ER  - 

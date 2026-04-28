@@ -1,0 +1,341 @@
+TY  - JOUR
+T1  - Estimating the quadratic covariation matrix for asynchronously observed high frequency stock returns corrupted by additive measurement error
+AU  - Park, Sujin
+AU  - Hong, Seok Young
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 325
+EP  - 347
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500281X
+KW  - Quadratic covariation
+KW  - Market microstructure noise
+KW  - Asynchronous observations
+KW  - Fourier Realized Kernel
+AB  - This paper studies the estimation problem of the covariance matrices of asset returns in the presence of microstructure noise and asynchronicity between the observations across different assets. Motivated by Malliavin and Mancino (2002, 2009) we propose a new Fourier domain based estimator of multivariate ex-post volatility, which we call the Fourier Realized Kernel (FRK). An advantage of this approach is that no explicit time alignment is required unlike the time domain based methods widely adopted in the existing literature. We derive the large sample properties and establish asymptotic normality of our estimator under some general conditions that allow for both temporal and cross-sectional correlations in the measurement error process. Our results can be viewed as Frequency domain extension of the asymptotic theories for the multivariate realized kernel estimator of Barndorff-Nielsen et al. (2011). We show in extensive simulations that our method outperforms the time domain estimators when two assets with different liquidity are traded asynchronously.
+ER  - 
+
+TY  - JOUR
+T1  - Real-time nowcasting of nominal GDP with structural breaks
+AU  - Barnett, William A.
+AU  - Chauvet, Marcelle
+AU  - Leiva-Leon, Danilo
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 312
+EP  - 324
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002808
+KW  - Mixed frequency
+KW  - Ragged edges
+KW  - Real-time
+KW  - Nowcasting
+KW  - Missing data
+KW  - Nonlinear
+KW  - Structural breaks
+KW  - Dynamic factor
+KW  - Monetary Policy
+AB  - This paper provides early assessments of current U.S. Nominal GDP growth, which has been considered as a potential new monetary policy target. The nowcasts are computed using the exact amount of information that policy makers have available at the time predictions are made. However, real time information arrives at different frequencies and asynchronously, which poses the challenge of mixed frequencies, missing data, and ragged edges. This paper proposes a multivariate state space model that not only takes into account asynchronous information inflow it also allows for potential parameter instability (DYMIBREAK). We use small scale confirmatory factor analysis in which the candidate variables are selected based on their ability to forecast nominal GDP. The model is fully estimated in one step using a nonlinear Kalman filter, which is applied to obtain simultaneously both optimal inferences on the dynamic factor and parameters. Differently from principal component analysis, the proposed factor model captures the comovement rather than the variance underlying the variables. We compare the predictive ability of the model with other univariate and multivariate specifications. The results indicate that the proposed model containing information on real economic activity, inflation, interest rates, and Divisia monetary aggregates produces the most accurate real time nowcasts of nominal GDP growth.
+ER  - 
+
+TY  - JOUR
+T1  - A solution to aggregation and an application to multidimensional ‘well-being’ frontiers
+AU  - Maasoumi, Esfandiar
+AU  - Racine, Jeffrey S.
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 374
+EP  - 383
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002845
+AB  - We propose a new technique for identification and estimation of aggregation functions in multidimensional evaluations and multiple indicator settings. These functions may represent “latent” objects. They occur in many different contexts, for instance in propensity scores, multivariate measures of well-being and the related analysis of inequality and poverty, and in equivalence scales. Technical advances allow nonparametric inference on the joint distribution of continuous and discrete indicators of well-being, such as income and health, conditional on joint values of other continuous and discrete attributes, such as education and geographical groupings. In a multi-attribute setting, “quantiles” are “frontiers” that define equivalent sets of covariate values. We identify these frontiers nonparametrically at first. Then we suggest “parametrically equivalent” characterizations of these frontiers that reveal likely weights for, and substitutions between different attributes for different groups, and at different quantiles. These estimated parametric functionals are “ideal” aggregators in a certain sense which we make clear. They correspond directly to measures of aggregate well-being popularized in the earliest multidimensional inequality measures in Maasoumi (1986). This new approach resolves a classic problem of assigning weights to multiple indicators such as dimensions of well-being, as well as empirically incorporating the key component in multidimensional analysis, the relationship between the indicators. It introduces a new way for robust estimation of “quantile frontiers”, allowing “complete” assessments, such as multidimensional poverty measurements. In our substantive application, we discover extensive heterogeneity in individual evaluation functions. This leads us to perform robust, weak uniform rankings as afforded by tests for multivariate stochastic dominance. A demonstration is provided based on the Indonesian data analyzed for multidimensional poverty in Maasoumi and Lugo (2008).
+ER  - 
+
+TY  - JOUR
+T1  - Improving GDP measurement: A measurement-error perspective
+AU  - Aruoba, S. Borağan
+AU  - Diebold, Francis X.
+AU  - Nalewaik, Jeremy
+AU  - Schorfheide, Frank
+AU  - Song, Dongho
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 384
+EP  - 397
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002857
+KW  - Income
+KW  - Output
+KW  - Expenditure
+KW  - Business cycle
+KW  - Expansion
+KW  - Contraction
+KW  - Recession
+KW  - Turning point
+KW  - State-space model
+KW  - Dynamic factor model
+KW  - Forecast combination
+AB  - We provide a new measure of historical U.S. GDP growth, obtained by applying optimal signal-extraction techniques to the noisy expenditure-side and income-side GDP estimates. The quarter-by-quarter values of our new measure often differ noticeably from those of the traditional measures. Its dynamic properties differ as well, indicating that the persistence of aggregate output dynamics is stronger than previously thought.
+ER  - 
+
+TY  - JOUR
+T1  - Price discounts and the measurement of inflation
+AU  - Fox, Kevin J.
+AU  - Syed, Iqbal A.
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 398
+EP  - 406
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002869
+KW  - Cost-of-living
+KW  - CPI
+KW  - Regular prices
+KW  - Retail sales
+KW  - RYGEKS
+KW  - RYCCD
+KW  - Scanner data
+AB  - Consumers are very responsive to sales, yet statistical agency practice typically under-weights sale prices in the Consumer Price Index (CPI). Evidence is lacking on the impact on the representativeness of prices included in the CPI and on estimates of inflation. Using high-frequency scanner data from US supermarkets we find that the exclusion of sales prices introduces a systematic but stable effect over time so inflation measurement is not significantly affected. We also find evidence that the typical practice of using data from an incomplete period in constructing unit values can lead to an upward bias in the resulting price index.
+ER  - 
+
+TY  - JOUR
+T1  - Credible interval estimates for official statistics with survey nonresponse
+AU  - Manski, Charles F.
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 293
+EP  - 301
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500278X
+AB  - Government agencies commonly report official statistics based on survey data as point estimates, without accompanying measures of error. Agencies could measure sampling error using established statistical principles, but it is more challenging to measure nonsampling errors. This paper considers error due to survey nonresponse. The standard practice has been to use weights and imputations to implement assumptions that nonresponse is conditionally random. I review modern research deriving interval estimates that make no assumptions about the values of missing data. To demonstrate the implications for official statistics, I use data from the U.S. Current Population Survey to form interval estimates for median household income, the family poverty rate, and the unemployment rate. I then explore some of the middle ground between interval estimation making no assumptions and point estimation assuming that nonresponse is conditionally random.
+ER  - 
+
+TY  - JOUR
+T1  - A new approach to measuring and studying the characteristics of class membership: Examining poverty, inequality and polarization in urban China
+AU  - Anderson, Gordon
+AU  - Farcomeni, Alessio
+AU  - Pittau, Maria Grazia
+AU  - Zelli, Roberto
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 348
+EP  - 359
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002821
+KW  - Poverty frontiers
+KW  - Mixture models
+KW  - Class membership
+KW  - Urban China
+AB  - Classifying agents into subgroups in order to measure the plight of the “poor”, “middle class” or “rich” is common place in economics, unfortunately the definition of class boundaries is contentious and beset with problems. Here a technique based on mixture models is proposed for surmounting these problems by determining the number of classes in a population and estimating the probability that an agent belongs to a particular class. All of the familiar statistics for describing the classes remain available and the possibility of studying the correlates of class membership is raised. As a substantive illustration we analyze household income in Urban China in the last decade of the 20th Century. Four income groups are classified and the progress of those “poor”, “lower middle”, “upper middle” and “rich” classes are related to household and regional characteristics.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic treatment effects
+AU  - Heckman, James J.
+AU  - Humphries, John Eric
+AU  - Veramendi, Gregory
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 276
+EP  - 292
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002778
+KW  - Choice theory
+KW  - Dynamic treatment effects
+KW  - Factor models
+KW  - Marginal treatment effects
+KW  - Regret
+KW  - Conditional independence
+KW  - Matching on mismeasured variables
+KW  - Instrumental variables
+KW  - Ordered choice models
+KW  - Unordered choice models
+AB  - This paper develops robust models for estimating and interpreting treatment effects arising from both ordered and unordered multi-stage decision problems. Identification is secured through instrumental variables and/or conditional independence (matching) assumptions. We decompose treatment effects into direct effects and continuation values associated with moving to the next stage of a decision problem. Using our framework, we decompose the IV estimator, showing that IV generally does not estimate economically interpretable or policy-relevant parameters in prototypical dynamic discrete choice models, unless policy variables are instruments. Continuation values are an empirically important component of estimated total treatment effects of education. We use our analysis to estimate the components of what LATE estimates in a dynamic discrete choice model.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent tests for poverty dominance relations
+AU  - Barrett, Garry F.
+AU  - Donald, Stephen G.
+AU  - Hsu, Yu-Chin
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 360
+EP  - 373
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002833
+KW  - Poverty Gap Profile
+KW  - Poverty Gap Profile dominance
+KW  - Hypothesis testing
+KW  - Poverty line
+AB  - This paper considers methods for comparing poverty in two income distributions. We first discuss the concept and usefulness of the Poverty Gap Profile (PGP) for comparing poverty in two populations. Dominance of one PGP over another suggests poverty dominance for a wide class of indices which may be expressed as functionals of the PGP. We then discuss hypotheses that can be used to test poverty dominance in terms of the PGP and introduce and justify a test statistic based on empirical PGP’s where we allow for the poverty line to be estimated. A method for obtaining critical values by simulation is proposed that takes account of estimation of the poverty line. The finite sample properties of the methods are examined in the context of a Monte Carlo simulation study and the methods are illustrated in an assessment of relative consumption poverty in Australia over the period 1988/1989–2009/2010.
+ER  - 
+
+TY  - JOUR
+T1  - A least squares approach to imposing within-region fixity in the International Comparisons Program
+AU  - Hill, Robert J.
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 407
+EP  - 413
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002870
+KW  - ICP
+KW  - Within-region fixity
+KW  - Multilateral price index
+KW  - GEKS
+AB  - The International Comparisons Program (ICP) compares the purchasing power of currencies and real income across countries. ICP is broken up into six regions. Global results are then obtained by linking these regions together at both basic heading level and the aggregate level in a way that satisfies within-region fixity (i.e., the relative parities of a pair of countries in the same region are the same in the global comparison as in the within-region comparison). Standard multilateral methods violate this within-region fixity requirement and hence cannot be used to construct the global results. A method is proposed here that resolves this problem by altering the price and quantity indexes by the least-squares amount necessary to ensure that within-region fixity is satisfied. This method is then compared–both in terms of its underlying structure and empirically–with other methods for imposing within-region fixity.
+ER  - 
+
+TY  - JOUR
+T1  - Stochastic approach to computation of purchasing power parities in the International Comparison Program (ICP)
+AU  - Rao, D.S. Prasada
+AU  - Hajargasht, Gholamreza
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 414
+EP  - 425
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002882
+KW  - Purchasing power parities
+KW  - International Comparison Program
+KW  - Stochastic approach
+KW  - Non-additive linear models
+KW  - Method of moments
+KW  - Standard errors
+AB  - The paper presents a stochastic approach based on the country-product-dummy (CPD) method for the computation of purchasing power parities (PPPs) in the International Comparison Program. The approach develops estimation strategies in conjunction with the country-product-dummy method to derive a range of multilateral index number methods for the compilation of PPPs at the basic heading level as well as at higher levels of aggregation. At the basic heading level our approach generates Jevons geometric index, arithmetic and harmonic indexes as well as the Dutot index. At higher levels of aggregation, a weighted stochastic model with alternative stochastic specifications and the method of moments (MOM) are used to derive the Geary–Khamis, Iklé, Rao and other multilateral index number methods employed in international comparisons. Expressions for computing standard errors for PPPs based on these formulae are also derived. Existence of solutions to the estimating equations derived from the weighted method of moments or the maximum weighted likelihood is also discussed. A numerical illustration based on ICP 2005 data is presented.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring industry productivity and cross-country convergence
+AU  - Inklaar, Robert
+AU  - Diewert, W. Erwin
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 426
+EP  - 433
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002894
+KW  - Productivity
+KW  - Index numbers
+KW  - Purchasing power parities
+KW  - Multilateral comparisons
+KW  - Convergence
+KW  - Value added functions
+KW  - Efficiency
+KW  - World production frontier
+KW  - Törnqvist indexes
+KW  - Superlative indexes
+KW  - Translog functions
+AB  - This paper introduces a new method for simultaneously comparing industry productivity across countries and over time. The new method is similar to the method for making multilateral comparisons of Caves, Christensen and Diewert (1982b) but their method can only compare gross outputs across production units and not compare real value added of production units across time and space. The present paper uses the translog GDP methodology for measuring productivity levels across time that was pioneered by Diewert and Morrison (1986) and adapts it to the multilateral context. The new method is illustrated using an industry level data set and shows that productivity dispersion across 38 countries between 1995 and 2011 has decreased faster in the traded sector than in the non-traded sector. In both sectors, there is little evidence of decreasing distance to the productivity frontier.
+ER  - 
+
+TY  - JOUR
+T1  - Innovations in measurement in economics and econometrics: An overview
+AU  - Barnett, W.A.
+AU  - Diewert, W.E.
+AU  - Maasoumi, E.
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 273
+EP  - 275
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615003048
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - IFC
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(16)30027-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616300276
+ER  - 
+
+TY  - JOUR
+T1  - On independence conditions in nonseparable models: Observable and unobservable instruments
+AU  - Matzkin, Rosa L.
+JO  - Journal of Econometrics
+VL  - 191
+IS  - 2
+SP  - 302
+EP  - 311
+PY  - 2016
+DA  - 2016/04/01/
+T2  - Innovations in Measurement in Economics and Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002791
+AB  - This paper develops identification results employing independence conditions among unobservable variables. The independence conditions are used to derive first-stage nonseparable reduced form functions. Once constructed, these reduced form functions are employed to express the derivatives of nonseparable structural functions in terms of the derivatives of the reduced form functions. For models with simultaneity, we obtain the new results by combining the independence assumptions together with parametric specifications and exclusion restrictions. For models with triangularity, we allow all functions to be nonparametric and nonseparable in unobservable random terms. For the latter, we provide several equivalence results and discuss some of the trade-offs between observable and unobservable instruments.
+ER  - 

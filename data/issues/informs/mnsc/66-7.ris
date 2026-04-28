@@ -1,0 +1,644 @@
+
+
+
+
+
+TY  - JOUR
+T1  - You’ve Got Mail: A Randomized Field Experiment on Tax Evasion
+AU  - Bott, Kristina M.
+AU  - Cappelen, Alexander W.
+AU  - Sørensen, Erik Ø.
+AU  - Tungodden, Bertil
+Y1  - 2019/10/22
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3390
+DO  - 10.1287/mnsc.2019.3390
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2801
+EP  - 2819
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We report from a large-scale randomized field experiment conducted on a unique sample of more than 15,000 taxpayers in Norway who were likely to have misreported their foreign income. By randomly manipulating a letter from the tax authorities, we cleanly identify that moral suasion and the perceived detection probability play a crucial role in shaping taxpayer behavior. The moral letter mainly works on the intensive margin, while the detection letter has a strong effect on the extensive margin. We further show that only the detection letter has long-term effects on tax compliance.This paper was accepted by Yan Chen, behavioral economics.
+AB  - We report from a large-scale randomized field experiment conducted on a unique sample of more than 15,000 taxpayers in Norway who were likely to have misreported their foreign income. By randomly manipulating a letter from the tax authorities, we cleanly identify that moral suasion and the perceived detection probability play a crucial role in shaping taxpayer behavior. The moral letter mainly works on the intensive margin, while the detection letter has a strong effect on the extensive margin. We further show that only the detection letter has long-term effects on tax compliance.This paper was accepted by Yan Chen, behavioral economics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3390
+UR  - https://doi.org/10.1287/mnsc.2019.3390
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Assortment Optimization for Reusable Products with Random Usage Durations
+AU  - Rusmevichientong, Paat
+AU  - Sumida, Mika
+AU  - Topaloglu, Huseyin
+Y1  - 2020/01/29
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3346
+DO  - 10.1287/mnsc.2019.3346
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2820
+EP  - 2844
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We consider dynamic assortment problems with reusable products, in which each arriving customer chooses a product within an offered assortment, uses the product for a random duration of time, and returns the product back to the firm to be used by other customers. The goal is to find a policy for deciding on the assortment to offer to each customer so that the total expected revenue over a finite selling horizon is maximized. The dynamic-programming formulation of this problem requires a high-dimensional state variable that keeps track of the on-hand product inventories, as well as the products that are currently in use. We present a tractable approach to compute a policy that is guaranteed to obtain at least 50% of the optimal total expected revenue. This policy is based on constructing linear approximations to the optimal value functions. When the usage duration is infinite or follows a negative binomial distribution, we also show how to efficiently perform rollout on a simple static policy. Performing rollout corresponds to using separable and nonlinear value function approximations. The resulting policy is also guaranteed to obtain at least 50% of the optimal total expected revenue. The special case of our model with infinite usage durations captures the case where the customers purchase the products outright without returning them at all. Under infinite usage durations, we give a variant of our rollout approach whose total expected revenue differs from the optimal by a factor that approaches 1 with rate cubic-root of Cmin, where Cmin is the smallest inventory of a product. We provide computational experiments based on simulated data for dynamic assortment management, as well as real parking transaction data for the city of Seattle. Our computational experiments demonstrate that the practical performance of our policies is substantially better than their performance guarantees and that performing rollout yields noticeable improvements.This paper was accepted by Yinyu Ye, optimization.
+AB  - We consider dynamic assortment problems with reusable products, in which each arriving customer chooses a product within an offered assortment, uses the product for a random duration of time, and returns the product back to the firm to be used by other customers. The goal is to find a policy for deciding on the assortment to offer to each customer so that the total expected revenue over a finite selling horizon is maximized. The dynamic-programming formulation of this problem requires a high-dimensional state variable that keeps track of the on-hand product inventories, as well as the products that are currently in use. We present a tractable approach to compute a policy that is guaranteed to obtain at least 50% of the optimal total expected revenue. This policy is based on constructing linear approximations to the optimal value functions. When the usage duration is infinite or follows a negative binomial distribution, we also show how to efficiently perform rollout on a simple static policy. Performing rollout corresponds to using separable and nonlinear value function approximations. The resulting policy is also guaranteed to obtain at least 50% of the optimal total expected revenue. The special case of our model with infinite usage durations captures the case where the customers purchase the products outright without returning them at all. Under infinite usage durations, we give a variant of our rollout approach whose total expected revenue differs from the optimal by a factor that approaches 1 with rate cubic-root of Cmin, where Cmin is the smallest inventory of a product. We provide computational experiments based on simulated data for dynamic assortment management, as well as real parking transaction data for the city of Seattle. Our computational experiments demonstrate that the practical performance of our policies is substantially better than their performance guarantees and that performing rollout yields noticeable improvements.This paper was accepted by Yinyu Ye, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3346
+UR  - https://doi.org/10.1287/mnsc.2019.3346
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bargaining Process and Channel Efficiency
+AU  - Haruvy, Ernan
+AU  - Katok, Elena
+AU  - Pavlov, Valery
+Y1  - 2020/01/22
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3360
+DO  - 10.1287/mnsc.2019.3360
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2845
+EP  - 2860
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - The behavioral literature has demonstrated that the format of supply chain contracts matters even when theoretically it should not and that contracts that in theory coordinate channels fail to do so in laboratory experiments. The existing body of experimental evidence uses an ultimatum bargaining protocol to test analytical models, but there is no reason to think that bargaining in supply chains is in the form of ultimatum offers. We investigate the effect of bargaining on contract performance by extending the bargaining protocol to allow the manufacturer to make concessions. We test coordinating contract with bargaining in the laboratory by comparing wholesale price and the two-part tariff contracts using two different bargaining protocols. We then develop and estimate a statistical model of behavior with bargaining and find that this model organizes our data well. Our main finding is that the contracts that we study are more efficient when participants are allowed to make concessions. The additional channel efficiency is owing to more efficient offers made by manufacturers. The higher channel efficiency primarily benefits the retailer?the weaker party. Our main contribution is the observation that, when testing analytical models of contracts in the laboratory, the way that the bargaining process is implemented, such as the ability to make concessions, has a critical effect on conclusions.This paper was accepted by Vishal Gaur, operations management.
+AB  - The behavioral literature has demonstrated that the format of supply chain contracts matters even when theoretically it should not and that contracts that in theory coordinate channels fail to do so in laboratory experiments. The existing body of experimental evidence uses an ultimatum bargaining protocol to test analytical models, but there is no reason to think that bargaining in supply chains is in the form of ultimatum offers. We investigate the effect of bargaining on contract performance by extending the bargaining protocol to allow the manufacturer to make concessions. We test coordinating contract with bargaining in the laboratory by comparing wholesale price and the two-part tariff contracts using two different bargaining protocols. We then develop and estimate a statistical model of behavior with bargaining and find that this model organizes our data well. Our main finding is that the contracts that we study are more efficient when participants are allowed to make concessions. The additional channel efficiency is owing to more efficient offers made by manufacturers. The higher channel efficiency primarily benefits the retailer?the weaker party. Our main contribution is the observation that, when testing analytical models of contracts in the laboratory, the way that the bargaining process is implemented, such as the ability to make concessions, has a critical effect on conclusions.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3360
+UR  - https://doi.org/10.1287/mnsc.2019.3360
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Only Prescription Is Transparency: The Effect of Charge-Price-Transparency Regulation on Healthcare Prices
+AU  - Christensen, Hans B.
+AU  - Floyd, Eric
+AU  - Maffett, Mark
+Y1  - 2020/01/29
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3330
+DO  - 10.1287/mnsc.2019.3330
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2861
+EP  - 2882
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We examine the effect of charge-price-transparency regulation (PTR)?a common policy solution intended to curb rising healthcare costs?on hospitals? prices. We find that, although PTR does not affect payments or consumer search, it does cause hospitals to reduce charges by approximately 5%. The reputational costs of perceived overcharging appear to be one impetus for the reduction in charges, suggesting that certain stakeholders who are able to impose costs on hospitals are unaware that hospitals can decouple charges from payments. The ineffectiveness of PTR policies in reducing payments and the apparent inability of some stakeholders to realize this fact could explain why charge-transparency policies have been widely adopted with little opposition. Overall, our findings provide a cautionary note?transparency regulation focusing on an indicator that can be decoupled from the construct of interest might placate some stakeholders without actually solving the underlying problem.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - We examine the effect of charge-price-transparency regulation (PTR)?a common policy solution intended to curb rising healthcare costs?on hospitals? prices. We find that, although PTR does not affect payments or consumer search, it does cause hospitals to reduce charges by approximately 5%. The reputational costs of perceived overcharging appear to be one impetus for the reduction in charges, suggesting that certain stakeholders who are able to impose costs on hospitals are unaware that hospitals can decouple charges from payments. The ineffectiveness of PTR policies in reducing payments and the apparent inability of some stakeholders to realize this fact could explain why charge-transparency policies have been widely adopted with little opposition. Overall, our findings provide a cautionary note?transparency regulation focusing on an indicator that can be decoupled from the construct of interest might placate some stakeholders without actually solving the underlying problem.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3330
+UR  - https://doi.org/10.1287/mnsc.2019.3330
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Economic Consequences of Audit Firms’ Quality Control System Deficiencies
+AU  - Aobdia, Daniel
+Y1  - 2019/08/05
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3301
+DO  - 10.1287/mnsc.2019.3301
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2883
+EP  - 2905
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - This study seeks to determine the role of audit firms? quality control (QC) system deficiencies, as measured by the Public Company Accounting Oversight Board (PCAOB) inspection program, on audit quality and profitability. Using a unique data set of firmwide QC deficiencies identified by the PCAOB during its inspections of audit firms, I find a negative association between QC deficiencies, mainly performance related, and audit quality. Furthermore, audits conducted by larger audit firms with more organization-level deficiencies appear less profitable, evidenced by more hours worked on the engagements, leading to lower fees per hour. These results appear to be partly explained by deficiencies in the tone at the top (a proxy for culture) and the audit methodology. Further evidence suggests that a lack of remediation of QC system deficiencies has a negative influence on audit quality.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - This study seeks to determine the role of audit firms? quality control (QC) system deficiencies, as measured by the Public Company Accounting Oversight Board (PCAOB) inspection program, on audit quality and profitability. Using a unique data set of firmwide QC deficiencies identified by the PCAOB during its inspections of audit firms, I find a negative association between QC deficiencies, mainly performance related, and audit quality. Furthermore, audits conducted by larger audit firms with more organization-level deficiencies appear less profitable, evidenced by more hours worked on the engagements, leading to lower fees per hour. These results appear to be partly explained by deficiencies in the tone at the top (a proxy for culture) and the audit methodology. Further evidence suggests that a lack of remediation of QC system deficiencies has a negative influence on audit quality.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3301
+UR  - https://doi.org/10.1287/mnsc.2019.3301
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Attention Behavior Under Return Predictability
+AU  - Andrei, Daniel
+AU  - Hasler, Michael
+Y1  - 2019/10/24
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3328
+DO  - 10.1287/mnsc.2019.3328
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2906
+EP  - 2928
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We investigate the dynamic problem of how much attention an investor should pay to news in order to learn about stock-return predictability and maximize expected lifetime utility. We show that the optimal amount of attention is U-shaped in the return predictor, increasing with both uncertainty and the magnitude of the predictive coefficient and decreasing with stock-return volatility. The optimal risky asset position exhibits a negative hedging demand that is hump shaped in the return predictor. Its magnitude is larger when uncertainty increases but smaller when stock-return volatility increases. We test and find empirical support for these theoretical predictions.This paper was accepted by Gustavo Manso, finance.
+AB  - We investigate the dynamic problem of how much attention an investor should pay to news in order to learn about stock-return predictability and maximize expected lifetime utility. We show that the optimal amount of attention is U-shaped in the return predictor, increasing with both uncertainty and the magnitude of the predictive coefficient and decreasing with stock-return volatility. The optimal risky asset position exhibits a negative hedging demand that is hump shaped in the return predictor. Its magnitude is larger when uncertainty increases but smaller when stock-return volatility increases. We test and find empirical support for these theoretical predictions.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3328
+UR  - https://doi.org/10.1287/mnsc.2019.3328
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Advance Service Reservations with Heterogeneous Customers
+AU  - Stein, Clifford
+AU  - Truong, Van-Anh
+AU  - Wang, Xinshang
+Y1  - 2019/10/15
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3364
+DO  - 10.1287/mnsc.2019.3364
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2929
+EP  - 2950
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We study a fundamental model of resource allocation in which a finite number of resources must be assigned in an online manner to a heterogeneous stream of customers. The customers arrive randomly over time according to known stochastic processes. Each customer requires a specific amount of capacity and has a specific preference for each of the resources with some resources being feasible for the customer and some not. The system must find a feasible assignment of each customer to a resource or must reject the customer. The aim is to maximize the total expected capacity utilization of the resources over the horizon. This model has application in services, freight transportation, and online advertising. We present online algorithms with bounded competitive ratios relative to an optimal off-line algorithm that knows all stochastic information. Our algorithms perform extremely well compared with common heuristics as demonstrated on a real data set from a large hospital system in New York City.This paper was accepted by Yinyu Ye, optimization.
+AB  - We study a fundamental model of resource allocation in which a finite number of resources must be assigned in an online manner to a heterogeneous stream of customers. The customers arrive randomly over time according to known stochastic processes. Each customer requires a specific amount of capacity and has a specific preference for each of the resources with some resources being feasible for the customer and some not. The system must find a feasible assignment of each customer to a resource or must reject the customer. The aim is to maximize the total expected capacity utilization of the resources over the horizon. This model has application in services, freight transportation, and online advertising. We present online algorithms with bounded competitive ratios relative to an optimal off-line algorithm that knows all stochastic information. Our algorithms perform extremely well compared with common heuristics as demonstrated on a real data set from a large hospital system in New York City.This paper was accepted by Yinyu Ye, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3364
+UR  - https://doi.org/10.1287/mnsc.2019.3364
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Collateral, Ease of Repossession, and Leases: Evidence from Antirecharacterization Laws
+AU  - Chu, Yongqiang
+Y1  - 2019/10/10
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3338
+DO  - 10.1287/mnsc.2019.3338
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2951
+EP  - 2974
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - This paper studies how the ease of repossessing collateral in bankruptcy affects corporate leasing policy. Using plausibly exogenous variation of the ability to repossess assets generated by state antirecharacterization laws, I find that the antirecharacterization laws, which make collateral repossession easier for secured lending, reduces corporate leasing. Consistent with the argument that only financially constrained firms value additional debt capacity because of the increased ability to repossess assets, I find that the effect concentrates in financially constrained firms. I also find that the effect is much stronger for firms with less specific assets. In addition, I find that the laws also affect leverage, cash holding, and corporate investment.This paper was accepted by Gustavo Manso, finance.
+AB  - This paper studies how the ease of repossessing collateral in bankruptcy affects corporate leasing policy. Using plausibly exogenous variation of the ability to repossess assets generated by state antirecharacterization laws, I find that the antirecharacterization laws, which make collateral repossession easier for secured lending, reduces corporate leasing. Consistent with the argument that only financially constrained firms value additional debt capacity because of the increased ability to repossess assets, I find that the effect concentrates in financially constrained firms. I also find that the effect is much stronger for firms with less specific assets. In addition, I find that the laws also affect leverage, cash holding, and corporate investment.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3338
+UR  - https://doi.org/10.1287/mnsc.2019.3338
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Balancing Act of Regulating On-Demand Ride Services
+AU  - Yu, Jiayi Joey
+AU  - Tang, Christopher S.
+AU  - Max Shen, Zuo-Jun
+AU  - Chen, Xiqun Michael
+Y1  - 2019/10/24
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3351
+DO  - 10.1287/mnsc.2019.3351
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2975
+EP  - 2992
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - Regulating on-demand ride-hailing services (e.g., Uber and DiDi) requires a balance of multiple competing objectives: encouraging innovative business models (e.g., DiDi), sustaining traditional industries (e.g., taxi), creating new jobs, and reducing traffic congestion. This study is motivated by a regulatory policy implemented by the Chinese government in 2017 and a similar policy approved by the New York City Council in 2018 that regulate the ?maximum? number of registered Uber/DiDi drivers. We examine the impact of these policies on the welfare of different stakeholders (i.e., consumers, taxi drivers, on-demand ride service company, and independent drivers). By analyzing a two-period dynamic game that involves these stakeholders, we find that, without government intervention, the on-demand ride service platform can drive the traditional taxi industry out of the market under certain conditions. Relative to no regulations and a complete ban policy, a carefully designed regulatory policy can strike a better balance of multiple competing objectives. Finally, if a government can reform the taxi industry by adjusting the taxi fare, then lowering the taxi fare instead of imposing a strict policy toward on-demand ride services can improve the total social welfare.This paper was accepted by Serguei Netessine, operations management.
+AB  - Regulating on-demand ride-hailing services (e.g., Uber and DiDi) requires a balance of multiple competing objectives: encouraging innovative business models (e.g., DiDi), sustaining traditional industries (e.g., taxi), creating new jobs, and reducing traffic congestion. This study is motivated by a regulatory policy implemented by the Chinese government in 2017 and a similar policy approved by the New York City Council in 2018 that regulate the ?maximum? number of registered Uber/DiDi drivers. We examine the impact of these policies on the welfare of different stakeholders (i.e., consumers, taxi drivers, on-demand ride service company, and independent drivers). By analyzing a two-period dynamic game that involves these stakeholders, we find that, without government intervention, the on-demand ride service platform can drive the traditional taxi industry out of the market under certain conditions. Relative to no regulations and a complete ban policy, a carefully designed regulatory policy can strike a better balance of multiple competing objectives. Finally, if a government can reform the taxi industry by adjusting the taxi fare, then lowering the taxi fare instead of imposing a strict policy toward on-demand ride services can improve the total social welfare.This paper was accepted by Serguei Netessine, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3351
+UR  - https://doi.org/10.1287/mnsc.2019.3351
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Re-Solving Heuristic with Uniformly Bounded Loss for Network Revenue Management
+AU  - Bumpensanti, Pornpawee
+AU  - Wang, He
+Y1  - 2020/03/16
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3365
+DO  - 10.1287/mnsc.2019.3365
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2993
+EP  - 3009
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We consider a canonical quantity-based network revenue management problem where a firm accepts or rejects incoming customer requests irrevocably in order to maximize expected revenue given limited resources. Because of the curse of dimensionality, the exact solution to this problem by dynamic programming is intractable when the number of resources is large. We study a family of re-solving heuristics that periodically re-optimize an approximation to the original problem known as the deterministic linear program (DLP), where random customer arrivals are replaced by their expectations. We find that, in general, frequently re-solving the DLP produces the same order of revenue loss as one would get without re-solving, which scales as the square root of the time horizon length and resource capacities. By re-solving the DLP at a few selected points in time and applying thresholds to the customer acceptance probabilities, we design a new re-solving heuristic with revenue loss that is uniformly bounded by a constant that is independent of the time horizon and resource capacities.This paper was accepted by Kalyan Talluri, revenue management and market analytics.
+AB  - We consider a canonical quantity-based network revenue management problem where a firm accepts or rejects incoming customer requests irrevocably in order to maximize expected revenue given limited resources. Because of the curse of dimensionality, the exact solution to this problem by dynamic programming is intractable when the number of resources is large. We study a family of re-solving heuristics that periodically re-optimize an approximation to the original problem known as the deterministic linear program (DLP), where random customer arrivals are replaced by their expectations. We find that, in general, frequently re-solving the DLP produces the same order of revenue loss as one would get without re-solving, which scales as the square root of the time horizon length and resource capacities. By re-solving the DLP at a few selected points in time and applying thresholds to the customer acceptance probabilities, we design a new re-solving heuristic with revenue loss that is uniformly bounded by a constant that is independent of the time horizon and resource capacities.This paper was accepted by Kalyan Talluri, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3365
+UR  - https://doi.org/10.1287/mnsc.2019.3365
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Paying to Program? Engineering Brand and High-Tech Wages
+AU  - Tambe, Prasanna
+AU  - Ye, Xuan
+AU  - Cappelli, Peter
+Y1  - 2020/01/31
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3343
+DO  - 10.1287/mnsc.2019.3343
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3010
+EP  - 3028
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We test the hypothesis that information technology (IT) workers accept a compensating differential to work with emerging IT systems and that employers that invest in these systems can, in turn, capture greater value from the wages they pay. We show that much of the utility IT workers derive from these systems is from skills acquired on the job. This is principally true for younger workers at employers where skill development is encouraged, and the effects are stronger in thicker markets where workers with newer skills have more outside options. An analysis of the text in online employer reviews supports the notion that IT workers value access to interesting IT systems above most other employer attributes. These findings are important because (1) they provide evidence of how worker preferences can influence corporate IT investment decisions, (2) they shed light on factors influencing IT skill development, and (3) they point to a potentially important explanation for returns from IT investments.This paper was accepted by Chris Forman, information systems.
+AB  - We test the hypothesis that information technology (IT) workers accept a compensating differential to work with emerging IT systems and that employers that invest in these systems can, in turn, capture greater value from the wages they pay. We show that much of the utility IT workers derive from these systems is from skills acquired on the job. This is principally true for younger workers at employers where skill development is encouraged, and the effects are stronger in thicker markets where workers with newer skills have more outside options. An analysis of the text in online employer reviews supports the notion that IT workers value access to interesting IT systems above most other employer attributes. These findings are important because (1) they provide evidence of how worker preferences can influence corporate IT investment decisions, (2) they shed light on factors influencing IT skill development, and (3) they point to a potentially important explanation for returns from IT investments.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3343
+UR  - https://doi.org/10.1287/mnsc.2019.3343
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Index Policies and Performance Bounds for Dynamic Selection Problems
+AU  - Brown, David B.
+AU  - Smith, James E.
+Y1  - 2020/01/23
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3342
+DO  - 10.1287/mnsc.2019.3342
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3029
+EP  - 3050
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We consider dynamic selection problems, where a decision maker repeatedly selects a set of items from a larger collection of available items. A classic example is the dynamic assortment problem with demand learning, where a retailer chooses items to offer for sale subject to a display space constraint. The retailer may adjust the assortment over time in response to the observed demand. These dynamic selection problems are naturally formulated as stochastic dynamic programs (DPs) but are difficult to solve because the optimal selection decisions depend on the states of all items. In this paper, we study heuristic policies for dynamic selection problems and provide upper bounds on the performance of an optimal policy that can be used to assess the performance of a heuristic policy. The policies and bounds that we consider are based on a Lagrangian relaxation of the DP that relaxes the constraint limiting the number of items that may be selected. We characterize the performance of the Lagrangian index policy and bound and show that, under mild conditions, these policies and bounds are asymptotically optimal for problems with many items; mixed policies and tiebreaking play an essential role in the analysis of these index policies and can have a surprising impact on performance. We demonstrate these policies and bounds in two large scale examples: a dynamic assortment problem with demand learning and an applicant screening problem.This paper was accepted by Yinyu Ye, optimization.
+AB  - We consider dynamic selection problems, where a decision maker repeatedly selects a set of items from a larger collection of available items. A classic example is the dynamic assortment problem with demand learning, where a retailer chooses items to offer for sale subject to a display space constraint. The retailer may adjust the assortment over time in response to the observed demand. These dynamic selection problems are naturally formulated as stochastic dynamic programs (DPs) but are difficult to solve because the optimal selection decisions depend on the states of all items. In this paper, we study heuristic policies for dynamic selection problems and provide upper bounds on the performance of an optimal policy that can be used to assess the performance of a heuristic policy. The policies and bounds that we consider are based on a Lagrangian relaxation of the DP that relaxes the constraint limiting the number of items that may be selected. We characterize the performance of the Lagrangian index policy and bound and show that, under mild conditions, these policies and bounds are asymptotically optimal for problems with many items; mixed policies and tiebreaking play an essential role in the analysis of these index policies and can have a surprising impact on performance. We demonstrate these policies and bounds in two large scale examples: a dynamic assortment problem with demand learning and an applicant screening problem.This paper was accepted by Yinyu Ye, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3342
+UR  - https://doi.org/10.1287/mnsc.2019.3342
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Stabilized Benders Methods for Large-Scale Combinatorial Optimization, with Application to Data Privacy
+AU  - Baena, Daniel
+AU  - Castro, Jordi
+AU  - Frangioni, Antonio
+Y1  - 2020/01/23
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3341
+DO  - 10.1287/mnsc.2019.3341
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3051
+EP  - 3068
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - The cell-suppression problem (CSP) is a very large mixed-integer linear problem arising in statistical disclosure control. However, CSP has the typical structure that allows application of the Benders decomposition, which is known to suffer from oscillation and slow convergence, compounded with the fact that the master problem is combinatorial. To overcome this drawback, we present a stabilized Benders decomposition whose master is restricted to a neighborhood of successful candidates by local-branching constraints, which are dynamically adjusted, and even dropped, during the iterations. Our experiments with synthetic and real-world instances with up to 24,000 binary variables, 181 million (M) continuous variables, and 367M constraints show that our approach is competitive with both the current state-of-the-art code for CSP and the Benders implementation in CPLEX 12.7. In some instances, stabilized Benders provided a very good solution in less than 1 minute, whereas the other approaches found no feasible solution in 1 hour.This paper was accepted by Yinyu Ye, optimization.
+AB  - The cell-suppression problem (CSP) is a very large mixed-integer linear problem arising in statistical disclosure control. However, CSP has the typical structure that allows application of the Benders decomposition, which is known to suffer from oscillation and slow convergence, compounded with the fact that the master problem is combinatorial. To overcome this drawback, we present a stabilized Benders decomposition whose master is restricted to a neighborhood of successful candidates by local-branching constraints, which are dynamically adjusted, and even dropped, during the iterations. Our experiments with synthetic and real-world instances with up to 24,000 binary variables, 181 million (M) continuous variables, and 367M constraints show that our approach is competitive with both the current state-of-the-art code for CSP and the Benders implementation in CPLEX 12.7. In some instances, stabilized Benders provided a very good solution in less than 1 minute, whereas the other approaches found no feasible solution in 1 hour.This paper was accepted by Yinyu Ye, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3341
+UR  - https://doi.org/10.1287/mnsc.2019.3341
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Why Won’t You Listen to Me? Measuring Receptiveness to Opposing Views
+AU  - Minson, Julia A.
+AU  - Chen, Frances S.
+AU  - Tinsley, Catherine H.
+Y1  - 2019/11/05
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3362
+DO  - 10.1287/mnsc.2019.3362
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3069
+EP  - 3094
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We develop an 18-item self-report measure of receptiveness to opposing views. Studies 1a and 1b present the four-factor scale and report measures of internal, convergent, and discriminant validity. In study 2, more receptive individuals chose to consume proportionally more information from U.S. senators representing the opposing party than from their own party. In study 3, more receptive individuals reported less mind wandering when viewing a speech with which they disagreed, relative to one with which they agreed. In study 4, more receptive individuals evaluated supporting and opposing policy arguments more impartially. In study 5, we find that voters who opposed Donald Trump but reported being more receptive at the time of the election were more likely to watch the inauguration, evaluate the content of the inauguration speech in a more even-handed manner, and select a more balanced portfolio of news outlets for later consumption than their less receptive counterparts. We discuss the scale as a tool to investigate the role of receptiveness for conflict, decision making, and collaboration.This paper was accepted by Elke Weber, judgment and decision making.
+AB  - We develop an 18-item self-report measure of receptiveness to opposing views. Studies 1a and 1b present the four-factor scale and report measures of internal, convergent, and discriminant validity. In study 2, more receptive individuals chose to consume proportionally more information from U.S. senators representing the opposing party than from their own party. In study 3, more receptive individuals reported less mind wandering when viewing a speech with which they disagreed, relative to one with which they agreed. In study 4, more receptive individuals evaluated supporting and opposing policy arguments more impartially. In study 5, we find that voters who opposed Donald Trump but reported being more receptive at the time of the election were more likely to watch the inauguration, evaluate the content of the inauguration speech in a more even-handed manner, and select a more balanced portfolio of news outlets for later consumption than their less receptive counterparts. We discuss the scale as a tool to investigate the role of receptiveness for conflict, decision making, and collaboration.This paper was accepted by Elke Weber, judgment and decision making.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3362
+UR  - https://doi.org/10.1287/mnsc.2019.3362
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bad Greenwashing, Good Greenwashing: Corporate Social Responsibility and Information Transparency
+AU  - Wu, Yue
+AU  - Zhang, Kaifu
+AU  - Xie, Jinhong
+Y1  - 2020/01/07
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3340
+DO  - 10.1287/mnsc.2019.3340
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3095
+EP  - 3112
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - With the growing popularity of corporate social responsibility (CSR), critics point out that firms tend to focus on salient CSR activities while slacking off on the unobservable ones, using CSR as a marketing gimmick. Firms? emphasis on observable aspects and negligence of the unobservable aspects are often labeled as greenwashing. This paper develops a game-theoretic model of CSR investment, in which consumers are socially minded, but they can observe only a subset of CSR initiatives. Two types of firms are considered: those that are driven solely by profit maximization and those that are socially responsible, motivated not only by profit, but also by a genuine concern for the social good. Our analysis examines how information transparency affects a firm?s strategies and the social welfare, and we identify both positive and negative aspects of greenwashing. First, low transparency incentivizes a profit-driven firm to engage in greenwashing through observable investment. Greenwashing prevents consumers from making informed purchase decisions but raises overall CSR spending. Second, sufficiently high transparency eliminates greenwashing and can motivate a socially responsible firm to make extra observable investment under the threat of greenwashing on the part of a profit-driven firm. However, when transparency further increases, this extra investment diminishes. In addition, our paper studies the impacts of firms? budget constraint and consumers? bargaining power: Raising the budget and increasing consumers? bargaining power can both lead to an inferior social outcome.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - With the growing popularity of corporate social responsibility (CSR), critics point out that firms tend to focus on salient CSR activities while slacking off on the unobservable ones, using CSR as a marketing gimmick. Firms? emphasis on observable aspects and negligence of the unobservable aspects are often labeled as greenwashing. This paper develops a game-theoretic model of CSR investment, in which consumers are socially minded, but they can observe only a subset of CSR initiatives. Two types of firms are considered: those that are driven solely by profit maximization and those that are socially responsible, motivated not only by profit, but also by a genuine concern for the social good. Our analysis examines how information transparency affects a firm?s strategies and the social welfare, and we identify both positive and negative aspects of greenwashing. First, low transparency incentivizes a profit-driven firm to engage in greenwashing through observable investment. Greenwashing prevents consumers from making informed purchase decisions but raises overall CSR spending. Second, sufficiently high transparency eliminates greenwashing and can motivate a socially responsible firm to make extra observable investment under the threat of greenwashing on the part of a profit-driven firm. However, when transparency further increases, this extra investment diminishes. In addition, our paper studies the impacts of firms? budget constraint and consumers? bargaining power: Raising the budget and increasing consumers? bargaining power can both lead to an inferior social outcome.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3340
+UR  - https://doi.org/10.1287/mnsc.2019.3340
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Sovereign Shocks
+AU  - Manzo, Gerardo
+AU  - Picca, Antonio
+Y1  - 2020/05/14
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3326
+DO  - 10.1287/mnsc.2019.3326
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3113
+EP  - 3132
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - This paper studies the dynamic propagation mechanisms of systemic risk shocks within and across macrosystems of governments and financial institutions. We propose a novel approach to identify relevant systemic shocks and to classify them into sovereign or banking categories. We find that sovereign shocks have a significant and persistent impact on the probability of a collective banking default. We also explore channels through which these shocks propagate and identify how sovereign fiscal fragility and banking exposure are relevant mechanisms of shock transmission.This paper was accepted by Gustavo Manso, finance.
+AB  - This paper studies the dynamic propagation mechanisms of systemic risk shocks within and across macrosystems of governments and financial institutions. We propose a novel approach to identify relevant systemic shocks and to classify them into sovereign or banking categories. We find that sovereign shocks have a significant and persistent impact on the probability of a collective banking default. We also explore channels through which these shocks propagate and identify how sovereign fiscal fragility and banking exposure are relevant mechanisms of shock transmission.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3326
+UR  - https://doi.org/10.1287/mnsc.2019.3326
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Are Online Job Postings Informative to Investors?
+AU  - Gutiérrez, Elizabeth
+AU  - Lourie, Ben
+AU  - Nekrasov, Alexander
+AU  - Shevlin, Terry
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3450
+DO  - 10.1287/mnsc.2019.3450
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3133
+EP  - 3141
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - Human capital is a key factor in value creation in the modern corporation. Yet the disclosure of investment in human capital is scant. We propose that a company?s online job postings are disclosures made outside of the investor-relations channel that contain forward-looking information that could be informative to investors about future growth. We find that changes in the number of job postings are positively associated with changes in future performance and that this relation is stronger when postings likely represent growth rather than replacement. Consistent with job postings providing new information to the market, investors react positively to changes in the number of job postings. The market reaction to postings is stronger when firms are likely to be hiring for growth rather than replacement and for firms with low labor intensity (and therefore high marginal productivity of labor).This paper was accepted by Brian Bushee, accounting.
+AB  - Human capital is a key factor in value creation in the modern corporation. Yet the disclosure of investment in human capital is scant. We propose that a company?s online job postings are disclosures made outside of the investor-relations channel that contain forward-looking information that could be informative to investors about future growth. We find that changes in the number of job postings are positively associated with changes in future performance and that this relation is stronger when postings likely represent growth rather than replacement. Consistent with job postings providing new information to the market, investors react positively to changes in the number of job postings. The market reaction to postings is stronger when firms are likely to be hiring for growth rather than replacement and for firms with low labor intensity (and therefore high marginal productivity of labor).This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3450
+UR  - https://doi.org/10.1287/mnsc.2019.3450
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - That Could Have Been Me: Director Deaths, CEO Mortality Salience, and Corporate Prosocial Behavior
+AU  - Chen, Guoli
+AU  - Crossland, Craig
+AU  - Huang, Sterling
+Y1  - 2019/11/11
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3348
+DO  - 10.1287/mnsc.2019.3348
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3142
+EP  - 3161
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - Mortality salience?the awareness of the inevitability of death?is often traumatic. However, it can also be associated with a range of positive, self-transcendent cognitive responses, such as a greater desire to help others, contribute to society, and make a more meaningful contribution in one?s life and career. In this study, we provide evidence of a link between chief executive officer (CEO) mortality salience?triggered by the death of a director at the same firm?and a subsequent increase in firm-level prosocial behavior or corporate social responsibility (CSR). We further show that this core relationship is amplified in situations where the death of the director is likely to have been especially salient (i.e., the director was appointed within the CEO?s tenure, or the death was sudden/expected). In supplementary analyses, we find suggestive evidence of increased CEO prosociality in other professional domains as well as evidence that prosociality seems to be preferentially directed toward ingroups.This paper was accepted by Olav Sorenson, organizations.
+AB  - Mortality salience?the awareness of the inevitability of death?is often traumatic. However, it can also be associated with a range of positive, self-transcendent cognitive responses, such as a greater desire to help others, contribute to society, and make a more meaningful contribution in one?s life and career. In this study, we provide evidence of a link between chief executive officer (CEO) mortality salience?triggered by the death of a director at the same firm?and a subsequent increase in firm-level prosocial behavior or corporate social responsibility (CSR). We further show that this core relationship is amplified in situations where the death of the director is likely to have been especially salient (i.e., the director was appointed within the CEO?s tenure, or the death was sudden/expected). In supplementary analyses, we find suggestive evidence of increased CEO prosociality in other professional domains as well as evidence that prosociality seems to be preferentially directed toward ingroups.This paper was accepted by Olav Sorenson, organizations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3348
+UR  - https://doi.org/10.1287/mnsc.2019.3348
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Preserving Bidder Privacy in Assignment Auctions: Design and Measurement
+AU  - Liu, De
+AU  - Bagh, Adib
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3349
+DO  - 10.1287/mnsc.2019.3349
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3162
+EP  - 3182
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - Motivated by bidders? interests in concealing their private information in auctions, we propose an ascending clock auction for unit-demand assignment problems that economizes on bidder information revelation, together with a new general-purpose measure of information revelation. Our auction uses an iterative partial reporting design such that for a given set of prices, not all bidders are required to report their demands, and when they are, they reveal a single preferred item at a time instead of all. Our design can better preserve bidder privacy while maintaining several good properties: sincere bidding is an ex post Nash equilibrium, ending prices are path independent, and efficiency is achieved if the auction starts with the auctioneer?s reservation values. Our measurement of information revelation is based on Shannon?s entropy and can be used to compare a wide variety of auction and nonauction mechanisms. We propose a hybrid quasi?Monte Carlo procedure for computing this measure. Our numerical simulations show that our auction consistently outperforms a full-reporting benchmark with up to 18% less entropy reduction and scales to problems of over 100,000 variables.This paper was accepted by Chris Forman, information systems.
+AB  - Motivated by bidders? interests in concealing their private information in auctions, we propose an ascending clock auction for unit-demand assignment problems that economizes on bidder information revelation, together with a new general-purpose measure of information revelation. Our auction uses an iterative partial reporting design such that for a given set of prices, not all bidders are required to report their demands, and when they are, they reveal a single preferred item at a time instead of all. Our design can better preserve bidder privacy while maintaining several good properties: sincere bidding is an ex post Nash equilibrium, ending prices are path independent, and efficiency is achieved if the auction starts with the auctioneer?s reservation values. Our measurement of information revelation is based on Shannon?s entropy and can be used to compare a wide variety of auction and nonauction mechanisms. We propose a hybrid quasi?Monte Carlo procedure for computing this measure. Our numerical simulations show that our auction consistently outperforms a full-reporting benchmark with up to 18% less entropy reduction and scales to problems of over 100,000 variables.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3349
+UR  - https://doi.org/10.1287/mnsc.2019.3349
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Prudential Regulation
+AU  - Subramanian, Ajay
+AU  - Yang, Baozhong
+Y1  - 2019/08/16
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3333
+DO  - 10.1287/mnsc.2019.3333
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3183
+EP  - 3210
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We analyze the design and impact of bank regulation using a dynamic structural framework. The optimal regulatory policy combines a target capital requirement, the mitigation of underinvestment, an intervention capital requirement to control inefficient risk taking, and recapitalization of distressed banks. The optimal target and intervention capital requirements from our structural estimation are consistent with the substantially higher capital requirements proposed in Basel III and together achieve most of the regulatory benefits by alleviating underinvestment and asset substitution. They are interdependent and respond differently to banks? asset characteristics, thereby suggesting that regulatory policies should be carefully tuned to the economic environment.This paper was accepted by Kay Giesecke, finance.
+AB  - We analyze the design and impact of bank regulation using a dynamic structural framework. The optimal regulatory policy combines a target capital requirement, the mitigation of underinvestment, an intervention capital requirement to control inefficient risk taking, and recapitalization of distressed banks. The optimal target and intervention capital requirements from our structural estimation are consistent with the substantially higher capital requirements proposed in Basel III and together achieve most of the regulatory benefits by alleviating underinvestment and asset substitution. They are interdependent and respond differently to banks? asset characteristics, thereby suggesting that regulatory policies should be carefully tuned to the economic environment.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3333
+UR  - https://doi.org/10.1287/mnsc.2019.3333
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Effects of a Government’s Subsidy Program: Accessibility Beyond Affordability
+AU  - Xiao, Ping
+AU  - Xiao, Ruli
+AU  - Liang, Yitian (Sky)
+AU  - Chen, Xinlei (Jack)
+AU  - Lu, Wei
+Y1  - 2019/12/10
+PY  - 2019
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3334
+DO  - 10.1287/mnsc.2019.3334
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3211
+EP  - 3233
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - Rural consumers may face not only the challenge of affordability but also the problem of limited accessibility. Can a government?s subsidy program effectively address these issues? This paper examines the impact of a large-scale subsidy program, ?Household electrical appliances going to the countryside,? offered by the Chinese government. The government regulation imposes a price subsidy combined with a price ceiling on products in the program. We consider two effects of the subsidy: the retail price is lowered to make the product more affordable to consumers, and manufacturers are encouraged to expand their distribution coverage to make products more accessible to consumers. We build a dynamic model of oligopoly to study how firms adjust their distribution coverage. Conditional on the model estimates, we evaluate the program?s effects on social welfare, consumer surplus, and firms? market performance and marketing channel decisions through counterfactual analyses. We find that the subsidy program increases social welfare by CNY 0.209 billion, as a result of a subsidy expense of CNY 0.236 billion. When breaking down the impact, we find it increases consumer surplus by CNY 0.184 billion (50%), manufacturers? profits by CNY 0.125 billion (53%), and manufacturers? payoffs by CNY 2.5 million (17%). Specifically, 14% (13.2%) of the consumer surplus (firm profit) increases are from changes in distribution coverage, and the rest is from the subsidy (price changes). The program?s return of investment (i.e., social welfare minus subsidy expense), which is negative, however, could be improved by applying a relatively lower subsidy rate.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - Rural consumers may face not only the challenge of affordability but also the problem of limited accessibility. Can a government?s subsidy program effectively address these issues? This paper examines the impact of a large-scale subsidy program, ?Household electrical appliances going to the countryside,? offered by the Chinese government. The government regulation imposes a price subsidy combined with a price ceiling on products in the program. We consider two effects of the subsidy: the retail price is lowered to make the product more affordable to consumers, and manufacturers are encouraged to expand their distribution coverage to make products more accessible to consumers. We build a dynamic model of oligopoly to study how firms adjust their distribution coverage. Conditional on the model estimates, we evaluate the program?s effects on social welfare, consumer surplus, and firms? market performance and marketing channel decisions through counterfactual analyses. We find that the subsidy program increases social welfare by CNY 0.209 billion, as a result of a subsidy expense of CNY 0.236 billion. When breaking down the impact, we find it increases consumer surplus by CNY 0.184 billion (50%), manufacturers? profits by CNY 0.125 billion (53%), and manufacturers? payoffs by CNY 2.5 million (17%). Specifically, 14% (13.2%) of the consumer surplus (firm profit) increases are from changes in distribution coverage, and the rest is from the subsidy (price changes). The program?s return of investment (i.e., social welfare minus subsidy expense), which is negative, however, could be improved by applying a relatively lower subsidy rate.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3334
+UR  - https://doi.org/10.1287/mnsc.2019.3334
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Creating Platforms by Hosting Rivals
+AU  - Hagiu, Andrei
+AU  - Jullien, Bruno
+AU  - Wright, Julian
+Y1  - 2020/01/24
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3356
+DO  - 10.1287/mnsc.2019.3356
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3234
+EP  - 3248
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We explore conditions under which a multiproduct firm can profitably turn itself into a platform by ?hosting rivals,? that is, by inviting rivals to sell products or services on top of its core product. Hosting eliminates the additional shopping costs to consumers of buying a specialist rival?s competing version of the multiproduct firm?s noncore product. On the one hand, this makes it easier for the rival to compete on the noncore product. On the other hand, hosting turns the rival from a pure competitor into a complementor: the value added by its product now helps raise consumer demand for the multiproduct firm?s core product. As a result, hosting can be both unilaterally profitable for the multiproduct firm and jointly profitable for both firms.This paper was accepted by Joshua Gans, business strategy.
+AB  - We explore conditions under which a multiproduct firm can profitably turn itself into a platform by ?hosting rivals,? that is, by inviting rivals to sell products or services on top of its core product. Hosting eliminates the additional shopping costs to consumers of buying a specialist rival?s competing version of the multiproduct firm?s noncore product. On the one hand, this makes it easier for the rival to compete on the noncore product. On the other hand, hosting turns the rival from a pure competitor into a complementor: the value added by its product now helps raise consumer demand for the multiproduct firm?s core product. As a result, hosting can be both unilaterally profitable for the multiproduct firm and jointly profitable for both firms.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3356
+UR  - https://doi.org/10.1287/mnsc.2019.3356
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Social Structures and Reputation in Expert Review Systems
+AU  - Chung, Kevin
+AU  - Kim, Keehyung
+AU  - Lim, Noah
+Y1  - 2020/01/23
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3347
+DO  - 10.1287/mnsc.2019.3347
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3249
+EP  - 3276
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - We model an expert review system where two producers competing for market share each are evaluated by two raters. Employing economics experiments, the paper examines how the rater?s incentive to provide objective feedback can be distorted in the presence of social ties and different penalty structures for assigning unobjective ratings. The results reject the self-interested model. We find that raters assign more biased ratings to help the producer they know compete, and this distortion is exacerbated when the reputation cost for rating unobjectively is lowered. Counterintuitively, when both of the raters know the same producer, the likelihood of biased ratings drops significantly. To explain the empirical regularities, we develop a behavioral economics model and show that the rater?s utility function should account not only for social preferences toward the producer, but also the rater?s psychological aversion toward favoring a producer more than the other rater. Our findings demonstrate that it is critical for policymakers to be cognizant of the nonpecuniary factors that can influence behavior in expert review systems.This paper was accepted by John List, behavioral economics.
+AB  - We model an expert review system where two producers competing for market share each are evaluated by two raters. Employing economics experiments, the paper examines how the rater?s incentive to provide objective feedback can be distorted in the presence of social ties and different penalty structures for assigning unobjective ratings. The results reject the self-interested model. We find that raters assign more biased ratings to help the producer they know compete, and this distortion is exacerbated when the reputation cost for rating unobjectively is lowered. Counterintuitively, when both of the raters know the same producer, the likelihood of biased ratings drops significantly. To explain the empirical regularities, we develop a behavioral economics model and show that the rater?s utility function should account not only for social preferences toward the producer, but also the rater?s psychological aversion toward favoring a producer more than the other rater. Our findings demonstrate that it is critical for policymakers to be cognizant of the nonpecuniary factors that can influence behavior in expert review systems.This paper was accepted by John List, behavioral economics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3347
+UR  - https://doi.org/10.1287/mnsc.2019.3347
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bank Integration and the Market for Corporate Control: Evidence from Cross-State Acquisitions
+AU  - John, Kose
+AU  - Qi, Qianru
+AU  - Wang, Jing
+Y1  - 2020/05/28
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2019.3329
+DO  - 10.1287/mnsc.2019.3329
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3277
+EP  - 3294
+VL  - 66
+IS  - 7
+PB  - INFORMS
+N2  - Using the staggered and reciprocal passage of interstate bank deregulation as an exogenous variation in the degree of bank integration, we investigate how and why bank integration influences the market for corporate control for nonfinancial firms. We posit that bank integration affects acquisitions either through reducing the information asymmetry between acquirers and targets or through increasing credit supply. Our evidence is more consistent with the former channel. Specifically, we document that (1) cross-state acquisitions are more likely to occur between reciprocally deregulated states, and (2) firms are more likely taken over by out-of-state acquirers after deregulation; this effect is stronger for a target who borrows from an out-of-state bank, whose local bank is acquired by an out-of-state bank, and who is informationally more opaque. Announcement returns for acquirers of out-of-state (particularly private) targets increase after deregulation, consistent with better identification of higher-valued targets by acquirers after deregulation.This paper was accepted by Tomasz Piskorski, finance.
+AB  - Using the staggered and reciprocal passage of interstate bank deregulation as an exogenous variation in the degree of bank integration, we investigate how and why bank integration influences the market for corporate control for nonfinancial firms. We posit that bank integration affects acquisitions either through reducing the information asymmetry between acquirers and targets or through increasing credit supply. Our evidence is more consistent with the former channel. Specifically, we document that (1) cross-state acquisitions are more likely to occur between reciprocally deregulated states, and (2) firms are more likely taken over by out-of-state acquirers after deregulation; this effect is stronger for a target who borrows from an out-of-state bank, whose local bank is acquired by an out-of-state bank, and who is informationally more opaque. Announcement returns for acquirers of out-of-state (particularly private) targets increase after deregulation, consistent with better identification of higher-valued targets by acquirers after deregulation.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3329
+UR  - https://doi.org/10.1287/mnsc.2019.3329
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1287/mnsc.2020.eb.v66n7
+DO  - 10.1287/mnsc.2020.eb.v66n7
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 66
+IS  - 7
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.eb.v66n7
+UR  - https://doi.org/10.1287/mnsc.2020.eb.v66n7
+Y2  - 2024/03/29
+ER  - 

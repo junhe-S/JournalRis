@@ -1,0 +1,155 @@
+TY  - JOUR
+T1  - VAR forecasting under misspecification
+AU  - Schorfheide, Frank
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - 99
+EP  - 136
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001514
+KW  - Forecasting
+KW  - Loss function estimation
+KW  - Model selection
+AB  - The paper considers multi-step forecasting of a stationary vector process under a quadratic loss function with a collection of finite-order vector autoregressions (VAR). Under severe misspecification it is preferable to use the multi-step loss function also for parameter estimation. We propose a modification to Shibata's (Ann. Statist. 8 (1980) 147) final prediction error criterion to jointly choose the VAR lag order and one of two predictors: the maximum likelihood estimator plug-in predictor or the loss function estimator plug-in predictor. A Monte Carlo experiment illustrates the theoretical results and documents the empirical performance of the selection criterion.
+ER  - 
+
+TY  - JOUR
+T1  - Quasi-maximum likelihood estimation for conditional quantiles
+AU  - Komunjer, Ivana
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - 137
+EP  - 164
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001526
+KW  - Tick-exponential family
+KW  - Minimax representation
+KW  - QMLE
+KW  - Conditional quantiles
+KW  - Asymptotic distribution
+KW  - Misspecification
+AB  - In this paper, we construct a new class of estimators for conditional quantiles in possibly misspecified nonlinear models with time series data. Proposed estimators belong to the family of quasi-maximum likelihood estimators (QMLEs) and are based on a new family of densities which we call ‘tick-exponential’. A well-known member of the tick-exponential family is the asymmetric Laplace density, and the corresponding QMLE reduces to the Koenker and Bassett's (Econometrica 46 (1978) 33) nonlinear quantile regression estimator. We derive primitive conditions under which the tick-exponential QMLEs are consistent and asymptotically normally distributed with an asymptotic covariance matrix that accounts for possible conditional quantile model misspecification and which can be consistently estimated by using the tick-exponential scores and Hessian matrix. Despite its non-differentiability, the tick-exponential quasi-likelihood is easy to maximize by using a ‘minimax’ representation not seen in the earlier work on conditional quantile estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap inference in systems of single equation error correction models
+AU  - Herwartz, Helmut
+AU  - Neumann, Michael H.
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - 165
+EP  - 193
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001538
+KW  - Error correction models
+KW  - Panel cointegration analysis
+KW  - Wild bootstrap
+AB  - We analyze OLS-based tests of long-run relationships, weak exogeneity and short-run dynamics in conditional error correction models. Unweighted sums of single equation test statistics are used for hypothesis testing in pooled systems. When model errors are (conditionally) heteroskedastic tests of weak exogeneity and short run dynamics are affected by nuisance parameters. Similarly, on the pooled level the advocated test statistics are no longer pivotal in presence of cross-sectional error correlation. We prove that the wild bootstrap provides asymptotically valid critical values under both conditional heteroskedasticity and cross-sectional error correlation. A Monte-Carlo study reveals that in small samples the bootstrap outperforms first-order asymptotic approximations in terms of the empirical size even if the asymptotic distribution of the test statistic does not depend on nuisance parameters. Opposite to feasible GLS methods the approach does not require any estimate of cross-sectional correlation and copes with time-varying patterns of contemporaneous error correlation.
+ER  - 
+
+TY  - JOUR
+T1  - IFC - Inside Front Cover - Editorial Board
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - CO2
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(05)00111-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001119
+ER  - 
+
+TY  - JOUR
+T1  - Robust efficient method of moments
+AU  - Ortelli, Claudio
+AU  - Trojani, Fabio
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - 69
+EP  - 97
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001502
+KW  - Efficient method of moments
+KW  - Indirect inference
+KW  - Influence function
+KW  - Robust estimation
+KW  - Robust statistics
+AB  - This paper focuses on the robust efficient method of moments (REMM) estimation of a general parametric stationary process and proposes a broad framework for constructing REMM statistics in this context. This extends the application field of robust statistics to very general time series settings, including situations where the structural and the auxiliary models in the efficient method of moments (EMM) estimating equations are different, models with latent nonlinear dynamics, and models where no closed form expressions for the robust pseudoscore of the given EMM auxiliary model are available. We characterize the local robustness properties of EMM estimators for time series by computing the corresponding influence functions and propose two versions of a REMM estimator with bounded influence function. Two algorithms by which the two versions of a REMM estimator can be implemented are presented. We then show by Monte Carlo simulation that our REMM estimators are very successful in controlling for the asymptotic bias under model misspecification while maintaining a high efficiency under the ideal structural model.
+ER  - 
+
+TY  - JOUR
+T1  - Combining estimators to improve structural model estimation and inference under quadratic loss
+AU  - Mittelhammer, Ron C.
+AU  - Judge, George G.
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - 1
+EP  - 29
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001484
+KW  - Combined estimators
+KW  - Quadratic loss
+KW  - Semiparametric estimation
+KW  - Data dependent shrinkage
+KW  - Instrumental variables
+AB  - Asymptotically, semi parametric estimators of the parameters in linear structural models have the same sampling properties. In finite samples the sampling properties of these estimators vary and large biases may result for sample sizes often found in practice. With a goal of improving asymptotic risk performance and finite sample efficiency properties, we investigate the idea of combining correlated structural equation estimators with different finite and asymptotic sampling characteristics. Based on a quadratic loss measure, we present evidence that the finite sample performance of the resulting combination estimator can be notably superior to that of a leading traditional moment based estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Impact factors
+AU  - Omtzigt, Pieter
+AU  - Paruolo, Paolo
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - 31
+EP  - 68
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001496
+KW  - Sensitivity
+KW  - Forecasting
+KW  - Cointegration
+KW  - I(1)
+KW  - I(2)
+KW  - Dynamic multipliers
+KW  - (Generalized) Impulse Responses
+KW  - VAR
+AB  - In this paper we discuss sensitivity of forecasts with respect to the information set considered in prediction; a sensitivity measure called impact factor, IF, is defined. This notion is specialized to the case of VAR processes integrated of order 0, 1 and 2. For stationary VARs this measure corresponds to the sum of the impulse response coefficients. For integrated VAR systems, the IF has a direct interpretation in terms of long-run forecasts. Various applications of this concept are reviewed; they include questions of policy effectiveness and of forecast uncertainty due to data revisions. A unified approach to inference on the IF is given, showing under what circumstances standard asymptotic inference can be conducted also in systems integrated of order 1 and 2. It is shown how the results reported here can be used to calculate similar sensitivity measures for models with a simultaneity structure.
+ER  - 
+
+TY  - JOUR
+T1  - Erratum
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 1
+SP  - I
+PY  - 2005
+DA  - 2005/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(05)00119-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001193
+ER  - 

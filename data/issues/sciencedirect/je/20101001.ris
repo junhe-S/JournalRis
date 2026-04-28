@@ -1,0 +1,280 @@
+TY  - JOUR
+T1  - Regression models with mixed sampling frequencies
+AU  - Andreou, Elena
+AU  - Ghysels, Eric
+AU  - Kourtellos, Andros
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 246
+EP  - 261
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000072
+KW  - High frequency data
+KW  - Temporal aggregation
+AB  - We study regression models that involve data sampled at different frequencies. We derive the asymptotic properties of the NLS estimators of such regression models and compare them with the LS estimators of a traditional model that involves aggregating or equally weighting data to estimate a model at the same sampling frequency. In addition we propose new tests to examine the null hypothesis of equal weights in aggregating time series in a regression model. We explore the above theoretical aspects and verify them via an extensive Monte Carlo simulation study and an empirical application.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding aggregate crime regressions
+AU  - Durlauf, Steven N.
+AU  - Navarro, Salvador
+AU  - Rivers, David A.
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 306
+EP  - 317
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000060
+KW  - Crime regressions
+KW  - Deterrence
+KW  - Capital punishment
+AB  - This paper provides a general description of the relationship between individual decision problems and aggregate crime regressions. The analysis is designed to elucidate the behavioral and statistical assumptions that are implicit in the use of aggregate crime regressions for both the analysis of crime determinants as well in counterfactual policy evaluation. We apply our general arguments to the question of the deterrent effect of capital punishment and show how alternative assumptions affect estimates of the deterrent effect.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrapping I(1) data
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 280
+EP  - 284
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000138
+KW  - Asymptotic theory
+KW  - Block bootstrap
+KW  - Bootstrap
+KW  - Brownian motion
+KW  - Continuous path bootstrap
+KW  - Embedding
+KW  - Unit root
+AB  - A functional law is given for an I(1) sample data version of the continuous-path block bootstrap of Paparoditis and Politis (2001a). The results provide an alternative demonstration that continuous-path block bootstrap unit root tests are consistent under the null.
+ER  - 
+
+TY  - JOUR
+T1  - Smoothing local-to-moderate unit root theory
+AU  - Phillips, Peter C.B.
+AU  - Magdalinos, Tassos
+AU  - Giraitis, Liudas
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 274
+EP  - 279
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000126
+KW  - Edgeworth expansion
+KW  - Local to unity
+KW  - Moderate deviations
+KW  - Unit root distribution
+AB  - A limit theory is established for autoregressive time series that smooths the transition between local and moderate deviations from unity and provides a transitional form that links conventional unit root distributions and the standard normal. Edgeworth expansions of the limit theory are given. These expansions show that the limit theory that holds for values of the autoregressive coefficient that are closer to stationarity than local (i.e. deviations of the form ρ=1+cn, where n is the sample size and c<0) holds up to the second order. Similar expansions around the limiting Cauchy density are provided for the mildly explosive case.
+ER  - 
+
+TY  - JOUR
+T1  - Akaike-type criteria and the reliability of inference: Model selection versus statistical model specification
+AU  - Spanos, Aris
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 204
+EP  - 220
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761000014X
+KW  - Akaike Information Criterion
+KW  - 
+KW  - 
+KW  - 
+KW  - 
+KW  - Model selection
+KW  - Model specification
+KW  - Statistical adequacy
+KW  - Curve-fitting
+KW  - Mathematical approximation theory
+KW  - Simplicity
+KW  - Least-squares
+KW  - Gauss linear model
+KW  - Linear regression model
+KW  - 
+KW  - Mis-specification testing
+KW  - Respecification
+KW  - Double-use of data
+KW  - Infinite regress and circularity
+KW  - Pre-test bias
+KW  - Model averaging
+KW  - Reliability of inference
+AB  - Since the 1990s, the Akaike Information Criterion (AIC) and its various modifications/extensions, including BIC, have found wide applicability in econometrics as objective procedures that can be used to select parsimonious statistical models. The aim of this paper is to argue that these model selection procedures invariably give rise to unreliable inferences, primarily because their choice within a prespecified family of models (a) assumes away the problem of model validation, and (b) ignores the relevant error probabilities. This paper argues for a return to the original statistical model specification problem, as envisaged by Fisher (1922), where the task is understood as one of selecting a statistical model in such a way as to render the particular data a truly typical realization of the stochastic process specified by the model in question. The key to addressing this problem is to replace trading goodness-of-fit against parsimony with statistical adequacy as the sole criterion for when a fitted model accounts for the regularities in the data.
+ER  - 
+
+TY  - JOUR
+T1  - Applications of subsampling, hybrid, and size-correction methods
+AU  - Andrews, Donald W.K.
+AU  - Guggenberger, Patrik
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 285
+EP  - 305
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000059
+KW  - Asymptotic size
+KW  - Finite-sample size
+KW  - Hybrid test
+KW  - Instrumental variable
+KW  - Over-rejection
+KW  - Parameter near boundary
+KW  - Size correction
+KW  - Subsampling confidence interval
+KW  - Subsampling test
+KW  - Weak instrument
+AB  - This paper analyzes the properties of subsampling, hybrid subsampling, and size-correction methods in two non-regular models. The latter two procedures are introduced in Andrews and Guggenberger (2009a). The models are non-regular in the sense that the test statistics of interest exhibit a discontinuity in their limit distribution as a function of a parameter in the model. The first model is a linear instrumental variables (IV) model with possibly weak IVs estimated using two-stage least squares (2SLS). In this case, the discontinuity occurs when the concentration parameter is zero. The second model is a linear regression model in which the parameter of interest may be near a boundary. In this case, the discontinuity occurs when the parameter is on the boundary. The paper shows that in the IV model one-sided and equal-tailed two-sided subsampling tests and confidence intervals (CIs) based on the 2SLS t statistic do not have correct asymptotic size. This holds for both fully- and partially-studentized t statistics. But, subsampling procedures based on the partially-studentized t statistic can be size-corrected. On the other hand, symmetric two-sided subsampling tests and CIs are shown to have (essentially) correct asymptotic size when based on a partially-studentized t statistic. Furthermore, all types of hybrid subsampling tests and CIs are shown to have correct asymptotic size in this model. The above results are consistent with “impossibility” results of Dufour (1997) because subsampling and hybrid subsampling CIs are shown to have infinite length with positive probability. Subsampling CIs for a parameter that may be near a lower boundary are shown to have incorrect asymptotic size for upper one-sided and equal-tailed and symmetric two-sided CIs. Again, size-correction is possible. In this model as well, all types of hybrid subsampling CIs are found to have correct asymptotic size.
+ER  - 
+
+TY  - JOUR
+T1  - The Bierens test for certain nonstationary models
+AU  - Kasparis, Ioannis
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 221
+EP  - 230
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000114
+KW  - Bierens test
+KW  - Consistent test
+KW  - Functional form misspecification
+KW  - Integrable models
+KW  - Local time
+KW  - Nonlinear cointegration
+KW  - Test of functional form
+KW  - Predictability of stock returns
+KW  - Unit root
+AB  - We adapt the Bierens (1990) test to the I-regular models of Park and Phillips (2001). Bierens (1990) defines the test hypothesis in terms of a conditional moment condition. Under the null hypothesis, the moment condition holds with probability one. The probability measure used is that induced by the variables in the model, that are assumed to be strictly stationary. Our framework is nonstationary and this approach is not always applicable. We show that the Lebesgue measure can be used instead in a meaningful way. The resultant test is consistent against all I-regular alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - IFC
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00162-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001624
+ER  - 
+
+TY  - JOUR
+T1  - A low-dimension portmanteau test for non-linearity
+AU  - Castle, Jennifer L.
+AU  - Hendry, David F.
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 231
+EP  - 245
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000096
+KW  - Functional form
+KW  - Portmanteau test
+KW  - Non-linearity
+KW  - Principal components
+KW  - Collinearity
+AB  - A new test for non-linearity in the conditional mean is proposed using functions of the principal components of regressors. The test extends the non-linearity tests based on Kolmogorov–Gabor polynomials (Thursby and Schmidt, 1977, Tsay, 1986, Teräsvirta et al., 1993), but circumvents problems of high dimensionality, is equivariant to collinearity, and includes exponential functions, so is a portmanteau test with power against a wide range of possible alternatives. A Monte Carlo analysis compares the performance of the test to the optimal infeasible test and to alternative tests. The relative performance of the test is encouraging: the test has the appropriate size and has high power in many situations.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial introduction
+AU  - Durlauf, Steven
+AU  - Spanos, Aris
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 175
+EP  - 176
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000151
+ER  - 
+
+TY  - JOUR
+T1  - Testing the correlated random coefficient model
+AU  - Heckman, James J.
+AU  - Schmierer, Daniel
+AU  - Urzua, Sergio
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 177
+EP  - 203
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000084
+KW  - Correlated random coefficient
+KW  - Testing
+KW  - Instrumental variables
+KW  - Power of tests based on IV
+AB  - The recent literature on instrumental variables (IV) features models in which agents sort into treatment status on the basis of gains from treatment as well as on baseline-pretreatment levels. Components of the gains known to the agents and acted on by them may not be known by the observing economist. Such models are called correlated random coefficient models. Sorting on unobserved components of gains complicates the interpretation of what IV estimates. This paper examines testable implications of the hypothesis that agents do not sort into treatment based on gains. In it, we develop new tests to gauge the empirical relevance of the correlated random coefficient model to examine whether the additional complications associated with it are required. We examine the power of the proposed tests. We derive a new representation of the variance of the instrumental variable estimator for the correlated random coefficient model. We apply the methods in this paper to the prototypical empirical problem of estimating the return to schooling and find evidence of sorting into schooling based on unobserved components of gains.
+ER  - 
+
+TY  - JOUR
+T1  - Some identification problems in the cointegrated vector autoregressive model
+AU  - Johansen, Søren
+JO  - Journal of Econometrics
+VL  - 158
+IS  - 2
+SP  - 262
+EP  - 273
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Specification Analysis in Honor of Phoebus J. Dhrymes
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000102
+KW  - Identification
+KW  - Cointegration
+KW  - Common trends
+KW  - Asymptotic distribution
+AB  - The paper analyses some identification problems in the cointegrated vector autoregressive model. A criteria for identification by linear restrictions on individual relations is given. The asymptotic distribution of the estimators of α and β is derived when they are identified by linear restrictions on β, and when they are identified by linear restrictions on α. It it shown that, in the latter case, a component of βˆ is asymptotically Gaussian. Finally we discuss identification of shocks by introducing the contemporaneous and permanent effect of a shock and the distinction between permanent and transitory shocks, which allows one to identify permanent shocks from the long-run variance and transitory shocks from the short-run variance.
+ER  - 

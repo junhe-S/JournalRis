@@ -1,0 +1,223 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Decision-Making at the Top
+AU  - Borsting, Jack R.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.341
+DO  - 10.1287/mnsc.28.4.341
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 341
+EP  - 351
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - The author's current decision-making environment is summarized. A short history of the Planning, Programming and Budgeting System is given and then the recent changes made by the Reagan Administration are discussed. Some remarks on analysis and decision-making at the top government levels are given.
+AB  - The author's current decision-making environment is summarized. A short history of the Planning, Programming and Budgeting System is given and then the recent changes made by the Reagan Administration are discussed. Some remarks on analysis and decision-making at the top government levels are given.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.341
+UR  - https://doi.org/10.1287/mnsc.28.4.341
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Markovian Decision Model for Deciding How Many Fire Companies to Dispatch
+AU  - Swersey, Arthur J.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.352
+DO  - 10.1287/mnsc.28.4.352
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 352
+EP  - 365
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - In deciding how many units to dispatch to an incoming alarm of unknown seventy the fire department is faced with a dilemma: If too few units are sent initially the extra units needed will be delayed; if too many units are sent, the extra units make a needless response and are temporarily unavailable for subsequent alarms. In this paper, we present a Markovian decision model for this problem. The model leads to a simple decision rule that considers three key factors: (1) the probability that the incoming alarm is serious (the greater the probability the more units dispatched); (2) the expected alarm rate in the area surrounding the alarm (the greater the alarm rate, the fewer units dispatched); and (3) the number of units available in the area surrounding the alarm (the more units available, the more units dispatched). We compare the decision rule to policies commonly in use and find that it results in significant improvements in response time to serious fires.
+AB  - In deciding how many units to dispatch to an incoming alarm of unknown seventy the fire department is faced with a dilemma: If too few units are sent initially the extra units needed will be delayed; if too many units are sent, the extra units make a needless response and are temporarily unavailable for subsequent alarms. In this paper, we present a Markovian decision model for this problem. The model leads to a simple decision rule that considers three key factors: (1) the probability that the incoming alarm is serious (the greater the probability the more units dispatched); (2) the expected alarm rate in the area surrounding the alarm (the greater the alarm rate, the fewer units dispatched); and (3) the number of units available in the area surrounding the alarm (the more units available, the more units dispatched). We compare the decision rule to policies commonly in use and find that it results in significant improvements in response time to serious fires.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.352
+UR  - https://doi.org/10.1287/mnsc.28.4.352
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - An Algorithm for the Initial Dispatch of Fire Companies
+AU  - Ignall, E.
+AU  - Carter, G.
+AU  - Rider, K.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.366
+DO  - 10.1287/mnsc.28.4.366
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 366
+EP  - 378
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - In response to an incoming fire alarm, someone must decide how many and which engine and ladder companies (firefighters and their apparatus) to dispatch to the scene. Traditional dispatching policies assume that all of the designated companies are available at the time the alarm is received. These policies do not consider the workload imposed on firefighters, and do not work well at the high alarm rates now characteristic of parts of large cities. Our procedure, designed for use in New York City's computed-aided Management Information and Control System, makes good initial dispatch decisions at all alarm rates. It uses response times to serious fires to measure performance and recognizes that the dispatcher has incomplete information about the seriousness of the incident when the decision is made. A simulation comparison of our procedure with the traditional policy was made using actual incidents from July 1972. Our procedure reduced the average second engine and second ladder response times to serious fires by 25 to 45 seconds, while keeping total workload essentially unchanged. This reduction, which is about 10?15% of the five and a half minutes obtained for the traditional policy, results primarily from our procedure's deciding how many to send based on historical information on the chance that an alarm from a given location at a given time of day is serious. For example, the fraction of fires in occupied structures getting an initial second engine rose from 65% with the traditional policy to 85% with our procedure, although both policies sent an initial second engine to the same fraction of all incidents. Our procedure also reduced the number of relocations of engine companies and ladder companies substantially. The approach we used should be valuable in the design of computer-aided dispatching systems in other cities. In particular, others may find it helpful to review the way in which the objective function is developed, the way particular aspects of the dispatch problem are treated, the provision of several parameters for tuning behavior, and features of the simulation testing.
+AB  - In response to an incoming fire alarm, someone must decide how many and which engine and ladder companies (firefighters and their apparatus) to dispatch to the scene. Traditional dispatching policies assume that all of the designated companies are available at the time the alarm is received. These policies do not consider the workload imposed on firefighters, and do not work well at the high alarm rates now characteristic of parts of large cities. Our procedure, designed for use in New York City's computed-aided Management Information and Control System, makes good initial dispatch decisions at all alarm rates. It uses response times to serious fires to measure performance and recognizes that the dispatcher has incomplete information about the seriousness of the incident when the decision is made. A simulation comparison of our procedure with the traditional policy was made using actual incidents from July 1972. Our procedure reduced the average second engine and second ladder response times to serious fires by 25 to 45 seconds, while keeping total workload essentially unchanged. This reduction, which is about 10?15% of the five and a half minutes obtained for the traditional policy, results primarily from our procedure's deciding how many to send based on historical information on the chance that an alarm from a given location at a given time of day is serious. For example, the fraction of fires in occupied structures getting an initial second engine rose from 65% with the traditional policy to 85% with our procedure, although both policies sent an initial second engine to the same fraction of all incidents. Our procedure also reduced the number of relocations of engine companies and ladder companies substantially. The approach we used should be valuable in the design of computer-aided dispatching systems in other cities. In particular, others may find it helpful to review the way in which the objective function is developed, the way particular aspects of the dispatch problem are treated, the provision of several parameters for tuning behavior, and features of the simulation testing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.366
+UR  - https://doi.org/10.1287/mnsc.28.4.366
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Toward Valid Measures of Public Sector Productivity: Performance Measures in Urban Transit
+AU  - Gleason, John M.
+AU  - Barnum, Darold T.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.379
+DO  - 10.1287/mnsc.28.4.379
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 379
+EP  - 386
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - In recent years, performance measurement has become the focus of attention in a variety of public sector fields. Unfortunately, too little has been done to develop valid operational definitions of performance, or to identify the weaknesses and biases inherent m certain types of performance measures. Thus, the potential exists for the inappropriate use of certain indicators in performance evaluations and decisions. One field in which there has been increasing effort to deal with performance problems is that of transit. Regardless, the nebulous nature of ?performance? has been all too apparent in this industry. The terms ?productivity,? ?efficiency,? and ?effectiveness? have been used synonymously in some instances, while in other cases ?efficiency? and ?effectiveness? have been considered to be different aspects of overall ?productivity.? This confusion is of major significance, because the use of performance measures in operations assessment, decision making, and resource allocation is increasing. Furthermore, since it increasingly is being urged that subsidy payments be linked to the performance of a transit system, and since subsidies now constitute over half of transit revenues, the performance measurement problem is particularly important. This paper examines weaknesses and biases inherent in commonly used measures of urban mass transit performance. It is shown that measures of efficiency, such as cost per passenger, are being incorrectly used as measures of effectiveness and that various traditional measures of efficiency, such as those which incorporate mileage, can be misleading when applied in decision making. Suggestions are made for developing valid performance indicators and for developing safeguards that will avoid present shortcomings.
+AB  - In recent years, performance measurement has become the focus of attention in a variety of public sector fields. Unfortunately, too little has been done to develop valid operational definitions of performance, or to identify the weaknesses and biases inherent m certain types of performance measures. Thus, the potential exists for the inappropriate use of certain indicators in performance evaluations and decisions. One field in which there has been increasing effort to deal with performance problems is that of transit. Regardless, the nebulous nature of ?performance? has been all too apparent in this industry. The terms ?productivity,? ?efficiency,? and ?effectiveness? have been used synonymously in some instances, while in other cases ?efficiency? and ?effectiveness? have been considered to be different aspects of overall ?productivity.? This confusion is of major significance, because the use of performance measures in operations assessment, decision making, and resource allocation is increasing. Furthermore, since it increasingly is being urged that subsidy payments be linked to the performance of a transit system, and since subsidies now constitute over half of transit revenues, the performance measurement problem is particularly important. This paper examines weaknesses and biases inherent in commonly used measures of urban mass transit performance. It is shown that measures of efficiency, such as cost per passenger, are being incorrectly used as measures of effectiveness and that various traditional measures of efficiency, such as those which incorporate mileage, can be misleading when applied in decision making. Suggestions are made for developing valid performance indicators and for developing safeguards that will avoid present shortcomings.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.379
+UR  - https://doi.org/10.1287/mnsc.28.4.379
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Inspector Fallibility on the Inspection Policy in Serial Production Systems
+AU  - Ballou, Donald P.
+AU  - Pazer, Harold L.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.387
+DO  - 10.1287/mnsc.28.4.387
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 387
+EP  - 399
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - Appropriate inspection is a significant component of production systems. In this paper a model is developed to determine the optimal placement of inspection stations within n-stage linear production systems. This model accommodates two types of inspector fallibility: ?predictable,? which implies that the error rates are known and constant, and ?erratic,? which requires a random variable to describe inspector performance. Cost per good unit accepted by the customer is used as the optimizing criterion. The cost-quality response surface is explored through a sequential sensitivity analysis. Our results indicate that under certain conditions the level of predictable inspector fallibility significantly impacts the number and placement of inspection stations as well as cost per good unit produced. The modeled systems, however, were quite insensitive to the variability of inspector performance. This production-inspection model provides management with information on the optimal number and placement of inspection stations for specific planned or existing serial production systems. It can also be used by management to explore various policy options, such as the cost implications of increasing the quality vs. the quantity of inspection stations. The data required by the model can be obtained at reasonable cost provided management is willing to estimate or determine judgementally certain of the variables.
+AB  - Appropriate inspection is a significant component of production systems. In this paper a model is developed to determine the optimal placement of inspection stations within n-stage linear production systems. This model accommodates two types of inspector fallibility: ?predictable,? which implies that the error rates are known and constant, and ?erratic,? which requires a random variable to describe inspector performance. Cost per good unit accepted by the customer is used as the optimizing criterion. The cost-quality response surface is explored through a sequential sensitivity analysis. Our results indicate that under certain conditions the level of predictable inspector fallibility significantly impacts the number and placement of inspection stations as well as cost per good unit produced. The modeled systems, however, were quite insensitive to the variability of inspector performance. This production-inspection model provides management with information on the optimal number and placement of inspection stations for specific planned or existing serial production systems. It can also be used by management to explore various policy options, such as the cost implications of increasing the quality vs. the quantity of inspection stations. The data required by the model can be obtained at reasonable cost provided management is willing to estimate or determine judgementally certain of the variables.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.387
+UR  - https://doi.org/10.1287/mnsc.28.4.387
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Application of Queueing Theory to Continuous Perishable Inventory Systems
+AU  - Graves, Stephen C.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.400
+DO  - 10.1287/mnsc.28.4.400
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 400
+EP  - 406
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - This paper develops two distinct models for studying inventory systems with continuous production and perishable items. The perishable items have a deterministic usable life after which they must be outdated. For each of the models, analytical expressions derived from queueing theory, are found for the steady-state distribution of system inventory. Knowledge of this steady-state behavior may be used for evaluation of system performance, and for consideration of alternatives for improving system performance. Both models assume that inventory is replenished by a continuous production process. The first model, assuming continuous inventory units, has Poisson demand requests with the size of each request distributed as an exponential random variable. The second model has Poisson demand requests with all demands being for a single unit. The analysis for both models exploits the similarity of the inventory system with a single-server queueing system.
+AB  - This paper develops two distinct models for studying inventory systems with continuous production and perishable items. The perishable items have a deterministic usable life after which they must be outdated. For each of the models, analytical expressions derived from queueing theory, are found for the steady-state distribution of system inventory. Knowledge of this steady-state behavior may be used for evaluation of system performance, and for consideration of alternatives for improving system performance. Both models assume that inventory is replenished by a continuous production process. The first model, assuming continuous inventory units, has Poisson demand requests with the size of each request distributed as an exponential random variable. The second model has Poisson demand requests with all demands being for a single unit. The analysis for both models exploits the similarity of the inventory system with a single-server queueing system.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.400
+UR  - https://doi.org/10.1287/mnsc.28.4.400
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Spacecraft for Multi-Floor Layout Planning
+AU  - Johnson, Roger V.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.407
+DO  - 10.1287/mnsc.28.4.407
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 407
+EP  - 417
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - A descriptive problem definition and a tested computerized heuristic solution procedure are offered for the problem of relative location of facilities in (or layout of) a multi-floor building. The problem definition and solution procedure overcome the problem of severe nonlinearity of inter-department movement times relative to distance, which enter the multi-floor problem because of the indirectness of routing, and because of different movement speeds compared with the single floor case. Both the definition and solution procedure are application-oriented, concentrating on practical aspects of multi-floor space allocation. Substantial savings in an implementation are reported. The procedure is particularly relevant to planning for an organization moving into a new multi-floor building. Additionally, the procedure can be used, without modification, for an organization spread over more than one building, and for single floor facilities. The possibility of alternative inter-floor routings is incorporated.
+AB  - A descriptive problem definition and a tested computerized heuristic solution procedure are offered for the problem of relative location of facilities in (or layout of) a multi-floor building. The problem definition and solution procedure overcome the problem of severe nonlinearity of inter-department movement times relative to distance, which enter the multi-floor problem because of the indirectness of routing, and because of different movement speeds compared with the single floor case. Both the definition and solution procedure are application-oriented, concentrating on practical aspects of multi-floor space allocation. Substantial savings in an implementation are reported. The procedure is particularly relevant to planning for an organization moving into a new multi-floor building. Additionally, the procedure can be used, without modification, for an organization spread over more than one building, and for single floor facilities. The possibility of alternative inter-floor routings is incorporated.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.407
+UR  - https://doi.org/10.1287/mnsc.28.4.407
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Model of Technology Selection by Cost Minimizing Producers
+AU  - Boyd, Dean W.
+AU  - Phillips, Robert L.
+AU  - Regulinski, Stephan G.
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.418
+DO  - 10.1287/mnsc.28.4.418
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 418
+EP  - 424
+VL  - 28
+IS  - 4
+PB  - INFORMS
+N2  - A set of microeconomic assumptions are presented that lead to a model of the technology choices made by producers of a homogenous energy product. Under these assumptions it is possible to model the technology selection decision as being made solely to minimize product cost. Since the cost of producing energy using a particular technology will be different for different producers, a number of technologies will be adopted in the market rather than a single, ?least-cost? technology.
+AB  - A set of microeconomic assumptions are presented that lead to a model of the technology choices made by producers of a homogenous energy product. Under these assumptions it is possible to model the technology selection decision as being made solely to minimize product cost. Since the cost of producing energy using a particular technology will be different for different producers, a number of technologies will be adopted in the market rather than a single, ?least-cost? technology.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.418
+UR  - https://doi.org/10.1287/mnsc.28.4.418
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - About Authors
+Y1  - 1982/04/01
+PY  - 1982
+DA  - 1982/04/01
+N1  - doi: 10.1287/mnsc.28.4.452
+DO  - 10.1287/mnsc.28.4.452
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 452
+EP  - 454
+VL  - 28
+IS  - 4
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.28.4.452
+UR  - https://doi.org/10.1287/mnsc.28.4.452
+Y2  - 2024/03/28
+ER  - 

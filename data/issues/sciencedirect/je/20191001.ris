@@ -1,0 +1,335 @@
+TY  - JOUR
+T1  - A moment-based notion of time dependence for functional time series
+AU  - Salish, Nazarii
+AU  - Gleim, Alexander
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 377
+EP  - 392
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300910
+KW  - Functional time series
+KW  - Time dependencies
+KW  - Dimension reduction
+KW  - Principal components
+KW  - Asymptotics
+AB  - This paper addresses the fundamental topic of time dependence for time series when data points are given as functions. We construct a notion of time dependence through the projections on the basis system extracted from the principal components of normalized sums. This allows us to adapt various scalar time series techniques to the functional data context. In particular, we define dependence based on the autocovariances and cumulants of the projections, covering short and long memory scenarios. This notion naturally applies to linear processes. We illustrate the applicability of this moment based approach through several statistical problems in functional time series: (i) investigating the consistency of the estimator of the functional principal components under short and long memory, (ii) estimating the long-run covariance function and (iii) testing for short memory against the long memory alternative.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - ii
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30176-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301769
+ER  - 
+
+TY  - JOUR
+T1  - Semi-parametric single-index panel data models with interactive fixed effects: Theory and practice
+AU  - Feng, Guohua
+AU  - Peng, Bin
+AU  - Su, Liangjun
+AU  - Yang, Thomas Tao
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 607
+EP  - 622
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301459
+KW  - Nonlinear panel data model
+KW  - Interactive fixed effects
+KW  - Orthogonal series method
+AB  - In this paper, we propose a single-index panel data model with unobserved multiple interactive fixed effects. This model has the advantages of being flexible and of being able to allow for common shocks and their heterogeneous impacts on cross sections, thus making it suitable for the investigation of many economic issues. The asymptotic theories are established accordingly. Our Monte Carlo simulations show that our methodology works well for large N and T cases. In our empirical application, we illustrate our model by analysing the returns to scale of large commercial banks in the U.S.
+ER  - 
+
+TY  - JOUR
+T1  - Accelerating score-driven time series models
+AU  - Blasques, F.
+AU  - Gorgi, P.
+AU  - Koopman, S.J.
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 359
+EP  - 376
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300557
+KW  - GARCH models
+KW  - Kullback–Leibler divergence
+KW  - Score-driven models
+KW  - S&P 500 stocks
+KW  - Time-varying parameters
+KW  - US inflation
+AB  - We propose a new class of score-driven time series models that allows for a more flexible weighting of score innovations for the filtering of time varying parameters. The parameter for the score innovation is made time-varying by means of an updating equation that accounts for the autocorrelations of past innovations. We provide the theoretical foundations for this acceleration method by showing optimality in terms of reducing Kullback–Leibler divergence. The empirical relevance of this accelerated score-driven updating method is illustrated in two empirical studies. First, we include acceleration in the generalized autoregressive conditional heteroskedasticity model. We adopt the new model to extract volatility from exchange rates and to analyze daily density forecasts of volatilities from all individual stock return series in the Standard & Poor’s 500 index. Second, we consider a score-driven acceleration for the time-varying mean and use this new model in a forecasting study for US inflation.
+ER  - 
+
+TY  - JOUR
+T1  - Non-separable models with high-dimensional data
+AU  - Su, Liangjun
+AU  - Ura, Takuya
+AU  - Zhang, Yichong
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 646
+EP  - 677
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301447
+KW  - Average treatment effect
+KW  - High dimension
+KW  - Least absolute shrinkage and selection operator (Lasso)
+KW  - Nonparametric quantile regression
+KW  - Nonseparable models
+KW  - Quantile treatment effect
+KW  - Unconditional average structural derivative
+AB  - This paper studies non-separable models with a continuous treatment when the dimension of the control variables is high and potentially larger than the effective sample size. We propose a three-step estimation procedure to estimate the average, quantile, and marginal treatment effects. In the first stage we estimate the conditional mean, distribution, and density objects by penalized local least squares, penalized local maximum likelihood estimation, and numerical differentiation, respectively, where control variables are selected via a localized method of L1-penalization at each value of the continuous treatment. In the second stage we estimate the average and marginal distribution of the potential outcome via the plug-in principle. In the third stage, we estimate the quantile and marginal treatment effects by inverting the estimated distribution function and using the local linear regression, respectively. We study the asymptotic properties of these estimators and propose a weighted-bootstrap method for inference. Using simulated and real datasets, we demonstrate that the proposed estimators perform well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Exact computation of Censored Least Absolute Deviations estimator
+AU  - Bilias, Yannis
+AU  - Florios, Kostas
+AU  - Skouras, Spyros
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 584
+EP  - 606
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.016
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930140X
+KW  - CLAD estimator
+KW  - Censored regression models
+KW  - Mixed Integer Programming
+KW  - Disjunctive constraints
+AB  - We show that exact computation of the censored least absolute deviations (CLAD) estimator proposed by Powell (1984) may be achieved by formulating the estimator as a linear Mixed Integer Programming (MIP) problem with disjunctive constraints. We apply our approach to three previously studied datasets and find that widely used approximate optimization algorithms can lead to erroneous conclusions. Extensive simulations confirm that MIP-based computation using available solvers is effective for datasets typically encountered in econometric applications and that, despite the proliferation of competitors, CLAD remains a useful estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic theory and wild bootstrap inference with clustered errors
+AU  - Djogbenou, Antoine A.
+AU  - MacKinnon, James G.
+AU  - Nielsen, Morten Ørregaard
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 393
+EP  - 412
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300909
+KW  - Clustered data
+KW  - Cluster-robust variance estimator
+KW  - Edgeworth expansion
+KW  - Inference
+KW  - Wild cluster bootstrap
+AB  - We study inference based on cluster-robust variance estimators for regression models with clustered errors, focusing on the wild cluster bootstrap. We state conditions under which asymptotic and bootstrap tests and confidence intervals are asymptotically valid. These conditions put limits on the rates at which the cluster sizes can increase as the number of clusters tends to infinity. We also derive Edgeworth expansions for the asymptotic and bootstrap test statistics. Simulation experiments illustrate the theoretical results and suggest that alternative variants of the wild cluster bootstrap may perform quite differently. The Edgeworth expansions explain the overrejection of asymptotic tests and shed light on the choice of auxiliary distribution and whether to use restricted or unrestricted estimates in the bootstrap data-generating process.
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variables and the sign of the average treatment effect
+AU  - Machado, Cecilia
+AU  - Shaikh, Azeem M.
+AU  - Vytlacil, Edward J.
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 522
+EP  - 555
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301381
+KW  - Average treatment effect
+KW  - Endogeneity
+KW  - Instrumental variables
+KW  - Union of moment inequalities
+KW  - Bootstrap
+KW  - Uniform validity
+KW  - Multiple testing
+KW  - Familywise error rate
+KW  - Gatekeeping
+AB  - This paper considers identification and inference about the sign of the average effect of a binary endogenous regressor (or treatment) on a binary outcome of interest when a binary instrument is available. In this setting, the average effect of the endogenous regressor on the outcome is sometimes referred to as the average treatment effect (ATE). We consider four different sets of assumptions: instrument exogeneity, instrument exogeneity and monotonicity on the outcome equation, instrument exogeneity and monotonicity on the equation for the endogenous regressor, or instrument exogeneity and monotonicity on both the outcome equation and the equation for the endogenous regressor. For each of these sets of conditions, we characterize when (i) the distribution of the observed data is inconsistent with the assumptions and (ii) the distribution of the observed data is consistent with the assumptions and the sign of ATE is identified. A distinguishing feature of our results is that they are stated in terms of a reduced form parameter from the population regression of the outcome on the instrument. In particular, we find that the reduced form parameter being far enough, but not too far, from zero, implies that the distribution of the observed data is consistent with our assumptions and the sign of ATE is identified, while the reduced form parameter being too far from zero implies that the distribution of the observed data is inconsistent with our assumptions. For each set of restrictions, we also develop methods for simultaneous inference about the consistency of the distribution of the observed data with our restrictions and the sign of the ATE when the distribution of the observed data is consistent with our restrictions. We show that our inference procedures are valid uniformly over a large class of possible distributions for the observed data that include distributions where the instrument is arbitrarily “weak.” A novel feature of the methodology is that the null hypotheses involve unions of moment inequalities.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of conditional quantile functions in the presence of irrelevant covariates
+AU  - Chen, Xirong
+AU  - Li, Degui
+AU  - Li, Qi
+AU  - Li, Zheng
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 433
+EP  - 450
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301034
+KW  - Cross-validation
+KW  - Discrete regressors
+KW  - Irrelevant covariates
+KW  - Nonparametric quantile regression
+KW  - Screening
+AB  - Allowing for the existence of irrelevant covariates, we study the problem of estimating a conditional quantile function nonparametrically with mixed discrete and continuous data. We estimate the conditional quantile regression function using the check-function-based kernel method and suggest a data-driven cross-validation (CV) approach to simultaneously determine the optimal smoothing parameters and remove the irrelevant covariates. When the number of covariates is large, we first use a screening method to remove the irrelevant covariates and then apply the CV criterion to those that survive the screening procedure. Simulations and an empirical application demonstrate the usefulness of the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - Panel data analysis with heterogeneous dynamics
+AU  - Okui, Ryo
+AU  - Yanagi, Takahide
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 451
+EP  - 475
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.036
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301022
+KW  - Panel data
+KW  - Heterogeneity
+KW  - Functional central limit theorem
+KW  - Jackknife
+KW  - Bootstrap
+AB  - This paper proposes a model-free approach to analyze panel data with heterogeneous dynamic structures across observational units. We first compute the sample mean, autocovariances, and autocorrelations for each unit, and then estimate the parameters of interest based on their empirical distributions. We then investigate the asymptotic properties of our estimators using double asymptotics and propose split-panel jackknife bias correction and inference based on the cross-sectional bootstrap. We illustrate the usefulness of our procedures by studying the deviation dynamics of the law of one price. Monte Carlo simulations confirm that the proposed bias correction is effective and yields valid inference in small samples.
+ER  - 
+
+TY  - JOUR
+T1  - On asymptotic size distortions in the random coefficients logit model
+AU  - Ketz, Philipp
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 413
+EP  - 432
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301010
+KW  - Asymptotic size
+KW  - Boundary
+KW  - Lack of first-order identification
+KW  - Size distortion
+KW  - Random coefficients logit model
+AB  - We show that, in the random coefficients logit model, standard inference procedures can suffer from asymptotic size distortions. The problem arises due to boundary issues and is aggravated by the standard parameterization of the model, in terms of standard deviations. For example, in case of a single random coefficient, the asymptotic size of the nominal 95% confidence interval obtained by inverting the two-sided t-test for the standard deviation equals 83.65%. In seeming contradiction, we also show that standard error estimates for the estimator of the standard deviation can be unreasonably large. This problem is alleviated if the model is reparameterized in terms of variances. Furthermore, a numerical evaluation of a conjectured lower bound suggests that the asymptotic size of the nominal 95% confidence interval obtained by inverting the two-sided t-test for variances (means) is within 0.5 percentage points of the nominal level as long as there are no more than five (four) random coefficients and as long as an optimal weighting matrix is employed.
+ER  - 
+
+TY  - JOUR
+T1  - Indirect inference with a non-smooth criterion function
+AU  - Frazier, David T.
+AU  - Oka, Tatsushi
+AU  - Zhu, Dan
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 623
+EP  - 645
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301435
+KW  - Simulation estimators
+KW  - Indirect inference
+KW  - Discontinuous objective functions
+KW  - Dynamic discrete choice models
+AB  - Indirect inference requires simulating realizations of endogenous variables from the model under study. When the endogenous variables are discontinuous functions of the model parameters, the resulting indirect inference criterion function is discontinuous and does not permit the use of derivative-based optimization routines. Using a change of variables technique, we propose a novel simulation algorithm that alleviates the discontinuities inherent in such indirect inference criterion functions, and permits the application of derivative-based optimization routines to estimate the unknown model parameters. Unlike competing approaches, this approach does not rely on kernel smoothing or bandwidth parameters. Several Monte Carlo examples that have featured in the literature on indirect inference with discontinuous outcomes illustrate the approach, and demonstrate the superior performance of this approach over existing alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - A diagnostic criterion for approximate factor structure
+AU  - Gagliardini, Patrick
+AU  - Ossola, Elisa
+AU  - Scaillet, Olivier
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 503
+EP  - 521
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930137X
+KW  - Large panel
+KW  - Approximate factor model
+KW  - Asset pricing
+KW  - Model selection
+KW  - Interactive fixed effects
+AB  - We build a simple diagnostic criterion for approximate factor structure in large panel datasets. Given observable factors, the criterion checks whether the errors are weakly cross-sectionally correlated or share at least one unobservable common factor (interactive effects). A general version allows to determine the number of omitted common factors also for time-varying structures. The empirical analysis runs on ten thousand US stocks from January 1968 to December 2011. For monthly returns, we select time-invariant specifications with at least four financial factors, and a scaled three-factor specification. For quarterly returns, we cannot select macroeconomic models without the market factor.
+ER  - 
+
+TY  - JOUR
+T1  - The realized empirical distribution function of stochastic variance with application to goodness-of-fit testing
+AU  - Christensen, Kim
+AU  - Thyrsgaard, Martin
+AU  - Veliyev, Bezirgen
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 556
+EP  - 583
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301411
+KW  - Empirical processes
+KW  - Goodness-of-fit
+KW  - High-frequency data
+KW  - Microstructure noise
+KW  - Pre-averaging
+KW  - Realized variance
+KW  - Stochastic volatility
+AB  - We propose a nonparametric estimator of the empirical distribution function (EDF) of the latent spot variance of the log-price of a financial asset. We show that over a fixed time span our realized EDF (or REDF) – inferred from noisy high-frequency data – is consistent as the mesh of the observation grid goes to zero. In a double-asymptotic framework, with time also increasing to infinity, the REDF converges to the cumulative distribution function of volatility, if it exists. We exploit these results to construct some new goodness-of-fit tests for stochastic volatility models. In a Monte Carlo study, the REDF is found to be accurate over the entire support of volatility. This leads to goodness-of-fit tests that are both correctly sized and relatively powerful against common alternatives. In an empirical application, we recover the REDF from stock market high-frequency data. We inspect the goodness-of-fit of several two-parameter marginal distributions that are inherent in standard stochastic volatility models. The inverse Gaussian offers the best overall description of random equity variation, but the fit is less than perfect. This suggests an extra parameter (as available in, e.g., the generalized inverse Gaussian) is required to model stochastic variance.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and wavelet estimation of weighted ATE under discontinuous and kink incentive assignment mechanisms
+AU  - Chen, Heng
+AU  - Fan, Yanqin
+JO  - Journal of Econometrics
+VL  - 212
+IS  - 2
+SP  - 476
+EP  - 502
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301289
+KW  - Regression discontinuity design
+KW  - Regression kink design
+KW  - Finite-sample variance
+KW  - Wavelet transformation
+AB  - This paper studies identification, estimation, and inference of a weighted average treatment effect (W-ATE) parameter in a class of switching regime models, where the agent’s selection of treatment is affected by either a discontinuous or kink incentive assignment mechanism and some unobservable characteristic. For each assignment mechanism, we (i) establish identification and propose a local wavelet estimator of the W-ATE; (ii) establish asymptotic properties of the local wavelet estimator including optimal convergence rate and asymptotic normality; and (iii) investigate the finite sample performance of the local wavelet estimators and compare them with local polynomial estimators via an extensive simulation study. We also propose an identification-robust wavelet estimator of the W-ATE.
+ER  - 

@@ -1,0 +1,439 @@
+
+
+
+
+
+TY  - JOUR
+T1  - A Long-Range Selection and Timing Analysis System for Facility Location: Implementation
+AU  - Meyer, Carl F.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.261
+DO  - 10.1287/mnsc.20.3.261
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 261
+EP  - 273
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - This paper describes the application of a mixed-integer program to the problem of providing strategic decisions for the selection and timing of a set of proposed facilities to serve distinct geographic regions. Solutions to this selection-timing process are obtained by the system presented so as to maximize the ratio of total net revenues to total assets. In addition, a series of optimal integer solutions to a large-scale problem is included with discussion and analysis.
+AB  - This paper describes the application of a mixed-integer program to the problem of providing strategic decisions for the selection and timing of a set of proposed facilities to serve distinct geographic regions. Solutions to this selection-timing process are obtained by the system presented so as to maximize the ratio of total net revenues to total assets. In addition, a series of optimal integer solutions to a large-scale problem is included with discussion and analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.261
+UR  - https://doi.org/10.1287/mnsc.20.3.261
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Bayesian Sequential Multi-Decision Problem
+AU  - Noe, N. H.
+AU  - Ehrenfeld, S.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.274
+DO  - 10.1287/mnsc.20.3.274
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 274
+EP  - 281
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - A formal Bayesian framework is provided for the problem where some possibly contaminated data item can be collected periodically and where additional information about each period's true data value can be obtained at some cost. A decision is made each period with loss depending on the true data value and the decision. The special case with normal distributions and quadratic loss is formulated as a dynamic programming problem, and results include proof that the optimum policy structure calls for a more expensive form of data collection initially with less expensive data collection after the process parameters are better known.
+AB  - A formal Bayesian framework is provided for the problem where some possibly contaminated data item can be collected periodically and where additional information about each period's true data value can be obtained at some cost. A decision is made each period with loss depending on the true data value and the decision. The special case with normal distributions and quadratic loss is formulated as a dynamic programming problem, and results include proof that the optimum policy structure calls for a more expensive form of data collection initially with less expensive data collection after the process parameters are better known.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.274
+UR  - https://doi.org/10.1287/mnsc.20.3.274
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Nested Decomposition and Multi-Stage Linear Programs
+AU  - Glassey, C. Roger
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.282
+DO  - 10.1287/mnsc.20.3.282
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 282
+EP  - 292
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - A multi-stage linear program is defined with linking variables that connect consecutive stages. Optimality conditions for the composite problem are partitioned into local and linking conditions. When the Dantzig-Wolfe decomposition scheme is applied with the first stage as the master, the subproblem is also a MLP with one' less stage. The same decomposition is then applied to the subproblem, giving rise to a nested decomposition scheme, in which each stage acts as a master for the following stage and a subproblem for the preceding. Optimizing a single stage problem results in satisfying the ?local? optimality conditions. A very general rule is given for selecting the next subproblem to optimize, and finite convergence to a solution satisfying all linking conditions is demonstrated. Procedures for extracting the optimal primal solution at the end of the main algorithm and for initialization are given. Particular rules for selecting the next subproblem and for generating additional proposal vectors are discussed. Finally, it is shown how a variety of problems may be restructured as multi-stage linear programs to which this algorithm may be applied, and some computational experience is reported.
+AB  - A multi-stage linear program is defined with linking variables that connect consecutive stages. Optimality conditions for the composite problem are partitioned into local and linking conditions. When the Dantzig-Wolfe decomposition scheme is applied with the first stage as the master, the subproblem is also a MLP with one' less stage. The same decomposition is then applied to the subproblem, giving rise to a nested decomposition scheme, in which each stage acts as a master for the following stage and a subproblem for the preceding. Optimizing a single stage problem results in satisfying the ?local? optimality conditions. A very general rule is given for selecting the next subproblem to optimize, and finite convergence to a solution satisfying all linking conditions is demonstrated. Procedures for extracting the optimal primal solution at the end of the main algorithm and for initialization are given. Particular rules for selecting the next subproblem and for generating additional proposal vectors are discussed. Finally, it is shown how a variety of problems may be restructured as multi-stage linear programs to which this algorithm may be applied, and some computational experience is reported.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.282
+UR  - https://doi.org/10.1287/mnsc.20.3.282
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Economic Evaluation of Job Shop Dispatching Rules
+AU  - Jones, C. H.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.293
+DO  - 10.1287/mnsc.20.3.293
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 293
+EP  - 307
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - This paper attempts to provide an economic framework in which various job shop dispatching rules can be evaluated. It shows the relative advantage of shortest processing time rules in gaining increased utilization of the shop facilities and the relative advantage of minimum slack rules in meeting promise commitments. The paper graphs each of four kinds of costs (costs of long promises, costs of missed promises, costs of idle resources, and costs of carrying inventory) against two independent variables, the amount of work-in-process inventory and the tightness of the promises. It demonstrates the kind of cost structure which causes a minimum slack rule to be superior to a shortest processing time rule.
+AB  - This paper attempts to provide an economic framework in which various job shop dispatching rules can be evaluated. It shows the relative advantage of shortest processing time rules in gaining increased utilization of the shop facilities and the relative advantage of minimum slack rules in meeting promise commitments. The paper graphs each of four kinds of costs (costs of long promises, costs of missed promises, costs of idle resources, and costs of carrying inventory) against two independent variables, the amount of work-in-process inventory and the tightness of the promises. It demonstrates the kind of cost structure which causes a minimum slack rule to be superior to a shortest processing time rule.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.293
+UR  - https://doi.org/10.1287/mnsc.20.3.293
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Estimation of Nonstationary Transition Probabilities
+AU  - Dent, Warren
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.308
+DO  - 10.1287/mnsc.20.3.308
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 308
+EP  - 312
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - The estimation of an underlying Markov process of constant transition probabilities which explains aggregated market share movements over time has received much attention from theorists and applied researchers. Summaries of the work to date are given in [Dent, Warren T., Richard Ballintine. 1971. A review of the estimation of transition probabilities in Markov chains. Australian J. Agricultural Econom. 15 and Lee, T. C., G. G. Judge, A. Zellner. 1970. Estimating the Parameters of the Markov Probability Model from Aggregate Time Series Data. North-Holland, Amsterdam.]. The problem of estimating a nonstationary process however has not been solved, although Hallberg [Hallberg, M. C. 1969. Projecting the size distribution of agricultural firms?an application to a Markov process with non-stationary transition probabilities. J. Farm Econom. 51.] has looked at the problem in the case of micro data, that is, when movements between periods are observable. Harary, Lipstein, and Styan [Harary, F., B. Lipstein, G. P. H. Styan. 1970. A matrix approach to nonstationary chains. Oper. Res. 18.] have investigated nonstationary chain properties in the case of aggregated data but have not looked at estimation. We present an attempt to formalize Harary, Lipstein, and Styan's model and to develop appropriate solution techniques for estimation of its unknown parameters. An iterative quadratic programming procedure is suggested.
+AB  - The estimation of an underlying Markov process of constant transition probabilities which explains aggregated market share movements over time has received much attention from theorists and applied researchers. Summaries of the work to date are given in [Dent, Warren T., Richard Ballintine. 1971. A review of the estimation of transition probabilities in Markov chains. Australian J. Agricultural Econom. 15 and Lee, T. C., G. G. Judge, A. Zellner. 1970. Estimating the Parameters of the Markov Probability Model from Aggregate Time Series Data. North-Holland, Amsterdam.]. The problem of estimating a nonstationary process however has not been solved, although Hallberg [Hallberg, M. C. 1969. Projecting the size distribution of agricultural firms?an application to a Markov process with non-stationary transition probabilities. J. Farm Econom. 51.] has looked at the problem in the case of micro data, that is, when movements between periods are observable. Harary, Lipstein, and Styan [Harary, F., B. Lipstein, G. P. H. Styan. 1970. A matrix approach to nonstationary chains. Oper. Res. 18.] have investigated nonstationary chain properties in the case of aggregated data but have not looked at estimation. We present an attempt to formalize Harary, Lipstein, and Styan's model and to develop appropriate solution techniques for estimation of its unknown parameters. An iterative quadratic programming procedure is suggested.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.308
+UR  - https://doi.org/10.1287/mnsc.20.3.308
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Bounded Production and Inventory Models with Piecewise Concave Costs
+AU  - Love, Stephen F.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.313
+DO  - 10.1287/mnsc.20.3.313
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 313
+EP  - 318
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - An n period single-product single-facility model with known requirements and separable piecewise concave production and storage costs is considered. It is shown using network flow concepts that for arbitrary bounds on production and inventory in each period there is an optimal schedule such that if, for any two periods, production does not equal zero or its upper or lower bound, then the inventory level in some intermediate period equals zero or its upper or lower bound. An algorithm for searching such schedules for an optimal one is given where the bounds on production are ?∞, 0 or ∞. A more efficient algorithm assumes further that inventory bounds satisfy ?exact requirements.?
+AB  - An n period single-product single-facility model with known requirements and separable piecewise concave production and storage costs is considered. It is shown using network flow concepts that for arbitrary bounds on production and inventory in each period there is an optimal schedule such that if, for any two periods, production does not equal zero or its upper or lower bound, then the inventory level in some intermediate period equals zero or its upper or lower bound. An algorithm for searching such schedules for an optimal one is given where the bounds on production are ?∞, 0 or ∞. A more efficient algorithm assumes further that inventory bounds satisfy ?exact requirements.?
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.313
+UR  - https://doi.org/10.1287/mnsc.20.3.313
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Extension to Modigliani and Hohn's Planning Horizons Results
+AU  - Lieber, Zvi
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.319
+DO  - 10.1287/mnsc.20.3.319
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 319
+EP  - 330
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - This paper deals with the planning horizon issues of the problem of finding the optimal production schedule over a [0, T] period, for a product having: (1) deterministic demand, (2) strictly convex production costs, and (3) linear holding and back-logging costs. A set of solutions defined as extrapolations is defined, and a property of nonintersection of extrapolations is proved. Using this property uniqueness and planning horizon theorems are proved. It is shown that the reason for the planning horizons is the jump (discontinuity) in the derivative of the inventory cost function when inventory is zero. In addition, the paper deals with the following question: What kinds of changes (variations) in demand may occur such that the optimal solution (production schedule) on some time interval will remain unchanged? This question is associated with the following one: What information is needed about demand in order that the optimal solution on some time interval may be found?
+AB  - This paper deals with the planning horizon issues of the problem of finding the optimal production schedule over a [0, T] period, for a product having: (1) deterministic demand, (2) strictly convex production costs, and (3) linear holding and back-logging costs. A set of solutions defined as extrapolations is defined, and a property of nonintersection of extrapolations is proved. Using this property uniqueness and planning horizon theorems are proved. It is shown that the reason for the planning horizons is the jump (discontinuity) in the derivative of the inventory cost function when inventory is zero. In addition, the paper deals with the following question: What kinds of changes (variations) in demand may occur such that the optimal solution (production schedule) on some time interval will remain unchanged? This question is associated with the following one: What information is needed about demand in order that the optimal solution on some time interval may be found?
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.319
+UR  - https://doi.org/10.1287/mnsc.20.3.319
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Assignment Problem Based on Ordinal Preferences
+AU  - Gardenfors, Peter
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.331
+DO  - 10.1287/mnsc.20.3.331
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 331
+EP  - 340
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - The assignment problem, a well-known variant of which is the problem of optimal staff distribution, has formerly been treated as a problem of linear optimization starting with numerical evaluations of the assignments. In this paper the assignment problem is regarded as a problem of social choice, where preference orders are used as the sole initial information. A formal definition of an assignment function is given and various conditions for such functions are suggested. Some conditions are found to be incompatible. Several reasonable assignment functions are examined with respect to which conditions they fulfil. Finally, some problems, related to the assignment problem, are informally discussed.
+AB  - The assignment problem, a well-known variant of which is the problem of optimal staff distribution, has formerly been treated as a problem of linear optimization starting with numerical evaluations of the assignments. In this paper the assignment problem is regarded as a problem of social choice, where preference orders are used as the sole initial information. A formal definition of an assignment function is given and various conditions for such functions are suggested. Some conditions are found to be incompatible. Several reasonable assignment functions are examined with respect to which conditions they fulfil. Finally, some problems, related to the assignment problem, are informally discussed.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.331
+UR  - https://doi.org/10.1287/mnsc.20.3.331
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Computer Simulation for Mixed-Model Production Lines
+AU  - Macaskill, J. L. C.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.341
+DO  - 10.1287/mnsc.20.3.341
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 341
+EP  - 348
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - This paper presents results of research into computer simulation of a mixed-model assembly line. The problem to be solved is described and the mathematical model of the line is presented. Algorithms that provide acceptable sequences of product models in various conditions are given, and results of simulator experiments are analysed and discussed. In the final section of the paper conclusions are drawn from the results of the work, and the general usefulness of simulation for assembly work is considered.
+AB  - This paper presents results of research into computer simulation of a mixed-model assembly line. The problem to be solved is described and the mathematical model of the line is presented. Algorithms that provide acceptable sequences of product models in various conditions are given, and results of simulator experiments are analysed and discussed. In the final section of the paper conclusions are drawn from the results of the work, and the general usefulness of simulation for assembly work is considered.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.341
+UR  - https://doi.org/10.1287/mnsc.20.3.341
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimization of Deterministic, Multiproduct Inventory Model with Joint Replenishment
+AU  - Mariani, Luigi
+AU  - Nicoletti, Bernardo
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.349
+DO  - 10.1287/mnsc.20.3.349
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 349
+EP  - 362
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - A deterministic, continuous time, nonstationary, multiproduct inventory model is formulated to find the number of joint replenishments, the order quantities, and the times at which orders should be placed which minimize the total cost over a finite time horizon. Both backlogging and no backlogging are considered. Conditions are given for the determination of the optimal policy, and their necessity and sufficiency are discussed. The case in which the costs are quadratic is dealt in detail and numerical examples are given.
+AB  - A deterministic, continuous time, nonstationary, multiproduct inventory model is formulated to find the number of joint replenishments, the order quantities, and the times at which orders should be placed which minimize the total cost over a finite time horizon. Both backlogging and no backlogging are considered. Conditions are given for the determination of the optimal policy, and their necessity and sufficiency are discussed. The case in which the costs are quadratic is dealt in detail and numerical examples are given.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.349
+UR  - https://doi.org/10.1287/mnsc.20.3.349
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Statistical Analysis for Queueing Simulations
+AU  - Fishman, George S.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.363
+DO  - 10.1287/mnsc.20.3.363
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 363
+EP  - 369
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - This paper presents a method for estimating the variances of sample performance measures in queueing simulations, for removing the bias in these sample measures due to initial conditions and for deriving approximating confidence intervals for the true performance measures. It also describes how a variance reduction can be achieved using the method when comparing performance measures for two queue disciplines. The approach requires only that every time the system passes through the empty and idle condition future behavior is independent of past behavior.
+AB  - This paper presents a method for estimating the variances of sample performance measures in queueing simulations, for removing the bias in these sample measures due to initial conditions and for deriving approximating confidence intervals for the true performance measures. It also describes how a variance reduction can be achieved using the method when comparing performance measures for two queue disciplines. The approach requires only that every time the system passes through the empty and idle condition future behavior is independent of past behavior.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.363
+UR  - https://doi.org/10.1287/mnsc.20.3.363
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Simple Expression for the Shapley Value in a Special Case
+AU  - Littlechild, S. C.
+AU  - Owen, G.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.370
+DO  - 10.1287/mnsc.20.3.370
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 370
+EP  - 372
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - We present a simple and easily calculated expression for the Shapley value whenever the characteristic function is a ?cost? function with the property that the cost of any subset of players is equal to the cost of the ?largest? player in that subset. It turns out that a simple rule previously proposed for calculating airport landing charges generates precisely the Shapley value for an appropriately defined game.
+AB  - We present a simple and easily calculated expression for the Shapley value whenever the characteristic function is a ?cost? function with the property that the cost of any subset of players is equal to the cost of the ?largest? player in that subset. It turns out that a simple rule previously proposed for calculating airport landing charges generates precisely the Shapley value for an appropriately defined game.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.370
+UR  - https://doi.org/10.1287/mnsc.20.3.370
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Regularity Conditions for a Class of Convex Programs
+AU  - Garstka, Stanley J.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.373
+DO  - 10.1287/mnsc.20.3.373
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 373
+EP  - 377
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - This paper develops regularity conditions for a class of convex programming problems (convex objective functions and linear constraints). The objective functions considered are lower semicontinuous and have bounded level sets. The constraint set may be unbounded. Results pertaining to the solvability, stability and dualizability of such programs are obtained. The results are then applied to a class of nonlinear stochastic programs with recourse.
+AB  - This paper develops regularity conditions for a class of convex programming problems (convex objective functions and linear constraints). The objective functions considered are lower semicontinuous and have bounded level sets. The constraint set may be unbounded. Results pertaining to the solvability, stability and dualizability of such programs are obtained. The results are then applied to a class of nonlinear stochastic programs with recourse.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.373
+UR  - https://doi.org/10.1287/mnsc.20.3.373
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Imperfect Inspection in a Multistage Production Process
+AU  - Hurst, E. Gerald
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.378
+DO  - 10.1287/mnsc.20.3.378
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 378
+EP  - 384
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - The probabilistic behavior of good and defective in-process units in a multistage production process is explored, under the assumption of imperfect inspection. For binomial processing and inspection, the joint distribution of the two state variables at each stage is shown to be the product of two nonindependent binomial distributions. Initial simplifying assumptions about inspection policy, processing losses, and additional information are relaxed, and the modified forms of the resultant joint binomial distributions are presented.
+AB  - The probabilistic behavior of good and defective in-process units in a multistage production process is explored, under the assumption of imperfect inspection. For binomial processing and inspection, the joint distribution of the two state variables at each stage is shown to be the product of two nonindependent binomial distributions. Initial simplifying assumptions about inspection policy, processing losses, and additional information are relaxed, and the modified forms of the resultant joint binomial distributions are presented.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.378
+UR  - https://doi.org/10.1287/mnsc.20.3.378
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Sequential Policies for Bank Money Management
+AU  - Pye, Gordon
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.385
+DO  - 10.1287/mnsc.20.3.385
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 385
+EP  - 395
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - Banks must hold an average deposit balance in the Federal Reserve Bank each week. Surplus or deficit balances may be traded on the Federal funds market. The rate on Fed funds behaves as a random variable over the week as does the size of the surplus or deficit to be offset. Incorporating both these sources of uncertainty, sequential minimax and expected utility maximizing strategies are derived for offsetting the surplus or deficit over the week.
+AB  - Banks must hold an average deposit balance in the Federal Reserve Bank each week. Surplus or deficit balances may be traded on the Federal funds market. The rate on Fed funds behaves as a random variable over the week as does the size of the surplus or deficit to be offset. Incorporating both these sources of uncertainty, sequential minimax and expected utility maximizing strategies are derived for offsetting the surplus or deficit over the week.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.385
+UR  - https://doi.org/10.1287/mnsc.20.3.385
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Profit Analyses and Sequential Bid Pricing Models
+AU  - Kortanek, K. O.
+AU  - Sodeni, J. V.
+AU  - Sodaro, D.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.396
+DO  - 10.1287/mnsc.20.3.396
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 396
+EP  - 417
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - A bid pricing strategy based upon opportunity costs is presented for the firm confronted with the problem of competitively pricing a sequence of sealed tenders for future undifferentiated but interrelated contract work. Each contract, if awarded, will require the expending of predetermined amounts of several restricted resources at a later time. A goal of the bidding strategy is to determine a price structure of the winning bids which maximizes the total contribution over direct costs associated with the time period of resource utilization. According to various levels of complexity of data, several models of the problem are developed together with optimal bid price rules. Each optimal rule involves scarce resource ?cost? charges for future opportunities and competitive advantages according to the general bid rule form: OPTIMAL BID PRICE = DIRECT COSTS + OPPORTUNITY COSTS + COMPETITIVE ADVANTAGE FEE. Experiences are also given of an adaptive and conditional implementation of the general bid rule for a major chemical manufacturer in a complex business area where sales orders are determined by competitive bidding.
+AB  - A bid pricing strategy based upon opportunity costs is presented for the firm confronted with the problem of competitively pricing a sequence of sealed tenders for future undifferentiated but interrelated contract work. Each contract, if awarded, will require the expending of predetermined amounts of several restricted resources at a later time. A goal of the bidding strategy is to determine a price structure of the winning bids which maximizes the total contribution over direct costs associated with the time period of resource utilization. According to various levels of complexity of data, several models of the problem are developed together with optimal bid price rules. Each optimal rule involves scarce resource ?cost? charges for future opportunities and competitive advantages according to the general bid rule form: OPTIMAL BID PRICE = DIRECT COSTS + OPPORTUNITY COSTS + COMPETITIVE ADVANTAGE FEE. Experiences are also given of an adaptive and conditional implementation of the general bid rule for a major chemical manufacturer in a complex business area where sales orders are determined by competitive bidding.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.396
+UR  - https://doi.org/10.1287/mnsc.20.3.396
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Note—On the Weber Problem with Rectangular Distance: A Comment
+AU  - Huriot, J. M.
+AU  - Perreur, J.
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.418
+DO  - 10.1287/mnsc.20.3.418
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 418
+EP  - 419
+VL  - 20
+IS  - 3
+PB  - INFORMS
+N2  - A comment about Watson-Gandy, C. D. T. 1972. A note on the centre of gravity in depot location. Management Sci. 18 (8, April) B 478?B 481.
+AB  - A comment about Watson-Gandy, C. D. T. 1972. A note on the centre of gravity in depot location. Management Sci. 18 (8, April) B 478?B 481.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.418
+UR  - https://doi.org/10.1287/mnsc.20.3.418
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Notes About Authors
+Y1  - 1973/11/01
+PY  - 1973
+DA  - 1973/11/01
+N1  - doi: 10.1287/mnsc.20.3.420
+DO  - 10.1287/mnsc.20.3.420
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 420
+EP  - 422
+VL  - 20
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.3.420
+UR  - https://doi.org/10.1287/mnsc.20.3.420
+Y2  - 2024/03/27
+ER  - 

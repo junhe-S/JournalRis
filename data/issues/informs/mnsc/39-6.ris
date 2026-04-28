@@ -1,0 +1,206 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Solving Airline Crew Scheduling Problems by Branch-and-Cut
+AU  - Hoffman, Karla L.
+AU  - Padberg, Manfred
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.657
+DO  - 10.1287/mnsc.39.6.657
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 657
+EP  - 682
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - The crew scheduling problem is one that has been studied almost continually for the past 40 years but all prior approaches have always approximated the problem of finding an optimal schedule for even the smallest of an airline's fleets. The problem is especially important today since costs for flying personnel of major U.S. carriers have grown and now often exceed $1.3 billion a year and are the second largest item (next to fuel cost) of the total operating cost of major U.S. carriers. Thus even small percentage savings amount to substantial dollar amounts. We present a branch-and-cut approach to solving to proven optimality large set partitioning problems arising within the airline industry. We first provide some background related to this important application and then describe the approach for solving representative problems in this problem class. The branch-and-cut solver generates cutting planes based on the underlying structure of the polytope defined by the convex hull of the feasible integer points and incorporates these cuts into a tree-search algorithm that uses automatic reformulation procedures, heuristics and linear programming technology to assist in the solution. Numerical experiments are reported for a sample of 68 large-scale real-world crew scheduling problems. These problems include both pure set partitioning problems and set partitioning problems with side constraints. These ?base constraints? represent contractual labor requirements and have heretofore not been represented explicitly in the construction of crew schedules thus making it impossible to provide any measure of how far the obtained solution was from optimality. An interesting result of obtaining less costly schedules is that the crews themselves are happier with the schedules because they spend more of their duty time flying than waiting on the ground.
+AB  - The crew scheduling problem is one that has been studied almost continually for the past 40 years but all prior approaches have always approximated the problem of finding an optimal schedule for even the smallest of an airline's fleets. The problem is especially important today since costs for flying personnel of major U.S. carriers have grown and now often exceed $1.3 billion a year and are the second largest item (next to fuel cost) of the total operating cost of major U.S. carriers. Thus even small percentage savings amount to substantial dollar amounts. We present a branch-and-cut approach to solving to proven optimality large set partitioning problems arising within the airline industry. We first provide some background related to this important application and then describe the approach for solving representative problems in this problem class. The branch-and-cut solver generates cutting planes based on the underlying structure of the polytope defined by the convex hull of the feasible integer points and incorporates these cuts into a tree-search algorithm that uses automatic reformulation procedures, heuristics and linear programming technology to assist in the solution. Numerical experiments are reported for a sample of 68 large-scale real-world crew scheduling problems. These problems include both pure set partitioning problems and set partitioning problems with side constraints. These ?base constraints? represent contractual labor requirements and have heretofore not been represented explicitly in the construction of crew schedules thus making it impossible to provide any measure of how far the obtained solution was from optimality. An interesting result of obtaining less costly schedules is that the crews themselves are happier with the schedules because they spend more of their duty time flying than waiting on the ground.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.657
+UR  - https://doi.org/10.1287/mnsc.39.6.657
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Mortgages and Markov Chains: A Simplified Evaluation Model
+AU  - Zipkin, Paul
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.683
+DO  - 10.1287/mnsc.39.6.683
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 683
+EP  - 691
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - This paper has two purposes. The first is purely expository: to introduce stochastic interest-rate models and security-evaluation methods in a simple mathematical setting. Specifically, we assume the uncertainties in the model are represented by a discrete-time, finite-state Markov chain. Second, using this framework, we present a relatively simple model for the evaluation of mortgage-backed securities.
+AB  - This paper has two purposes. The first is purely expository: to introduce stochastic interest-rate models and security-evaluation methods in a simple mathematical setting. Specifically, we assume the uncertainties in the model are represented by a discrete-time, finite-state Markov chain. Second, using this framework, we present a relatively simple model for the evaluation of mortgage-backed securities.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.683
+UR  - https://doi.org/10.1287/mnsc.39.6.683
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Valuation and Analysis of Collateralized Mortgage Obligations
+AU  - McConnell, John J.
+AU  - Singh, Manoj
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.692
+DO  - 10.1287/mnsc.39.6.692
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 692
+EP  - 709
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - This study develops a model for the valuation of Collateralized Mortgage Obligations (CMOs). The model is based on a two-factor model of the term structure of interest rates and embeds an empirically estimated mortgage prepayment function. The model is used to analyze various CMO tranches, including standard sequential pay fixed-rate tranches, Planned Amortization Class (PAC) tranches, Targeted Amortization Class (TAC) tranches, floating-rate tranches, Interest Only (IO) and Principal Only (PO) tranches, Z-bonds and Residuals. The results of this analysis illustrate the sensitivity of the various tranches to differences in CMO structure, changes in interest rates, the characteristics of the underlying collateral, and mortgage prepayments.
+AB  - This study develops a model for the valuation of Collateralized Mortgage Obligations (CMOs). The model is based on a two-factor model of the term structure of interest rates and embeds an empirically estimated mortgage prepayment function. The model is used to analyze various CMO tranches, including standard sequential pay fixed-rate tranches, Planned Amortization Class (PAC) tranches, Targeted Amortization Class (TAC) tranches, floating-rate tranches, Interest Only (IO) and Principal Only (PO) tranches, Z-bonds and Residuals. The results of this analysis illustrate the sensitivity of the various tranches to differences in CMO structure, changes in interest rates, the characteristics of the underlying collateral, and mortgage prepayments.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.692
+UR  - https://doi.org/10.1287/mnsc.39.6.692
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Power-of-Two Replenishment Strategies in Capacitated General Production/Distribution Networks
+AU  - Federgruen, A.
+AU  - Zheng, Yu-Sheng
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.710
+DO  - 10.1287/mnsc.39.6.710
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 710
+EP  - 727
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - In this paper we develop a model for a capacitated production/distribution network of general (but acyclic) topology with a general bill of materials, as considered in MRP (Material Requirement Planning) or DRP (Distribution Requirement Planning) systems. This model assumes stationary, deterministic demand rates and a standard stationary cost structure; it is a generalization of the uncapacitated model treated in the seminal papers of Maxwell and Muckstadt (1985) and Roundy (1986). The capacity constraints consist of bounds on the frequency with which individual items can or need to be replenished. We derive a pair of simple and efficient algorithms capable of determining an optimal power-of-two policy. These algorithms consist of a limited number of maximum flow computations in networks closely related to the production/distribution network. The complexity of these algorithms, even when applied to the uncapacitated model, compares favorably with that of the existing alternative solution methods.
+AB  - In this paper we develop a model for a capacitated production/distribution network of general (but acyclic) topology with a general bill of materials, as considered in MRP (Material Requirement Planning) or DRP (Distribution Requirement Planning) systems. This model assumes stationary, deterministic demand rates and a standard stationary cost structure; it is a generalization of the uncapacitated model treated in the seminal papers of Maxwell and Muckstadt (1985) and Roundy (1986). The capacity constraints consist of bounds on the frequency with which individual items can or need to be replenished. We derive a pair of simple and efficient algorithms capable of determining an optimal power-of-two policy. These algorithms consist of a limited number of maximum flow computations in networks closely related to the production/distribution network. The complexity of these algorithms, even when applied to the uncapacitated model, compares favorably with that of the existing alternative solution methods.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.710
+UR  - https://doi.org/10.1287/mnsc.39.6.710
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Level Schedules for Mixed-Model, Just-in-Time Processes
+AU  - Steiner, George
+AU  - Yeomans, Scott
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.728
+DO  - 10.1287/mnsc.39.6.728
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 728
+EP  - 735
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - A mixed-model manufacturing facility running under a Just-in-Time (JIT) production system is controlled by setting the production sequence of the final assembly process. This sequence is set to achieve the primary goal of an organization operating under a JIT system, which is to maintain a constant rate of part usage. In this paper, a graph-theoretic approach is used to determine an optimal solution for this goal for a new, nonconvex objective function. Furthermore, it is shown that a schedule always exists such that, at all times, the deviation of actual production from the desired level of production for every product is never more than one unit.
+AB  - A mixed-model manufacturing facility running under a Just-in-Time (JIT) production system is controlled by setting the production sequence of the final assembly process. This sequence is set to achieve the primary goal of an organization operating under a JIT system, which is to maintain a constant rate of part usage. In this paper, a graph-theoretic approach is used to determine an optimal solution for this goal for a new, nonconvex objective function. Furthermore, it is shown that a schedule always exists such that, at all times, the deviation of actual production from the desired level of production for every product is never more than one unit.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.728
+UR  - https://doi.org/10.1287/mnsc.39.6.728
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Flight Crew Scheduling
+AU  - Graves, Glenn W.
+AU  - McBride, Richard D.
+AU  - Gershkoff, Ira
+AU  - Anderson, Diane
+AU  - Mahidhara, Deepa
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.736
+DO  - 10.1287/mnsc.39.6.736
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 736
+EP  - 745
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - A new crew scheduling optimization system has been developed for United Airlines. The system was developed to permit quick response to schedule changes and to reduce crew scheduling costs. It was designed to work efficiently for both the medium sized problems (300 flights daily) and the very large problems (1,700 flights daily) that United must solve. The system has two main components, a generator and an optimizer. The generator creates pairings (candidate crew trips) which are fed as variables to the optimizer as an elastic embedded set partitioning integer programming problem. The optimizer then seeks to find a set of pairings that covers all of the flight segments exactly once with minimal cost. Once a disjoint solution has been found, the system cycles between the generator and the optimizer to improve it. Savings of $16,000,000 annually in crew scheduling costs have been obtained.
+AB  - A new crew scheduling optimization system has been developed for United Airlines. The system was developed to permit quick response to schedule changes and to reduce crew scheduling costs. It was designed to work efficiently for both the medium sized problems (300 flights daily) and the very large problems (1,700 flights daily) that United must solve. The system has two main components, a generator and an optimizer. The generator creates pairings (candidate crew trips) which are fed as variables to the optimizer as an elastic embedded set partitioning integer programming problem. The optimizer then seeks to find a set of pairings that covers all of the flight segments exactly once with minimal cost. Once a disjoint solution has been found, the system cycles between the generator and the optimizer to improve it. Savings of $16,000,000 annually in crew scheduling costs have been obtained.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.736
+UR  - https://doi.org/10.1287/mnsc.39.6.736
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Compound Sets in Mathematical Programming Modeling Languages
+AU  - Bisschop, J. J.
+AU  - Kuip, C. A. C.
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.746
+DO  - 10.1287/mnsc.39.6.746
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 746
+EP  - 756
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - This paper presents a series of simple but realistic examples in which common algebraic indexing conventions are not so convenient. In particular, it analyzes the difficulties caused by the conventions that each model component must have a fixed number of indices and that the order of the indices is significant to their meaning. To deal with these difficulties compensating extensions to algebraic notation are proposed. The proposed notation is compared to existing notation in terms of the human abilities to understand, maintain and verify model descriptions.
+AB  - This paper presents a series of simple but realistic examples in which common algebraic indexing conventions are not so convenient. In particular, it analyzes the difficulties caused by the conventions that each model component must have a fixed number of indices and that the order of the indices is significant to their meaning. To deal with these difficulties compensating extensions to algebraic notation are proposed. The proposed notation is compared to existing notation in terms of the human abilities to understand, maintain and verify model descriptions.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.746
+UR  - https://doi.org/10.1287/mnsc.39.6.746
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Short-Cut Potential Reduction Algorithm for Linear Programming
+AU  - Kaliski, John A.
+AU  - Ye, Yinyu
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1287/mnsc.39.6.757
+DO  - 10.1287/mnsc.39.6.757
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 757
+EP  - 776
+VL  - 39
+IS  - 6
+PB  - INFORMS
+N2  - As most interior point algorithms iterate, they repeatedly perform costly matrix operations, such as projections, on the entire constraint matrix. For large-scale linear programming problems, such operations consume the great majority of the computation time required. However, for problems where the number of variables far exceeds the number of constraints, operations over the entire constraint matrix are unnecessary. We will examine and extend decomposition techniques which greatly reduce the amount of work required by such interior point methods as the dual affine scaling and the dual potential reduction algorithms. In an effort to judge the practical viability of the decompositioning, we compare the performance of the dual potential reduction algorithm with and without decompositioning over a set of randomly generated transportation problems. Accompanying a theoretical justification of these techniques, we focus on the implementation details and computational results of one such technique.
+AB  - As most interior point algorithms iterate, they repeatedly perform costly matrix operations, such as projections, on the entire constraint matrix. For large-scale linear programming problems, such operations consume the great majority of the computation time required. However, for problems where the number of variables far exceeds the number of constraints, operations over the entire constraint matrix are unnecessary. We will examine and extend decomposition techniques which greatly reduce the amount of work required by such interior point methods as the dual affine scaling and the dual potential reduction algorithms. In an effort to judge the practical viability of the decompositioning, we compare the performance of the dual potential reduction algorithm with and without decompositioning over a set of randomly generated transportation problems. Accompanying a theoretical justification of these techniques, we focus on the implementation details and computational results of one such technique.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.39.6.757
+UR  - https://doi.org/10.1287/mnsc.39.6.757
+Y2  - 2024/03/28
+ER  - 

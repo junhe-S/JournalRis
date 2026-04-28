@@ -1,0 +1,183 @@
+TY  - JOUR
+T1  - Exponentially tilted likelihood inference on growing dimensional unconditional moment models
+AU  - Tang, Niansheng
+AU  - Yan, Xiaodong
+AU  - Zhao, Puying
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - 57
+EP  - 74
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301719
+KW  - Growing-dimensional data analysis
+KW  - Model misspecification
+KW  - Moment unconditional models
+KW  - Penalized exponentially tilted likelihood
+KW  - Variable selection
+AB  - Growing-dimensional data with likelihood function unavailable are often encountered in various fields. This paper presents a penalized exponentially tilted (PET) likelihood for variable selection and parameter estimation for growing dimensional unconditional moment models in the presence of correlation among variables and model misspecification. Under some regularity conditions, we investigate the consistent and oracle properties of the PET estimators of parameters, and show that the constrained PET likelihood ratio statistic for testing contrast hypothesis asymptotically follows the chi-squared distribution. Theoretical results reveal that the PET likelihood approach is robust to model misspecification. We study high-order asymptotic properties of the proposed PET estimators. Simulation studies are conducted to investigate the finite performance of the proposed methodologies. An example from the Boston Housing Study is illustrated.
+ER  - 
+
+TY  - JOUR
+T1  - The ZD-GARCH model: A new way to study heteroscedasticity
+AU  - Li, Dong
+AU  - Zhang, Xingfa
+AU  - Zhu, Ke
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - 1
+EP  - 17
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301926
+KW  - Conditional heteroscedasticity
+KW  - GARCH model
+KW  - Generalized quasi-maximum likelihood estimator
+KW  - Heteroscedasticity
+KW  - Portmanteau test
+KW  - Stability test
+KW  - Top Lyapunov exponent
+KW  - Zero-drift GARCH model
+AB  - This paper proposes a first-order zero-drift GARCH (ZD-GARCH(1, 1)) model to study conditional heteroscedasticity and heteroscedasticity together. Unlike the classical GARCH model, the ZD-GARCH(1, 1) model is always non-stationary regardless of the sign of the Lyapunov exponent γ0, but interestingly it is stable with its sample path oscillating randomly between zero and infinity over time when γ0=0. Furthermore, this paper studies the generalized quasi-maximum likelihood estimator (GQMLE) of the ZD-GARCH(1, 1) model, and establishes its strong consistency and asymptotic normality. Based on the GQMLE, an estimator for γ0, a t-test for stability, a unit root test for the absence of the drift term, and a portmanteau test for model checking are all constructed. Simulation studies are carried out to assess the finite sample performance of the proposed estimators and tests. Applications demonstrate that a stable ZD-GARCH(1, 1) model is more appropriate than a non-stationary GARCH(1, 1) model in fitting the KV-A stock returns in Francq and Zakoïan (2012).
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and forecasting in vector autoregressive moving average models for rich datasets
+AU  - Dias, Gustavo Fruet
+AU  - Kapetanios, George
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - 75
+EP  - 91
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301707
+KW  - VARMA
+KW  - Weak VARMA
+KW  - Iterative ordinary least squares (IOLS) estimator
+KW  - Asymptotic contraction mapping
+KW  - Forecasting
+KW  - Rich and large datasets
+AB  - We address the issue of modelling and forecasting macroeconomic variables using rich datasets by adopting the class of Vector Autoregressive Moving Average (VARMA) models. We overcome the estimation issue that arises with this class of models by implementing an iterative ordinary least squares (IOLS) estimator. We establish the consistency and asymptotic distribution of the estimator for weak and strong VARMA(p,q) models. Monte Carlo results show that IOLS is consistent and feasible for large systems, outperforming the MLE and other linear regression based efficient estimators under alternative scenarios. Our empirical application shows that VARMA models are feasible alternatives when forecasting with many predictors. We show that VARMA models outperform the AR(1), ARMA(1,1), Bayesian VAR, and factor models, considering different model dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - IFC
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30213-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302130
+ER  - 
+
+TY  - JOUR
+T1  - Pythagorean generalization of testing the equality of two symmetric positive definite matrices
+AU  - Cho, Jin Seo
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - 45
+EP  - 56
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301902
+KW  - Matrix equality
+KW  - Trace
+KW  - Determinant
+KW  - Arithmetic mean
+KW  - Geometric mean
+KW  - Harmonic mean
+KW  - Sandwich covariance matrix
+KW  - Eigenvalues
+AB  - We provide a new test for equality of two symmetric positive-definite matrices that leads to a convenient mechanism for testing specification using the information matrix equality or the sandwich asymptotic covariance matrix of the GMM estimator. The test relies on a new characterization of equality between two k dimensional symmetric positive-definite matrices A and B: the traces of AB−1 and BA−1 are equal to k if and only if A=B. Using this simple criterion, we introduce a class of omnibus test statistics for equality and examine their null and local alternative approximations under some mild regularity conditions. A preferred test in the class with good omni-directional power is recommended for practical work. Monte Carlo experiments are conducted to explore performance characteristics under the null and local as well as fixed alternatives. The test is applicable in many settings, including GMM estimation, SVAR models and high dimensional variance matrix settings.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for mutually exciting jumps and financial flights in high frequency data
+AU  - Dungey, Mardi
+AU  - Erdemlioglu, Deniz
+AU  - Matei, Marius
+AU  - Yang, Xiye
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - 18
+EP  - 44
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301914
+KW  - Flight-to-safety
+KW  - Flight-to-quality
+KW  - Mutual excitation in jumps
+KW  - High frequency data
+KW  - Stock–bond comovement
+AB  - We propose a new nonparametric test to identify mutually exciting jumps in high frequency data. We derive the asymptotic properties of the test statistics and show that the tests have good size and reasonable power in finite sample cases. Using our mutual excitation tests, we empirically characterize the dynamics of financial flights in forms of flight-to-safety and flight-to-quality. The results indicate that mutually exciting jumps and risk-off trades mostly occur in periods of high market stress. Flight-to-safety episodes (from stocks to gold) arrive more frequently than do flight-to-quality spells (from stocks to bonds). We further find evidence that reverse cross-excitations or seeking-return-strategies exhibit significant asymmetry over the business cycle, reflecting the fact that investors appear to be selling gold – rather than bonds – to invest in stocks during good market conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Pseudo maximum likelihood estimation of spatial autoregressive models with increasing dimension
+AU  - Gupta, Abhimanyu
+AU  - Robinson, Peter M.
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - 92
+EP  - 107
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301458
+KW  - Spatial autoregression
+KW  - Increasingly many parameters
+KW  - Consistency
+KW  - Asymptotic normality
+KW  - Pseudo Gaussian maximum likelihood
+KW  - Finite sample performance
+AB  - Pseudo maximum likelihood estimates are developed for higher-order spatial autoregressive models with increasingly many parameters, including models with spatial lags in the dependent variables both with and without a linear or nonlinear regression component, and regression models with spatial autoregressive disturbances. Consistency and asymptotic normality of the estimates are established. Monte Carlo experiments examine finite-sample behaviour.
+ER  - 
+
+TY  - JOUR
+T1  - Robust linear static panel data models using ε-contamination
+AU  - Baltagi, Badi H.
+AU  - Bresson, Georges
+AU  - Chaturvedi, Anoop
+AU  - Lacroix, Guy
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 1
+SP  - 108
+EP  - 123
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301446
+KW  - 
+               -contamination
+KW  - Hyper -priors
+KW  - Type-II maximum likelihood posterior density
+KW  - Panel data
+KW  - Robust Bayesian estimator
+KW  - Three-stage hierarchy
+AB  - The paper develops a general Bayesian framework for robust linear static panel data models usingε-contamination. A two-step approach is employed to derive the conditional type-II maximum likelihood (ML-II) posterior distribution of the coefficients and individual effects. The ML-II posterior means are weighted averages of the Bayes estimator under a base prior and the data-dependent empirical Bayes estimator. Two-stage and three stage hierarchy estimators are developed and their finite sample performance is investigated through a series of Monte Carlo experiments. These include standard random effects as well as Mundlak-type, Chamberlain-type and Hausman–Taylor-type models. The simulation results underscore the relatively good performance of the three-stage hierarchy estimator. Within a single theoretical framework, our Bayesian approach encompasses a variety of specifications while conventional methods require separate estimators for each case.
+ER  - 

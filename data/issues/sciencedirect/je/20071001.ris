@@ -1,0 +1,511 @@
+TY  - JOUR
+T1  - Identification and estimation of econometric models with group interactions, contextual factors and fixed effects
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 333
+EP  - 374
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001394
+KW  - Social interactions
+KW  - Group structure
+KW  - Fixed effects
+KW  - Spatial autoregression
+KW  - Conditional maximum likelihood
+AB  - This paper considers identification and estimation of structural interaction effects in a social interaction model. The model allows unobservables in the group structure, which may be correlated with included regressors. We show that both the endogenous and exogenous interaction effects can be identified if there are sufficient variations in group sizes. We consider the estimation of the model by the conditional maximum likelihood and instrumental variables methods. For the case with large group sizes, the possible identification can be weak in the sense that the estimates converge in distribution at low rates.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation of general dynamic models with a continuum of moment conditions
+AU  - Carrasco, Marine
+AU  - Chernov, Mikhail
+AU  - Florens, Jean-Pierre
+AU  - Ghysels, Eric
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 529
+EP  - 573
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001473
+KW  - Characteristic function
+KW  - Efficient estimation
+KW  - Affine models
+AB  - There are two difficulties with the implementation of the characteristic function-based estimators. First, the optimal instrument yielding the ML efficiency depends on the unknown probability density function. Second, the need to use a large set of moment conditions leads to the singularity of the covariance matrix. We resolve the two problems in the framework of GMM with a continuum of moment conditions. A new optimal instrument relies on the double indexing and, as a result, has a simple exponential form. The singularity problem is addressed via a penalization term. We introduce HAC-type estimators for non-Markov models. A simulated method of moments is proposed for non-analytical cases.
+ER  - 
+
+TY  - JOUR
+T1  - Trends and cycles in economic time series: A Bayesian approach
+AU  - Harvey, Andrew C.
+AU  - Trimbur, Thomas M.
+AU  - Van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 618
+EP  - 649
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001497
+KW  - Output gap
+KW  - Kalman filter
+KW  - Markov chain Monte Carlo
+KW  - Real-time estimation
+KW  - Turning points
+KW  - Unobserved components
+AB  - Trends and cyclical components in economic time series are modeled in a Bayesian framework. This enables prior notions about the duration of cycles to be used, while the generalized class of stochastic cycles employed allows the possibility of relatively smooth cycles being extracted. The posterior distributions of such underlying cycles can be very informative for policy makers, particularly with regard to the size and direction of the output gap and potential turning points. From the technical point of view a contribution is made in investigating the most appropriate prior distributions for the parameters in the cyclical components and in developing Markov chain Monte Carlo methods for both univariate and multivariate models. Applications to US macroeconomic series are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and calculating the effect of treatment at baseline from panel outcomes
+AU  - Chib, Siddhartha
+AU  - Jacobi, Liana
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 781
+EP  - 801
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001552
+KW  - Confounding
+KW  - Heterogeneity
+KW  - Instrumental variable
+KW  - Marginal likelihood
+KW  - Markov chain Monte Carlo
+KW  - Metropolis–Hastings algorithm
+KW  - Non-randomly assigned treatment
+KW  - Panel data
+KW  - Potential outcomes
+KW  - Treatment effect
+AB  - We propose and examine a panel data model for isolating the effect of a treatment, taken once at baseline, from outcomes observed over subsequent time periods. In the model, the treatment intake and outcomes are assumed to be correlated, due to unobserved or unmeasured confounders. Intake is partly determined by a set of instrumental variables and the confounding on unobservables is modeled in a flexible way, varying both by time and treatment state. Covariate effects are assumed to be subject-specific and potentially correlated with other covariates. Estimation and inference is by Bayesian methods that are implemented by tuned Markov chain Monte Carlo methods. Because our analysis is based on the framework developed by Chib [2004. Analysis of treatment response data without the joint distribution of counterfactuals. Journal of Econometrics, in press], the modeling and estimation does not involve either the unknowable joint distribution of the potential outcomes or the missing counterfactuals. The problem of model choice through marginal likelihoods and Bayes factors is also considered. The methods are illustrated in simulation experiments and in an application dealing with the effect of participation in high school athletics on future labor market earnings.
+ER  - 
+
+TY  - JOUR
+T1  - A structural analysis of the correlated random coefficient wage regression model
+AU  - Belzil, Christian
+AU  - Hansen, Jörgen
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 827
+EP  - 848
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001576
+KW  - Random coefficient
+KW  - Returns to schooling
+KW  - Treatment effects
+KW  - Dynamic programming
+KW  - Dynamic self-selection
+AB  - We estimate a dynamic programming model of schooling decisions in which the log wage regression function is set within a correlated random coefficient model. We show that estimates of the dynamic programming model can be used to obtain a number of treatment effects, including the local average treatment effect (LATE). However, unlike LATE parameters obtained in a standard IV framework, our LATE estimates are obtained without imposing separability between individual specific heterogeneity and schooling choices and are therefore not subject to a “monotonicity” restriction. We find that returns to schooling are characterized by a high degree of dispersion across individuals.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of treatment response data without the joint distribution of potential outcomes
+AU  - Chib, Siddhartha
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 401
+EP  - 412
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001412
+KW  - Confounding
+KW  - Instrumental variable
+KW  - Marginal likelihood
+KW  - Markov chain Monte Carlo
+KW  - Structural model
+KW  - Predictive treatment effect
+AB  - In this paper we show how it is possible to develop a Bayesian framework for analyzing structural models for treatment response data without the joint distribution of the potential outcomes. That this is possible has not been noticed in the literature. We also discuss the computation of the model marginal likelihood and present recipes for finding relevant treatment effects, averaged over both parameters and covariates. As compared to an approach in which the counterfactuals are part of the prior-posterior analysis (as in the work to date), the approach we suggest is simpler in terms of the required prior inputs, computational burden and extensibility to more complex settings.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic behaviour of regression pre-test estimators with minimal Bayes risk
+AU  - Reif, Jiří
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 413
+EP  - 424
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001424
+KW  - Linear regression
+KW  - Pre-test estimator
+KW  - Optimality
+AB  - Pre-test estimators (PTE) are considered which are optimal under a Bayes risk among PTE with general measurable sets as “regions of significance” for the test statistic t associated with the estimate of a given regression coefficient. Asymptotic and some finite sample results are stated and numerical experiments are commented on.
+ER  - 
+
+TY  - JOUR
+T1  - Infrastructure and productivity: An extension to private infrastructure and it productivity
+AU  - Duggal, Vijaya G.
+AU  - Saltzman, Cynthia
+AU  - Klein, Lawrence R.
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 485
+EP  - 502
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760600145X
+KW  - Nonlinear production function
+KW  - Technological index
+KW  - Private and public infrastructure
+AB  - This paper incorporates both public and private infrastructure within the framework of a nonlinear production function. The theoretical model specifies a technological growth rate as a nonlinear function of government infrastructure and private infrastructure generated by the information sector of the economy—cable, wireless stations, satellites, internet facilities, broadcasting, etc. The time trend is included to capture the effect of all other variables. The empirical estimates generated by the model imply increasing returns to scale for the US economy in the last few years. The evaluation of the growth accounting equation implies that information technology was the largest contributing component to growth during the expansion of the 1990s.
+ER  - 
+
+TY  - JOUR
+T1  - Root-n-consistent estimation of weak fractional cointegration
+AU  - Hualde, J.
+AU  - Robinson, P.M.
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 450
+EP  - 484
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001448
+KW  - Fractional cointegration
+KW  - Parametric estimation
+KW  - Asymptotic normality
+AB  - Empirical evidence has emerged of the possibility of fractional cointegration such that the gap, β, between the integration order δ of observable time series and the integration order γ of cointegrating errors is less than 0.5. This includes circumstances when observables are stationary or asymptotically stationary with long memory soδ<12 and when they are nonstationary soδ⩾12. This “weak cointegration” contrasts strongly with the traditional econometric prescription of unit-root observables and short memory cointegrating errors, where β=1. Asymptotic inferential theory also differs from this case and from other members of the class β>12, in particular n-consistent and asymptotically normal estimation of the cointegrating vector ν is possible when β<12, as we explore in a simple bivariate model. The estimate depends on γ and δ or, more realistically, on estimates of unknown γ and δ. These latter estimates need to be n-consistent, and the asymptotic distribution of the estimate of ν is sensitive to their precise form. We propose estimates of γ and δ that are computationally relatively convenient, relying on only univariate nonlinear optimization. Finite sample performance of the methods is examined by means of Monte Carlo simulations, and several applications to empirical data included.
+ER  - 
+
+TY  - JOUR
+T1  - The second-order bias and mean squared error of estimators in time-series models
+AU  - Bao, Yong
+AU  - Ullah, Aman
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 650
+EP  - 669
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001503
+KW  - Higher-order moments
+KW  - Stochastic expansion
+KW  - Time series
+AB  - We develop analytical results on the second-order bias and mean squared error of estimators in time-series models. These results provide a unified approach to developing the properties of a large class of estimators in linear and nonlinear time-series models and they are valid for both normal and nonnormal samples of observations, and where the regressors are stochastic. The estimators included are the generalized method of moments, maximum likelihood, least squares, and other extremum estimators. Our general results are applied to four time-series models. We investigate the effects of nonnormality on the second-order bias results for two of these models, while for all four models, the second-order bias and mean squared error results are given under normality. Numerical results for some of these models are also presented.
+ER  - 
+
+TY  - JOUR
+T1  - Testing joint hypotheses when one of the alternatives is one-sided
+AU  - Abadir, Karim M.
+AU  - Distaso, Walter
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 695
+EP  - 718
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001527
+KW  - Mixed one-sided and two-sided alternatives
+KW  - Test powers
+KW  - Exact distributions
+KW  - Hypergeometric functions
+KW  - Unit-root tests
+AB  - We propose a class of statistics where the direction of one of the alternatives is incorporated. It is obtained by modifying a class of multivariate tests with elliptical confidence regions, not necessarily arising from normal-based distribution theory. The resulting statistics are easy to compute, they do not require the re-estimation of models subject to one-sided inequality restrictions, and their distributions do not require bounds-based inference. We derive explicit distribution and power functions, using them to prove some desirable properties of our class of modified tests. We then illustrate the relevance of the method by applying it to devising an improved test of random walks in autoregressive models with deterministic components. In this example, the usual alternative to a unit root is one-sided in the direction of stable roots, while deterministic components are allowed to go either way, and we show that it is beneficial to take the partially one-sided nature of the alternative into account.
+ER  - 
+
+TY  - JOUR
+T1  - Properties of optimal forecasts under asymmetric loss and nonlinearity
+AU  - Patton, Andrew J.
+AU  - Timmermann, Allan
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 884
+EP  - 918
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001606
+KW  - Loss function
+KW  - Nonlinear data generating process
+KW  - Rationality
+KW  - Market efficiency
+KW  - Prediction
+AB  - Evaluation of forecast optimality in economics and finance has almost exclusively been conducted under the assumption of mean squared error loss. Under this loss function optimal forecasts should be unbiased and forecast errors serially uncorrelated at the single period horizon with increasing variance as the forecast horizon grows. Using analytical results we show that standard properties of optimal forecasts can be invalid under asymmetric loss and nonlinear data generating processes and thus may be very misleading as a benchmark for an optimal forecast. We establish instead that a suitable transformation of the forecast error—known as the generalized forecast error—possesses an equivalent set of properties. The paper also provides empirical examples to illustrate the significance in practice of asymmetric loss and nonlinearities and discusses the effect of parameter estimation error on optimal forecasts.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating dynamic panel data discrete choice models with fixed effects
+AU  - Carro, Jesus M.
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 503
+EP  - 528
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001461
+KW  - Panel data
+KW  - Dynamic discrete choice
+KW  - Fixed effects
+KW  - Modified MLE
+AB  - This paper considers the estimation of dynamic binary choice panel data models with fixed effects. It is shown that the modified maximum likelihood estimator (MMLE) used in this paper reduces the order of the bias in the maximum likelihood estimator from O(T-1) to O(T-2), without increasing the asymptotic variance. No orthogonal reparametrization is needed. Monte Carlo simulations are used to evaluate its performance in finite samples where T is not large. In probit and logit models containing lags of the endogenous variable and exogenous variables, the estimator is found to have a small bias in a panel with eight periods. A distinctive advantage of the MMLE is its general applicability. Estimation and relevance of different policy parameters of interest in this kind of models are also addressed.
+ER  - 
+
+TY  - JOUR
+T1  - Long difference instrumental variables estimation for dynamic panel models with fixed effects
+AU  - Hahn, Jinyong
+AU  - Hausman, Jerry
+AU  - Kuersteiner, Guido
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 574
+EP  - 617
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001485
+KW  - Dynamic panel
+KW  - Bias correction
+KW  - Second order
+KW  - Unit root
+KW  - Weak instrument
+AB  - This paper proposes a new instrumental variables estimator for a dynamic panel model with fixed effects with good bias and mean squared error properties even when identification of the model becomes weak near the unit circle. We adopt a weak instrument asymptotic approximation to study the behavior of various estimators near the unit circle. We show that an estimator based on long differencing the model is much less biased than conventional implementations of the GMM estimator for the dynamic panel model. We also show that under the weak instrument approximation conventional GMM estimators are dominated in terms of mean squared error by an estimator with far less moment conditions. The long difference (LD) estimator mimics the infeasible optimal procedure through its reliance on a small set of moment conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Testing constancy of the error covariance matrix in vector models
+AU  - Eklund, Bruno
+AU  - Teräsvirta, Timo
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 753
+EP  - 780
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001540
+KW  - Covariance constancy
+KW  - Error covariance structure
+KW  - Lagrange multiplier test
+KW  - Model misspecification
+KW  - Monte Carlo simulation
+AB  - In this paper a Lagrange multiplier test of the hypothesis that the covariance matrix of a multivariate time series model is constant over time is considered. It is assumed that under the alternative, the error variances are time-varying, whereas the correlations remain constant over time. Under the parameterized alternative hypothesis the variances may change continuously as a function of time or some observable stochastic variables. Small-sample properties of the test statistic are investigated by simulation. The assumption of constant correlations does not appear overly restrictive.
+ER  - 
+
+TY  - JOUR
+T1  - A consistent model specification test with mixed discrete and continuous data
+AU  - Hsiao, Cheng
+AU  - Li, Qi
+AU  - Racine, Jeffrey S.
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 802
+EP  - 826
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001564
+KW  - Consistent test
+KW  - Parametric functional form
+KW  - Nonparametric estimation
+AB  - In this paper we propose a nonparametric kernel-based model specification test that can be used when the regression model contains both discrete and continuous regressors. We employ discrete variable kernel functions and we smooth both the discrete and continuous regressors using least squares cross-validation (CV) methods. The test statistic is shown to have an asymptotic normal null distribution. We also prove the validity of using the wild bootstrap method to approximate the null distribution of the test statistic, the bootstrap being our preferred method for obtaining the null distribution in practice. Simulations show that the proposed test has significant power advantages over conventional kernel tests which rely upon frequency-based nonparametric estimators that require sample splitting to handle the presence of discrete regressors.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric efficiency analysis: A multivariate conditional quantile approach
+AU  - Daouia, Abdelaati
+AU  - Simar, Léopold
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 375
+EP  - 400
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001400
+KW  - Efficiency
+KW  - Frontier estimation
+KW  - Robust nonparametric estimators
+KW  - Conditional quantiles
+AB  - This paper focuses on nonparametric efficiency analysis based on robust estimation of partial frontiers in a complete multivariate setup (multiple inputs and multiple outputs). It introduces α-quantile efficiency scores. A nonparametric estimator is proposed achieving strong consistency and asymptotic normality. Then if α increases to one as a function of the sample size we recover the properties of the FDH estimator. But our estimator is more robust to the perturbations in data, since it attains a finite gross-error sensitivity. Environmental variables can be introduced to evaluate efficiencies and a consistent estimator is proposed. Numerical examples illustrate the usefulness of the approach.
+ER  - 
+
+TY  - JOUR
+T1  - Why elementary price index number formulas differ: Evidence on price dispersion
+AU  - Silver, Mick
+AU  - Heravi, Saeed
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 874
+EP  - 883
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.017
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760600159X
+KW  - Consumer price index
+KW  - Elementary aggregate indexes
+KW  - Hedonic regression
+KW  - Index numbers
+KW  - Relative price dispersion
+KW  - Scanner data
+AB  - Most countries use either the Dutot or Jevons index number formula for the compilation of their consumer price index at the elementary level of aggregation. The difference between the formulas is shown to be accounted for by changes in price dispersion. In turn, some of this difference is shown to be explained by product heterogeneity. Scanner data on television sets (TVs) are used to calculate Dutot and Jevons indexes. The difference between them is successfully explained in terms of changes in price dispersion and much reduced using an hedonic, heterogeneity-controlled Dutot index.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - IFC
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(07)00149-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001492
+ER  - 
+
+TY  - JOUR
+T1  - Self-weighted and local quasi-maximum likelihood estimators for ARMA-GARCH/IGARCH models
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 849
+EP  - 873
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001588
+KW  - Asymptotic normality
+KW  - ARMA-GARCH model
+KW  - GARCH model
+KW  - Quasi-maximum likelihood estimation
+KW  - Self-weighted estimation
+AB  - The limit distribution of the quasi-maximum likelihood estimator (QMLE) for parameters in the ARMA-GARCH model remains an open problem when the process has infinite 4th moment. We propose a self-weighted QMLE and show that it is consistent and asymptotically normal under only a fractional moment condition. Based on this estimator, the asymptotic normality of the local QMLE is established for the ARMA model with GARCH (finite variance) and IGARCH errors. Using the self-weighted and the local QMLEs, we construct Wald statistics for testing linear restrictions on the parameters, and their limiting distributions are given. In addition, we show that the tail index of the IGARCH process is always 2, which is independently of interest.
+ER  - 
+
+TY  - JOUR
+T1  - Stochastic volatility with leverage: Fast and efficient likelihood inference
+AU  - Omori, Yasuhiro
+AU  - Chib, Siddhartha
+AU  - Shephard, Neil
+AU  - Nakajima, Jouchi
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 425
+EP  - 449
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001436
+KW  - Leverage effect
+KW  - Markov chain Monte Carlo
+KW  - Mixture sampler
+KW  - Stochastic volatility
+KW  - Stock returns
+AB  - This paper is concerned with the Bayesian analysis of stochastic volatility (SV) models with leverage. Specifically, the paper shows how the often used Kim et al. [1998. Stochastic volatility: likelihood inference and comparison with ARCH models. Review of Economic Studies 65, 361–393] method that was developed for SV models without leverage can be extended to models with leverage. The approach relies on the novel idea of approximating the joint distribution of the outcome and volatility innovations by a suitably constructed ten-component mixture of bivariate normal distributions. The resulting posterior distribution is summarized by MCMC methods and the small approximation error in working with the mixture approximation is corrected by a reweighting procedure. The overall procedure is fast and highly efficient. We illustrate the ideas on daily returns of the Tokyo Stock Price Index. Finally, extensions of the method are described for superposition models (where the log-volatility is made up of a linear combination of heterogenous and independent autoregressions) and heavy-tailed error distributions (student and log-normal).
+ER  - 
+
+TY  - JOUR
+T1  - Generalized least squares inference in panel and multilevel models with serial correlation and fixed effects
+AU  - Hansen, Christian B.
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 670
+EP  - 694
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001515
+KW  - Efficiency
+KW  - Panel
+KW  - Autocorrelation
+KW  - Higher order
+KW  - Bias reduction
+AB  - In this paper, I consider generalized least squares (GLS) estimation in fixed effects panel and multilevel models with autocorrelation. The presence of fixed effects complicates implementation of GLS as estimating the fixed effects will typically render standard estimators of the covariance parameters necessary for obtaining feasible GLS estimates inconsistent. I focus on the case where the disturbances follow an AR(p) process and offer a simple to implement bias-correction for the AR coefficients. The usefulness of GLS and the derived bias-correction for the parameters of the autoregressive process is illustrated through a simulation study which uses data from the Current Population Survey.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotics for out of sample tests of Granger causality
+AU  - McCracken, Michael W.
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 719
+EP  - 752
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001539
+KW  - Granger causality
+KW  - Forecast evaluation
+KW  - Hypothesis testing
+KW  - Model selection
+AB  - This paper presents analytical, Monte Carlo and empirical evidence concerning out-of-sample tests of Granger causality. The environment is one in which the relative predictive ability of two nested parametric regression models is of interest. Results are provided for three statistics: a regression-based statistic suggested by Granger and Newbold [1977. Forecasting Economic Time Series. Academic Press Inc., London], a t-type statistic comparable to those suggested by Diebold and Mariano [1995, Comparing Predictive Accuracy. Journal of Business and Economic Statistics, 13, 253–263] and West [1996. Asymptotic Inference About Predictive Ability, Econometrica, 64, 1067–1084], and an F-type statistic akin to Theil's U. Since the asymptotic distributions under the null are nonstandard, tables of asymptotically valid critical values are provided. Monte Carlo evidence supports the theoretical results. An empirical example evaluates the predictive content of the Chicago Fed National Activity Index for growth in Industrial Production and core PCE-based inflation.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for unit roots in time series models with non-stationary volatility
+AU  - Cavaliere, Giuseppe
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 140
+IS  - 2
+SP  - 919
+EP  - 947
+PY  - 2007
+DA  - 2007/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.07.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001618
+KW  - Unit root test
+KW  - Integrated process
+KW  - Non-stationary volatility
+KW  - Variance profile
+AB  - Many of the key macro-economic and financial variables in developed economies are characterized by permanent volatility shifts. It is known that conventional unit root tests are potentially unreliable in the presence of such behaviour, depending on a particular function (the variance profile) of the underlying volatility process. Somewhat surprisingly then, very little work has been undertaken to develop unit root tests which are robust to the presence of permanent volatility shifts. In this paper we fill this gap in the literature by proposing tests which are valid in the presence of a quite general class of permanent variance changes which includes single and multiple (abrupt and smooth-transition) volatility change processes as special cases. Our solution uses numerical methods to simulate the asymptotic null distribution of the statistics based on a consistent estimate of the variance profile which we also develop. The practitioner is not required to specify a parametric model for volatility. An empirical illustration using producer price inflation series from the Stock–Watson database is reported.
+ER  - 

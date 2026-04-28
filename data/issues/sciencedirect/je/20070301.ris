@@ -1,0 +1,209 @@
+TY  - JOUR
+T1  - Nonstationary nonlinear heteroskedasticity in regression
+AU  - Chung, Heetaik
+AU  - Park, Joon Y.
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 230
+EP  - 259
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000467
+KW  - Volatility
+KW  - Nonstationary nonlinear heteroskedasticity
+KW  - Regression with heteroskedastic errors
+KW  - Spurious regression
+AB  - This paper considers the regression with errors having nonstationary nonlinear heteroskedasticity. For both the usual stationary regression and the nonstationary cointegrating regression, we develop the asymptotic theories for the least squares methods in the presence of conditional heterogeneity given as a nonlinear function of an integrated process. In particular, we show that the nonstationarity of volatility in the regression errors may induce spuriousness of the underlying regression, if excessive nonstationary volatility is present in the errors. Mild nonstationary volatilities do not render the underlying regression spurious, but their presence makes the least squares estimator asymptotically biased and inefficient and the usual chi-square test invalid.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian analysis of a Tobit quantile regression model
+AU  - Yu, Keming
+AU  - Stander, Julian
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 260
+EP  - 276
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000546
+KW  - Asymmetric Laplace distribution
+KW  - Bayes factor
+KW  - Bayesian inference
+KW  - Bayesian model comparison
+KW  - Markov chain Monte Carlo methods
+KW  - Quantile regression
+KW  - Tobit model
+AB  - This paper develops a Bayesian framework for Tobit quantile regression. Our approach is organized around a likelihood function that is based on the asymmetric Laplace distribution, a choice that turns out to be natural in this context. We discuss families of prior distributions on the quantile regression vector that lead to proper posterior distributions with finite moments. We show how the posterior distribution can be sampled and summarized by Markov chain Monte Carlo methods. A method for comparing alternative quantile regression models is also developed and illustrated. The techniques are illustrated with both simulated and real data. In particular, in an empirical comparison, our approach out-performed two other common classical estimators.
+ER  - 
+
+TY  - JOUR
+T1  - A unified approach to nonlinearity, structural change, and outliers
+AU  - Giordani, Paolo
+AU  - Kohn, Robert
+AU  - van Dijk, Dick
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 112
+EP  - 133
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000406
+KW  - State-space models
+KW  - Markov-switching models
+KW  - Threshold models
+KW  - Bayesian inference
+KW  - Business cycle asymmetry
+AB  - This paper demonstrates that the class of conditionally linear and Gaussian state-space models offers a general and convenient framework for simultaneously handling nonlinearity, structural change and outliers in time series. Many popular nonlinear time series models, including threshold, smooth transition and Markov-switching models, can be written in state-space form. It is then straightforward to add components that capture parameter instability and intervention effects. We advocate a Bayesian approach to estimation and inference, using an efficient implementation of Markov Chain Monte Carlo sampling schemes for such linear dynamic mixture models. The general modelling framework and the Bayesian methodology are illustrated by means of several examples. An application to quarterly industrial production growth rates for the G7 countries demonstrates the empirical usefulness of the approach.
+ER  - 
+
+TY  - JOUR
+T1  - Bias in dynamic panel estimation with fixed effects, incidental trends and cross section dependence
+AU  - Phillips, Peter C.B.
+AU  - Sul, Donggyu
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 162
+EP  - 188
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760600042X
+KW  - Autoregression
+KW  - Bias
+KW  - Bias correction
+KW  - Cross section dependence
+KW  - Dynamic factors
+KW  - Dynamic panel estimation
+KW  - Incidental trends
+KW  - Panel unit root
+AB  - Explicit asymptotic bias formulae are given for dynamic panel regression estimators as the cross section sample size N→∞. The results extend earlier work by Nickell [1981. Biases in dynamic models with fixed effects. Econometrica 49, 1417–1426] and later authors in several directions that are relevant for practical work, including models with unit roots, deterministic trends, predetermined and exogenous regressors, and errors that may be cross sectionally dependent. The asymptotic bias is found to be so large when incidental linear trends are fitted and the time series sample size is small that it changes the sign of the autoregressive coefficient. Another finding of interest is that, when there is cross section error dependence, the probability limit of the dynamic panel regression estimator is a random variable rather than a constant, which helps to explain the substantial variability observed in dynamic panel estimates when there is cross section dependence even in situations where N is very large. Some proposals for bias correction are suggested and finite sample performance is analyzed in simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Selection of estimation window in the presence of breaks
+AU  - Pesaran, M. Hashem
+AU  - Timmermann, Allan
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 134
+EP  - 161
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000418
+KW  - Parameter instability
+KW  - Forecasting with breaks
+KW  - Choice of observation window
+KW  - Forecast combination
+AB  - In situations where a regression model is subject to one or more breaks it is shown that it can be optimal to use pre-break data to estimate the parameters of the model used to compute out-of-sample forecasts. The issue of how best to exploit the trade-off that might exist between bias and forecast error variance is explored and illustrated for the multivariate regression model under the assumption of strictly exogenous regressors. In practice when this assumption cannot be maintained and both the time and size of the breaks are unknown, the optimal choice of the observation window will be subject to further uncertainties that make exploiting the bias–variance trade-off difficult. To that end we propose a new set of cross-validation methods for selection of a single estimation window and weighting or pooling methods for combination of forecasts based on estimation windows of different lengths. Monte Carlo simulations are used to show when these procedures work well compared with methods that ignore the presence of breaks.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - CO2
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(07)00018-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607000188
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric stochastic frontiers: A local maximum likelihood approach
+AU  - Kumbhakar, Subal C.
+AU  - Park, Byeong U.
+AU  - Simar, Léopold
+AU  - Tsionas, Efthymios G.
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 1
+EP  - 27
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000376
+KW  - Stochastic cost frontier
+KW  - Banking
+KW  - Nonparametric
+KW  - Local maximum likelihood
+AB  - This paper proposes a new approach to handle nonparametric stochastic frontier (SF) models. It is based on local maximum likelihood techniques. The model is presented as encompassing some anchorage parametric model in a nonparametric way. First, we derive asymptotic properties of the estimator for the general case (local linear approximations). Then the results are tailored to a SF model where the convoluted error term (efficiency plus noise) is the sum of a half normal and a normal random variable. The parametric anchorage model is a linear production function with a homoscedastic error term. The local approximation is linear for both the production function and the parameters of the error terms. The performance of our estimator is then established in finite samples using simulated data sets as well as with a cross-sectional data on US commercial banks. The methods appear to be robust, numerically stable and particularly useful for investigating a production process and the derived efficiency scores.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic distribution of the cointegrating vector estimator in error correction models with conditional heteroskedasticity
+AU  - Seo, Byeongseon
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 68
+EP  - 111
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760600039X
+KW  - Cointegrating vector
+KW  - Efficiency gain
+KW  - Multivariate GARCH
+AB  - This paper explores the asymptotic distribution of the cointegrating vector estimator in error correction models with conditionally heteroskedastic errors. Asymptotic properties of the maximum likelihood estimator (MLE) of the cointegrating vector, which estimates the cointegrating vector and the multivariate GARCH process jointly, are provided. The MLE of the cointegrating vector follows mixture normal, and its asymptotic distribution depends on the conditional heteroskedasticity and the kurtosis of standardized innovations. The reduced rank regression (RRR) estimator and the regression-based cointegrating vector estimators do not consider conditional heteroskedasticity, and thus the efficiency gain of the MLE emerges as the magnitude of conditional heteroskedasticity increases. The simulation results indicate that the relative power of the t-statistics based on the MLE improves significantly as the GARCH effect increases.
+ER  - 
+
+TY  - JOUR
+T1  - An efficient nonparametric estimator for models with nonlinear dependence
+AU  - Gagliardini, Patrick
+AU  - Gouriéroux, Christian
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 189
+EP  - 229
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000431
+KW  - Nonlinear dependence
+KW  - Copula
+KW  - Nonparametric estimation
+KW  - Efficiency
+AB  - We provide a convenient econometric framework for the analysis of nonlinear dependence in financial applications. We introduce models with constrained nonparametric dependence, which specify the conditional distribution or the copula in terms of a one-dimensional functional parameter. Our approach is intermediate between standard parametric specifications (which are in general too restrictive) and the fully unrestricted approach (which suffers from the curse of dimensionality). We introduce a nonparametric estimator defined by minimizing a chi-square distance between the constrained densities in the family and an unconstrained kernel estimator of the density. We derive the nonparametric efficiency bound for linear forms and show that the minimum chi-square estimator is nonparametrically efficient for linear forms.
+ER  - 
+
+TY  - JOUR
+T1  - Boundedly pivotal structural change tests in continuous updating GMM with strong, weak identification and completely unidentified cases
+AU  - Caner, Mehmet
+JO  - Journal of Econometrics
+VL  - 137
+IS  - 1
+SP  - 28
+EP  - 67
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000388
+KW  - Sequential empirical process
+KW  - Constrained CUE
+KW  - Weak instruments
+KW  - Stability
+AB  - This paper develops structural change tests in the continuous updating GMM framework that are robust to weak identification. We propose likelihood ratio-like, Anderson–Rubin [1949. Estimation of the parameters of a single equation in a complete system of stochastic equations. Annals of Mathematical Statistics 20, 46–63], and Kleinbergen [2005. Testing parameters in GMM without assuming that they are identified. Manuscript. Brown University] types of tests. Since the limits of the test statistics are not nuisance parameter free, bounds for the limit of the test statistics are derived. The bounds are nuisance parameter free and robust to identification problems. Simulations show that the Anderson–Rubin (1949) and Kleinbergen [2005. Testing parameters in GMM without assuming that they are identified. Manuscript. Brown University] type of tests have very good small sample properties. In the case of weak instruments, the sup LM test of Andrews [1993a. Tests for parameter instability and structural change with unknown change point. Econometrica 61, 821–856] rejects the true null of parameter stability more than the nominal level, and, also has low power in the weak instrument setup.
+ER  - 

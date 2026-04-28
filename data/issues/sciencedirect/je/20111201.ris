@@ -1,0 +1,246 @@
+TY  - JOUR
+T1  - Semiparametric estimation of a bivariate Tobit model
+AU  - Chen, Songnian
+AU  - Zhou, Xianbo
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 266
+EP  - 274
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001461
+AB  - The existing semiparametric estimation literature has mainly focused on univariate Tobit models and no semiparametric estimation has been considered for bivariate Tobit models. In this paper, we consider semiparametric estimation of the bivariate Tobit model proposed by Amemiya (1974), under the independence condition without imposing any parametric restriction on the error distribution. Our estimator is shown to be consistent and asymptotically normal, and simulation results show that our estimator performs well in finite samples. It is also worth noting that while Amemiya’s (1974) instrumental variables estimator (IV) requires the normality assumption, our semiparametric estimator actually outperforms his IV estimator even when normality holds. Our approach can be extended to higher dimensional multivariate Tobit models.
+ER  - 
+
+TY  - JOUR
+T1  - Inference with dependent data using cluster covariance estimators
+AU  - Bester, C. Alan
+AU  - Conley, Timothy G.
+AU  - Hansen, Christian B.
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 137
+EP  - 151
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000431
+KW  - HAC
+KW  - Panel
+KW  - Robust
+KW  - Spatial
+AB  - This paper presents an inference approach for dependent data in time series, spatial, and panel data applications. The method involves constructing t and Wald statistics using a cluster covariance matrix estimator (CCE). We use an approximation that takes the number of clusters/groups as fixed and the number of observations per group to be large. The resulting limiting distributions of the t and Wald statistics are standard t and F distributions where the number of groups plays the role of sample size. Using a small number of groups is analogous to ‘fixed-b’ asymptotics of Kiefer and Vogelsang, 2002, Kiefer and Vogelsang, 2005 (KV) for heteroskedasticity and autocorrelation consistent inference. We provide simulation evidence that demonstrates that the procedure substantially outperforms conventional inference procedures.
+ER  - 
+
+TY  - JOUR
+T1  - Particle filters for continuous likelihood evaluation and maximisation
+AU  - Malik, Sheheryar
+AU  - Pitt, Michael K.
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 190
+EP  - 209
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001473
+KW  - Importance sampling
+KW  - Volatility
+KW  - Filtering
+KW  - Particle filter
+KW  - Simulation
+KW  - SIR
+KW  - State space
+AB  - In this paper, a method is introduced for approximating the likelihood for the unknown parameters of a state space model. The approximation converges to the true likelihood as the simulation size goes to infinity. In addition, the approximating likelihood is continuous as a function of the unknown parameters under rather general conditions. The approach advocated is fast and robust, and it avoids many of the pitfalls associated with current techniques based upon importance sampling. We assess the performance of the method by considering a linear state space model, comparing the results with the Kalman filter, which delivers the true likelihood. We also apply the method to a non-Gaussian state space model, the stochastic volatility model, finding that the approach is efficient and effective. Applications to continuous time finance models and latent panel data models are considered. Two different multivariate approaches are proposed. The neoclassical growth model is considered as an application.
+ER  - 
+
+TY  - JOUR
+T1  - A bootstrap algorithm for testing cointegration rank in VAR models in the presence of stationary variables
+AU  - Swensen, Anders Rygh
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 152
+EP  - 162
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001436
+KW  - VAR models
+KW  - Reduced rank
+KW  - Stationary regressors
+KW  - Bootstrap
+AB  - In this paper, a bootstrap algorithm for a reduced rank vector autoregressive (VAR) model which also includes stationary regressors, is analyzed. It is shown that the bootstrap distribution for estimating the rank converges to the distribution derived from the usual asymptotic framework. Because the asymptotic distribution will typically depend on unknown parameters, bootstrap distributions are of considerable interest in this context. The result of an application and some Monte Carlo experiments are also presented.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility contagion: A range-based volatility approach
+AU  - Chiang, Min-Hsien
+AU  - Wang, Li-Min
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 175
+EP  - 189
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761100145X
+KW  - LCARR
+KW  - Price range
+KW  - Smooth transition copula
+KW  - Subprime mortgage crisis
+KW  - TVLCARR
+KW  - Volatility contagion
+AB  - This article proposes a new approach to evaluate volatility contagion in financial markets. A time-varying logarithmic conditional autoregressive range model with the lognormal distribution (TVLCARR) is proposed to capture the possible smooth transition in the range process. Additionally, a smooth transition copula function is employed to detect the volatility contagion between financial markets. The approach proposed is applied to the stock markets of the G7 countries to investigate the volatility contagion due to the subprime mortgage crisis. Empirical evidence shows that volatility is contagious from the US market to several markets examined.
+ER  - 
+
+TY  - JOUR
+T1  - Two-stage non Gaussian QML estimation of GARCH models and testing the efficiency of the Gaussian QMLE
+AU  - Francq, Christian
+AU  - Lepage, Guillaume
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 246
+EP  - 257
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761100159X
+KW  - Conditional heteroskedasticity
+KW  - Efficiency of estimators
+KW  - Quasi maximum likelihood estimation
+AB  - In generalized autoregressive conditional heteroskedastic (GARCH) models, the standard identifiability assumption that the variance of the iid process is equal to 1 can be replaced by an alternative moment assumption. We show that, for estimating the original specification based on the standard identifiability assumption, efficiency gains can be expected from using a quasi-maximum likelihood (QML) estimator based on a non Gaussian density and a reparameterization based on an alternative identifiability assumption. A test allowing to determine whether a reparameterization is needed, that is, whether the more efficient QMLE is obtained with a non Gaussian density, is proposed.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian inference in a time varying cointegration model
+AU  - Koop, Gary
+AU  - Leon-Gonzalez, Roberto
+AU  - Strachan, Rodney W.
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 210
+EP  - 220
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.07.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001588
+KW  - Bayesian
+KW  - Time varying cointegration
+KW  - Error correction model
+KW  - Reduced rank regression
+KW  - Markov Chain Monte Carlo
+AB  - There are both theoretical and empirical reasons for believing that the parameters of macroeconomic models may vary over time. However, work with time-varying parameter models has largely involved vector autoregressions (VARs), ignoring cointegration. This is despite the fact that cointegration plays an important role in informing macroeconomists on a range of issues. In this paper, we develop a new time varying parameter model which permits cointegration. We use a specification which allows for the cointegrating space to evolve over time in a manner comparable to the random walk variation used with TVP–VARs. The properties of our approach are investigated before developing a method of posterior simulation. We use our methods in an empirical investigation involving the Fisher effect.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - IFC
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(11)00224-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002247
+ER  - 
+
+TY  - JOUR
+T1  - Hypothesis testing in linear regression when k/n is large
+AU  - Calhoun, Gray
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 163
+EP  - 174
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001448
+KW  - Dimension asymptotics
+KW  - -test
+KW  - Ordinary least squares
+AB  - This paper derives the asymptotic distribution of the F-test for the significance of linear regression coefficients as both the number of regressors, k, and the number of observations, n, increase together so that their ratio remains positive in the limit. The conventional critical values for this test statistic are too small, and the standard version of the F-test is invalid under this asymptotic theory. This paper provides a correction to the F statistic that gives correctly-sized tests both under this paper’s limit theory and also under conventional asymptotic theory that keeps k finite. This paper also presents simulations that indicate the new statistic can perform better in small samples than the conventional test. The statistic is then used to reexamine Olivei and Tenreyro’s results from [Olivei, G., Tenreyro, S., 2007. The timing of monetary policy shocks. The American Economic Review 97, 636–663] and Sala-i-Martin’s results from [Sala-i-Martin, X.X., 1997. I just ran two million regressions. The American Economic Review 87 (2), 178–183].
+ER  - 
+
+TY  - JOUR
+T1  - Functional data analysis for volatility
+AU  - Müller, Hans-Georg
+AU  - Sen, Rituparna
+AU  - Stadtmüller, Ulrich
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 233
+EP  - 245
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001606
+KW  - Diffusion model
+KW  - Functional principal component
+KW  - Functional regression
+KW  - High frequency trading
+KW  - Market returns
+KW  - Prediction
+KW  - Volatility process
+KW  - Trajectories of volatility
+AB  - We introduce a functional volatility process for modeling volatility trajectories for high frequency observations in financial markets and describe functional representations and data-based recovery of the process from repeated observations. A study of its asymptotic properties, as the frequency of observed trades increases, is complemented by simulations and an application to the analysis of intra-day volatility patterns of the S&P 500 index. The proposed volatility model is found to be useful to identify recurring patterns of volatility and for successful prediction of future volatility, through the application of functional regression and prediction techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized method of moments (GMM) based inference with stratified samples when the aggregate shares are known
+AU  - Tripathi, Gautam
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 258
+EP  - 265
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761100162X
+KW  - Generalized method of moments
+KW  - GMM
+KW  - Stratified sampling
+AB  - We show how to do efficient moment based inference using the generalized method of moments (GMM) when data is collected by stratified sampling and the maintained assumption is that the aggregate shares are known.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian inference in a sample selection model
+AU  - van Hasselt, Martijn
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 2
+SP  - 221
+EP  - 232
+PY  - 2011
+DA  - 2011/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001618
+KW  - Sample selection
+KW  - Gibbs sampling
+KW  - Mixture distributions
+KW  - Dirichlet process
+AB  - This paper develops methods of Bayesian inference in a sample selection model. The main feature of this model is that the outcome variable is only partially observed. We first present a Gibbs sampling algorithm for a model in which the selection and outcome errors are normally distributed. The algorithm is then extended to analyze models that are characterized by nonnormality. Specifically, we use a Dirichlet process prior and model the distribution of the unobservables as a mixture of normal distributions with a random number of components. The posterior distribution in this model can simultaneously detect the presence of selection effects and departures from normality. Our methods are illustrated using some simulated data and an abstract from the RAND health insurance experiment.
+ER  - 

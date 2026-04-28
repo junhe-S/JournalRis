@@ -1,0 +1,350 @@
+TY  - JOUR
+T1  - Financial prediction with constrained tail risk
+AU  - Trindade, A. Alexandre
+AU  - Uryasev, Stan
+AU  - Shapiro, Alexander
+AU  - Zrazhevsky, Grigory
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3524
+EP  - 3538
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001392
+KW  - Risk measure
+KW  - Value-at-risk
+KW  - Asymmetric loss
+KW  - Quantile regression
+KW  - Constrained regression
+AB  - A new class of asymmetric loss functions derived from the least absolute deviations or least squares loss with a constraint on the mean of one tail of the residual error distribution, is introduced for analyzing financial data. Motivated by risk management principles, the primary intent is to provide “cautious” forecasts under uncertainty. The net effect on fitted models is to shape the residuals so that on average only a prespecified proportion of predictions tend to fall above or below a desired threshold. The loss functions are reformulated as objective functions in the context of parameter estimation for linear regression models, and it is demonstrated how optimization can be implemented via linear programming. The method is a competitor of quantile regression, but is more flexible and broader in scope. An application is illustrated on prediction of NDX and SPX index returns data, while controlling the magnitude of a fraction of worst losses.
+ER  - 
+
+TY  - JOUR
+T1  - A model for tax advantages of portfolios with many assets
+AU  - Birge, John R.
+AU  - Yang, Song
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3269
+EP  - 3290
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001264
+KW  - Taxes
+KW  - Portfolio optimization
+AB  - Taxable portfolios present challenges for optimization models with even a limited number of assets. Holding many assets, however, has a distinct tax advantage over holding few assets. In this paper, we develop a model that takes an extreme view of a portfolio as a continuum of assets to gain the broadest possible advantage from holding many assets. We find the optimal strategy for trading in this portfolio in the absence of transaction costs and develop bounding approximations on the optimal value. We compare the results in a simulation study to a portfolio consisting only of a market index and show that the multi-asset portfolio’s tax advantage can lead either to significant consumption or bequest increases.
+ER  - 
+
+TY  - JOUR
+T1  - Equilibrium with investors using a diversity of deviation measures
+AU  - Rockafellar, R. Tyrrell
+AU  - Uryasev, Stan
+AU  - Zabarankin, M.
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3251
+EP  - 3268
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001252
+KW  - Financial equilibrium
+KW  - Portfolio analysis
+KW  - Generalized deviation measures
+KW  - Generalized master funds
+KW  - Risk management
+KW  - CAPM-like models
+AB  - It has been argued that investors who optimize their portfolios with attention paid only to mean and standard deviation will all end up choosing some multiple of a certain master fund portfolio. Justification for the capital asset pricing model of classical portfolio theory, which relates individual assets to such a master fund, has come from this direction in particular. Attempts have been made to provide solid mathematical support by showing that the imputed behavior of investors is a consequence of price equilibrium in a market in which assets are traded subject to budget constraints, and optimization is carried out with respect to utility functions that depend only on mean and standard deviation. In recent years, reliance on standard deviation has come under increasing criticism because of inconsistencies in its effect on portfolio preferences. One response has been to introduce generalized measures of deviation which lead to alternative master funds. The market implications of such extensions of theory have hitherto been unclear, but in this paper the existence of equilibrium is established in circumstances where nonstandard deviations are admitted. Equilibrium is guaranteed even when different investors use different measures of deviation and thereby end up with portfolios scaled from different master funds. Whether they employ the same measure or not, they may impose caps on deviation, which likewise may be different.
+ER  - 
+
+TY  - JOUR
+AU  - AitSahlia, Farid
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - v
+EP  - vi
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001240
+ER  - 
+
+TY  - JOUR
+T1  - Fundamental indexation via smoothed cap weights
+AU  - Chen, Chen
+AU  - Chen, Rong
+AU  - Bassett, Gilbert W.
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3486
+EP  - 3502
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001367
+KW  - Capitalization-weighted index
+KW  - Smoothed capitalization-weighted index
+KW  - Fundamental-based portfolio
+KW  - Price inefficiency
+AB  - If prices of individual stocks are unbiased but noisy approximations to fundamental values, there will be a gap in returns between the standard cap-weighted market portfolio and the one based on fundamentals. The discrepancy occurs because, relative to fundamentals, cap-weights are too large (small) for stocks with positive (negative) deviations from fundamental values. It follows that the usual cap-weighted portfolio will underperform relative to the fundamental-based portfolio as long as prices revert to fundamental values. This has led Arnott et al. to propose new market indices based on a firm’s fundamental size as measured by its revenues, number of employees, and so on. In this paper we follow the same principle but propose to estimate fundamental weights using a smoothed average of standard cap-weights. Since the putative excess returns of a fundamentals-weighted portfolio requires reversion to fundamental values, and because fundamental values are likely to change slowly, we can estimate current fundamentals by smoothing the time series of a stock’s noisy prices. The determination of fundamental size in terms of accounting data is thereby replaced by a simple estimate based on price history. We derive expressions for expected returns of the market capitalization-based and fundamentals-based portfolios under various assumptions about (i) the random deviations from fundamental values and (ii) the change in fundamentals over time. We present empirical comparisons between portfolios and find the returns of the fundamentals-based portfolios exceed the standard indices by an amount comparable to the prior estimates that used accounting data to determine size.
+ER  - 
+
+TY  - JOUR
+T1  - Spot and derivative pricing in the EEX power market
+AU  - Bierbrauer, Michael
+AU  - Menn, Christian
+AU  - Rachev, Svetlozar T.
+AU  - Trück, Stefan
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3462
+EP  - 3485
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001355
+KW  - Power markets
+KW  - Spot price modeling
+KW  - Regime-switching models
+KW  - Forward premium
+AB  - Using spot and futures price data from the German EEX Power market, we test the adequacy of various one-factor and two-factor models for electricity spot prices. The models are compared along two different dimensions: (1) We assess their ability to explain the major data characteristics and (2) the forecasting accuracy for expected future spot prices is analyzed. We find that the regime-switching models clearly outperform its competitors in almost all respects. The best results are obtained using a two-regime model with a Gaussian distribution in the spike regime. Furthermore, for short and medium-term periods our results underpin the frequently stated hypothesis that electricity futures quotes are consistently greater than the expected future spot, a situation which is denoted as contango.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized DEA model of fundamental analysis and its application to portfolio optimization
+AU  - Edirisinghe, N.C.P.
+AU  - Zhang, X.
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3311
+EP  - 3335
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001288
+KW  - Portfolio optimization
+KW  - Fundamental analysis
+KW  - Relative financial strength
+KW  - Data envelopment analysis
+AB  - Fundamental analysis is used in asset selection for equity portfolio management. In this paper, a generalized data envelopment analysis (DEA) model is developed to analyze a firm’s financial statements over time in order to determine a relative financial strength indicator (RFSI) that is predictive of firm’s stock price returns. RFSI is based on maximizing the correlation between the DEA-based score of financial strength and the stock market performance. This maximization involves a difficult binary nonlinear program that requires iterative re-configuration of parameters of financial statements as inputs and outputs. We utilize a two-step heuristic algorithm that combines random sampling and local search optimization. The proposed approach is tested with 230 firms from various US technology-industries to determine optimized RFSI indicators for stock selection. Then, those selected stocks are used within portfolio optimization models to demonstrate the usefulness of the scheme for portfolio risk management.
+ER  - 
+
+TY  - JOUR
+T1  - Pricing exotic options with L-stable Padé schemes
+AU  - Khaliq, A.Q.M.
+AU  - Voss, D.A.
+AU  - Yousuf, M.
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3438
+EP  - 3461
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001343
+KW  - Complex digital option
+KW  - Butterfly spread
+KW  - Barrier options
+KW  - Padé schemes
+KW  - -stable methods
+KW  - Black-Scholes model
+KW  - Heston stochastic volatility model
+AB  - In this paper we develop a strongly stable (L-stable) and highly accurate method for pricing exotic options. The method is based on Padé schemes and also utilizes partial fraction decomposition to address issues regarding accuracy and computational efficiency. Due to non-smooth payoffs, which cause discontinuities in the solution (or its derivatives), standard A-stable methods are prone to produce large and spurious oscillations in the numerical solutions which would mislead to estimating options accurately. The proposed method does not suffer these drawbacks while being easy to implement on concurrent processors. Numerical results are presented for digital options, butterfly spread and barrier options in one and two assets. In addition, the methods are tested on the Heston stochastic volatility model.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - IFC
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(07)00307-X
+UR  - https://www.sciencedirect.com/science/article/pii/S037842660700307X
+ER  - 
+
+TY  - JOUR
+T1  - Incentives and risk taking in hedge funds
+AU  - Kouwenberg, Roy
+AU  - Ziemba, William T.
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3291
+EP  - 3310
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001276
+KW  - Hedge funds
+KW  - Incentive fees
+KW  - Optimal portfolio choice
+AB  - We study how incentive fees and manager’s own investment in the fund affect the investment strategy of hedge fund managers. We find that loss averse managers increase the risk of the fund’s investment strategy with higher incentive fees. However, risk taking is greatly reduced if a substantial amount of the manager’s own money (at least 30%) is in the fund. Using the Zurich hedge fund universe, we test the relation between risk taking and incentive fees empirically. Hedge funds with incentive fees have significantly lower mean returns (net of fees), while downside risk is positively related to the incentive fee level. Fund of funds charging large incentive fees achieve relatively high mean returns, but with significantly higher risk as well.
+ER  - 
+
+TY  - JOUR
+T1  - A dynamic model of active portfolio management with benchmark orientation
+AU  - Zhao, Yonggan
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3336
+EP  - 3356
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S037842660700129X
+KW  - Active portfolio management
+KW  - Benchmark portfolio
+KW  - Growth optimum portfolio
+KW  - Risk sensitivity
+KW  - Mutual fund performance evaluation
+AB  - This paper studies optimal dynamic portfolios for investors concerned with the performance of their portfolios relative to a benchmark. Assuming that asset returns follow a multi-linear factor model similar to the structure of Ross (1976) [Ross, S., 1976. The arbitrage theory of the capital asset pricing model. Journal of Economic Theory, 13, 342–360] and that portfolio managers adopt a mean tracking error analysis similar to that of Roll (1992) [Roll, R., 1992. A mean/variance analysis of tracking error. Journal of Portfolio Management, 18, 13–22], we develop a dynamic model of active portfolio management maximizing risk adjusted excess return over a selected benchmark. Unlike the case of constant proportional portfolios for standard utility maximization, our optimal portfolio policy is state dependent, being a function of time to investment horizon, the return on the benchmark portfolio, and the return on the investment portfolio. We define a dynamic performance measure which relates portfolio’s return to its risk sensitivity. Abnormal returns at each point in time are quantified as the difference between the realized and the model-fitted returns. Risk sensitivity is estimated through a dynamic matching that minimizes the total fitted error of portfolio returns. For illustration, we analyze eight representative mutual funds in the U.S. market and show how this model can be used in practice.
+ER  - 
+
+TY  - JOUR
+T1  - A numerical method to price exotic path-dependent options on an underlying described by the Heston stochastic volatility model
+AU  - Ballestra, Luca Vincenzo
+AU  - Pacelli, Graziella
+AU  - Zirilli, Francesco
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3420
+EP  - 3437
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001331
+KW  - Stochastic volatility
+KW  - Heston model
+KW  - Path-dependent options
+KW  - Monte Carlo integration
+AB  - We consider the problem of pricing European exotic path-dependent derivatives on an underlying described by the Heston stochastic volatility model. Lipton has found a closed form integral representation of the joint transition probability density function of underlying price and variance in the Heston model. We give a convenient numerical approximation of this formula and we use the obtained approximated transition probability density function to price discrete path-dependent options as discounted expectations. The expected value of the payoff is calculated evaluating an integral with the Monte Carlo method using a variance reduction technique based on a suitable approximation of the transition probability density function of the Heston model. As a test case, we evaluate the price of a discrete arithmetic average Asian option, when the average over n=12 prices is considered, that is when the integral to evaluate is a 2n=24 dimensional integral. We show that the method proposed is computationally efficient and gives accurate results.
+ER  - 
+
+TY  - JOUR
+T1  - Covariance complexity and rates of return on assets
+AU  - MacLean, Leonard C.
+AU  - Foster, Michael E.
+AU  - Ziemba, William T.
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3503
+EP  - 3523
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001379
+KW  - Empirical Bayes estimation
+KW  - Rates of return
+KW  - Covariance complexity
+KW  - Wealth loss
+AB  - This paper considers the estimation of the expected rate of return on a set of risky assets. The approach to estimation focuses on the covariance matrix for the returns. The structure in the covariance matrix determines shared information which is useful in estimating the mean return for each asset. An empirical Bayes estimator is developed using the covariance structure of the returns distribution. The estimator is an improvement on the maximum likelihood and Bayes–Stein estimators in terms of mean squared error. The effect of reduced estimation error on accumulated wealth is analyzed for the portfolio choice model with constant relative risk aversion utility.
+ER  - 
+
+TY  - JOUR
+T1  - Conditions on option prices for absence of arbitrage and exact calibration
+AU  - Cousot, Laurent
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3377
+EP  - 3397
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001318
+KW  - Options
+KW  - Arbitrage
+KW  - Calibration
+KW  - Default probability
+AB  - Under the assumption of absence of arbitrage, European option quotes on a given asset must satisfy well-known inequalities, which have been described in the landmark paper of Merton [Merton, R., 1973. Theory of rational option pricing. Bell Journal of Economics and Management Science 4 (1), 141–183]. If we further assume that there is no interest rate volatility and that the underlying asset continuously pays deterministic dividends, cross-maturity inequalities must also be satisfied by the bid and ask option prices. In this paper, we show that there exists an arbitrage-free model, which is consistent with the option quotes, if these inequalities are satisfied. One implication is that all static arbitrage strategies are linear combinations, with positive weights, of those described here. We also characterize admissible default probabilities for models which are consistent with given option quotes.
+ER  - 
+
+TY  - JOUR
+T1  - Valuation of synthetic CDOs
+AU  - Iscoe, Ian
+AU  - Kreinin, Alexander
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3357
+EP  - 3376
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426607001306
+KW  - Pricing
+KW  - Collateralized debt obligation
+KW  - Credit risk analysis
+AB  - In this paper, we consider the valuation of a synthetic collateralized debt obligation (CDO), a pool of underlying credit risky securities, “partitioned” into several tranches, each of which absorbs losses in accordance with its size and seniority. We derive a closed-form solution for credit spreads of the tranches of homogeneous pools and find an approximation for the credit spreads of inhomogeneous pools. The method leads to an accurate estimation of the credit spreads of synthetic CDOs and can be used in risk management applications.
+ER  - 
+
+TY  - JOUR
+T1  - Discrete hedging of American-type options using local risk minimization
+AU  - Coleman, Thomas F.
+AU  - Levchenkov, Dmitriy
+AU  - Li, Yuying
+JO  - Journal of Banking & Finance
+VL  - 31
+IS  - 11
+SP  - 3398
+EP  - 3419
+PY  - 2007
+DA  - 2007/11/01/
+T2  - Risk Management and Quantitative Approaches in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2007.04.020
+UR  - https://www.sciencedirect.com/science/article/pii/S037842660700132X
+KW  - American option
+KW  - Discrete hedging
+KW  - Local risk minimization
+KW  - Piecewise linear risk
+KW  - VaR
+KW  - Binomial tree
+KW  - Black–Scholes model
+AB  - Local risk minimization and total risk minimization discrete hedging have been extensively studied for European options [e.g., Schweizer, M., 1995. Variance-optimal hedging in discrete time. Mathematics of Operation Research 20, 1–32; Schweizer, M., 2001. A guided tour through quadratic hedging approaches. In: Jouini, E., Cvitanic, J., Musiela, M., Option pricing, interest rates and risk management, Cambridge University Press, pp. 538–574]. In practice, hedging of options with American features is more relevant. For example, equity linked variable annuities provide surrender benefits which are essentially embedded American options. In this paper we generalize both quadratic and piecewise linear local risk minimization hedging frameworks to American options. We illustrate that local risk minimization methods outperform delta hedging when the market is highly incomplete. In addition, compared to European options, distributions of the hedging costs are typically more skewed and heavy-tailed. Moreover, in contrast to quadratic local risk minimization, piecewise linear risk minimization hedging strategies can be significantly different, resulting in larger probabilities of small costs but also larger extreme cost.
+ER  - 

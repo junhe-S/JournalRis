@@ -1,0 +1,127 @@
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 176
+IS  - 2
+SP  - IFC
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(13)00136-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761300136X
+ER  - 
+
+TY  - JOUR
+T1  - Density approximations for multivariate affine jump-diffusion processes
+AU  - Filipović, Damir
+AU  - Mayerhofer, Eberhard
+AU  - Schneider, Paul
+JO  - Journal of Econometrics
+VL  - 176
+IS  - 2
+SP  - 93
+EP  - 111
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000596
+KW  - Affine processes
+KW  - Asymptotic expansion
+KW  - Density approximation
+KW  - Orthogonal polynomials
+AB  - We introduce closed-form transition density expansions for multivariate affine jump-diffusion processes. The expansions rely on a general approximation theory which we develop in weighted Hilbert spaces for random variables which possess all polynomial moments. We establish parametric conditions which guarantee existence and differentiability of transition densities of affine models and show how they naturally fit into the approximation framework. Empirical applications in option pricing, credit risk, and likelihood inference highlight the usefulness of our expansions. The approximations are extremely fast to evaluate, and they perform very accurately and numerically stable.
+ER  - 
+
+TY  - JOUR
+T1  - Moving average stochastic volatility models with application to inflation forecast
+AU  - Chan, Joshua C.C.
+JO  - Journal of Econometrics
+VL  - 176
+IS  - 2
+SP  - 162
+EP  - 172
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613001255
+KW  - State space
+KW  - Unobserved components model
+KW  - Precision
+KW  - Sparse
+KW  - Density forecast
+AB  - We introduce a new class of models that has both stochastic volatility and moving average errors, where the conditional mean has a state space representation. Having a moving average component, however, means that the errors in the measurement equation are no longer serially independent, and estimation becomes more difficult. We develop a posterior simulator that builds upon recent advances in precision-based algorithms for estimating these new models. In an empirical application involving US inflation we find that these moving average stochastic volatility models provide better in-sample fitness and out-of-sample forecast performance than the standard variants with only stochastic volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient learning via simulation: A marginalized resample-move approach
+AU  - Fulop, Andras
+AU  - Li, Junye
+JO  - Journal of Econometrics
+VL  - 176
+IS  - 2
+SP  - 146
+EP  - 161
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613001164
+KW  - State–space models
+KW  - Particle filters
+KW  - Parameter learning
+KW  - State filtering
+KW  - Resample-move
+KW  - Markov chain Monte Carlo
+KW  - Lévy jumps
+KW  - Stochastic volatility
+KW  - Credit risk
+AB  - In state–space models, parameter learning is practically difficult and is still an open issue. This paper proposes an efficient simulation-based parameter learning method. First, the approach breaks up the interdependence of the hidden states and the static parameters by marginalizing out the states using a particle filter. Second, it applies a Bayesian resample-move approach to this marginalized system. The methodology is generic and needs little design effort. Different from batch estimation methods, it provides posterior quantities necessary for full sequential inference and recursive model monitoring. The algorithm is implemented both on simulated data in a linear Gaussian model for illustration and comparison and on real data in a Lévy jump stochastic volatility model and a structural credit risk model.
+ER  - 
+
+TY  - JOUR
+T1  - Robust adaptive rate-optimal testing for the white noise hypothesis
+AU  - Guay, Alain
+AU  - Guerre, Emmanuel
+AU  - Lazarová, Štěpána
+JO  - Journal of Econometrics
+VL  - 176
+IS  - 2
+SP  - 134
+EP  - 145
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613001152
+KW  - Weak white noise hypothesis
+KW  - HAC inference
+KW  - Automatic nonparametric tests
+KW  - Adaptive rate-optimality
+AB  - A new test is proposed for the weak white noise null hypothesis. The test is based on a new automatic selection of the order for a Box–Pierce (1970) test statistic or the test statistic of Hong (1996). The heteroskedasticity and autocorrelation-consistent (HAC) critical values from Lee (2007) are used, allowing for estimation of the error term. The data-driven order selection is tailored to detect a new class of alternatives with autocorrelation coefficients which can be o(n−1/2) provided there are sufficiently many of such coefficients. A simulation experiment illustrates the good statistical properties of the test both under the weak white noise null and the alternative.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric dynamic panel data models: Kernel estimation and specification testing
+AU  - Su, Liangjun
+AU  - Lu, Xun
+JO  - Journal of Econometrics
+VL  - 176
+IS  - 2
+SP  - 112
+EP  - 133
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613001140
+KW  - Additive models
+KW  - Dynamic panel data models
+KW  - Fredholm integral equation
+KW  - Iterative estimator
+KW  - Linearity
+KW  - Local polynomial regression
+KW  - Specification test
+AB  - Motivated by the first-differencing method for linear panel data models, we propose a class of iterative local polynomial estimators for nonparametric dynamic panel data models with or without exogenous regressors. The estimators utilize the additive structure of the first-differenced model—the fact that the two additive components have the same functional form, and the unknown function of interest is implicitly defined as a solution of a Fredholm integral equation of the second kind. We establish the uniform consistency and asymptotic normality of the estimators. We also propose a consistent test for the correct specification of linearity in typical dynamic panel data models based on the L2 distance of our nonparametric estimates and the parametric estimates under the linear restriction. We derive the asymptotic distributions of the test statistic under the null hypothesis and a sequence of Pitman local alternatives, and prove its consistency against global alternatives. Simulations suggest that the proposed estimators and tests perform well for finite samples. We apply our new method to study the relationships among economic growth, the initial economic condition and capital accumulation, and find a significant nonlinear relation between economic growth and the initial economic condition.
+ER  - 

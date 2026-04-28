@@ -1,0 +1,373 @@
+TY  - JOUR
+T1  - VaR and expected shortfall in portfolios of dependent credit risks: Conceptual and practical insights
+AU  - Frey, Rüdiger
+AU  - McNeil, Alexander J.
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1317
+EP  - 1334
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00265-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002650
+KW  - Risk measures
+KW  - Value-at-risk
+KW  - Coherence
+KW  - Expected shortfall
+KW  - Portfolio credit risk models
+KW  - Bernoulli mixture models
+AB  - In the first part of this paper we address the non-coherence of value-at-risk (VaR) as a risk measure in the context of portfolio credit risk, and highlight some problems which follow from this theoretical deficiency. In particular, a realistic demonstration of the non-subadditivity of VaR is given and the possibly nonsensical consequences of VaR-based portfolio optimisation are shown. The second part of the paper discusses VaR and expected shortfall estimation for large balanced credit portfolios. All standard industry models (Creditmetrics, KMV, CreditRisk+) are presented as Bernoulli mixture models to facilitate their direct comparison. For homogeneous groups it is shown that measures of tail risk for the loss distribution may be approximated in large portfolios by analysing the tail of the mixture distribution in the Bernoulli representation. An example is given showing that, for portfolios of lower quality, choice of model has some impact on measures of extreme risk.
+ER  - 
+
+TY  - JOUR
+T1  - Saddlepoint approximation of CreditRisk+
+AU  - Gordy, Michael B.
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1335
+EP  - 1353
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00266-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002662
+KW  - Portfolio credit risk
+KW  - Value at risk
+KW  - Approximation of quantiles
+AB  - CreditRisk+ is an influential and widely implemented model of portfolio credit risk. As a close variant of models long used for insurance risk, it retains the analytical tractability for which the insurance models were designed. Value-at-risk (VaR) can be obtained via a recurrence-rule algorithm, so Monte Carlo simulation can be avoided. Little recognized, however, is that the algorithm is fragile. Under empirically realistic conditions, numerical error can accumulate in the execution of the recurrence rule and produce wildly inaccurate results for VaR. This paper provides new tools for users of CreditRisk+ based on the cumulant generating function (cgf) of the portfolio loss distribution. Direct solution for the moments of the loss distribution from the cgf is almost instantaneous and is computationally robust. Thus, the moments provide a convenient, quick and independent diagnostic on the implementation and execution of the standard solution algorithm. Better still, with the cgf in hand we have an alternative to the standard algorithm. I show how tail percentiles of the loss distribution can be calculated quickly and easily by saddlepoint approximation. On a large and varied sample of simulated test portfolios, I find a natural complementarity between the two algorithms: Saddlepoint approximation is accurate and robust in those situations for which the standard algorithm performs least well, and is less accurate in those situations for which the standard algorithm is fast and reliable.
+ER  - 
+
+TY  - JOUR
+T1  - CVaR models with selective hedging for international asset allocation
+AU  - Topaloglou, Nikolas
+AU  - Vladimirou, Hercules
+AU  - Zenios, Stavros A.
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1535
+EP  - 1561
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00289-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002893
+KW  - Stochastic programming models
+KW  - International asset allocation
+KW  - Risk management
+KW  - Currency hedging
+AB  - We develop an integrated simulation and optimization framework for multicurrency asset allocation problems. The simulation applies principal component analysis to generate scenarios depicting the discrete joint distributions of uncertain asset returns and exchange rates. We then develop and implement models that optimize the conditional-value-at-risk (CVaR) metric. The scenario-based optimization models encompass alternative hedging strategies, including selective hedging that incorporates currency hedging decisions within the portfolio selection problem. Thus, the selective hedging model determines jointly the portfolio composition and the level of currency hedging for each market via forward exchanges. We examine empirically the benefits of international diversification and the impact of hedging policies on risk–return profiles of portfolios. We assess the effectiveness of the scenario generation procedure and the stability of the model's results by means of out-of-sample simulations. We also compare the performance of the CVaR model against that of a model that employs the mean absolute deviation (MAD) risk measure. We investigate empirically the ex post performance of the models on international portfolios of stock and bond indices using historical market data. Selective hedging proves to be the superior hedging strategy that improves the risk–return profile of portfolios regardless of the risk measurement metric. Although in static tests the MAD and CVaR models often select portfolios that trace practically indistinguishable ex ante risk–return efficient frontiers, in successive applications over several consecutive time periods the CVaR model attains superior ex post results in terms of both higher returns and lower volatility.
+ER  - 
+
+TY  - JOUR
+T1  - On the coherence of expected shortfall
+AU  - Acerbi, Carlo
+AU  - Tasche, Dirk
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1487
+EP  - 1503
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00283-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002832
+KW  - Expected shortfall
+KW  - Risk measure
+KW  - Worst conditional expectation
+KW  - Tail conditional expectation
+KW  - Value-at-risk
+KW  - Conditional value-at-risk
+KW  - Tail mean
+KW  - Coherence
+KW  - Quantile
+KW  - Sub-additivity
+AB  - Expected shortfall (ES) in several variants has been proposed as remedy for the deficiencies of value-at-risk (VaR) which in general is not a coherent risk measure. In fact, most definitions of ES lead to the same results when applied to continuous loss distributions. Differences may appear when the underlying loss distributions have discontinuities. In this case even the coherence property of ES can get lost unless one took care of the details in its definition. We compare some of the definitions of ES, pointing out that there is one which is robust in the sense of yielding a coherent risk measure regardless of the underlying distributions. Moreover, this ES can be estimated effectively even in cases where the usual estimators for VaR fail.
+ER  - 
+
+TY  - JOUR
+T1  - Measures of risk
+AU  - Szegö, Giorgio
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1253
+EP  - 1272
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00262-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002625
+KW  - Risk measures
+KW  - Scalar co-dependence measures
+KW  - Conditional value-at risk
+KW  - Expected shortfall
+KW  - Spectral risk measures and acceptable risk weights
+AB  - The conditions under which the classical measures of risk like the mean, the linear correlation coefficient and VaR can be used are discussed. The definition of risk measure and the main recently proposed risk measures are presented. The problems connected with co-dependence are outlined.
+ER  - 
+
+TY  - JOUR
+T1  - The emperor has no clothes: Limits to risk modelling
+AU  - Danı́elsson, Jón
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1273
+EP  - 1296
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00263-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002637
+KW  - Value-at-risk
+KW  - Capital adequacy
+KW  - Financial regulations
+KW  - Risk models
+AB  - This paper considers the properties of risk measures, primarily value-at-risk (VaR), from both internal and external (regulatory) points of view. It is argued that since market data is endogenous to market behavior, statistical analysis made in times of stability does not provide much guidance in times of crisis. In an extensive survey across data classes and risk models, the empirical properties of current risk forecasting models are found to be lacking in robustness while being excessively volatile. For regulatory use, the VaR measure may give misleading information about risk, and in some cases may actually increase both idiosyncratic and systemic risk.
+ER  - 
+
+TY  - JOUR
+T1  - Tail estimation and mean–VaR portfolio selection in markets subject to financial instability
+AU  - Consigli, Giorgio
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1355
+EP  - 1382
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00267-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002674
+KW  - Poisson–Gaussian probability distribution
+KW  - Event risk
+KW  - Extreme values
+KW  - Value-at-Risk estimation
+KW  - Optimal portfolio selection
+KW  - Benchmark optimisation with VaR constraints
+AB  - Risk managers are increasingly required by international Regulatory Institutions to adopt accurate techniques for the measurement and control of portfolios financial risks. The task requires first the identification of the different risk sources affecting the portfolio and the measurement of their impact, then after: the adoption of appropriate portfolio strategies aimed at neutralising these risks. The comprehensive concept of Value-at-Risk (VaR) as a maximum tolerable loss, with a given confidence interval, has become in this regard the industry standard in risk management. In the paper we focus on the implications of different risk measurement techniques and portfolio optimisation strategies in presence of markets subject to periods of severe instability, resulting in significant deviations of financial returns from the Normality assumption typically adopted in mainstream finance. Comparative results on 1 day-VaR(99%) estimation are presented over a range of bond and equity markets with different risk profiles. The reference period of our analysis includes several market shocks and in particular the Argentinean Eurobond crisis of July 2001. The solution of an optimal portfolio problem over the crisis period is discussed within a [mean, variance, VaR99%] portfolio space, emphasising the difficulty of the portfolio's relative return maximisation problem faced by fund managers.
+ER  - 
+
+TY  - JOUR
+T1  - The estimation of transition matrices for sovereign credit ratings
+AU  - Hu, Yen-Ting
+AU  - Kiesel, Rudiger
+AU  - Perraudin, William
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1383
+EP  - 1406
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00268-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002686
+KW  - Sovereign default
+KW  - Credit rating
+KW  - Credit risk
+KW  - Ordered probit
+AB  - Rating transition matrices for sovereigns are an important input to risk management of portfolios of emerging market credit exposures. They are widely used both in credit portfolio management and to calculate future loss distributions for pricing purposes. However, few sovereigns and almost no low credit quality sovereigns have ratings histories longer than a decade, so estimating such matrices is difficult. This paper shows how one may combine information from sovereign defaults observed over a longer period and a broader set of countries to derive estimates of sovereign transition matrices.
+ER  - 
+
+TY  - JOUR
+T1  - Special Issue pages: Contents
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - v
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00297-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002972
+ER  - 
+
+TY  - JOUR
+T1  - Incentives for effective risk management
+AU  - Danı́elsson, Jón
+AU  - Jorgensen, Bjørn N.
+AU  - de Vries, Casper G.
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1407
+EP  - 1425
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00269-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002698
+KW  - Risk management systems
+KW  - Regulation
+KW  - Value-at-Risk
+KW  - Basel-II
+AB  - Under the new Capital Accord, banks choose between two different types of risk management systems, the standard or the internal rating based approach. The paper considers how a bank's preference for a risk management system is affected by the presence of supervision by bank regulators. The model uses a principal–agent setting between a bank's owner and its risk management. The main conclusion is that previously unregulated institutions can be expected to switch to the lower quality standard approach subsequent to becoming regulated, i.e., the presence of regulation may induce a bank to decrease the quality of its risk management system.
+ER  - 
+
+TY  - JOUR
+T1  - Subordinated debt, market discipline, and banks' risk taking
+AU  - Blum, Jürg M.
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1427
+EP  - 1441
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00282-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002820
+KW  - Subordinated debt
+KW  - Market discipline
+KW  - Banks
+KW  - Risk taking
+KW  - Deposit insurance
+AB  - The present paper demonstrates the ambiguous impact of subordinated debt on the risk-taking incentives of banks. It is shown that in comparison with full deposit insurance, subordinated debt reduces risk only if banks can credibly commit to a given level of risk. If, however, banks are not able to commit, subordinated debt leads to an increase in risk. This is because due to limited liability banks always have an incentive to increase their risk after the interest rate is contracted in order to reduce the expected costs of debt. Rational debt holders anticipate this behavior and accordingly require a higher risk premium ex ante. The higher interest rates in turn further aggravate the excessive risk-taking incentives of banks.
+ER  - 
+
+TY  - JOUR
+T1  - Iddo Sarnat Award
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - iii
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00299-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002996
+ER  - 
+
+TY  - JOUR
+T1  - No more VaR (this is not a typo)
+AU  - Szegö, Giorgio P
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1247
+EP  - 1251
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00280-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002807
+ER  - 
+
+TY  - JOUR
+T1  - Spectral measures of risk: A coherent representation of subjective risk aversion
+AU  - Acerbi, Carlo
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1505
+EP  - 1518
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00281-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002819
+KW  - Expected shortfall
+KW  - Risk measure
+KW  - Value-at-risk
+KW  - Conditional value-at-risk
+KW  - Coherence
+KW  - Quantile
+KW  - Subadditivity
+AB  - We study a space of coherent risk measures Mφ obtained as certain expansions of coherent elementary basis measures. In this space, the concept of “risk aversion function” φ naturally arises as the spectral representation of each risk measure in a space of functions of confidence level probabilities. We give necessary and sufficient conditions on φ for Mφ to be a coherent measure. We find in this way a simple interpretation of the concept of coherence and a way to map any rational investor's subjective risk aversion onto a coherent measure and vice-versa. We also provide for these measures their discrete versions M(N)φ acting on finite sets of N independent realizations of a r.v. which are not only shown to be coherent measures for any fixed N, but also consistent estimators of Mφ for large N.
+ER  - 
+
+TY  - JOUR
+T1  - Pure jump Lévy processes for asset price modelling
+AU  - Geman, Hélyette
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1297
+EP  - 1316
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00264-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002649
+KW  - Stochastic time changes
+KW  - Economic time
+KW  - Lévy density
+KW  - Quadratic variation
+KW  - Option pricing
+AB  - The goal of the paper is to show that some types of Lévy processes such as the hyperbolic motion and the CGMY are particularly suitable for asset price modelling and option pricing. We wish to review some fundamental mathematic properties of Lévy distributions, such as the one of infinite divisibility, and how they translate observed features of asset price returns. We explain how these processes are related to Brownian motion, the central process in finance, through stochastic time changes which can in turn be interpreted as a measure of the economic activity. Lastly, we focus on two particular classes of pure jump Lévy processes, the generalized hyperbolic model and the CGMY models, and report on the goodness of fit obtained both on stock prices and option prices.
+ER  - 
+
+TY  - JOUR
+T1  - Putting order in risk measures
+AU  - Frittelli, Marco
+AU  - Rosazza Gianin, Emanuela
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1473
+EP  - 1486
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00270-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002704
+KW  - Risk measures
+KW  - Coherent risk measures
+KW  - Convex risk measures
+KW  - Incomplete markets
+KW  - Convex duality
+AB  - This paper introduces a set of axioms that define convex risk measures. Duality theory provides the representation theorem for these measures and the link with pricing rules.
+ER  - 
+
+TY  - JOUR
+T1  - Conditional value-at-risk for general loss distributions
+AU  - Rockafellar, R.Tyrrell
+AU  - Uryasev, Stanislav
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1443
+EP  - 1471
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00271-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002716
+KW  - Value-at-risk
+KW  - Conditional value-at-risk
+KW  - Mean shortfall
+KW  - Coherent risk measures
+KW  - Risk sampling
+KW  - Scenarios
+KW  - Hedging
+KW  - Index tracking
+KW  - Portfolio optimization
+KW  - Risk management
+AB  - Fundamental properties of conditional value-at-risk (CVaR), as a measure of risk with significant advantages over value-at-risk (VaR), are derived for loss distributions in finance that can involve discreetness. Such distributions are of particular importance in applications because of the prevalence of models based on scenarios and finite sampling. CVaR is able to quantify dangers beyond VaR and moreover it is coherent. It provides optimization short-cuts which, through linear programming techniques, make practical many large-scale calculations that could otherwise be out of reach. The numerical efficiency and stability of such calculations, shown in several case studies, are illustrated further with an example of index tracking.
+ER  - 
+
+TY  - JOUR
+T1  - Expected shortfall and beyond
+AU  - Tasche, Dirk
+JO  - Journal of Banking & Finance
+VL  - 26
+IS  - 7
+SP  - 1519
+EP  - 1533
+PY  - 2002
+DA  - 2002/07/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(02)00272-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426602002728
+KW  - Expected shortfall
+KW  - Value-at-risk
+KW  - Spectral risk measure
+KW  - Coherence
+KW  - Risk contribution
+AB  - Financial institutions have to allocate so-called economic capital in order to guarantee solvency to their clients and counterparties. Mathematically speaking, any methodology of allocating capital is a risk measure, i.e. a function mapping random variables to the real numbers. Nowadays value-at-risk (VaR), which is defined as a fixed level quantile of the random variable under consideration, is the most popular risk measure. Unfortunately, it fails to reward diversification, as it is not subadditive. In the search for a suitable alternative to VaR, expected shortfall (ES) (or conditional VaR or tail VaR) has been characterized as the smallest coherent and law invariant risk measure to dominate VaR. We discuss these and some other properties of ES as well as its generalization to a class of coherent risk measures which can incorporate higher moment effects. Moreover, we suggest a general method on how to attribute ES risk contributions to portfolio components.
+ER  - 

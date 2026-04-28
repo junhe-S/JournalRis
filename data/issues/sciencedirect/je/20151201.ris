@@ -1,0 +1,547 @@
+TY  - JOUR
+T1  - Prediction of Lévy-driven CARMA processes
+AU  - Brockwell, Peter J.
+AU  - Lindner, Alexander
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 263
+EP  - 271
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000998
+KW  - Prediction
+KW  - Lévy process
+KW  - CARMA process
+KW  - Continuous time
+AB  - The conditional expectations, E(Y(h)|Y(u),−∞<u≤0) and E(Y(h)|Y(u),−M≤u≤0) with h>0 and 0<M<∞ are determined for a continuous-time ARMA (CARMA) process (Y(t))t∈R driven by a Lévy process L with E|L(1)|<∞. If E(L(1)2)<∞ these are the minimum mean-squared error predictors of Y(h) given (Y(t))t≤0 and (Y(t))−M≤t≤0 respectively. Conditions are also established under which the sample-path of L can be recovered from that of Y, both when Y is causal and strictly stationary and (without these assumptions) when L is a pure-jump Lévy process. When E(L(1)2)<∞ and Y is causal and strictly stationary the best linear predictors P(Y(h)|Y(u),u≤0) and P(Y(h)|Y(−nΔ),n∈N) are also determined, the latter yielding a simple algorithm for determining the parameters of the ARMA process obtained by sampling the CARMA process at regular intervals.
+ER  - 
+
+TY  - JOUR
+T1  - Forecasting co-volatilities via factor models with asymmetry and long memory in realized covariance
+AU  - Asai, Manabu
+AU  - McAleer, Michael
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 251
+EP  - 262
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000986
+KW  - Dimension reduction
+KW  - Factor model
+KW  - Multivariate stochastic volatility
+KW  - Leverage effects
+KW  - Long memory
+KW  - Realized volatility
+AB  - Modeling covariance structures are known to suffer from the curse of dimensionality. In order to avoid the problem for forecasting, the paper proposes a new factor multivariate stochastic volatility (fMSV) model for realized covariance measures that accommodates asymmetry and long memory. Using the basic structure of the fMSV model, the paper extends the dynamic correlation MSV model, the conditional/stochastic Wishart autoregressive models, the matrix-exponential MSV model, and the Cholesky MSV model. Empirical results for 7 financial asset returns for the US stock returns indicate that the new fMSV models outperform existing dynamic conditional correlation models for forecasting future covariances. Regarding the forecasting performance for one-day, five-day and ten-day horizons, the recommended specification among the new fMSV models is the stochastic Wishart autoregressive specification with asymmetric effects for the periods during and after the global financial crisis, while the Cholesky fMSV model with long memory and asymmetry displays the best performance for periods without the financial turbulence.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - IFC
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00241-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002419
+ER  - 
+
+TY  - JOUR
+T1  - High dimensional stochastic regression with latent factors, endogeneity and nonlinearity
+AU  - Chang, Jinyuan
+AU  - Guo, Bin
+AU  - Yao, Qiwei
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 297
+EP  - 312
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001025
+KW  - -mixing
+KW  - Dimension reduction
+KW  - Instrument variables
+KW  - Nonstationarity
+KW  - Time series
+AB  - We consider a multivariate time series model which represents a high dimensional vector process as a sum of three terms: a linear regression of some observed regressors, a linear combination of some latent and serially correlated factors, and a vector white noise. We investigate the inference without imposing stationary conditions on the target multivariate time series, the regressors and the underlying factors. Furthermore we deal with the endogeneity that there exist correlations between the observed regressors and the unobserved factors. We also consider the model with nonlinear regression term which can be approximated by a linear regression function with a large number of regressors. The convergence rates for the estimators of regression coefficients, the number of factors, factor loading space and factors are established under the settings when the dimension of time series and the number of regressors may both tend to infinity together with the sample size. The proposed method is illustrated with both simulated and real data examples.
+ER  - 
+
+TY  - JOUR
+T1  - LASSO estimation of threshold autoregressive models
+AU  - Chan, Ngai Hang
+AU  - Yau, Chun Yip
+AU  - Zhang, Rong-Mao
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 285
+EP  - 296
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001013
+KW  - Group lasso
+KW  - Information criterion
+KW  - Least angle regression (LARS)
+KW  - Multiple regimes
+AB  - This paper develops a novel approach for estimating a threshold autoregressive (TAR) model with multiple-regimes and establishes its large sample properties. By reframing the problem in a regression variable selection context, a least absolute shrinkage and selection operator (LASSO) procedure is proposed to estimate a TAR model with an unknown number of thresholds, where the computation can be performed efficiently. It is further shown that the number and the location of the thresholds can be consistently estimated. A near optimal convergence rate of the threshold parameters is also established. Simulation studies are conducted to assess the performance in finite samples. The results are illustrated with an application to the quarterly US real GNP data over the period 1947–2009.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized ARMA models with martingale difference errors
+AU  - Zheng, Tingguo
+AU  - Xiao, Han
+AU  - Chen, Rong
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 492
+EP  - 506
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.040
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001189
+KW  - Beta time series
+KW  - Ergodicity
+KW  - Gamma time series
+KW  - Gaussian pseudo-likelihood
+KW  - Realized volatility
+AB  - The analysis of non-Gaussian time series has been studied extensively and has many applications. Many successful models can be viewed as special cases or variations of the generalized autoregressive moving average (GARMA) models of Benjamin et al. (2003), where a link function similar to that used in generalized linear models is introduced and the conditional mean, under the link function, assumes an ARMA structure. Under such a model, the ‘transformed’ time series, under the same link function, assumes an ARMA form as well. Unfortunately, unless the link function is an identity function, the error sequence defined in the transformed ARMA model is usually not a martingale difference sequence. In this paper we extend the GARMA model in such a way that the resulting ARMA model in the transformed space has a martingale difference sequence as its error sequence. The benefit of such an extension are four-folds. It has easily verifiable conditions for stationarity and ergodicity; its Gaussian pseudo-likelihood estimator is consistent; standard time series model building tools are ready to use; and its MLE’s asymptotic distribution can be established. We also proposes two new classes of non-Gaussian time series models under the new framework. The performance of the proposed models is demonstrated with simulated and real examples.
+ER  - 
+
+TY  - JOUR
+T1  - Functional index coefficient models with variable selection
+AU  - Cai, Zongwu
+AU  - Juhl, Ted
+AU  - Yang, Bingduo
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 272
+EP  - 284
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001001
+KW  - Functional index coefficient autoregressive model
+KW  - Model selection
+KW  - Oracle property
+KW  - Penalty function
+KW  - Smoothly clipped absolute deviation
+AB  - We consider model (variable) selection in a semi-parametric time series model with functional coefficients. Variable selection in the semi-parametric model must account for the fact that the parametric part of the model is estimated at a faster convergence rate than the nonparametric component. Our variable selection procedures employ a smoothly clipped absolute deviation penalty function and consist of two steps. The first is to select covariates with functional coefficients that enter in the semi-parametric model. Then, we perform variable selection for variables with parametric coefficients. The asymptotic properties, such as consistency, sparsity and the oracle property of these two-step estimators are established. A Monte Carlo simulation study is conducted to examine the finite sample performance of the proposed estimators and variable selection procedures. Finally, an empirical example exploring the predictability of asset returns demonstrates the practical application of the proposed functional index coefficient autoregressive models and variable selection procedures.
+ER  - 
+
+TY  - JOUR
+T1  - Threshold models in time series analysis—Some reflections
+AU  - Tong, Howell
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 485
+EP  - 491
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.039
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001177
+KW  - All-step-ahead prediction
+KW  - Asymmetry
+KW  - Bayesian decision
+KW  - Business cycle
+KW  - Catastrophe
+KW  - Conditionally heteroscedastic autoregressive models with thresholds
+KW  - GARCH model
+KW  - Hidden Markov chain
+KW  - Hysteresis
+KW  - Jump resonance
+KW  - Markov switching model
+KW  - Mis-specified model
+KW  - Mixture of distributions
+KW  - Non-likelihood approach
+KW  - Nonlinear unit root
+KW  - Non-stationarity
+KW  - Open-loop system
+KW  - Panel threshold model
+KW  - Positive-valued time series
+KW  - Smooth threshold autoregressive models
+KW  - Splines
+KW  - Stochastic volatility
+KW  - Structural breaks
+KW  - Threshold autoregressive models
+KW  - Threshold moving average models
+KW  - Threshold principle
+KW  - Threshold unit root
+KW  - Volatility
+KW  - Wrong model
+AB  - In this paper, I reflect on the developments of the threshold model in time series analysis since its birth in 1978, with particular reference to econometrics.
+ER  - 
+
+TY  - JOUR
+T1  - Quasi-likelihood estimation of a threshold diffusion process
+AU  - Su, Fei
+AU  - Chan, Kung-Sik
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 473
+EP  - 484
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.038
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001165
+KW  - Girsanov’s theorem
+KW  - Interest rates
+KW  - Nonlinear time series
+KW  - Stochastic differential equation
+KW  - Term structure
+AB  - The threshold diffusion process, first introduced by Tong (1990), is a continuous-time process satisfying a stochastic differential equation with a piecewise linear drift term and a piecewise smooth diffusion term, e.g., a piecewise constant function or a piecewise power function. We consider the problem of estimating the (drift) parameters indexing the drift term of a threshold diffusion process with continuous-time observations. Maximum likelihood estimation of the drift parameters requires prior knowledge of the functional form of the diffusion term, which is, however, often unavailable. We propose a quasi-likelihood approach for estimating the drift parameters of a two-regime threshold diffusion process that does not require prior knowledge about the functional form of the diffusion term. We show that, under mild regularity conditions, the quasi-likelihood estimators of the drift parameters are consistent. Moreover, the estimator of the threshold parameter is super consistent and weakly converges to some non-Gaussian continuous distribution. Also, the estimators of the autoregressive parameters in the drift term are jointly asymptotically normal with distribution the same as that when the threshold parameter is known. The empirical properties of the quasi-likelihood estimator are studied by simulation. We apply the threshold model to estimate the term structure of a long time series of US interest rates. The proposed approach and asymptotic results can be readily lifted to the case of a multi-regime threshold diffusion process.
+ER  - 
+
+TY  - JOUR
+T1  - Frontiers in Time Series and Financial Econometrics: An overview
+AU  - Ling, Shiqing
+AU  - McAleer, Michael
+AU  - Tong, Howell
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 245
+EP  - 250
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000974
+KW  - Time series
+KW  - Financial econometrics
+KW  - Threshold models
+KW  - Conditional volatility
+KW  - Stochastic volatility
+KW  - Copulas
+KW  - Conditional duration
+AB  - Two of the fastest growing frontiers in econometrics and quantitative finance are time series and financial econometrics. Significant theoretical contributions to financial econometrics have been made by experts in statistics, econometrics, mathematics, and time series analysis. The purpose of this special issue of the journal on “Frontiers in Time Series and Financial Econometrics” is to highlight several areas of research by leading academics in which novel methods have contributed significantly to time series and financial econometrics, including forecasting co-volatilities via factor models with asymmetry and long memory in realized covariance, prediction of Lévy-driven CARMA processes, functional index coefficient models with variable selection, LASSO estimation of threshold autoregressive models, high dimensional stochastic regression with latent factors, endogeneity and nonlinearity, sign-based portmanteau test for ARCH-type models with heavy-tailed innovations, toward optimal model averaging in regression models with time series errors, high dimensional dynamic stochastic copula models, a misspecification test for multiplicative error models of non-negative time series processes, sample quantile analysis for long-memory stochastic volatility models, testing for independence between functional time series, statistical inference for panel dynamic simultaneous equations models, specification tests of calibrated option pricing models, asymptotic inference in multiple-threshold double autoregressive models, a new hyperbolic GARCH model, intraday value-at-risk: an asymmetric autoregressive conditional duration approach, refinements in maximum likelihood inference on spatial autocorrelation in panel data, statistical inference of conditional quantiles in nonlinear time series models, quasi-likelihood estimation of a threshold diffusion process, threshold models in time series analysis — some reflections, and generalized ARMA models with martingale difference errors.
+ER  - 
+
+TY  - JOUR
+T1  - A new hyperbolic GARCH model
+AU  - Li, Muyi
+AU  - Li, Wai Keung
+AU  - Li, Guodong
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 428
+EP  - 436
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.034
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001128
+KW  - ARCH()
+KW  - Hyperbolic GARCH
+KW  - Long-range dependence
+KW  - QMLE
+AB  - There are two commonly used hyperbolic GARCH processes, the FIGARCH and HYGARCH processes, in modeling the long-range dependence in volatility. However, the FIGARCH process always has infinite variance, and the HYGARCH model has a more complicated form. This paper builds a simple bridge between a common GARCH model and an integrated GARCH model, and hence a new hyperbolic GARCH model along the lines of FIGARCH models. The new model remedies the drawback of FIGARCH processes by allowing the existence of finite variance as in HYGARCH models, while it has a form nearly as simple as the FIGARCH model. Two inference tools, including the Gaussian QMLE and a portmanteau test for the adequacy of the fitted model, are derived, and an easily implemented test for hyperbolic memory is also constructed. Their finite sample performances are evaluated by simulation experiments, and an empirical example gives further support to our new model.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic inference in multiple-threshold double autoregressive models
+AU  - Li, Dong
+AU  - Ling, Shiqing
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 415
+EP  - 427
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001116
+KW  - Compound Poisson process
+KW  - Ergodicity
+KW  - Quasi-maximum likelihood estimation
+KW  - Strict stationarity
+KW  - MTDAR model
+KW  - Score test
+AB  - This paper investigates a class of multiple-threshold models, called Multiple Threshold Double AR (MTDAR) models. A sufficient condition is obtained for the existence and uniqueness of a strictly stationary and ergodic solution to the first-order MTDAR model. We study the Quasi-Maximum Likelihood Estimator (QMLE) of the MTDAR model. The estimated thresholds are shown to be n-consistent, asymptotically independent, and to converge weakly to the smallest minimizer of a two-sided compound Poisson process. The remaining parameters are n-consistent and asymptotically multivariate normal. In particular, these results apply to the multiple threshold ARCH model, with or without AR part, and to the multiple threshold AR models with ARCH errors. A score-based test is also presented to determine the number of thresholds in MTDAR models. The limiting distribution is shown to be distribution-free and is easy to implement in practice. Simulation studies are conducted to assess the performance of the QMLE and our score-based test in finite samples. The results are illustrated with an application to the quarterly US real GNP data over the period 1947–2013.
+ER  - 
+
+TY  - JOUR
+T1  - Intraday Value-at-Risk: An asymmetric autoregressive conditional duration approach
+AU  - Liu, Shouwei
+AU  - Tse, Yiu-Kuen
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 437
+EP  - 446
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.035
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500113X
+KW  - High-frequency transaction data
+KW  - Market microstructure noise
+KW  - Asymmetric autoregressive conditional duration model
+KW  - Intraday Value-at-Risk
+KW  - Backtesting
+AB  - We propose to compute the Intraday Value-at-Risk (IVaR) for stocks using real-time transaction data. Tick-by-tick data filtered by price duration are modeled using a two-state asymmetric autoregressive conditional duration (AACD) model, and the IVaR is calculated using Monte Carlo simulation based on the estimated AACD model. Backtesting results for the New York Stock Exchange (NYSE) show that the IVaR calculated using the AACD method outperforms those using the Dionne et al. (2009) and Giot (2005) methods.
+ER  - 
+
+TY  - JOUR
+T1  - Toward optimal model averaging in regression models with time series errors
+AU  - Cheng, Tzu-Chang F.
+AU  - Ing, Ching-Kang
+AU  - Yu, Shu-Hui
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 321
+EP  - 334
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001049
+KW  - Asymptotic efficiency
+KW  - Autocovariance-corrected Mallows model averaging
+KW  - Banded Cholesky factorization
+KW  - Feasible generalized least squares estimator
+KW  - High-dimensional covariance matrix
+KW  - Time series errors
+AB  - Consider a regression model with infinitely many parameters and time series errors. We are interested in choosing weights for averaging across generalized least squares (GLS) estimators obtained from a set of approximating models. However, GLS estimators, depending on the unknown inverse covariance matrix of the errors, are usually infeasible. We therefore construct feasible generalized least squares (FGLS) estimators using a consistent estimator of the unknown inverse matrix. Based on this inverse covariance matrix estimator and FGLS estimators, we develop a feasible autocovariance-corrected Mallows model averaging criterion to select weights, thereby providing an FGLS model averaging estimator of the true regression function. We show that the generalized squared error loss of our averaging estimator is asymptotically equivalent to the minimum one among those of GLS model averaging estimators with the weight vectors belonging to a continuous set, which includes the discrete weight set used in Hansen (2007) as its proper subset.
+ER  - 
+
+TY  - JOUR
+T1  - Specification tests of calibrated option pricing models
+AU  - Jarrow, Robert
+AU  - Kwok, Simon Sai Man
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 397
+EP  - 414
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001104
+AB  - In spite of the popularity of model calibration in finance, empirical researchers have put more emphasis on model estimation than on the equally important goodness-of-fit problem. This is due partly to the ignorance of modelers, and more to the ability of existing statistical tests to detect specification errors. In practice, models are often calibrated by minimizing a loss function of the differences between the modeled and actual observations. Under this approach, it is challenging to disentangle model error from estimation error in the residual series. To circumvent the difficulty, we study an alternative way of estimating the model by exact calibration. Unlike the error minimization approach, all information about dynamic misspecifications is channeled to the parameter estimation residuals under exact calibration. In the context of option pricing, we illustrate that standard time series tests are powerful in detecting various kinds of dynamic misspecifications. Compared to the error minimization approach, exact calibration yields more reasonable model comparison result, and delivers more accurate hedging performance that is robust to both gradual and abrupt structural shifts of state variables.
+ER  - 
+
+TY  - JOUR
+T1  - Sign-based portmanteau test for ARCH-type models with heavy-tailed innovations
+AU  - Chen, Min
+AU  - Zhu, Ke
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 313
+EP  - 320
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001037
+KW  - ARCH-type model
+KW  - Heavy-tailed innovation
+KW  - LAD estimator
+KW  - Model diagnostics
+KW  - Sign-based portmanteau test
+AB  - This paper proposes a sign-based portmanteau test for diagnostic checking of ARCH-type models estimated by the least absolute deviation approach. Under the strict stationarity condition, the asymptotic distribution is obtained. The new test is applicable for very heavy-tailed innovations with only finite fractional moments. Simulations are undertaken to assess the performance of the sign-based test, as well as a comparison with other two portmanteau tests. A real empirical example for exchange rates is given to illustrate the practical usefulness of the test.
+ER  - 
+
+TY  - JOUR
+T1  - High dimensional dynamic stochastic copula models
+AU  - Creal, Drew D.
+AU  - Tsay, Ruey S.
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 335
+EP  - 345
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001050
+KW  - State space models
+KW  - Dynamic copulas
+KW  - Bayesian estimation
+KW  - Particle filters
+KW  - Credit default swaps
+AB  - We build a class of copula models that captures time-varying dependence across large panels of financial assets. Our models nest Gaussian, Student’s t, grouped Student’s t, and generalized hyperbolic copulas with time-varying correlations matrices, as special cases. We introduce time-variation into the densities by writing them as factor models with stochastic loadings. The proposed copula models have flexible dynamics and heavy tails yet remain tractable in high dimensions due to their factor structure. Our Bayesian estimation approach leverages a recent advance in sequential Monte Carlo methods known as particle Gibbs sampling which can draw large blocks of latent variables efficiently and in parallel. We use this framework to model an unbalanced, 200-dimensional panel consisting of credit default swaps and equities for 100 US corporations. Our analysis shows that the grouped Student’s t stochastic copula is preferred over seven competing models.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical inference for panel dynamic simultaneous equations models
+AU  - Hsiao, Cheng
+AU  - Zhou, Qiankun
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 383
+EP  - 396
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001098
+KW  - Panel dynamic simultaneous equations
+KW  - Maximum likelihood
+KW  - Instrumental variable
+KW  - Generalized method of moments
+KW  - Multi-dimensional asymptotics
+AB  - We study the identification and estimation of panel dynamic simultaneous equations models. We show that the presence of time-persistent individual-specific effects does not lead to changes in the identification conditions of traditional Cowles Commission dynamic simultaneous equations models. However, the limiting properties of the estimators depend on the way the cross-section dimension, N, or the time series dimension, T, goes to infinity. We propose three limited information estimator: panel simple instrumental variables (PIV), panel generalized two stage least squares (PG2SLS), and panel limited information maximum likelihood estimation (PLIML). We show that they are all asymptotically unbiased independent of the way of how N or T tends to infinity. Monte Carlo studies are conducted to compare the performance of the PLIML, PIV, PG2SLS, the Arellano–Bond type generalized method of moments and the Akashi–Kunitomo least variance ratio estimator. We demonstrate that the reliability of statistical inference depends critically on whether an estimator is asymptotically unbiased or not.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical inference for conditional quantiles in nonlinear time series models
+AU  - So, Mike K.P.
+AU  - Chung, Ray S.W.
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 457
+EP  - 472
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001153
+KW  - Conditional quantile
+KW  - High-end quantile estimation
+KW  - Nonlinear time series
+KW  - Specification test
+AB  - This paper studies the statistical properties of a two-step conditional quantile estimator in nonlinear time series models with unspecified error distribution. The asymptotic distribution of the quasi-maximum likelihood estimators and the filtered empirical percentiles is derived. Three applications of the asymptotic result are considered. First, we construct an interval estimator of the conditional quantile without any distributional assumptions. Second, we develop a specification test for the error distribution. Finally, using the specification test, we propose methods for estimating the tail index of the error distribution that supports the construction of a new estimator for the conditional quantile at the extreme tail. The asymptotic results and their applications are illustrated by simulations and real data analyses in which our methods for analyzing daily and intraday financial return series have been adopted.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for independence between functional time series
+AU  - Horváth, Lajos
+AU  - Rice, Gregory
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 371
+EP  - 382
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.030
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001086
+KW  - Functional observations
+KW  - Tests for independence
+KW  - Weak dependence
+KW  - Long run covariance function
+KW  - Central limit theorem
+AB  - Frequently econometricians are interested in verifying a relationship between two or more time series. Such analysis is typically carried out by causality and/or independence tests which have been well studied when the data is univariate or multivariate. Modern data though is increasingly of a high dimensional or functional nature for which finite dimensional methods are not suitable. In the present paper we develop methodology to check the assumption that data obtained from two functional time series are independent. Our procedure is based on the norms of empirical cross covariance operators and is asymptotically validated when the underlying populations are assumed to be in a class of weakly dependent random functions which include the functional ARMA, ARCH and GARCH processes.
+ER  - 
+
+TY  - JOUR
+T1  - Refinements in maximum likelihood inference on spatial autocorrelation in panel data
+AU  - Robinson, Peter M.
+AU  - Rossi, Francesca
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 447
+EP  - 456
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.036
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001141
+KW  - Panel data
+KW  - Fixed effects
+KW  - Spatial autoregression
+KW  - Edgeworth expansion
+KW  - Interval estimates
+KW  - Tests for cross-sectional independence
+AB  - In a panel data model with fixed effects, possible cross-sectional dependence is investigated in a spatial autoregressive setting. An Edgeworth expansion is developed for the maximum likelihood estimate of the spatial correlation coefficient. The expansion is used to develop more accurate interval estimates for the coefficient, and tests for cross-sectional independence that have better size properties, than corresponding rules of statistical inference based on first order asymptotic theory. Comparisons of finite sample performance are carried out using Monte Carlo simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Sample quantile analysis for long-memory stochastic volatility models
+AU  - Ho, Hwai-Chung
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 360
+EP  - 370
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.029
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001074
+KW  - Sample quantile
+KW  - Long-memory stochastic volatility model
+KW  - Least absolute deviation estimator
+KW  - Asymptotic normality
+KW  - Sampling window method
+KW  - Value-at-Risk
+AB  - This study investigates asymptotic properties of sample quantile estimates in the context of long-memory stochastic volatility models in which the latent volatility component is an exponential transformation of a linear long-memory time series. We focus on the least absolute deviation quantile estimator and show that while the underlying process is a sequence of stationary martingale differences, the estimation errors are asymptotically normal with the convergence rate which is slower than n and determined by the dependence parameter of the volatility sequence. A non-parametric resampling method is employed to estimate the normalizing constants by which the confidence intervals are constructed. To demonstrate the methodology, we conduct a simulation study as well as an empirical analysis of the Value-at-Risk estimate of the S&P 500 daily returns. Both are consistent with the theoretical findings and provide clear evidence that the coverage probabilities of confidence intervals for the quantile estimate are severely biased if the strong dependence of the unobserved volatility sequence is ignored.
+ER  - 
+
+TY  - JOUR
+T1  - A misspecification test for multiplicative error models of non-negative time series processes
+AU  - Gao, Jiti
+AU  - Kim, Nam Hyun
+AU  - Saart, Patrick W.
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 2
+SP  - 346
+EP  - 359
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Frontiers in Time Series and Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.03.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001062
+KW  - Positive time-series
+KW  - Dependent point process
+KW  - Hypothesis testing
+KW  - Multiplicative error model
+AB  - In recent years, analysis of financial time series focuses largely on data related to market trading activity. Apart from modeling of the conditional variance of returns within the generalized autoregressive conditional heteroskedasticity (GARCH) family of models, presently attention is also devoted to that of other market variables, for instance volumes, number of trades or financial durations. To this end, a large group of researchers focus their studies on a class of model that is referred to in the literature as the multiplicative error model (MEM), which is considered particularly for modeling non-negative time series processes. The goal of the current paper is to establish an alternative misspecification test for the MEM of non-negative time series processes. In the literature, although several procedures are available to perform hypothesis testing for the MEM, the newly proposed testing procedure is particularly useful in the context of the MEM of waiting times between financial events since its outcomes have a number of important implications on the fundamental concept of point processes. Finally, the current paper makes a number of statistical contributions, especially in making a head way into nonparametric hypothesis testing of unobservable variables.
+ER  - 

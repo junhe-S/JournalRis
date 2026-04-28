@@ -1,0 +1,348 @@
+TY  - JOUR
+T1  - Optimal Linear Instrumental Variables Approximations
+AU  - Escanciano, Juan Carlos
+AU  - Li, Wei
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 223
+EP  - 246
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302153
+KW  - Instrumental variables
+KW  - Nonparametric identification
+KW  - Linear approximation
+KW  - Misspecification
+KW  - Hausman test
+AB  - This paper studies the identification and estimation of the optimal linear approximation of a structural regression function. The parameter in the linear approximation is called the Optimal Linear Instrumental Variables Approximation (OLIVA). This paper shows that a necessary condition for standard inference on the OLIVA is also sufficient for the existence of an IV estimand in a linear model. The instrument in the IV estimand is unknown and may not be identified. A Two-Step IV (TSIV) estimator based on Tikhonov regularization is proposed, which can be implemented by standard regression routines. We establish the asymptotic normality of the TSIV estimator assuming neither completeness nor identification of the instrument. As an important application of our analysis, we robustify the classical Hausman test for exogeneity against misspecification of the linear structural model. We also discuss extensions to weighted least squares criteria. Monte Carlo simulations suggest an excellent finite sample performance for the proposed inferences. Finally, in an empirical application estimating the elasticity of intertemporal substitution (EIS) with US data, we obtain TSIV estimates that are much larger than their standard IV counterparts, with our robust Hausman test failing to reject the null hypothesis of exogeneity of real interest rates.
+ER  - 
+
+TY  - JOUR
+T1  - Nonstationary panel models with latent group structures and cross-section dependence
+AU  - Huang, Wenxin
+AU  - Jin, Sainan
+AU  - Phillips, Peter C.B.
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 198
+EP  - 222
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302165
+KW  - Nonstationarity
+KW  - Parameter heterogeneity
+KW  - Latent group patterns
+KW  - Penalized principal component
+KW  - Cross-section dependence
+KW  - Classifier Lasso
+KW  - R&D spillover
+AB  - This paper proposes a novel Lasso-based approach to handle unobserved parameter heterogeneity and cross-section dependence in nonstationary panel models. In particular, a penalized principal component (PPC) method is developed to estimate group-specific long-run relationships and unobserved common factors and jointly to identify the unknown group membership. The PPC estimators are shown to be consistent under weakly dependent innovation processes. But they suffer an asymptotically non-negligible bias from correlations between the nonstationary regressors and unobserved stationary common factors and/or the equation errors. To remedy these shortcomings we provide three bias-correction procedures under which the estimators are re-centered about zero as both dimensions (N and T) of the panel tend to infinity. We establish a mixed normal limit theory for the estimators of the group-specific long-run coefficients, which permits inference using standard test statistics. Simulations suggest good finite sample performance. An empirical application applies the methodology to study international R&D spillovers and the results offer a convincing explanation for the growth convergence puzzle through the heterogeneous impact of R&D spillovers.
+ER  - 
+
+TY  - JOUR
+T1  - Jackknife empirical likelihood for inequality constraints on regular functionals
+AU  - Chen, Ruxin
+AU  - Tabri, Rami V.
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 68
+EP  - 77
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300373
+KW  - Jackknife empirical likelihood
+KW  - Bootstrap test
+KW  - Inequality restrictions
+KW  - U-statistics
+AB  - Empirical likelihood is effective in many different practical situations involving moment equality and/or inequality restrictions. However, in applications with nonlinear functionals of the underlying distribution, it becomes computationally more difficult to implement. We propose the use of jackknife empirical likelihood (Jing et al., 2009) to circumvent the computational difficulties with nonlinear inequality constraints and establish the chi-bar-square distribution as the limiting null distribution of the resulting empirical likelihood-ratio statistic, where a finite number of inequalities on functionals that are regular in the sense of Hoeffding (1948), defines the null hypothesis. The class of regular functionals includes many nonlinear functionals that arise in practice and has moments as a special case. To overcome the implementation challenges with this non-pivotal asymptotic null distribution, we propose an empirical likelihood bootstrap procedure that is valid with uniformity. Finally, we investigate the finite-sample properties of the bootstrap procedure using Monte Carlo simulations and find that the results are promising.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of a SAR model with endogenous spatial weights constructed by bilateral variables
+AU  - Qu, Xi
+AU  - Lee, Lung-fei
+AU  - Yang, Chao
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 180
+EP  - 197
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302281
+KW  - Spatial autoregressive model
+KW  - Endogenous spatial weight matrix
+KW  - Bilateral variables
+AB  - This paper studies the estimation of a cross-sectional spatial autoregressive (SAR) model with spatial weights constructed by bilateral variables like the trade or investment between regions. We model the possible endogeneity in spatial weights due to the correlation between the error term in the SAR model and unobserved interactive fixed effects in bilateral variables. Using a control function approach, we propose two-stage estimation methods and establish their consistency and asymptotic normality. Finite sample properties are investigated by a Monte Carlo study. We further apply our method to an empirical study of interactions among different US industries through production networks.
+ER  - 
+
+TY  - JOUR
+T1  - An automated approach towards sparse single-equation cointegration modelling
+AU  - Smeekes, Stephan
+AU  - Wijler, Etienne
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 247
+EP  - 276
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302190
+KW  - SPECS
+KW  - Penalized regression
+KW  - Single-equation error-correction model
+KW  - Cointegration
+KW  - High-dimensional data
+AB  - In this paper we propose the Single-equation Penalized Error Correction Selector (SPECS) as an automated estimation procedure for dynamic single-equation models with a large number of potentially (co)integrated variables. By extending the classical single-equation error correction model, SPECS enables the researcher to model large cointegrated datasets without necessitating any form of pre-testing for the order of integration or cointegrating rank. Under an asymptotic regime in which both the number of parameters and time series observations jointly diverge to infinity, we show that SPECS is able to consistently estimate an appropriate linear combination of the cointegrating vectors that may occur in the underlying DGP. In addition, SPECS is shown to enable the correct recovery of sparsity patterns in the parameter space and to possess the same limiting distribution as the OLS oracle procedure. A simulation study shows strong selective capabilities, as well as superior predictive performance in the context of nowcasting compared to high-dimensional models that ignore cointegration. An empirical application to nowcasting Dutch unemployment rates using Google Trends confirms the strong practical performance of our procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - ii
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00021-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100021X
+ER  - 
+
+TY  - JOUR
+T1  - Efficient size correct subset inference in homoskedastic linear instrumental variables regression
+AU  - Kleibergen, Frank
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 78
+EP  - 96
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030052X
+KW  - Weak instruments
+KW  - Subset testing
+KW  - Identification
+KW  - Conditional inference
+KW  - Discriminatory power
+KW  - Asymptotic size
+AB  - We show that Moreira’s (2003) conditional critical value function for likelihood ratio (LR) tests on the structural parameter in homoskedastic linear instrumental variables (IV) regression provides a bounding critical value function for subset LR tests on one structural parameter of several for general homoskedastic linear IV regression. The resulting subset LR test is size correct under weak identification and efficient under strong identification. A power study shows that it outperforms the subset Anderson–Rubin test with conditional critical values from Guggenberger et al. (2019a) when the structural parameters are reasonably identified and has slightly less power when identification is weak.
+ER  - 
+
+TY  - JOUR
+T1  - A general semiparametric approach to inference with marker-dependent hazard rate models
+AU  - van den Berg, Gerard. J.
+AU  - Janys, Lena
+AU  - Mammen, Enno
+AU  - Nielsen, Jens Perch
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 43
+EP  - 67
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300439
+KW  - Covariate effects
+KW  - Duration analysis
+KW  - Kernel estimation
+KW  - Mortality
+KW  - Semiparametric estimation
+AB  - We examine a new general class of hazard rate models for duration data, containing a parametric and a nonparametric component. Both can be a mix of a time effect and possibly time-dependent covariate effects. A number of well-known models are special cases. In a counting process framework, a general profile likelihood estimator is developed and the parametric component of the model is shown to be asymptotically normal and efficient. Finite sample properties are investigated in simulations. The estimator is applied to investigate the long-run relationship between birth weight and later-life mortality.
+ER  - 
+
+TY  - JOUR
+T1  - Hierarchical Markov-switching models for multivariate integer-valued time-series
+AU  - Catania, Leopoldo
+AU  - Di Mari, Roberto
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 118
+EP  - 137
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300531
+KW  - Markov-switching model
+KW  - Hidden Markov model
+KW  - Mixture model
+KW  - Hierarchical model
+KW  - NSW crime data
+AB  - We propose a new flexible dynamic model for multivariate nonnegative integer-valued time-series. Observations are assumed to depend on the realization of two unobserved integer-valued stochastic variables which control for the time- and cross-dependence of the data. We provide conditional and unconditional (cross)-moments implied by the model, as well as the limiting distribution of the series. An Expectation–Maximization algorithm for maximum likelihood estimation of the model parameters is derived, and an extensive Monte Carlo experiment investigates the finite sample properties of the resulting maximum likelihood estimator. Constrained specifications of the model are also formulated by modifying the assumptions about the dependence structure of the latent variables, and model identification is discussed accordingly. An application by means of a crime data set from the New South Wales (NSW) Bureau Of Crime Statistics And Research with observations spanning beyond 20 years is reported to illustrate the methodology. Results indicate that the proposed approach provides a good description of the conditional distribution of crime records, outperforming the standard hidden Markov model.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating multiple breaks in nonstationary autoregressive models
+AU  - Pang, Tianxiao
+AU  - Du, Lingjie
+AU  - Chong, Terence Tai-Leung
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 277
+EP  - 311
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302116
+KW  - Change point
+KW  - Financial bubble
+KW  - Least squares estimator
+KW  - Mildly explosive
+KW  - Mildly integrated
+AB  - Chong (1995) and Bai (1997) proposed a sample-splitting method to estimate a multiple-break model. However, their studies focused on stationary time series models, in which the identification of the first break depends on the magnitude and the duration of the break, and a testing procedure is needed to assist the estimation of the remaining breaks in subsamples split by the break points found earlier. In this paper, we focus on nonstationary multiple-break autoregressive models. Unlike the stationary case, we show that the duration of a break does not affect whether it will be identified first. Rather, it depends on the stochastic order of magnitude of signal strength of the break under the case of constant break magnitude and also the square of the magnitude of the break under the case of shrinking break magnitude. Since the subsamples usually have different stochastic orders in nonstationary autoregressive models with breaks, one can therefore determine which break will be identified first. We apply this finding to the models proposed in Phillips and Yu (2011) and Phillips et al. (2011, 2015a, 2015b). We propose an estimation procedure as well as the asymptotic theory for the model. Some extensions to more general models are provided, and the hypothesis test with the null hypothesis being the unit root model is examined. Results of numerical simulations and an empirical study are given to illustrate the finite-sample performance.
+ER  - 
+
+TY  - JOUR
+T1  - Frequentist properties of Bayesian inequality tests
+AU  - Kaplan, David M.
+AU  - Zhuo, Longhao
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 312
+EP  - 336
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302359
+KW  - Generalized Bayes rule
+KW  - Limit experiment
+KW  - Minimax
+KW  - Nonstandard inference
+KW  - Posterior
+AB  - Bayesian and frequentist criteria fundamentally differ, but often posterior and sampling distributions agree asymptotically. For the corresponding single-draw experiment, we characterize the frequentist size of a certain Bayesian hypothesis test of (possibly nonlinear) inequalities. If the null hypothesis is that the parameter lies in a specified half-space, then the Bayesian test’s size equals α; if the null hypothesis is a subset of a half-space, then size is above α; otherwise, size may be equal to, above, or below α. Rejection probabilities at certain points are also characterized. Two examples illustrate our results: translog cost function curvature and ordinal distribution relationships.
+ER  - 
+
+TY  - JOUR
+T1  - Computing semiparametric efficiency bounds in discrete choice models with strategic-interactions and rational expectations
+AU  - Aradillas-López, Andrés
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 25
+EP  - 42
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300452
+KW  - Efficiency bounds
+KW  - Semiparametric models
+KW  - Games
+KW  - Social interactions
+AB  - This paper computes semiparametric efficiency bounds for finite-dimensional parameters in discrete choice models with nonparametric regressors in the form of conditional expectations. These can include expectations about exogenous events as well as expectations about the choices of other agents. Thus, the models studied here include incomplete-information games, social-interactions models as well as single-agent discrete choice models with uncertainty as special cases. Our bounds rely on the assumption of rational expectations and on regularity conditions of equilibrium beliefs. The paper focuses on binary-choice models but the derivation of the bounds illustrates how our approach can be extended to multinomial choice cases. Explicit efficiency bound expressions for the models examined here had not been derived before. Furthermore, since we also characterize the efficient influence functions, our results can also potentially be used to construct semiparametrically efficient estimators for these models.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap based probability forecasting in multiplicative error models
+AU  - Perera, Indeewara
+AU  - Silvapulle, Mervyn J.
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 1
+EP  - 24
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300440
+KW  - Multiplicative error model
+KW  - Bootstrap
+KW  - Probability forecast
+KW  - Goodness-of-fit
+KW  - Multi-step forecast
+AB  - As evidenced by an extensive empirical literature, multiplicative error models (MEM) show good performance in capturing the stylized facts of nonnegative time series; examples include, trading volume, financial durations, and volatility. This paper develops a bootstrap based method for producing multi-step-ahead probability forecasts for a nonnegative valued time-series obeying a parametric MEM. In order to test the adequacy of the underlying parametric model, a class of bootstrap specification tests is also developed. Rigorous proofs are provided for establishing the validity of the proposed bootstrap methods. The paper also establishes the validity of a bootstrap based method for producing probability forecasts in a class of semiparametric MEMs. Monte Carlo simulations suggest that our methods perform well in finite samples. A real data example illustrates the methods.
+ER  - 
+
+TY  - JOUR
+T1  - Testing continuity of a density via g-order statistics in the regression discontinuity design
+AU  - Bugni, Federico A.
+AU  - Canay, Ivan A.
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 138
+EP  - 159
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300579
+KW  - Regression discontinuity design
+KW  - -ordered statistics
+KW  - Sign tests
+KW  - Continuity
+KW  - Density
+AB  - In the regression discontinuity design (RDD), it is common practice to assess the credibility of the design by testing the continuity of the density of the running variable at the cut-off, e.g., McCrary (2008). In this paper we propose an approximate sign test for continuity of a density at a point based on the so-called g-order statistics, and study its properties under two complementary asymptotic frameworks. In the first asymptotic framework, the number q of observations local to the cut-off is fixed as the sample size n diverges to infinity, while in the second framework q diverges to infinity slowly as n diverges to infinity. Under both of these frameworks, we show that the test we propose is asymptotically valid in the sense that it has limiting rejection probability under the null hypothesis not exceeding the nominal level. More importantly, the test is easy to implement, asymptotically valid under weaker conditions than those used by competing methods, and exhibits finite sample validity under stronger conditions than those needed for its asymptotic validity. In a simulation study, we find that the approximate sign test provides good control of the rejection probability under the null hypothesis while remaining competitive under the alternative hypothesis. We finally apply our test to the design in Lee (2008), a well-known application of the RDD to study incumbency advantage.
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood inference and the role of initial conditions for the dynamic panel data model
+AU  - Barbosa, José Diogo
+AU  - Moreira, Marcelo J.
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 160
+EP  - 179
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.039
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301652
+KW  - Autoregressive
+KW  - Panel data
+KW  - Invariance
+KW  - Efficiency
+AB  - Lancaster (2002) proposes an estimator for the dynamic panel data model with homoskedastic errors and zero initial conditions. In this paper, we show this estimator is invariant to orthogonal transformations, but is inefficient because it ignores additional information available in the data. The zero initial condition is trivially satisfied by subtracting initial observations from the data. We show that differencing out the data further erodes efficiency compared to drawing inference conditional on the first observations. Finally, we compare the conditional method with standard random effects approaches for unobserved data. Standard approaches implicitly rely on normal approximations, which may not be reliable when unobserved data is very skewed with some mass at zero values. For example, panel data on firms naturally depend on the first period in which the firm enters a new state. It seems unreasonable, then, to assume that the process determining unobserved data is known or stationary. We can instead make inference on structural parameters by conditioning on the initial observations.
+ER  - 
+
+TY  - JOUR
+T1  - ExpectHill estimation, extreme risk and heavy tails
+AU  - Daouia, Abdelaati
+AU  - Girard, Stéphane
+AU  - Stupfler, Gilles
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 1
+SP  - 97
+EP  - 117
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300543
+KW  - Asymmetric least squares
+KW  - Coherent risk measures
+KW  - Expected shortfall
+KW  - Expectile
+KW  - Extrapolation
+KW  - Extremes
+KW  - Heavy tails
+KW  - Tail index
+AB  - Risk measures of a financial position are, from an empirical point of view, mainly based on quantiles. Replacing quantiles with their least squares analogues, called expectiles, has recently received increasing attention. The novel expectile-based risk measures satisfy all coherence requirements. We revisit their extreme value estimation for heavy-tailed distributions. First, we estimate the underlying tail index via weighted combinations of top order statistics and asymmetric least squares estimates. The resulting expectHill estimators are then used as the basis for estimating tail expectiles and Expected Shortfall. The asymptotic theory of the proposed estimators is provided, along with numerical simulations and applications to actuarial and financial data.
+ER  - 

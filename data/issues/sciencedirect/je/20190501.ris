@@ -1,0 +1,313 @@
+TY  - JOUR
+T1  - The value of news for economic developments
+AU  - Larsen, Vegard H.
+AU  - Thorsrud, Leif A.
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 203
+EP  - 218
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302148
+KW  - News
+KW  - Latent dirichlet allocation (LDA)
+KW  - Business cycles
+AB  - We decompose the textual data in a Norwegian business newspaper into news topics and investigate their role in predicting and explaining economic fluctuations. Separate full- and out-of-sample experiments show that many topics have predictive power for key economic variables, including asset prices. Unexpected innovations to an aggregated news index, derived as a weighted average of the topics with the highest predictive scores, lead to persistent economic fluctuations, and are especially associated with financial markets, credit and borrowing. Unexpected innovations to asset prices, orthogonal to news shocks and labeled as noise, have only temporary positive effects, in line with economic theory.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial introduction on complexity and big data in economics and finance: Recent developments from a Bayesian perspective
+AU  - Kaufmann, Sylvia
+AU  - Frühwirth-Schnatter, Sylvia
+AU  - van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830201X
+ER  - 
+
+TY  - JOUR
+T1  - Importance sampling from posterior distributions using copula-like approximations
+AU  - Dellaportas, Petros
+AU  - Tsionas, Mike G.
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 45
+EP  - 57
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302057
+KW  - Bayesian analysis
+KW  - Beta-Liouville distribution
+KW  - GARCH
+KW  - EGARCH
+KW  - Simultaneous equation model
+KW  - Vector autoregressive
+AB  - We provide generic approximations to k-dimensional posterior distributions through an importance sampling strategy. The importance function is a product of k univariate of Student-t densities and a k-dimensional beta-Liouville density truncated on the hypercube. The parameters of the densities and the number of components in the mixtures are adaptively optimised along the Monte Carlo sampling. For challenging high dimensional latent Gaussian models we propose a nested importance function approximation. We apply the techniques to a range of econometric models that have appeared in the literature, and we document their satisfactory performance relative to the alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Bayesian predictive synthesis in time series forecasting
+AU  - McAlinn, Kenichiro
+AU  - West, Mike
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 155
+EP  - 169
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302112
+KW  - Agent opinion analysis
+KW  - Bayesian forecasting
+KW  - Density forecast combination
+KW  - Dynamic latent factors models
+KW  - Macroeconomic forecasting
+AB  - We discuss model and forecast combination in time series forecasting. A foundational Bayesian perspective based on agent opinion analysis theory defines a new framework for density forecast combination, and encompasses several existing forecast pooling methods. We develop a novel class of dynamic latent factor models for time series forecast synthesis; simulation-based computation enables implementation. These models can dynamically adapt to time-varying biases, miscalibration and inter-dependencies among multiple models or forecasters. A macroeconomic forecasting study highlights the dynamic relationships among synthesized forecast densities, as well as the potential for improved forecast accuracy at multiple horizons.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian compressed vector autoregressions
+AU  - Koop, Gary
+AU  - Korobilis, Dimitris
+AU  - Pettenuzzo, Davide
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 135
+EP  - 154
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302100
+KW  - Multivariate time series
+KW  - Random projection
+KW  - Forecasting
+AB  - Macroeconomists are increasingly working with large Vector Autoregressions (VARs) where the number of parameters vastly exceeds the number of observations. Existing approaches either involve prior shrinkage or the use of factor methods. In this paper, we develop an alternative based on ideas from the compressed regression literature. It involves randomly compressing the explanatory variables prior to analysis. A huge dimensional problem is thus turned into a much smaller, more computationally tractable one. Bayesian model averaging can be done over various compressions, attaching greater weight to compressions which forecast well. In a macroeconomic application involving up to 129 variables, we find compressed VAR methods to forecast as well or better than either factor methods or large VAR methods involving prior shrinkage.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian inference and prediction of a multiple-change-point panel model with nonparametric priors
+AU  - Fisher, Mark
+AU  - Jensen, Mark J.
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 187
+EP  - 202
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302136
+KW  - Bayesian nonparametric analysis
+KW  - Change points
+KW  - Dirichlet process
+KW  - Hierarchical priors
+KW  - Mutual fund performance
+AB  - Change point models using hierarchical priors have been very successful estimating the parameter values of short-lived regimes. However, hierarchical priors have been parametric which leads to shrinkage in the estimates of extraordinary regime parameters. We overcome this by modeling the hierarchical priors nonparametrically. We also extend the change point to a panel of change point processes where the prior shares in the probabilities of changing regimes. When applied to the returns from a panel of actively managed, US equity, mutual funds our multiple-change-point panel model finds mutual fund skill is not persistent but changes over time.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling systemic risk with Markov Switching Graphical SUR models
+AU  - Bianchi, Daniele
+AU  - Billio, Monica
+AU  - Casarin, Roberto
+AU  - Guidolin, Massimo
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 58
+EP  - 74
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302069
+KW  - Markov regime-switching
+KW  - Weighted eigenvector centrality
+KW  - Graphical models
+KW  - MCMC
+KW  - Systemic risk
+KW  - Network connectivity
+AB  - We propose a Markov Switching Graphical Seemingly Unrelated Regression (MS-GSUR) model to investigate time-varying systemic risk based on a range of multi-factor asset pricing models. Methodologically, we develop a Markov Chain Monte Carlo (MCMC) scheme in which latent states are identified on the basis of a novel weighted eigenvector centrality measure. An empirical application to the constituents of the S&P100 index shows that cross-firm connectivity significantly increased over the period 1999–2003 and during the financial crisis in 2008–2009. Finally, we provide evidence that firm-level centrality does not correlate with market values and it is instead positively linked to realized financial losses.
+ER  - 
+
+TY  - JOUR
+T1  - Forecast density combinations of dynamic models and data driven portfolio strategies
+AU  - Baştürk, N.
+AU  - Borowska, A.
+AU  - Grassi, S.
+AU  - Hoogerheide, L.
+AU  - van Dijk, H.K.
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 170
+EP  - 186
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302124
+KW  - Forecast combination
+KW  - Momentum strategy
+KW  - Filtering methods
+KW  - Bayes estimates
+AB  - A dynamic asset-allocation model is specified in probabilistic terms as a combination of return distributions resulting from multiple pairs of dynamic models and portfolio strategies based on momentum patterns in US industry returns. The nonlinear state space representation of the model allows efficient and robust simulation-based Bayesian inference using a novel non-linear filter. Combination weights can be cross-correlated and correlated over time using feedback mechanisms. Diagnostic analysis gives insight into model and strategy misspecification. Empirical results show that a smaller flexible model-strategy combination performs better in terms of expected return and risk than a larger basic model-strategy combination. Dynamic patterns in combination weights and diagnostic learning provide useful signals for improved modeling and policy, in particular, from a risk-management perspective.
+ER  - 
+
+TY  - JOUR
+T1  - Tempered particle filtering
+AU  - Herbst, Edward
+AU  - Schorfheide, Frank
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 26
+EP  - 44
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302033
+KW  - Bayesian analysis
+KW  - DSGE models
+KW  - Nonlinear filtering
+KW  - Monte Carlo methods
+AB  - The accuracy of particle filters for nonlinear state-space models crucially depends on the proposal distribution that mutates time t−1 particle values into time t values. In the widely-used bootstrap particle filter, this distribution is generated by the state-transition equation. While straightforward to implement, the practical performance is often poor. We develop a self-tuning particle filter in which the proposal distribution is constructed adaptively through a sequence of Monte Carlo steps. Intuitively, we start from a measurement error distribution with an inflated variance, and then gradually reduce the variance to its nominal level in a sequence of tempering steps. We show that the filter generates an unbiased and consistent approximation of the likelihood function. Holding the run time fixed, our filter is substantially more accurate in two DSGE model applications than the bootstrap particle filter.
+ER  - 
+
+TY  - JOUR
+T1  - Sequentially adaptive Bayesian learning algorithms for inference and optimization
+AU  - Geweke, John
+AU  - Durham, Garland
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 4
+EP  - 25
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302021
+KW  - Sequential Monte Carlo
+KW  - Simulated annealing
+KW  - Posterior simulation
+KW  - Bayesian learning
+KW  - Parallel computing
+KW  - Particle filtering
+AB  - The sequentially adaptive Bayesian learning algorithm (SABL) builds on and ties together ideas from sequential Monte Carlo and simulated annealing. The algorithm can be used to simulate from Bayesian posterior distributions, using either data tempering or power tempering, or for optimization. A key feature of SABL is that the introduction of information is adaptive and controlled, ensuring that the algorithm performs reliably and efficiently in a wide variety of applications with off-the-shelf settings, minimizing the need for tedious tuning, tinkering, trial and error by users. The algorithm is pleasingly parallel, and a Matlab toolbox implementing the algorithm is able to make efficient use of massively parallel computing environments such as graphics processing units (GPUs) with minimal user effort. This paper describes the algorithm, provides theoretical foundations, applies the algorithm to Bayesian inference and optimization problems illustrating key properties of its operation, and briefly describes the open source software implementation.
+ER  - 
+
+TY  - JOUR
+T1  - Sparse Bayesian time-varying covariance estimation in many dimensions
+AU  - Kastner, Gregor
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 98
+EP  - 115
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302082
+KW  - Dynamic correlation
+KW  - Factor stochastic volatility
+KW  - Curse of dimensionality
+KW  - Shrinkage
+KW  - Minimum variance portfolio
+AB  - We address the curse of dimensionality in dynamic covariance estimation by modeling the underlying co-volatility dynamics of a time series vector through latent time-varying stochastic factors. The use of a global–local shrinkage prior for the elements of the factor loadings matrix pulls loadings on superfluous factors towards zero. To demonstrate the merits of the proposed framework, the model is applied to simulated data as well as to daily log-returns of 300 S&P 500 members. Our approach yields precise correlation estimates, strong implied minimum variance portfolio performance and superior forecasting accuracy in terms of log predictive scores when compared to typical benchmarks.
+ER  - 
+
+TY  - JOUR
+T1  - Achieving shrinkage in a time-varying parameter model framework
+AU  - Bitto, Angela
+AU  - Frühwirth-Schnatter, Sylvia
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 75
+EP  - 97
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302070
+KW  - Bayesian inference
+KW  - Bayesian Lasso
+KW  - Double gamma prior
+KW  - Hierarchical priors
+KW  - Kalman filter
+KW  - Log predictive density scores
+KW  - Normal–gamma prior
+KW  - Sparsity
+KW  - State space model
+AB  - Shrinkage for time-varying parameter (TVP) models is investigated within a Bayesian framework, with the aim to automatically reduce time-varying parameters to static ones, if the model is overfitting. This is achieved through placing the double gamma shrinkage prior on the process variances. An efficient Markov chain Monte Carlo scheme is developed, exploiting boosting based on the ancillarity-sufficiency interweaving strategy. The method is applicable both to TVP models for univariate as well as multivariate time series. Applications include a TVP generalized Phillips curve for EU area inflation modeling and a multivariate TVP Cholesky stochastic volatility model for joint modeling of the returns from the DAX-30 index.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian estimation of sparse dynamic factor models with order-independent and ex-post mode identification
+AU  - Kaufmann, Sylvia
+AU  - Schumacher, Christian
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - 116
+EP  - 134
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302094
+KW  - Ex-post processing
+KW  - Factor interpretation
+KW  - Large dataset
+KW  - Factor order permutation
+KW  - Rotation
+AB  - Common variation in N series is extracted into k≪N dynamic factors. We induce sparsity by using a zero point mass–normal mixture prior distribution on the loadings. Estimation and rotational identification are independent of variable ordering. Sparsity helps identifying the factor space and the factors. Rotational identification, including factor order and sign, is obtained by processing the posterior output and based on factor draws rather than factor loading draws. Simulating data, we document sampler and estimation efficiency. To illustrate, we estimate the model for a large panel of Swiss macroeconomic and detailed price data. We identify 16 factors with a clear economic interpretation.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 210
+IS  - 1
+SP  - ii
+PY  - 2019
+DA  - 2019/05/01/
+T2  - Annals Issue in Honor of John Geweke “Complexity and Big Data in Economics and Finance: Recent Developments from a Bayesian Perspective”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30043-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300430
+ER  - 

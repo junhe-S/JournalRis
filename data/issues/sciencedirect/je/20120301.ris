@@ -1,0 +1,372 @@
+TY  - JOUR
+T1  - Estimation of dynamic models with nonparametric simulated maximum likelihood
+AU  - Kristensen, Dennis
+AU  - Shin, Yongseok
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 76
+EP  - 94
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.042
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002363
+AB  - We propose an easy-to-implement simulated maximum likelihood estimator for dynamic models where no closed-form representation of the likelihood function is available. Our method can handle any simulable model without latent dynamics. Using simulated observations, we nonparametrically estimate the unknown density by kernel methods, and then construct a likelihood function that can be maximized. We prove that this nonparametric simulated maximum likelihood (NPSML) estimator is consistent and asymptotically efficient. The higher-order impact of simulations and kernel smoothing on the resulting estimator is also analyzed; in particular, it is shown that the NPSML does not suffer from the usual curse of dimensionality associated with kernel estimators. A simulation study shows good performance of the method when employed in the estimation of jump–diffusion models.
+ER  - 
+
+TY  - JOUR
+T1  - Robust subsampling
+AU  - Camponovo, Lorenzo
+AU  - Scaillet, Olivier
+AU  - Trojani, Fabio
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 197
+EP  - 210
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002594
+KW  - Subsampling
+KW  - Bootstrap
+KW  - Breakdown point
+KW  - Robustness
+AB  - We characterize the robustness of subsampling procedures by deriving a formula for the breakdown point of subsampling quantiles. This breakdown point can be very low for moderate subsampling block sizes, which implies the fragility of subsampling procedures, even when they are applied to robust statistics. This instability arises also for data driven block size selection procedures minimizing the minimum confidence interval volatility index, but can be mitigated if a more robust calibration method can be applied instead. To overcome these robustness problems, we introduce a consistent robust subsampling procedure for M-estimators and derive explicit subsampling quantile breakdown point characterizations for MM-estimators in the linear regression model. Monte Carlo simulations in two settings where the bootstrap fails show the accuracy and robustness of the robust subsampling relative to the subsampling.
+ER  - 
+
+TY  - JOUR
+T1  - ARCH/GARCH with persistent covariate: Asymptotic theory of MLE
+AU  - Han, Heejoon
+AU  - Park, Joon Y.
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 95
+EP  - 112
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002351
+KW  - ARCH
+KW  - GARCH
+KW  - Persistent covariate
+KW  - Maximum likelihood estimator
+KW  - Asymptotic distribution theory
+AB  - The paper considers a volatility model which introduces a persistent, integrated or near-integrated, covariate to the standard GARCH(1, 1) model. For such a model, we derive the asymptotic theory of the quasi-maximum likelihood estimator. In particular, we establish consistency and obtain limit distribution. The limit distribution is generally non-Gaussian and represented as a functional of Brownian motions. However, it becomes Gaussian if the covariate has innovation uncorrelated with the squared innovation of the model or the volatility function is linear in parameter. We provide a simulation study to demonstrate the relevance and usefulness of our asymptotic theory.
+ER  - 
+
+TY  - JOUR
+T1  - The conditional autoregressive Wishart model for multivariate stock market volatility
+AU  - Golosnoy, Vasyl
+AU  - Gribisch, Bastian
+AU  - Liesenfeld, Roman
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 211
+EP  - 223
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002582
+KW  - Component volatility models
+KW  - Covariance matrix
+KW  - Mixed data sampling
+KW  - Observation-driven models
+KW  - Realized volatility
+AB  - We propose a Conditional Autoregressive Wishart (CAW) model for the analysis of realized covariance matrices of asset returns. Our model assumes an autoregressive moving average structure for the scale matrix of the Wishart distribution. It accounts for positive definiteness of covariance matrices without imposing parametric restrictions, and can be estimated by Maximum Likelihood. We also propose extensions of the CAW model obtained by including a Mixed Data Sampling (MIDAS) component and Heterogeneous Autoregressive (HAR) dynamics for long-run fluctuations. The CAW models are applied to realized variances and covariances for five New York Stock Exchange stocks.
+ER  - 
+
+TY  - JOUR
+T1  - Inferring welfare maximizing treatment assignment under budget constraints
+AU  - Bhattacharya, Debopam
+AU  - Dupas, Pascaline
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 168
+EP  - 196
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002697
+AB  - This paper concerns the problem of allocating a binary treatment among a target population based on observed covariates. The goal is to (i) maximize the mean social welfare arising from an eventual outcome distribution, when a budget constraint limits what fraction of the population can be treated and (ii) to infer the dual value, i.e. the minimum resources needed to attain a specific level of mean welfare via efficient treatment assignment. We consider a treatment allocation procedure based on sample data from randomized treatment assignment and derive asymptotic frequentist confidence interval for the welfare generated from it. We propose choosing the conditioning covariates through cross-validation. The methodology is applied to the efficient provision of anti-malaria bed net subsidies, using data from a randomized experiment conducted in Western Kenya. We find that subsidy allocation based on wealth, presence of children and possession of bank account can lead to a rise in subsidy use by about 9% points compared to allocation based on wealth only, and by 17% points compared to a purely random allocation.
+ER  - 
+
+TY  - JOUR
+T1  - The dynamics of US inflation: Can monetary policy explain the changes?
+AU  - Canova, Fabio
+AU  - Ferroni, Filippo
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 47
+EP  - 60
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002399
+KW  - New Keynesian model
+KW  - Bayesian methods
+KW  - Monetary policy
+KW  - Inflation dynamics
+AB  - We investigate the relationship between monetary policy and inflation dynamics in the US using a medium scale structural model. The specification is estimated with Bayesian techniques and fits the data reasonably well. Policy shocks account for a part of the decline in inflation volatility; they have been less effective in triggering inflation responses over time and qualitatively account for the rise and fall in the level of inflation. A number of structural parameter variations contribute to these patterns.
+ER  - 
+
+TY  - JOUR
+T1  - On the least squares estimation of multiple-regime threshold autoregressive models
+AU  - Li, Dong
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 240
+EP  - 253
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002685
+KW  - Asymptotic distribution
+KW  - Compound Poisson process
+KW  - Least squares estimation
+KW  - Multiple-regime TAR model
+AB  - This paper studies the least squares estimator (LSE) of the multiple-regime threshold autoregressive (TAR) model and establishes its asymptotic theory. It is shown that the LSE is strongly consistent. When the autoregressive function is discontinuous over each threshold, the estimated thresholds are n-consistent and asymptotically independent, each of which converges weakly to the smallest minimizer of a one-dimensional two-sided compound Poisson process. The remaining parameters are n-consistent and asymptotically normal. The theory of Chan (1993) is revisited and a numerical approach is proposed to simulate the limiting distribution of the estimated threshold via simulating a related compound Poisson process. Based on the numerical result, one can construct a confidence interval for the unknown threshold. This issue is not straightforward and has remained as an open problem since the publication of Chan (1993). This paper provides not only a solution to this long-standing open problem, but also provides methodological contributions to threshold models. Simulation studies are conducted to assess the performance of the LSE in finite samples. The results are illustrated with an application to the quarterly U.S. real GNP data over the period 1947–2009.
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood estimation and inference in threshold regression
+AU  - Yu, Ping
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 274
+EP  - 294
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002740
+KW  - Threshold regression
+KW  - Structural change
+KW  - Nonregular models
+KW  - Boundary
+KW  - Efficiency bounds
+KW  - Bayes
+KW  - Middle-point MLE
+KW  - Compound Poisson process
+KW  - Wiener–Hopf equation
+KW  - Local asymptotic minimax
+KW  - Credible set
+AB  - This paper studies likelihood-based estimation and inference in parametric discontinuous threshold regression models with i.i.d. data. The setup allows heteroskedasticity and threshold effects in both mean and variance. By interpreting the threshold point as a “middle” boundary of the threshold variable, we find that the Bayes estimator is asymptotically efficient among all estimators in the locally asymptotically minimax sense. In particular, the Bayes estimator of the threshold point is asymptotically strictly more efficient than the left-endpoint maximum likelihood estimator and the newly proposed middle-point maximum likelihood estimator. Algorithms are developed to calculate asymptotic distributions and risk for the estimators of the threshold point. The posterior interval is proved to be an asymptotically valid confidence interval and is attractive in both length and coverage in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Tikhonov regularization for nonparametric instrumental variable estimators
+AU  - Gagliardini, Patrick
+AU  - Scaillet, Olivier
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 61
+EP  - 75
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002375
+KW  - Nonparametric estimation
+KW  - Ill-posed inverse problems
+KW  - Tikhonov regularization
+KW  - Endogeneity
+KW  - Instrumental variable
+AB  - We study a Tikhonov Regularized (TiR) estimator of a functional parameter identified by conditional moment restrictions in a linear model with both exogenous and endogenous regressors. The nonparametric instrumental variable estimator is based on a minimum distance principle with penalization by the norms of the parameter and its derivatives. After showing its consistency in the Sobolev norm and uniform consistency under an embedding condition, we derive the expression of the asymptotic Mean Integrated Square Error and the rate of convergence. The optimal value of the regularization parameter is characterized in two examples. We illustrate our theoretical findings and the small sample properties with simulation results. Finally, we provide an empirical application to estimation of an Engel curve, and discuss a data driven selection procedure for the regularization parameter.
+ER  - 
+
+TY  - JOUR
+T1  - Hahn–Hausman test as a specification test
+AU  - Lee, Yoonseok
+AU  - Okui, Ryo
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 133
+EP  - 139
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002430
+KW  - Hahn–Hausman test
+KW  - Sargan test
+KW  - Many instruments
+KW  - Overidentifying restrictions test
+KW  - Specification test
+AB  - This paper develops a modified version of the Sargan [Sargan, J.D., 1958. The estimation of economic relationships using instrumental variables. Econometrica 26 (3), 393–415] restrictions, and shows that it is numerically equivalent to the test statistic of Hahn and Hausman [Hahn, J., Hausman, J., 2002. A new specification test for the validity of instrumental variables. Econometrica 70 (1), 163–189] up to a sign. The modified Sargan test is constructed such that its asymptotic distribution under the null hypothesis of correct specification is standard normal when the number of instruments increases with the sample size. The equivalence result is useful in understanding what the Hahn–Hausman test detects and its power properties.
+ER  - 
+
+TY  - JOUR
+T1  - Unit root testing under a local break in trend
+AU  - Harvey, David I.
+AU  - Leybourne, Stephen J.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 140
+EP  - 167
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002569
+KW  - Unit root test
+KW  - Local trend break
+KW  - Union of rejections
+KW  - Adaptive critical values
+KW  - Asymptotic local power
+AB  - Recent approaches to testing for a unit root when uncertainty exists over the presence and timing of a trend break employ break detection methods, so that a with-break unit root test is used only if a break is detected by some auxiliary statistic. While these methods achieve near asymptotic efficiency in both fixed trend break and no trend break environments, in finite samples pronounced “valleys” in the power functions of the tests (when mapped as functions of the break magnitude) are observed, with power initially high for very small breaks, then decreasing as the break magnitude increases, before increasing again. In response to this problem, we propose two practical solutions, based either on the use of a with-break unit root test but with adaptive critical values, or on a union of rejections principle taken across with-break and without-break unit root tests. These new procedures are shown to offer improved reliability in terms of finite sample power. We also develop local limiting distribution theory for both the extant and the newly proposed unit root statistics, treating the trend break magnitude as local-to-zero. We show that this framework allows the asymptotic analysis to closely approximate the finite sample power valley phenomenon, thereby providing useful analytical insights.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for a unit root in a random coefficient panel data model
+AU  - Westerlund, Joakim
+AU  - Larsson, Rolf
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 254
+EP  - 273
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002727
+KW  - Panel unit root test
+KW  - Random coefficient autoregressive model
+KW  - Local asymptotic power
+AB  - This paper proposes new unit root tests in the context of a random autoregressive coefficient panel data model, in which the null of a unit root corresponds to the joint restriction that the autoregressive coefficient has unit mean and zero variance. The asymptotic distributions of the test statistics are derived and simulation results are provided to suggest that they perform very well in small samples.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal inference for instrumental variables regression with non-Gaussian errors
+AU  - Cattaneo, Matias D.
+AU  - Crump, Richard K.
+AU  - Jansson, Michael
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 1
+EP  - 15
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002429
+AB  - This paper is concerned with inference on the coefficient on the endogenous regressor in a linear instrumental variables model with a single endogenous regressor, nonrandom exogenous regressors and instruments, and i.i.d. errors whose distribution is unknown. It is shown that under mild smoothness conditions on the error distribution it is possible to develop tests which are “nearly” efficient in the sense of Andrews et al. (2006) when identification is weak and consistent and asymptotically optimal when identification is strong. In addition, an estimator is presented which can be used in the usual way to construct valid (indeed, optimal) confidence intervals when identification is strong. The estimator is of the two stage least squares variety and is asymptotically efficient under strong identification whether or not the errors are normal.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric spatial regression under near-epoch dependence
+AU  - Jenish, Nazgul
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 224
+EP  - 239
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002715
+KW  - Nonparametric regression
+KW  - Local linear estimator
+KW  - Near-epoch dependent spatial processes
+KW  - Asymptotic normality
+AB  - This paper establishes asymptotic normality and uniform consistency with convergence rates of the local linear estimator for spatial near-epoch dependent (NED) processes. The class of the NED spatial processes covers important spatial processes, including nonlinear autoregressive and infinite moving average random fields, which generally do not satisfy mixing conditions. Apart from accommodating a larger class of dependent processes, the proposed asymptotic theory allows for triangular arrays of heterogeneous random fields located on unevenly spaced lattices and sampled over regions of arbitrary configuration. All these features make the results applicable in a wide range of empirical settings.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation for spatial dynamic panel data with fixed effects: The case of spatial cointegration
+AU  - Yu, Jihai
+AU  - de Jong, Robert
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 16
+EP  - 37
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002417
+KW  - Spatial autoregression
+KW  - Dynamic panels
+KW  - Fixed effects
+KW  - Quasi-maximum likelihood estimation
+KW  - Bias correction
+KW  - Generalized method of moments
+KW  - Spatial cointegration
+KW  - Unit root
+AB  - Yu et al. (2008) establish asymptotic properties of quasi-maximum likelihood estimators for a stable spatial dynamic panel model with fixed effects when both the number of individuals n and the number of time periods T are large. This paper investigates unstable cases where there are unit roots generated by temporal and spatial correlations. We focus on the spatial cointegration model where some eigenvalues of the data generating process are equal to 1 and the outcomes of spatial units are cointegrated as in a vector autoregressive system. The asymptotics of the QML estimators are developed by reparameterization, and bias correction for the estimators is proposed. We also consider the 2SLS and GMM estimations when T could be small.
+ER  - 
+
+TY  - JOUR
+T1  - The econometrics of auctions with asymmetric anonymous bidders
+AU  - Lamy, Laurent
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 113
+EP  - 132
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002703
+KW  - Auctions
+KW  - Nonparametric identification
+KW  - Nonparametric estimation
+KW  - Unobserved heterogeneity
+KW  - Anonymous bids
+KW  - Uniform convergence rate
+AB  - We consider standard auction models when bidders’ identities are not–or are only partially–observed by the econometrician. We first adapt the definition of identifiability to a framework with anonymous bids and explore the extent to which anonymity reduces the possibility of identifying private value auction models. Second, in the asymmetric independent private value model which is nonparametrically identified, we generalize Guerre, Perrigne and Vuong’s estimation procedure [Optimal nonparametric estimation of first-price auctions, Econometrica 68 (2000) 525–574] and consider the asymptotic properties of our multi-step kernel-based estimator. Monte Carlo simulations illustrate the practical relevance of our estimation procedure in small data sets.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - IFC
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00017-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000176
+ER  - 
+
+TY  - JOUR
+T1  - Jackknife model averaging
+AU  - Hansen, Bruce E.
+AU  - Racine, Jeffrey S.
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 1
+SP  - 38
+EP  - 46
+PY  - 2012
+DA  - 2012/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.06.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002405
+AB  - We consider the problem of obtaining appropriate weights for averaging M approximate (misspecified) models for improved estimation of an unknown conditional mean in the face of non-nested model uncertainty in heteroskedastic error settings. We propose a “jackknife model averaging” (JMA) estimator which selects the weights by minimizing a cross-validation criterion. This criterion is quadratic in the weights, so computation is a simple application of quadratic programming. We show that our estimator is asymptotically optimal in the sense of achieving the lowest possible expected squared error. Monte Carlo simulations and an illustrative application show that JMA can achieve significant efficiency gains over existing model selection and averaging methods in the presence of heteroskedasticity.
+ER  - 

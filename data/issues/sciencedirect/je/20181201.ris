@@ -1,0 +1,192 @@
+TY  - JOUR
+T1  - ArCo: An artificial counterfactual approach for high-dimensional panel time-series data
+AU  - Carvalho, Carlos
+AU  - Masini, Ricardo
+AU  - Medeiros, Marcelo C.
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 352
+EP  - 380
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301544
+KW  - Counterfactual analysis
+KW  - Comparative studies
+KW  - Multivariate treatment effects
+KW  - Synthetic control
+KW  - Policy evaluation
+KW  - LASSO
+KW  - Structural break
+KW  - Factor models
+AB  - We consider a new, flexible and easy-to-implement method to estimate thecausal effects of an intervention on a single treated unit when a control group is not available and which nests previous proposals in the literature. It is a two-step methodology where in the first stage, a counterfactual is estimated based on a large-dimensional set of variables from a pool of untreated units by means of shrinkage methods, such as the least absolute shrinkage and selection operator (LASSO). In the second stage, we estimate the average intervention effect on a vector of variables, which is consistent and asymptotically normal. Our results are valid uniformly over a wide class of probability laws. We show that these results hold even when the exact date of the intervention is unknown. Tests for multiple interventions and for contamination effects are derived. By a simple transformation of the variables, it is possible to test for multivariate intervention effects on several moments of the variables of interest. Existing methods in the literature usually test for intervention effects on a single variable and assume that the time of the intervention is known. In addition, high-dimensionality is frequently ignored and inference is either conducted under a set of more stringent hypotheses and/or by permutation tests. A Monte Carlo experiment evaluates the properties of the method in finite samples and compares it with other alternatives. As an application, we evaluate the effects on inflation, GDP growth, retail sales and credit of an anti tax-evasion program.
+ER  - 
+
+TY  - JOUR
+T1  - Should we go one step further? An accurate comparison of one-step and two-step procedures in a generalized method of moments framework
+AU  - Hwang, Jungbin
+AU  - Sun, Yixiao
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 381
+EP  - 405
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301556
+KW  - Asymptotic mixed normality
+KW  - Fixed-smoothing asymptotics
+KW  - Heteroskedasticity and autocorrelation
+KW  - Nonstandard asymptotics
+KW  - Two-step GMM estimation
+AB  - According to conventional asymptotic theory, the two-step generalized method of moments (GMM) estimator and test perform at least as well as the one-step estimator and test in large samples. The conventional asymptotic theory completely ignores the estimation uncertainty in the weighting matrix, and as a result it may not reflect finite-sample situations well. In this paper, we employ the more accurate fixed-smoothing asymptotic framework to compare the performances of the one-step and two-step procedures. We show that the two-step procedures outperform the one-step procedures only when the squared long-run canonical correlation coefficients between two blocks of transformed moment conditions are larger than the thresholds established in this paper. The thresholds depend on the criteria of interest. A Monte Carlo study lends support to our asymptotic results.
+ER  - 
+
+TY  - JOUR
+T1  - Controlling the size of autocorrelation robust tests
+AU  - Pötscher, Benedikt M.
+AU  - Preinerstorfer, David
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 406
+EP  - 431
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301568
+KW  - Autocorrelation robust testing
+KW  - Size control
+AB  - Autocorrelation robust tests are notorious for suffering from size distortions and power problems. We investigate under which conditions the size of autocorrelation robust tests can be controlled by an appropriate choice of critical value.
+ER  - 
+
+TY  - JOUR
+T1  - Factor models for asset returns based on transformed factors
+AU  - Li, Jialiang
+AU  - Zhang, Wenyang
+AU  - Kong, Efang
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 432
+EP  - 448
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301660
+KW  - Backfitting
+KW  - Factor models
+KW  - Generalised maximum likelihood ratio test
+KW  - Kernel smoothing
+KW  - Transformed factor
+AB  - The Fama–French three factor models are commonly used in the description of asset returns in finance. Statistically speaking, the Fama–French three factor models imply that the return of an asset can be accounted for directly by the Fama–French three factors, i.e. market, size and value factor, through a linear function. A natural question is: would some kind of transformed Fama–French three factors work better? If so, what kind of transformation should be imposed on each factor in order to make the transformed three factors better account for asset returns? In this paper, we are going to address these questions through nonparametric modelling. We propose a data driven approach to construct the transformation for each factor concerned. A generalised maximum likelihood ratio based hypothesis test is also proposed to test whether transformations on the Fama–French three factors are needed for a given data set. Asymptotic properties are established to justify the proposed methods. Extensive simulation studies are conducted to show how the proposed methods perform with finite sample size. Finally, we apply the proposed methods to a real data set, which leads to some interesting findings.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - ii
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30189-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301891
+ER  - 
+
+TY  - JOUR
+T1  - Modeling maxima with autoregressive conditional Fréchet model
+AU  - Zhao, Zifeng
+AU  - Zhang, Zhengjun
+AU  - Chen, Rong
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 325
+EP  - 351
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301520
+KW  - Extreme value theory
+KW  - Dynamic modeling
+KW  - Financial risk management
+KW  - Value at risk
+KW  - High-frequency data
+KW  - Generalized extreme value distribution
+AB  - This paper introduces a novel dynamic generalized extreme value (GEV) framework for modeling the time-varying behavior of maxima in financial time series. Specifically, an autoregressive conditional Fréchet (AcF) model is proposed in which the maxima are modeled by a Fréchet distribution with time-varying scale parameter (volatility) and shape parameter (tail index) conditioned on past information. The AcF provides a direct and accurate modeling of the time-varying behavior of maxima and furthermore offers a new angle to study the tail risk dynamics in financial markets. Probabilistic properties of AcF are studied, and a maximum likelihood estimator is used for model estimation, with its statistical properties investigated. Simulations show the flexibility of AcF and confirm the reliability of its estimators. Two real data examples on cross-sectional stock returns and high-frequency foreign exchange returns are used to demonstrate the AcF modeling approach, where significant improvement over the static GEV has been observed for market tail risk monitoring and conditional VaR estimation. Empirical result of AcF is consistent with the findings of the dynamic peak-over-threshold (POT) literature that the tail index of financial markets varies through time.
+ER  - 
+
+TY  - JOUR
+T1  - Portmanteau-type tests for unit-root and cointegration
+AU  - Zhang, Rongmao
+AU  - Chan, Ngai Hang
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 307
+EP  - 324
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301519
+KW  - Autoregressive processes
+KW  - Cointegration
+KW  - Portmanteau test
+KW  - Sample covariance
+KW  - Unit-root
+AB  - This paper proposes a new portmanteau-type statistic by combining several lags of the sample autocorrelations to test for the presence of a unit-root of an autoregressive model. The proposed method is nonparametric in nature, which is model free and easy to implement. It avoids modeling the fitted residuals and does not require estimation of nuisance parameters, as commonly done in the augmented Dickey–Fuller or Phillips–Perron procedure. Asymptotic properties of the test are established under general stationary conditions on the noises. Finite sample studies are also reported to illustrate the superior power of the proposed method. Applications to test for cointegration are also given.
+ER  - 
+
+TY  - JOUR
+T1  - Subvector inference when the true parameter vector may be near or at the boundary
+AU  - Ketz, Philipp
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 285
+EP  - 306
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830143X
+KW  - Boundary
+KW  - Asymptotic normality
+KW  - Admissibility
+KW  - Random coefficients
+AB  - Extremum estimators are not asymptotically normally distributed when the estimator satisfies the restrictions on the parameter space – such as the non-negativity of a variance parameter – and the true parameter vector is near or at the boundary. This possible lack of asymptotic normality makes it difficult to construct tests for testing subvector hypotheses that control asymptotic size in a uniform sense and have good local asymptotic power irrespective of whether the true parameter vector is at, near, or far from the boundary. We propose a novel estimator that is asymptotically normally distributed even when the true parameter vector is near or at the boundary and the objective function is not defined outside the parameter space. The proposed estimator allows the implementation of a new test based on the Conditional Likelihood Ratio statistic that is easy-to-implement, controls asymptotic size, and has good local asymptotic power properties. Furthermore, we show that the test enjoys certain asymptotic optimality properties when the parameter of interest is scalar. In an application of the random coefficients logit model (Berry, Levinsohn and Pakes, 1995) to the European car market, we find that, for most parameters, the new test leads to tighter confidence intervals than the two-sided t-test commonly used in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Model checks for nonlinear cointegrating regression
+AU  - Wang, Qiying
+AU  - Wu, Dongsheng
+AU  - Zhu, Ke
+JO  - Journal of Econometrics
+VL  - 207
+IS  - 2
+SP  - 261
+EP  - 284
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301428
+KW  - Cointegration
+KW  - Nonlinear regression
+KW  - Marked empirical process
+KW  - Weak convergence
+KW  - Specification testing
+KW  - Model check
+AB  - Using the marked empirical processes, this paper develops a test of parametric specification in a nonlinear cointegrating regression model. Unlike the kernel-smoothed U-statistic considered in Gao et al. (2009) and Wang and Phillips (2012), our new test statistic avoids the use of bandwidth, which has some advantages for practitioners. Simulations and a real data example show that our new test has a good finite sample performance. Other contributions of this paper are to provide a rigorous proof on weak convergence for a class of martingales and construct a simulated estimator of the limiting null distribution, which are interesting in their own rights.
+ER  - 

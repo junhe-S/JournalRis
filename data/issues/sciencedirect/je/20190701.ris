@@ -1,0 +1,407 @@
+TY  - JOUR
+T1  - A Hausman test for the presence of market microstructure noise in high frequency data
+AU  - Aït-Sahalia, Yacine
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 176
+EP  - 205
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830246X
+KW  - Hausman test
+KW  - Market microstructure noise
+KW  - Realized volatility
+KW  - QMLE
+KW  - TSRV
+KW  - Pre-averaging
+KW  - Super-efficiency
+KW  - Local power
+AB  - We develop tests that help assess whether a high frequency data sample can be treated as reasonably free of market microstructure noise at a given sampling frequency for the purpose of implementing high frequency volatility and other estimators. The tests are based on the Hausman principle of comparing two estimators, one that is efficient but not robust to the deviation being tested, and one that is robust but not as efficient. We investigate the asymptotic properties of the test statistic in a general nonparametric setting, and compare it with several alternatives that are also developed in the paper. Empirically, we find that improvements in stock market liquidity over the past decade have increased the frequency at which simple, uncorrected, volatility estimators can be safely employed.
+ER  - 
+
+TY  - JOUR
+T1  - Nonseparable multinomial choice models in cross-section and panel data
+AU  - Chernozhukov, Victor
+AU  - Fernández-Val, Iván
+AU  - Newey, Whitney K.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 104
+EP  - 116
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302379
+KW  - Multinomial choice
+KW  - Binary choice
+KW  - Nonseparable model
+KW  - Random coefficients
+KW  - Panel data
+KW  - Control function
+AB  - Multinomial choice models are fundamental for empirical modeling of economic choices among discrete alternatives. We analyze identification of binary and multinomial choice models when the choice utilities are nonseparable in observed attributes and multidimensional unobserved heterogeneity with cross-section and panel data. We show that derivatives of choice probabilities with respect to continuous attributes are weighted averages of utility derivatives in cross-section models with exogenous heterogeneity. In the special case of random coefficient models with an independent additive effect, we further characterize that the probability derivative at zero is proportional to the population mean of the coefficients. We extend the identification results to models with endogenous heterogeneity using either a control function or panel data. In time stationary panel models with two periods, we find that differences over time of derivatives of choice probabilities identify utility derivatives “on the diagonal,” i.e. when the observed attributes take the same values in the two periods. We also show that time stationarity does not identify structural derivatives “off the diagonal” both in continuous and multinomial choice panel models.
+ER  - 
+
+TY  - JOUR
+T1  - Three-stage semi-parametric inference: Control variables and differentiability
+AU  - Hahn, Jinyong
+AU  - Ridder, Geert
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 262
+EP  - 293
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302525
+KW  - Endogenous regressor
+KW  - Non-separable errors
+KW  - Control variable
+KW  - Influence function
+KW  - Overidentification
+KW  - Differentiability
+AB  - We show the usefulness of the path-derivative calculations that were introduced in econometrics by Newey (1994) for multi-step semi-parametric estimators. These estimators estimate a finite-dimensional parameter using moment conditions that depend on nonparametric regressions on observed and estimated regressors that are estimated in the second and first step of the estimation procedure, respectively. Our earlier paper showed that Newey’s calculations can be extended to three-step estimators. In the current paper we consider the control variable (CV) estimator and related statistics in semi-parametric econometric models with non-separable errors and regressors that are correlated with these errors. Non-separable econometric models with endogenous regressors are often identified by average moment restrictions that average over control variables, and these control variables are estimated in a first stage by (non)parametric regression. We study aspects of inference for such estimators where we focus on a finite-dimensional parameter vector or statistic. The asymptotic distribution and a closed-form expression for the asymptotic variance of the CV estimator were not available until now. Our path derivative calculations are much simpler than the derivation of the asymptotic distribution by a stochastic expansion that is particularly complicated for multi-step semi-parametric estimators. We also consider just- and overidentification of the parameters and we propose a diagnostic test for overidentifying restrictions in models with non-separable errors and endogenous regressors. Finally, the path-derivative calculation breaks down if the moment condition is not differentiable. In an example we show that non-differentiability is associated with irregular behavior of the estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Increasing the power of specification tests
+AU  - Woutersen, Tiemen
+AU  - Hausman, Jerry A.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 166
+EP  - 175
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302458
+KW  - Specification test
+KW  - Hausman test
+KW  - Power of tests
+AB  - This paper shows how to increase the power of Hausman’s (1978) specification test as well as the difference test in a large class of models. The idea is to impose the restrictions of the null and the alternative hypotheses when estimating the covariance matrix. If the null hypothesis is true then the proposed test has the same distribution as the existing ones in large samples. If the hypothesis is false then the proposed test statistic is larger with probability approaching one as the sample size increases in several important applications, including testing for endogeneity in the linear model.
+ER  - 
+
+TY  - JOUR
+T1  - Marginal deadweight loss when the income tax is nonlinear
+AU  - Blomquist, Sören
+AU  - Simula, Laurent
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 47
+EP  - 60
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302343
+KW  - Marginal deadweight loss
+KW  - Taxable income
+KW  - Nonlinear budget constraint
+AB  - Most theoretical work on how to calculate the marginal deadweight loss has been done for linear taxes and for variations in linear budget constraints. This is quite surprising because most income tax systems are nonlinear, generating nonlinear budget constraints. Instead of developing the proper procedure to calculate the marginal deadweight loss for variations in nonlinear income taxes, a common procedure has been to linearize the nonlinear budget constraint and apply methods that are correct for variations in a linear income tax. Such a procedure leads to incorrect results. The main purpose of this paper is to show how to correctly calculate the marginal deadweight loss when the income tax is nonlinear. A second purpose is to evaluate the bias in results that obtains when a linearization procedure is used. Our main theoretical result is that the overall curvature of the tax system plays the same role as the curvature of indifference curves for the size of the marginal deadweight loss. Using numerical simulations calibrated on US data, we show that common linearization procedures may lead to substantial overestimation of the marginal deadweight loss.
+ER  - 
+
+TY  - JOUR
+T1  - Annals Issue in Honor of Jerry A. Hausman: Editors’ Introduction
+AU  - Aït-Sahalia, Yacine
+AU  - Lo, Andrew W.
+AU  - Newey, Whitney K.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830229X
+ER  - 
+
+TY  - JOUR
+T1  - Labour supply and taxation with restricted choices
+AU  - Beffy, Magali
+AU  - Blundell, Richard
+AU  - Bozio, Antoine
+AU  - Laroque, Guy
+AU  - Tô, Maxime
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 16
+EP  - 46
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302331
+KW  - Female labour supply
+KW  - Taxation
+KW  - Consideration set
+AB  - A model of labour supply and taxation is developed in which observed hours reflect both the distribution of preferences and restrictions on choices. Hours restrictions are placed in a constrained rational choice setting in which the set of alternative hours on offer is restricted. Choices are made on a random subset of possible hours. We focus on the case where the choice set contains at most two offers. We show that when the choice set distribution is known, preferences can be identified. Conversely we show that, where preferences are known, the choice set distribution can be fully recovered. Conditions for identification of both preferences and the distribution of choice sets are also developed. We illustrate this approach in a labour supply setting with nonlinear budget constraints. Heterogeneity in the budget constraint reveals properties of the choice set. This framework is used to study the labour supply behaviour of a large sample of working age mothers in the UK, accounting for nonlinearities in the tax and welfare benefit system, fixed costs of work and restrictions on hours choices.
+ER  - 
+
+TY  - JOUR
+T1  - Constructive identification in some nonseparable discrete choice models
+AU  - Matzkin, Rosa L.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 83
+EP  - 103
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302367
+KW  - Discrete choice
+KW  - Nonparametric identification
+KW  - Unobserved heterogeneity
+KW  - Random utility
+KW  - Random coefficients
+KW  - Nonseparability
+KW  - Monotonicity
+KW  - Rank conditions
+KW  - Distribution-free methods
+AB  - This paper introduces new results on the nonparametric identification of separable and nonseparable discrete choice models. It presents constructive methods for recovering the derivatives of the utility functions of the alternatives in a set, when these utility functions are nonparametric and nonseparable in unobservable random terms. When the utility functions are separable, the constructive methods require fewer assumptions. It is assumed that only the probability of choosing one alternative outside the set is observed. The conditions for identification involve testable shape restrictions on the distributions of the nonseparable unobservable random terms.
+ER  - 
+
+TY  - JOUR
+T1  - Missing dependent variables in fixed-effects models
+AU  - Abrevaya, Jason
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 151
+EP  - 165
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302422
+KW  - Missing data
+KW  - Fixed effects
+KW  - Linear projection
+KW  - Classical minimum distance
+AB  - This paper considers estimation of linear fixed-effects models in which the dependent variable may be missing. For cross-sectional units with dependent variables missing, use of covariate information from all time periods can provide efficiency gains relative to complete-data methods. A classical minimum distance (CMD) estimator based upon Chamberlain (1982, 1984), which is consistent under a missing-at-random (MAR) type assumption, is proposed for the static fixed-effects model. In certain circumstances, it is shown that “within” variation in the dependent variable is not even required for identification of the model parameters. The CMD estimation approach is extended to the case of (autoregressive) fixed-effects models with lagged dependent variables. Monte Carlo simulations investigate the performance of the CMD approach relative to existing methods. Extensions to models with sequential exogeneity and missing covariates are also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - A panel quantile approach to attrition bias in Big Data: Evidence from a randomized experiment
+AU  - Harding, Matthew
+AU  - Lamarche, Carlos
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 61
+EP  - 82
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302355
+KW  - Attrition
+KW  - Big Data
+KW  - Quantile regression
+KW  - Individual effects
+KW  - Time-of-Day pricing
+AB  - This paper introduces a quantile regression estimator for panel data models with individual heterogeneity and attrition. The method is motivated by the fact that attrition bias is often encountered in Big Data applications. For example, many users sign-up for the latest program but few remain active users several months later, making the evaluation of such interventions inherently very challenging. Building on earlier work by Hausman and Wise (1979), we provide a simple identification strategy that leads to a two-step estimation procedure. In the first step, the coefficients of interest in the selection equation are consistently estimated using parametric or nonparametric methods. In the second step, standard panel quantile methods are employed on a subset of weighted observations. The estimator is computationally easy to implement in Big Data applications with a large number of subjects. We investigate the conditions under which the parameter estimator is asymptotically Gaussian and we carry out a series of Monte Carlo simulations to investigate the finite sample properties of the estimator. Lastly, using a simulation exercise, we apply the method to the evaluation of a recent Time-of-Day electricity pricing experiment inspired by the work of Aigner and Hausman (1980).
+ER  - 
+
+TY  - JOUR
+T1  - A model-free consistent test for structural change in regression possibly with endogeneity
+AU  - Fu, Zhonghao
+AU  - Hong, Yongmiao
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 206
+EP  - 242
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302471
+KW  - Endogeneity
+KW  - Fourier transform
+KW  - Local stationarity
+KW  - Long-run variance
+KW  - Model-free test
+KW  - Structural change
+AB  - Structural instability leads to misleading inference and imprecise prediction of time series models that assume stationarity. We propose a model-free consistent test for structural change in regression by testing the instability of the Fourier transform of data. This novel approach avoids smoothed nonparametric estimation of the unknown regression function and so is free of the “curse of dimensionality” problem. Unlike the existing literature, we allow for endogenous and discrete regressors. By using a proper choice of weighting functions for the transform parameters in the Fourier transform, we avoid numerical integration so that our test statistic is easy to compute. Our test statistic has a convenient asymptotic N(0,1) distribution under the null hypothesis of no structural change and is consistent against a large class of smooth structural changes as well as abrupt structural breaks with unknown break dates. A Monte Carlo study and an empirical application show that our test performs reasonably well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Invariance principles for dependent processes indexed by Besov classes with an application to a Hausman test for linearity
+AU  - Kuersteiner, Guido M.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 243
+EP  - 261
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302483
+KW  - Dependent process
+KW  - Empirical process
+KW  - Mixing
+KW  - Besov classes
+KW  - Hausman test
+AB  - This paper considers functional central limit theorems for stationary absolutely regular mixing processes. Bounds for the entropy with bracketing are derived using recent results in Nickl and Pötscher (2007). More specifically, their bracketing metric entropy bounds are extended to a norm defined in Doukhan, Massart and Rio (1995, henceforth DMR) that depends both on the marginal distribution of the process and on the mixing coefficients. Using these bounds, and based on a result in DMR, it is shown that for the class of weighted Besov spaces polynomially decaying tail behavior of the function class is sufficient to obtain a functional central limit theorem under minimal dependence conditions. A second class of functions that allow for a functional central limit theorem under minimal conditions are smooth functions defined on bounded sets. Similarly, a functional CLT for polynomially explosive tail behavior is obtained under additional moment conditions that are easy to check. An application to a Hausman (1978) specification test for linearity of the conditional mean illustrates the theory.
+ER  - 
+
+TY  - JOUR
+T1  - Correlated random effects models with unbalanced panels
+AU  - Wooldridge, Jeffrey M.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 137
+EP  - 150
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302392
+KW  - Correlated random effects
+KW  - Panel data
+KW  - Unbalanced panel
+KW  - Hausman test
+AB  - I propose some strategies for allowing unobserved heterogeneity to be correlated withobserved covariates and sample selection for unbalanced panels. The methods are extensions of the Chamberlain–Mundlak approach for balanced panels when explanatory variables are strictly exogenous conditional on unobserved effects. A byproduct is fully robust Hausman tests for unbalanced panels. Even for nonlinear models, in many cases the estimators can be implemented using standard software. The framework suggests straightforward tests for sample selection that is correlated with unobserved shocks while allowing selection to be correlated with the observed covariates and unobserved heterogeneity.
+ER  - 
+
+TY  - JOUR
+T1  - Is the FDA too conservative or too aggressive?: A Bayesian decision analysis of clinical trial design
+AU  - Isakov, Leah
+AU  - Lo, Andrew W.
+AU  - Montazerhodjat, Vahid
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 117
+EP  - 136
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302380
+KW  - Clinical trial design
+KW  - Drug-approval process
+KW  - FDA
+KW  - Bayesian decision analysis
+KW  - Adaptive design
+AB  - Implicit in the drug-approval process is a host of decisions—target patient population, control group, primary endpoint, sample size, follow-up period, etc.—all of which determine the trade-off between Type I and Type II error. We explore the application of Bayesian decision analysis (BDA) to minimize the expected cost of drug approval, where the relative costs of the two types of errors are calibrated using U.S. Burden of Disease Study 2010 data. The results for conventional fixed-sample randomized clinical-trial designs suggest that for terminal illnesses with no existing therapies such as pancreatic cancer, the standard threshold of 2.5% is substantially more conservative than the BDA-optimal threshold of 23.9% to 27.8%. For relatively less deadly conditions such as prostate cancer, 2.5% is more risk-tolerant or aggressive than the BDA-optimal threshold of 1.2% to 1.5%. We compute BDA-optimal sizes for 25 of the most lethal diseases and show how a BDA-informed approval process can incorporate all stakeholders’ views in a systematic, transparent, internally consistent, and repeatable manner.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - ii
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30125-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301253
+ER  - 
+
+TY  - JOUR
+T1  - Jerry Hausman
+AU  - Joskow, Paul L.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 11
+EP  - 15
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302318
+AB  - This paper is in two parts. The first part includes some reminiscences of my life with Jerry since we both arrived at MIT in 1972. The second part discusses what I view as Jerry’s most important and long-lasting contribution to energy economics. Jerry has been an amazing friend and colleague for 45 years. His paper analyzing consumer choice of energy using durable equipment and the estimate of consumer discount rates continues to be the gold standard from an analytical perspective and his 1979 results have held up very well in the many more recent studies.
+ER  - 
+
+TY  - JOUR
+T1  - Convolution without independence
+AU  - Schennach, Susanne M.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 308
+EP  - 318
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302549
+KW  - Subindependence
+KW  - Measurement error
+KW  - Error-in-variables
+KW  - Deconvolution
+KW  - Characteristic function
+AB  - Widely used convolution and deconvolution techniques traditionally rely on independence assumptions, often criticized as being strong. We observe that the convolution theorem actually holds under a weaker assumption, known as subindependence. We show that this notion is arguably as weak as a conditional mean assumption. We report various simple characterizations of subindependence and devise constructive methods to generate subindependent random variables. We extend subindependence to multivariate settings and propose the new concepts of conditional and mean subindependence, relevant to measurement error problems. We finally introduce three tests of subindependence based on characteristic functions, generalized method of moments and randomization, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - An Econometric Life
+AU  - Hausman, Jerry
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 4
+EP  - 10
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302306
+ER  - 
+
+TY  - JOUR
+T1  - On the structure of IV estimands
+AU  - Andrews, Isaiah
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 1
+SP  - 294
+EP  - 307
+PY  - 2019
+DA  - 2019/07/01/
+T2  - Annals Issue in Honor of Jerry A. Hausman
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302537
+KW  - Instrumental variables
+KW  - Misspecification
+AB  - When the overidentifying restrictions of the constant-effect linear instrumental variables model fail, common IV estimators converge to different probability limits. I characterize the estimands of two stage least squares, two step GMM, and limited information maximum likelihood as functions of the single-instrument estimands from the just-identified IV regressions which consider each instrument separately. The limited information maximum likelihood estimand is found to be discontinuous on a set of dimension equal to the number of instruments minus one, and to equal the full parameter space on a set of dimension equal to the number of instruments minus two.
+ER  - 

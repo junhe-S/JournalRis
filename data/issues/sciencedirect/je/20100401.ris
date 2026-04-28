@@ -1,0 +1,170 @@
+TY  - JOUR
+T1  - Distribution-free tests for time series models specification
+AU  - Delgado, Miguel A.
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - 128
+EP  - 137
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.09.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002358
+KW  - Optimal tests
+KW  - Residuals autocorrelation function
+KW  - Specification tests
+KW  - Time series models
+KW  - Dynamic regression model
+AB  - We consider a class of time series specification tests based on quadratic forms of weighted sums of residuals autocorrelations. Asymptotically distribution-free tests in the presence of estimated parameters are obtained by suitably transforming the weights, which can be optimally chosen to maximize the power function when testing in the direction of local alternatives. We discuss in detail an asymptotically optimal distribution-free alternative to the popular Box–Pierce when testing in the direction of AR or MA alternatives. The performance of the test with small samples is studied by means of a Monte Carlo experiment.
+ER  - 
+
+TY  - JOUR
+T1  - The dynamic invariant multinomial probit model: Identification, pretesting and estimation
+AU  - Liesenfeld, Roman
+AU  - Richard, Jean-François
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - 117
+EP  - 127
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.09.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002346
+KW  - Discrete choice
+KW  - Efficient Importance Sampling
+KW  - Invariance
+KW  - Monte Carlo integration
+KW  - Panel data
+KW  - Simulated maximum likelihood
+AB  - We present a new specification for the multinomial multiperiod probit model with autocorrelated errors. In sharp contrast with commonly used specifications, ours is invariant with respect to the choice of a baseline alternative for utility differencing. It also nests these standard models as special cases, allowing for data-based selection of the baseline alternatives for the latter. Likelihood evaluation is achieved under an Efficient Importance Sampling (EIS) version of the standard GHK algorithm. Several simulation experiments highlight identification, estimation and pretesting within the new class of multinomial multiperiod probit models.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient semiparametric estimation of multi-valued treatment effects under ignorability
+AU  - Cattaneo, Matias D.
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - 138
+EP  - 154
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.09.023
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760900236X
+KW  - Multi-valued treatment effects
+KW  - Unconfoundedness
+KW  - Semiparametric efficiency
+KW  - Efficient estimation
+AB  - This paper studies the efficient estimation of a large class of multi-valued treatment effects as implicitly defined by a collection of possibly over-identified non-smooth moment conditions when the treatment assignment is assumed to be ignorable. Two estimators are introduced together with a set of sufficient conditions that ensure their n-consistency, asymptotic normality and efficiency. Under mild assumptions, these conditions are satisfied for the Marginal Mean Treatment Effect and the Marginal Quantile Treatment Effect, estimands of particular importance for empirical applications. Previous results for average and quantile treatments effects are encompassed by the methods proposed here when the treatment is dichotomous. The results are illustrated by an empirical application studying the effect of maternal smoking intensity during pregnancy on birth weight, and a Monte Carlo experiment.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric cointegration analysis of fractional systems with unknown integration orders
+AU  - Nielsen, Morten Ørregaard
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - 170
+EP  - 187
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002383
+KW  - Cointegration rank
+KW  - Cointegration space
+KW  - Fractional integration and cointegration
+KW  - Interest rates
+KW  - Long memory
+KW  - Nonparametric
+KW  - Term structure
+KW  - Variance ratio
+AB  - In this paper a nonparametric variance ratio testing approach is proposed for determining the cointegration rank in fractionally integrated systems. The test statistic is easily calculated without prior knowledge of the integration order of the data, the strength of the cointegrating relations, or the cointegration vector(s). The latter property makes it easier to implement than regression-based approaches, especially when examining relationships between several variables with possibly multiple cointegrating vectors. Since the test is nonparametric, it does not require the specification of a particular model and is invariant to short-run dynamics. Nor does it require the choice of any smoothing parameters that change the test statistic without being reflected in the asymptotic distribution. Furthermore, a consistent estimator of the cointegration space can be obtained from the procedure. The asymptotic distribution theory for the proposed test is non-standard but easily tabulated or simulated. Monte Carlo simulations demonstrate excellent finite sample properties, even rivaling those of well-specified parametric tests. The proposed methodology is applied to the term structure of interest rates, where, contrary to both fractional- and integer-based parametric approaches, evidence in favor of the expectations hypothesis is found using the nonparametric approach.
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinearity and temporal dependence
+AU  - Chen, Xiaohong
+AU  - Hansen, Lars Peter
+AU  - Carrasco, Marine
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - 155
+EP  - 169
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002371
+KW  - Diffusion
+KW  - Strong dependence
+KW  - Long memory
+KW  - Poisson sampling
+KW  - Quadratic forms
+AB  - Nonlinearities in the drift and diffusion coefficients influence temporal dependence in diffusion models. We study this link using three measures of temporal dependence: ρ-mixing, β-mixing and α-mixing. Stationary diffusions that are ρ-mixing have mixing coefficients that decay exponentially to zero. When they fail to be ρ-mixing, they are still β-mixing and α-mixing; but coefficient decay is slower than exponential. For such processes we find transformations of the Markov states that have finite variances but infinite spectral densities at frequency zero. The resulting spectral densities behave like those of stochastic processes with long memory. Finally we show how state dependent, Poisson sampling alters the temporal dependence.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - IFC
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00032-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000321
+ER  - 
+
+TY  - JOUR
+T1  - Heterogeneous treatment effects: Instrumental variables without monotonicity?
+AU  - Klein, Tobias J.
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - 99
+EP  - 116
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760900219X
+KW  - Program evaluation
+KW  - Heterogeneity
+KW  - Identification
+KW  - Dummy endogenous variable
+KW  - Selection on unobservables
+KW  - Instrumental variables
+KW  - Monotonicity
+KW  - Nonseparable index selection model
+AB  - Imbens and Angrist (1994) were the first to exploit a monotonicity condition in order to identify a local average treatment effect parameter using instrumental variables. More recently, Heckman and Vytlacil (1999) suggested the estimation of a variety of treatment effect parameters using a local version of their approach. We investigate the sensitivity of the respective estimates to random departures from monotonicity. Approximations to the respective bias terms are derived. In an empirical application the bias is calculated and bias corrected estimates are obtained. The accuracy of the approximation is investigated in a Monte Carlo study.
+ER  - 
+
+TY  - JOUR
+T1  - A likelihood ratio test for stationarity of rating transitions
+AU  - Weißbach, Rafael
+AU  - Walter, Ronja
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 2
+SP  - 188
+EP  - 194
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.10.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002693
+KW  - Stationarity
+KW  - Multiple Markov process
+KW  - Counting process
+KW  - Likelihood ratio
+KW  - Multiple spells
+AB  - We study the time-stationarity of rating transitions, modelled by a time-continuous discrete-state Markov process and derive a likelihood ratio test. For multiple Markov processes from a multiplicative intensity model, maximum likelihood parameter estimates can be written as martingale transform of the processes, counting transitions between the rating states, so that the profile partial likelihood ratio is asymptotically χ2-distributed. An application to an internal rating data set reveals highly significant instationarity.
+ER  - 

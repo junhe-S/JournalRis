@@ -1,0 +1,286 @@
+TY  - JOUR
+T1  - Estimating unobserved individual heterogeneity using pairwise comparisons
+AU  - Krasnokutskaya, Elena
+AU  - Song, Kyungchul
+AU  - Tang, Xun
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 477
+EP  - 497
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000142
+KW  - Unobserved individual heterogeneity
+KW  - Discrete unobserved heterogeneity
+KW  - Pairwise comparisons
+KW  - Nonparametric classification
+KW  - Consistency
+AB  - We propose a new method for studying environments with unobserved individual heterogeneity. Based on model-implied pairwise inequalities, the method classifies individuals in the sample into groups defined by discrete unobserved heterogeneity with unknown support. We establish conditions under which the groups are identified and consistently estimated through our method. We show that the method performs well in finite samples through Monte Carlo simulation. We then apply the method to estimate a model of lowest-price procurement auctions with unobserved bidder heterogeneity, using data from the California highway procurement market.
+ER  - 
+
+TY  - JOUR
+T1  - A wavelet method for panel models with jump discontinuities in the parameters
+AU  - Bada, O.
+AU  - Kneip, A.
+AU  - Liebl, D.
+AU  - Mensinger, T.
+AU  - Gualtieri, J.
+AU  - Sickles, R.C.
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 399
+EP  - 422
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002189
+KW  - Haar wavelets
+KW  - Adaptive lasso
+KW  - Panel data
+KW  - Structural change
+KW  - Penalized IV
+KW  - Algorithmic trading
+KW  - Market efficiency
+AB  - While a substantial literature on structural break change point analysis exists for univariate time series, research on large panel data models has not been as extensive. In this paper, a novel method for estimating panel models with multiple structural changes is proposed. The breaks are allowed to occur at unknown points in time and may affect the multivariate slope parameters individually. Our method adapts Haar wavelets to the structure of the observed variables in order to detect the change points of the parameters consistently. We also develop methods to address endogenous regressors within our modeling framework. The asymptotic property of our estimator is established. In our application, we examine the impact of algorithmic trading on standard measures of market quality such as liquidity and volatility over a time period that covers the financial meltdown that began in 2007. We are able to detect jumps in regression slope parameters automatically without using ad-hoc subsample selection criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of dynamic games with unobserved heterogeneity and multiple equilibria
+AU  - Luo, Yao
+AU  - Xiao, Ping
+AU  - Xiao, Ruli
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 343
+EP  - 367
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001470
+KW  - Unobserved heterogeneity
+KW  - Multiple equilibria
+KW  - Discrete games
+KW  - Dynamic games
+KW  - Nonparametric identification
+AB  - This paper provides sufficient conditions for nonparametrically identifying dynamic games with incomplete information, allowing for multiple equilibria and payoff-relevant unobservables. Our identification involves two steps. We first identify the equilibrium conditional choice probabilities and state transitions using the Markov property and four-period data. The first step of our identification relies on eigenvalue-eigenvector decomposition, and thus incurs the same issue of identification up-to-label-swapping as the existing literature. This makes it difficult to identify payoff primitives in the second step, which requires consistent matching of unobserved types across different values of the observed variables. Instead of imposing assumptions such as monotonicity, we address this type-matching problem by exploiting the Markov property and longitudinal variations of observables in the intermediate periods to link different decompositions.
+ER  - 
+
+TY  - JOUR
+T1  - A test of the selection on observables assumption using a discontinuously distributed covariate
+AU  - Khalil, Umair
+AU  - Yıldız, Neşe
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 423
+EP  - 450
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002451
+KW  - Selection on observables
+KW  - Testing
+KW  - Partial effects
+KW  - Essential heterogeneity
+AB  - We present a test of the selection on observables assumption that neither requires instruments nor excluded covariates from the structural function. Instead, we rely on the presence of a discontinuously distributed variable among the set of controls. We develop formal testing procedures for a non-parametric additively separable model for binary and finite treatment variables. We also outline a nonparametric nonseparable extension. Our test is easy to implement and should be useful in many empirical settings. Specifically, we employ it to study selection concerns in the estimation of the impact of a nutritional aid program for pregnant women on birth weight.
+ER  - 
+
+TY  - JOUR
+T1  - Sample selection models with monotone control functions
+AU  - Liu, Ruixuan
+AU  - Yu, Zhengfei
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 321
+EP  - 342
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001342
+KW  - Copula
+KW  - Sample selection models
+KW  - Isotonic regression
+KW  - Semiparametric estimation
+KW  - Shape restriction
+AB  - The celebrated Heckman selection model yields a selection correction function (control function) proportional to the inverse Mills ratio, which is monotone. This paper studies a sample selection model that does not impose parametric distributional assumptions on the latent error terms, while maintaining the monotonicity of the control function. We show that a positive (negative) dependence condition on the latent error terms is sufficient for the monotonicity of the control function. The condition is equivalent to a restriction on the copula function of latent error terms. Using the monotonicity, we propose a tuning-parameter-free semiparametric estimation method and establish root n-consistency and asymptotic normality for the estimates of finite-dimensional parameters. A new test for selectivity is also developed in the presence of the shape restriction. Simulations and an empirical application are conducted to illustrate the usefulness of the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of nonparametric monotonic regression models with continuous nonclassical measurement errors
+AU  - Hu, Yingyao
+AU  - Schennach, Susanne
+AU  - Shiu, Ji-Liang
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 269
+EP  - 294
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001305
+KW  - Nonclassical measurement error
+KW  - Nonparametric identification
+KW  - Spectral decomposition
+KW  - Nonparametric regression
+KW  - Sieve maximum likelihood estimation
+AB  - This paper provides sufficient conditions for identification of a nonparametric regression model with an unobserved continuous regressor subject to nonclassical measurement error. The measurement error may be directly correlated with the latent regressor in the model. Our identification strategy does not require the availability of additional data information, such as a secondary measurement, an instrumental variable, or an auxiliary sample. Our main assumptions for nonparametric identification include monotonicity of the regression function, independence of the regression error, and completeness of the measurement error distribution. We also propose a sieve maximum likelihood estimator and investigate its finite sample property through Monte Carlo simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for risk aversion in first-price sealed-bid auctions
+AU  - Jun, Sung Jae
+AU  - Zincenko, Federico
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 295
+EP  - 320
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001469
+KW  - First-price auction
+KW  - Independent private values
+KW  - Risk aversion
+KW  - Nonparametric testing
+KW  - Local alternatives at the parametric rate
+AB  - We consider testing for risk aversion in first-price sealed-bid auctions with symmetric bidders and independent private values. We impose several restrictions on the parameter space, which are all implied by Guerre et al. (2009)’s exclusion restriction, and we articulate what restrictions are needed for our test to control the limiting size and to be pointwise consistent. Critical values can be obtained from the standard normal distribution. We also analyze local-power properties and show that our test detects local alternative at the parametric rate.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile regression methods for first-price auctions
+AU  - Gimenes, Nathalie
+AU  - Guerre, Emmanuel
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 224
+EP  - 247
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001524
+KW  - First-price auction
+KW  - Independent private values
+KW  - Dimension reduction
+KW  - Quantile regression
+KW  - Local polynomial estimation
+KW  - Specification testing
+KW  - Boundary correction
+KW  - Sieve estimation
+AB  - The paper proposes a quantile-regression inference framework for first-price auctions with symmetric risk-neutral bidders under the independent private-value paradigm. It is first shown that a private-value quantile regression generates a quantile regression for the bids. The private-value quantile regression can be easily estimated from the bid quantile regression and its derivative with respect to the quantile level. This also allows to test for various specification or exogeneity null hypothesis using the observed bids in a simple way. A new local polynomial technique is proposed to estimate the latter over the whole quantile level interval. Plug-in estimation of functionals is also considered, as needed for the expected revenue or the case of CRRA risk-averse bidders, which is amenable to our framework. A quantile-regression analysis to USFS timber is found more appropriate than the homogenized-bid methodology and illustrates the contribution of each explanatory variable to the private-value distribution. Linear interactive sieve extensions are proposed and studied in the Appendices.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating multinomial choice models with unobserved choice sets
+AU  - Lu, Zhentong
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 368
+EP  - 398
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001755
+KW  - Discrete choice
+KW  - Choice set heterogeneity
+KW  - Moment inequalities
+KW  - Scanner data
+AB  - This paper proposes a new approach to estimating multinomial choice models when each consumer’s actual choice set is unobservable but could be bounded by two known sets, i.e., the largest and smallest possible choice sets. The bounds on choice set, combined with a monotonicity property derived from utility maximization, imply a system of inequality restrictions on observed choice probabilities that could be used to identify and estimate the model. A key insight is that the identification of random utility model can be achieved without exact information on consumers’ choice sets, which generalizes the identification result of the standard multinomial choice model. The effectiveness of the proposed approach is demonstrated via a range of Monte Carlo experiments as well as an empirical application to consumer demand for potato chips using household scanner data.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - ii
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00297-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002979
+ER  - 
+
+TY  - JOUR
+T1  - Inference in ordered response games with complete information
+AU  - Aradillas-López, Andrés
+AU  - Rosen, Adam M.
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 451
+EP  - 476
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002347
+KW  - Discrete games
+KW  - Ordered response
+KW  - Partial identification
+KW  - Conditional moment inequalities
+AB  - We study inference in complete information games with discrete strategy spaces. Unlike binary games, we allow for rich strategy spaces and we only assume that they are ordinal in nature. We derive observable implications of equilibrium play under mild shape restrictions on payoff functions, and we characterize sharp identified sets for model parameters. We propose a novel inference method based on a test statistic that embeds conditional moment inequalities implied by equilibrium behavior. Our statistic has asymptotically pivotal properties that depend on the measure of contact sets, to which our statistic adapts automatically. In the case of two players and strategic substitutes we show that certain payoff parameters are point identified under mild conditions. We embed conventional point estimates for these parameters in our conditional moment inequality test statistic in order to perform inference on the remaining (partially identified) parameters. We apply our method to model the number of stores operated by Lowe’s and Home Depot in geographic markets and perform inference on several quantities of economic interest.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of semiparametric model coefficients, with an application to collective households
+AU  - Lewbel, Arthur
+AU  - Lin, Xirong
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 205
+EP  - 223
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001834
+KW  - Identification
+KW  - Semiparametric
+KW  - Collective household model
+KW  - Cost of children
+KW  - Bargaining power
+KW  - Sharing rule
+KW  - Demand systems
+AB  - We prove identification of coefficients for a set of semiparametric specifications that are related to multiple index models. Potential applications of these results include models of observed heterogeneity in production functions and in consumer demand systems. We then generalize these results to identify a class of collective household consumption models. We extend the existing literature by proving point identification, rather than the weaker generic identification, of all the features of the collective household model, including price effects. We estimate the model using Japanese consumption data, and find substantial variation in resource shares and indifference scales across households of different sizes.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on estimators defined by mathematical programming
+AU  - Hsieh, Yu-Wei
+AU  - Shi, Xiaoxia
+AU  - Shum, Matthew
+JO  - Journal of Econometrics
+VL  - 226
+IS  - 2
+SP  - 248
+EP  - 268
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100172X
+KW  - Linear complementarity constraints
+KW  - Moment inequalities
+KW  - Sub-vector inference
+KW  - Portfolio selection
+AB  - We propose an inference procedure for a class of estimators defined as the solutions to linear and convex quadratic programming problems in which the coefficients in both the objective function and the constraints of the problem are estimated from data and hence involve sampling error. We argue that the Karush–Kuhn–Tucker conditions that characterize the solutions to these programming problems can be treated as moment conditions; by doing so, we transform the problem of inference on the solution to a constrained optimization problem (which is non-standard) into one involving inference on inequalities with pre-estimated coefficients, which is better understood. Our approach is valid regardless of whether the problem has a unique solution or multiple solutions. We apply our method to various portfolio selection models, in which the confidence sets can be non-convex, lower-dimensional manifolds.
+ER  - 

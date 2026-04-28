@@ -1,0 +1,256 @@
+TY  - JOUR
+T1  - Further results on projection-based inference in IV regressions with weak, collinear or missing instruments
+AU  - Dufour, Jean-Marie
+AU  - Taamouti, Mohamed
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 133
+EP  - 153
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001060
+KW  - Simultaneous equations
+KW  - Weak instrument
+KW  - Collinearity
+KW  - Missing instrument
+KW  - Projection
+AB  - We study a general family of Anderson–Rubin-type procedures, allowing for arbitrary collinearity among the instruments and endogenous variables. Using finite-sample distributional theory, we show that the proposed procedures, besides being robust to weak instruments, are also robust to the exclusion of relevant instruments and to the distribution of endogenous regressors. A solution to the problem of computing linear projections from general possibly singular quadric surfaces is derived and used to build finite-sample confidence sets for individual structural parameters. The importance of robustness to excluded instruments is studied by simulation. Applications to the trade-growth relationship and to education returns are presented.
+ER  - 
+
+TY  - JOUR
+T1  - On the shape of posterior densities and credible sets in instrumental variable regression models with reduced rank: An application of flexible sampling methods using neural networks
+AU  - Hoogerheide, Lennart F.
+AU  - Kaashoek, Johan F.
+AU  - van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 154
+EP  - 180
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001072
+KW  - Instrumental variables
+KW  - Reduced rank
+KW  - Importance sampling
+KW  - Markov chain Monte Carlo
+KW  - Neural networks
+AB  - Likelihoods and posteriors of instrumental variable (IV) regression models with strong endogeneity and/or weak instruments may exhibit rather non-elliptical contours in the parameter space. This may seriously affect inference based on Bayesian credible sets. When approximating posterior probabilities and marginal densities using Monte Carlo integration methods like importance sampling or Markov chain Monte Carlo procedures the speed of the algorithm and the quality of the results greatly depend on the choice of the importance or candidate density. Such a density has to be ‘close’ to the target density in order to yield accurate results with numerically efficient sampling. For this purpose we introduce neural networks which seem to be natural importance or candidate densities, as they have a universal approximation property and are easy to sample from. A key step in the proposed class of methods is the construction of a neural network that approximates the target density. The methods are tested on a set of illustrative IV regression models. The results indicate the possible usefulness of the neural network approach.
+ER  - 
+
+TY  - JOUR
+T1  - Generalizing weak instrument robust IV statistics towards multiple parameters, unrestricted covariance matrices and identification statistics
+AU  - Kleibergen, Frank
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 181
+EP  - 216
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001084
+KW  - GMM
+KW  - Score or Lagrange multiplier statistics
+KW  - Likelihood ratio statistics
+KW  - Rank reduction
+AB  - We generalize the weak instrument robust score or Lagrange multiplier and likelihood ratio instrumental variables (IV) statistics towards multiple parameters and a general covariance matrix so they can be used in the generalized method of moments (GMM). The GMM extension of Moreira's [2003. A conditional likelihood ratio test for structural models. Econometrica 71, 1027–1048] conditional likelihood ratio statistic towards GMM preserves its expression except that it becomes conditional on a statistic that tests the rank of a matrix. We analyze the spurious power decline of Kleibergen's [2002. Pivotal statistics for testing structural parameters in instrumental variables regression. Econometrica 70, 1781–1803, 2005. Testing parameters in GMM without assuming that they are identified. Econometrica 73, 1103–1124] score statistic and show that an independent misspecification pre-test overcomes it. We construct identification statistics that reflect if the confidence sets of the parameters are bounded. A power study and the possible shapes of confidence sets illustrate the analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Approximating the distribution of the two-stage least squares estimator when the concentration parameter is small
+AU  - Poskitt, D.S.
+AU  - Skeels, C.L.
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 217
+EP  - 236
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001096
+KW  - Concentration parameter
+KW  - IV estimator
+KW  - Two-stage least squares
+KW  - Simultaneous equations model
+KW  -  approximation
+KW  - Weak instruments
+AB  - This paper presents a new approximation to the exact sampling distribution of the instrumental variables estimator in simultaneous equations models. It differs from many of the approximations currently available, Edgeworth expansions for example, in that it is specifically designed to work well when the concentration parameter is small. The approximation is remarkable in that simultaneously: (i) it has an extremely simple final form; (ii) in situations for which it is designed it is typically much more accurate than is the large sample normal approximation; and (iii) it is able to capture most of those stylized facts that characterize lack of identification and weak instrument scenarios. The development leading to the approximation is also novel in that it introduces techniques of some independent interest not seen in this literature hitherto.
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental values
+AU  - Chesher, Andrew
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 15
+EP  - 34
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001011
+KW  - Identification
+KW  - Nonseparable models
+KW  - Nonparametric identification
+KW  - Endogeneity
+KW  - Instrumental variables
+AB  - This paper studies identification of partial differences of nonseparable structural functions. A model is defined which admits structural functions exhibiting a degree of monotonicity with respect to a latent variate. The model identifies partial differences when there are instrumental values of covariates over which the latent variate exhibits a local quantile invariance, and a local order condition holds. The result is useful when covariates exhibit discrete variation, as arises often in practice, and when restricting latent variates and covariates to be statistically independent is unpalatable. The results are illustrated with data from the returns-to-schooling study of Angrist and Krueger [1991. Does compulsory schooling attendance affect schooling and earnings? Quarterly Journal of Economics 106, 979–1014].
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric IV estimation of local average treatment effects with covariates
+AU  - Frölich, Markus
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 35
+EP  - 75
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001023
+KW  - Instrumental variables
+KW  - LATE
+KW  - Evaluation
+KW  - Treatment effect
+KW  - Matching
+KW  - Unobserved heterogeneity
+AB  - In this paper nonparametric instrumental variable estimation of local average treatment effects (LATE) is extended to incorporate covariates. Estimation of LATE is appealing since identification relies on much weaker assumptions than the identification of average treatment effects in other nonparametric instrumental variable models. Including covariates in the estimation of LATE is necessary when the instrumental variable itself is confounded, such that the IV assumptions are valid only conditional on covariates. Previous approaches to handle covariates in the estimation of LATE relied on parametric or semiparametric methods. In this paper, a nonparametric estimator for the estimation of LATE with covariates is suggested that is root-n asymptotically normal and efficient.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and information in monotone binary models
+AU  - Magnac, Thierry
+AU  - Maurin, Eric
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 76
+EP  - 104
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001035
+KW  - Binary models
+KW  - Semiparametric methods
+KW  - Very exogeneous regressor
+AB  - This paper considers binary response models where errors are uncorrelated with a set of instrumental variables and are independent of a continuous regressor v, conditional on all other variables. It is shown that these exclusion restrictions are not sufficient for identification and that additional identifying assumptions are needed. Such an assumption, introduced by Lewbel [Semiparametric qualitative response model estimation with unknown heteroskedasticity or instrumental variables. Journal of Econometrics 97, 145–177], is that the support of the continuous regressor is large, but we show that it significantly restricts the class of binary phenomena which can be analysed. We propose an alternative additional assumption under which β remains just identified and the estimation unchanged. This alternative assumption does not impose specific restrictions on the data, which broadens the scope of the estimation method in empirical work. The semiparametric efficiency bound of the model is also established and an existing estimator is shown to achieve that bound. The efficient estimator uses a plug-in density estimate. It is shown that plugging in the true density rather than an estimate is inefficient. Extensions to ordered choice models are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Minimax-regret treatment choice with missing outcome data
+AU  - Manski, Charles F.
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 105
+EP  - 115
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001047
+KW  - Statistical decision theory
+KW  - Partial identification
+KW  - Social choice
+AB  - I use the minimax-regret criterion to study choice between two treatments when some outcomes in the study population are unobservable and the distribution of missing data is unknown. I first assume that observable features of the study population are known and derive the treatment rule that minimizes maximum regret over all possible distributions of missing data. When no treatment is dominant, this rule allocates positive fractions of persons to both treatments. I then assume that the data are a random sample of the study population and show that in some instances, treatment rules that estimate certain point-identified population means by sample averages are finite-sample minimax regret.
+ER  - 
+
+TY  - JOUR
+T1  - Performance of conditional Wald tests in IV regression with weak instruments
+AU  - Andrews, Donald W.K.
+AU  - Moreira, Marcelo J.
+AU  - Stock, James H.
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 116
+EP  - 132
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606001059
+KW  - Instrumental variables regression
+KW  - Power envelope
+KW  - Weak identification
+KW  - -class estimators
+KW  - Conditional likelihood ratio test
+AB  - We compare the powers of five tests of the coefficient on a single endogenous regressor in instrumental variables regression. Following Moreira [2003, A conditional likelihood ratio test for structural models. Econometrica 71, 1027–1048], all tests are implemented using critical values that depend on a statistic which is sufficient under the null hypothesis for the (unknown) concentration parameter, so these conditional tests are asymptotically valid under weak instrument asymptotics. Four of the tests are based on k-class Wald statistics (two-stage least squares, LIML, Fuller's [Some properties of a modification of the limited information estimator. Econometrica 45, 939–953], and bias-adjusted TSLS); the fifth is Moreira's (2003) conditional likelihood ratio (CLR) test. The heretofore unstudied conditional Wald (CW) tests are found to perform poorly, compared to the CLR test: in many cases, the CW tests have almost no power against a wide range of alternatives. Our analysis is facilitated by a new algorithm, presented here, for the computation of the asymptotic conditional p-value of the CLR test.
+ER  - 
+
+TY  - JOUR
+T1  - Endogeneity, instruments and identification
+AU  - Chesher, Andrew
+AU  - Dhaene, Geert
+AU  - van Dijk, Herman
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000996
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable estimation of nonseparable models
+AU  - Chernozhukov, Victor
+AU  - Imbens, Guido W.
+AU  - Newey, Whitney K.
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - 4
+EP  - 14
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760600100X
+KW  - Structural models
+KW  - Nonparametric estimation
+KW  - Instrumental variables
+KW  - Quantile estimation
+AB  - There are many environments where knowledge of a structural relationship is required to answer questions of interest. Also, nonseparability of a structural disturbance is a key feature of many models. Here, we consider nonparametric identification and estimation of a model that is monotonic in a nonseparable scalar disturbance, which disturbance is independent of instruments. This model leads to conditional quantile restrictions. We give local identification conditions for the structural equations from those quantile restrictions. We find that a modified completeness condition is sufficient for local identification. We also consider estimation via a nonparametric minimum distance estimator. The estimator minimizes the sum of squares of predicted values from a nonparametric regression of the quantile residual on the instruments. We show consistency of this estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 139
+IS  - 1
+SP  - IFC
+PY  - 2007
+DA  - 2007/07/01/
+T2  - Endogeneity, instruments and identification
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(07)00084-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760700084X
+ER  - 

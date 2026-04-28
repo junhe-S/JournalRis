@@ -1,0 +1,239 @@
+TY  - JOUR
+T1  - Model selection in utility-maximizing binary prediction
+AU  - Su, Jiun-Hua
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 96
+EP  - 124
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.052
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303420
+KW  - Decision-based binary prediction
+KW  - Maximum utility estimation
+KW  - Model selection
+KW  - Structural risk minimization
+KW  - Perceptron learning
+AB  - The maximum utility estimation proposed by Elliott and Lieli (2013) can be viewed as cost-sensitive binary classification; thus, its in-sample overfitting issue is similar to that of perceptron learning. A utility-maximizing prediction rule (UMPR) is constructed to alleviate the in-sample overfitting of the maximum utility estimation. We establish non-asymptotic upper bounds on the difference between the maximal expected utility and the generalized expected utility of the UMPR. Simulation results show that the UMPR with an appropriate data-dependent penalty achieves larger generalized expected utility than common estimators in the binary classification if the conditional probability of the binary outcome is misspecified.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - ii
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00119-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001196
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric regression with selectively missing covariates
+AU  - Breunig, Christoph
+AU  - Haan, Peter
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 28
+EP  - 52
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.050
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303183
+KW  - Selection model
+KW  - Instrumental variables
+KW  - Fractional probability weighting
+KW  - Nonparametric identification
+KW  - Partial completeness
+KW  - Incomplete data
+KW  - Series estimation
+KW  - Income distribution
+KW  - Health
+KW  - Housing
+AB  - We consider the problem of regression with selectively observed covariates in a nonparametric framework. Our approach relies on instrumental variables that explain variation in the latent covariates but have no direct effect on selection. The regression function of interest is shown to be a weighted version of observed conditional expectation where the weighting function is a fraction of selection probabilities. Nonparametric identification of the fractional probability weight (FPW) function is achieved via a partial completeness assumption. We provide primitive functional form assumptions for partial completeness to hold. The identification result is constructive for the FPW series estimator. We derive the rate of convergence and also the pointwise asymptotic distribution. In both cases, the asymptotic performance of the FPW series estimator does not suffer from the inverse problem which derives from the nonparametric instrumental variable approach. In a Monte Carlo study, we analyze the finite sample properties of our estimator and we compare our approach to inverse probability weighting, which can be used alternatively for unconditional moment estimation. In the empirical application, we focus on two different applications. We estimate the association between income and health using linked data from the SHARE survey and administrative pension information and use pension entitlements as an instrument. In the second application we revisit the question how income affects the demand for housing based on data from the German Socio–Economic Panel Study (SOEP). In this application we use regional income information on the residential block level as an instrument. In both applications we show that income is selectively missing and we demonstrate that standard methods that do not account for the nonrandom selection process lead to significantly biased estimates for individuals with low income.
+ER  - 
+
+TY  - JOUR
+T1  - Macroeconomic uncertainty prices when beliefs are tenuous
+AU  - Hansen, Lars Peter
+AU  - Sargent, Thomas J.
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 222
+EP  - 250
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303419
+KW  - Risk
+KW  - Robustness
+KW  - Model uncertainty
+KW  - Asset prices
+KW  - Relative and Chernoff entropy
+AB  - Investors face uncertainty over models when they do not know which member of a set of well-defined “structured models” is best. They face uncertainty about models when they suspect that all of the structured models might be misspecified. We refer to worries about the first type of ignorance as ambiguity concerns and worries about the second type as misspecification concerns. These two types of ignorance about probability distributions of risks add what we call uncertainty components to equilibrium prices of those risks. A quantitative example highlights a representative investor’s uncertainties about the size and persistence of macroeconomic growth rates. Our model of preferences under concerns about model ambiguity and misspecification puts nonlinearities into marginal valuations that induce time variations in market prices of uncertainty. These reflect the representative investor’s fears of high persistence of low growth rate states and low persistence of high growth rate states.
+ER  - 
+
+TY  - JOUR
+T1  - Shrinkage for categorical regressors
+AU  - Heiler, Phillip
+AU  - Mareckova, Jana
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 161
+EP  - 189
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.051
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303407
+KW  - Categorical regressors
+KW  - Regularization
+KW  - Smoothing kernels
+KW  - Model averaging
+AB  - This paper introduces a flexible regularization approach that reduces point estimation risk of group means stemming from e.g. categorical regressors, (quasi-)experimental data or panel data models. The loss function is penalized by adding weighted squared ℓ2-norm differences between group location parameters and informative first stage estimates. Under quadratic loss, the penalized estimation problem has a simple interpretable closed-form solution that nests methods established in the literature on ridge regression, discretized support smoothing kernels and model averaging methods. We derive risk-optimal penalty parameters and propose a plug-in approach for estimation. The large sample properties are analyzed in an asymptotic local to zero framework by introducing a class of sequences for close and distant systems of locations that is sufficient for describing a large range of data generating processes. We provide the asymptotic distributions of the shrinkage estimators under different penalization schemes. The proposed plug-in estimator uniformly dominates the ordinary least squares estimator in terms of asymptotic risk if the number of groups is larger than three. Monte Carlo simulations reveal robust improvements over standard methods in finite samples. Real data examples of estimating time trends in a panel and a difference-in-differences study illustrate potential applications.
+ER  - 
+
+TY  - JOUR
+T1  - Indirect inference for locally stationary models
+AU  - Frazier, David T.
+AU  - Koo, Bonsoo
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 1
+EP  - 27
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303031
+KW  - Semiparametric
+KW  - Locally stationary
+KW  - Indirect inference
+KW  - State–space models
+AB  - We propose the use of indirect inference estimation to conduct inference in complex locally stationary models. We develop a local indirect inference algorithm and establish the asymptotic properties of the proposed estimator. Due to the nonparametric nature of locally stationary models, the resulting indirect inference estimator exhibits nonparametric rates of convergence. We validate our methodology with simulation studies in the confines of a locally stationary moving average model and a new locally stationary multiplicative stochastic volatility model. Using this indirect inference methodology and the new locally stationary volatility model, we obtain evidence of non-linear, time-varying volatility trends for monthly returns on several Fama–French portfolios.
+ER  - 
+
+TY  - JOUR
+T1  - Model averaging prediction for time series models with a diverging number of parameters
+AU  - Liao, Jun
+AU  - Zou, Guohua
+AU  - Gao, Yan
+AU  - Zhang, Xinyu
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 190
+EP  - 221
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303493
+KW  - Asymptotic optimality
+KW  - Autoregressive process
+KW  - Consistency
+KW  - Mallows criterion
+KW  - Model averaging
+AB  - An important problem with the model averaging approach is the choice of weights. In this paper, a generalized Mallows model averaging (GMMA) criterion for choosing weights is developed in the context of an infinite order autoregressive (AR(∞)) process. The GMMA method adapts to the circumstances in which the dimensions of candidate models can be large and increase with the sample size. The GMMA method is shown to be asymptotically optimal in the sense of achieving the lowest out-of-sample mean squared prediction error (MSPE) for both the independent-realization and the same-realization predictions, which, as a byproduct, solves a conjecture put forward by Hansen (2008) that the well-known Mallows model averaging criterion from Hansen (2007) is asymptotically optimal for predicting the future of a time series. The rate of the GMMA-based weight estimator tending to the optimal weight vector minimizing the independent-realization MSPE is derived as well. Both simulation experiment and real data analysis illustrate the merits of the GMMA method in the prediction of an AR(∞) process.
+ER  - 
+
+TY  - JOUR
+T1  - Inference without smoothing for large panels with cross-sectional and temporal dependence
+AU  - Hidalgo, Javier
+AU  - Schafgans, Marcia
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 125
+EP  - 160
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303481
+KW  - Large panel data models
+KW  - Cross-sectional strong-dependence
+KW  - Central limit theorems
+KW  - Clustering
+KW  - Discrete Fourier Transformation
+KW  - Nonparametric bootstrap algorithms
+AB  - This paper addresses inference in large panel data models in the presence of both cross-sectional and temporal dependence of unknown form. We are interested in making inferences that do not rely on the choice of any smoothing parameter as is the case with the often employed “HAC” estimator for the covariance matrix. To that end, we propose a cluster estimator for the asymptotic covariance of the estimators and valid bootstrap schemes that do not require the selection of a bandwidth or smoothing parameter and accommodate the nonparametric nature of both temporal and cross-sectional dependence. Our approach is based on the observation that the spectral representation of the fixed effect panel data model is such that the errors become approximately temporally uncorrelated. Our proposed bootstrap schemes can be viewed as wild bootstraps in the frequency domain. We present some Monte Carlo simulations to shed some light on the small sample performance of our inferential procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Integrated likelihood based inference for nonlinear panel data models with unobserved effects
+AU  - Schumann, Martin
+AU  - Severini, Thomas A.
+AU  - Tripathi, Gautam
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 73
+EP  - 95
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303432
+KW  - Fixed effects
+KW  - Integrated likelihood
+KW  - Nonlinear models
+KW  - Panel data
+AB  - We propose a new integrated likelihood based approach for estimating panel data models when the unobserved individual effects enter the model nonlinearly. Unlike existing integrated likelihoods in the literature, the one we propose is closer to a genuine likelihood. Although the statistical theory for the proposed estimator is developed in an asymptotic setting where the number of individuals and the number of time periods both approach infinity, results from a simulation study suggest that our methodology can work very well even in moderately sized panels of short duration in both static and dynamic models.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of large covariance matrices with conditional sparsity
+AU  - Wang, Hanchao
+AU  - Peng, Bin
+AU  - Li, Degui
+AU  - Leng, Chenlei
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 53
+EP  - 72
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303456
+KW  - Approximate factor model
+KW  - Kernel estimation
+KW  - Large covariance matrix
+KW  - Sparsity
+KW  - Uniform convergence
+AB  - This paper studies estimation of covariance matrices with conditional sparse structure. We overcome the challenge of estimating dense matrices using a factor structure, the challenge of estimating large-dimensional matrices by postulating sparsity on covariance of random noises, and the challenge of estimating varying matrices by allowing factor loadings to smoothly change. A kernel-weighted estimation approach combined with generalised shrinkage is proposed. Under some technical conditions, we derive uniform consistency for the developed estimation method and obtain convergence rates. Numerical studies including simulation and an empirical application are presented to examine the finite-sample performance of the developed methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation and filtering for multivariate jump–diffusions
+AU  - Guay, François
+AU  - Schwenkler, Gustavo
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 1
+SP  - 251
+EP  - 275
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303511
+KW  - Multivariate jump–diffusions
+KW  - Likelihood inference
+KW  - Filtering
+KW  - Density estimation
+KW  - Efficiency
+AB  - This paper develops estimators of the transition density, filters, and parameters of multivariate jump–diffusion models. The drift, volatility, jump intensity, and jump magnitude are allowed to be state-dependent and non-affine. It is not necessary to diagonalize the volatility matrix. Our density and filter estimators converge at the canonical rate typically associated with exact Monte Carlo estimation. Our parameter estimators have the same asymptotic distribution as maximum likelihood estimators, which are often intractable for the class of models we consider. The results of this paper enable the empirical analysis of previously intractable models of asset prices and economic time series.
+ER  - 

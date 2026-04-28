@@ -1,0 +1,1052 @@
+
+
+
+
+
+TY  - JOUR
+T1  - From the Editor
+AU  - Simchi-Levi, David
+Y1  - 2021/12/20
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2021.4284
+DO  - 10.1287/mnsc.2021.4284
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1
+EP  - 6
+VL  - 68
+IS  - 1
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4284
+UR  - https://doi.org/10.1287/mnsc.2021.4284
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Call for Papers—Management Science Special Issue on the Human-Algorithm Connection
+AU  - Caro, Felipe
+AU  - Colliard, Jean-Edouard
+AU  - Katok, Elena
+AU  - Ockenfels, Axel
+AU  - Stier-Moses, Nicolas
+AU  - Tucker, Catherine
+AU  - Wu, D. J.
+Y1  - 2021/12/13
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2021.4260
+DO  - 10.1287/mnsc.2021.4260
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7
+EP  - 8
+VL  - 68
+IS  - 1
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4260
+UR  - https://doi.org/10.1287/mnsc.2021.4260
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Smart “Predict, then Optimize”
+AU  - Elmachtoub, Adam N.
+AU  - Grigas, Paul
+Y1  - 2021/03/12
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3922
+DO  - 10.1287/mnsc.2020.3922
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9
+EP  - 26
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Many real-world analytics problems involve two significant challenges: prediction and optimization. Because of the typically complex nature of each challenge, the standard paradigm is predict-then-optimize. By and large, machine learning tools are intended to minimize prediction error and do not account for how the predictions will be used in the downstream optimization problem. In contrast, we propose a new and very general framework, called Smart ?Predict, then Optimize? (SPO), which directly leverages the optimization problem structure?that is, its objective and constraints?for designing better prediction models. A key component of our framework is the SPO loss function, which measures the decision error induced by a prediction. Training a prediction model with respect to the SPO loss is computationally challenging, and, thus, we derive, using duality theory, a convex surrogate loss function, which we call the SPO+ loss. Most importantly, we prove that the SPO+ loss is statistically consistent with respect to the SPO loss under mild conditions. Our SPO+ loss function can tractably handle any polyhedral, convex, or even mixed-integer optimization problem with a linear objective. Numerical experiments on shortest-path and portfolio-optimization problems show that the SPO framework can lead to significant improvement under the predict-then-optimize paradigm, in particular, when the prediction model being trained is misspecified. We find that linear models trained using SPO+ loss tend to dominate random-forest algorithms, even when the ground truth is highly nonlinear.This paper was accepted by Yinyu Ye, optimization.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2020.3922
+AB  - Many real-world analytics problems involve two significant challenges: prediction and optimization. Because of the typically complex nature of each challenge, the standard paradigm is predict-then-optimize. By and large, machine learning tools are intended to minimize prediction error and do not account for how the predictions will be used in the downstream optimization problem. In contrast, we propose a new and very general framework, called Smart ?Predict, then Optimize? (SPO), which directly leverages the optimization problem structure?that is, its objective and constraints?for designing better prediction models. A key component of our framework is the SPO loss function, which measures the decision error induced by a prediction. Training a prediction model with respect to the SPO loss is computationally challenging, and, thus, we derive, using duality theory, a convex surrogate loss function, which we call the SPO+ loss. Most importantly, we prove that the SPO+ loss is statistically consistent with respect to the SPO loss under mild conditions. Our SPO+ loss function can tractably handle any polyhedral, convex, or even mixed-integer optimization problem with a linear objective. Numerical experiments on shortest-path and portfolio-optimization problems show that the SPO framework can lead to significant improvement under the predict-then-optimize paradigm, in particular, when the prediction model being trained is misspecified. We find that linear models trained using SPO+ loss tend to dominate random-forest algorithms, even when the ground truth is highly nonlinear.This paper was accepted by Yinyu Ye, optimization.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2020.3922
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3922
+UR  - https://doi.org/10.1287/mnsc.2020.3922
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bargaining at Retail Stores: Evidence from Vienna
+AU  - Shelegia, Sandro
+AU  - Sherman, Joshua
+Y1  - 2021/11/17
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2021.4094
+DO  - 10.1287/mnsc.2021.4094
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 27
+EP  - 36
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - In the West, where posted prices are the norm, it is uncommon to observe consumers receive discounts below the posted price. Nevertheless, we find that when stores are asked, a discount is granted approximately 40% of the time, with a median discount percentage of 10%. Discounts are more likely to be offered by small-scale firms, for higher-priced products, and for nonsale items. More generally, differences in price delegation behavior across firm types serve as an indicator that monitoring costs and employee skills are important drivers of bargaining behavior.This paper was accepted by Duncan Simester, marketing
+AB  - In the West, where posted prices are the norm, it is uncommon to observe consumers receive discounts below the posted price. Nevertheless, we find that when stores are asked, a discount is granted approximately 40% of the time, with a median discount percentage of 10%. Discounts are more likely to be offered by small-scale firms, for higher-priced products, and for nonsale items. More generally, differences in price delegation behavior across firm types serve as an indicator that monitoring costs and employee skills are important drivers of bargaining behavior.This paper was accepted by Duncan Simester, marketing
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4094
+UR  - https://doi.org/10.1287/mnsc.2021.4094
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Novelty of Innovation: Competition, Disruption, and Antitrust Policy
+AU  - Callander, Steven
+AU  - Matouschek, Niko
+Y1  - 2021/11/16
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2021.4101
+DO  - 10.1287/mnsc.2021.4101
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 37
+EP  - 51
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We develop a model to capture the novelty of innovation and explore what it means for the nature of market competition and quality of innovations. An innovator decides not only whether to innovate but how boldly to innovate, where the more novel is the innovation?the more different it is from what has come before?the more uncertain is the outcome. We show in this environment that a variant of the Arrow replacement effect holds in that new entrants pursue more innovative technologies than do incumbents. Despite this, we show that the new entrant is less likely to disrupt an incumbent than the incumbent is to disrupt itself, and less likely to fail in the market. We extend the model to allow the incumbent to acquire the entrant postinnovation and show that this reverses the Arrow effect. The prospect of acquisition makes innovation more profitable but simultaneously suppresses the novelty of innovation as the entrant seeks to maximize her value to the incumbent. This reversal suggests a positive role for a strict antitrust policy that spurs entrepreneurial firms to innovate boldly.This paper was accepted by Joshua Gans, business strategy.
+AB  - We develop a model to capture the novelty of innovation and explore what it means for the nature of market competition and quality of innovations. An innovator decides not only whether to innovate but how boldly to innovate, where the more novel is the innovation?the more different it is from what has come before?the more uncertain is the outcome. We show in this environment that a variant of the Arrow replacement effect holds in that new entrants pursue more innovative technologies than do incumbents. Despite this, we show that the new entrant is less likely to disrupt an incumbent than the incumbent is to disrupt itself, and less likely to fail in the market. We extend the model to allow the incumbent to acquire the entrant postinnovation and show that this reverses the Arrow effect. The prospect of acquisition makes innovation more profitable but simultaneously suppresses the novelty of innovation as the entrant seeks to maximize her value to the incumbent. This reversal suggests a positive role for a strict antitrust policy that spurs entrepreneurial firms to innovate boldly.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4101
+UR  - https://doi.org/10.1287/mnsc.2021.4101
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Costly Interpretation of Asset Prices
+AU  - Mondria, Jordi
+AU  - Vives, Xavier
+AU  - Yang, Liyan
+Y1  - 2021/02/12
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3871
+DO  - 10.1287/mnsc.2020.3871
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 52
+EP  - 74
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We propose a model in which investors cannot costlessly process information from asset prices. At the trading stage, investors are boundedly rational, and their interpretation of prices injects noise into the price, generating a source of endogenous noise trading. Our setup predicts price momentum and yields excessive return volatility and excessive trading volume. In an overall equilibrium, investors optimally choose sophistication levels by balancing the benefit of beating the market against the cost of acquiring sophistication. There can exist strategic complementarity in sophistication acquisition, leading to multiple equilibria.This paper was accepted by Gustavo Manso, finance.
+AB  - We propose a model in which investors cannot costlessly process information from asset prices. At the trading stage, investors are boundedly rational, and their interpretation of prices injects noise into the price, generating a source of endogenous noise trading. Our setup predicts price momentum and yields excessive return volatility and excessive trading volume. In an overall equilibrium, investors optimally choose sophistication levels by balancing the benefit of beating the market against the cost of acquiring sophistication. There can exist strategic complementarity in sophistication acquisition, leading to multiple equilibria.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3871
+UR  - https://doi.org/10.1287/mnsc.2020.3871
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Framework for Analyzing Influencer Marketing in Social Networks: Selection and Scheduling of Influencers
+AU  - Mallipeddi, Rakesh R.
+AU  - Kumar, Subodha
+AU  - Sriskandarajah, Chelliah
+AU  - Zhu, Yunxia
+Y1  - 2021/02/17
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3899
+DO  - 10.1287/mnsc.2020.3899
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 75
+EP  - 104
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Explosive growth in the number of users on various social media platforms has transformed the way firms strategize their marketing activities. To take advantage of the vast size of social networks, firms have now turned their attention to influencer marketing wherein they employ independent influencers to promote their products on social media platforms. Despite the recent growth in influencer marketing, the problem of network seeding (i.e., identification of influencers to optimally post a firm?s message or advertisement) neither has been rigorously studied in the academic literature nor has been carefully addressed in practice. We develop a data-driven optimization framework to help a firm successfully conduct (i) short-horizon and (ii) long-horizon influencer marketing campaigns, for which two models are developed, respectively, to maximize the firm?s benefit. The models are based on the interactions with marketers, observation of firms? message placements on social media, and model parameters estimated via empirical analysis performed on data from Twitter. Our empirical analysis discovers the effects of collective influence of multiple influencers and finds two important parameters to be included in the models, namely, multiple exposure effect and forgetting effect. For the short-horizon campaign, we develop an optimization model to select influencers and present structural properties for the model. Using these properties, we develop a mathematical programming based polynomial time procedure to provide near-optimal solutions. For the long-horizon problem, we develop an efficient solution procedure to simultaneously select influencers and schedule their message postings over a planning horizon. We demonstrate the superiority of our solution strategies for both short- and long-horizon problems against multiple benchmark methods used in practice. Finally, we present several managerially relevant insights for firms in the influencer marketing context.This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - Explosive growth in the number of users on various social media platforms has transformed the way firms strategize their marketing activities. To take advantage of the vast size of social networks, firms have now turned their attention to influencer marketing wherein they employ independent influencers to promote their products on social media platforms. Despite the recent growth in influencer marketing, the problem of network seeding (i.e., identification of influencers to optimally post a firm?s message or advertisement) neither has been rigorously studied in the academic literature nor has been carefully addressed in practice. We develop a data-driven optimization framework to help a firm successfully conduct (i) short-horizon and (ii) long-horizon influencer marketing campaigns, for which two models are developed, respectively, to maximize the firm?s benefit. The models are based on the interactions with marketers, observation of firms? message placements on social media, and model parameters estimated via empirical analysis performed on data from Twitter. Our empirical analysis discovers the effects of collective influence of multiple influencers and finds two important parameters to be included in the models, namely, multiple exposure effect and forgetting effect. For the short-horizon campaign, we develop an optimization model to select influencers and present structural properties for the model. Using these properties, we develop a mathematical programming based polynomial time procedure to provide near-optimal solutions. For the long-horizon problem, we develop an efficient solution procedure to simultaneously select influencers and schedule their message postings over a planning horizon. We demonstrate the superiority of our solution strategies for both short- and long-horizon problems against multiple benchmark methods used in practice. Finally, we present several managerially relevant insights for firms in the influencer marketing context.This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3899
+UR  - https://doi.org/10.1287/mnsc.2020.3899
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Cloud Pricing: The Spot Market Strikes Back
+AU  - Dierks, Ludwig
+AU  - Seuken, Sven
+Y1  - 2021/02/25
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3907
+DO  - 10.1287/mnsc.2020.3907
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 105
+EP  - 122
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Cloud computing providers must constantly hold many idle compute instances available (e.g., for maintenance or for users with long-term contracts). A natural idea, which should intuitively increase the provider?s profit, is to sell these idle instances on a secondary market, for example, via a preemptible spot market. However, this ignores possible ?market cannibalization? effects that may occur in equilibrium as well as the additional costs the provider experiences due to preemptions. To study the viability of offering a spot market, we model the provider?s profit optimization problem by combining queuing theory and game theory to analyze the equilibria of the resulting queuing system. Our main result is an easy-to-check condition under which a provider can simultaneously achieve a profit increase and create a Pareto improvement for the users by offering a spot market (using idle resources) alongside a fixed-price market. Finally, we illustrate our results numerically to demonstrate the effects that the provider?s costs and her strategy have on her profit.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - Cloud computing providers must constantly hold many idle compute instances available (e.g., for maintenance or for users with long-term contracts). A natural idea, which should intuitively increase the provider?s profit, is to sell these idle instances on a secondary market, for example, via a preemptible spot market. However, this ignores possible ?market cannibalization? effects that may occur in equilibrium as well as the additional costs the provider experiences due to preemptions. To study the viability of offering a spot market, we model the provider?s profit optimization problem by combining queuing theory and game theory to analyze the equilibria of the resulting queuing system. Our main result is an easy-to-check condition under which a provider can simultaneously achieve a profit increase and create a Pareto improvement for the users by offering a spot market (using idle resources) alongside a fixed-price market. Finally, we illustrate our results numerically to demonstrate the effects that the provider?s costs and her strategy have on her profit.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3907
+UR  - https://doi.org/10.1287/mnsc.2020.3907
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Drivers, Riders, and Service Providers: The Impact of the Sharing Economy on Mobility
+AU  - Benjaafar, Saif
+AU  - Bernhard, Harald
+AU  - Courcoubetis, Costas
+AU  - Kanakakis, Michail
+AU  - Papafragkos, Spyridon
+Y1  - 2021/03/11
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3909
+DO  - 10.1287/mnsc.2020.3909
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 123
+EP  - 142
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - It is widely believed that ride sharing, the practice of sharing a car such that more than one person travels in the car during a journey, has the potential to significantly reduce traffic by filling up cars more efficiently. We introduce a model in which individuals may share rides for a certain fee, paid by the rider(s) to the driver through a ride-sharing platform. Collective decision making is modeled as an anonymous nonatomic game with a finite set of strategies and payoff functions among individuals who are heterogeneous in their income. We examine how ride sharing is organized and how traffic and ownership are affected if a platform, which chooses the seat rental price to maximize either revenue or welfare, is introduced to a population. We find that the ratio of ownership to usage costs determines how ride sharing is organized. If this ratio is low, ride sharing is offered as a peer-to-peer (P2P) service, and if this ratio is high, ride sharing is offered as a business-to-customer (B2C) service. In the P2P case, rides are initiated by drivers only when the drivers need to fulfill their own transportation requirements. In the B2C case, cars are driven all the time by full-time drivers taking rides even if these are not motivated by their private needs. We show that, although the introduction of ride sharing may reduce car ownership, it can lead to an increase in traffic. We also show that traffic and ownership may increase as the ownership cost increases and that a revenue-maximizing platform might prefer a situation in which cars are driven with only a few seats occupied, causing high traffic. We contrast these results with those obtained for a social welfare-maximizing platform.This paper was accepted by Charles Corbett, operations management.
+AB  - It is widely believed that ride sharing, the practice of sharing a car such that more than one person travels in the car during a journey, has the potential to significantly reduce traffic by filling up cars more efficiently. We introduce a model in which individuals may share rides for a certain fee, paid by the rider(s) to the driver through a ride-sharing platform. Collective decision making is modeled as an anonymous nonatomic game with a finite set of strategies and payoff functions among individuals who are heterogeneous in their income. We examine how ride sharing is organized and how traffic and ownership are affected if a platform, which chooses the seat rental price to maximize either revenue or welfare, is introduced to a population. We find that the ratio of ownership to usage costs determines how ride sharing is organized. If this ratio is low, ride sharing is offered as a peer-to-peer (P2P) service, and if this ratio is high, ride sharing is offered as a business-to-customer (B2C) service. In the P2P case, rides are initiated by drivers only when the drivers need to fulfill their own transportation requirements. In the B2C case, cars are driven all the time by full-time drivers taking rides even if these are not motivated by their private needs. We show that, although the introduction of ride sharing may reduce car ownership, it can lead to an increase in traffic. We also show that traffic and ownership may increase as the ownership cost increases and that a revenue-maximizing platform might prefer a situation in which cars are driven with only a few seats occupied, causing high traffic. We contrast these results with those obtained for a social welfare-maximizing platform.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3909
+UR  - https://doi.org/10.1287/mnsc.2020.3909
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Low-Wage Workers and the Enforceability of Noncompete Agreements
+AU  - Lipsitz, Michael
+AU  - Starr, Evan
+Y1  - 2021/04/05
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3918
+DO  - 10.1287/mnsc.2020.3918
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 143
+EP  - 170
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We exploit the 2008 Oregon ban on noncompete agreements (NCAs) for hourly-paid workers to provide the first evidence on the impact of NCAs on low-wage workers. We find that banning NCAs for hourly workers increased hourly wages by 2%?3% on average. Since only a subset of workers sign NCAs, scaling this estimate by the prevalence of NCA use in the hourly-paid population suggests that the effect on employees actually bound by NCAs may be as great as 14%?21%, though the true effect is likely lower due to labor market spillovers onto those not bound by NCAs. Whereas the positive wage effects are found across the age, education, and wage distributions, they are stronger for female workers and in occupations where NCAs are more common. The Oregon low-wage NCA ban also improved average occupational status in Oregon, raised job-to-job mobility, and increased the proportion of salaried workers without affecting hours worked.This paper was accepted by Lamar Pierce, organizations.
+AB  - We exploit the 2008 Oregon ban on noncompete agreements (NCAs) for hourly-paid workers to provide the first evidence on the impact of NCAs on low-wage workers. We find that banning NCAs for hourly workers increased hourly wages by 2%?3% on average. Since only a subset of workers sign NCAs, scaling this estimate by the prevalence of NCA use in the hourly-paid population suggests that the effect on employees actually bound by NCAs may be as great as 14%?21%, though the true effect is likely lower due to labor market spillovers onto those not bound by NCAs. Whereas the positive wage effects are found across the age, education, and wage distributions, they are stronger for female workers and in occupations where NCAs are more common. The Oregon low-wage NCA ban also improved average occupational status in Oregon, raised job-to-job mobility, and increased the proportion of salaried workers without affecting hours worked.This paper was accepted by Lamar Pierce, organizations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3918
+UR  - https://doi.org/10.1287/mnsc.2020.3918
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Priority-Based Allocation Mechanisms
+AU  - Shi, Peng
+Y1  - 2021/03/31
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3925
+DO  - 10.1287/mnsc.2020.3925
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 171
+EP  - 188
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - This paper develops a tractable methodology for designing an optimal priority system for assigning agents to heterogeneous items while accounting for agents? choice behavior. The space of mechanisms being optimized includes deferred acceptance and top trading cycles as special cases. In contrast to previous literature, I treat the inputs to these mechanisms, namely the priority distribution of agents and quotas of items, as parameters to be optimized. The methodology is based on analyzing large market models of one-sided matching using techniques from revenue management and solving a certain assortment planning problem whose objective is social welfare. I apply the methodology to school choice and show that restricting choices may be beneficial to student welfare. Moreover, I compute optimized choice sets and priorities for elementary school choice in Boston.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - This paper develops a tractable methodology for designing an optimal priority system for assigning agents to heterogeneous items while accounting for agents? choice behavior. The space of mechanisms being optimized includes deferred acceptance and top trading cycles as special cases. In contrast to previous literature, I treat the inputs to these mechanisms, namely the priority distribution of agents and quotas of items, as parameters to be optimized. The methodology is based on analyzing large market models of one-sided matching using techniques from revenue management and solving a certain assortment planning problem whose objective is social welfare. I apply the methodology to school choice and show that restricting choices may be beneficial to student welfare. Moreover, I compute optimized choice sets and priorities for elementary school choice in Boston.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3925
+UR  - https://doi.org/10.1287/mnsc.2020.3925
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Bigger Picture: Combining Econometrics with Analytics Improves Forecasts of Movie Success
+AU  - Lehrer, Steven F.
+AU  - Xie, Tian
+Y1  - 2021/03/12
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3911
+DO  - 10.1287/mnsc.2020.3911
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 189
+EP  - 210
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - There exists significant hype regarding how much machine learning and incorporating social media data can improve forecast accuracy in commercial applications. To assess if the hype is warranted, we use data from the film industry in simulation experiments that contrast econometric approaches with tools from the predictive analytics literature. Further, we propose new strategies that combine elements from each literature in a bid to capture richer patterns of heterogeneity in the underlying relationship governing revenue. Our results demonstrate the importance of social media data and value from hybrid strategies that combine econometrics and machine learning when conducting forecasts with new big data sources. Specifically, although both least squares support vector regression and recursive partitioning strategies greatly outperform dimension reduction strategies and traditional econometrics approaches in forecast accuracy, there are further significant gains from using hybrid approaches. Further, Monte Carlo experiments demonstrate that these benefits arise from the significant heterogeneity in how social media measures and other film characteristics influence box office outcomes.This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - There exists significant hype regarding how much machine learning and incorporating social media data can improve forecast accuracy in commercial applications. To assess if the hype is warranted, we use data from the film industry in simulation experiments that contrast econometric approaches with tools from the predictive analytics literature. Further, we propose new strategies that combine elements from each literature in a bid to capture richer patterns of heterogeneity in the underlying relationship governing revenue. Our results demonstrate the importance of social media data and value from hybrid strategies that combine econometrics and machine learning when conducting forecasts with new big data sources. Specifically, although both least squares support vector regression and recursive partitioning strategies greatly outperform dimension reduction strategies and traditional econometrics approaches in forecast accuracy, there are further significant gains from using hybrid approaches. Further, Monte Carlo experiments demonstrate that these benefits arise from the significant heterogeneity in how social media measures and other film characteristics influence box office outcomes.This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3911
+UR  - https://doi.org/10.1287/mnsc.2020.3911
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Middle Managers, Personnel Turnover, and Performance: A Long‐Term Field Experiment in a Retail Chain
+AU  - Friebel, Guido
+AU  - Heinz, Matthias
+AU  - Zubanov, Nikolay
+Y1  - 2021/02/22
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3905
+DO  - 10.1287/mnsc.2020.3905
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 211
+EP  - 229
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - In a randomized controlled trial, a large retail chain?s Chief Executive Officer (CEO) sets new goals for the managers of the treated stores by asking them to ?do what they can? to reduce the employee quit rate. The treatment decreases the quit rate by a fifth to a quarter, lasting nine months before petering out, but reappearing after a reminder. There is no treatment effect on sales. Further analysis reveals that treated store managers spend more time on human resources (HR) and less on customer service. Our findings show that middle managers are instrumental in reducing personnel turnover, but they face a trade-off between investing in different activities in a multitasking environment with limited resources. The treatment does produce efficiency gains. However, these occur only at the firm level.This paper was accepted by Joshua Gans, business strategy.
+AB  - In a randomized controlled trial, a large retail chain?s Chief Executive Officer (CEO) sets new goals for the managers of the treated stores by asking them to ?do what they can? to reduce the employee quit rate. The treatment decreases the quit rate by a fifth to a quarter, lasting nine months before petering out, but reappearing after a reminder. There is no treatment effect on sales. Further analysis reveals that treated store managers spend more time on human resources (HR) and less on customer service. Our findings show that middle managers are instrumental in reducing personnel turnover, but they face a trade-off between investing in different activities in a multitasking environment with limited resources. The treatment does produce efficiency gains. However, these occur only at the firm level.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3905
+UR  - https://doi.org/10.1287/mnsc.2020.3905
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Team Incentives, Social Cohesion, and Performance: A Natural Field Experiment
+AU  - Delfgaauw, Josse
+AU  - Dur, Robert
+AU  - Onemu, Oke
+AU  - Sol, Joeri
+Y1  - 2021/04/28
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3901
+DO  - 10.1287/mnsc.2020.3901
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 230
+EP  - 256
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We conducted a field experiment in a Dutch retail chain of 122 stores to study the interaction between team incentives, team social cohesion, and team performance. Theory predicts that the effect of team incentives on team performance increases with the team?s social cohesion because social cohesion reduces free-riding behavior. In addition, team incentives may lead to more coworker support or to higher peer pressure and thereby, can affect the team?s social cohesion. We introduced short-term team incentives in a randomly selected subset of stores and measured for all stores, both before and after the intervention, the team?s sales performance and the team?s social cohesion as well as coworker support and peer pressure. The average treatment effect of the team incentive on sales is 1.5 percentage points, which does not differ significantly from zero. In line with theory, the estimated treatment effect increases with social cohesion as measured before the intervention. Social cohesion itself is not affected by the team incentives.This paper was accepted by Yan Chen, decision analysis.
+AB  - We conducted a field experiment in a Dutch retail chain of 122 stores to study the interaction between team incentives, team social cohesion, and team performance. Theory predicts that the effect of team incentives on team performance increases with the team?s social cohesion because social cohesion reduces free-riding behavior. In addition, team incentives may lead to more coworker support or to higher peer pressure and thereby, can affect the team?s social cohesion. We introduced short-term team incentives in a randomly selected subset of stores and measured for all stores, both before and after the intervention, the team?s sales performance and the team?s social cohesion as well as coworker support and peer pressure. The average treatment effect of the team incentive on sales is 1.5 percentage points, which does not differ significantly from zero. In line with theory, the estimated treatment effect increases with social cohesion as measured before the intervention. Social cohesion itself is not affected by the team incentives.This paper was accepted by Yan Chen, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3901
+UR  - https://doi.org/10.1287/mnsc.2020.3901
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Valuation of New Trademarks
+AU  - Hsu, Po-Hsuan
+AU  - Li, Dongmei
+AU  - Li, Qin
+AU  - Teoh, Siew Hong
+AU  - Tseng, Kevin
+Y1  - 2021/02/26
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3887
+DO  - 10.1287/mnsc.2020.3887
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 257
+EP  - 279
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Firms often register trademarks as they launch new products or services. We find that the number of new trademark registrations positively predicts firm profitability, stock returns, and underreaction by analysts in their earnings forecasts. Using the Federal Trademark Dilution Act (FTDA) as an exogenous shock to trademark protection, we find that greater trademark protection strengthens the predictability of new trademark registrations. Together, our evidence suggests that investors undervalue new trademark registrations.This paper was accepted by Gustavo Manso, finance.
+AB  - Firms often register trademarks as they launch new products or services. We find that the number of new trademark registrations positively predicts firm profitability, stock returns, and underreaction by analysts in their earnings forecasts. Using the Federal Trademark Dilution Act (FTDA) as an exogenous shock to trademark protection, we find that greater trademark protection strengthens the predictability of new trademark registrations. Together, our evidence suggests that investors undervalue new trademark registrations.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3887
+UR  - https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3887
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Value of Autonomous Vehicles for Last-Mile Deliveries in Urban Environments
+AU  - Reed, Sara
+AU  - Campbell, Ann Melissa
+AU  - Thomas, Barrett W.
+Y1  - 2021/02/25
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3917
+DO  - 10.1287/mnsc.2020.3917
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 280
+EP  - 299
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We demonstrate that autonomous-assisted delivery can yield significant improvements relative to today?s system in which a delivery person must park the vehicle before delivering packages. We model an autonomous vehicle that can drop off the delivery person at selected points in the city where the delivery person makes deliveries to the final addresses on foot. Then, the vehicle picks up the delivery person and travels to the next reloading point. In this way, the delivery person would never need to look for parking or walk back to a parking place. Based on the number of customers, driving speed of the vehicle, walking speed of the delivery person, and the time for loading packages, we characterize the optimal solution to the autonomous case on a solid rectangular grid of customers, showing the optimal solution can be found in polynomial time. To benchmark the completion time of the autonomous case, we introduce a traditional model for package delivery services that includes the time to search for parking. If the time to find parking is ignored, we show the introduction of an autonomous vehicle reduces the completion time of delivery to all customers by 0%?33%. When nonzero times to find parking are considered, the delivery person saves 30%?77% with higher values achieved for longer parking times, smaller capacities, and lower fixed time for loading packages.This paper was accepted by Vishal Gaur, operations management.
+AB  - We demonstrate that autonomous-assisted delivery can yield significant improvements relative to today?s system in which a delivery person must park the vehicle before delivering packages. We model an autonomous vehicle that can drop off the delivery person at selected points in the city where the delivery person makes deliveries to the final addresses on foot. Then, the vehicle picks up the delivery person and travels to the next reloading point. In this way, the delivery person would never need to look for parking or walk back to a parking place. Based on the number of customers, driving speed of the vehicle, walking speed of the delivery person, and the time for loading packages, we characterize the optimal solution to the autonomous case on a solid rectangular grid of customers, showing the optimal solution can be found in polynomial time. To benchmark the completion time of the autonomous case, we introduce a traditional model for package delivery services that includes the time to search for parking. If the time to find parking is ignored, we show the introduction of an autonomous vehicle reduces the completion time of delivery to all customers by 0%?33%. When nonzero times to find parking are considered, the delivery person saves 30%?77% with higher values achieved for longer parking times, smaller capacities, and lower fixed time for loading packages.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3917
+UR  - https://doi.org/10.1287/mnsc.2020.3917
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Good to Go First? Position Effects in Expert Evaluation of Early-Stage Ventures
+AU  - Bian, Jiang
+AU  - Greenberg, Jason
+AU  - Li, Jizhen
+AU  - Wang, Yanbo
+Y1  - 2021/11/05
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2021.4132
+DO  - 10.1287/mnsc.2021.4132
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 300
+EP  - 315
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - There is often considerable anxiety and conflicting advice concerning the benefits of presenting/being evaluated first. We thus investigate how expert evaluators vary in their evaluations of entrepreneurial proposals based upon the order in which they are evaluated. Our research setting is a premiere innovation fund competition in Beijing, China, where the prize money at stake is economically meaningful, and evaluators are quasi-randomly assigned to evaluate written grant proposals without the possibility of peer influence. This enables us to credibly recover a causal position effect. We also theorize and test how heterogeneity in evaluators? prior (context-specific) judging experience moderates position effects. Overall, we find that a proposal evaluated first requires total assets in the top 10th percentile to merely equal the evaluation of a proposal in the bottom 10th percentile that is not evaluated first. Firm and evaluator fixed-effects models yield consistent findings. We consider evaluation design elements that may mollify these position effects in the discussion section.This paper was accepted by Sridhar Tayur, entrepreneurship and innovation.
+AB  - There is often considerable anxiety and conflicting advice concerning the benefits of presenting/being evaluated first. We thus investigate how expert evaluators vary in their evaluations of entrepreneurial proposals based upon the order in which they are evaluated. Our research setting is a premiere innovation fund competition in Beijing, China, where the prize money at stake is economically meaningful, and evaluators are quasi-randomly assigned to evaluate written grant proposals without the possibility of peer influence. This enables us to credibly recover a causal position effect. We also theorize and test how heterogeneity in evaluators? prior (context-specific) judging experience moderates position effects. Overall, we find that a proposal evaluated first requires total assets in the top 10th percentile to merely equal the evaluation of a proposal in the bottom 10th percentile that is not evaluated first. Firm and evaluator fixed-effects models yield consistent findings. We consider evaluation design elements that may mollify these position effects in the discussion section.This paper was accepted by Sridhar Tayur, entrepreneurship and innovation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4132
+UR  - https://doi.org/10.1287/mnsc.2021.4132
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Does Firm Scope Depend on Customer Switching Costs? Evidence from Mobile Telecommunications Markets
+AU  - Abolfathi, Niloofar
+AU  - Santamaria, Simone
+AU  - Williams, Charles
+Y1  - 2021/03/25
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3913
+DO  - 10.1287/mnsc.2020.3913
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 316
+EP  - 332
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - This paper examines the relative advantages of single-product and multiproduct firms following changes in customer switching costs. Whereas a single-product firm can closely tailor offerings to customers? needs, a multiproduct firm can create value for customers in the form of flexibility, allowing them to change between product varieties as preferences evolve without needing to switch providers. We argue that this value-creation mechanism is more effective when customers face high switching costs and explore this prediction in the mobile telecommunications sector, using an exogenous policy change (mobile number portability) that suddenly decreases customer switching costs. Our results reveal that when customer switching costs fall, multiproduct firms see lower growth than single-product firms, and entry with a multiproduct offering becomes less frequent than before. The study highlights how customer switching costs can enable or inhibit choices of firm scope.This paper was accepted by Joshua Gans, business strategy.
+AB  - This paper examines the relative advantages of single-product and multiproduct firms following changes in customer switching costs. Whereas a single-product firm can closely tailor offerings to customers? needs, a multiproduct firm can create value for customers in the form of flexibility, allowing them to change between product varieties as preferences evolve without needing to switch providers. We argue that this value-creation mechanism is more effective when customers face high switching costs and explore this prediction in the mobile telecommunications sector, using an exogenous policy change (mobile number portability) that suddenly decreases customer switching costs. Our results reveal that when customer switching costs fall, multiproduct firms see lower growth than single-product firms, and entry with a multiproduct offering becomes less frequent than before. The study highlights how customer switching costs can enable or inhibit choices of firm scope.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3913
+UR  - https://doi.org/10.1287/mnsc.2020.3913
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Portfolio Entrepreneurs’ Behavior and Performance: A Resource Redeployment Perspective
+AU  - Santamaria, Simone
+Y1  - 2021/03/11
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3929
+DO  - 10.1287/mnsc.2020.3929
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 333
+EP  - 354
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Prior research suggests portfolio entrepreneurs?businesspeople who run more than one firm simultaneously?launch more successful ventures than their single-business counterparts. However, their ventures are less likely to survive. In an attempt to reconcile this paradox, this paper presents a framework in which portfolio entrepreneurs? main advantage is not a superior ability to select the best business opportunities ex ante, but rather the ability to redeploy human and capital resources across businesses ex post, which reduces the sunkenness of their investments in new projects. This redeployment option facilitates their exit from new businesses that fail initial market tests. Thus, portfolio entrepreneurs? heterogeneous termination decisions explain a greater portion of new firm performance differential than ex ante opportunity selection. We test these ideas using a longitudinal data set of more than 5,700 entrepreneurs and find consistent evidence. Portfolio companies do not show systematically higher performance at the time of entry; a performance difference emerges only over time, as the selection effect and resource redeployment occur.This paper was accepted by Ashish Arora, entrepreneurship and innovation.
+AB  - Prior research suggests portfolio entrepreneurs?businesspeople who run more than one firm simultaneously?launch more successful ventures than their single-business counterparts. However, their ventures are less likely to survive. In an attempt to reconcile this paradox, this paper presents a framework in which portfolio entrepreneurs? main advantage is not a superior ability to select the best business opportunities ex ante, but rather the ability to redeploy human and capital resources across businesses ex post, which reduces the sunkenness of their investments in new projects. This redeployment option facilitates their exit from new businesses that fail initial market tests. Thus, portfolio entrepreneurs? heterogeneous termination decisions explain a greater portion of new firm performance differential than ex ante opportunity selection. We test these ideas using a longitudinal data set of more than 5,700 entrepreneurs and find consistent evidence. Portfolio companies do not show systematically higher performance at the time of entry; a performance difference emerges only over time, as the selection effect and resource redeployment occur.This paper was accepted by Ashish Arora, entrepreneurship and innovation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3929
+UR  - https://doi.org/10.1287/mnsc.2020.3929
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Matching Returning Donors to Projects on Philanthropic Crowdfunding Platforms
+AU  - Song, Yicheng
+AU  - Li, Zhuoxin
+AU  - Sahoo, Nachiketa
+Y1  - 2021/03/30
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3930
+DO  - 10.1287/mnsc.2020.3930
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 355
+EP  - 375
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We propose an approach to match returning donors to fundraising campaigns on philanthropic crowdfunding platforms. It is based on a structural econometric model of utility-maximizing donors who can derive both altruistic (from the welfare of others) and egoistic (from personal motivations) utilities from donating?a unique feature of philanthropic giving. We estimate our model using a comprehensive data set from DonorsChoose.org?the largest crowdfunding platform for K?12 education. We find that the proposed model more accurately identifies the projects that donors would like to donate to on their return in a future period, and how much they would donate, than popular personalized recommendation approaches in the literature. From the estimated model, we find that primarily egoistic factors motivate over two-thirds of the donations, but, over the course of the fundraising campaign, both motivations play a symbiotic role: egoistic motivations drive the funding in the early stages of a campaign when the viability of the project is still unclear, whereas altruistic motivations help reach the funding goal in the later stages. Finally, we design a recommendation policy using the proposed model to maximize the total funding each week considering the needs of all projects and the heterogeneous budgets and preferences of donors. We estimate that over the last 14 weeks of the data period, such a policy would have raised 2.5% more donation, provided 9% more funding to the projects by allocating them to more viable projects, funded 17% more projects, and provided 15% more utility to the donors from the donations than the current system. Counterintuitively, we find that the policy that maximizes total funding each week leads to higher utility for the donors over time than a policy that maximizes donors? total utility each week. The reason is that the funding-maximizing policy focuses donations on more viable projects, leading to more funded projects, and, ultimately, higher realized donors? utility.This paper was accepted by Kartik Hosanagar, information systems.
+AB  - We propose an approach to match returning donors to fundraising campaigns on philanthropic crowdfunding platforms. It is based on a structural econometric model of utility-maximizing donors who can derive both altruistic (from the welfare of others) and egoistic (from personal motivations) utilities from donating?a unique feature of philanthropic giving. We estimate our model using a comprehensive data set from DonorsChoose.org?the largest crowdfunding platform for K?12 education. We find that the proposed model more accurately identifies the projects that donors would like to donate to on their return in a future period, and how much they would donate, than popular personalized recommendation approaches in the literature. From the estimated model, we find that primarily egoistic factors motivate over two-thirds of the donations, but, over the course of the fundraising campaign, both motivations play a symbiotic role: egoistic motivations drive the funding in the early stages of a campaign when the viability of the project is still unclear, whereas altruistic motivations help reach the funding goal in the later stages. Finally, we design a recommendation policy using the proposed model to maximize the total funding each week considering the needs of all projects and the heterogeneous budgets and preferences of donors. We estimate that over the last 14 weeks of the data period, such a policy would have raised 2.5% more donation, provided 9% more funding to the projects by allocating them to more viable projects, funded 17% more projects, and provided 15% more utility to the donors from the donations than the current system. Counterintuitively, we find that the policy that maximizes total funding each week leads to higher utility for the donors over time than a policy that maximizes donors? total utility each week. The reason is that the funding-maximizing policy focuses donations on more viable projects, leading to more funded projects, and, ultimately, higher realized donors? utility.This paper was accepted by Kartik Hosanagar, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3930
+UR  - https://doi.org/10.1287/mnsc.2020.3930
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Are We Strategically Naïve or Guided by Trust and Trustworthiness in Cheap-Talk Communication?
+AU  - Li, Xiaolin
+AU  - Özer, Özalp
+AU  - Subramanian, Upender
+Y1  - 2021/03/22
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3935
+DO  - 10.1287/mnsc.2020.3935
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 376
+EP  - 398
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Cheap-talk communication between parties with conflicting interests is common in many business and economic settings. Two distinct behavioral economics theories, the trust-embedded model and the level-k model, have emerged to explain how cheap talk works between human decision makers. The trust-embedded model considers that decision makers are motivated by nonpecuniary motives to be trusting and trustworthy. In contrast, the level-k model considers that decision makers are purely self-interested but limited in their ability to think strategically. Although both theories have been successful in explaining cheap-talk behaviors in separate contexts, they point to contrasting drivers for human behaviors. In this paper, we provide the first direct comparison of both theories within the same context. We show that, in a cheap-talk setting that well represents many practical situations, the two models make characteristically distinct and empirically distinguishable predictions. We leverage past experiment data from this setting to determine what aspects of cheap-talk behavior each model captures well and which model (or combination of models) has better explanatory power and predictive performance. We find that the trust-embedded model emerges as the dominant explanation. Our results, thus, highlight the importance of investing in systems and processes to foster trusting and trustworthy relationships in order to facilitate more effective cheap-talk interactions.This paper was accepted by Charles Corbett, operations management.
+AB  - Cheap-talk communication between parties with conflicting interests is common in many business and economic settings. Two distinct behavioral economics theories, the trust-embedded model and the level-k model, have emerged to explain how cheap talk works between human decision makers. The trust-embedded model considers that decision makers are motivated by nonpecuniary motives to be trusting and trustworthy. In contrast, the level-k model considers that decision makers are purely self-interested but limited in their ability to think strategically. Although both theories have been successful in explaining cheap-talk behaviors in separate contexts, they point to contrasting drivers for human behaviors. In this paper, we provide the first direct comparison of both theories within the same context. We show that, in a cheap-talk setting that well represents many practical situations, the two models make characteristically distinct and empirically distinguishable predictions. We leverage past experiment data from this setting to determine what aspects of cheap-talk behavior each model captures well and which model (or combination of models) has better explanatory power and predictive performance. We find that the trust-embedded model emerges as the dominant explanation. Our results, thus, highlight the importance of investing in systems and processes to foster trusting and trustworthy relationships in order to facilitate more effective cheap-talk interactions.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3935
+UR  - https://doi.org/10.1287/mnsc.2020.3935
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Managing Self-Replicating Innovative Goods
+AU  - Hu, Bin
+AU  - Sun, Zhankun
+Y1  - 2021/03/19
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3936
+DO  - 10.1287/mnsc.2020.3936
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 399
+EP  - 419
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Inspired by self-replicating three-dimensional printers and innovative agricultural and husbandry goods, we study optimal production and sales policies for a manufacturer of self-replicating innovative goods with a focus on the unique ?keep-or-sell? trade-off?namely, whether a newly produced unit should be sold to satisfy demand and stimulate future demand or added to inventory to increase production capacity. We adopt the continuous-time optimal control framework and marry a self-replication model on the production side to the canonical innovation-diffusion model on the demand side. By analyzing the model, we identify a condition that differentiates Strong and Weak Replicability regimes, wherein production and sales, respectively, take priority over the other and fully characterize their distinct optimal policies. These insights prove robust and helpful in several extensions, including backlogged demand, liquidity constraints, stochastic innovation diffusion, launch inventory decision, and exogenous demand. We also find that social marketing strategies are particularly well suited for self-replicating innovative goods under Strong Replication.This paper was accepted by Victor Martínez de Albéniz, operations management.
+AB  - Inspired by self-replicating three-dimensional printers and innovative agricultural and husbandry goods, we study optimal production and sales policies for a manufacturer of self-replicating innovative goods with a focus on the unique ?keep-or-sell? trade-off?namely, whether a newly produced unit should be sold to satisfy demand and stimulate future demand or added to inventory to increase production capacity. We adopt the continuous-time optimal control framework and marry a self-replication model on the production side to the canonical innovation-diffusion model on the demand side. By analyzing the model, we identify a condition that differentiates Strong and Weak Replicability regimes, wherein production and sales, respectively, take priority over the other and fully characterize their distinct optimal policies. These insights prove robust and helpful in several extensions, including backlogged demand, liquidity constraints, stochastic innovation diffusion, launch inventory decision, and exogenous demand. We also find that social marketing strategies are particularly well suited for self-replicating innovative goods under Strong Replication.This paper was accepted by Victor Martínez de Albéniz, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3936
+UR  - https://doi.org/10.1287/mnsc.2020.3936
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Time Is the Wisest Counselor of All: The Value of Provider–Patient Engagement Length in Home Healthcare
+AU  - Song, Hummy
+AU  - Andreyeva, Elena
+AU  - David, Guy
+Y1  - 2021/03/08
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3921
+DO  - 10.1287/mnsc.2020.3921
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 420
+EP  - 441
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Home healthcare is a rapidly growing area of the health sector in the United States. We study its role in the shift toward value-based care, as it is viewed as an avenue for achieving reductions in the cost and utilization of expensive downstream healthcare services. Using a novel data set on home healthcare visits, we examine whether and how the amount of time that a provider spends during a home health visit with a recently discharged patient impacts the patient?s likelihood of being readmitted to the hospital. Because unobserved patient health status may influence both the length of a home health visit and the likelihood of hospital readmission, we use the within-provider average visit length of all other episodes? visits conducted by each provider in the 30-day period before and after the focal visit as an instrument for visit length. Using this instrumental variable approach and controlling for operational, demographic, and patient condition-related characteristics, we find the following: on average, an extra minute during a focal home health visit is associated with a 1.39% decrease in the likelihood of readmission to the hospital following that visit. Our finding suggests that a 10% increase in visit length would decrease the likelihood of readmission following a home health visit by 6%. We document heterogeneity in this effect across different patient types and visit types. We conduct a cost?benefit analysis that suggests that the cost of investing in additional home health capacity is outweighed by the cost savings arising from fewer hospitalizations.This paper was accepted by Stefan Scholtes, healthcare management.
+AB  - Home healthcare is a rapidly growing area of the health sector in the United States. We study its role in the shift toward value-based care, as it is viewed as an avenue for achieving reductions in the cost and utilization of expensive downstream healthcare services. Using a novel data set on home healthcare visits, we examine whether and how the amount of time that a provider spends during a home health visit with a recently discharged patient impacts the patient?s likelihood of being readmitted to the hospital. Because unobserved patient health status may influence both the length of a home health visit and the likelihood of hospital readmission, we use the within-provider average visit length of all other episodes? visits conducted by each provider in the 30-day period before and after the focal visit as an instrument for visit length. Using this instrumental variable approach and controlling for operational, demographic, and patient condition-related characteristics, we find the following: on average, an extra minute during a focal home health visit is associated with a 1.39% decrease in the likelihood of readmission to the hospital following that visit. Our finding suggests that a 10% increase in visit length would decrease the likelihood of readmission following a home health visit by 6%. We document heterogeneity in this effect across different patient types and visit types. We conduct a cost?benefit analysis that suggests that the cost of investing in additional home health capacity is outweighed by the cost savings arising from fewer hospitalizations.This paper was accepted by Stefan Scholtes, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3921
+UR  - https://doi.org/10.1287/mnsc.2020.3921
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - An Empirical Bargaining Model with Left-Digit Bias: A Study on Auto Loan Monthly Payments
+AU  - Jiang, Zhenling
+Y1  - 2021/04/29
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3923
+DO  - 10.1287/mnsc.2020.3923
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 442
+EP  - 465
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - This paper studies price bargaining when both parties have left-digit bias when processing numbers. The empirical analysis focuses on the auto finance market in the United States, using a large data set of 35 million auto loans. Incorporating left-digit bias in bargaining is motivated by several intriguing observations. The scheduled monthly payments of auto loans bunch at both $9- and $0-ending digits, especially over $100 marks. In addition, $9-ending loans carry a higher interest rate, and $0-ending loans have a lower interest rate. We develop a Nash bargaining model that allows for left-digit bias from both consumers and finance managers of auto dealers. Results suggest that both parties are subject to this basic human bias: the perceived difference between $9- and the next $0-ending payments is larger than $1, especially between $99- and $00-ending payments. The proposed model can explain the phenomena of payments bunching and differential interest rates for loans with different ending digits. We use counterfactuals to show a nuanced impact of left-digit bias, which can both increase and decrease the payments. Overall, bias from both sides leads to a $33 increase in average payment per loan compared with a benchmark case with no bias.This paper was accepted by Matthew Shum, marketing.
+AB  - This paper studies price bargaining when both parties have left-digit bias when processing numbers. The empirical analysis focuses on the auto finance market in the United States, using a large data set of 35 million auto loans. Incorporating left-digit bias in bargaining is motivated by several intriguing observations. The scheduled monthly payments of auto loans bunch at both $9- and $0-ending digits, especially over $100 marks. In addition, $9-ending loans carry a higher interest rate, and $0-ending loans have a lower interest rate. We develop a Nash bargaining model that allows for left-digit bias from both consumers and finance managers of auto dealers. Results suggest that both parties are subject to this basic human bias: the perceived difference between $9- and the next $0-ending payments is larger than $1, especially between $99- and $00-ending payments. The proposed model can explain the phenomena of payments bunching and differential interest rates for loans with different ending digits. We use counterfactuals to show a nuanced impact of left-digit bias, which can both increase and decrease the payments. Overall, bias from both sides leads to a $33 increase in average payment per loan compared with a benchmark case with no bias.This paper was accepted by Matthew Shum, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3923
+UR  - https://doi.org/10.1287/mnsc.2020.3923
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Reaching for Returns in Retail Structured Investment
+AU  - Sonsino, Doron
+AU  - Lahav, Yaron
+AU  - Roth, Yefim
+Y1  - 2021/04/20
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3932
+DO  - 10.1287/mnsc.2020.3932
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 466
+EP  - 486
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - The growing market for retail structured investment products and empirical evidence for excessive pricing of such products raise the hypothesis that private investors show increased risk appetite in structured investment contexts. A two-stage framed field experiment building on cumulative prospect theory is designed to test this hypothesis. Subjects? expectations regarding the future performance of an underlying index are elicited first. A bisection algorithm is then applied to derive the certainty equivalents of 20 simple individually tailored deposits. The results support the increased risk appetite hypothesis, revealing that subjects reach for substantial gains and underweight tail loss events when evaluating the deposits. Similar results emerge in a follow-up experiment where the uncertain deposits are replaced by risky versions. While previous studies propose that misperception of complex terms and optimism contribute to the mispricing of structured instruments, the current experiments show that nonstandard risk appetite manifests in the valuation of simple well-defined products, controlling for expectations.This paper was accepted by Manel Baucells, decision analysis.
+AB  - The growing market for retail structured investment products and empirical evidence for excessive pricing of such products raise the hypothesis that private investors show increased risk appetite in structured investment contexts. A two-stage framed field experiment building on cumulative prospect theory is designed to test this hypothesis. Subjects? expectations regarding the future performance of an underlying index are elicited first. A bisection algorithm is then applied to derive the certainty equivalents of 20 simple individually tailored deposits. The results support the increased risk appetite hypothesis, revealing that subjects reach for substantial gains and underweight tail loss events when evaluating the deposits. Similar results emerge in a follow-up experiment where the uncertain deposits are replaced by risky versions. While previous studies propose that misperception of complex terms and optimism contribute to the mispricing of structured instruments, the current experiments show that nonstandard risk appetite manifests in the valuation of simple well-defined products, controlling for expectations.This paper was accepted by Manel Baucells, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3932
+UR  - https://doi.org/10.1287/mnsc.2020.3932
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Hidden Experts in the Crowd: Using Meta-Predictions to Leverage Expertise in Single-Question Prediction Problems
+AU  - Wilkening, Tom
+AU  - Martinie, Marcellin
+AU  - Howe, Piers D. L.
+Y1  - 2021/03/10
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3919
+DO  - 10.1287/mnsc.2020.3919
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 487
+EP  - 508
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Modern forecasting algorithms use the wisdom of crowds to produce forecasts better than those of the best identifiable expert. However, these algorithms may be inaccurate when crowds are systematically biased or when expertise varies substantially across forecasters. Recent work has shown that meta-predictions?a forecast of the average forecasts of others?can be used to correct for biases even when no external information, such as forecasters? past performance, is available. We explore whether meta-predictions can also be used to improve forecasts by identifying and leveraging the expertise of forecasters. We develop a confidence-based version of the Surprisingly Popular algorithm proposed by Prelec, Seung, and McCoy. As with the original algorithm, our new algorithm is robust to bias. However, unlike the original algorithm, our version is predicted to always weight forecasters with more informative private signals more than forecasters with less informative ones. In a series of experiments, we find that the modified algorithm does a better job in weighting informed forecasters than the original algorithm and show that individuals who are correct more often on similar decision problems contribute more to the final decision than other forecasters. Empirically, the modified algorithm outperforms the original algorithm for a set of 500 decision problems.This paper was accepted by Yan Chen, decision analysis.
+AB  - Modern forecasting algorithms use the wisdom of crowds to produce forecasts better than those of the best identifiable expert. However, these algorithms may be inaccurate when crowds are systematically biased or when expertise varies substantially across forecasters. Recent work has shown that meta-predictions?a forecast of the average forecasts of others?can be used to correct for biases even when no external information, such as forecasters? past performance, is available. We explore whether meta-predictions can also be used to improve forecasts by identifying and leveraging the expertise of forecasters. We develop a confidence-based version of the Surprisingly Popular algorithm proposed by Prelec, Seung, and McCoy. As with the original algorithm, our new algorithm is robust to bias. However, unlike the original algorithm, our version is predicted to always weight forecasters with more informative private signals more than forecasters with less informative ones. In a series of experiments, we find that the modified algorithm does a better job in weighting informed forecasters than the original algorithm and show that individuals who are correct more often on similar decision problems contribute more to the final decision than other forecasters. Empirically, the modified algorithm outperforms the original algorithm for a set of 500 decision problems.This paper was accepted by Yan Chen, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3919
+UR  - https://doi.org/10.1287/mnsc.2020.3919
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Effects of the Menu of Loan Contracts on Borrower Behavior
+AU  - Abraham, Katharine G.
+AU  - Filiz-Ozbay, Emel
+AU  - Ozbay, Erkut Y.
+AU  - Turner, Lesley J.
+Y1  - 2021/03/22
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3914
+DO  - 10.1287/mnsc.2020.3914
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 509
+EP  - 528
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We study how the menu of contracts presented to a decision maker?including contracts she may be precluded from choosing?affects her choice of remunerative but risky actions relative to lower paying, less risky alternatives. We do this through a series of laboratory experiments modeled after the loan repayment options offered to U.S. student borrowers, analyzing borrowers? task (career) choices in settings that vary the menu of available and unavailable loan repayment plans and knowledge of unavailable options. In these experiments, we observe behavior that is inconsistent with predictions from standard economic models in which agents can easily make complex decisions and each alternative in a choice set is evaluated independently of other potential options. Instead, we provide evidence that expanding the menu of choices or making an agent aware of choices that she has been denied can affect how a contract is valued. Our empirical findings are most consistent with behavioral models that allow for anticipated regret over a choice that turns out to be suboptimal ex post or preferences for simplicity and gratitude for being unburdened from having to make a choice.This paper was accepted by Yan Chen, decision analysis.
+AB  - We study how the menu of contracts presented to a decision maker?including contracts she may be precluded from choosing?affects her choice of remunerative but risky actions relative to lower paying, less risky alternatives. We do this through a series of laboratory experiments modeled after the loan repayment options offered to U.S. student borrowers, analyzing borrowers? task (career) choices in settings that vary the menu of available and unavailable loan repayment plans and knowledge of unavailable options. In these experiments, we observe behavior that is inconsistent with predictions from standard economic models in which agents can easily make complex decisions and each alternative in a choice set is evaluated independently of other potential options. Instead, we provide evidence that expanding the menu of choices or making an agent aware of choices that she has been denied can affect how a contract is valued. Our empirical findings are most consistent with behavioral models that allow for anticipated regret over a choice that turns out to be suboptimal ex post or preferences for simplicity and gratitude for being unburdened from having to make a choice.This paper was accepted by Yan Chen, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3914
+UR  - https://doi.org/10.1287/mnsc.2020.3914
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Multiple Beliefs, Dominance and Dynamic Consistency
+AU  - Ekholm, Tommi
+AU  - Baker, Erin
+Y1  - 2021/04/15
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3908
+DO  - 10.1287/mnsc.2020.3908
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 529
+EP  - 540
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - This paper investigates multiperiod decisions under multiple beliefs. We explore the dynamic consistency of both complete and incomplete orderings. We focus on a dominance concept that supports decision-making under multiple characterizations of uncertainty by ruling out strategies that are dominated across a set of beliefs. We uncover a distinction between two types of dynamic inconsistency, which we label fallacious and fallible inconsistency. Fallacious inconsistency occurs when an a priori optimal strategy is suboptimal in the second period, thus requiring the decision-maker to depart from the original strategy. Fallible inconsistency occurs when an a priori suboptimal second-period action ceases being suboptimal from the perspective of the second-period preferences. We introduce corresponding definitions of dynamic consistency and show that the two types of consistency are equivalent for complete orderings, but differ for incomplete orderings. Subjective expected utility is dynamically consistent and non-expected-utility decision rules, such as minmax, are not. We show that the dominance relation over beliefs falls between these two: it is immune to the more severe fallacious inconsistency, but not to the less problematic fallible inconsistency. We illustrate the method and concepts using a numerical example addressing a focal, real-world problem of risk and ambiguity regarding climate change.This paper was accepted by Ilia Tsetlin, decision analysis.
+AB  - This paper investigates multiperiod decisions under multiple beliefs. We explore the dynamic consistency of both complete and incomplete orderings. We focus on a dominance concept that supports decision-making under multiple characterizations of uncertainty by ruling out strategies that are dominated across a set of beliefs. We uncover a distinction between two types of dynamic inconsistency, which we label fallacious and fallible inconsistency. Fallacious inconsistency occurs when an a priori optimal strategy is suboptimal in the second period, thus requiring the decision-maker to depart from the original strategy. Fallible inconsistency occurs when an a priori suboptimal second-period action ceases being suboptimal from the perspective of the second-period preferences. We introduce corresponding definitions of dynamic consistency and show that the two types of consistency are equivalent for complete orderings, but differ for incomplete orderings. Subjective expected utility is dynamically consistent and non-expected-utility decision rules, such as minmax, are not. We show that the dominance relation over beliefs falls between these two: it is immune to the more severe fallacious inconsistency, but not to the less problematic fallible inconsistency. We illustrate the method and concepts using a numerical example addressing a focal, real-world problem of risk and ambiguity regarding climate change.This paper was accepted by Ilia Tsetlin, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3908
+UR  - https://doi.org/10.1287/mnsc.2020.3908
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Combining Probability Forecasts: 60% and 60% Is 60%, but Likely and Likely Is Very Likely
+AU  - Mislavsky, Robert
+AU  - Gaertig, Celia
+Y1  - 2021/03/25
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3902
+DO  - 10.1287/mnsc.2020.3902
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 541
+EP  - 563
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - How do we combine others? probability forecasts? Prior research has shown that when advisors provide numeric probability forecasts, people typically average them (i.e., they move closer to the average advisor?s forecast). However, what if the advisors say that an event is ?likely? or ?probable?? In eight studies (n = 7,334), we find that people are more likely to act as if they ?count? verbal probabilities (i.e., they move closer to certainty than any individual advisor?s forecast) than they are to ?count? numeric probabilities. For example, when the advisors both say an event is ?likely,? participants will say that it is ?very likely.? This effect occurs for both probabilities above and below 50%, for hypothetical scenarios and real events, and when presenting the others? forecasts simultaneously or sequentially. We also show that this combination strategy carries over to subsequent consumer decisions that rely on advisors? likelihood judgments. We discuss and rule out several candidate mechanisms for our effect.This paper was accepted by Yuval Rottenstreich, decision analysis.
+AB  - How do we combine others? probability forecasts? Prior research has shown that when advisors provide numeric probability forecasts, people typically average them (i.e., they move closer to the average advisor?s forecast). However, what if the advisors say that an event is ?likely? or ?probable?? In eight studies (n = 7,334), we find that people are more likely to act as if they ?count? verbal probabilities (i.e., they move closer to certainty than any individual advisor?s forecast) than they are to ?count? numeric probabilities. For example, when the advisors both say an event is ?likely,? participants will say that it is ?very likely.? This effect occurs for both probabilities above and below 50%, for hypothetical scenarios and real events, and when presenting the others? forecasts simultaneously or sequentially. We also show that this combination strategy carries over to subsequent consumer decisions that rely on advisors? likelihood judgments. We discuss and rule out several candidate mechanisms for our effect.This paper was accepted by Yuval Rottenstreich, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3902
+UR  - https://doi.org/10.1287/mnsc.2020.3902
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Private Impact of Public Data: Landsat Satellite Maps Increased Gold Discoveries and Encouraged Entry
+AU  - Nagaraj, Abhishek
+Y1  - 2021/03/25
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3878
+DO  - 10.1287/mnsc.2020.3878
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 564
+EP  - 582
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - How does public data shape the relative performance of incumbents and entrants in the private sector? Using a simple theoretical framework, I argue that public data reduces investment uncertainty, facilitates the discovery of new market opportunities, and increases the relative market share of new entrants relative to incumbents. I shed light on these predictions by estimating the impact of public data from Landsat, a U.S. National Aeronautics and Space Administration satellite mapping program, on the discovery rates of new deposits by incumbents (seniors) and entrants (juniors) in the gold exploration industry. I exploit idiosyncratic timing variation and cloud cover in Landsat coverage across regions to identify the causal effect of public data on the patterns of gold discovery. I find that Landsat data nearly doubled the rate of significant gold discoveries after a region was mapped and increased the market share of new entrants from about 10% to 25%. Public data seem to play an important, yet relatively underexplored, role in driving performance differences across firms.This paper was accepted by Ashish Arora, entrepreneurship and innovation.
+AB  - How does public data shape the relative performance of incumbents and entrants in the private sector? Using a simple theoretical framework, I argue that public data reduces investment uncertainty, facilitates the discovery of new market opportunities, and increases the relative market share of new entrants relative to incumbents. I shed light on these predictions by estimating the impact of public data from Landsat, a U.S. National Aeronautics and Space Administration satellite mapping program, on the discovery rates of new deposits by incumbents (seniors) and entrants (juniors) in the gold exploration industry. I exploit idiosyncratic timing variation and cloud cover in Landsat coverage across regions to identify the causal effect of public data on the patterns of gold discovery. I find that Landsat data nearly doubled the rate of significant gold discoveries after a region was mapped and increased the market share of new entrants from about 10% to 25%. Public data seem to play an important, yet relatively underexplored, role in driving performance differences across firms.This paper was accepted by Ashish Arora, entrepreneurship and innovation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3878
+UR  - https://doi.org/10.1287/mnsc.2020.3878
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Managerial Learning from Analyst Feedback to Voluntary Capex Guidance, Investment Efficiency, and Firm Performance
+AU  - Bae, Jihun
+AU  - Biddle, Gary C.
+AU  - Park, Chul W.
+Y1  - 2021/04/15
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3896
+DO  - 10.1287/mnsc.2020.3896
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 583
+EP  - 607
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We test predictions that managers issuing voluntary capex guidance learn from analyst feedback and that this learning enhances investment efficiency and firm performance. Our findings are consistent with these predictions. First, we find that managers? capex adjustments and capex guidance revisions relate positively with analyst feedback measured by differences between postguidance analyst capex forecasts and managerial capex guidance. Second, changes in investment efficiency relate positively with analyst feedback. Third, subsequent firm financial performance relates positively with the predicted values of both managers? capex adjustments and capex guidance revisions. These findings extend prior evidence regarding sources of managerial learning and investment efficiency and help to explain the active issuance of voluntary guidance by managers in settings where, as for capex guidance, the potential for managerial learning from related share price effects is limited, as we also explain.This paper was accepted by Brian Bushee, accounting.
+AB  - We test predictions that managers issuing voluntary capex guidance learn from analyst feedback and that this learning enhances investment efficiency and firm performance. Our findings are consistent with these predictions. First, we find that managers? capex adjustments and capex guidance revisions relate positively with analyst feedback measured by differences between postguidance analyst capex forecasts and managerial capex guidance. Second, changes in investment efficiency relate positively with analyst feedback. Third, subsequent firm financial performance relates positively with the predicted values of both managers? capex adjustments and capex guidance revisions. These findings extend prior evidence regarding sources of managerial learning and investment efficiency and help to explain the active issuance of voluntary guidance by managers in settings where, as for capex guidance, the potential for managerial learning from related share price effects is limited, as we also explain.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3896
+UR  - https://doi.org/10.1287/mnsc.2020.3896
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Valuation Uncertainty and Short-Sales Constraints: Evidence from the IPO Aftermarket
+AU  - Patatoukas, Panos N.
+AU  - Sloan, Richard G.
+AU  - Wang, Annika Yu
+Y1  - 2021/02/26
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3900
+DO  - 10.1287/mnsc.2020.3900
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 608
+EP  - 634
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We use the initial public offering (IPO) setting to provide evidence that the combination of valuation uncertainty and short-sales constraints generates significant equity market mispricing. The IPOs that we predict to be most susceptible to overpricing in the immediate aftermarket have first-day returns of +47% and lockup expiration returns of ?9%. Our detailed analysis of securities lending market data confirms that these IPOs experience severe short-sales constraints that peak around the lockup expiration. Our paper both explains the anomalous pricing of IPOs and highlights the importance of valuation uncertainty and short-sales constraints in explaining equity mispricing.This paper was accepted by Brian Bushee, accounting.
+AB  - We use the initial public offering (IPO) setting to provide evidence that the combination of valuation uncertainty and short-sales constraints generates significant equity market mispricing. The IPOs that we predict to be most susceptible to overpricing in the immediate aftermarket have first-day returns of +47% and lockup expiration returns of ?9%. Our detailed analysis of securities lending market data confirms that these IPOs experience severe short-sales constraints that peak around the lockup expiration. Our paper both explains the anomalous pricing of IPOs and highlights the importance of valuation uncertainty and short-sales constraints in explaining equity mispricing.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3900
+UR  - https://doi.org/10.1287/mnsc.2020.3900
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Plumbing of Securities Markets: The Impact of Post-trade Fees on Trading and Welfare
+AU  - Degryse, Hans
+AU  - Van Achter, Mark
+AU  - Wuyts, Gunther
+Y1  - 2021/05/14
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3880
+DO  - 10.1287/mnsc.2020.3880
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 635
+EP  - 653
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We analyze how market design choices about counterparty information and costs related to the ?plumbing? (i.e., clearing, settlement, and custody) of securities markets affect market quality and welfare. Our model compares two post-trade fee structures for allocating these costs. One charges a uniform fee for all trades and the other, marginal cost?based structure a reduced fee for internalized trades (which, both traders being from the same broker, is less costly to process). Both market design and fee structure affect quote aggressiveness and trading volume and its composition. With marginal cost?based fees and counterparty information being available, traders decide which counterparties to target through quote aggressiveness, trading off execution probability against fee. A social planner can maximize welfare by requiring marginal cost?based fees and providing traders the choice to disclose counterparty information.This paper was accepted by Gustavo Manso, finance.
+AB  - We analyze how market design choices about counterparty information and costs related to the ?plumbing? (i.e., clearing, settlement, and custody) of securities markets affect market quality and welfare. Our model compares two post-trade fee structures for allocating these costs. One charges a uniform fee for all trades and the other, marginal cost?based structure a reduced fee for internalized trades (which, both traders being from the same broker, is less costly to process). Both market design and fee structure affect quote aggressiveness and trading volume and its composition. With marginal cost?based fees and counterparty information being available, traders decide which counterparties to target through quote aggressiveness, trading off execution probability against fee. A social planner can maximize welfare by requiring marginal cost?based fees and providing traders the choice to disclose counterparty information.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3880
+UR  - https://doi.org/10.1287/mnsc.2020.3880
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Theory of Assurance: Balancing Costly Formal Control with Tone at the Top
+AU  - Penno, Mark
+Y1  - 2021/02/10
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3861
+DO  - 10.1287/mnsc.2020.3861
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 654
+EP  - 668
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Informal tone at the top (TATT) is widely regarded as a fundamental ingredient of organizational control, yet because of its soft nature, the scholarship on TATT has not emphasized mathematical modeling. Observing that TATT refers to the example set by top management, I model TATT as, ceteris paribus, reflecting the expectation that the chief executive officer (CEO) will not divert organizational resources for personal benefit. The setting assumes that CEOs are randomly drawn from a labor pool containing candidates who either value career prospects (high type) or who do not value career prospects (low type). The fear of dismissal and a damaged career mean that high types tend to be less opportunistic than low types, who divert for personal gain. Contrary to the belief that trust and vulnerability go hand in hand, I identify conditions where TATT and optimal costly formal controls are complements. But I also show in the same setting that TATT and optimal formal controls can be substitutes. The results also explain why high levels of TATT may not be welcomed by the external auditor or certain stakeholders and explain ambiguous Sarbanes-Oxley reports.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - Informal tone at the top (TATT) is widely regarded as a fundamental ingredient of organizational control, yet because of its soft nature, the scholarship on TATT has not emphasized mathematical modeling. Observing that TATT refers to the example set by top management, I model TATT as, ceteris paribus, reflecting the expectation that the chief executive officer (CEO) will not divert organizational resources for personal benefit. The setting assumes that CEOs are randomly drawn from a labor pool containing candidates who either value career prospects (high type) or who do not value career prospects (low type). The fear of dismissal and a damaged career mean that high types tend to be less opportunistic than low types, who divert for personal gain. Contrary to the belief that trust and vulnerability go hand in hand, I identify conditions where TATT and optimal costly formal controls are complements. But I also show in the same setting that TATT and optimal formal controls can be substitutes. The results also explain why high levels of TATT may not be welcomed by the external auditor or certain stakeholders and explain ambiguous Sarbanes-Oxley reports.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3861
+UR  - https://doi.org/10.1287/mnsc.2020.3861
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Hedging with an Edge: Parametric Currency Overlay
+AU  - Barroso, Pedro
+AU  - Reichenecker, Jurij-Andrei
+AU  - Menichetti, Marco J.
+Y1  - 2021/02/16
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3872
+DO  - 10.1287/mnsc.2020.3872
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 669
+EP  - 689
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We propose an optimal currency hedging strategy for global equity investors using currency value, carry, and momentum to proxy for expected currency returns. A benchmark risk constraint ensures the overlay closely mimics a fully hedged portfolio. We compare this with naïve and alternative hedges in a demanding out-of-sample test, with transaction and rebalancing costs and margin requirements. Other hedging methods generally reduce risk but at a cost. Some tend to short currencies with high returns and all incur substantial costs with frictions, mostly margin requirements and equity rebalancing costs. The proposed strategy uses predictable returns to reduce this cost. It produces a statistically significant 17% gain in Sharpe ratio and an annualized Jensen-α of 0.93% versus a fully hedged benchmark. Notably, most of the implementation costs of the strategy would be incurred by the benchmark anyway. This reduces its marginal cost and highlights a specific synergy of integrating hedging with speculation.This paper was accepted by Gustavo Manso, finance.
+AB  - We propose an optimal currency hedging strategy for global equity investors using currency value, carry, and momentum to proxy for expected currency returns. A benchmark risk constraint ensures the overlay closely mimics a fully hedged portfolio. We compare this with naïve and alternative hedges in a demanding out-of-sample test, with transaction and rebalancing costs and margin requirements. Other hedging methods generally reduce risk but at a cost. Some tend to short currencies with high returns and all incur substantial costs with frictions, mostly margin requirements and equity rebalancing costs. The proposed strategy uses predictable returns to reduce this cost. It produces a statistically significant 17% gain in Sharpe ratio and an annualized Jensen-α of 0.93% versus a fully hedged benchmark. Notably, most of the implementation costs of the strategy would be incurred by the benchmark anyway. This reduces its marginal cost and highlights a specific synergy of integrating hedging with speculation.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3872
+UR  - https://doi.org/10.1287/mnsc.2020.3872
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Portfolio Choices with Many Big Models
+AU  - Anderson, Evan
+AU  - Cheng, Ai-ru (Meg)
+Y1  - 2021/04/30
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3876
+DO  - 10.1287/mnsc.2020.3876
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 690
+EP  - 715
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - This paper proposes a Bayesian-averaging heterogeneous vector autoregressive portfolio choice strategy with many big models that outperforms existing methods out-of-sample on numerous daily, weekly, and monthly datasets. The strategy assumes that excess returns are approximately determined by a time-varying regression with a large number of explanatory variables that are the sample means of past returns. Investors consider the possibility that every period there is a regime change by keeping track of many models, but doubt that any specification is able to perfectly predict the distribution of future returns, and compute portfolio choices that are robust to model misspecification.This paper was accepted by Tyler Shumway, finance.
+AB  - This paper proposes a Bayesian-averaging heterogeneous vector autoregressive portfolio choice strategy with many big models that outperforms existing methods out-of-sample on numerous daily, weekly, and monthly datasets. The strategy assumes that excess returns are approximately determined by a time-varying regression with a large number of explanatory variables that are the sample means of past returns. Investors consider the possibility that every period there is a regime change by keeping track of many models, but doubt that any specification is able to perfectly predict the distribution of future returns, and compute portfolio choices that are robust to model misspecification.This paper was accepted by Tyler Shumway, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3876
+UR  - https://doi.org/10.1287/mnsc.2020.3876
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Unsuccessful Past Repurchases on Future Repurchasing Decisions
+AU  - Friesen, Geoffrey C.
+AU  - Jeutang, Noel Pavel
+AU  - Unlu, Emre
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3875
+DO  - 10.1287/mnsc.2020.3875
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 716
+EP  - 739
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We find that managers are less likely to repurchase stocks when they lose money on past stock repurchases but find no robust evidence that past gains on repurchases influence future repurchasing activity. This asymmetric sensitivity is strongest for young CEOs and those with the shortest tenure. Also, future repurchases are more sensitive to past repurchase losses for CEOs whose previous lifetime experience with the stock market is unfavorable. The sensitivity of future repurchases to past losses costs firms, on average, about 3.7% per year. When this cost is decomposed into systematic and idiosyncratic components, we find that nearly half (1.8%) comes from mistiming idiosyncratic shocks. Past losses on repurchases have a significant and negative impact on the CEO?s future bonus and increase the likelihood that future CEO termination is involuntary. We also find that negative outcomes from past repurchases encourage the subsequent use of dividends. Our findings suggest that outcomes of past repurchases have economically significant consequences through both nonbehavioral (career concerns) and behavioral (snakebite effect) factors.This paper was accepted by Tyler Shumway, finance.
+AB  - We find that managers are less likely to repurchase stocks when they lose money on past stock repurchases but find no robust evidence that past gains on repurchases influence future repurchasing activity. This asymmetric sensitivity is strongest for young CEOs and those with the shortest tenure. Also, future repurchases are more sensitive to past repurchase losses for CEOs whose previous lifetime experience with the stock market is unfavorable. The sensitivity of future repurchases to past losses costs firms, on average, about 3.7% per year. When this cost is decomposed into systematic and idiosyncratic components, we find that nearly half (1.8%) comes from mistiming idiosyncratic shocks. Past losses on repurchases have a significant and negative impact on the CEO?s future bonus and increase the likelihood that future CEO termination is involuntary. We also find that negative outcomes from past repurchases encourage the subsequent use of dividends. Our findings suggest that outcomes of past repurchases have economically significant consequences through both nonbehavioral (career concerns) and behavioral (snakebite effect) factors.This paper was accepted by Tyler Shumway, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3875
+UR  - https://doi.org/10.1287/mnsc.2020.3875
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Vanishing Contagion Spreads
+AU  - Duarte, Diogo
+AU  - Prieto, Rodolfo
+AU  - Rindisbacher, Marcel
+AU  - Saporito, Yuri F.
+Y1  - 2021/03/10
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3868
+DO  - 10.1287/mnsc.2020.3868
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 740
+EP  - 772
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - We study default in a multifirm equilibrium setting with incomplete information. Defaults are consistent with the firm?s balance sheet and aggregation. We show that the endogenous volatility and jump size of debt and equity generated by other firms? shocks vanish as the number of firms in the economy increases. As a result, credit spreads depend asymptotically only on the firms? own cash flow risk. Our vanishing contagion spread result calls into question recent findings based on production economies, in which quantities of risk (volatilities and jump sizes of securities) are specified exogenously, that attribute credit spreads mostly to contagion.This paper was accepted by Kay Giesecke, finance.
+AB  - We study default in a multifirm equilibrium setting with incomplete information. Defaults are consistent with the firm?s balance sheet and aggregation. We show that the endogenous volatility and jump size of debt and equity generated by other firms? shocks vanish as the number of firms in the economy increases. As a result, credit spreads depend asymptotically only on the firms? own cash flow risk. Our vanishing contagion spread result calls into question recent findings based on production economies, in which quantities of risk (volatilities and jump sizes of securities) are specified exogenously, that attribute credit spreads mostly to contagion.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3868
+UR  - https://doi.org/10.1287/mnsc.2020.3868
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Investor Sentiment and Stock Option Vesting Terms
+AU  - Huang, Shawn X.
+AU  - Keskek, Sami
+AU  - Sanchez, Juan Manuel
+Y1  - 2021/02/18
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3845
+DO  - 10.1287/mnsc.2020.3845
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 773
+EP  - 795
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - Using the details of vesting terms, we document that stock options granted in high-investor-sentiment periods tend to have shorter vesting periods and durations and are more likely to vest completely or have a significantly larger fraction vested within one year of the grant date, relative to low-sentiment periods. We further find that the sentiment effect on vesting terms is more pronounced when firms are largely held by investors with short investment horizons (e.g., transient institutions). Moreover, short vesting terms in high-sentiment periods are positively associated with future mergers-and-acquisitions activity and capital expenditures. Overall, our findings are consistent with theoretical predictions that, in a speculative market, shareholders incentivize managers with short-term-oriented compensation contracts to induce managers to pursue actions maintaining overvaluation.This paper was accepted by Shiva Rajgopal, accounting.
+AB  - Using the details of vesting terms, we document that stock options granted in high-investor-sentiment periods tend to have shorter vesting periods and durations and are more likely to vest completely or have a significantly larger fraction vested within one year of the grant date, relative to low-sentiment periods. We further find that the sentiment effect on vesting terms is more pronounced when firms are largely held by investors with short investment horizons (e.g., transient institutions). Moreover, short vesting terms in high-sentiment periods are positively associated with future mergers-and-acquisitions activity and capital expenditures. Overall, our findings are consistent with theoretical predictions that, in a speculative market, shareholders incentivize managers with short-term-oriented compensation contracts to induce managers to pursue actions maintaining overvaluation.This paper was accepted by Shiva Rajgopal, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3845
+UR  - https://doi.org/10.1287/mnsc.2020.3845
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Comment on “Optimal Contract to Induce Continued Effort”
+AU  - Cao, Ping
+AU  - Tian, Feng
+AU  - Sun, Peng
+Y1  - 2021/03/25
+PY  - 2021
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2020.3927
+DO  - 10.1287/mnsc.2020.3927
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 796
+EP  - 808
+VL  - 68
+IS  - 1
+PB  - INFORMS
+N2  - In this comment, we first use a counterexample to demonstrate that the optimal contract structure proposed in section 4 of the paper [Sun P, Tian F (2018) Optimal contract to induce continued effort. Management Sci. 64(9):4193?4217] can be wrong when the two players? discount rates are different. We then specify correct optimal contract structures, which involve generalizing the contract space to allow random termination. Numerical study with a wide range of model parameters illustrates that such a random termination only occurs sparingly in optimal contracts. Moreover, the suboptimality gap, measured by the relative improvement of the optimal contract over the best contract without random termination, is extremely small.This paper was accepted by Manel Baucells, decision analysis.
+AB  - In this comment, we first use a counterexample to demonstrate that the optimal contract structure proposed in section 4 of the paper [Sun P, Tian F (2018) Optimal contract to induce continued effort. Management Sci. 64(9):4193?4217] can be wrong when the two players? discount rates are different. We then specify correct optimal contract structures, which involve generalizing the contract space to allow random termination. Numerical study with a wide range of model parameters illustrates that such a random termination only occurs sparingly in optimal contracts. Moreover, the suboptimality gap, measured by the relative improvement of the optimal contract over the best contract without random termination, is extremely small.This paper was accepted by Manel Baucells, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3927
+UR  - https://doi.org/10.1287/mnsc.2020.3927
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2022/01/01
+PY  - 2022
+DA  - 2022/01/01
+N1  - doi: 10.1287/mnsc.2022.eb.v68n1
+DO  - 10.1287/mnsc.2022.eb.v68n1
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - v
+VL  - 68
+IS  - 1
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.eb.v68n1
+UR  - https://doi.org/10.1287/mnsc.2022.eb.v68n1
+Y2  - 2024/03/29
+ER  - 

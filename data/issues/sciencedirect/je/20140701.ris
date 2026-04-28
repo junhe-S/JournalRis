@@ -1,0 +1,185 @@
+TY  - JOUR
+T1  - Extreme-quantile tracking for financial time series
+AU  - Chavez-Demoulin, V.
+AU  - Embrechts, P.
+AU  - Sardy, S.
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - 44
+EP  - 52
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000360
+KW  - Bayesian analysis
+KW  - Conditional risk measures
+KW  - Financial time series
+KW  - Generalized Pareto distribution
+KW  - Markov random field
+KW  - Peaks-Over-Threshold
+KW  - Quantile estimation
+KW  - Regime switching
+KW  - Statistics of extremes
+KW  - Value-at-risk
+AB  - Time series of financial asset values exhibit well-known statistical features such as heavy tails and volatility clustering. We propose a nonparametric extension of the classical Peaks-Over-Threshold method from extreme value theory to fit the time varying volatility in situations where the stationarity assumption may be violated by erratic changes of regime, say. As a result, we provide a method for estimating conditional risk measures applicable to both stationary and nonstationary series. A backtesting study for the UBS share price over the subprime crisis exemplifies our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Editors’ introduction: Heavy tails and stable Paretian distributions in econometrics
+AU  - Dufour, Jean-Marie
+AU  - Kurz-Kim, Jeong-Ryeol
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - 1
+EP  - 2
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002613
+ER  - 
+
+TY  - JOUR
+T1  - Exponential stock models driven by tempered stable processes
+AU  - Küchler, Uwe
+AU  - Tappe, Stefan
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - 53
+EP  - 63
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000372
+KW  - Exponential stock model
+KW  - Tempered stable process
+KW  - Bilateral Esscher transform
+KW  - Option pricing
+AB  - We investigate exponential stock models driven by tempered stable processes, which constitute a rich family of purely discontinuous Lévy processes. With a view of option pricing, we provide a systematic analysis of the existence of equivalent martingale measures, under which the model remains analytically tractable. This includes the existence of Esscher martingale measures and martingale measures having minimal distance to the physical probability measure. Moreover, we provide pricing formulae for European call options and perform a case study.
+ER  - 
+
+TY  - JOUR
+T1  - Exact confidence sets and goodness-of-fit methods for stable distributions
+AU  - Beaulieu, Marie-Claude
+AU  - Dufour, Jean-Marie
+AU  - Khalaf, Lynda
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - 3
+EP  - 14
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000323
+KW  - Stable distribution
+KW  - Skewness
+KW  - Asymmetry
+KW  - Exact test
+KW  - Monte Carlo test
+KW  - Specification test
+KW  - Goodness-of-fit
+KW  - Tail parameter
+KW  - Electricity price
+AB  - Usual inference methods for stable distributions are typically based on limit distributions. But asymptotic approximations can easily be unreliable in such cases, for standard regularity conditions may not apply or may hold only weakly. This paper proposes finite-sample tests and confidence sets for tail thickness and asymmetry parameters (α and β) of stable distributions. The confidence sets are built by inverting exact goodness-of-fit tests for hypotheses which assign specific values to these parameters. We propose extensions of the Kolmogorov–Smirnov, Shapiro–Wilk and Filliben criteria, as well as the quantile-based statistics proposed by McCulloch (1986) in order to better capture tail behavior. The suggested criteria compare empirical goodness-of-fit or quantile-based measures with their hypothesized values. Since the distributions involved are quite complex and non-standard, the relevant hypothetical measures are approximated by simulation, and p-values are obtained using Monte Carlo (MC) test techniques. The properties of the proposed procedures are investigated by simulation. In contrast with conventional wisdom, we find reliable results with sample sizes as small as 25. The proposed methodology is applied to daily electricity price data in the US over the period 2001–2006. The results show clearly that heavy kurtosis and asymmetry are prevalent in these series.
+ER  - 
+
+TY  - JOUR
+T1  - On the properties of the coefficient of determination in regression models with infinite variance variables
+AU  - Kurz-Kim, Jeong-Ryeol
+AU  - Loretan, Mico
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - 15
+EP  - 24
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000335
+KW  - Coefficient of determination
+KW  - -stable distributions
+KW  - Signal to noise ratio
+KW  - Density transformation theorem
+KW  - Monte Carlo simulation
+KW  - Fama–MacBeth regression
+KW  - CAPM
+AB  - We examine the asymptotic properties of the coefficient of determination, R2, in models with α-stable   random variables. If the regressor and error term share the same index of stability α<2, we show that the R2  statistic does not converge to a constant but has a nondegenerate distribution on the entire [0,1] interval. We provide closed-form expressions for the cumulative distribution function and probability density function of this limit random variable, and we show that the density function is unbounded at 0 and 1. If the indices of stability of the regressor and error term are unequal, we show that the coefficient of determination converges in probability to either 0 or 1, depending on which variable has the smaller index of stability, irrespective of the value of the slope coefficient. In an empirical application, we revisit the Fama and MacBeth (1973) two-stage regression and demonstrate that in the infinite-variance case the R2  statistic of the second-stage regression converges to 0 in probability even if the slope coefficient is nonzero. We deduce that a small value of the R2  statistic should not, in itself, be used to reject the usefulness of a regression model.
+ER  - 
+
+TY  - JOUR
+T1  - On the robustness of location estimators in models of firm growth under heavy-tailedness
+AU  - Ibragimov, Rustam
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - 25
+EP  - 33
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000347
+KW  - Robustness
+KW  - Location estimators
+KW  - Heavy-tailed distributions
+KW  - Demand-driven innovation
+KW  - Spatial competition
+KW  - Firm growth
+KW  - Signals
+KW  - Investment
+KW  - Information
+KW  - Sample mean
+KW  - Sample median
+KW  - Majorization
+AB  - Focusing on the model of demand-driven innovation and spatial competition over time in Jovanovic and Rob (1987), we study the effects of the robustness of estimators employed by firms to make inferences about their markets on the firms’ growth patterns. We show that if consumers’ signals in the model are moderately heavy-tailed and the firms use the sample mean of the signals to estimate the ideal product, then the firms’ output levels exhibit positive persistence. In such a setting, large firms have an advantage over their smaller counterparts. These properties are reversed for signals with extremely heavy-tailed distributions. In such a case, the model implies anti-persistence in output levels, together with a surprising pattern of oscillations in firm sizes, with smaller firms being likely to become larger ones next period, and vice versa. We further show that the implications of the model under moderate heavy-tailedness continue to hold under the only assumption of symmetry of consumers’ signals if the firms use a more robust estimator of the ideal product, the sample median.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - IFC
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(14)00093-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000931
+ER  - 
+
+TY  - JOUR
+T1  - The asymptotic codifference and covariation of log-fractional stable noise
+AU  - Levy, Joshua B.
+AU  - Taqqu, Murad S.
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 1
+SP  - 34
+EP  - 43
+PY  - 2014
+DA  - 2014/07/01/
+T2  - Heavy Tails and Stable Paretian Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000359
+KW  - -stable distributions
+KW  - Asymptotic dependence
+KW  - Fractional stable noise
+KW  - Long-range dependence
+AB  - Many econometric quantities such as long-term risk can be modeled by Pareto-like distributions and may also display long-range dependence. If Pareto is replaced by Gaussian, then one can consider fractional Brownian motion whose increments, called fractional Gaussian noise, exhibit long-range dependence. There are many extensions of that process in the infinite variance stable case. Log-fractional stable noise (log-FSN) is a particularly interesting one. It is a stationary mean-zero stable process with infinite variance, parametrized by a tail index α between 1 and 2, and hence with heavy tails. The lower the value of α, the heavier the tail of the marginal distributions. The fact that α is less than 2 renders the variance infinite. Thus dependence between past and future cannot be measured using the correlation. There are other dependence measures that one can use, for instance the “codifference” or the “covariation”. Since log-FSN is a moving average and hence “mixing”, these dependence measures converge to zero as the lags between past and future become very large. The codifference, in particular, decreases to zero like a power function as the lag goes to infinity. Two parameters play an important role: (a) the value of the exponent, which depends on α and measures the speed of the decay; (b) a multiplicative constant of asymptoticity c which depends also on α. In this paper, it is shown that for symmetric α-stable log-FSN, the constant c is positive and that the rate of decay of the codifference is such that one has long-range dependence. It is also proved that the same conclusion holds for the second measure of dependence, the covariation, which converges to zero with the same intensity and with a constant of asymptoticity which is positive as well.
+ER  - 

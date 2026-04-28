@@ -1,0 +1,778 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Design and Analysis of Switchback Experiments
+AU  - Bojinov, Iavor
+AU  - Simchi-Levi, David
+AU  - Zhao, Jinglong
+Y1  - 2022/11/01
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4583
+DO  - 10.1287/mnsc.2022.4583
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3759
+EP  - 3777
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Switchback experiments, where a firm sequentially exposes an experimental unit to random treatments, are among the most prevalent designs used in the technology sector, with applications ranging from ride-hailing platforms to online marketplaces. Although practitioners have widely adopted this technique, the derivation of the optimal design has been elusive, hindering practitioners from drawing valid causal conclusions with enough statistical power. We address this limitation by deriving the optimal design of switchback experiments under a range of different assumptions on the order of the carryover effect?the length of time a treatment persists in impacting the outcome. We cast the optimal experimental design problem as a minimax discrete optimization problem, identify the worst-case adversarial strategy, establish structural results, and solve the reduced problem via a continuous relaxation. For switchback experiments conducted under the optimal design, we provide two approaches for performing inference. The first provides exact randomization-based p-values, and the second uses a new finite population central limit theorem to conduct conservative hypothesis tests and build confidence intervals. We further provide theoretical results when the order of the carryover effect is misspecified and provide a data-driven procedure to identify the order of the carryover effect. We conduct extensive simulations to study the numerical performance and empirical properties of our results and conclude with practical suggestions.This paper was accepted by George Shanthikumar, big data analytics.Funding: The authors thank the Massachusetts Institute of Technology (MIT)-IBM partnership in Artificial Intelligence and the MIT Data Science Laboratory for support.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4583.
+AB  - Switchback experiments, where a firm sequentially exposes an experimental unit to random treatments, are among the most prevalent designs used in the technology sector, with applications ranging from ride-hailing platforms to online marketplaces. Although practitioners have widely adopted this technique, the derivation of the optimal design has been elusive, hindering practitioners from drawing valid causal conclusions with enough statistical power. We address this limitation by deriving the optimal design of switchback experiments under a range of different assumptions on the order of the carryover effect?the length of time a treatment persists in impacting the outcome. We cast the optimal experimental design problem as a minimax discrete optimization problem, identify the worst-case adversarial strategy, establish structural results, and solve the reduced problem via a continuous relaxation. For switchback experiments conducted under the optimal design, we provide two approaches for performing inference. The first provides exact randomization-based p-values, and the second uses a new finite population central limit theorem to conduct conservative hypothesis tests and build confidence intervals. We further provide theoretical results when the order of the carryover effect is misspecified and provide a data-driven procedure to identify the order of the carryover effect. We conduct extensive simulations to study the numerical performance and empirical properties of our results and conclude with practical suggestions.This paper was accepted by George Shanthikumar, big data analytics.Funding: The authors thank the Massachusetts Institute of Technology (MIT)-IBM partnership in Artificial Intelligence and the MIT Data Science Laboratory for support.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4583.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4583
+UR  - https://doi.org/10.1287/mnsc.2022.4583
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Information Design for Congested Social Services: Optimal Need-Based Persuasion
+AU  - Anunrojwong, Jerry
+AU  - Iyer, Krishnamurthy
+AU  - Manshadi, Vahideh
+Y1  - 2022/10/14
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4548
+DO  - 10.1287/mnsc.2022.4548
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3778
+EP  - 3796
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We study the effectiveness of information design in reducing congestion in social services catering to users with varied levels of need. In the absence of price discrimination and centralized admission, the provider relies on sharing information about wait times to improve welfare. We consider a stylized model with heterogeneous users who differ in their private outside options: low-need users have an acceptable outside option to the social service, whereas high-need users have no viable outside option. Upon arrival, a user decides to wait for the service by joining an unobservable first-come-first-serve queue, or leave and seek her outside option. To reduce congestion and improve social outcomes, the service provider seeks to persuade more low-need users to avail their outside option, and thus better serve high-need users. We characterize the Pareto-efficient signaling mechanisms and compare their welfare outcomes against several benchmarks. We show that if either type is the overwhelming majority of the population, then information design does not provide improvement over sharing full information or no information. On the other hand, when the population is sufficiently heterogeneous, information design not only Pareto-dominates full-information and no-information mechanisms, in some regimes it also achieves the same welfare as the ?first-best,? that is, the Pareto-efficient centralized admission policy with knowledge of users? types.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: This work was supported by the National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation [Grants CMMI-2002155 and CMMI-2002156].Supplemental Material: The data and e-companion are available at https://doi.org/10.1287/mnsc.2022.4548.
+AB  - We study the effectiveness of information design in reducing congestion in social services catering to users with varied levels of need. In the absence of price discrimination and centralized admission, the provider relies on sharing information about wait times to improve welfare. We consider a stylized model with heterogeneous users who differ in their private outside options: low-need users have an acceptable outside option to the social service, whereas high-need users have no viable outside option. Upon arrival, a user decides to wait for the service by joining an unobservable first-come-first-serve queue, or leave and seek her outside option. To reduce congestion and improve social outcomes, the service provider seeks to persuade more low-need users to avail their outside option, and thus better serve high-need users. We characterize the Pareto-efficient signaling mechanisms and compare their welfare outcomes against several benchmarks. We show that if either type is the overwhelming majority of the population, then information design does not provide improvement over sharing full information or no information. On the other hand, when the population is sufficiently heterogeneous, information design not only Pareto-dominates full-information and no-information mechanisms, in some regimes it also achieves the same welfare as the ?first-best,? that is, the Pareto-efficient centralized admission policy with knowledge of users? types.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: This work was supported by the National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation [Grants CMMI-2002155 and CMMI-2002156].Supplemental Material: The data and e-companion are available at https://doi.org/10.1287/mnsc.2022.4548.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4548
+UR  - https://doi.org/10.1287/mnsc.2022.4548
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Online Learning via Offline Greedy Algorithms: Applications in Market Design and Optimization
+AU  - Niazadeh, Rad
+AU  - Golrezaei, Negin
+AU  - Wang, Joshua
+AU  - Susan, Fransisca
+AU  - Badanidiyuru, Ashwinkumar
+Y1  - 2022/10/27
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4558
+DO  - 10.1287/mnsc.2022.4558
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3797
+EP  - 3817
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Motivated by online decision making in time-varying combinatorial environments, we study the problem of transforming offline algorithms to their online counterparts. We focus on offline combinatorial problems that are amenable to a constant factor approximation using a greedy algorithm that is robust to local errors. For such problems, we provide a general framework that efficiently transforms offline robust greedy algorithms to online ones using Blackwell approachability. We show that the resulting online algorithms have O(T) (approximate) regret under the full information setting. We further introduce a bandit extension of Blackwell approachability that we call Bandit Blackwell approachability. We leverage this notion to transform greedy robust offline algorithms into a O(T2/3) (approximate) regret in the bandit setting. Demonstrating the flexibility of our framework, we apply our offline-to-online transformation to several problems at the intersection of revenue management, market design, and online optimization, including product ranking optimization in online platforms, reserve price optimization in auctions, and submodular maximization. We also extend our reduction to greedy-like first-order methods used in continuous optimization, such as those used for maximizing continuous strong DR monotone submodular functions subject to convex constraints. We show that our transformation, when applied to these applications, leads to new regret bounds or improves the current known bounds. We complement our theoretical studies by conducting numerical simulations for two of our applications, in both of which we observe that the numerical performance of our transformations outperforms the theoretical guarantees in practical instances.This paper was accepted by George Shanthikumar, data science.Funding: R. Niazadeh was supported by research funding from University of Chicago Booth School of Business. N. Golrezaei was supported in part by the Young Investigator Program Award from the Office of Naval Research [N00014-21-1-2776] and the MIT Research Support Award.Supplemental Material: The Online Appendix is available at https://doi.org/10.1287/mnsc.2022.4558
+AB  - Motivated by online decision making in time-varying combinatorial environments, we study the problem of transforming offline algorithms to their online counterparts. We focus on offline combinatorial problems that are amenable to a constant factor approximation using a greedy algorithm that is robust to local errors. For such problems, we provide a general framework that efficiently transforms offline robust greedy algorithms to online ones using Blackwell approachability. We show that the resulting online algorithms have O(T) (approximate) regret under the full information setting. We further introduce a bandit extension of Blackwell approachability that we call Bandit Blackwell approachability. We leverage this notion to transform greedy robust offline algorithms into a O(T2/3) (approximate) regret in the bandit setting. Demonstrating the flexibility of our framework, we apply our offline-to-online transformation to several problems at the intersection of revenue management, market design, and online optimization, including product ranking optimization in online platforms, reserve price optimization in auctions, and submodular maximization. We also extend our reduction to greedy-like first-order methods used in continuous optimization, such as those used for maximizing continuous strong DR monotone submodular functions subject to convex constraints. We show that our transformation, when applied to these applications, leads to new regret bounds or improves the current known bounds. We complement our theoretical studies by conducting numerical simulations for two of our applications, in both of which we observe that the numerical performance of our transformations outperforms the theoretical guarantees in practical instances.This paper was accepted by George Shanthikumar, data science.Funding: R. Niazadeh was supported by research funding from University of Chicago Booth School of Business. N. Golrezaei was supported in part by the Young Investigator Program Award from the Office of Naval Research [N00014-21-1-2776] and the MIT Research Support Award.Supplemental Material: The Online Appendix is available at https://doi.org/10.1287/mnsc.2022.4558
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4558
+UR  - https://doi.org/10.1287/mnsc.2022.4558
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Tick Size, Trading Strategies, and Market Quality
+AU  - Werner, Ingrid M.
+AU  - Rindi, Barbara
+AU  - Buti, Sabrina
+AU  - Wen, Yuanji
+Y1  - 2022/07/27
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4502
+DO  - 10.1287/mnsc.2022.4502
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3818
+EP  - 3837
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We investigate the effects of a tick-size reduction on market quality in a multiperiod limit order book market. For illiquid stocks, reducing the tick size facilitates undercutting and discourages liquidity provision, resulting in deteriorating market quality but higher volume. For liquid stocks, reducing the tick size curtails queues, resulting in lower depth and volume but narrower spread. With a competing crossing network, a tick-size reduction results in worse market quality for all stocks due to migration of order flows. We empirically test our model predictions and find support for recent tick-size reductions in Japan and the United States.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4502.
+AB  - We investigate the effects of a tick-size reduction on market quality in a multiperiod limit order book market. For illiquid stocks, reducing the tick size facilitates undercutting and discourages liquidity provision, resulting in deteriorating market quality but higher volume. For liquid stocks, reducing the tick size curtails queues, resulting in lower depth and volume but narrower spread. With a competing crossing network, a tick-size reduction results in worse market quality for all stocks due to migration of order flows. We empirically test our model predictions and find support for recent tick-size reductions in Japan and the United States.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4502.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4502
+UR  - https://doi.org/10.1287/mnsc.2022.4502
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Cold Start to Improve Market Thickness on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments
+AU  - Ye, Zikun
+AU  - Zhang, Dennis J.
+AU  - Zhang, Heng
+AU  - Zhang, Renyu
+AU  - Chen, Xin
+AU  - Xu, Zhiwei
+Y1  - 2022/10/17
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4550
+DO  - 10.1287/mnsc.2022.4550
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3838
+EP  - 3860
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Cold start describes a commonly recognized challenge for online advertising platforms: with limited data, the machine learning system cannot accurately estimate the click-through rates (CTR) of new ads and, in turn, cannot efficiently price these new ads or match them with platform users. Traditional cold start algorithms often focus on improving the learning rates of CTR for new ads to improve short-term revenue, but unsuccessful cold start can prompt advertisers to leave the platform, decreasing the thickness of the ad marketplace. To address these issues, we build a data-driven optimization model that captures the essential trade-off between short-term revenue and long-term market thickness on the platform. Based on duality theory and bandit algorithms, we develop the shadow bidding with learning (SBL) algorithms with a provable regret upper bound of O(T2/3K1/3(log?T)1/3d1/2), where K is the number of ads and d captures the error magnitude of the underlying machine learning oracle for predicting CTR. Our proposed algorithms can be implemented in a real online advertising system with minimal adjustments. To demonstrate this practicality, we have collaborated with a large-scale video-sharing platform, conducting a novel, two-sided randomized field experiment to examine the effectiveness of our SBL algorithm. Our results show that the algorithm increased the cold start success rate by 61.62% while compromising short-term revenue by only 0.717%. Our algorithm has also boosted the platform?s overall market thickness by 3.13% and its long-term advertising revenue by (at least) 5.35%. Our study bridges the gap between the theory of bandit algorithms and the practice of cold start in online advertising, highlighting the value of well-designed cold start algorithms for online advertising platforms.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4550.
+AB  - Cold start describes a commonly recognized challenge for online advertising platforms: with limited data, the machine learning system cannot accurately estimate the click-through rates (CTR) of new ads and, in turn, cannot efficiently price these new ads or match them with platform users. Traditional cold start algorithms often focus on improving the learning rates of CTR for new ads to improve short-term revenue, but unsuccessful cold start can prompt advertisers to leave the platform, decreasing the thickness of the ad marketplace. To address these issues, we build a data-driven optimization model that captures the essential trade-off between short-term revenue and long-term market thickness on the platform. Based on duality theory and bandit algorithms, we develop the shadow bidding with learning (SBL) algorithms with a provable regret upper bound of O(T2/3K1/3(log?T)1/3d1/2), where K is the number of ads and d captures the error magnitude of the underlying machine learning oracle for predicting CTR. Our proposed algorithms can be implemented in a real online advertising system with minimal adjustments. To demonstrate this practicality, we have collaborated with a large-scale video-sharing platform, conducting a novel, two-sided randomized field experiment to examine the effectiveness of our SBL algorithm. Our results show that the algorithm increased the cold start success rate by 61.62% while compromising short-term revenue by only 0.717%. Our algorithm has also boosted the platform?s overall market thickness by 3.13% and its long-term advertising revenue by (at least) 5.35%. Our study bridges the gap between the theory of bandit algorithms and the practice of cold start in online advertising, highlighting the value of well-designed cold start algorithms for online advertising platforms.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4550.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4550
+UR  - https://doi.org/10.1287/mnsc.2022.4550
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Volatility Puzzle: Long Memory or Antipersistency
+AU  - Shi, Shuping
+AU  - Yu, Jun
+Y1  - 2022/11/07
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4552
+DO  - 10.1287/mnsc.2022.4552
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3861
+EP  - 3883
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - The log realized volatility (RV) is often modeled as an autoregressive fractionally integrated moving average model ARFIMA(1,d,0). Two conflicting empirical results have been found in the literature. One stream shows that log RV has a long memory (i.e., the fractional parameter d > 0). The other stream suggests that the autoregressive coefficient α is near unity with antipersistent errors (i.e., d < 0). This paper explains how these conflicting empirical findings can coexist in the context of ARFIMA(1,d,0) model by examining the finite sample properties of popular estimation methods, including semiparametric methods and parametric maximum likelihood methods. The finite sample results suggest that it is challenging to distinguish Model?1 (ARFIMA(1,d,0) with α close to 0 and d close to 0.5) from Model?2 (ARFIMA(1,d,0) with α close to unity and d close to ?0.5). An intuitive explanation is given. For the 10 financial assets considered, despite that no definitive conclusions can be drawn regarding the data-generating process, we find that the frequency domain maximum likelihood (or Whittle) method can generate the most accurate out-of-sample forecasts.This paper was accepted by Lukas Schmid, finance.Funding: S. Shi acknowledges research support from the Australian Research Council [Project DE190100840]. J. Yu acknowledges financial support from the Ministry of Education?Singapore Tier 2 Academic Research Fund [Project MOE-T2EP402A20-0002] and the Lee Foundation.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4552.
+AB  - The log realized volatility (RV) is often modeled as an autoregressive fractionally integrated moving average model ARFIMA(1,d,0). Two conflicting empirical results have been found in the literature. One stream shows that log RV has a long memory (i.e., the fractional parameter d > 0). The other stream suggests that the autoregressive coefficient α is near unity with antipersistent errors (i.e., d < 0). This paper explains how these conflicting empirical findings can coexist in the context of ARFIMA(1,d,0) model by examining the finite sample properties of popular estimation methods, including semiparametric methods and parametric maximum likelihood methods. The finite sample results suggest that it is challenging to distinguish Model?1 (ARFIMA(1,d,0) with α close to 0 and d close to 0.5) from Model?2 (ARFIMA(1,d,0) with α close to unity and d close to ?0.5). An intuitive explanation is given. For the 10 financial assets considered, despite that no definitive conclusions can be drawn regarding the data-generating process, we find that the frequency domain maximum likelihood (or Whittle) method can generate the most accurate out-of-sample forecasts.This paper was accepted by Lukas Schmid, finance.Funding: S. Shi acknowledges research support from the Australian Research Council [Project DE190100840]. J. Yu acknowledges financial support from the Ministry of Education?Singapore Tier 2 Academic Research Fund [Project MOE-T2EP402A20-0002] and the Lee Foundation.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4552.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4552
+UR  - https://doi.org/10.1287/mnsc.2022.4552
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Free Riding and Workplace Democracy—Heterogeneous Task Preferences and Sorting
+AU  - Kamei, Kenju
+AU  - Markussen, Thomas
+Y1  - 2022/09/26
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4556
+DO  - 10.1287/mnsc.2022.4556
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3884
+EP  - 3904
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - A novel laboratory experiment is used to show that mismatching between task preferences and task assignment strongly undermines worker performance and leads to free riding in teams. Unlike prior experiments using real effort tasks, task preferences are elicited from all workers. Under team-based remuneration (revenue sharing), free riding is significant, but this effect is largely driven by those working on undesired tasks. Workers? endogenous sorting into tasks improves productivity as it mitigates task mismatching although workers? task selection per se has only small effects on work performance and effort provisions beyond the positive sorting effects.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by Independent Research Fund Denmark [Grant 4182-00163].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4556.
+AB  - A novel laboratory experiment is used to show that mismatching between task preferences and task assignment strongly undermines worker performance and leads to free riding in teams. Unlike prior experiments using real effort tasks, task preferences are elicited from all workers. Under team-based remuneration (revenue sharing), free riding is significant, but this effect is largely driven by those working on undesired tasks. Workers? endogenous sorting into tasks improves productivity as it mitigates task mismatching although workers? task selection per se has only small effects on work performance and effort provisions beyond the positive sorting effects.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by Independent Research Fund Denmark [Grant 4182-00163].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4556.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4556
+UR  - https://doi.org/10.1287/mnsc.2022.4556
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Social Preferences of Young Professionals and the Financial Industry
+AU  - Gill, Andrej
+AU  - Heinz, Matthias
+AU  - Schumacher, Heiner
+AU  - Sutter, Matthias
+Y1  - 2022/09/27
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4562
+DO  - 10.1287/mnsc.2022.4562
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3905
+EP  - 3919
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Trust is an important element of many financial transactions. Yet, the financial industry has been struggling with public mistrust. One explanation for this could be the selection of individuals who wish to work in and get job offers from the financial industry. In this paper, we examine the selection into the financial industry based on social preferences. We identify the social preferences of business and economics students, and, for more than six years, follow up on their early career choices and their job placement after graduation. Students eager to work in the financial industry behave in a substantially less trustworthy manner and show less willingness to cooperate than those with other career plans. The job market does not alleviate this selection. Those subjects who find their first permanent job in finance behave in significantly less trustworthy manner in a trust game than those working in other industries.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Financial support was provided from the Deutsche Forschungsgemeinschaft (German Research Foundation) under Germany?s Excellence Strategy [Grant EXC 2126/1?390838866], the University of Cologne [Hans Kelsen Prize], and the Center for Financial Studies.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4562.
+AB  - Trust is an important element of many financial transactions. Yet, the financial industry has been struggling with public mistrust. One explanation for this could be the selection of individuals who wish to work in and get job offers from the financial industry. In this paper, we examine the selection into the financial industry based on social preferences. We identify the social preferences of business and economics students, and, for more than six years, follow up on their early career choices and their job placement after graduation. Students eager to work in the financial industry behave in a substantially less trustworthy manner and show less willingness to cooperate than those with other career plans. The job market does not alleviate this selection. Those subjects who find their first permanent job in finance behave in significantly less trustworthy manner in a trust game than those working in other industries.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Financial support was provided from the Deutsche Forschungsgemeinschaft (German Research Foundation) under Germany?s Excellence Strategy [Grant EXC 2126/1?390838866], the University of Cologne [Hans Kelsen Prize], and the Center for Financial Studies.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4562.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4562
+UR  - https://doi.org/10.1287/mnsc.2022.4562
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Health Wearables, Gamification, and Healthful Activity
+AU  - Hydari, Muhammad Zia
+AU  - Adjerid, Idris
+AU  - Striegel, Aaron D.
+Y1  - 2022/12/19
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4581
+DO  - 10.1287/mnsc.2022.4581
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3920
+EP  - 3938
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Health wearables in combination with gamification enable interventions that have the potential to increase physical activity?a key determinant of health. However, the extant literature does not provide conclusive evidence on the benefits of gamification, and there are persistent concerns that competition-based gamification approaches will only benefit those who are highly active at the expense of those who are sedentary. We investigate the effect of Fitbit leaderboards on the number of steps taken by the user. Using a unique data set of Fitbit wearable users, some of whom participate in a leaderboard, we find that leaderboards lead to a 370 (3.5%) step increase in the users? daily physical activity. However, we find that the benefits of leaderboards are highly heterogeneous. Surprisingly, we find that those who were highly active prior to adoption are hurt by leaderboards and walk 630 fewer steps daily after adoption (a 5% relative decrease). In contrast, those who were sedentary prior to adoption benefited substantially from leaderboards and walked an additional 1,300 steps daily after adoption (a 15% relative increase). We find that these effects emerge because sedentary individuals benefit even when leaderboards are small and when they do not rank first on them. In contrast, highly active individuals are harmed by smaller leaderboards and only see benefit when they rank highly on large leaderboards. We posit that this unexpected divergence in effects could be due to the underappreciated potential of noncompetition dynamics (e.g., changes in expectations for exercise) to benefit sedentary users, but harm more active ones.This paper was accepted by Chris Forman, information systems.Funding: This work was supported by the National Institutes of Health [Grant 5R01HL117757].Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2022.4581.
+AB  - Health wearables in combination with gamification enable interventions that have the potential to increase physical activity?a key determinant of health. However, the extant literature does not provide conclusive evidence on the benefits of gamification, and there are persistent concerns that competition-based gamification approaches will only benefit those who are highly active at the expense of those who are sedentary. We investigate the effect of Fitbit leaderboards on the number of steps taken by the user. Using a unique data set of Fitbit wearable users, some of whom participate in a leaderboard, we find that leaderboards lead to a 370 (3.5%) step increase in the users? daily physical activity. However, we find that the benefits of leaderboards are highly heterogeneous. Surprisingly, we find that those who were highly active prior to adoption are hurt by leaderboards and walk 630 fewer steps daily after adoption (a 5% relative decrease). In contrast, those who were sedentary prior to adoption benefited substantially from leaderboards and walked an additional 1,300 steps daily after adoption (a 15% relative increase). We find that these effects emerge because sedentary individuals benefit even when leaderboards are small and when they do not rank first on them. In contrast, highly active individuals are harmed by smaller leaderboards and only see benefit when they rank highly on large leaderboards. We posit that this unexpected divergence in effects could be due to the underappreciated potential of noncompetition dynamics (e.g., changes in expectations for exercise) to benefit sedentary users, but harm more active ones.This paper was accepted by Chris Forman, information systems.Funding: This work was supported by the National Institutes of Health [Grant 5R01HL117757].Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2022.4581.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4581
+UR  - https://doi.org/10.1287/mnsc.2022.4581
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - So, Who Likes You? Evidence from a Randomized Field Experiment
+AU  - Bapna, Ravi
+AU  - McFowland, Edward
+AU  - Mojumder, Probal
+AU  - Ramaprasad, Jui
+AU  - Umyarov, Akhmed
+Y1  - 2022/11/02
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4576
+DO  - 10.1287/mnsc.2022.4576
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3939
+EP  - 3957
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - With one-third of marriages in the United States beginning online, online dating platforms have become important curators of the modern social fabric. Prior work on online dating has elicited two critical frictions in the heterosexual dating market. Women, governed by age-old social norms of not making the first move, are inhibited in their interactions in that they do not initiate contact with men. On the other side, men send an abundance of messages, the majority of which do not convert to matches. A key distinguishing feature of online dating versus its traditional counterpart is the ability to leave a range of digital signals not replicable in the offline world. These digital signals can impact the nature of online dating platform outcomes. In this paper, we study the impact of a feature that reveals ?who likes you? (WLY) on engagement, the number of matches, match efficiency, and match sorting in online dating. This feature reveals the identity of the voters who have rated the focal user with a like. To causally identify the effect of this feature, we conduct a large-scale randomized control trial in collaboration with a major North American dating platform. The treatment causes women to be more proactive, sending 7.4% more messages, which is a highly desirable market improvement given that men send double the number of messages compared with women. Further, we find that the women endowed with this feature increase their matches by 14.4%, whereas men increase their matches by 11.5%. Analyzing the moderating impact of desirability?a key aspect of the WLY feature?provides us with nuanced findings. Depending on the levels of each of the two parties? desirability, we see evidence of sorting, encouragement, and discouragement.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: The Online Appendix is available at https://doi.org/10.1287/mnsc.2022.4576.
+AB  - With one-third of marriages in the United States beginning online, online dating platforms have become important curators of the modern social fabric. Prior work on online dating has elicited two critical frictions in the heterosexual dating market. Women, governed by age-old social norms of not making the first move, are inhibited in their interactions in that they do not initiate contact with men. On the other side, men send an abundance of messages, the majority of which do not convert to matches. A key distinguishing feature of online dating versus its traditional counterpart is the ability to leave a range of digital signals not replicable in the offline world. These digital signals can impact the nature of online dating platform outcomes. In this paper, we study the impact of a feature that reveals ?who likes you? (WLY) on engagement, the number of matches, match efficiency, and match sorting in online dating. This feature reveals the identity of the voters who have rated the focal user with a like. To causally identify the effect of this feature, we conduct a large-scale randomized control trial in collaboration with a major North American dating platform. The treatment causes women to be more proactive, sending 7.4% more messages, which is a highly desirable market improvement given that men send double the number of messages compared with women. Further, we find that the women endowed with this feature increase their matches by 14.4%, whereas men increase their matches by 11.5%. Analyzing the moderating impact of desirability?a key aspect of the WLY feature?provides us with nuanced findings. Depending on the levels of each of the two parties? desirability, we see evidence of sorting, encouragement, and discouragement.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: The Online Appendix is available at https://doi.org/10.1287/mnsc.2022.4576.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4576
+UR  - https://doi.org/10.1287/mnsc.2022.4576
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Marketplace Scalability and Strategic Use of Platform Investment
+AU  - Li, Jin
+AU  - Pisano, Gary
+AU  - Xu, Yejia
+AU  - Zhu, Feng
+Y1  - 2022/12/09
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4522
+DO  - 10.1287/mnsc.2022.4522
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3958
+EP  - 3975
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - The scalability of a marketplace depends on the operations of the marketplace platform and its sellers? capacities. In this study, we explore one strategy that a marketplace platform can use to enhance its scalability: providing an ancillary service to sellers. In our model, a platform can choose whether and when to provide this service to sellers and, if so, what prices to charge and which types of sellers to serve. Although such a service helps small sellers, we highlight that the provision of such a service can diminish the incentives of large sellers to make their own investment, thereby reducing their potential output. When the output reduction by large sellers is substantial, the platform may not want to provide the ancillary service, and, even if it does, it may choose to set a price higher than its marginal cost to motivate large sellers to scale. The platform may also choose to strategically delay the provision of the service.This paper was accepted by Hemant Bhargava, information systems.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4522.
+AB  - The scalability of a marketplace depends on the operations of the marketplace platform and its sellers? capacities. In this study, we explore one strategy that a marketplace platform can use to enhance its scalability: providing an ancillary service to sellers. In our model, a platform can choose whether and when to provide this service to sellers and, if so, what prices to charge and which types of sellers to serve. Although such a service helps small sellers, we highlight that the provision of such a service can diminish the incentives of large sellers to make their own investment, thereby reducing their potential output. When the output reduction by large sellers is substantial, the platform may not want to provide the ancillary service, and, even if it does, it may choose to set a price higher than its marginal cost to motivate large sellers to scale. The platform may also choose to strategically delay the provision of the service.This paper was accepted by Hemant Bhargava, information systems.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4522.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4522
+UR  - https://doi.org/10.1287/mnsc.2022.4522
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Cost-Restricted Feature Selection for Data Acquisition
+AU  - Liu, Xiaoping
+AU  - Li, Xiao-Bai
+AU  - Sarkar, Sumit
+Y1  - 2022/09/29
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4551
+DO  - 10.1287/mnsc.2022.4551
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3976
+EP  - 3992
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - When acquiring consumer data for marketing or new business initiatives, it is important to decide what attributes or features of potential customers should be acquired. We study a new feature selection problem in the context of customer data acquisition in which different features have different acquisition costs. This feature selection problem is studied for linear regression and logistic regression. We formulate the feature selection and acquisition problems as nonlinear discrete optimization problems that minimize prediction errors subject to a budget constraint. We derive the analytical properties of the solutions for the problems, develop a computational procedure for solving the problems, provide an intuitive interpretation for the feature selection criteria, and discuss managerial implications of the solution approach. The results of the experimental study demonstrate the effectiveness of our approach.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4551.
+AB  - When acquiring consumer data for marketing or new business initiatives, it is important to decide what attributes or features of potential customers should be acquired. We study a new feature selection problem in the context of customer data acquisition in which different features have different acquisition costs. This feature selection problem is studied for linear regression and logistic regression. We formulate the feature selection and acquisition problems as nonlinear discrete optimization problems that minimize prediction errors subject to a budget constraint. We derive the analytical properties of the solutions for the problems, develop a computational procedure for solving the problems, provide an intuitive interpretation for the feature selection criteria, and discuss managerial implications of the solution approach. The results of the experimental study demonstrate the effectiveness of our approach.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4551.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4551
+UR  - https://doi.org/10.1287/mnsc.2022.4551
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Analytical Solution to a Partially Observable Machine Maintenance Problem with Obvious Failures
+AU  - Zhang, Hao
+AU  - Zhang, Weihua
+Y1  - 2022/09/29
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4547
+DO  - 10.1287/mnsc.2022.4547
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3993
+EP  - 4015
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We study the maintenance of a machine that deteriorates according to a Markov process until it fails. When failure occurs (which is observable), corrective replacement is made. Otherwise, the machine can be in one of two unobservable working states, and the decision maker can choose production, inspection, or preventive replacement. The state is revealed upon inspection and is reset by corrective or preventive replacement. The objective is to minimize the expected total discounted cost over an infinite horizon. We derive an exact, analytical solution to this problem via a dual framework for partially observable Markov decision processes. The solution can be easily computed without value iteration. We identify six possible structures of the optimal solution, which are represented as graphs. Each graph contains an absorbing, cyclic subgraph that governs the steady-state behavior of the machine. The exact analytical solution facilitates comparative statics analysis, comprehensive numerical studies, and the generation of insights.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2014-04979].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4547.
+AB  - We study the maintenance of a machine that deteriorates according to a Markov process until it fails. When failure occurs (which is observable), corrective replacement is made. Otherwise, the machine can be in one of two unobservable working states, and the decision maker can choose production, inspection, or preventive replacement. The state is revealed upon inspection and is reset by corrective or preventive replacement. The objective is to minimize the expected total discounted cost over an infinite horizon. We derive an exact, analytical solution to this problem via a dual framework for partially observable Markov decision processes. The solution can be easily computed without value iteration. We identify six possible structures of the optimal solution, which are represented as graphs. Each graph contains an absorbing, cyclic subgraph that governs the steady-state behavior of the machine. The exact analytical solution facilitates comparative statics analysis, comprehensive numerical studies, and the generation of insights.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2014-04979].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4547.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4547
+UR  - https://doi.org/10.1287/mnsc.2022.4547
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Fluid Approximations for Revenue Management Under High-Variance Demand
+AU  - Bai, Yicheng
+AU  - El Housni, Omar
+AU  - Jin, Billy
+AU  - Rusmevichientong, Paat
+AU  - Topaloglu, Huseyin
+AU  - Williamson, David P.
+Y1  - 2023/05/09
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2023.4769
+DO  - 10.1287/mnsc.2023.4769
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4016
+EP  - 4026
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - One of the most prevalent demand models in the revenue management literature is based on dividing the selling horizon into a number of time periods such that there is at most one customer arrival at each time period. This demand model is equivalent to using a discrete-time approximation to a Poisson process, but it has an important shortcoming. If the mean number of customer arrivals is large, then the coefficient of variation of the number of customer arrivals has to be small. In other words, large demand volume and large demand variability cannot coexist in this demand model. In this paper, we start with a revenue management model that incorporates general mean and variance for the number of customer arrivals. This revenue management model has a random selling horizon length, capturing the distribution of the number of customer arrivals. The question we seek to answer is the form of the fluid approximation that corresponds to this revenue management model. It is tempting to construct the fluid approximation by computing the expected consumption of the resource capacities in the constraints and the total expected revenue in the objective function through the distribution of the number of customer arrivals. We demonstrate that this answer is wrong in the sense that it yields a fluid approximation that is not asymptotically tight as the resource capacities get large. We give an alternative fluid approximation where perhaps surprisingly, the distribution of the number of customer arrivals does not play any role in the constraints. We show that this fluid approximation is asymptotically tight as the resource capacities get large. A numerical study also demonstrates that the policies driven by the latter fluid approximation perform substantially better, so there is practical value in getting the fluid approximation right under high-variance demand.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: The work of the O. El Housni and H. Topaloglu was supported by a seed grant from Urban Tech research hub at Cornell Tech.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4769.
+AB  - One of the most prevalent demand models in the revenue management literature is based on dividing the selling horizon into a number of time periods such that there is at most one customer arrival at each time period. This demand model is equivalent to using a discrete-time approximation to a Poisson process, but it has an important shortcoming. If the mean number of customer arrivals is large, then the coefficient of variation of the number of customer arrivals has to be small. In other words, large demand volume and large demand variability cannot coexist in this demand model. In this paper, we start with a revenue management model that incorporates general mean and variance for the number of customer arrivals. This revenue management model has a random selling horizon length, capturing the distribution of the number of customer arrivals. The question we seek to answer is the form of the fluid approximation that corresponds to this revenue management model. It is tempting to construct the fluid approximation by computing the expected consumption of the resource capacities in the constraints and the total expected revenue in the objective function through the distribution of the number of customer arrivals. We demonstrate that this answer is wrong in the sense that it yields a fluid approximation that is not asymptotically tight as the resource capacities get large. We give an alternative fluid approximation where perhaps surprisingly, the distribution of the number of customer arrivals does not play any role in the constraints. We show that this fluid approximation is asymptotically tight as the resource capacities get large. A numerical study also demonstrates that the policies driven by the latter fluid approximation perform substantially better, so there is practical value in getting the fluid approximation right under high-variance demand.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: The work of the O. El Housni and H. Topaloglu was supported by a seed grant from Urban Tech research hub at Cornell Tech.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4769.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4769
+UR  - https://doi.org/10.1287/mnsc.2023.4769
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Best of Both Worlds Ad Contracts: Guaranteed Allocation and Price with Programmatic Efficiency
+AU  - Cohen, Maxime C.
+AU  - Désir, Antoine
+AU  - Korula, Nitish
+AU  - Sivan, Balasubramanian
+Y1  - 2022/09/19
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4542
+DO  - 10.1287/mnsc.2022.4542
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4027
+EP  - 4050
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Buying display ad impressions via real-time auctions comes with significant allocation and price uncertainties. We design and analyze a contract that mitigates this uncertainty risk by providing guaranteed allocation and prices while maintaining the efficiency of buying in an auction. We study how risk aversion affects the desire for guarantees and how to price a guaranteed allocation. We propose to augment the traditional auction with a programmatic purchase option (which we call a Market-Maker contract) that removes allocation and price uncertainties. Instead of participating in the auction, advertisers can secure impressions in advance at a fixed premium price offered by the Market-Maker. It is then the responsibility of the Market-Maker to procure these impressions by bidding in the auction. We model buyers as risk-averse agents and analyze the equilibrium outcome when buyers face two purchase options (auction and Market-Maker contract). We derive analytical expressions for the Market-Maker price that reveal insightful relationships with uncertainties in the auction price and buyers? risk levels. We also show the existence of a Market-Maker price that simultaneously improves the seller?s revenue and the sum of buyers? utilities. As a building block to our analysis, we establish the truthfulness of the multiunit auction when buyers have nonquasilinear utilities because of risk aversion. Recently, the Google?s Display & Video 360 platform started offering a product akin to Market-Maker called ?Guaranteed Packages,? which was inspired by this paper.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: The authors thank Google Research for its generous support.
+AB  - Buying display ad impressions via real-time auctions comes with significant allocation and price uncertainties. We design and analyze a contract that mitigates this uncertainty risk by providing guaranteed allocation and prices while maintaining the efficiency of buying in an auction. We study how risk aversion affects the desire for guarantees and how to price a guaranteed allocation. We propose to augment the traditional auction with a programmatic purchase option (which we call a Market-Maker contract) that removes allocation and price uncertainties. Instead of participating in the auction, advertisers can secure impressions in advance at a fixed premium price offered by the Market-Maker. It is then the responsibility of the Market-Maker to procure these impressions by bidding in the auction. We model buyers as risk-averse agents and analyze the equilibrium outcome when buyers face two purchase options (auction and Market-Maker contract). We derive analytical expressions for the Market-Maker price that reveal insightful relationships with uncertainties in the auction price and buyers? risk levels. We also show the existence of a Market-Maker price that simultaneously improves the seller?s revenue and the sum of buyers? utilities. As a building block to our analysis, we establish the truthfulness of the multiunit auction when buyers have nonquasilinear utilities because of risk aversion. Recently, the Google?s Display & Video 360 platform started offering a product akin to Market-Maker called ?Guaranteed Packages,? which was inspired by this paper.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: The authors thank Google Research for its generous support.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4542
+UR  - https://doi.org/10.1287/mnsc.2022.4542
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Government Reference Bonds on Corporate Borrowing Costs: Evidence from a Natural Experiment
+AU  - Flannery, Mark J.
+AU  - Hong, Claire Yurong
+AU  - Wang, Baolian
+Y1  - 2022/08/11
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4499
+DO  - 10.1287/mnsc.2022.4499
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4051
+EP  - 4077
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Government bonds might provide reference entities that reduce corporate bond yields. We study China?s 2017 issuance of two U.S. dollar (USD)-denominated sovereign bonds when there were (effectively) no outstanding USD sovereigns. We find that Chinese corporate USD bonds experienced a four- to nine-basis-point decline in yield spreads, whereas corporate renminbi (RMB) bonds did not. The effect was stronger for corporate bonds with maturities similar to those of the USD sovereigns. Further consistent with the reference effect, USD-denominated corporate bonds experienced declines in bid-ask spreads and volatility; corporate bond yield spread changes became more sensitive to sovereign yield innovations; and the less-informed foreign mutual funds significantly increased their holdings of offshore USD Chinese corporate bonds. Limited evidence indicates that new corporate bond maturities shifted toward the sovereign bonds? maturity after their issuance.This paper was accepted by Lukas Schmid, finance.Funding: B. Wang received financial support from Hong Kong Institute for Monetary Research. C. Y. Hong received financial support from the National Natural Science Foundation of China [Grant 72003125].Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2022.4499.
+AB  - Government bonds might provide reference entities that reduce corporate bond yields. We study China?s 2017 issuance of two U.S. dollar (USD)-denominated sovereign bonds when there were (effectively) no outstanding USD sovereigns. We find that Chinese corporate USD bonds experienced a four- to nine-basis-point decline in yield spreads, whereas corporate renminbi (RMB) bonds did not. The effect was stronger for corporate bonds with maturities similar to those of the USD sovereigns. Further consistent with the reference effect, USD-denominated corporate bonds experienced declines in bid-ask spreads and volatility; corporate bond yield spread changes became more sensitive to sovereign yield innovations; and the less-informed foreign mutual funds significantly increased their holdings of offshore USD Chinese corporate bonds. Limited evidence indicates that new corporate bond maturities shifted toward the sovereign bonds? maturity after their issuance.This paper was accepted by Lukas Schmid, finance.Funding: B. Wang received financial support from Hong Kong Institute for Monetary Research. C. Y. Hong received financial support from the National Natural Science Foundation of China [Grant 72003125].Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2022.4499.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4499
+UR  - https://doi.org/10.1287/mnsc.2022.4499
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Accelerability vs. Scalability: R&D Investment Under Financial Constraints and Competition
+AU  - Lin, Danmo
+Y1  - 2022/10/07
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4503
+DO  - 10.1287/mnsc.2022.4503
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4078
+EP  - 4107
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - I develop a continuous-time model to examine how the interaction between competition and financial constraints affects firms? research and development (R&D) strategies. The model integrates two key characteristics of R&D investment: accelerability (i.e., higher R&D intensity leads to faster discovery) and scalability (i.e., higher R&D intensity leads to higher project payoff). I find that firms react strategically to their rivals? financial constraints when making investment decisions in a duopoly R&D race. In particular, firms respond positively to the R&D intensity of an unconstrained rival, while they respond in a hump-shaped fashion to the R&D intensity of a constrained rival. As a result, a constrained firm can pre-empt an unconstrained competitor in market equilibrium. Accelerability is necessary for such pre-emption to occur, and scalability generally reduces its likelihood. Comparison with a monopoly benchmark shows that the economic mechanism differs from over-investment induced by financial constraints alone. The model also generates new implications regarding how project characteristics and cash flow risks impact R&D decisions.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4503.
+AB  - I develop a continuous-time model to examine how the interaction between competition and financial constraints affects firms? research and development (R&D) strategies. The model integrates two key characteristics of R&D investment: accelerability (i.e., higher R&D intensity leads to faster discovery) and scalability (i.e., higher R&D intensity leads to higher project payoff). I find that firms react strategically to their rivals? financial constraints when making investment decisions in a duopoly R&D race. In particular, firms respond positively to the R&D intensity of an unconstrained rival, while they respond in a hump-shaped fashion to the R&D intensity of a constrained rival. As a result, a constrained firm can pre-empt an unconstrained competitor in market equilibrium. Accelerability is necessary for such pre-emption to occur, and scalability generally reduces its likelihood. Comparison with a monopoly benchmark shows that the economic mechanism differs from over-investment induced by financial constraints alone. The model also generates new implications regarding how project characteristics and cash flow risks impact R&D decisions.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4503.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4503
+UR  - https://doi.org/10.1287/mnsc.2022.4503
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Analysts’ Connections and M&A Outcomes
+AU  - Cortes, Felipe
+AU  - Marcet, Francisco
+Y1  - 2022/09/15
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4468
+DO  - 10.1287/mnsc.2022.4468
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4108
+EP  - 4133
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - This paper studies the role of shared analysts, who cover the target and the acquirer, in mergers and acquisitions outcomes. We find that deals where both firms are connected through shared analysts are less likely to be completed than deals without shared analysts. If completed, however, deals with shared analysts exhibit higher expected synergy gains, acquirer announcement returns, and acquirer post-completion performance. Shared analysts are also more likely to issue estimates about the acquirer in the proximity of the impending deal and their estimates are associated with a decrease in the uncertainty about acquirer?s cash flows. Our results highlight how the position of analysts in a deal results in an informational edge that enhances the screening of deals and mitigation of the acquirer?s informational disadvantage. Shared analysts who enhance the acquirer?s ability to screen out deals also exhibit superior career outcomes post-completion. We find similar results in the pre- and post-Regulation Fair Disclosure period, using brokerage house closures as a quasi-natural experiment and after controlling for analysts? affiliations.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4468.
+AB  - This paper studies the role of shared analysts, who cover the target and the acquirer, in mergers and acquisitions outcomes. We find that deals where both firms are connected through shared analysts are less likely to be completed than deals without shared analysts. If completed, however, deals with shared analysts exhibit higher expected synergy gains, acquirer announcement returns, and acquirer post-completion performance. Shared analysts are also more likely to issue estimates about the acquirer in the proximity of the impending deal and their estimates are associated with a decrease in the uncertainty about acquirer?s cash flows. Our results highlight how the position of analysts in a deal results in an informational edge that enhances the screening of deals and mitigation of the acquirer?s informational disadvantage. Shared analysts who enhance the acquirer?s ability to screen out deals also exhibit superior career outcomes post-completion. We find similar results in the pre- and post-Regulation Fair Disclosure period, using brokerage house closures as a quasi-natural experiment and after controlling for analysts? affiliations.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4468.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4468
+UR  - https://doi.org/10.1287/mnsc.2022.4468
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Does Terrorism Affect Acquisitions?
+AU  - Nguyen, Tung
+AU  - Petmezas, Dimitris
+AU  - Karampatsas, Nikolaos
+Y1  - 2022/08/08
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4506
+DO  - 10.1287/mnsc.2022.4506
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4134
+EP  - 4168
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Using terrorist attacks as an exogenous shock to uncertainty, we provide evidence that firms located near terrorism-stricken areas are less likely takeover targets for two years after the attack and receive lower acquisition premiums. The latter finding is reflected in lower target firm abnormal returns and synergy gains. Additionally, in terrorism-stricken areas, target firms are associated with a lower share of synergies, withdrawn deals rise, and acquirers are more likely to get involved in acquisitions of target firms located in different metropolitan statistical areas than their own or acquire faraway target firms. We attribute our results to the real options theory, which predicts that high uncertainty increases the value of the option to delay investments. Additionally, we show that the impact on target firm human capital and acquirer CEO uncertainty and fear are potential sources of terrorism-induced uncertainty with the former source prevailing over the latter.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4506.
+AB  - Using terrorist attacks as an exogenous shock to uncertainty, we provide evidence that firms located near terrorism-stricken areas are less likely takeover targets for two years after the attack and receive lower acquisition premiums. The latter finding is reflected in lower target firm abnormal returns and synergy gains. Additionally, in terrorism-stricken areas, target firms are associated with a lower share of synergies, withdrawn deals rise, and acquirers are more likely to get involved in acquisitions of target firms located in different metropolitan statistical areas than their own or acquire faraway target firms. We attribute our results to the real options theory, which predicts that high uncertainty increases the value of the option to delay investments. Additionally, we show that the impact on target firm human capital and acquirer CEO uncertainty and fear are potential sources of terrorism-induced uncertainty with the former source prevailing over the latter.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4506.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4506
+UR  - https://doi.org/10.1287/mnsc.2022.4506
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Thy Neighbor’s Vote: Peer Effects in Proxy Voting
+AU  - Huang, Jiekun
+Y1  - 2022/09/06
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4517
+DO  - 10.1287/mnsc.2022.4517
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4169
+EP  - 4189
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Institutional investors? proxy voting decisions are influenced by their neighbors. I identify peer effects in proxy voting using close-call votes on shareholder-sponsored governance proposals at publicly traded financial institutions (focal institutions). I first show that the passage of a governance proposal at a focal institution makes the institution more likely to vote against management at its portfolio firms. Using a triple-difference approach, I find that the neighboring institutions of the focal institution that passes a governance proposal become more likely to vote against management in stocks that are heavily held by the focal institution. These results suggest that peer influence is an important determinant of proxy voting behavior.This paper was accepted by David Sraer, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4517.
+AB  - Institutional investors? proxy voting decisions are influenced by their neighbors. I identify peer effects in proxy voting using close-call votes on shareholder-sponsored governance proposals at publicly traded financial institutions (focal institutions). I first show that the passage of a governance proposal at a focal institution makes the institution more likely to vote against management at its portfolio firms. Using a triple-difference approach, I find that the neighboring institutions of the focal institution that passes a governance proposal become more likely to vote against management in stocks that are heavily held by the focal institution. These results suggest that peer influence is an important determinant of proxy voting behavior.This paper was accepted by David Sraer, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4517.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4517
+UR  - https://doi.org/10.1287/mnsc.2022.4517
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Belief Dispersion and Convex Cost of Adjustment in the Stock Market and in the Real Economy
+AU  - Jouini, Elyès
+Y1  - 2022/09/01
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4495
+DO  - 10.1287/mnsc.2022.4495
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4190
+EP  - 4209
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - I develop a continuous-time general equilibrium model with a continuum of states of the world and a continuum of agents endowed with heterogeneous beliefs. The model permits to analyze the interactions between financial markets and production. There is a single firm that faces convex adjustment costs and maximizes its terminal value. Equivalently, the firm uses decreasing returns to scale risk-return technology. The model is tractable and matches many of the empirical regularities in aggregate output and stock prices, such as a financial volatility that is higher than the macroeconomic volatility, skewness, kurtosis, short-term momentum, and volatility risk premium during recessions. All these aspects disappear when one assumes beliefs homogeneity or constant returns to scale. In particular, the impact of beliefs heterogeneity observed in endowment economies does not pertain when introducing production unless one assumes decreasing returns to scale in the risk-return technology.This paper was accepted by David Sraer, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4495.
+AB  - I develop a continuous-time general equilibrium model with a continuum of states of the world and a continuum of agents endowed with heterogeneous beliefs. The model permits to analyze the interactions between financial markets and production. There is a single firm that faces convex adjustment costs and maximizes its terminal value. Equivalently, the firm uses decreasing returns to scale risk-return technology. The model is tractable and matches many of the empirical regularities in aggregate output and stock prices, such as a financial volatility that is higher than the macroeconomic volatility, skewness, kurtosis, short-term momentum, and volatility risk premium during recessions. All these aspects disappear when one assumes beliefs homogeneity or constant returns to scale. In particular, the impact of beliefs heterogeneity observed in endowment economies does not pertain when introducing production unless one assumes decreasing returns to scale in the risk-return technology.This paper was accepted by David Sraer, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4495.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4495
+UR  - https://doi.org/10.1287/mnsc.2022.4495
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Bright Side of Inequity Aversion
+AU  - Li, Xi
+AU  - Li, Xinlong
+Y1  - 2022/09/14
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4546
+DO  - 10.1287/mnsc.2022.4546
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4210
+EP  - 4227
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Modern consumers are concerned about not only their material payoff, but also the fairness of the transaction when making purchasing decisions. In this paper, we investigate how consumers? inequity aversion affects a manufacturer who sources inputs from upstream suppliers. We find that, when the manufacturer sources from a single supplier or when consumers observe the manufacturer?s cost, inequity aversion hurts both the supplier?s and manufacturer?s profits. However, when the manufacturer sources from multiple suppliers and consumers do not observe the manufacturer?s cost, inequity aversion reduces both the suppliers? and manufacturer?s margins, which significantly alleviates the double marginalization problem, increases consumer demand, and improves channel efficiency. As a result, inequity aversion benefits the suppliers, manufacturer, and consumers alike, leading to a ?win?win?win? outcome. By comparing cases in which consumers observe and do not observe the manufacturer?s cost, we also find that, when faced with inequity-averse consumers, a manufacturer may find it optimal to withhold its cost information to help secure lower procurement costs from upstream suppliers.This paper was accepted by Dmitri Kuksov, marketing.Funding: This work was supported by the Hong Kong Research Grants Council [Grant 21500920].
+AB  - Modern consumers are concerned about not only their material payoff, but also the fairness of the transaction when making purchasing decisions. In this paper, we investigate how consumers? inequity aversion affects a manufacturer who sources inputs from upstream suppliers. We find that, when the manufacturer sources from a single supplier or when consumers observe the manufacturer?s cost, inequity aversion hurts both the supplier?s and manufacturer?s profits. However, when the manufacturer sources from multiple suppliers and consumers do not observe the manufacturer?s cost, inequity aversion reduces both the suppliers? and manufacturer?s margins, which significantly alleviates the double marginalization problem, increases consumer demand, and improves channel efficiency. As a result, inequity aversion benefits the suppliers, manufacturer, and consumers alike, leading to a ?win?win?win? outcome. By comparing cases in which consumers observe and do not observe the manufacturer?s cost, we also find that, when faced with inequity-averse consumers, a manufacturer may find it optimal to withhold its cost information to help secure lower procurement costs from upstream suppliers.This paper was accepted by Dmitri Kuksov, marketing.Funding: This work was supported by the Hong Kong Research Grants Council [Grant 21500920].
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4546
+UR  - https://doi.org/10.1287/mnsc.2022.4546
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Going the Extra Mile: What Taxi Rides Tell Us About the Long-Hour Culture in Finance
+AU  - Okat, Deniz
+AU  - Vasudevan, Ellapulli V.
+Y1  - 2023/05/03
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2023.4774
+DO  - 10.1287/mnsc.2023.4774
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4228
+EP  - 4239
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We analyze banks? ?protected-weekend? policies that restrict junior bankers from working during weekends. We use taxi rides from bank addresses in New York City to infer bankers? working hours. We find the policies induced bankers to shift their work to late-night hours on weekdays. We then investigate whether such shifts in working hours affected the quality of work. After the policy, analysts of the policy-implementing banks make more errors in their earnings forecasts. They also herd more toward the consensus in their forecasts. We further provide evidence that junior bankers are the most adversely affected by the policy.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4774.
+AB  - We analyze banks? ?protected-weekend? policies that restrict junior bankers from working during weekends. We use taxi rides from bank addresses in New York City to infer bankers? working hours. We find the policies induced bankers to shift their work to late-night hours on weekdays. We then investigate whether such shifts in working hours affected the quality of work. After the policy, analysts of the policy-implementing banks make more errors in their earnings forecasts. They also herd more toward the consensus in their forecasts. We further provide evidence that junior bankers are the most adversely affected by the policy.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4774.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4774
+UR  - https://doi.org/10.1287/mnsc.2023.4774
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Sorting Effects of Broad-Based Equity Compensation
+AU  - Tsui, David
+AU  - Vance, Marshall
+Y1  - 2022/08/31
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4524
+DO  - 10.1287/mnsc.2022.4524
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4240
+EP  - 4258
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We examine the sorting role of broad-based equity pay using detailed employee-level data. We propose trust in management as an important characteristic over which equity pay sorts employees, as such pay typically leaves employees with concentrated positions in employer stock and therefore more exposed to the outcomes of management?s actions. Consistent with this conjecture, we find that the relation between employees? perceptions of management?s credibility and voluntary turnover intentions is significantly stronger in the presence of a broad-based equity plan. Our findings provide insight into how broad-based equity pay can improve firm performance despite theoretical challenges regarding its incentive effects.This paper was accepted by Suraj Srinivasan, accounting.Funding: M. Vance acknowledges financial support from fellowships received through the Institute for the Study of Employee Ownership and Profit Sharing at Rutgers University.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4524.
+AB  - We examine the sorting role of broad-based equity pay using detailed employee-level data. We propose trust in management as an important characteristic over which equity pay sorts employees, as such pay typically leaves employees with concentrated positions in employer stock and therefore more exposed to the outcomes of management?s actions. Consistent with this conjecture, we find that the relation between employees? perceptions of management?s credibility and voluntary turnover intentions is significantly stronger in the presence of a broad-based equity plan. Our findings provide insight into how broad-based equity pay can improve firm performance despite theoretical challenges regarding its incentive effects.This paper was accepted by Suraj Srinivasan, accounting.Funding: M. Vance acknowledges financial support from fellowships received through the Institute for the Study of Employee Ownership and Profit Sharing at Rutgers University.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4524.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4524
+UR  - https://doi.org/10.1287/mnsc.2022.4524
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Preparer Opposition and Strategic Implementation of Governmental Accounting Standards: Evidence from Public Pension Accounting Reform
+AU  - Allen, Abigail
+AU  - Petacchi, Reining C.
+Y1  - 2022/08/25
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4515
+DO  - 10.1287/mnsc.2022.4515
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4259
+EP  - 4282
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Widely acknowledged as one of the most controversial standards in governmental accounting, Governmental Accounting Standards Board (GASB) Statements 67/68 radically altered both the recognition and measurement for defined benefit public pensions. The standards require the recognition of previously only disclosed unfunded pension liabilities and increase the magnitude of reported pension liabilities by requiring the partial incorporation of a market-based discount rate. Although the recognition proposal was unaltered from its initial conception to the final standards, the discount rate proposal was significantly attenuated after the initial proposal met with unanimous preparer opposition. Accordingly, we examine what incentives drive preparer lobbying positions, whether such lobbying is aligned with user interests, and how such lobbying affects ex post implementation of the final standard. Our results suggest a misalignment between preparer lobbying and a user interest perspective. In particular, although state opposition for liability-increasing proposals is positively associated with expected financial statement impact, economic constraints, and political ramifications, user lobbying exhibits the opposite relationship, suggesting that users demand greater transparency in the states most likely to eschew it. We further find that state governments consistently opposed to the market-based discount rate are more likely to maintain status quo higher discount rates that lower reported liabilities after the implementation of GASB 67/68. Examining the mechanism, we find that opposing states avoid the market-rate trigger by increasing required contributions from employees rather than by increasing government funding or implementing benefit cuts. The evidence taken together contributes to our understanding of the development and implementation of the landmark GASB 67/68 standards.This paper was accepted by Brian Bushee, accounting.Funding: The authors acknowledge financial support from Brigham Young University and Georgetown University.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4515.
+AB  - Widely acknowledged as one of the most controversial standards in governmental accounting, Governmental Accounting Standards Board (GASB) Statements 67/68 radically altered both the recognition and measurement for defined benefit public pensions. The standards require the recognition of previously only disclosed unfunded pension liabilities and increase the magnitude of reported pension liabilities by requiring the partial incorporation of a market-based discount rate. Although the recognition proposal was unaltered from its initial conception to the final standards, the discount rate proposal was significantly attenuated after the initial proposal met with unanimous preparer opposition. Accordingly, we examine what incentives drive preparer lobbying positions, whether such lobbying is aligned with user interests, and how such lobbying affects ex post implementation of the final standard. Our results suggest a misalignment between preparer lobbying and a user interest perspective. In particular, although state opposition for liability-increasing proposals is positively associated with expected financial statement impact, economic constraints, and political ramifications, user lobbying exhibits the opposite relationship, suggesting that users demand greater transparency in the states most likely to eschew it. We further find that state governments consistently opposed to the market-based discount rate are more likely to maintain status quo higher discount rates that lower reported liabilities after the implementation of GASB 67/68. Examining the mechanism, we find that opposing states avoid the market-rate trigger by increasing required contributions from employees rather than by increasing government funding or implementing benefit cuts. The evidence taken together contributes to our understanding of the development and implementation of the landmark GASB 67/68 standards.This paper was accepted by Brian Bushee, accounting.Funding: The authors acknowledge financial support from Brigham Young University and Georgetown University.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4515.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4515
+UR  - https://doi.org/10.1287/mnsc.2022.4515
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On the Disclosure of Half-Truths and the Duty to Update
+AU  - Beyer, Anne
+AU  - Dye, Ronald A.
+Y1  - 2022/10/31
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4519
+DO  - 10.1287/mnsc.2022.4519
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4283
+EP  - 4311
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We develop a model of a manager?s equilibrium voluntary disclosure policy to study how that policy changes depending on whether the manager is prohibited from disclosing, or allowed to disclose, a half-truth; we also examine how the disclosure policy changes depending on whether the manager has a duty to update past disclosures. Among our results, we show that if a manager is prohibited from issuing half-truths, the manager discloses a wider array of information than if the manager is allowed to issue half-truths, and investors view the absence of disclosure more skeptically; we also show that imposing a duty to update on the manager does not affect the manager?s initial disclosures, but it results in the manager disclosing uniformly more information over time.This paper was accepted by Brian Bushee, accounting.
+AB  - We develop a model of a manager?s equilibrium voluntary disclosure policy to study how that policy changes depending on whether the manager is prohibited from disclosing, or allowed to disclose, a half-truth; we also examine how the disclosure policy changes depending on whether the manager has a duty to update past disclosures. Among our results, we show that if a manager is prohibited from issuing half-truths, the manager discloses a wider array of information than if the manager is allowed to issue half-truths, and investors view the absence of disclosure more skeptically; we also show that imposing a duty to update on the manager does not affect the manager?s initial disclosures, but it results in the manager disclosing uniformly more information over time.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4519
+UR  - https://doi.org/10.1287/mnsc.2022.4519
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Disclosure and Competition for Capital
+AU  - Cheng, Stephanie F.
+AU  - Cuny, Christine
+AU  - Xue, Hao
+Y1  - 2022/08/31
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4525
+DO  - 10.1287/mnsc.2022.4525
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4312
+EP  - 4330
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - Ownership segmentation in the municipal bond market gives rise to competition among local issuers for a limited supply of capital. We consider the disclosure implications of this competition for capital, using Moody?s 2010 recalibration of the municipal rating scale. The recalibration placed lowly upgraded issuers at a disadvantage relative to their highly upgraded peers within the same market segment. We develop a model in which two municipal bond issuers compete for investors? capital by choosing bond yields. The model predicts the issuer that is disadvantaged by the recalibration is more likely to improve its disclosure to better compete with its advantaged peer if (i) the rating upgrade that its peer receives is higher and (ii) competition for capital is fiercer. Empirically, we find that the disadvantaged issuers provide more and timelier financial disclosures after the recalibration. This improvement in disclosure quality increases in the extent of the issuer?s disadvantage, arises only if we consider peers with whom the issuer directly competes for capital, and is pronounced when the local capital supply is constrained. Our analytical and empirical analyses support the idea that a competitive disadvantage in raising capital in segmented markets can motivate issuers to improve disclosure quality.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4525.
+AB  - Ownership segmentation in the municipal bond market gives rise to competition among local issuers for a limited supply of capital. We consider the disclosure implications of this competition for capital, using Moody?s 2010 recalibration of the municipal rating scale. The recalibration placed lowly upgraded issuers at a disadvantage relative to their highly upgraded peers within the same market segment. We develop a model in which two municipal bond issuers compete for investors? capital by choosing bond yields. The model predicts the issuer that is disadvantaged by the recalibration is more likely to improve its disclosure to better compete with its advantaged peer if (i) the rating upgrade that its peer receives is higher and (ii) competition for capital is fiercer. Empirically, we find that the disadvantaged issuers provide more and timelier financial disclosures after the recalibration. This improvement in disclosure quality increases in the extent of the issuer?s disadvantage, arises only if we consider peers with whom the issuer directly competes for capital, and is pronounced when the local capital supply is constrained. Our analytical and empirical analyses support the idea that a competitive disadvantage in raising capital in segmented markets can motivate issuers to improve disclosure quality.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4525.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4525
+UR  - https://doi.org/10.1287/mnsc.2022.4525
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Incomplete Information, Debt Issuance, and the Term Structure of Credit Spreads
+AU  - Benzoni, Luca
+AU  - Garlappi, Lorenzo
+AU  - Goldstein, Robert
+Y1  - 2022/12/02
+PY  - 2022
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2022.4529
+DO  - 10.1287/mnsc.2022.4529
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4331
+EP  - 4352
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We derive a firm?s debt issuance policy when managers have an informational advantage over creditors and face debt restructuring costs. In our model, regardless of how poor their private signal is, managers of firms that can access the credit market avoid default by issuing new debt to service existing debt. Therefore, only bonds of firms that have exhausted their ability to borrow are subject to jump-to-default risk because of incomplete information and, in turn, command a jump-to-default risk premium. We document that our model captures many salient features of the corporate bond market.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4529.
+AB  - We derive a firm?s debt issuance policy when managers have an informational advantage over creditors and face debt restructuring costs. In our model, regardless of how poor their private signal is, managers of firms that can access the credit market avoid default by issuing new debt to service existing debt. Therefore, only bonds of firms that have exhausted their ability to borrow are subject to jump-to-default risk because of incomplete information and, in turn, command a jump-to-default risk premium. We document that our model captures many salient features of the corporate bond market.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4529.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4529
+UR  - https://doi.org/10.1287/mnsc.2022.4529
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Nonprofit Organizations’ Financial Obligations and the Paycheck Protection Program
+AU  - Neely, Daniel G.
+AU  - Saxton, Gregory D.
+AU  - Wong, Paul A.
+Y1  - 2023/05/24
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2023.4804
+DO  - 10.1287/mnsc.2023.4804
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4353
+EP  - 4361
+VL  - 69
+IS  - 7
+PB  - INFORMS
+N2  - We examine nonprofit organizations? involvement in the Paycheck Protection Program (PPP). The PPP provided participants with forgivable loans to pay employee salaries, increasing participants? financial flexibility during the pandemic. We examine the associations between nonprofits? prepandemic financial obligations (e.g., long-term debt and donor-restricted net assets) and PPP participation and participants? loan characteristics. First, we find nonprofit organizations participated at a lower rate than other small business industries and that nonprofits with greater financial obligations were more likely to participate in the program. Second, we find financial obligations were positively associated with the loan amount received as a percentage of total payroll costs. Last, although approximately 11% of nonprofits failed to obtain loan forgiveness, we find nonprofits with restricted net assets were more likely to have their loans forgiven. Our results suggest nonprofits with greater debt and donor obligations used the PPP to increase their financial flexibility.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4804.
+AB  - We examine nonprofit organizations? involvement in the Paycheck Protection Program (PPP). The PPP provided participants with forgivable loans to pay employee salaries, increasing participants? financial flexibility during the pandemic. We examine the associations between nonprofits? prepandemic financial obligations (e.g., long-term debt and donor-restricted net assets) and PPP participation and participants? loan characteristics. First, we find nonprofit organizations participated at a lower rate than other small business industries and that nonprofits with greater financial obligations were more likely to participate in the program. Second, we find financial obligations were positively associated with the loan amount received as a percentage of total payroll costs. Last, although approximately 11% of nonprofits failed to obtain loan forgiveness, we find nonprofits with restricted net assets were more likely to have their loans forgiven. Our results suggest nonprofits with greater debt and donor obligations used the PPP to increase their financial flexibility.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4804.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4804
+UR  - https://doi.org/10.1287/mnsc.2023.4804
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2023/07/01
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1287/mnsc.2023.eb.v69n7
+DO  - 10.1287/mnsc.2023.eb.v69n7
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 69
+IS  - 7
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.eb.v69n7
+UR  - https://doi.org/10.1287/mnsc.2023.eb.v69n7
+Y2  - 2024/03/27
+ER  - 

@@ -1,0 +1,231 @@
+TY  - JOUR
+T1  - The general dynamic factor model: One-sided representation results
+AU  - Forni, Mario
+AU  - Lippi, Marco
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 23
+EP  - 28
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002071
+KW  - Dynamic factor models
+KW  - Frequency domain approach
+KW  - Estimation by one-sided filters
+AB  - Recent dynamic factor models have been almost exclusively developed under the assumption that the common components span a finite-dimensional vector space. However, this finite-dimension assumption rules out very simple factor-loading patterns and is therefore severely restrictive. The general case has been studied, using a frequency domain approach, in Forni et al. (2000). That paper produces an estimator of the common components that is consistent but is based on filters that are two-sided and therefore unsuitable for prediction. The present paper, assuming a rational spectral density for the common components, obtains a one-sided estimator without the finite-dimension assumption.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic factors in the presence of blocks
+AU  - Hallin, Marc
+AU  - Liška, Roman
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 29
+EP  - 41
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002083
+KW  - Panel data
+KW  - High dimensional time series data
+KW  - Dynamic factor model
+KW  - Dynamic principal components
+AB  - Macroeconometric data often come under the form of large panels of time series, themselves decomposing into smaller but still quite large subpanels or blocks. We show how the dynamic factor analysis method proposed in Forni et al. (2000), combined with the identification method of Hallin and Liška (2007), allows for identifying and estimating joint and block-specific common factors. This leads to a more sophisticated analysis of the structures of dynamic interrelations within and between the blocks in such datasets, along with an informative decomposition of explained variances. The method is illustrated with an analysis of a dataset of Industrial Production Indices for France, Germany, and Italy.
+ER  - 
+
+TY  - JOUR
+T1  - Market liquidity as dynamic factors
+AU  - Hallin, Marc
+AU  - Mathias, Charles
+AU  - Pirotte, Hugues
+AU  - Veredas, David
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 42
+EP  - 50
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002095
+KW  - Commonality
+KW  - Liquidity
+KW  - Equities
+KW  - Factor models
+KW  - Block structure
+AB  - We use recent results on the Generalized Dynamic Factor Model (GDFM) with block structure to provide a data-driven definition of unobservable market liquidity and to assess the complementarity of two observed liquidity measures: daily close relative spreads and daily traded volumes for a sample of 426 S&P500 constituents recorded over the years 2004–2006. The advantage of defining market liquidity as a dynamic factor is that, contrary to other definitions, it tackles time dependence and commonness at the same time, without making any restrictive assumptions. Both relative spread and volume in the dataset under study appear to be driven by the same one-dimensional common shocks, which therefore naturally qualify as the unobservable market liquidity shocks.
+ER  - 
+
+TY  - JOUR
+T1  - Method of moments estimation of GO-GARCH models
+AU  - Peter Boswijk, H.
+AU  - van der Weide, Roy
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 118
+EP  - 126
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002150
+KW  - Multivariate GARCH
+KW  - Factor models
+KW  - Method of moments
+KW  - Common principal components
+AB  - We propose a new estimation method for the factor loading matrix in generalized orthogonal GARCH (GO-GARCH) models. The method is based on eigenvectors of suitably defined sample autocorrelation matrices of squares and cross-products of returns. The method is numerically more attractive than likelihood-based estimation. Furthermore, the new method does not require strict assumptions on the volatility models of the factors, and therefore is less sensitive to model misspecification. We provide conditions for consistency of the estimator, and study its efficiency relative to maximum likelihood estimation using Monte Carlo simulations. The method is applied to European sector returns.
+ER  - 
+
+TY  - JOUR
+T1  - Cross-sectional dependence robust block bootstrap panel unit root tests
+AU  - Palm, Franz C.
+AU  - Smeekes, Stephan
+AU  - Urbain, Jean-Pierre
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 85
+EP  - 104
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002149
+KW  - Block bootstrap
+KW  - Panel unit root test
+KW  - Cross-sectional dependence
+AB  - In this paper we consider the issue of unit root testing in cross-sectionally dependent panels. We consider panels that may be characterized by various forms of cross-sectional dependence including (but not exclusive to) the popular common factor framework. We consider block bootstrap versions of the group-mean (Im et al., 2003) and the pooled (Levin et al., 2002) unit root coefficient DF tests for panel data, originally proposed for a setting of no cross-sectional dependence beyond a common time effect. The tests, suited for testing for unit roots in the observed data, can be easily implemented as no specification or estimation of the dependence structure is required. Asymptotic properties of the tests are derived for T going to infinity and N finite. Asymptotic validity of the bootstrap tests is established in very general settings, including the presence of common factors and cointegration across units. Properties under the alternative hypothesis are also considered. In a Monte Carlo simulation, the bootstrap tests are found to have rejection frequencies that are much closer to nominal size than the rejection frequencies for the corresponding asymptotic tests. The power properties of the bootstrap tests appear to be similar to those of the asymptotic tests.
+ER  - 
+
+TY  - JOUR
+T1  - Infinite-dimensional VARs and factor models
+AU  - Chudik, Alexander
+AU  - Pesaran, M. Hashem
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 4
+EP  - 22
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761000206X
+KW  - Large  and  panels
+KW  - Weak and strong cross-section dependence
+KW  - VARs
+KW  - Spatial models
+KW  - Factor models
+AB  - This paper proposes a novel approach for dealing with the ‘curse of dimensionality’ in the case of infinite-dimensional vector autoregressive (IVAR) models. It is assumed that each unit or variable in the IVAR is related to a small number of neighbors and a large number of non-neighbors. The neighborhood effects are fixed and do not change with the number of units (N), but the coefficients of non-neighboring units are restricted to vanish in the limit as N tends to infinity. Problems of estimation and inference in a stationary IVAR model with an unknown number of unobserved common factors are investigated. A cross-section augmented least-squares (CALS) estimator is proposed and its asymptotic distribution is derived. Satisfactory small-sample properties are documented by Monte Carlo experiments. An empirical illustration shows the statistical significance of dynamic spillover effects in modeling of US real house prices across the neighboring states.
+ER  - 
+
+TY  - JOUR
+T1  - Factor structures for panel and multivariate time series data
+AU  - Palm, Franz C.
+AU  - Urbain, Jean-Pierre
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002058
+ER  - 
+
+TY  - JOUR
+T1  - Fitting dynamic factor models to non-stationary time series
+AU  - Eichler, Michael
+AU  - Motta, Giovanni
+AU  - von Sachs, Rainer
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 51
+EP  - 70
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002113
+KW  - Approximate factor models
+KW  - Local stationarity
+KW  - Principal components
+AB  - Factor modelling of a large time series panel has widely proven useful to reduce its cross-sectional dimensionality. This is done by explaining common co-movements in the panel through the existence of a small number of common components, up to some idiosyncratic behaviour of each individual series. To capture serial correlation in the common components, a dynamic structure is used as in traditional (uni- or multivariate) time series analysis of second order structure, i.e. allowing for infinite-length filtering of the factors via dynamic loadings. In this paper, motivated from economic data observed over long time periods which show smooth transitions over time in their covariance structure, we allow the dynamic structure of the factor model to be non-stationary over time by proposing a deterministic time variation of its loadings. In this respect we generalize the existing recent work on static factor models with time-varying loadings as well as the classical, i.e. stationary, dynamic approximate factor model. Motivated from the stationary case, we estimate the common components of our dynamic factor model by the eigenvectors of a consistent estimator of the now time-varying spectral density matrix of the underlying data-generating process. This can be seen as a time-varying principal components approach in the frequency domain. We derive consistency of this estimator in a “double-asymptotic” framework of both cross-section and time dimension tending to infinity. The performance of the estimators is illustrated by a simulation study and an application to a macroeconomic data set.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for structural breaks in dynamic factor models
+AU  - Breitung, Jörg
+AU  - Eickmeier, Sandra
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 71
+EP  - 84
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002125
+KW  - Structural break
+KW  - Factor model
+KW  - LM test
+AB  - In this paper we investigate the consequences of structural breaks in the factor loadings for the specification and estimation of factor models based on principal components and suggest procedures for testing for structural breaks. It is shown that structural breaks severely inflate the number of factors identified by the usual information criteria. The hypothesis of a structural break is tested by using LR, LM and Wald statistics. The LM test (which performs best in our Monte Carlo simulations) is generalized to test for structural breaks in factor models where the break date is unknown and the common factors and idiosyncratic components are serially correlated. The proposed test procedures are applied to datasets from the US and the euro area.
+ER  - 
+
+TY  - JOUR
+T1  - A characterization of vector autoregressive processes with common cyclical features
+AU  - Franchi, Massimo
+AU  - Paruolo, Paolo
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - 105
+EP  - 117
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002137
+KW  - Multiple time series
+KW  - Common cycles
+KW  - Cointegration
+KW  - I(1)
+KW  - I(2)
+AB  - This paper presents necessary and sufficient conditions for the existence of common cyclical features in Vector Auto Regressive (VAR) processes integrated of order 0, 1, 2, where the common cyclical features correspond to common serial correlation (CS), commonality in the final equations (CE) and co-dependence (CD). The results are based on local rank factorizations of the reversed AR polynomial around the poles of its inverse. All processes with CS structures are found to present also CE structures and vice versa. The presence of CD structures, instead, implies the presence of both CS and CE structures, but not vice versa. Characterizations of the CS, CE, CD linear combinations are given in terms of linear subspaces defined in the local rank factorizations.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 163
+IS  - 1
+SP  - IFC
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Factor Structures in Panel and Multivariate Time Series Data
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(11)00084-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000844
+ER  - 

@@ -1,0 +1,392 @@
+TY  - JOUR
+T1  - Pseudo-Gaussian and rank-based optimal tests for random individual effects in large n small T panels
+AU  - Bennala, Nezar
+AU  - Hallin, Marc
+AU  - Paindaveine, Davy
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 50
+EP  - 67
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000772
+KW  - Random effects
+KW  - Panel data
+KW  - Rank tests
+KW  - Local asymptotic normality
+AB  - We consider the problem of detecting unobserved heterogeneity, that is, the problem of testing the absence of random individual effects in an n×T panel. We establish a local asymptotic normality property–with respect to intercept, regression coefficient, the scale parameter σ of the error, and the scale parameter σu of individual effects (which is the parameter of interest)–for given (scaled) density f1 of the error terms, when n tends to infinity and T is fixed. This result allows, via the Hájek representation theorem, for developing asymptotically optimal rank-based tests for the null hypothesis σu=0 (absence of individual effects). These tests are locally asymptotically optimal at correctly specified innovation densities f1, but remain valid irrespective of the actual underlying density. The limiting distribution of our test statistics is obtained both under the null and under sequences of contiguous alternatives. A local asymptotic linearity property is established in order to control for the effect of substituting estimators for nuisance parameters. The asymptotic relative efficiencies of the proposed procedures with respect to the corresponding pseudo-Gaussian parametric tests are derived. In particular, the van der Waerden version of our rank-based tests uniformly dominates, from the point of view of Pitman efficiency, the classical Honda test. Small-sample performances are investigated via a Monte-Carlo study, and confirm theoretical findings.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of semiparametric locally stationary diffusion models
+AU  - Koo, Bonsoo
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 210
+EP  - 233
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001157
+KW  - Diffusion processes
+KW  - Local stationarity
+KW  - Term structure dynamics
+KW  - Density matching
+KW  - Derivative pricing
+AB  - This paper proposes a class of locally stationary diffusion processes. The model has a time varying but locally linear drift and a volatility coefficient that is allowed to vary over time and space. The model is semiparametric because we allow these functions to be unknown and the innovation process is parametrically specified, indeed completely known. We propose estimators of all the unknown quantities based on long span data. Our estimation method makes use of the property of local stationarity. We establish asymptotic theory for the proposed estimators as the time span increases, so we do not rely on infill asymptotics. We apply this method to interest rate data to illustrate the validity of our model. Finally, we present a simulation study to provide the finite-sample performance of the proposed estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Functional coefficient regression models with time trend
+AU  - Liang, Zhongwen
+AU  - Li, Qi
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 15
+EP  - 31
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000784
+KW  - Varying coefficient model
+KW  - Time trend
+KW  - Partially linear model
+KW  - Specification tests
+AB  - We consider the problem of estimating a varying coefficient regression model when regressors include a time trend. We show that the commonly used local constant kernel estimation method leads to an inconsistent estimation result, while a local polynomial estimator yields a consistent estimation result. We establish the asymptotic normality result for the proposed estimator. We also provide asymptotic analysis of the data-driven (least squares cross validation) method of selecting the smoothing parameters. In addition, we consider a partially linear time trend model and establish the asymptotic distribution of our proposed estimator. Two test statistics are proposed to test the null hypotheses of a linear and of a partially linear time trend models. Simulations are reported to examine the finite sample performances of the proposed estimators and the test statistics.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation of stochastic frontier models by the Fourier transform
+AU  - Tsionas, Efthymios G.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 234
+EP  - 248
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000796
+KW  - Stochastic frontiers
+KW  - Moment generating function
+KW  - Characteristic function
+KW  - Fast Fourier transform
+KW  - Maximum likelihood
+KW  - Generalized method of moments
+AB  - The paper is concerned with several kinds of stochastic frontier models whose likelihood function is not available in closed form. First, with output-oriented stochastic frontier models whose one-sided errors have a distribution other than the standard ones (exponential or half-normal). The gamma and beta distributions are leading examples. Second, with input-oriented stochastic frontier models which are common in theoretical discussions but not in econometric applications. Third, with two-tiered stochastic frontier models when the one-sided error components follow gamma distributions. Fourth, with latent class models with gamma distributed one-sided error terms. Fifth, with models whose two-sided error component is distributed as stable Paretian and the one-sided error is gamma. The principal aim is to propose approximations to the density of the composed error based on the inversion of the characteristic function (which turns out to be manageable) using the Fourier transform. Procedures that are based on the asymptotic normal form of the log-likelihood function and have arbitrary degrees of asymptotic efficiency are also proposed, implemented and evaluated in connection with output-oriented stochastic frontiers. The new methods are illustrated using data for US commercial banks, electric utilities, and a sample from the National Youth Longitudinal Survey.
+ER  - 
+
+TY  - JOUR
+T1  - In-sample tests of predictive ability: A new approach
+AU  - Clark, Todd E.
+AU  - McCracken, Michael W.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 1
+EP  - 14
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761200111X
+KW  - Predictability
+KW  - Forecast accuracy
+KW  - In-sample
+AB  - This paper presents evidence linking in-sample tests of predictive content and out-of-sample forecast accuracy. Our approach focuses on the negative effect that finite-sample estimation error has on forecast accuracy despite the presence of significant population-level predictive content. We derive in-sample tests that assess whether a variable has predictive content and whether this content is estimated precisely enough to improve forecast accuracy. Our tests are asymptotically non-central chi-square or non-central normal. We provide a convenient bootstrap for computing critical values. In Monte Carlo and empirical analysis, we examine the effectiveness of our testing procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Distribution-free tests of stochastic monotonicity
+AU  - Delgado, Miguel A.
+AU  - Escanciano, Juan Carlos
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 68
+EP  - 75
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000723
+KW  - Stochastic monotonicity
+KW  - Conditional moments
+KW  - Least concave majorant
+KW  - Copula process
+KW  - Distribution-free in finite samples
+KW  - Tests invariant to monotone transforms
+AB  - This article proposes a nonparametric test of monotonicity for conditional distributions and its moments. Unlike previous proposals, our method does not require smooth estimation of the derivatives of nonparametric curves. Distinguishing features of our approach are that critical values are pivotal under the null in finite samples and that the test is invariant to any monotonic continuous transformation of the explanatory variable. The test statistic is the sup-norm of the difference between the empirical copula function and its least concave majorant with respect to the explanatory variable coordinate. The resulting test is able to detect local alternatives converging to the null at the parametric rate n−1/2, with n the sample size. The finite sample performance of the test is examined by means of a Monte Carlo experiment and an application to testing intergenerational income mobility.
+ER  - 
+
+TY  - JOUR
+T1  - Pseudo conditional maximum likelihood estimation of the dynamic logit model for binary panel data
+AU  - Bartolucci, Francesco
+AU  - Nigro, Valentina
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 102
+EP  - 116
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000954
+KW  - Log-linear models
+KW  - Longitudinal data
+KW  - Pseudo likelihood inference
+KW  - Quadratic exponential distribution
+AB  - We show how the dynamic logit model for binary panel data may be approximated by a quadratic exponential model. Under the approximating model, simple sufficient statistics exist for the subject-specific parameters introduced to capture the unobserved heterogeneity between subjects. The latter must be distinguished from the state dependence which is accounted for by including the lagged response variable among the regressors. By conditioning on the sufficient statistics, we derive a pseudo conditional likelihood estimator of the structural parameters of the dynamic logit model, which is simple to compute. Asymptotic properties of this estimator are studied in detail. Simulation results show that the estimator is competitive in terms of efficiency with estimators recently proposed in the econometric literature.
+ER  - 
+
+TY  - JOUR
+T1  - Regression towards the mode
+AU  - Kemp, Gordon C.R.
+AU  - Santos Silva, J.M.C.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 92
+EP  - 101
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000735
+KW  - Conditional mode
+KW  - Density estimation
+KW  - Normal kernel
+KW  - Robust regression
+AB  - We propose a semi-parametric mode regression estimator for the case in which the dependent variable has a continuous conditional density with a well-defined global mode. The estimator is semi-parametric in that the conditional mode is specified as a parametric function, but only mild assumptions are made about the nature of the conditional density of interest. We show that the proposed estimator is consistent and has a tractable asymptotic distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Determinacy, indeterminacy and dynamic misspecification in linear rational expectations models
+AU  - Fanelli, Luca
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 153
+EP  - 163
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000966
+KW  - Determinacy
+KW  - GMM
+KW  - Indeterminacy
+KW  - LRE model
+KW  - Identification
+KW  - Maximum likelihood
+KW  - VAR
+KW  - VARMA
+AB  - This paper proposes a testing strategy for the null hypothesis that a multivariate linear rational expectations (LRE) model may have a unique stable solution (determinacy) against the alternative of multiple stable solutions (indeterminacy). The testing problem is addressed by a misspecification-type approach in which the overidentifying restrictions test obtained from the estimation of the system of Euler equations of the LRE model through the generalized method of moments is combined with a likelihood-based test for the cross-equation restrictions that the model places on its reduced form solution under determinacy. The resulting test has no power against a particular class of indeterminate equilibria, hence the non rejection of the null hypothesis can not be interpreted conclusively as evidence of determinacy. On the other hand, this test (i) circumvents the nonstandard inferential problem generated by the presence of the auxiliary parameters that appear under indeterminacy and that are not identifiable under determinacy, (ii) does not involve inequality parametric restrictions and hence the use of nonstandard inference, (iii) is consistent against the dynamic misspecification of the LRE model, and (iv) is computationally simple. Monte Carlo simulations show that the suggested testing strategy delivers reasonable size coverage and power against dynamic misspecification in finite samples. An empirical illustration focuses on the determinacy/indeterminacy of a New Keynesian monetary business cycle model of the US economy.
+ER  - 
+
+TY  - JOUR
+T1  - A Lagrange Multiplier test for cross-sectional dependence in a fixed effects panel data model
+AU  - Baltagi, Badi H.
+AU  - Feng, Qu
+AU  - Kao, Chihwa
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 164
+EP  - 177
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761200098X
+KW  -  test
+KW  - Cross-sectional dependence
+KW  - Fixed effects
+KW  - High dimensional inference
+KW  - John test
+KW  - Panel data
+AB  - It is well known that the standard Breusch and Pagan (1980) LM test for cross-equation correlation in a SUR model is not appropriate for testing cross-sectional dependence in panel data models when the number of cross-sectional units (n) is large and the number of time periods (T) is small. In fact, a scaled version of this LM test was proposed by Pesaran (2004) and its finite sample bias was corrected by Pesaran et al. (2008). This was done in the context of a heterogeneous panel data model. This paper derives the asymptotic bias of this scaled version of the LM test in the context of a fixed effects homogeneous panel data model. This asymptotic bias is found to be a constant related to n and T, which suggests a simple bias corrected LM test for the null hypothesis. Additionally, the paper carries out some Monte Carlo experiments to compare the finite sample properties of this proposed test with existing tests for cross-sectional dependence.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - IFC
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00163-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001637
+ER  - 
+
+TY  - JOUR
+T1  - On spatial processes and asymptotic inference under near-epoch dependence
+AU  - Jenish, Nazgul
+AU  - Prucha, Ingmar R.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 178
+EP  - 190
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001340
+KW  - Random fields
+KW  - Near-epoch dependent processes
+KW  - Central limit theorem
+KW  - Law of large numbers
+KW  - GMM estimator
+AB  - The development of a general inferential theory for nonlinear models with cross-sectionally or spatially dependent data has been hampered by a lack of appropriate limit theorems. To facilitate a general asymptotic inference theory relevant to economic applications, this paper first extends the notion of near-epoch dependent (NED) processes used in the time series literature to random fields. The class of processes that is NED on, say, an α-mixing process, is shown to be closed under infinite transformations, and thus accommodates models with spatial dynamics. This would generally not be the case for the smaller class of α-mixing processes. The paper then derives a central limit theorem and law of large numbers for NED random fields. These limit theorems allow for fairly general forms of heterogeneity including asymptotically unbounded moments, and accommodate arrays of random fields on unevenly spaced lattices. The limit theorems are employed to establish consistency and asymptotic normality of GMM estimators. These results provide a basis for inference in a wide range of models with spatial dependence.
+ER  - 
+
+TY  - JOUR
+T1  - Term structure models and the zero bound: An empirical investigation of Japanese yields
+AU  - Kim, Don H.
+AU  - Singleton, Kenneth J.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 32
+EP  - 49
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001352
+AB  - When Japanese short-term bond yields were near their zero bound, yields on long-term bonds showed substantial fluctuation, and there was a strong positive relationship between the level of interest rates and yield volatilities/risk premiums. We explore whether several families of dynamic term structure models that enforce a zero lower bound on short rates imply conditional distributions of Japanese bond yields consistent with these patterns. Multi-factor “shadow-rate” and quadratic-Gaussian models, evaluated at their maximum likelihood estimates, capture many features of the data. Furthermore, model-implied risk premiums track realized excess returns during extended periods of near-zero short rates. In contrast, the conditional distributions implied by non-negative affine models do not match their sample counterparts, and standard Gaussian affine models generate implausibly large negative risk premiums.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotics for panel quantile regression models with individual effects
+AU  - Kato, Kengo
+AU  - F. Galvao, Antonio
+AU  - Montes-Rojas, Gabriel V.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 76
+EP  - 91
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000760
+KW  - Asymptotics
+KW  - Fixed effects
+KW  - Panel data
+KW  - Quantile regression
+AB  - This paper studies panel quantile regression models with individual fixed effects. We formally establish sufficient conditions for consistency and asymptotic normality of the quantile regression estimator when the number of individuals, n, and the number of time periods, T, jointly go to infinity. The estimator is shown to be consistent under similar conditions to those found in the nonlinear panel data literature. Nevertheless, due to the non-smoothness of the objective function, we had to impose a more restrictive condition on T to prove asymptotic normality than that usually found in the literature. The finite sample performance of the estimator is evaluated by Monte Carlo simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Multiperiod corporate default prediction—A forward intensity approach
+AU  - Duan, Jin-Chuan
+AU  - Sun, Jie
+AU  - Wang, Tao
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 191
+EP  - 209
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001145
+KW  - Default
+KW  - Bankruptcy
+KW  - Forward intensity
+KW  - Maximum pseudo-likelihood
+KW  - Forward default probability
+KW  - Cumulative default probability
+KW  - Accuracy ratio
+AB  - A forward intensity model for the prediction of corporate defaults over different future periods is proposed. Maximum pseudo-likelihood analysis is then conducted on a large sample of the US industrial and financial firms spanning the period 1991–2011 on a monthly basis. Several commonly used factors and firm-specific attributes are shown to be useful for prediction at both short and long horizons. Our implementation also factors in momentum in some variables and documents their importance in default prediction. The model’s prediction is very accurate for shorter horizons. Its accuracy deteriorates somewhat when the horizon is increased to two or three years, but the performance still remains reasonable. The forward intensity model is also amenable to aggregation, which allows for an analysis of default behavior at the portfolio and/or economy level.
+ER  - 
+
+TY  - JOUR
+T1  - What is sensible for your agents should be sensible for yourself
+AU  - Poirier, Dale J.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 249
+EP  - 250
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000747
+ER  - 
+
+TY  - JOUR
+T1  - Towards estimating extremal serial dependence via the bootstrapped extremogram
+AU  - Davis, Richard A.
+AU  - Mikosch, Thomas
+AU  - Cribben, Ivor
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 142
+EP  - 152
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000978
+KW  - Extremogram
+KW  - Extremal dependence
+KW  - Stationary bootstrap
+KW  - Financial time series
+AB  - Davis and Mikosch (2009a) introduced the extremogram as a flexible quantitative tool for measuring various types of extremal dependence in a stationary time series. There we showed some standard statistical properties of the sample extremogram. A major difficulty was the construction of credible confidence bands for the extremogram. In this paper, we employ the stationary bootstrap to overcome this problem. The use of the stationary bootstrap for the extremogram and the resulting interpretations are illustrated with several financial time series.
+ER  - 
+
+TY  - JOUR
+T1  - List of Referees From January 1, 2011 to December 31, 2011
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - I
+EP  - V
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00170-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001704
+ER  - 
+
+TY  - JOUR
+T1  - International market links and volatility transmission
+AU  - Corradi, Valentina
+AU  - Distaso, Walter
+AU  - Fernandes, Marcelo
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 1
+SP  - 117
+EP  - 141
+PY  - 2012
+DA  - 2012/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000759
+KW  - Conditional independence
+KW  - Jump-diffusion
+KW  - Noncausality
+KW  - Quadratic variation
+KW  - Realized variance
+AB  - This paper gauges volatility transmission between stock markets by testing conditional independence of their volatility measures. In particular, we check whether the conditional density of the volatility changes if we further condition on the volatility of another market. We employ nonparametric methods to estimate the conditional densities and model-free realized measures of volatility, allowing for both microstructure noise and jumps. We establish the asymptotic normality of the test statistic as well as the first-order validity of the bootstrap analog. Finally, we uncover significant volatility spillovers between the stock markets in China, Japan, UK and US.
+ER  - 

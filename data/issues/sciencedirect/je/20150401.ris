@@ -1,0 +1,359 @@
+TY  - JOUR
+T1  - Comment on ‘IV estimation of panels with factor residuals’ by D. Robertson and V. Sarafidis
+AU  - Ahn, Seung C.
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 542
+EP  - 544
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002905
+KW  - Panel data
+KW  - Time-varying individual effects
+KW  - Factor models
+AB  - This comment discusses two issues related to the paper by Robertson and Sarafidis (2014, hereafter RS). The first issue is the potential incidental parameters problem that may arise when data are cross-sectionally heteroskedastic. The second issue is an identification problem in the estimation of panel models with weakly exogenous instrumental variables.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric rank tests for non-stationary panels
+AU  - Pedroni, Peter L.
+AU  - Vogelsang, Timothy J.
+AU  - Wagner, Martin
+AU  - Westerlund, Joakim
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 378
+EP  - 391
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.08.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002802
+KW  - Cointegration
+KW  - Cross-sectional dependence
+KW  - Nonparametric rank tests
+KW  - Time series panel
+KW  - Unit roots
+AB  - We develop a set of nonparametric rank tests for non-stationary panels based on multivariate variance ratios which use untruncated kernels. As such, the tests do not require the choice of tuning parameters associated with bandwidth or lag length and also do not require choices with respect to numbers of common factors. The tests allow for unrestricted cross-sectional dependence and dynamic heterogeneity among the units of the panel, provided simply that a joint functional central limit theorem holds for the panel of differenced series. We provide a discussion of the relationships between our setting and the settings for which first- and second generation panel unit root tests are designed. In Monte Carlo simulations we illustrate the small-sample performance of our tests when they are used as panel unit root tests under the more restrictive DGPs for which panel unit root tests are typically designed, and for more general DGPs we also compare the small-sample performance of our nonparametric tests to parametric rank tests. Finally, we provide an empirical illustration by testing for income convergence among countries.
+ER  - 
+
+TY  - JOUR
+T1  - Through the looking glass: Indirect inference via simple equilibria
+AU  - Calvet, Laurent E.
+AU  - Czellar, Veronika
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 343
+EP  - 358
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002681
+KW  - Hidden Markov model
+KW  - Long-run risk
+KW  - Learning
+KW  - Value at risk
+KW  - Indirect inference
+KW  - Particle filters
+AB  - This paper develops an indirect inference (Gourieroux et al., 1993; Smith, 1993) estimation method for a large class of dynamic equilibria. Our approach consists of constructing econometrically tractable auxiliary equilibria, obtained by simplifying the economic primitives of the structural equilibrium model, via which estimation can proceed. We use this approach to develop an accurate estimator for the long-run risk model of Bansal and Yaron (2004). We demonstrate the method in Monte Carlo simulations and implement it on U.S. data. We also illustrate the good performance of the proposed methodology on an equilibrium model with investor learning.
+ER  - 
+
+TY  - JOUR
+T1  - The power of PANIC
+AU  - Westerlund, Joakim
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 495
+EP  - 509
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.03.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001572
+KW  - Unit root test
+KW  - Panel data
+KW  - Incidental trends
+KW  - Common factors
+KW  - Local asymptotic power
+AB  - The current paper considers the asymptotic local power of second-generation panel unit root tests that are robust to the presence of cross-section dependence in the form of common factors. As a basis for our analysis, we take the PANIC approach of Bai and Ng (2004, 2010), which is one of the single most popular and general second-generation approaches around.
+ER  - 
+
+TY  - JOUR
+T1  - The effect of recursive detrending on panel unit root tests
+AU  - Westerlund, Joakim
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 453
+EP  - 467
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001560
+KW  - Unit root test
+KW  - Panel data
+KW  - Deterministic trend
+KW  - Polynomial trend function
+KW  - Recursive detrending
+AB  - This paper analyzes the properties of panel unit root tests based on recursively detrended data. The analysis is conducted while allowing for a (potentially) non-linear trend function, which represents a more general consideration than the current state of affairs with (at most) a linear trend. A new test statistic is proposed whose asymptotic behavior under the unit root null hypothesis, and the simplifying assumptions of a polynomial trend and iid errors are shown to be surprisingly simple. Indeed, the test statistic is not only asymptotically independent of the true trend polynomial, but also is in fact unique in that it is independent also of the degree of the fitted polynomial. However, this invariance property does not carry over to the local alternative, under which it is shown that local power is a decreasing function of the trend degree. But while power does decrease, the rate of shrinking of the local alternative is generally constant in the trend degree, which goes against the common belief that the rate of shrinking should be decreasing in the trend degree. The above results are based on simplifying assumptions. To compensate for this lack of generality, a second, robust, test statistic is proposed, whose validity does not require that the trend function is a polynomial or that the errors are iid.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic factor models with infinite-dimensional factor spaces: One-sided representations
+AU  - Forni, Mario
+AU  - Hallin, Marc
+AU  - Lippi, Marco
+AU  - Zaffaroni, Paolo
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 359
+EP  - 371
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002693
+KW  - Generalized dynamic factor models
+KW  - Vector processes with singular spectral density
+KW  - One-sided representations for dynamic factor models
+AB  - Factor model methods recently have become extremely popular in the theory and practice of large panels of time series data. Those methods rely on various factor models which all are particular cases of the Generalized Dynamic Factor Model (GDFM) introduced in Forniet al. (2000). That paper, however, rests on Brillinger’s dynamic principal components. The corresponding estimators are two-sided filters whose performance at the end of the observation period or for forecasting purposes is rather poor. No such problem arises with estimators based on standard principal components, which have been dominant in this literature. On the other hand, those estimators require the assumption that the space spanned by the factors has finite dimension. In the present paper, we argue that such an assumption is extremely restrictive and potentially quite harmful. Elaborating upon recent results by Anderson and Deistler (2008a, b) on singular stationary processes with rational spectrum, we obtain one-sided representations for the GDFM without assuming finite dimension of the factor space. Construction of the corresponding estimators is also briefly outlined. In a companion paper, we establish consistency and rates for such estimators, and provide Monte Carlo results further motivating our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Residual-based rank specification tests for AR–GARCH type models
+AU  - Andreou, Elena
+AU  - Werker, Bas J.M.
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 305
+EP  - 331
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002656
+KW  - Conditional heteroskedasticity
+KW  - Linear and quadratic residual autocorrelation tests
+KW  - Model misspecification test
+KW  - Nonlinear time series
+KW  - Parameter constancy
+KW  - Residual symmetry tests
+AB  - This paper derives the asymptotic distribution for a number of rank-based and classical residual specification tests in AR–GARCH type models. We consider tests for the null hypotheses of no linear and quadratic serial residual autocorrelation, residual symmetry, and no structural breaks. We also apply our method to backtesting Value-at-Risk. For these tests we show that, generally, no size correction is needed in the asymptotic test distribution when applied to AR–GARCH residuals obtained through Gaussian quasi maximum likelihood estimation. To be precise, we give exact expressions for the limiting null distribution of the test statistics applied to (standardized) residuals, and find that standard critical values often, though not always, lead to conservative tests. For this result, we give simple necessary and sufficient conditions. Simulations show that our asymptotic approximations work well for a large number of AR–GARCH models and parameter values. We also show that the rank-based tests often, though not always, have superior power properties over the classical tests, even if they are conservative. An empirical application illustrates the relevance of these tests to the AR–GARCH models for weekly stock market return indices of some major and emerging countries.
+ER  - 
+
+TY  - JOUR
+T1  - Jackknife instrumental variable estimation with heteroskedasticity
+AU  - Bekker, Paul A.
+AU  - Crudu, Federico
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 332
+EP  - 342
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400267X
+KW  - Instrumental variables
+KW  - Heteroskedasticity
+KW  - Many instruments
+KW  - Jackknife
+AB  - We present a new jackknife estimator for instrumental variable inference with unknown heteroskedasticity. It weighs observations such that many-instruments consistency is guaranteed while the signal component in the data is maintained. We show that this results in a smaller signal component in the many instruments asymptotic variance when compared to estimators that neglect a part of the signal to achieve consistency. Both many strong instruments and many weak instruments asymptotic distributions are derived using high-level assumptions that allow for instruments with identifying power that varies between explanatory variables. Standard errors are formulated compactly. We review briefly known estimators and show in particular that our symmetric jackknife estimator performs well when compared to the HLIM and HFUL estimators of Hausman et al. in Monte Carlo experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotics for nonparametric and semiparametric fixed effects panel models
+AU  - Li, Cong
+AU  - Liang, Zhongwen
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 420
+EP  - 434
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002942
+KW  - Panel data
+KW  - Fixed effects
+KW  - Nonparametric estimation
+KW  - Backfitting
+AB  - In this paper, we investigate the problem of estimating nonparametric and semiparametric panel data models with fixed effects. We focus on establishing the asymptotic results for estimators using smooth backfitting methods. We consider two estimators for the smooth unknown function in nonparametric panel regressions. One is a local linear estimator constructed similar as the one in Mammen et al. (2009) which was proposed for the additive nonparametric panel model. The other is the local profile likelihood based estimator proposed by Henderson et al. (2008) (HCL hereafter). We build the link and compare the difference between these two estimators which are constructed under different sets of conditions. We put both of these estimators in the smooth backfitting algorithm framework discussed in Mammen et al. (1999). Following the recently developed theories on backfitting kernel estimates in Mammen et al. (2009), we establish the asymptotic normality of these estimators, and hence verify the conjectures made by HCL and complement their paper. Further, we consider a partially linear fixed effects panel data model with the nonparametric component estimated using the methods discussed in the first part of the paper. We give the asymptotic result for the estimators of finite dimensional parameters, which shows that the first-step plug-in estimators will not affect the asymptotic variance in the second-step estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient inference on fractionally integrated panel data models with fixed effects
+AU  - Robinson, Peter M.
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 435
+EP  - 452
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002930
+KW  - Panel data
+KW  - Fractional time series
+KW  - Estimation
+KW  - Testing
+KW  - Bias correction
+AB  - A dynamic panel data model is considered that contains possibly stochastic individual components and a common stochastic time trend that allows for stationary and nonstationary long memory and general parametric short memory. We propose four different ways of coping with the individual effects so as to estimate the parameters. Like models with autoregressive dynamics, ours nests I(1) behaviour, but unlike the nonstandard asymptotics in the autoregressive case, estimates of the fractional parameter can be asymptotically normal. For three of the estimates, establishing this property is made difficult due to bias caused by the individual effects, or by the consequences of eliminating them, which appears in the central limit theorem except under stringent conditions on the growth of the cross-sectional size N relative to the time series length T, though in case of two estimates these can be relaxed by bias correction, where the biases depend only on the parameters describing autocorrelation. For the fourth estimate, there is no bias problem, and no restrictions on N. Implications for hypothesis testing and interval estimation are discussed, with central limit theorems for feasibly bias-corrected estimates included. A Monte Carlo study of finite-sample performance is included.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian regression with nonparametric heteroskedasticity
+AU  - Norets, Andriy
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 409
+EP  - 419
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002966
+KW  - Bayesian linear regression
+KW  - Heteroskedasticity
+KW  - Misspecification
+KW  - Posterior consistency
+KW  - Semiparametric Bernstein–von Mises theorem
+KW  - Semiparametric efficiency
+KW  - Gaussian process priors
+KW  - Multivariate Bernstein polynomials
+AB  - This paper studies large sample properties of a semiparametric Bayesian approach to inference in a linear regression model. The approach is to model the distribution of the regression error term by a normal distribution with the variance that is a flexible function of covariates. The main result of the paper is a semiparametric Bernstein–von Mises theorem under misspecification: even when the distribution of the regression error term is not normal, the posterior distribution of the properly recentered and rescaled regression coefficients converges to a normal distribution with the zero mean and the variance equal to the semiparametric efficiency bound.
+ER  - 
+
+TY  - JOUR
+T1  - IV estimation of panels with factor residuals
+AU  - Robertson, Donald
+AU  - Sarafidis, Vasilis
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 526
+EP  - 541
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002899
+KW  - Generalised method of moments
+KW  - Dynamic panel data
+KW  - Factor residuals
+AB  - This paper proposes a new instrumental variables approach for consistent and asymptotically efficient estimation of panel data models with weakly exogenous or endogenous regressors and residuals generated by a multi-factor error structure. In this case, the standard dynamic panel estimators fail to provide consistent estimates of the parameters. The novelty of our approach is that we introduce new parameters to represent the unobserved covariances between the instruments and the factor component of the residual; these parameters are estimable when N is large. Some important estimation and identification issues are studied in detail. The finite sample performance of the proposed estimators is investigated using simulated data. The results show that the method produces reliable estimates of the parameters over several parameterisations.
+ER  - 
+
+TY  - JOUR
+T1  - Cross-sectional averages versus principal components
+AU  - Westerlund, Joakim
+AU  - Urbain, Jean-Pierre
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 372
+EP  - 377
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002784
+KW  - Factor-augmented panel regressions
+KW  - Common factor models
+KW  - Principal components
+KW  - Cross-section averages
+KW  - Cross-section dependence
+AB  - In spite of the increased use of factor-augmented regressions in recent years, little is known regarding the relative merits of the two main approaches to estimation and inference, namely, the cross-sectional average and principal component estimators. By providing a formal comparison of the approaches, the current paper fills this gap in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric predictive regression
+AU  - Kasparis, Ioannis
+AU  - Andreou, Elena
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 468
+EP  - 494
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.05.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001377
+KW  - Fractional Ornstein–Uhlenbeck process
+KW  - Functional regression
+KW  - Nonparametric predictability test
+KW  - Nonparametric regression
+KW  - Stock returns
+KW  - Predictive regression
+AB  - A unifying framework for inference is developed in predictive regressions where the predictor has unknown integration properties and may be stationary or nonstationary. Two easily implemented nonparametric F-tests are proposed. The limit distribution of these predictive tests is nuisance parameter free and holds for a wide range of predictors including stationary as well as non-stationary fractional and near unit root processes. Asymptotic theory and simulations show that the proposed tests are more powerful than existing parametric predictability tests when deviations from unity are large or the predictive regression is nonlinear. Empirical illustrations to monthly SP500 stock returns data are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Infinite order cross-validated local polynomial regression
+AU  - Hall, Peter G.
+AU  - Racine, Jeffrey S.
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 510
+EP  - 525
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001432
+KW  - Model selection
+KW  - Efficiency
+KW  - Rates of convergence
+AB  - Many practical problems require nonparametric estimates of regression functions, and local polynomial regression has emerged as a leading approach. In applied settings practitioners often adopt either the local constant or local linear variants, or choose the order of the local polynomial to be slightly greater than the order of the maximum derivative estimate required. But such ad hoc determination of the polynomial order may not be optimal in general, while the joint determination of the polynomial order and bandwidth presents some interesting theoretical and practical challenges. In this paper we propose a data-driven approach towards the joint determination of the polynomial order and bandwidth, provide theoretical underpinnings, and demonstrate that improvements in both finite-sample efficiency and rates of convergence can thereby be obtained. In the case where the true data generating process (DGP) is in fact a polynomial whose order does not depend on the sample size, our method is capable of attaining the n rate often associated with correctly specified parametric models, while the estimator is shown to be uniformly consistent for a much larger class of DGPs. Theoretical underpinnings are provided and finite-sample properties are examined.
+ER  - 
+
+TY  - JOUR
+T1  - Closed-form estimation of nonparametric models with non-classical measurement errors
+AU  - Hu, Yingyao
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - 392
+EP  - 408
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002796
+KW  - Closed form
+KW  - Non-classical measurement errors
+KW  - Nonparametric regressions
+AB  - This paper proposes closed-form estimators for nonparametric regressions using two measurements with non-classical errors. One (administrative) measurement has location-/scale-normalized errors, but the other (survey) measurement has endogenous errors with arbitrary location and scale. For this setting of data combination, we derive closed-form identification of nonparametric regressions, and practical closed-form estimators that perform well with small samples. Applying this method to NHANES III, we study how obesity explains health care usage. Clinical measurements and self reports of BMI are used as two measurements with normalized errors and endogenous errors, respectively. We robustly find that health care usage increases with obesity.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 2
+SP  - IFC
+PY  - 2015
+DA  - 2015/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00016-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000160
+ER  - 

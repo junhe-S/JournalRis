@@ -1,0 +1,272 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Turnpike Horizons for Production Planning
+AU  - Thompson, Gerald L.
+AU  - Sethi, Suresh P.
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.229
+DO  - 10.1287/mnsc.26.3.229
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 229
+EP  - 241
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - A quadratic model for production-inventory planning was made famous by Holt, Modigliani, Muth, and Simon in 1960 in (Holt, C. C., F. Modigliani, J. F. Muth, H. A. Simon. 1960. Planning Production, Inventories, and Work Force. Prentice-Hall, Englewood Cliffs, New Jersey.), especially for its application to a paint factory. A discrete control version of a related quadratic production-inventory model was studied by Kleindorfer, Kriebel, Thompson, and Kleindorfer in (Kleindorfer, P. R., C. H. Kriebel, G. L. Thompson, G. B. Kleindorfer. 1975. Discrete optimal control of production plans. Management Sci. 22 261?273.). In the present paper we solve a continuous version of the model in Kleindorfer, Kriebel, Thompson, and Kleindorfer (Kleindorfer, P. R., C. H. Kriebel, G. L. Thompson, G. B. Kleindorfer. 1975. Discrete optimal control of production plans. Management Sci. 22 261?273.) in complete detail. The reason we are able to obtain a complete solution (which can rarely be done in control models) is that the linear decision rule, which is optimal here as in other quadratic models, permits the elimination of the adjoint function from the state variable equation after one differentiation of the latter. Thus the difficult two-point boundary value problem which usually arises in control problems is converted into an ordinary second order differential equation, which is readily solved. One advantage of having a complete solution to the problem is that it is possible to determine turnpike horizon points. These correspond to zeros of the adjoint function, and have the property that if they are known exactly, then a production-inventory plan which is optimal up to the next horizon point also forms part of the overall optimal plan. In the case of cyclic demand these turnpike horizon points usually occur every half cycle. Similar horizons are likely to exist in real production-inventory problems. A planning procedure for a real problem which extends only as far as a suspected horizon has a good chance of producing an optimal or near optimal solution for that period of time. A second advantage of having the complete solution available is that it is possible to develop a practical production-inventory system which intermingles a prediction procedure (such as the use of a finite Fourier series) with the solution procedure so that a comparison between predicted and actual inventories can be made continuously. Whenever the discrepancy between these two becomes sufficiently large, the model suggests proper corrective actions to be taken.
+AB  - A quadratic model for production-inventory planning was made famous by Holt, Modigliani, Muth, and Simon in 1960 in (Holt, C. C., F. Modigliani, J. F. Muth, H. A. Simon. 1960. Planning Production, Inventories, and Work Force. Prentice-Hall, Englewood Cliffs, New Jersey.), especially for its application to a paint factory. A discrete control version of a related quadratic production-inventory model was studied by Kleindorfer, Kriebel, Thompson, and Kleindorfer in (Kleindorfer, P. R., C. H. Kriebel, G. L. Thompson, G. B. Kleindorfer. 1975. Discrete optimal control of production plans. Management Sci. 22 261?273.). In the present paper we solve a continuous version of the model in Kleindorfer, Kriebel, Thompson, and Kleindorfer (Kleindorfer, P. R., C. H. Kriebel, G. L. Thompson, G. B. Kleindorfer. 1975. Discrete optimal control of production plans. Management Sci. 22 261?273.) in complete detail. The reason we are able to obtain a complete solution (which can rarely be done in control models) is that the linear decision rule, which is optimal here as in other quadratic models, permits the elimination of the adjoint function from the state variable equation after one differentiation of the latter. Thus the difficult two-point boundary value problem which usually arises in control problems is converted into an ordinary second order differential equation, which is readily solved. One advantage of having a complete solution to the problem is that it is possible to determine turnpike horizon points. These correspond to zeros of the adjoint function, and have the property that if they are known exactly, then a production-inventory plan which is optimal up to the next horizon point also forms part of the overall optimal plan. In the case of cyclic demand these turnpike horizon points usually occur every half cycle. Similar horizons are likely to exist in real production-inventory problems. A planning procedure for a real problem which extends only as far as a suspected horizon has a good chance of producing an optimal or near optimal solution for that period of time. A second advantage of having the complete solution available is that it is possible to develop a practical production-inventory system which intermingles a prediction procedure (such as the use of a finite Fourier series) with the solution procedure so that a comparison between predicted and actual inventories can be made continuously. Whenever the discrepancy between these two becomes sufficiently large, the model suggests proper corrective actions to be taken.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.229
+UR  - https://doi.org/10.1287/mnsc.26.3.229
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Integer Programming Models for Sales Resource Allocation
+AU  - Zoltners, Andris A.
+AU  - Sinha, Prabhakant
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.242
+DO  - 10.1287/mnsc.26.3.242
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 242
+EP  - 260
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - A practical conceptual framework for sales resource allocation modeling is presented in this paper. A literature review of sales resource allocation models is described in terms of this framework. The conceptual framework also lends itself to several integer programming models which may be used to address the variety of sales resource allocation decisions faced by every sales organization. A general model for sales resource allocation is developed which incorporates multiple sales resources, multiple time periods and carryover effects, non-separability, and risk. Several actual model implementations are discussed which illustrate the practical application of the integer programming models. The model implementations utilize recent advances in integer programming theory which enables sales managers and sales representatives to quickly develop and evaluate alternative sales resource allocation strategies.
+AB  - A practical conceptual framework for sales resource allocation modeling is presented in this paper. A literature review of sales resource allocation models is described in terms of this framework. The conceptual framework also lends itself to several integer programming models which may be used to address the variety of sales resource allocation decisions faced by every sales organization. A general model for sales resource allocation is developed which incorporates multiple sales resources, multiple time periods and carryover effects, non-separability, and risk. Several actual model implementations are discussed which illustrate the practical application of the integer programming models. The model implementations utilize recent advances in integer programming theory which enables sales managers and sales representatives to quickly develop and evaluate alternative sales resource allocation strategies.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.242
+UR  - https://doi.org/10.1287/mnsc.26.3.242
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Competitive Scenario Modeling System
+AU  - Dutta, Biplab K.
+AU  - King, William R.
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.261
+DO  - 10.1287/mnsc.26.3.261
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 261
+EP  - 273
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - A competitive decision support system that has been utilized in a pilot version in a corporate application is described and evaluated. The system is based on the combining of meta-game analysis with a number of mathematical market models. The system facilitates the testing of proposed competitive scenarios for stability and permits the consequences of scenarios to be predicted in the market share, profit and other terms that are familiar to manager users. Although the formal evaluation of the system is not clearly positive, both the system and the evaluation procedure appear to have substantial potential.
+AB  - A competitive decision support system that has been utilized in a pilot version in a corporate application is described and evaluated. The system is based on the combining of meta-game analysis with a number of mathematical market models. The system facilitates the testing of proposed competitive scenarios for stability and permits the consequences of scenarios to be predicted in the market share, profit and other terms that are familiar to manager users. Although the formal evaluation of the system is not clearly positive, both the system and the evaluation procedure appear to have substantial potential.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.261
+UR  - https://doi.org/10.1287/mnsc.26.3.261
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Lagrangean Relaxation Algorithm for the Two Duty Period Scheduling Problem
+AU  - Shepardson, Fred
+AU  - Marsten, Roy E.
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.274
+DO  - 10.1287/mnsc.26.3.274
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 274
+EP  - 281
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - The two duty period scheduling problem is an integer programming problem with 0-1 constraint coefficients. It is recognized that the problem can be reformulated as a one duty period problem with side constraints. Since the one duty period problem can be solved as a minimal cost network flow problem, we dualize with respect to the side constraints, forming a Lagrangean relaxation which is easily solved. Subgradient optimization is used to maximize the Lagrangean. Computational results are reported for several large problems.
+AB  - The two duty period scheduling problem is an integer programming problem with 0-1 constraint coefficients. It is recognized that the problem can be reformulated as a one duty period problem with side constraints. Since the one duty period problem can be solved as a minimal cost network flow problem, we dualize with respect to the side constraints, forming a Lagrangean relaxation which is easily solved. Subgradient optimization is used to maximize the Lagrangean. Computational results are reported for several large problems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.274
+UR  - https://doi.org/10.1287/mnsc.26.3.274
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - An Implicit Enumeration Algorithm for Quadratic Integer Programming
+AU  - McBride, R. D.
+AU  - Yormark, J. S.
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.282
+DO  - 10.1287/mnsc.26.3.282
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 282
+EP  - 296
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - We present an implicit enumeration algorithm for a nonseparable quadratic integer programming problem. We utilize fathoming criteria derived from Lemke's complementary pivot algorithm, and compare the use of pseudo-costs versus generalized penalties as a guide to branching. Computational experience is provided.
+AB  - We present an implicit enumeration algorithm for a nonseparable quadratic integer programming problem. We utilize fathoming criteria derived from Lemke's complementary pivot algorithm, and compare the use of pseudo-costs versus generalized penalties as a guide to branching. Computational experience is provided.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.282
+UR  - https://doi.org/10.1287/mnsc.26.3.282
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - An Economics Approach to Modeling the Productivity of Computer Systems
+AU  - Kriebei, Charles H.
+AU  - Raviv, Artur
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.297
+DO  - 10.1287/mnsc.26.3.297
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 297
+EP  - 311
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - The problem of linking computing and information services to end user needs for performance evaluation has been a long standing issue in the systems literature. A joint university-industry research project was begun in 1975 to better understand the problem. The specific goals of the project have been: (1) to develop a theory or conceptual framework for productivity measurement of the computing and information services function, (2) to pilot test the theory through empirical analysis at field sites, and (3) to evaluate the results and report the conclusions (success and failure). This paper is addressed to the first of these goals; the empirical tests and experience based on the framework are reported in a sequel paper. Our approach to modeling the productivity of computer systems is based on conventional economic theory and empirical analysis. The economics paradigm is to view the organization as a marketplace for computing and information services which contains elements of supply and demand. In this paper our concern centers on the supply of services. A model of the production process for computing services available within an organization is developed which quantitatively relates input resources and output products or services; the model also incorporates output quality as an integral function of the relevant variables in the process. Various measures of production efficiency are defined based on this model. The productivity of a computer system is defined in terms of these measures and we discuss their application for administrative decisions in performance evaluation.
+AB  - The problem of linking computing and information services to end user needs for performance evaluation has been a long standing issue in the systems literature. A joint university-industry research project was begun in 1975 to better understand the problem. The specific goals of the project have been: (1) to develop a theory or conceptual framework for productivity measurement of the computing and information services function, (2) to pilot test the theory through empirical analysis at field sites, and (3) to evaluate the results and report the conclusions (success and failure). This paper is addressed to the first of these goals; the empirical tests and experience based on the framework are reported in a sequel paper. Our approach to modeling the productivity of computer systems is based on conventional economic theory and empirical analysis. The economics paradigm is to view the organization as a marketplace for computing and information services which contains elements of supply and demand. In this paper our concern centers on the supply of services. A model of the production process for computing services available within an organization is developed which quantitatively relates input resources and output products or services; the model also incorporates output quality as an integral function of the relevant variables in the process. Various measures of production efficiency are defined based on this model. The productivity of a computer system is defined in terms of these measures and we discuss their application for administrative decisions in performance evaluation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.297
+UR  - https://doi.org/10.1287/mnsc.26.3.297
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Implicit Intransitivity Under Majority Rule with Mixed Motions
+AU  - Flood, Merrill M.
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.312
+DO  - 10.1287/mnsc.26.3.312
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 312
+EP  - 321
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - When several persons organized as a group are to choose one from among several specified alternatives they may make use of majority voting or some other decision-making process. This paper considers the case in which the decision process includes among the alternatives some that are probability mixtures of others. Examples are presented to illustrate the way in which a situation that is transitive under majority voting rule becomes intransitive when mixtures of the same alternatives are permitted. If utility product maximization is used to determine the group choice, as an agreed upon arbitration process when utilities are assigned to the alternatives by each group member but without interpersonal comparability, some examples are presented to illustrate the results of this method. It is reasoned that some such method is often clearly preferable to majority voting in order both to allot more appropriate influence to minorities and to accommodate for differences in importance of alternatives beyond those represented by individual rank orderings. The utility product maximization section includes several numerical examples to illustrate relationships between the findings of this paper and familiar work in game theory by Nash, and by Luce and Raiffa, where this approach has been suggested as a possible method for ?arbitration.? Other numerical examples utilize inequalities to illustrate intransitivity effects like those discussed previously by Zeckhauser and Shepsle, and also in the context of Arrow's celebrated Impossibility Theorem.
+AB  - When several persons organized as a group are to choose one from among several specified alternatives they may make use of majority voting or some other decision-making process. This paper considers the case in which the decision process includes among the alternatives some that are probability mixtures of others. Examples are presented to illustrate the way in which a situation that is transitive under majority voting rule becomes intransitive when mixtures of the same alternatives are permitted. If utility product maximization is used to determine the group choice, as an agreed upon arbitration process when utilities are assigned to the alternatives by each group member but without interpersonal comparability, some examples are presented to illustrate the results of this method. It is reasoned that some such method is often clearly preferable to majority voting in order both to allot more appropriate influence to minorities and to accommodate for differences in importance of alternatives beyond those represented by individual rank orderings. The utility product maximization section includes several numerical examples to illustrate relationships between the findings of this paper and familiar work in game theory by Nash, and by Luce and Raiffa, where this approach has been suggested as a possible method for ?arbitration.? Other numerical examples utilize inequalities to illustrate intransitivity effects like those discussed previously by Zeckhauser and Shepsle, and also in the context of Arrow's celebrated Impossibility Theorem.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.312
+UR  - https://doi.org/10.1287/mnsc.26.3.312
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Structure in 5's: A Synthesis of the Research on Organization Design
+AU  - Mintzberg, Henry
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.322
+DO  - 10.1287/mnsc.26.3.322
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 322
+EP  - 341
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - The elements of organizational structuring?which show a curious tendency to appear in five's?suggest a typology of five basic configurations: Simple Structure, Machine Bureaucracy, Professional Bureaucracy, Divisionalized Form, and Adhocracy. The elements include (1) five basic parts of the organization?the operating core, strategic apex, middle line, technostructure, and support staff; (2) five basic mechanisms of coordination?mutual adjustment, direct supervision, and the standardization of work processes, outputs, and skills; (3) the design parameters?job specialization, behavior formalization, training and indoctrination, unit grouping, unit size, action planning and performance control systems, liaison devices (such as integrating managers, teams, task forces, and matrix structure), vertical decentralization (delegation to line managers), and horizontal decentralization (power sharing by nonmanagers); and (4) the contingency factors?age and size, technical system, environment, and power. Each of the five configurations relies on one of the five coordinating mechanism and tends to favor one of the five parts. In Simple Structure, the key part is the strategic apex, which coordinates by direct supervision; the structure is minimally elaborated and highly centralized; it is associated with simple, dynamic environments and strong leaders, and tends to be found in smaller, younger organizations or those facing severe crises. The Machine Bureaucracy coordinates primarily by the imposition of work standards from the technostructure; jobs are highly specialized and formalized, units functional and very large (at the operating level), power centralized vertically at the strategic apex with limited horizontal decentralization to the technostructure; this structure tends to be found in simple, stable environments, and is often associated with older, larger organizations, sometimes externally controlled, and mass production technical systems. The Professional Bureaucracy relies on the standardization of skills in its operating core for coordination; jobs are highly specialized but minimally formalized, training is extensive and grouping is on a concurrent functional and market basis, with large sized operating units, and decentralization is extensive in both the vertical and horizontal dimensions; this structure is typically found in complex but stable environments, with technical systems that are simple and non-regulating. In the Divisionalized Form, a good deal of power is delegated to market-based units in the middle line (limited vertical decentralization), whose efforts are coordinated by the standardization of outputs, through the extensive use of performance control systems; such structures are typically found in very large, mature organizations, above all operating in diversified markets. Adhocracy coordinates primarily by mutual adjustment among all of its parts, calling especially for the collaboration of its support staff; jobs are specialized, involving extensive training but little formalization, units are small and combine functional and market bases in matrix structures, liaison devices are used extensively, and the structure is decentralized selectively in both the vertical and horizontal dimensions; these structures are found in complex, dynamic environments, and are often associated with highly sophisticated and automated technical systems. In conclusion, it is claimed that the effective Organization will favor some sort of configuration?some type of a logically consistent clustering of its elements?as it searches for harmony in its internal processes and consonance with its environment. But some organizations will inevitably be driven to hybrid structures as they react to contradictory pressures or while they effect a transition from one configuration to another, and here too it is believed that the typology of five can serve as a diagnostic tool in organizational design.
+AB  - The elements of organizational structuring?which show a curious tendency to appear in five's?suggest a typology of five basic configurations: Simple Structure, Machine Bureaucracy, Professional Bureaucracy, Divisionalized Form, and Adhocracy. The elements include (1) five basic parts of the organization?the operating core, strategic apex, middle line, technostructure, and support staff; (2) five basic mechanisms of coordination?mutual adjustment, direct supervision, and the standardization of work processes, outputs, and skills; (3) the design parameters?job specialization, behavior formalization, training and indoctrination, unit grouping, unit size, action planning and performance control systems, liaison devices (such as integrating managers, teams, task forces, and matrix structure), vertical decentralization (delegation to line managers), and horizontal decentralization (power sharing by nonmanagers); and (4) the contingency factors?age and size, technical system, environment, and power. Each of the five configurations relies on one of the five coordinating mechanism and tends to favor one of the five parts. In Simple Structure, the key part is the strategic apex, which coordinates by direct supervision; the structure is minimally elaborated and highly centralized; it is associated with simple, dynamic environments and strong leaders, and tends to be found in smaller, younger organizations or those facing severe crises. The Machine Bureaucracy coordinates primarily by the imposition of work standards from the technostructure; jobs are highly specialized and formalized, units functional and very large (at the operating level), power centralized vertically at the strategic apex with limited horizontal decentralization to the technostructure; this structure tends to be found in simple, stable environments, and is often associated with older, larger organizations, sometimes externally controlled, and mass production technical systems. The Professional Bureaucracy relies on the standardization of skills in its operating core for coordination; jobs are highly specialized but minimally formalized, training is extensive and grouping is on a concurrent functional and market basis, with large sized operating units, and decentralization is extensive in both the vertical and horizontal dimensions; this structure is typically found in complex but stable environments, with technical systems that are simple and non-regulating. In the Divisionalized Form, a good deal of power is delegated to market-based units in the middle line (limited vertical decentralization), whose efforts are coordinated by the standardization of outputs, through the extensive use of performance control systems; such structures are typically found in very large, mature organizations, above all operating in diversified markets. Adhocracy coordinates primarily by mutual adjustment among all of its parts, calling especially for the collaboration of its support staff; jobs are specialized, involving extensive training but little formalization, units are small and combine functional and market bases in matrix structures, liaison devices are used extensively, and the structure is decentralized selectively in both the vertical and horizontal dimensions; these structures are found in complex, dynamic environments, and are often associated with highly sophisticated and automated technical systems. In conclusion, it is claimed that the effective Organization will favor some sort of configuration?some type of a logically consistent clustering of its elements?as it searches for harmony in its internal processes and consonance with its environment. But some organizations will inevitably be driven to hybrid structures as they react to contradictory pressures or while they effect a transition from one configuration to another, and here too it is believed that the typology of five can serve as a diagnostic tool in organizational design.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.322
+UR  - https://doi.org/10.1287/mnsc.26.3.322
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Erratum to “Planning Horizon Procedures for Machine Replacement Models”
+AU  - Sethi, Suresh P.
+AU  - Chand, Suresh
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.342
+DO  - 10.1287/mnsc.26.3.342
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 342
+EP  - 342
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - The following typographical errors appeared in our paper ?Planning Horizon Procedures for Machine Replacement Models,? Management Science, Vol. 25, No. 2 (February 1979), pp. 140?151.
+AB  - The following typographical errors appeared in our paper ?Planning Horizon Procedures for Machine Replacement Models,? Management Science, Vol. 25, No. 2 (February 1979), pp. 140?151.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.342
+UR  - https://doi.org/10.1287/mnsc.26.3.342
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Erratum to “Optimal Pilfering Policies for Dynamic Continuous Thieves”
+AU  - Sethi, Suresh P.
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.342a
+DO  - 10.1287/mnsc.26.3.342a
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 342
+EP  - 342
+VL  - 26
+IS  - 3
+PB  - INFORMS
+N2  - The following typographical errors appeared in my paper ?Optimal Pilfering Policies for Dynamic Continuous Thieves,? Management Sci., Vol. 25, No. 6 (1979), pp. 535?542.
+AB  - The following typographical errors appeared in my paper ?Optimal Pilfering Policies for Dynamic Continuous Thieves,? Management Sci., Vol. 25, No. 6 (1979), pp. 535?542.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.342a
+UR  - https://doi.org/10.1287/mnsc.26.3.342a
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - About Authors
+Y1  - 1980/03/01
+PY  - 1980
+DA  - 1980/03/01
+N1  - doi: 10.1287/mnsc.26.3.343
+DO  - 10.1287/mnsc.26.3.343
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 343
+EP  - 344
+VL  - 26
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.26.3.343
+UR  - https://doi.org/10.1287/mnsc.26.3.343
+Y2  - 2024/03/28
+ER  - 

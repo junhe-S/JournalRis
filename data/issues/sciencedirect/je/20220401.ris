@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Corrigendum to “Large Bayesian vector autoregressions with stochastic volatility and non-conjugate priors” [J. Econometrics 212 (1) (2019) 137–154]
+AU  - Carriero, Andrea
+AU  - Chan, Joshua
+AU  - Clark, Todd E.
+AU  - Marcellino, Massimiliano
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 506
+EP  - 512
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002773
+KW  - Big data
+KW  - Forecasting
+KW  - Structural VAR
+AB  - The original algorithm contained a mistake that meant the conditional distributions used for the VAR’s coefficients were missing a piece of information. We propose a new algorithm that uses the same factorization but includes the missing term. The new, correct algorithm has the same computational complexity as the old, incorrect one (i.e., O(N4)), and therefore it still allows the estimation of large VARs.
+ER  - 
+
+TY  - JOUR
+T1  - Comment on “Large Bayesian vector autoregressions with stochastic volatility and non-conjugate priors”
+AU  - Bognanni, Mark
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 498
+EP  - 505
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002554
+KW  - Markov chain Monte Carlo
+KW  - Vector autoregressions
+KW  - Stochastic volatility
+AB  - Fully Bayesian inference in a vector autoregression with stochastic volatility (VAR-SV) typically relies on simulations from a multi-step Markov chain Monte Carlo (MCMC) algorithm. Carriero et al. (2019) propose a new, faster, “triangular” algorithm (TA) to replace the systemwide algorithm (SWA) in the most time-consuming step of the VAR-SV’s standard MCMC algorithm. This paper analytically shows that the TA and SWA generally sample from different distributions, thereby disproving a central claim of Carriero et al. (2019). Replacing the SWA with the TA thus results in an ad hoc change to the MCMC algorithm’s transition kernel, leaving a priori unknown the formal relationship between the model’s posterior and simulations from the MCMC algorithm using the TA.
+ER  - 
+
+TY  - JOUR
+T1  - Residual-augmented IVX predictive regression
+AU  - Demetrescu, Matei
+AU  - Rodrigues, Paulo M.M.
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 429
+EP  - 460
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030395X
+KW  - Predictability
+KW  - Persistence
+KW  - Persistence change
+KW  - Bias reduction
+AB  - Bias correction in predictive regressions is known to reduce the empirical size problems of OLS-based predictability tests with persistent predictors. This paper shows that bias correction is also achieved in the context of the extended instrumental variable (IVX) predictability testing framework introduced by Kostakis et al. (2015). To be specific, new IVX-based statistics subject to a bias correction analogous to that proposed by Amihud and Hurvich (2004) are introduced. Four important contributions are provided: first, we characterize the effects that bias-reduction adjustments have on the asymptotic distributions of the IVX test statistics in a general context allowing for short-run dynamics and heterogeneity; second, we discuss the validity of the procedure when predictors are stationary as well as near-integrated; third, we conduct an exhaustive Monte Carlo analysis to investigate the small in- and out-of-sample properties of the test procedures and their sensitivity to distinctive features that characterize predictive regressions in practice, such as strong persistence, endogeneity, and non-Gaussian innovations; and fourth, we provide an analysis of real estate return and rent growth predictability in 19 OECD countries.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum to “Predictability of stock returns and asset allocation under structural breaks” [J. Econometrics 164 (2011) 60–78]
+AU  - Pettenuzzo, Davide
+AU  - Song, Yong
+AU  - Timmermann, Allan
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 513
+EP  - 517
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000476
+AB  - We revisit the estimation algorithm of Pettenuzzo and Timmermann (2011) and show how to apply the posterior simulation test of Geweke (2004) to locate and correct an error in the original posterior sampling algorithm. The main modification for the new algorithm is the introduction of a Metropolis–Hasting step to draw the precision parameters of the return and predictor equations, taking into account the correlation between the error terms of the two equations. We find that the modification of the original algorithm has very minor effects on the empirical results reported in Pettenuzzo and Timmermann (2011). In particular, for both the dividend yield and Treasury bill predictors the updated algorithm finds that the models best supported by the data, as measured by the SIC, match those reported in the original paper.
+ER  - 
+
+TY  - JOUR
+T1  - Stationary vine copula models for multivariate time series
+AU  - Nagler, Thomas
+AU  - Krüger, Daniel
+AU  - Min, Aleksey
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 305
+EP  - 324
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621003043
+KW  - Pair-copula
+KW  - Dependence
+KW  - Bootstrap
+KW  - Forecasting
+KW  - Markov chain
+KW  - Sequential maximum likelihood
+AB  - Multivariate time series exhibit two types of dependence: across variables and across time points. Vine copulas are graphical models for the dependence and can conveniently capture both types of dependence in the same model. We derive the maximal class of graph structures that guarantee stationarity under a natural and verifiable condition called translation invariance. We propose computationally efficient methods for estimation, simulation, prediction, and uncertainty quantification and show their validity by asymptotic results and simulations. The theoretical results allow for misspecified models and, even when specialized to the iid case, go beyond what is available in the literature. The new model class is illustrated by an application to forecasting returns of a portfolio of 20 stocks, where they show excellent forecast performance. The paper is accompanied by an open source software implementation.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric testing with highly persistent predictors
+AU  - Werker, Bas J.M.
+AU  - Zhou, Bo
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 347
+EP  - 370
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001573
+KW  - Predictive regression
+KW  - Limit experiment
+KW  - LABF
+KW  - Maximal invariant
+KW  - Rank statistics
+AB  - We address the issue of semiparametric efficiency in the bivariate regression problem with a highly persistent predictor, where the joint distribution of the innovations is regarded an infinite-dimensional nuisance parameter. Using a structural representation of the limit experiment and exploiting invariance relationships therein, we construct invariant point-optimal tests for the regression coefficient of interest. This approach naturally leads to a family of feasible tests based on the component-wise ranks of the innovations that can gain considerable power relative to existing tests under non-Gaussian innovation distributions, while behaving equivalently under Gaussianity. When an i.i.d. assumption on the innovations is appropriate for the data at hand, our tests exploit the efficiency gains possible. Moreover, we show by simulation that our test remains well behaved under some forms of conditional heteroskedasticity.
+ER  - 
+
+TY  - JOUR
+T1  - The drift burst hypothesis
+AU  - Christensen, Kim
+AU  - Oomen, Roel
+AU  - Renò, Roberto
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 461
+EP  - 497
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303912
+KW  - Flash crashes
+KW  - Gradual jumps
+KW  - Volatility bursts
+KW  - Liquidity
+KW  - Nonparametric statistics
+KW  - Microstructure noise
+AB  - The drift burst hypothesis postulates the existence of short-lived locally explosive trends in the price paths of financial assets. The recent U.S. equity and treasury flash crashes can be viewed as two high-profile manifestations of such dynamics, but we argue that drift bursts of varying magnitude are an expected and regular occurrence in financial markets that can arise through established mechanisms of liquidity provision. We show how to build drift bursts into the continuous-time Itô semimartingale model, elaborate on the conditions required for the process to remain arbitrage-free, and propose a nonparametric test statistic that identifies drift bursts from noisy high-frequency data. We apply the test and demonstrate that drift bursts are a stylized fact of the price dynamics across equities, fixed income, currencies and commodities. Drift bursts occur once a week on average, and the majority of them are accompanied by subsequent price reversion and can thus be regarded as “flash crashes.” The reversal is found to be stronger for negative drift bursts with large trading volume, which is consistent with endogenous demand for immediacy during market crashes.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation for score-driven models
+AU  - Blasques, Francisco
+AU  - van Brummelen, Janneke
+AU  - Koopman, Siem Jan
+AU  - Lucas, André
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 325
+EP  - 346
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001743
+KW  - Time-varying parameters
+KW  - Markov processes
+KW  - Stationarity
+KW  - Invertibility
+KW  - Consistency
+KW  - Asymptotic normality
+AB  - We establish strong consistency and asymptotic normality of the maximum likelihood estimator for stochastic time-varying parameter models driven by the score of the predictive conditional likelihood function. For this purpose, we formulate primitive conditions for global identification, invertibility, strong consistency, and asymptotic normality both under correct specification and misspecification of the model. A detailed illustration is provided for a conditional volatility model with disturbances from the Student’s t distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - ii
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(22)00026-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000264
+ER  - 
+
+TY  - JOUR
+T1  - Simultaneous inference for time-varying models
+AU  - Karmakar, Sayar
+AU  - Richter, Stefan
+AU  - Wu, Wei Biao
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 408
+EP  - 428
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000725
+KW  - Time-varying regression
+KW  - Time-series models
+KW  - Generalized linear models
+KW  - Simultaneous confidence band
+KW  - Gaussian approximation
+KW  - Bootstrap
+AB  - A general class of non-stationary time series is considered in this paper. We estimate the time-varying coefficients by using local linear M-estimation. For these estimators, weak Bahadur representations are obtained and are used to construct simultaneous confidence bands. For practical implementation, we propose a bootstrap based method to circumvent the slow logarithmic convergence of the theoretical simultaneous bands. Our results substantially generalize and unify the treatments for several time-varying regression and auto-regression models. The performance for tvARCH and tvGARCH models is studied in simulations and a few real-life applications of our study are presented through the analysis of some popular financial datasets.
+ER  - 
+
+TY  - JOUR
+T1  - Functional coefficient panel modeling with communal smoothing covariates
+AU  - Phillips, Peter C.B.
+AU  - Wang, Ying
+JO  - Journal of Econometrics
+VL  - 227
+IS  - 2
+SP  - 371
+EP  - 407
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000944
+KW  - Communal covariates
+KW  - Fixed effects
+KW  - Functional coefficients
+KW  - Housing rental prices
+KW  - Panel data
+KW  - Tests of constancy
+AB  - Behavior at the individual level in panels is often influenced by aspects of the system in aggregate. In particular, the interaction between individual-specific explanatory variables and an individual dependent variable may be affected by ‘global’ variables that are relevant in decision making and shared communally by all individuals in the sample. To capture such behavioral features, we employ a functional coefficient panel model in which certain communal covariates may jointly influence panel interactions by means of their impact on the model coefficients. Two classes of estimation procedures are proposed, one based on cross-section averaged data, the other on the full panel. The asymptotic properties of these methods are obtained and compared, allowing for sequential and joint expansion of the cross-section and time series sample sizes. Limit theory for the associated fixed effects estimators is derived and inferential procedures are developed to test hypotheses concerning the functional coefficients. The finite sample performance of the proposed estimators and tests are examined by simulation. An empirical illustration is provided in which the regional sensitivity of housing rental prices to available job numbers is studied with national labor force participation rate as the communal smoothing covariate. Strong evidence is found supporting the functional coefficient specification with this country-wide smoothing variable.
+ER  - 

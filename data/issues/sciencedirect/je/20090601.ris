@@ -1,0 +1,415 @@
+TY  - JOUR
+T1  - A two-stage realized volatility approach to estimation of diffusion processes with discrete data
+AU  - Phillips, Peter C.B.
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 139
+EP  - 150
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002145
+KW  - Maximum likelihood
+KW  - Girsanov theorem
+KW  - Discrete sampling
+KW  - Continuous record
+KW  - Realized volatility
+AB  - This paper motivates and introduces a two-stage method of estimating diffusion processes based on discretely sampled observations. In the first stage we make use of the feasible central limit theory for realized volatility, as developed in [Jacod, J., 1994. Limit of random measures associated with the increments of a Brownian semiartingal. Working paper, Laboratoire de Probabilities, Universite Pierre et Marie Curie, Paris] and [Barndorff-Nielsen, O., Shephard, N., 2002. Econometric analysis of realized volatility and its use in estimating stochastic volatility models. Journal of the Royal Statistical Society. Series B, 64, 253–280], to provide a regression model for estimating the parameters in the diffusion function. In the second stage, the in-fill likelihood function is derived by means of the Girsanov theorem and then used to estimate the parameters in the drift function. Consistency and asymptotic distribution theory for these estimates are established in various contexts. The finite sample performance of the proposed method is compared with that of the approximate maximum likelihood method of [Aït-Sahalia, Y., 2002. Maximum likelihood estimation of discretely sampled diffusion: A closed-form approximation approach. Econometrica. 70, 223–262].
+ER  - 
+
+TY  - JOUR
+T1  - Maximum entropy autoregressive conditional heteroskedasticity model
+AU  - Park, Sung Y.
+AU  - Bera, Anil K.
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 219
+EP  - 230
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002200
+KW  - Maximum entropy density
+KW  - ARCH models
+KW  - Excess kurtosis
+KW  - Asymmetry
+KW  - Peakedness of distribution
+KW  - Stock returns data
+AB  - In many applications, it has been found that the autoregressive conditional heteroskedasticity (ARCH) model under the conditional normal or Student’s t distributions are not general enough to account for the excess kurtosis in the data. Moreover, asymmetry in the financial data is rarely modeled in a systematic way. In this paper, we suggest a general density function based on the maximum entropy (ME) approach that takes account of asymmetry, excess kurtosis and also of high peakedness. The ME principle is based on the efficient use of available information, and as is well known, many of the standard family of distributions can be derived from the ME approach. We demonstrate how we can extract information functional from the data in the form of moment functions. We also propose a test procedure for selecting appropriate moment functions. Our procedure is illustrated with an application to the NYSE stock returns. The empirical results reveal that the ME approach with a fewer moment functions leads to a model that captures the stylized facts quite effectively.
+ER  - 
+
+TY  - JOUR
+T1  - Predictive density estimators for daily volatility based on the use of realized measures
+AU  - Corradi, Valentina
+AU  - Distaso, Walter
+AU  - Swanson, Norman R.
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 119
+EP  - 138
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002133
+KW  - Diffusions
+KW  - Integrated volatility
+KW  - Realized volatility measures
+KW  - Kernels
+KW  - Microstructure noise
+AB  - The main objective of this paper is to propose a feasible, model free estimator of the predictive density of integrated volatility. In this sense, we extend recent papers by Andersen et al. [Andersen, T.G., Bollerslev, T., Diebold, F.X., Labys, P., 2003. Modelling and forecasting realized volatility. Econometrica 71, 579–626], and by Andersen et al. [Andersen, T.G., Bollerslev, T., Meddahi, N., 2004. Analytic evaluation of volatility forecasts. International Economic Review 45, 1079–1110; Andersen, T.G., Bollerslev, T., Meddahi, N., 2005. Correcting the errors: Volatility forecast evaluation using high frequency data and realized volatilities. Econometrica 73, 279–296], who address the issue of pointwise prediction of volatility via ARMA models, based on the use of realized volatility. Our approach is to use a realized volatility measure to construct a non-parametric (kernel) estimator of the predictive density of daily volatility. We show that, by choosing an appropriate realized measure, one can achieve consistent estimation, even in the presence of jumps and microstructure noise in prices. More precisely, we establish that four well known realized measures, i.e. realized volatility, bipower variation, and two measures robust to microstructure noise, satisfy the conditions required for the uniform consistency of our estimator. Furthermore, we outline an alternative simulation based approach to predictive density construction. Finally, we carry out a simulation experiment in order to assess the accuracy of our estimators, and provide an empirical illustration that underscores the importance of using microstructure robust measures when using high frequency data.
+ER  - 
+
+TY  - JOUR
+T1  - The Wishart Autoregressive process of multivariate stochastic volatility
+AU  - Gourieroux, C.
+AU  - Jasiak, J.
+AU  - Sufana, R.
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 167
+EP  - 181
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002169
+KW  - Stochastic volatility
+KW  - Car process
+KW  - Autoregressive gamma process
+KW  - Factor analysis
+KW  - Reduced rank
+KW  - Realized volatility
+AB  - The Wishart Autoregressive (WAR) process is a dynamic model for time series of multivariate stochastic volatility. The WAR naturally accommodates the positivity and symmetry of volatility matrices and provides closed-form non-linear forecasts. The estimation of the WAR is straighforward, as it relies on standard methods such as the Method of Moments and Maximum Likelihood. For illustration, the WAR is applied to a sequence of intraday realized volatility–covolatility matrices from the Toronto Stock Market (TSX).
+ER  - 
+
+TY  - JOUR
+T1  - Quantile cointegrating regression
+AU  - Xiao, Zhijie
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 248
+EP  - 260
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002224
+KW  - ARCH/GARCH
+KW  - Cointegration
+KW  - Portfolio optimization
+KW  - Quantile regression
+KW  - Time varying
+AB  - Quantile regression has important applications in risk management, portfolio optimization, and asset pricing. The current paper studies estimation, inference and financial applications of quantile regression with cointegrated time series. In addition, a new cointegration model with quantile-varying coefficients is proposed. In the proposed model, the value of cointegrating coefficients may be affected by the shocks and thus may vary over the innovation quantile. The proposed model may be viewed as a stochastic cointegration model which includes the conventional cointegration model as a special case. It also provides a useful complement to cointegration models with (G)ARCH effects. Asymptotic properties of the proposed model and limiting distribution of the cointegrating regression quantiles are derived. In the presence of endogenous regressors, fully-modified quantile regression estimators and augmented quantile cointegrating regression are proposed to remove the second order bias and nuisance parameters. Regression Wald tests are constructed based on the fully modified quantile regression estimators. An empirical application to stock index data highlights the potential of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - A discrete-time model for daily S & P500 returns and realized variations: Jumps and leverage effects
+AU  - Bollerslev, Tim
+AU  - Kretschmer, Uta
+AU  - Pigorsch, Christian
+AU  - Tauchen, George
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 151
+EP  - 166
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002157
+KW  - Realized volatility
+KW  - Bipower variation
+KW  - Jumps
+KW  - Leverage effect
+KW  - Simultaneous equation model
+AB  - We develop an empirically highly accurate discrete-time daily stochastic volatility model that explicitly distinguishes between the jump and continuous-time components of price movements using nonparametric realized variation and Bipower variation measures constructed from high-frequency intraday data. The model setup allows us to directly assess the structural inter-dependencies among the shocks to returns and the two different volatility components. The model estimates suggest that the leverage effect, or asymmetry between returns and volatility, works primarily through the continuous volatility component. The excellent fit of the model makes it an ideal candidate for an easy-to-implement auxiliary model in the context of indirect estimation of empirically more realistic continuous-time jump diffusion and Lévy-driven stochastic volatility models, effectively incorporating the interdaily dependencies inherent in the high-frequency intraday data.
+ER  - 
+
+TY  - JOUR
+T1  - Extracting a common stochastic trend: Theory with some applications
+AU  - Chang, Yoosoon
+AU  - Isaac Miller, J.
+AU  - Park, Joon Y.
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 231
+EP  - 247
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002212
+KW  - State space model
+KW  - Kalman filter
+KW  - Common stochastic trend
+KW  - Maximum likelihood estimation
+KW  - Permanent–transitory decomposition
+KW  - Interest rates
+KW  - Volume and volatility
+KW  - Stock price index
+AB  - This paper investigates the statistical properties of estimators of the parameters and unobserved series for state space models with integrated time series. In particular, we derive the full asymptotic results for maximum likelihood estimation using the Kalman filter for a prototypical class of such models—those with a single latent common stochastic trend. Indeed, we establish the consistency and asymptotic mixed normality of the maximum likelihood estimator and show that the conventional method of inference is valid for this class of models. The models we explicitly consider comprise a special–yet useful–class of models that may be employed to extract the common stochastic trend from multiple integrated time series. Such models can be very useful to obtain indices that represent fluctuations of various markets or common latent factors that affect a set of economic and financial variables simultaneously. Moreover, our derivation of the asymptotics of this class makes it clear that the asymptotic Gaussianity and the validity of the conventional inference for the maximum likelihood procedure extends to a larger class of more general state space models involving integrated time series. Finally, we demonstrate the utility of this class of models extracting a common stochastic trend from three sets of time series involving short- and long-term interest rates, stock return volatility and trading volume, and Dow Jones stock prices.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - IFC
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(09)00114-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001146
+ER  - 
+
+TY  - JOUR
+T1  - Discrete choice modeling with nonstationary panels applied to exchange rate regime choice
+AU  - Jin, Sainan
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 312
+EP  - 321
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002273
+KW  - Discrete choice model
+KW  - Exchange rate regime
+KW  - Fear of floating
+KW  - Fixed effects
+KW  - Joint limits
+KW  - Brownian local time
+AB  - This paper develops a regression limit theory for discrete choice nonstationary panels with large cross section (N) and time series (T) dimensions. Some results emerging from this theory are directly applicable in the wider context of M-estimation. This includes an extension of work by Wooldridge [Wooldridge, J.M., 1994. Estimation and Inference for Dependent Processes. In: Engle, R.F., McFadden, D.L. (Eds.). Handbook of Econometrics, vol. 4, North-Holland, Amsterdam] on the limit theory of local extremum estimators to multi-indexed processes in nonlinear nonstationary panel data models. It is shown that the maximum likelihood (ML) estimator is consistent without an incidental parameters problem and has a limit theory with a fast rate of convergence N1/2T3/4 (in the stationary case, the rate is N1/2T1/2) for the regression coefficients and thresholds, and a normal limit distribution. In contrast, the limit distribution is known to be mixed normal in time series modeling, as shown in [Park, J.Y., Phillips, P.C.B., 2000, Nonstationary binary choice. Econometrica, 68, 1249–1280] (hereafter PP), and [Phillips, P.C.B., Jin, S., Hu, L., 2007. Nonstationary discrete choice: A corrigendum and addendum. Journal of Econometrics 141(2), 1115–1130] (hereafter, PJH). The approach is applied to exchange rate regime choice by monetary authorities, and we provide an analysis of the empirical phenomenon known as “fear of floating”.
+ER  - 
+
+TY  - JOUR
+T1  - Forecasts of US short-term interest rates: A flexible forecast combination approach
+AU  - Guidolin, Massimo
+AU  - Timmermann, Allan
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 297
+EP  - 311
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002261
+KW  - Forecast combinations
+KW  - Regime switches
+KW  - Short term interest rates
+KW  - Expectations hypothesis
+AB  - This paper develops a flexible approach to combine forecasts of future spot rates with forecasts from time-series models or macroeconomic variables. We find empirical evidence that, accounting for both regimes in interest rate dynamics, and combining forecasts from different models, helps improve the out-of-sample forecasting performance for US short-term rates. Imposing restrictions from the expectations hypothesis on the forecasting model are found to help at long forecasting horizons.
+ER  - 
+
+TY  - JOUR
+T1  - Guest editors’ introduction
+AU  - Kuan, Chung-Ming
+AU  - Hong, Yongmiao
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 117
+EP  - 118
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002121
+ER  - 
+
+TY  - JOUR
+T1  - The role of beliefs in inference for rational expectations models
+AU  - Lehmann, Bruce N.
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 322
+EP  - 331
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002285
+AB  - This paper discusses inference for rational expectations models estimated via minimum distance methods by characterizing the probability beliefs regarding the data generating process (DGP) that are compatible with given moment conditions. The null hypothesis is taken to be rational expectations and the alternative hypothesis to be distorted beliefs. This distorted beliefs alternative is analyzed from the perspective of a hypothetical semiparametric Bayesian who believes the model and uses it to learn about the DGP. This interpretation provides a different perspective on estimates, test statistics, and confidence regions in large samples, particularly regarding the economic significance of rejections in rational expectations models. A suggestive application to the equity premium puzzle is examined.
+ER  - 
+
+TY  - JOUR
+T1  - The structure of dynamic correlations in multivariate stochastic volatility models
+AU  - Asai, Manabu
+AU  - McAleer, Michael
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 182
+EP  - 192
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002170
+KW  - Multivariate conditional volatility
+KW  - Multivariate stochastic volatility
+KW  - Constant correlations
+KW  - Dynamic correlations
+KW  - Markov chain Monte Carlo
+AB  - This paper proposes two types of stochastic correlation structures for Multivariate Stochastic Volatility (MSV) models, namely the constant correlation (CC) MSV and dynamic correlation (DC) MSV models, from which the stochastic covariance structures can easily be obtained. Both structures can be used for purposes of determining optimal portfolio and risk management strategies through the use of correlation matrices, and for calculating Value-at-Risk (VaR) forecasts and optimal capital charges under the Basel Accord through the use of covariance matrices. A technique is developed to estimate the DC MSV model using the Markov Chain Monte Carlo (MCMC) procedure, and simulated data show that the estimation method works well. Various multivariate conditional volatility and MSV models are compared via simulation, including an evaluation of alternative VaR estimators. The DC MSV model is also estimated using three sets of empirical data, namely Nikkei 225 Index, Hang Seng Index and Straits Times Index returns, and significant dynamic correlations are found. The Dynamic Conditional Correlation (DCC) model is also estimated, and is found to be far less sensitive to the covariation in the shocks to the indexes. The correlation process for the DCC model also appears to have a unit root, and hence constant conditional correlations in the long run. In contrast, the estimates arising from the DC MSV model indicate that the dynamic correlation process is stationary.
+ER  - 
+
+TY  - JOUR
+T1  - Copula-based multivariate GARCH model with uncorrelated dependent errors
+AU  - Lee, Tae-Hwy
+AU  - Long, Xiangdong
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 207
+EP  - 218
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002194
+KW  - Copula
+KW  - Density forecast
+KW  - MGARCH
+KW  - Non-normal multivariate distribution
+KW  - Uncorrelated dependent errors
+AB  - Multivariate GARCH (MGARCH) models are usually estimated under multivariate normality. In this paper, for non-elliptically distributed financial returns, we propose copula-based multivariate GARCH (C-MGARCH) model with uncorrelated dependent errors, which are generated through a linear combination of dependent random variables. The dependence structure is controlled by a copula function. Our new C-MGARCH model nests a conventional MGARCH model as a special case. The aim of this paper is to model MGARCH for non-normal multivariate distributions using copulas. We model the conditional correlation (by MGARCH) and the remaining dependence (by a copula) separately and simultaneously. We apply this idea to three MGARCH models, namely, the dynamic conditional correlation (DCC) model of Engle [Engle, R.F., 2002. Dynamic conditional correlation: A simple class of multivariate generalized autoregressive conditional heteroskedasticity models. Journal of Business and Economic Statistics 20, 339–350], the varying correlation (VC) model of Tse and Tsui [Tse, Y.K., Tsui, A.K., 2002. A multivariate generalized autoregressive conditional heteroscedasticity model with time-varying correlations. Journal of Business and Economic Statistics 20, 351–362], and the BEKK model of Engle and Kroner [Engle, R.F., Kroner, K.F., 1995. Multivariate simultaneous generalized ARCH. Econometric Theory 11, 122–150]. Empirical analysis with three foreign exchange rates indicates that the C-MGARCH models outperform DCC, VC, and BEKK in terms of in-sample model selection and out-of-sample multivariate density forecast, and in terms of these criteria the choice of copula functions is more important than the choice of the volatility models.
+ER  - 
+
+TY  - JOUR
+T1  - Exact and asymptotic tests for possibly non-regular hypotheses on stochastic volatility models
+AU  - Dufour, Jean-Marie
+AU  - Valéry, Pascale
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 193
+EP  - 206
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002182
+KW  - Testing
+KW  - Exact test
+KW  - Monte Carlo test
+KW  - Maximized Monte Carlo test
+KW  - Wald test
+KW  - LR test
+KW  - LM test
+KW  -  test
+KW  - Homoskedasticity
+KW  - Stochastic volatility
+KW  - Two-factor volatility
+KW  - Identification
+KW  - Singular moment conditions
+KW  - Finance
+KW  - Stock prices
+AB  - We study the problem of testing hypotheses on the parameters of one- and two-factor stochastic volatility models (SV), allowing for the possible presence of non-regularities such as singular moment conditions and unidentified parameters, which can lead to non-standard asymptotic distributions. We focus on the development of simulation-based exact procedures–whose level can be controlled in finite samples–as well as on large-sample procedures which remain valid under non-regular conditions. We consider Wald-type, score-type and likelihood-ratio-type tests based on a simple moment estimator, which can be easily simulated. We also propose a C(α)-type test which is very easy to implement and exhibits relatively good size and power properties. Besides usual linear restrictions on the SV model coefficients, the problems studied include testing homoskedasticity against a SV alternative (which involves singular moment conditions under the null hypothesis) and testing the null hypothesis of one factor driving the dynamics of the volatility process against two factors (which raises identification difficulties). Three ways of implementing the tests based on alternative statistics are compared: asymptotic critical values (when available), a local Monte Carlo (or parametric bootstrap) test procedure, and a maximized Monte Carlo (MMC) procedure. The size and power properties of the proposed tests are examined in a simulation experiment. The results indicate that the C(α)-based tests (built upon the simple moment estimator available in closed form) have good size and power properties for regular hypotheses, while Monte Carlo tests are much more reliable than those based on asymptotic critical values. Further, in cases where the parametric bootstrap appears to fail (for example, in the presence of identification problems), the MMC procedure easily controls the level of the tests. Moreover, MMC-based tests exhibit relatively good power performance despite the conservative feature of the procedure. Finally, we present an application to a time series of returns on the Standard and Poor’s Composite Price Index.
+ER  - 
+
+TY  - JOUR
+T1  - Granger causality in risk and detection of extreme risk spillover between financial markets
+AU  - Hong, Yongmiao
+AU  - Liu, Yanhui
+AU  - Wang, Shouyang
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 271
+EP  - 287
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002248
+KW  - Cross-spectrum
+KW  - Extreme downside risk
+KW  - Financial contagion
+KW  - Granger causality in risk
+KW  - Nonlinear time series
+KW  - Risk management
+KW  - Value at Risk
+AB  - Controlling and monitoring extreme downside market risk are important for financial risk management and portfolio/investment diversification. In this paper, we introduce a new concept of Granger causality in risk and propose a class of kernel-based tests to detect extreme downside risk spillover between financial markets, where risk is measured by the left tail of the distribution or equivalently by the Value at Risk (VaR). The proposed tests have a convenient asymptotic standard normal distribution under the null hypothesis of no Granger causality in risk. They check a large number of lags and thus can detect risk spillover that occurs with a time lag or that has weak spillover at each lag but carries over a very long distributional lag. Usually, tests using a large number of lags may have low power against alternatives of practical importance, due to the loss of a large number of degrees of freedom. Such power loss is fortunately alleviated for our tests because our kernel approach naturally discounts higher order lags, which is consistent with the stylized fact that today’s financial markets are often more influenced by the recent events than the remote past events. A simulation study shows that the proposed tests have reasonable size and power against a variety of empirically plausible alternatives in finite samples, including the spillover from the dynamics in mean, variance, skewness and kurtosis respectively. In particular, nonuniform weighting delivers better power than uniform weighting and a Granger-type regression procedure. The proposed tests are useful in investigating large comovements between financial markets such as financial contagions. An application to the Eurodollar and Japanese Yen highlights the merits of our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing value at risk with CARE, the Conditional Autoregressive Expectile models
+AU  - Kuan, Chung-Ming
+AU  - Yeh, Jin-Huei
+AU  - Hsu, Yu-Chin
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 261
+EP  - 270
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002236
+KW  - Asymmetric least squares
+KW  - CARE model
+KW  - Expectile
+KW  - Quantile
+KW  - Prudentiality
+KW  - Value at Risk
+AB  - In this paper we propose a downside risk measure, the expectile-based Value at Risk (EVaR), which is more sensitive to the magnitude of extreme losses than the conventional quantile-based VaR (QVaR). The index θ of an EVaR is the relative cost of the expected margin shortfall and hence reflects the level of prudentiality. It is also shown that a given expectile corresponds to the quantiles with distinct tail probabilities under different distributions. Thus, an EVaR may be interpreted as a flexible QVaR, in the sense that its tail probability is determined by the underlying distribution. We further consider conditional EVaR and propose various Conditional AutoRegressive Expectile models that can accommodate some stylized facts in financial time series. For model estimation, we employ the method of asymmetric least squares proposed by Newey and Powell [Newey, W.K., Powell, J.L., 1987. Asymmetric least squares estimation and testing. Econometrica 55, 819–847] and extend their asymptotic results to allow for stationary and weakly dependent data. We also derive an encompassing test for non-nested expectile models. As an illustration, we apply the proposed modeling approach to evaluate the EVaR of stock market indices.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating the structural credit risk model when equity prices are contaminated by trading noises
+AU  - Duan, Jin-Chuan
+AU  - Fulop, Andras
+JO  - Journal of Econometrics
+VL  - 150
+IS  - 2
+SP  - 288
+EP  - 296
+PY  - 2009
+DA  - 2009/06/01/
+T2  - Recent Development in Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800225X
+KW  - Particle filtering
+KW  - Maximum likelihood
+KW  - Option pricing
+KW  - Credit risk
+KW  - Microstructure
+AB  - The transformed-data maximum likelihood estimation (MLE) method for structural credit risk models developed by Duan [Duan, J.-C., 1994. Maximum likelihood estimation using price data of the derivative contract. Mathematical Finance 4, 155–167] is extended to account for the fact that observed equity prices may have been contaminated by trading noises. With the presence of trading noises, the likelihood function based on the observed equity prices can only be evaluated via some nonlinear filtering scheme. We devise a particle filtering algorithm that is practical for conducting the MLE estimation of the structural credit risk model of Merton [Merton, R.C., 1974. On the pricing of corporate debt: The risk structure of interest rates. Journal of Finance 29, 449–470]. We implement the method on the Dow Jones 30 firms and on 100 randomly selected firms, and find that ignoring trading noises can lead to significantly over-estimating the firm’s asset volatility. The estimated magnitude of trading noise is in line with the direction that a firm’s liquidity will predict based on three common liquidity proxies. A simulation study is then conducted to ascertain the performance of the estimation method.
+ER  - 

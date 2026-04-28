@@ -1,0 +1,902 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Pacing Equilibrium in First Price Auction Markets
+AU  - Conitzer, Vincent
+AU  - Kroer, Christian
+AU  - Panigrahi, Debmalya
+AU  - Schrijvers, Okke
+AU  - Stier-Moses, Nicolas E.
+AU  - Sodomka, Eric
+AU  - Wilkens, Christopher A.
+Y1  - 2022/04/06
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4310
+DO  - 10.1287/mnsc.2022.4310
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8515
+EP  - 8535
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Mature internet advertising platforms offer high-level campaign management tools to help advertisers run their campaigns, often abstracting away the intricacies of how each ad is placed and focusing on aggregate metrics of interest to advertisers. On such platforms, advertisers often participate in auctions through a proxy bidder, so the standard incentive analyses that are common in the literature do not apply directly. In this paper, we take the perspective of a budget management system that surfaces aggregated incentives?instead of individual auctions?and compare first and second price auctions. We show that theory offers surprising endorsement for using a first price auction to sell individual impressions. In particular, first price auctions guarantee uniqueness of the steady-state equilibrium of the budget management system, monotonicity, and other desirable properties, as well as efficient computation through the solution to the well-studied Eisenberg?Gale convex program. Contrary to what one can expect from first price auctions, we show that incentives issues are not a barrier that undermines the system. Using realistic instances generated from data collected at real-world auction platforms, we show that bidders have small regret with respect to their optimal ex post strategy, and they do not have a big incentive to misreport when they can influence equilibria directly by giving inputs strategically. Finally, budget-constrained bidders, who have significant prevalence in real-world platforms, tend to have smaller regrets. Our computations indicate that bidder budgets, pacing multipliers, and regrets all have a positive association in statistical terms.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: D. Panigrahi was supported in part by the National Science Foundation [Awards CCF 1535972, CCF 1750140, and CCF 1955703].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4310.
+AB  - Mature internet advertising platforms offer high-level campaign management tools to help advertisers run their campaigns, often abstracting away the intricacies of how each ad is placed and focusing on aggregate metrics of interest to advertisers. On such platforms, advertisers often participate in auctions through a proxy bidder, so the standard incentive analyses that are common in the literature do not apply directly. In this paper, we take the perspective of a budget management system that surfaces aggregated incentives?instead of individual auctions?and compare first and second price auctions. We show that theory offers surprising endorsement for using a first price auction to sell individual impressions. In particular, first price auctions guarantee uniqueness of the steady-state equilibrium of the budget management system, monotonicity, and other desirable properties, as well as efficient computation through the solution to the well-studied Eisenberg?Gale convex program. Contrary to what one can expect from first price auctions, we show that incentives issues are not a barrier that undermines the system. Using realistic instances generated from data collected at real-world auction platforms, we show that bidders have small regret with respect to their optimal ex post strategy, and they do not have a big incentive to misreport when they can influence equilibria directly by giving inputs strategically. Finally, budget-constrained bidders, who have significant prevalence in real-world platforms, tend to have smaller regrets. Our computations indicate that bidder budgets, pacing multipliers, and regrets all have a positive association in statistical terms.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Funding: D. Panigrahi was supported in part by the National Science Foundation [Awards CCF 1535972, CCF 1750140, and CCF 1955703].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4310.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4310
+UR  - https://doi.org/10.1287/mnsc.2022.4310
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Price Discrimination with Fairness Constraints
+AU  - Cohen, Maxime C.
+AU  - Elmachtoub, Adam N.
+AU  - Lei, Xiao
+Y1  - 2022/03/18
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4317
+DO  - 10.1287/mnsc.2022.4317
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8536
+EP  - 8552
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Price discrimination strategies, which offer different prices to customers based on differences in their valuations, have become common practice. Although it allows sellers to increase their profits, it also raises several concerns in terms of fairness (e.g., by charging higher prices (or denying access) to protected minorities in case they have higher (or lower) valuations than the general population). This topic has received extensive attention from media, industry, and regulatory agencies. In this paper, we consider the problem of setting prices for different groups under fairness constraints. We first propose four definitions: fairness in price, demand, consumer surplus, and no-purchase valuation. We prove that satisfying more than one of these fairness constraints is impossible even under simple settings. We then analyze the pricing strategy of a profit-maximizing seller and the impact of imposing fairness on the seller?s profit, consumer surplus, and social welfare. Under a linear demand model, we find that imposing a small amount of price fairness increases social welfare, whereas too much price fairness may result in a lower welfare relative to imposing no fairness. On the other hand, imposing fairness in demand or consumer surplus always decreases social welfare. Finally, no-purchase valuation fairness always increases social welfare. We observe similar patterns under several extensions and for other common demand models numerically. Our results and insights provide a first step in understanding the impact of imposing fairness in the context of discriminatory pricing.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: A. N. Elmachtoub was supported by the Division of Civil, Mechanical and Manufacturing Innovation [Grants 1763000 and 1944428].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4317.
+AB  - Price discrimination strategies, which offer different prices to customers based on differences in their valuations, have become common practice. Although it allows sellers to increase their profits, it also raises several concerns in terms of fairness (e.g., by charging higher prices (or denying access) to protected minorities in case they have higher (or lower) valuations than the general population). This topic has received extensive attention from media, industry, and regulatory agencies. In this paper, we consider the problem of setting prices for different groups under fairness constraints. We first propose four definitions: fairness in price, demand, consumer surplus, and no-purchase valuation. We prove that satisfying more than one of these fairness constraints is impossible even under simple settings. We then analyze the pricing strategy of a profit-maximizing seller and the impact of imposing fairness on the seller?s profit, consumer surplus, and social welfare. Under a linear demand model, we find that imposing a small amount of price fairness increases social welfare, whereas too much price fairness may result in a lower welfare relative to imposing no fairness. On the other hand, imposing fairness in demand or consumer surplus always decreases social welfare. Finally, no-purchase valuation fairness always increases social welfare. We observe similar patterns under several extensions and for other common demand models numerically. Our results and insights provide a first step in understanding the impact of imposing fairness in the context of discriminatory pricing.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: A. N. Elmachtoub was supported by the Division of Civil, Mechanical and Manufacturing Innovation [Grants 1763000 and 1944428].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4317.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4317
+UR  - https://doi.org/10.1287/mnsc.2022.4317
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Closing the Gender Profit Gap?
+AU  - Batista, Catia
+AU  - Sequeira, Sandra
+AU  - Vicente, Pedro C.
+Y1  - 2022/10/19
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4579
+DO  - 10.1287/mnsc.2022.4579
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8553
+EP  - 8567
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We examine the impact of providing access to mobile savings accounts and improving financial management skills on the performance of microenterprises in Mozambique. The effects are highly heterogeneous: Combining both types of support is associated with a large increase in both short- and long-term firm profits and in financial security for female microentrepreneurs. This allowed female-headed microenterprises, particularly those with a higher level of profits at baseline, to close the gender profit gap in performance and skills relative to their male counterparts. The main drivers of improved business performance are improved financial management practices (bookkeeping), an increase in accessible savings, and reduced transfers to friends and relatives. Providing access to mobile money as a tool to save and manage finances also increases long-term profits of female microentrepreneurs, particularly for those with higher profits at baseline. However, neither treatment has any impact on male-led enterprises. Uncovering this heterogeneity in impact across different types of microenterprises can help improve the targeting of these interventions in the future.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the International Growth Centre and the U.S. Agency for International Development [Grant AIO-OAA-F-12-00015].Supplemental Material: The data files and Online Appendix are available at https://doi.org/10.1287/mnsc.2022.4579.
+AB  - We examine the impact of providing access to mobile savings accounts and improving financial management skills on the performance of microenterprises in Mozambique. The effects are highly heterogeneous: Combining both types of support is associated with a large increase in both short- and long-term firm profits and in financial security for female microentrepreneurs. This allowed female-headed microenterprises, particularly those with a higher level of profits at baseline, to close the gender profit gap in performance and skills relative to their male counterparts. The main drivers of improved business performance are improved financial management practices (bookkeeping), an increase in accessible savings, and reduced transfers to friends and relatives. Providing access to mobile money as a tool to save and manage finances also increases long-term profits of female microentrepreneurs, particularly for those with higher profits at baseline. However, neither treatment has any impact on male-led enterprises. Uncovering this heterogeneity in impact across different types of microenterprises can help improve the targeting of these interventions in the future.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the International Growth Centre and the U.S. Agency for International Development [Grant AIO-OAA-F-12-00015].Supplemental Material: The data files and Online Appendix are available at https://doi.org/10.1287/mnsc.2022.4579.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4579
+UR  - https://doi.org/10.1287/mnsc.2022.4579
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Online Pricing with Offline Data: Phase Transition and Inverse Square Law
+AU  - Bu, Jinzhi
+AU  - Simchi-Levi, David
+AU  - Xu, Yunzong
+Y1  - 2022/03/17
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4322
+DO  - 10.1287/mnsc.2022.4322
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8568
+EP  - 8588
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - This paper investigates the impact of pre-existing offline data on online learning in the context of dynamic pricing. We study a single-product dynamic pricing problem over a selling horizon of T periods. The demand in each period is determined by the price of the product according to a linear demand model with unknown parameters. We assume that before the start of the selling horizon, the seller already has some pre-existing offline data. The offline data set contains n samples, each of which is an input-output pair consisting of a historical price and an associated demand observation. The seller wants to use both the pre-existing offline data and the sequentially revealed online data to minimize the regret of the online learning process. We characterize the joint effect of the size, location, and dispersion of the offline data on the optimal regret of the online learning process. Specifically, the size, location, and dispersion of the offline data are measured by the number of historical samples, the distance between the average historical price and the optimal price, and the standard deviation of the historical prices, respectively. For both single-historical-price setting and multiple-historical-price setting, we design a learning algorithm based on the ?Optimism in the Face of Uncertainty? principle, which strikes a balance between exploration and exploitation and achieves the optimal regret up to a logarithmic factor. Our results reveal surprising transformations of the optimal regret rate with respect to the size of the offline data, which we refer to as phase transitions. In addition, our results demonstrate that the location and dispersion of the offline data also have an intrinsic effect on the optimal regret, and we quantify this effect via the inverse-square law.This paper was accepted by Omar Besbes, revenue management and market analytics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4322.
+AB  - This paper investigates the impact of pre-existing offline data on online learning in the context of dynamic pricing. We study a single-product dynamic pricing problem over a selling horizon of T periods. The demand in each period is determined by the price of the product according to a linear demand model with unknown parameters. We assume that before the start of the selling horizon, the seller already has some pre-existing offline data. The offline data set contains n samples, each of which is an input-output pair consisting of a historical price and an associated demand observation. The seller wants to use both the pre-existing offline data and the sequentially revealed online data to minimize the regret of the online learning process. We characterize the joint effect of the size, location, and dispersion of the offline data on the optimal regret of the online learning process. Specifically, the size, location, and dispersion of the offline data are measured by the number of historical samples, the distance between the average historical price and the optimal price, and the standard deviation of the historical prices, respectively. For both single-historical-price setting and multiple-historical-price setting, we design a learning algorithm based on the ?Optimism in the Face of Uncertainty? principle, which strikes a balance between exploration and exploitation and achieves the optimal regret up to a logarithmic factor. Our results reveal surprising transformations of the optimal regret rate with respect to the size of the offline data, which we refer to as phase transitions. In addition, our results demonstrate that the location and dispersion of the offline data also have an intrinsic effect on the optimal regret, and we quantify this effect via the inverse-square law.This paper was accepted by Omar Besbes, revenue management and market analytics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2022.4322.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4322
+UR  - https://doi.org/10.1287/mnsc.2022.4322
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Battle for Homes: How Does Home Sharing Disrupt Local Residential Markets?
+AU  - Chen, Wei
+AU  - Wei, Zaiyan
+AU  - Xie, Karen
+Y1  - 2022/02/16
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4299
+DO  - 10.1287/mnsc.2022.4299
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8589
+EP  - 8612
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - As cities debate how to regulate Airbnb and other home-sharing services, we study the impacts of home sharing on local residential real estate markets. By accommodating transient travelers with short-term rental properties, home-sharing platforms have evolved as a major alternative channel that attracts the growing supply of residential properties. However, on the demand side of local residential markets, home-sharing platforms are not a viable option for residents. To demonstrate this dynamic between home sharing and local residential markets, we leverage a unique quasi-experiment on Airbnb?a platform policy that caps the number of properties a host can manage in a city?and find that the policy reduced rents (in the long-term rental markets) and home values (in the for-sale housing markets) by about 3% and did not affect the price-to-rent ratio. Consistent with the conjecture, we find that the policy impacts can be attributed to increased supply in local residential markets because of the policy. Quantitatively, our estimates suggest that, if the density of affected Airbnb properties is 1% higher in a market, the policy may further decrease rents and home values by about 0.03%?0.06%, which is similar across each policy-affected city. Our empirical findings add to the debate about the impacts of home sharing on local residential markets with a novel data set and a unique identification strategy. Practically speaking, our research is a timely response to the debate on regulating home sharing and has implications for various stakeholders of the residential real estate markets.This paper was accepted by Chris Forman, information systems.Funding: K. Xie thanks the University of Denver Faculty Research Fund 2017 for financial support.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4299.
+AB  - As cities debate how to regulate Airbnb and other home-sharing services, we study the impacts of home sharing on local residential real estate markets. By accommodating transient travelers with short-term rental properties, home-sharing platforms have evolved as a major alternative channel that attracts the growing supply of residential properties. However, on the demand side of local residential markets, home-sharing platforms are not a viable option for residents. To demonstrate this dynamic between home sharing and local residential markets, we leverage a unique quasi-experiment on Airbnb?a platform policy that caps the number of properties a host can manage in a city?and find that the policy reduced rents (in the long-term rental markets) and home values (in the for-sale housing markets) by about 3% and did not affect the price-to-rent ratio. Consistent with the conjecture, we find that the policy impacts can be attributed to increased supply in local residential markets because of the policy. Quantitatively, our estimates suggest that, if the density of affected Airbnb properties is 1% higher in a market, the policy may further decrease rents and home values by about 0.03%?0.06%, which is similar across each policy-affected city. Our empirical findings add to the debate about the impacts of home sharing on local residential markets with a novel data set and a unique identification strategy. Practically speaking, our research is a timely response to the debate on regulating home sharing and has implications for various stakeholders of the residential real estate markets.This paper was accepted by Chris Forman, information systems.Funding: K. Xie thanks the University of Denver Faculty Research Fund 2017 for financial support.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4299.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4299
+UR  - https://doi.org/10.1287/mnsc.2022.4299
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Competition, Contracts, and Creativity: Evidence from Novel Writing in a Platform Market
+AU  - Wu, Yanhui
+AU  - Zhu, Feng
+Y1  - 2022/03/03
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4329
+DO  - 10.1287/mnsc.2022.4329
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8613
+EP  - 8634
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - A growing number of people today are participating in the gig economy, working as independent contractors on short-term projects. We study the effects of competition on gig workers? effort and creativity on a Chinese novel-writing platform. Authors produce and sell their works chapter by chapter under a revenue-sharing or pay-by-the-word contract with the platform. Exploiting a regulation that induced a massive entry of novels in the romance genre but not other genres, we find that, on average, intensified competition led authors to produce content more quickly, whereas its effect on book novelty was weak. However, revenue-sharing books responded to competition substantially more than pay-by-the-word books, particularly regarding novelty. Moreover, the effect of competition on novelty is considerably stronger for books at earlier stages of the product life cycle. Finally, the platform increased the promotion of contracted books, which disproportionately favored pay-by-the-word books. We discuss the implications of these results for creative workers, platform firms, and policy makers in the gig economy.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4329.
+AB  - A growing number of people today are participating in the gig economy, working as independent contractors on short-term projects. We study the effects of competition on gig workers? effort and creativity on a Chinese novel-writing platform. Authors produce and sell their works chapter by chapter under a revenue-sharing or pay-by-the-word contract with the platform. Exploiting a regulation that induced a massive entry of novels in the romance genre but not other genres, we find that, on average, intensified competition led authors to produce content more quickly, whereas its effect on book novelty was weak. However, revenue-sharing books responded to competition substantially more than pay-by-the-word books, particularly regarding novelty. Moreover, the effect of competition on novelty is considerably stronger for books at earlier stages of the product life cycle. Finally, the platform increased the promotion of contracted books, which disproportionately favored pay-by-the-word books. We discuss the implications of these results for creative workers, platform firms, and policy makers in the gig economy.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4329.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4329
+UR  - https://doi.org/10.1287/mnsc.2022.4329
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Social Skills Improve Business Performance: Evidence from a Randomized Control Trial with Entrepreneurs in Togo
+AU  - Dimitriadis, Stefan
+AU  - Koning, Rembrand
+Y1  - 2022/03/08
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4334
+DO  - 10.1287/mnsc.2022.4334
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8635
+EP  - 8657
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Recent field experiments demonstrate that advice, mentorship, and feedback from randomly assigned peers improve entrepreneurial performance. These results raise a natural question: what is preventing entrepreneurs and managers from forming these peer connections themselves? We argue that entrepreneurs may be under-networked because they lack the necessary social skills?the ability to communicate effectively and interact collaboratively with new acquaintances?that allow them to match efficiently with knowledgeable peers. We use a field experiment in the context of a business training program in Togo to test if a short social skills training module increases the number and complementarity of peers that participants choose to learn from. We find that social skills training led entrepreneurs to match with 50% more peers and that more of those matches were based on complementary managerial skill. Finally, the training also increased entrepreneurs? monthly profits by approximately 20%. Further analyses point to improvements in networking and advice as the drivers of performance improvements. Our findings suggest that social skills help entrepreneurs build relationships that create value for both themselves and their peers.This paper was accepted by Alfonso Gambardella, business strategy.Funding: This work was supported by the Ewing Marion Kauffman Foundation [Dissertation Fellowship] and the Strategic Management Society [SRF Dissertation Fellowship].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4334.
+AB  - Recent field experiments demonstrate that advice, mentorship, and feedback from randomly assigned peers improve entrepreneurial performance. These results raise a natural question: what is preventing entrepreneurs and managers from forming these peer connections themselves? We argue that entrepreneurs may be under-networked because they lack the necessary social skills?the ability to communicate effectively and interact collaboratively with new acquaintances?that allow them to match efficiently with knowledgeable peers. We use a field experiment in the context of a business training program in Togo to test if a short social skills training module increases the number and complementarity of peers that participants choose to learn from. We find that social skills training led entrepreneurs to match with 50% more peers and that more of those matches were based on complementary managerial skill. Finally, the training also increased entrepreneurs? monthly profits by approximately 20%. Further analyses point to improvements in networking and advice as the drivers of performance improvements. Our findings suggest that social skills help entrepreneurs build relationships that create value for both themselves and their peers.This paper was accepted by Alfonso Gambardella, business strategy.Funding: This work was supported by the Ewing Marion Kauffman Foundation [Dissertation Fellowship] and the Strategic Management Society [SRF Dissertation Fellowship].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4334.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4334
+UR  - https://doi.org/10.1287/mnsc.2022.4334
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Initial Coin Offering (ICO) Success and Post-ICO Performance
+AU  - Lyandres, Evgeny
+AU  - Palazzo, Berardino
+AU  - Rabetti, Daniel
+Y1  - 2022/02/14
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4312
+DO  - 10.1287/mnsc.2022.4312
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8658
+EP  - 8679
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We compile a comprehensive data set of initial coin offerings (ICOs) from 19 data sources including 11 ICO aggregators. We alleviate severe limitations of available ICO data by performing the first systematic analysis of ICO data quality. We use our data set to study determinants of ICO funding success as well as post-ICO operating performance and provide evidence on some novel determinants of initial and longer-term ICO success. Finally, we show that post-ICO operating performance is positively associated with contemporaneous token returns and is generally negatively associated with token return volatility, suggesting that post-ICO operating performance has financial ramifications.This paper was accepted by Kay Giesecke, finance.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4312.
+AB  - We compile a comprehensive data set of initial coin offerings (ICOs) from 19 data sources including 11 ICO aggregators. We alleviate severe limitations of available ICO data by performing the first systematic analysis of ICO data quality. We use our data set to study determinants of ICO funding success as well as post-ICO operating performance and provide evidence on some novel determinants of initial and longer-term ICO success. Finally, we show that post-ICO operating performance is positively associated with contemporaneous token returns and is generally negatively associated with token return volatility, suggesting that post-ICO operating performance has financial ramifications.This paper was accepted by Kay Giesecke, finance.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4312.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4312
+UR  - https://doi.org/10.1287/mnsc.2022.4312
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Risk Guarantees for End-to-End Prediction and Optimization Processes
+AU  - Ho-Nguyen, Nam
+AU  - Kılınç-Karzan, Fatma
+Y1  - 2022/03/11
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4321
+DO  - 10.1287/mnsc.2022.4321
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8680
+EP  - 8698
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Prediction methods are often employed to estimate parameters of optimization models. Although the goal in an end-to-end framework is to achieve good performance on the subsequent optimization model, a formal understanding of the ways in which prediction methods can affect optimization performance is notably lacking. This paper identifies conditions on prediction methods that can guarantee good optimization performance. We provide two types of results: asymptotic guarantees under a well-known Fisher consistency criterion and nonasymptotic performance bounds under a more stringent criterion. We use these results to analyze optimization performance for several existing prediction methods and show that in certain settings, methods tailored to the optimization problem can fail to guarantee good performance. Conversely, optimization-agnostic methods can sometimes, surprisingly, have good guarantees. In a computational study on portfolio optimization, fractional knapsack, and multiclass classification problems, we compare the optimization performance of several prediction methods. We demonstrate that lack of Fisher consistency of the prediction method can indeed have a detrimental effect on performance.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was supported by the National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation [Grant 1454548].Supplemental Material: Data and the e-companion are available at https://doi.org/10.1287/mnsc.2022.4321.
+AB  - Prediction methods are often employed to estimate parameters of optimization models. Although the goal in an end-to-end framework is to achieve good performance on the subsequent optimization model, a formal understanding of the ways in which prediction methods can affect optimization performance is notably lacking. This paper identifies conditions on prediction methods that can guarantee good optimization performance. We provide two types of results: asymptotic guarantees under a well-known Fisher consistency criterion and nonasymptotic performance bounds under a more stringent criterion. We use these results to analyze optimization performance for several existing prediction methods and show that in certain settings, methods tailored to the optimization problem can fail to guarantee good performance. Conversely, optimization-agnostic methods can sometimes, surprisingly, have good guarantees. In a computational study on portfolio optimization, fractional knapsack, and multiclass classification problems, we compare the optimization performance of several prediction methods. We demonstrate that lack of Fisher consistency of the prediction method can indeed have a detrimental effect on performance.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was supported by the National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation [Grant 1454548].Supplemental Material: Data and the e-companion are available at https://doi.org/10.1287/mnsc.2022.4321.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4321
+UR  - https://doi.org/10.1287/mnsc.2022.4321
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Revenue-Sharing Allocation Strategies for Two-Sided Media Platforms: Pro-Rata vs. User-Centric
+AU  - Alaei, Saeed
+AU  - Makhdoumi, Ali
+AU  - Malekian, Azarakhsh
+AU  - Pekeč, Saša
+Y1  - 2022/02/22
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4307
+DO  - 10.1287/mnsc.2022.4307
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8699
+EP  - 8721
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We consider a two-sided streaming service platform that generates revenues by charging users a subscription fee for unlimited access to the content and compensates content providers (artists) through a revenue-sharing allocation rule. Platform users are heterogeneous in both their overall consumption and the distribution of their consumption over different artists. We study two primary revenue allocation rules used by market-leading music streaming platforms?pro-rata and user-centric. With pro-rata, artists are paid proportionally to their share of the overall streaming volume, whereas with user-centric, each user?s subscription fee is divided proportionally among artists based on the consumption of that user. We characterize when these two allocation rules can sustain a set of artists on the platform and compare them from both the platform?s and the artists? perspectives. In particular, we show that, despite the cross-subsidization between low- and high-streaming-volume users, the pro-rata rule can be preferred by both the platform and the artists. Furthermore, the platform?s problem of selecting an optimal portfolio of artists is NP-complete. However, by establishing connections to the knapsack problem, we develop a polynomial time approximation scheme (PTAS) for the optimal platform?s profit. In addition to determining the platform?s optimal revenue allocation rule in the class of pro-rata and user-centric rules, we consider the optimal revenue allocation rule in the class of arbitrary rules. Building on duality theory, we develop a polynomial time algorithm that outputs a set of artists so that the platform?s profit is within a single artist?s revenue from the optimal profit.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4307.
+AB  - We consider a two-sided streaming service platform that generates revenues by charging users a subscription fee for unlimited access to the content and compensates content providers (artists) through a revenue-sharing allocation rule. Platform users are heterogeneous in both their overall consumption and the distribution of their consumption over different artists. We study two primary revenue allocation rules used by market-leading music streaming platforms?pro-rata and user-centric. With pro-rata, artists are paid proportionally to their share of the overall streaming volume, whereas with user-centric, each user?s subscription fee is divided proportionally among artists based on the consumption of that user. We characterize when these two allocation rules can sustain a set of artists on the platform and compare them from both the platform?s and the artists? perspectives. In particular, we show that, despite the cross-subsidization between low- and high-streaming-volume users, the pro-rata rule can be preferred by both the platform and the artists. Furthermore, the platform?s problem of selecting an optimal portfolio of artists is NP-complete. However, by establishing connections to the knapsack problem, we develop a polynomial time approximation scheme (PTAS) for the optimal platform?s profit. In addition to determining the platform?s optimal revenue allocation rule in the class of pro-rata and user-centric rules, we consider the optimal revenue allocation rule in the class of arbitrary rules. Building on duality theory, we develop a polynomial time algorithm that outputs a set of artists so that the platform?s profit is within a single artist?s revenue from the optimal profit.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.4307.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4307
+UR  - https://doi.org/10.1287/mnsc.2022.4307
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Patient Routing to Skilled Nursing Facilities: The Consequences of the Medicare Reimbursement Rule
+AU  - Jin, Ginger Zhe
+AU  - Lee, Ajin
+AU  - Lu, Susan Feng
+Y1  - 2022/03/02
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4316
+DO  - 10.1287/mnsc.2022.4316
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8722
+EP  - 8740
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Medicare does not pay for a skilled nursing facility (SNF) unless a fee-for-service patient has stayed in the hospital for at least three days. This Medicare reimbursement rule, or the ?three-day rule,? provides full coverage for the first 20 days and partial coverage for days 21?100 for skilled nursing care provided at any Centers for Medicare and Medicaid Services-approved SNF. In this paper, we study how this Medicare reimbursement rule affects patient routing to SNFs and whether an SNF discharge reduces patients? 30-day hospital readmission rates. Data analysis shows that Medicare patients are more likely to be discharged to an SNF rather than home after the three-day cutoff, and SNF discharges increase hospital readmission rates for Medicare day 3 patients. This perverse effect is driven by infection-related readmissions and is more likely to occur when local SNFs have lower occupancy rates and higher deficiency citations than the median SNF of the same state-year. Back-of-the-envelope calculation suggests that the three-day rule may have generated an extra Medicare cost of $71 million to $345 million per year due to the overuse of SNFs and the subsequent rise in hospital readmissions. Replacing the three-day rule with a machine-learning algorithm mimicking private insurers would help.This paper was accepted by Stefan Scholtes, healthcare management.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4316.
+AB  - Medicare does not pay for a skilled nursing facility (SNF) unless a fee-for-service patient has stayed in the hospital for at least three days. This Medicare reimbursement rule, or the ?three-day rule,? provides full coverage for the first 20 days and partial coverage for days 21?100 for skilled nursing care provided at any Centers for Medicare and Medicaid Services-approved SNF. In this paper, we study how this Medicare reimbursement rule affects patient routing to SNFs and whether an SNF discharge reduces patients? 30-day hospital readmission rates. Data analysis shows that Medicare patients are more likely to be discharged to an SNF rather than home after the three-day cutoff, and SNF discharges increase hospital readmission rates for Medicare day 3 patients. This perverse effect is driven by infection-related readmissions and is more likely to occur when local SNFs have lower occupancy rates and higher deficiency citations than the median SNF of the same state-year. Back-of-the-envelope calculation suggests that the three-day rule may have generated an extra Medicare cost of $71 million to $345 million per year due to the overuse of SNFs and the subsequent rise in hospital readmissions. Replacing the three-day rule with a machine-learning algorithm mimicking private insurers would help.This paper was accepted by Stefan Scholtes, healthcare management.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4316.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4316
+UR  - https://doi.org/10.1287/mnsc.2022.4316
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - When Success Is Rare and Competitive: Learning from Others’ Success and My Failure at the Speed of Formula One
+AU  - Lapré, Michael A.
+AU  - Cravey, Candace
+Y1  - 2022/02/14
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4324
+DO  - 10.1287/mnsc.2022.4324
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8741
+EP  - 8756
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Organizations can learn from prior successes and failures to improve organizational performance. Few learning-curve studies have investigated this phenomenon at the individual level. A notable exception found that surgeons learn from their own success and others? failure. Success in surgery is common and individually independent from other surgeries. We study learning from success and failure in a context where success is rare and competitive: Formula One (F1) racing. Only one driver will win a race, preventing the other competitors from winning. Even severe failures causing drivers to abandon the race are common. We investigate two types of abandonments: car failures and driver failures. Our data set covers F1 from the start of F1 in 1950 through 2017, yielding 21,487 driver-race observations. We find that win probability follows an inverted U-shaped function of racing experience. We also find that drivers learn from their own success, teammates? success, as well as own car failures. However, drivers do not learn from their own driver failures. A teammate?s win increases the probability of winning the next race by 1.8%. An own car failure increases the probability of winning the next race by 1.9%. We use two characteristics of success, frequency and competitiveness, to define a spectrum of organizational settings. Placement of our F1 findings and the surgery findings on this spectrum reveals when managers can expect benefits from their own versus others? success and failure.This paper was accepted by Charles Corbett, operations management.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4324.
+AB  - Organizations can learn from prior successes and failures to improve organizational performance. Few learning-curve studies have investigated this phenomenon at the individual level. A notable exception found that surgeons learn from their own success and others? failure. Success in surgery is common and individually independent from other surgeries. We study learning from success and failure in a context where success is rare and competitive: Formula One (F1) racing. Only one driver will win a race, preventing the other competitors from winning. Even severe failures causing drivers to abandon the race are common. We investigate two types of abandonments: car failures and driver failures. Our data set covers F1 from the start of F1 in 1950 through 2017, yielding 21,487 driver-race observations. We find that win probability follows an inverted U-shaped function of racing experience. We also find that drivers learn from their own success, teammates? success, as well as own car failures. However, drivers do not learn from their own driver failures. A teammate?s win increases the probability of winning the next race by 1.8%. An own car failure increases the probability of winning the next race by 1.9%. We use two characteristics of success, frequency and competitiveness, to define a spectrum of organizational settings. Placement of our F1 findings and the surgery findings on this spectrum reveals when managers can expect benefits from their own versus others? success and failure.This paper was accepted by Charles Corbett, operations management.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4324.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4324
+UR  - https://doi.org/10.1287/mnsc.2022.4324
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Service Capacity and Price Promotion Wars
+AU  - Bae, Junhyun
+AU  - Chen, Li
+AU  - Yao, Shiqing
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4325
+DO  - 10.1287/mnsc.2022.4325
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8757
+EP  - 8772
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Firms often engage in price promotion wars to gain market share from their competitors. However, poor customer satisfaction as a result of limited service capacity may significantly impact such a pricing strategy. In this paper, we consider a two-firm price competition model in which customers? purchase decisions are affected by their anticipation of a poor service encounter. Our equilibrium analysis reveals that firms would be less aggressive in engaging in price cutting when customers care more about service quality and when service capacity is relatively low. Interestingly, when service capacity is close (but not exact) to covering one half of the total market demand, firms would adopt a mixed strategy with randomized pricing, driven by unilateral motives to either capture more market share (by lowering prices) or increase profit margin (by raising prices). We further show that having a superior service capacity presents a competitive advantage for a firm and such advantage can be preemptive. In an extended two-period model that allows for customer switching after a poor service encounter, we find that when service capacity is relatively low, firms may offer deeper price discounts in the first period if customers are forward looking than if they are myopic. Our numerical study confirms that the main qualitative insights obtained in our base model continue to hold when the customer switching behavior is considered.This paper was accepted by Jay Swaminathan, operations management.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4325.
+AB  - Firms often engage in price promotion wars to gain market share from their competitors. However, poor customer satisfaction as a result of limited service capacity may significantly impact such a pricing strategy. In this paper, we consider a two-firm price competition model in which customers? purchase decisions are affected by their anticipation of a poor service encounter. Our equilibrium analysis reveals that firms would be less aggressive in engaging in price cutting when customers care more about service quality and when service capacity is relatively low. Interestingly, when service capacity is close (but not exact) to covering one half of the total market demand, firms would adopt a mixed strategy with randomized pricing, driven by unilateral motives to either capture more market share (by lowering prices) or increase profit margin (by raising prices). We further show that having a superior service capacity presents a competitive advantage for a firm and such advantage can be preemptive. In an extended two-period model that allows for customer switching after a poor service encounter, we find that when service capacity is relatively low, firms may offer deeper price discounts in the first period if customers are forward looking than if they are myopic. Our numerical study confirms that the main qualitative insights obtained in our base model continue to hold when the customer switching behavior is considered.This paper was accepted by Jay Swaminathan, operations management.Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2022.4325.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4325
+UR  - https://doi.org/10.1287/mnsc.2022.4325
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Retailer Inventory Sharing in Two-Tier Supply Chains: An Experimental Investigation
+AU  - Davis, Andrew M.
+AU  - Huang, Rihuan
+AU  - Thomas, Douglas J.
+Y1  - 2022/02/28
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4323
+DO  - 10.1287/mnsc.2022.4323
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8773
+EP  - 8790
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - When multiple retailers hold inventory to satisfy random demand, retailer inventory-sharing strategies can potentially reduce the supply-demand mismatch and increase overall supply chain performance. In this paper, we experimentally investigate alternative inventory-sharing strategies in a two-tier supply chain with an upstream manufacturer and two downstream retailers. In one setting, retailers act as if they are centralized and use a single quantity to fulfill joint demand. In the other, retailers are decentralized and face separate demands, but they can transfer inventory after demands are realized. In this latter decentralized scenario, we also consider whether the manufacturer or retailers have decision authority over the inventory transfer price. One key result is that when the retailers are decentralized and the manufacturer sets the transfer price, both retailers and the manufacturer earn higher profits than in the centralized retailer strategy, which runs counter to theory. We also find that when retailers are decentralized and set their own transfer price, the most equitable distribution of profits is achieved. In an effort to account for these results, we find that a model of fairness captures decisions well. Overall, by investigating how different inventory-sharing strategies affect the distribution of profits in a two-tier supply chain, our results provide guidance to firms considering how, if at all, they should enter such arrangements.This paper was accepted by Jay Swaminathan, operations management.Funding: The authors acknowledge financial support from Cornell University and the University of Virginia.Supplemental Material: The data files and electronic companion are available at https://doi.org/10.1287/mnsc.2022.4323.
+AB  - When multiple retailers hold inventory to satisfy random demand, retailer inventory-sharing strategies can potentially reduce the supply-demand mismatch and increase overall supply chain performance. In this paper, we experimentally investigate alternative inventory-sharing strategies in a two-tier supply chain with an upstream manufacturer and two downstream retailers. In one setting, retailers act as if they are centralized and use a single quantity to fulfill joint demand. In the other, retailers are decentralized and face separate demands, but they can transfer inventory after demands are realized. In this latter decentralized scenario, we also consider whether the manufacturer or retailers have decision authority over the inventory transfer price. One key result is that when the retailers are decentralized and the manufacturer sets the transfer price, both retailers and the manufacturer earn higher profits than in the centralized retailer strategy, which runs counter to theory. We also find that when retailers are decentralized and set their own transfer price, the most equitable distribution of profits is achieved. In an effort to account for these results, we find that a model of fairness captures decisions well. Overall, by investigating how different inventory-sharing strategies affect the distribution of profits in a two-tier supply chain, our results provide guidance to firms considering how, if at all, they should enter such arrangements.This paper was accepted by Jay Swaminathan, operations management.Funding: The authors acknowledge financial support from Cornell University and the University of Virginia.Supplemental Material: The data files and electronic companion are available at https://doi.org/10.1287/mnsc.2022.4323.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4323
+UR  - https://doi.org/10.1287/mnsc.2022.4323
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Contracting, Pricing, and Data Collection Under the AI Flywheel Effect
+AU  - Gurkan, Huseyin
+AU  - de Véricourt, Francis
+Y1  - 2022/03/11
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4333
+DO  - 10.1287/mnsc.2022.4333
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8791
+EP  - 8808
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - This paper explores how firms that lack expertise in machine learning (ML) can leverage the so-called AI Flywheel effect. This effect designates a virtuous cycle by which as an ML product is adopted and new user data are fed back to the algorithm, the product improves, enabling further adoptions. However, managing this feedback loop is difficult, especially when the algorithm is contracted out. Indeed, the additional data that the AI Flywheel effect generates may change the provider?s incentives to improve the algorithm over time. We formalize this problem in a simple two-period moral hazard framework that captures the main dynamics among ML, data acquisition, pricing, and contracting. We find that the firm?s decisions crucially depend on how the amount of data on which the machine is trained interacts with the provider?s effort. If this effort has a more (less) significant impact on accuracy for larger volumes of data, the firm underprices (overprices) the product. Interestingly, these distortions sometimes improve social welfare, which accounts for the customer surplus and profits of both the firm and provider. Further, the interaction between incentive issues and the positive externalities of the AI Flywheel effect has important implications for the firm?s data collection strategy. In particular, the firm can boost its profit by increasing the product?s capacity to acquire usage data only up to a certain level. If the product collects too much data per user, the firm?s profit may actually decrease (i.e., more data are not necessarily better).This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The data files and e-companion are available at https://doi.org/10.1287/mnsc.2022.4333.
+AB  - This paper explores how firms that lack expertise in machine learning (ML) can leverage the so-called AI Flywheel effect. This effect designates a virtuous cycle by which as an ML product is adopted and new user data are fed back to the algorithm, the product improves, enabling further adoptions. However, managing this feedback loop is difficult, especially when the algorithm is contracted out. Indeed, the additional data that the AI Flywheel effect generates may change the provider?s incentives to improve the algorithm over time. We formalize this problem in a simple two-period moral hazard framework that captures the main dynamics among ML, data acquisition, pricing, and contracting. We find that the firm?s decisions crucially depend on how the amount of data on which the machine is trained interacts with the provider?s effort. If this effort has a more (less) significant impact on accuracy for larger volumes of data, the firm underprices (overprices) the product. Interestingly, these distortions sometimes improve social welfare, which accounts for the customer surplus and profits of both the firm and provider. Further, the interaction between incentive issues and the positive externalities of the AI Flywheel effect has important implications for the firm?s data collection strategy. In particular, the firm can boost its profit by increasing the product?s capacity to acquire usage data only up to a certain level. If the product collects too much data per user, the firm?s profit may actually decrease (i.e., more data are not necessarily better).This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The data files and e-companion are available at https://doi.org/10.1287/mnsc.2022.4333.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4333
+UR  - https://doi.org/10.1287/mnsc.2022.4333
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Crowdfunding the Front Lines: An Empirical Study of Teacher-Driven School Improvement
+AU  - Keppler, Samantha M.
+AU  - Li, Jun
+AU  - Wu, Di (Andrew)
+Y1  - 2022/03/03
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4331
+DO  - 10.1287/mnsc.2022.4331
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8809
+EP  - 8828
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - The U.S. K?12 public education system has been notoriously hard to improve. Some argue new education technologies (EdTech) can help transform schools for the better. Yet, as large-scale policy reforms have had only limited success, it seems unlikely that small changes from EdTech could have any measurable impact. In this paper, we study DonorsChoose, a nonprofit that operates a teacher crowdfunding platform. We ask whether DonorsChoose improves educational outcomes, specifically at low-income schools. Combining DonorsChoose data with data on student test scores in Pennsylvania from 2012?2013 to 2017?2018, we find that an increase in the number of DonorsChoose projects funded at a school leads to higher student performance, after controlling for selection biases. For a school with zero funded projects, one funded project?of about $400 in value?translates to between two to nine more students scoring basic and above in all subjects in high school and science and language arts in primary and middle school. We find this effect is driven mostly by low-income schools, indicating funded projects help close the gap in educational outcomes between students at low- versus high-income schools. Based on a textual analysis of 20,000 statements from all funded teachers describing how project resources are used, we find two channels of improvement most effective in the lowest income schools. We demonstrate that, although DonorsChoose projects are small, they improve outcomes and reduce inequality because they come directly from frontline workers?teachers?who know most intimately the obstacles their students face and how to help.This paper was accepted by Charles Corbett, operations management.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4331.
+AB  - The U.S. K?12 public education system has been notoriously hard to improve. Some argue new education technologies (EdTech) can help transform schools for the better. Yet, as large-scale policy reforms have had only limited success, it seems unlikely that small changes from EdTech could have any measurable impact. In this paper, we study DonorsChoose, a nonprofit that operates a teacher crowdfunding platform. We ask whether DonorsChoose improves educational outcomes, specifically at low-income schools. Combining DonorsChoose data with data on student test scores in Pennsylvania from 2012?2013 to 2017?2018, we find that an increase in the number of DonorsChoose projects funded at a school leads to higher student performance, after controlling for selection biases. For a school with zero funded projects, one funded project?of about $400 in value?translates to between two to nine more students scoring basic and above in all subjects in high school and science and language arts in primary and middle school. We find this effect is driven mostly by low-income schools, indicating funded projects help close the gap in educational outcomes between students at low- versus high-income schools. Based on a textual analysis of 20,000 statements from all funded teachers describing how project resources are used, we find two channels of improvement most effective in the lowest income schools. We demonstrate that, although DonorsChoose projects are small, they improve outcomes and reduce inequality because they come directly from frontline workers?teachers?who know most intimately the obstacles their students face and how to help.This paper was accepted by Charles Corbett, operations management.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4331.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4331
+UR  - https://doi.org/10.1287/mnsc.2022.4331
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Demand Expansion and Cannibalization Effects from Retail Store Entry: A Structural Analysis of Multichannel Demand
+AU  - Shriver, Scott K.
+AU  - Bollinger, Bryan
+Y1  - 2022/03/10
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4308
+DO  - 10.1287/mnsc.2022.4308
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8829
+EP  - 8856
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - In this paper, we investigate the demand response of a firm?s existing customers to retail store entry and which aspects of the response are demand-expanding and which cannibalize online sales. The empirical goal of the paper is to separately identify the effects of customer-to-store distance on purchase frequency, channel choice, and expenditure per purchase, using transaction-level data from a multichannel apparel brand. Our identification strategy exploits within-customer variation in distance resulting from store entry during a period of rapid retail expansion. We establish retail distance effects using descriptive regressions before developing a unified structural model that affords rich counterfactual analyses and further controls for product category preferences. We find material effects of decreasing retail store distance on purchase frequency and retail channel choice but not expenditures per purchase. Our structural model ascribes mechanisms to these effects in the form of increased brand consideration, higher retail utility from nonmonetary factors (e.g., reduced driving times), and infungibility of monetary transportation costs with budgets for apparel. Our estimates imply that a 10% reduction in retail store distance increases retail channel expenditures by 1.9% and decreases online channel expenditures by 1.2%, resulting in a 0.4% increase in total expenditures. Through counterfactual experiments, we demonstrate that retail expansion can ultimately limit the ability of the firm to price discriminate across channels because reducing transportation costs weakens the firm?s ability to enforce channel-based segmentation schemes.This paper was accepted by Matthew Shum, marketing.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4308.
+AB  - In this paper, we investigate the demand response of a firm?s existing customers to retail store entry and which aspects of the response are demand-expanding and which cannibalize online sales. The empirical goal of the paper is to separately identify the effects of customer-to-store distance on purchase frequency, channel choice, and expenditure per purchase, using transaction-level data from a multichannel apparel brand. Our identification strategy exploits within-customer variation in distance resulting from store entry during a period of rapid retail expansion. We establish retail distance effects using descriptive regressions before developing a unified structural model that affords rich counterfactual analyses and further controls for product category preferences. We find material effects of decreasing retail store distance on purchase frequency and retail channel choice but not expenditures per purchase. Our structural model ascribes mechanisms to these effects in the form of increased brand consideration, higher retail utility from nonmonetary factors (e.g., reduced driving times), and infungibility of monetary transportation costs with budgets for apparel. Our estimates imply that a 10% reduction in retail store distance increases retail channel expenditures by 1.9% and decreases online channel expenditures by 1.2%, resulting in a 0.4% increase in total expenditures. Through counterfactual experiments, we demonstrate that retail expansion can ultimately limit the ability of the firm to price discriminate across channels because reducing transportation costs weakens the firm?s ability to enforce channel-based segmentation schemes.This paper was accepted by Matthew Shum, marketing.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4308.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4308
+UR  - https://doi.org/10.1287/mnsc.2022.4308
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - What the Past Tells About the Future: Historical Prices in the Durable Goods Market
+AU  - Gong, Zheng
+AU  - Huang, Jin
+AU  - Chen, Yuxin
+Y1  - 2022/03/08
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4309
+DO  - 10.1287/mnsc.2022.4309
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8857
+EP  - 8871
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We investigate how historical price information (e.g., accessed through price trackers) influences consumers? purchase decisions and thus affects a firm?s dynamic pricing strategy. We first show that when consumers with heterogeneous tastes are not informed about historical prices, the monopolist charges a high regular price for most of the time and periodically holds low-price sales. Then we consider the case in which a small fraction of consumers (such as price tracker users) become informed of historical prices. At the new equilibrium, the monopolist lowers the regular price and advances sales, implying shorter price cycles, more frequent sales, and a positive spillover effect of price tracker users? informational advantage on the rest of uninformed consumers. We conclude with a discussion of the impact of price trackers on firms and other relevant managerial implications of the model.This paper was accepted by Dmitri Kuksov, marketing.Funding: Y. Chen thanks the National Science Foundation of China [Grant 71972043] for the support.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4309.
+AB  - We investigate how historical price information (e.g., accessed through price trackers) influences consumers? purchase decisions and thus affects a firm?s dynamic pricing strategy. We first show that when consumers with heterogeneous tastes are not informed about historical prices, the monopolist charges a high regular price for most of the time and periodically holds low-price sales. Then we consider the case in which a small fraction of consumers (such as price tracker users) become informed of historical prices. At the new equilibrium, the monopolist lowers the regular price and advances sales, implying shorter price cycles, more frequent sales, and a positive spillover effect of price tracker users? informational advantage on the rest of uninformed consumers. We conclude with a discussion of the impact of price trackers on firms and other relevant managerial implications of the model.This paper was accepted by Dmitri Kuksov, marketing.Funding: Y. Chen thanks the National Science Foundation of China [Grant 71972043] for the support.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4309.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4309
+UR  - https://doi.org/10.1287/mnsc.2022.4309
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - When Is Product Personalization Profit-Enhancing? A Behavior-Based Discrimination Model
+AU  - Laussel, Didier
+AU  - Resende, Joana
+Y1  - 2022/03/07
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4298
+DO  - 10.1287/mnsc.2022.4298
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8872
+EP  - 8888
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - This paper investigates duopoly competition when horizontally differentiated firms are able to make personalized product-price offers to returning customers, within a behavior-based discrimination model. In the second period, firms can profile old customers according to their preferences, selling them targeted products at personalized prices. Product-price personalization (PP) allows firms to retain all old customers, eliminating second-period customer poaching. The overall profit effects of PP are shown to be ambiguous. In the second period, PP improves the matching between customers? preferences and firms? offers, but firms do not make any revenues in the rival?s turf. In the Bertrand outcome, second-period profits only increase for both firms if the size of their old turfs are not too different or initial products are not too differentiated. However, the additional second-period profits may be offset by lower first-period profits. PP is likely to increase firms? overall discounted profits when consumers? (firms?) discount factor is low (high) and firms? initial products are exogenous and sufficiently different. When the location of initial products is endogenous, profits are hurt because of an additional location (strategic) effect aggravating head-to-head competition in the first period. Likewise, when a fraction of active consumers conceals their identity, PP increases second-period profits at the cost of aggressive first-period price competition. Finally, we show that the room for profitable PP enlarges considerably if firms rely on PP as an effective device to sustain tacit collusive outcomes, with firms credibly threatening to respond to first-period price deviations with second-period aggressive relocations of their standard products.This paper was accepted by Matthew Shum, marketing.Funding: D. Laussel gratefully acknowledges support by the French National Research Agency [Grant ANR-17-EURE-0020] and the Excellence Initiative of Aix-Marseille University [Grant A*MIDEX]. J. Resende was supported by Portuguese public funds [Project Reference NORTE-01-0145-FEDER-028540] and through FCT (Fundaç?o para a Ciência e a Tecnologia) [Project Reference POCI-01-0145-FEDER-006890].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4298.
+AB  - This paper investigates duopoly competition when horizontally differentiated firms are able to make personalized product-price offers to returning customers, within a behavior-based discrimination model. In the second period, firms can profile old customers according to their preferences, selling them targeted products at personalized prices. Product-price personalization (PP) allows firms to retain all old customers, eliminating second-period customer poaching. The overall profit effects of PP are shown to be ambiguous. In the second period, PP improves the matching between customers? preferences and firms? offers, but firms do not make any revenues in the rival?s turf. In the Bertrand outcome, second-period profits only increase for both firms if the size of their old turfs are not too different or initial products are not too differentiated. However, the additional second-period profits may be offset by lower first-period profits. PP is likely to increase firms? overall discounted profits when consumers? (firms?) discount factor is low (high) and firms? initial products are exogenous and sufficiently different. When the location of initial products is endogenous, profits are hurt because of an additional location (strategic) effect aggravating head-to-head competition in the first period. Likewise, when a fraction of active consumers conceals their identity, PP increases second-period profits at the cost of aggressive first-period price competition. Finally, we show that the room for profitable PP enlarges considerably if firms rely on PP as an effective device to sustain tacit collusive outcomes, with firms credibly threatening to respond to first-period price deviations with second-period aggressive relocations of their standard products.This paper was accepted by Matthew Shum, marketing.Funding: D. Laussel gratefully acknowledges support by the French National Research Agency [Grant ANR-17-EURE-0020] and the Excellence Initiative of Aix-Marseille University [Grant A*MIDEX]. J. Resende was supported by Portuguese public funds [Project Reference NORTE-01-0145-FEDER-028540] and through FCT (Fundaç?o para a Ciência e a Tecnologia) [Project Reference POCI-01-0145-FEDER-006890].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4298.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4298
+UR  - https://doi.org/10.1287/mnsc.2022.4298
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - I Don’t “Recall”: The Decision to Delay Innovation Launch to Avoid Costly Product Failure
+AU  - Kim, Byungyeon
+AU  - Koenigsberg, Oded
+AU  - Ofek, Elie
+Y1  - 2022/03/02
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4303
+DO  - 10.1287/mnsc.2022.4303
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8889
+EP  - 8908
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Innovations embody novel features or cutting-edge components aimed at delivering desired customer benefits. Oftentimes, however, we observe the need to recall new products shortly after their introduction. Indeed, a firm may rush an innovation to market in an attempt to pre-empt rivals and capture early demand, yet in so doing forgo rigorous testing, thus subjecting itself to the risk of a product recall. To shed light on this phenomenon, we construct a dynamic game-theoretic model in which firms plan to launch their innovations. Each firm must decide whether to conduct time-consuming quality assurance testing, which ensures no defects or safety problems but delays the launch. If the innovation is released without such testing and a recall occurs, the firm incurs pecuniary costs and faces future reputation damage in marketing the recalled innovation. We investigate the strategic forces behind firms? testing and launch-timing decisions in this context. The analysis uncovers a novel mechanism, linked to the possibility of a rival going bankrupt, that causes firms to become more inclined to rush to market and take on the risk of product failure even as the negative consequences of a recall increase. The results further demonstrate how firms? desire to forgo testing exhibits an inverse-U pattern as consumers become more heterogeneous and how competitive forces may induce both firms to forgo testing, although the resulting profits are lower than had they both committed to conduct testing. The framework is extended to examine how product recall considerations affect firms? research and development (R&D) investments. Although, in general, post-innovation product failure discourages R&D effort, we identify conditions under which an increase in the recall probability stimulates firms to innovate. Several model extensions are presented, and managerial implications are discussed.This paper was accepted by Dmitri Kuksov, marketing.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4303.
+AB  - Innovations embody novel features or cutting-edge components aimed at delivering desired customer benefits. Oftentimes, however, we observe the need to recall new products shortly after their introduction. Indeed, a firm may rush an innovation to market in an attempt to pre-empt rivals and capture early demand, yet in so doing forgo rigorous testing, thus subjecting itself to the risk of a product recall. To shed light on this phenomenon, we construct a dynamic game-theoretic model in which firms plan to launch their innovations. Each firm must decide whether to conduct time-consuming quality assurance testing, which ensures no defects or safety problems but delays the launch. If the innovation is released without such testing and a recall occurs, the firm incurs pecuniary costs and faces future reputation damage in marketing the recalled innovation. We investigate the strategic forces behind firms? testing and launch-timing decisions in this context. The analysis uncovers a novel mechanism, linked to the possibility of a rival going bankrupt, that causes firms to become more inclined to rush to market and take on the risk of product failure even as the negative consequences of a recall increase. The results further demonstrate how firms? desire to forgo testing exhibits an inverse-U pattern as consumers become more heterogeneous and how competitive forces may induce both firms to forgo testing, although the resulting profits are lower than had they both committed to conduct testing. The framework is extended to examine how product recall considerations affect firms? research and development (R&D) investments. Although, in general, post-innovation product failure discourages R&D effort, we identify conditions under which an increase in the recall probability stimulates firms to innovate. Several model extensions are presented, and managerial implications are discussed.This paper was accepted by Dmitri Kuksov, marketing.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4303.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4303
+UR  - https://doi.org/10.1287/mnsc.2022.4303
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Two-Sided Platform Competition in a Sharing Economy
+AU  - Zhang, Chenglong
+AU  - Chen, Jianqing
+AU  - Raghunathan, Srinivasan
+Y1  - 2022/04/18
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4302
+DO  - 10.1287/mnsc.2022.4302
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8909
+EP  - 8932
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We examine competition between two-sided platforms in a sharing economy. In sharing economies, workers self-schedule their supply based on the wage they receive. The platforms compete for workers as well as consumers. To attract workers, platforms use diverse wage schemes, including fixed commission rate, dynamic commission rate, and fixed wage. We develop a model to examine the impacts of the self-scheduled nature of the supply on competing platforms and the role of the wage scheme in the platform competition. We find that the price competition between platforms is more intense in a sharing economy compared with an economy with a fixed supply of workers if and only if the platforms serve more consumers and workers in the sharing economy than in the traditional economy, regardless of the wage scheme employed by the platforms. Further, any of the three wage schemes can be the best for the platforms and the worst for consumers and workers, depending on the market characteristics. In markets where the competition is more fierce on the demand side than on the supply side, the fixed-wage scheme results in the highest profits for the platforms and lowest surpluses for consumers and workers. In contrast, in markets where the competition on the supply side is more competitive, when the supply is highly (mildly) more competitive, the fixed-commission-rate (dynamic-commission-rate) scheme generates the highest profits for platforms, leading to the lowest surpluses for consumers and workers and the lowest social welfare. The differential impacts of the wage scheme on the price (demand side) and quantity (supply side) competition explain our findings.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4302.
+AB  - We examine competition between two-sided platforms in a sharing economy. In sharing economies, workers self-schedule their supply based on the wage they receive. The platforms compete for workers as well as consumers. To attract workers, platforms use diverse wage schemes, including fixed commission rate, dynamic commission rate, and fixed wage. We develop a model to examine the impacts of the self-scheduled nature of the supply on competing platforms and the role of the wage scheme in the platform competition. We find that the price competition between platforms is more intense in a sharing economy compared with an economy with a fixed supply of workers if and only if the platforms serve more consumers and workers in the sharing economy than in the traditional economy, regardless of the wage scheme employed by the platforms. Further, any of the three wage schemes can be the best for the platforms and the worst for consumers and workers, depending on the market characteristics. In markets where the competition is more fierce on the demand side than on the supply side, the fixed-wage scheme results in the highest profits for the platforms and lowest surpluses for consumers and workers. In contrast, in markets where the competition on the supply side is more competitive, when the supply is highly (mildly) more competitive, the fixed-commission-rate (dynamic-commission-rate) scheme generates the highest profits for platforms, leading to the lowest surpluses for consumers and workers and the lowest social welfare. The differential impacts of the wage scheme on the price (demand side) and quantity (supply side) competition explain our findings.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4302.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4302
+UR  - https://doi.org/10.1287/mnsc.2022.4302
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Social Referral Programs for Freemium Platforms
+AU  - Belo, Rodrigo
+AU  - Li, Ting
+Y1  - 2022/04/05
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4301
+DO  - 10.1287/mnsc.2022.4301
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8933
+EP  - 8962
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We examine how freemium platforms can design social referral programs to encourage growth and engagement without sacrificing revenue. On the one hand, social referral programs generate new referrals from users who would not have paid for the premium features. On the other hand, they also attract new referrals from users who would have paid but prefer to invite others, resulting in more referrals but fewer paying users. We use data from a large-scale randomized field experiment in an online dating platform to assess the effects of adding referrals programs to freemium platforms and changing the referral requirements on users? behavior, namely, on their decisions to invite, pay, and engage with the platform. We find that introducing referral programs in freemium platforms can significantly contribute to increasing the number of referrals at the expense of revenue. Platforms can avoid the loss in revenue by reserving some premium features exclusively for paying users. We also find that increasing referral requirements in social referral programs can work as a double-edged sword. Increasing the referral threshold results in more referrals and higher total revenue. Yet these benefits appear to come at a cost. Users become less engaged, decreasing the value of the platform for all users. We explore two mechanisms that help to explain the differences in users? social engagement. Finally, and contrary to prior findings, we find that the quality of the referrals is not affected by the referral requirements. We discuss the theoretical and practical implications of our research.This paper was accepted by Chris Forman, information systems.Funding: This work was funded by Fundac??o para a Ciência e a Tecnologia [UID/ ECO/00124/2019, UIDB/00124/2020, UIDP/00124/2020, and Social Sciences DataLab - PINFRA/22209/2016], POR Lisboa, and POR Norte [Social Sciences DataLab, PINFRA/22209/2016].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4301.
+AB  - We examine how freemium platforms can design social referral programs to encourage growth and engagement without sacrificing revenue. On the one hand, social referral programs generate new referrals from users who would not have paid for the premium features. On the other hand, they also attract new referrals from users who would have paid but prefer to invite others, resulting in more referrals but fewer paying users. We use data from a large-scale randomized field experiment in an online dating platform to assess the effects of adding referrals programs to freemium platforms and changing the referral requirements on users? behavior, namely, on their decisions to invite, pay, and engage with the platform. We find that introducing referral programs in freemium platforms can significantly contribute to increasing the number of referrals at the expense of revenue. Platforms can avoid the loss in revenue by reserving some premium features exclusively for paying users. We also find that increasing referral requirements in social referral programs can work as a double-edged sword. Increasing the referral threshold results in more referrals and higher total revenue. Yet these benefits appear to come at a cost. Users become less engaged, decreasing the value of the platform for all users. We explore two mechanisms that help to explain the differences in users? social engagement. Finally, and contrary to prior findings, we find that the quality of the referrals is not affected by the referral requirements. We discuss the theoretical and practical implications of our research.This paper was accepted by Chris Forman, information systems.Funding: This work was funded by Fundac??o para a Ciência e a Tecnologia [UID/ ECO/00124/2019, UIDB/00124/2020, UIDP/00124/2020, and Social Sciences DataLab - PINFRA/22209/2016], POR Lisboa, and POR Norte [Social Sciences DataLab, PINFRA/22209/2016].Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4301.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4301
+UR  - https://doi.org/10.1287/mnsc.2022.4301
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Histogram Distortion Bias in Consumer Choices
+AU  - Lu, Tao
+AU  - Yuan, May
+AU  - Wang, Chong (Alex)
+AU  - Zhang, Xiaoquan (Michael)
+Y1  - 2022/05/05
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4306
+DO  - 10.1287/mnsc.2022.4306
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8963
+EP  - 8978
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Existing research on word-of-mouth considers various descriptive statistics of rating distributions, such as the mean, variance, skewness, kurtosis, and even entropy and the Herfindahl-Hirschman index. But real-world consumer decisions are often derived from visual assessment of displayed rating distributions in the form of histograms. In this study, we argue that such distribution charts may inadvertently lead to a consumer-choice bias that we call the histogram distortion bias (HDB). We propose that salient features of distributions in visual decision making may mislead consumers and result in inferior decision making. In an illustrative model, we derive a measure of the HDB. We show that with the HDB, consumers may make choices that violate well-accepted decision rules. In a series of experiments, subjects are observed to prefer products with a higher HDB despite a lower average rating. They could also violate widely accepted modeling assumptions, such as branch independence and first-order stochastic dominance.This paper was accepted by Chris Forman, information systems.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72131001 and 92146003] and the Research Grants Council, University Grants Committee [GRF 14500521, GRF 14501320, GRF 14503818, and TRS:T31-604/18-N].Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4306.
+AB  - Existing research on word-of-mouth considers various descriptive statistics of rating distributions, such as the mean, variance, skewness, kurtosis, and even entropy and the Herfindahl-Hirschman index. But real-world consumer decisions are often derived from visual assessment of displayed rating distributions in the form of histograms. In this study, we argue that such distribution charts may inadvertently lead to a consumer-choice bias that we call the histogram distortion bias (HDB). We propose that salient features of distributions in visual decision making may mislead consumers and result in inferior decision making. In an illustrative model, we derive a measure of the HDB. We show that with the HDB, consumers may make choices that violate well-accepted decision rules. In a series of experiments, subjects are observed to prefer products with a higher HDB despite a lower average rating. They could also violate widely accepted modeling assumptions, such as branch independence and first-order stochastic dominance.This paper was accepted by Chris Forman, information systems.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72131001 and 92146003] and the Research Grants Council, University Grants Committee [GRF 14500521, GRF 14501320, GRF 14503818, and TRS:T31-604/18-N].Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4306.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4306
+UR  - https://doi.org/10.1287/mnsc.2022.4306
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Economics of Ransomware: Risk Interdependence and Large-Scale Attacks
+AU  - August, Terrence
+AU  - Dao, Duy
+AU  - Niculescu, Marius Florin
+Y1  - 2022/03/07
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4300
+DO  - 10.1287/mnsc.2022.4300
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 8979
+EP  - 9002
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Recently, the development of ransomware strains and changes in the marketplace for malware have greatly reduced the entry barrier for attackers to conduct large-scale ransomware attacks. In this paper, we examine how this mode of cyberattack impacts software vendors and consumer behavior. When victims face an added option to mitigate losses via a ransom payment, both the equilibrium market size and the vendor?s profit under optimal pricing can actually increase in the ransom demand. Profit can also increase in the scale of residual losses following a ransom payment (which reflect the trustworthiness of the ransomware operator). We show that for intermediate levels of risk, the vendor restricts software adoption by substantially hiking up price. This lies in stark contrast to outcomes in a benchmark case involving traditional malware (non-ransomware) where the vendor decreases price as security risk increases. Social welfare is higher under ransomware compared with the benchmark in both sufficiently low- and high-risk settings. However, for intermediate risk, it is better from a social standpoint if consumers do not have an option to pay ransom. We also show that the expected ransom paid is nonmonotone in risk, increasing when risk is moderate despite a decreasing ransom-paying population. For ransomware attacks on other vectors (beyond patchable vulnerabilities), there can still be an incentive to hike price. However, market size and profits instead weakly decrease in the ransom amount. When studying a generalized model that includes both traditional and ransomware attacks, our results remain robust to a wide range of scenarios, including threat landscapes where ransomware has only a small presence.This paper was accepted by Kartik Hosanagar, information systems.Funding: This work has been supported by the Haskayne School of Business' Dean's Research Grant and by an award from the Georgia Institute of Technology Center of International Business Education & Research as part of its funded research program.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4300.
+AB  - Recently, the development of ransomware strains and changes in the marketplace for malware have greatly reduced the entry barrier for attackers to conduct large-scale ransomware attacks. In this paper, we examine how this mode of cyberattack impacts software vendors and consumer behavior. When victims face an added option to mitigate losses via a ransom payment, both the equilibrium market size and the vendor?s profit under optimal pricing can actually increase in the ransom demand. Profit can also increase in the scale of residual losses following a ransom payment (which reflect the trustworthiness of the ransomware operator). We show that for intermediate levels of risk, the vendor restricts software adoption by substantially hiking up price. This lies in stark contrast to outcomes in a benchmark case involving traditional malware (non-ransomware) where the vendor decreases price as security risk increases. Social welfare is higher under ransomware compared with the benchmark in both sufficiently low- and high-risk settings. However, for intermediate risk, it is better from a social standpoint if consumers do not have an option to pay ransom. We also show that the expected ransom paid is nonmonotone in risk, increasing when risk is moderate despite a decreasing ransom-paying population. For ransomware attacks on other vectors (beyond patchable vulnerabilities), there can still be an incentive to hike price. However, market size and profits instead weakly decrease in the ransom amount. When studying a generalized model that includes both traditional and ransomware attacks, our results remain robust to a wide range of scenarios, including threat landscapes where ransomware has only a small presence.This paper was accepted by Kartik Hosanagar, information systems.Funding: This work has been supported by the Haskayne School of Business' Dean's Research Grant and by an award from the Georgia Institute of Technology Center of International Business Education & Research as part of its funded research program.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4300.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4300
+UR  - https://doi.org/10.1287/mnsc.2022.4300
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Do MNEs and Domestic Firms Respond Locally to a Global Demand Shock? Evidence from a Pandemic
+AU  - Adbi, Arzi
+AU  - Chatterjee, Chirantan
+AU  - Mishra, Anant
+Y1  - 2022/03/23
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4313
+DO  - 10.1287/mnsc.2022.4313
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9003
+EP  - 9025
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Global shocks bring unanticipated changes in the business environment of foreign multinational enterprises (MNEs) and rival domestic firms. We examine whether there is a difference between how MNEs and domestic firms react in heterogeneous local or subnational markets to a global demand shock. Leveraging the 2009?2010 H1N1 influenza pandemic as a source of exogenous variation in global demand for influenza vaccines, we investigate the role of subnational heterogeneity in economic resources, industry infrastructure, and political alignment within an emerging economy on the behavior of incumbent MNEs and rival domestic firms. We find that following the pandemic, MNE market share in the influenza vaccine market relative to the noninfluenza vaccine markets declines more in regions with lower government health spending per capita and also, in regions unaligned with the federal government. Additional analyses suggest that these changes in market share are not caused by a reduction in MNE revenues. Rather, they are caused by domestic firms that were already present in noninfluenza vaccine markets diversifying by entering the highly related influenza vaccine market. Finally, a granular examination of the differential responses reveals that such responses are not related to preshock differences in regional coverage of MNEs and domestic firms. This study contributes to the extant literature by suggesting that the direct costs or opportunity costs of new market and region entry are relatively greater for MNEs than for domestic firms, particularly in regions that have inadequate health infrastructure and are politically not aligned.This paper was accepted by Joshua Gans, business strategy.Funding: The authors acknowledge funding support from the National University of Singapore [Start-up Research Grant R-313-000-143-133]; the University of Minnesota [Summer Research Grant]; the Industrial Credit and Investment Corporation of India Bank Chair at Indian Institute of Management Ahmedabad; and the Campbell and Teller National Fellow Program at Hoover Institution, Stanford University.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4313.
+AB  - Global shocks bring unanticipated changes in the business environment of foreign multinational enterprises (MNEs) and rival domestic firms. We examine whether there is a difference between how MNEs and domestic firms react in heterogeneous local or subnational markets to a global demand shock. Leveraging the 2009?2010 H1N1 influenza pandemic as a source of exogenous variation in global demand for influenza vaccines, we investigate the role of subnational heterogeneity in economic resources, industry infrastructure, and political alignment within an emerging economy on the behavior of incumbent MNEs and rival domestic firms. We find that following the pandemic, MNE market share in the influenza vaccine market relative to the noninfluenza vaccine markets declines more in regions with lower government health spending per capita and also, in regions unaligned with the federal government. Additional analyses suggest that these changes in market share are not caused by a reduction in MNE revenues. Rather, they are caused by domestic firms that were already present in noninfluenza vaccine markets diversifying by entering the highly related influenza vaccine market. Finally, a granular examination of the differential responses reveals that such responses are not related to preshock differences in regional coverage of MNEs and domestic firms. This study contributes to the extant literature by suggesting that the direct costs or opportunity costs of new market and region entry are relatively greater for MNEs than for domestic firms, particularly in regions that have inadequate health infrastructure and are politically not aligned.This paper was accepted by Joshua Gans, business strategy.Funding: The authors acknowledge funding support from the National University of Singapore [Start-up Research Grant R-313-000-143-133]; the University of Minnesota [Summer Research Grant]; the Industrial Credit and Investment Corporation of India Bank Chair at Indian Institute of Management Ahmedabad; and the Campbell and Teller National Fellow Program at Hoover Institution, Stanford University.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4313.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4313
+UR  - https://doi.org/10.1287/mnsc.2022.4313
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - An Examination of Velocity and Initial Coin Offerings
+AU  - Holden, Richard
+AU  - Malani, Anup
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4314
+DO  - 10.1287/mnsc.2022.4314
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9026
+EP  - 9041
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Blockchain technology offers firms a novel method of raising capital via so-called initial coin offerings (ICOs). In the most common form of an ICO, a firm creates digital assets called ?utility tokens? that are tracked on a blockchain-based ledger, requires that its product be purchased only with those tokens, and then, raises capital by selling these tokens to investors prior to creating any saleable product. (Some nonfungible tokens (NFTs) may function in a similar fashion.) We model a fundamental paradox with the use of ICOs involving utility tokens and similar structures. To increase capital raised by an ICO, the firm may attempt to reduce blockchain operating costs, thus expanding the quantity of goods sold. However, because of the mechanics of miner compensation, doing so increases the number of utility token transactions that take place in any time interval (i.e., increases token velocity and thus, the effective supply of tokens). By Fisher?s equation, this lowers the dollar value of tokens and the amount investors are willing to pay for them. We show that this paradox limits the value of utility token ICOs as an alternative to traditional financing options. We discuss alternatives to and variations of utility tokens that can mitigate the conundrum and promote ICOs as a more viable form of financing.This paper was accepted by Joshua Gans, business strategy.
+AB  - Blockchain technology offers firms a novel method of raising capital via so-called initial coin offerings (ICOs). In the most common form of an ICO, a firm creates digital assets called ?utility tokens? that are tracked on a blockchain-based ledger, requires that its product be purchased only with those tokens, and then, raises capital by selling these tokens to investors prior to creating any saleable product. (Some nonfungible tokens (NFTs) may function in a similar fashion.) We model a fundamental paradox with the use of ICOs involving utility tokens and similar structures. To increase capital raised by an ICO, the firm may attempt to reduce blockchain operating costs, thus expanding the quantity of goods sold. However, because of the mechanics of miner compensation, doing so increases the number of utility token transactions that take place in any time interval (i.e., increases token velocity and thus, the effective supply of tokens). By Fisher?s equation, this lowers the dollar value of tokens and the amount investors are willing to pay for them. We show that this paradox limits the value of utility token ICOs as an alternative to traditional financing options. We discuss alternatives to and variations of utility tokens that can mitigate the conundrum and promote ICOs as a more viable form of financing.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4314
+UR  - https://doi.org/10.1287/mnsc.2022.4314
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Risk of Caution: Evidence from an Experiment
+AU  - Carson, Richard T.
+AU  - Graff Zivin, Joshua
+AU  - Louviere, Jordan J.
+AU  - Sadoff, Sally
+AU  - Shrader, Jeffrey G.
+Y1  - 2022/02/08
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2021.4292
+DO  - 10.1287/mnsc.2021.4292
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9042
+EP  - 9060
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Innovation is important for firm performance and broader economic growth. However, breakthrough innovations necessarily require greater risk taking than more incremental approaches. To understand how managers respond to uncertainty when making research and development decisions, we conducted experiments with master?s degree students in a program focused on the intersection of business and technology. Study participants were asked to choose whether to fund hypothetical research projects using a process that mirrors real-world research and development funding decisions. The experiments provided financial rewards that disproportionately encouraged the choice of higher-risk projects. Despite these incentives, most participants chose lower-risk projects at the expense of projects more likely to generate a large payoff. Heterogeneity analysis and additional experimental treatments show that individual risk preferences predict greater tolerance of high-risk projects and suggest that more appropriate decision making can be learned. Thus, for firms seeking to fund breakthrough research and development, appropriate screening and training of employees may play important roles in increasing the likelihood of success.This paper was accepted by Gustavo Manso, finance.Funding: This work was supported by the National Science Foundation [Grant SBE-1561257].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.4292.
+AB  - Innovation is important for firm performance and broader economic growth. However, breakthrough innovations necessarily require greater risk taking than more incremental approaches. To understand how managers respond to uncertainty when making research and development decisions, we conducted experiments with master?s degree students in a program focused on the intersection of business and technology. Study participants were asked to choose whether to fund hypothetical research projects using a process that mirrors real-world research and development funding decisions. The experiments provided financial rewards that disproportionately encouraged the choice of higher-risk projects. Despite these incentives, most participants chose lower-risk projects at the expense of projects more likely to generate a large payoff. Heterogeneity analysis and additional experimental treatments show that individual risk preferences predict greater tolerance of high-risk projects and suggest that more appropriate decision making can be learned. Thus, for firms seeking to fund breakthrough research and development, appropriate screening and training of employees may play important roles in increasing the likelihood of success.This paper was accepted by Gustavo Manso, finance.Funding: This work was supported by the National Science Foundation [Grant SBE-1561257].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.4292.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4292
+UR  - https://doi.org/10.1287/mnsc.2021.4292
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Do Sunk Costs Affect Prices in the Housing Market?
+AU  - Ratnadiwakara, Dimuthu
+AU  - Yerramilli, Vijay
+Y1  - 2022/02/02
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2021.4285
+DO  - 10.1287/mnsc.2021.4285
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9061
+EP  - 9081
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We use a unique feature of California?s property tax system to empirically identify the causal effect of selling homeowners? past property tax payments on their choice of listing price. Although past property taxes are sunk costs, we find that they have a significant positive effect on the sellers? choice of listing price, which is inconsistent with rational models of decision making. This effect is stronger when sellers expect to sell at a loss relative to their purchase price and for properties whose value is harder to assess. The effect of property taxes on listing price is mostly transmitted to the selling price, which is consistent with the idea that buyers use listing prices as anchors to assess property values. Overall, our results suggest that sunk costs affect prices in the housing market.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: Data files are available at https://doi.org/10.1287/mnsc.2021.4285.
+AB  - We use a unique feature of California?s property tax system to empirically identify the causal effect of selling homeowners? past property tax payments on their choice of listing price. Although past property taxes are sunk costs, we find that they have a significant positive effect on the sellers? choice of listing price, which is inconsistent with rational models of decision making. This effect is stronger when sellers expect to sell at a loss relative to their purchase price and for properties whose value is harder to assess. The effect of property taxes on listing price is mostly transmitted to the selling price, which is consistent with the idea that buyers use listing prices as anchors to assess property values. Overall, our results suggest that sunk costs affect prices in the housing market.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: Data files are available at https://doi.org/10.1287/mnsc.2021.4285.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4285
+UR  - https://doi.org/10.1287/mnsc.2021.4285
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Information Salience and Mispricing in Housing
+AU  - Agarwal, Sumit
+AU  - Karapetyan, Artashes
+Y1  - 2022/01/25
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2021.4253
+DO  - 10.1287/mnsc.2021.4253
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9082
+EP  - 9106
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Making the purchase price fully salient to consumers has been shown to affect demand and equilibrium prices in various markets. Using a setting where part of the home acquisition price is in the form of nonsalient debt, we show this can happen in housing?a market where a typical household makes its largest acquisition. A regulation that made the debt and the total price salient for homebuyers eliminated a large mispricing caused by consumers? inattention to the debt before the regulation. An average homebuyer would lose about $13,300 by acquiring a dwelling with one-standard deviation ($51,000)-higher debt, but this is nearly eliminated after the regulation. To shed light on the underlying channels, we use administrative data and show that young, financially inexperienced, and first-time homebuyers used to overpay the most. The results are not driven by rational channels based on liquidity constraints and adverse selection. Our findings imply that making all-inclusive house price and mortgage features salient at the time of advertising the sale can help avoid unintentional borrowing.This paper was accepted by David Simchi-Levi, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.4253.
+AB  - Making the purchase price fully salient to consumers has been shown to affect demand and equilibrium prices in various markets. Using a setting where part of the home acquisition price is in the form of nonsalient debt, we show this can happen in housing?a market where a typical household makes its largest acquisition. A regulation that made the debt and the total price salient for homebuyers eliminated a large mispricing caused by consumers? inattention to the debt before the regulation. An average homebuyer would lose about $13,300 by acquiring a dwelling with one-standard deviation ($51,000)-higher debt, but this is nearly eliminated after the regulation. To shed light on the underlying channels, we use administrative data and show that young, financially inexperienced, and first-time homebuyers used to overpay the most. The results are not driven by rational channels based on liquidity constraints and adverse selection. Our findings imply that making all-inclusive house price and mortgage features salient at the time of advertising the sale can help avoid unintentional borrowing.This paper was accepted by David Simchi-Levi, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.4253.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4253
+UR  - https://doi.org/10.1287/mnsc.2021.4253
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Capital Market Consequences of Tenure-Based Voting Rights: Evidence from the Florange Act
+AU  - Bourveau, Thomas
+AU  - Brochet, François
+AU  - Garel, Alexandre
+Y1  - 2022/02/25
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4320
+DO  - 10.1287/mnsc.2022.4320
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9107
+EP  - 9128
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We examine the consequences of a regulatory intervention aimed at generalizing tenure voting in French public companies. The 2014 Florange Act departs from the ?one share one vote? principle by automatically granting double-voting rights (DVR) to shares held for at least two years. However, firms can opt out through an annual meeting vote. We document three main findings. First, firms that adopt DVR by default experience a decrease in long-term foreign institutional ownership offset by an increase in insider/family ownership. Second, those firms significantly underperform in terms of stock returns after Florange relative to those that reject DVR. Third, their environmental and social performance deteriorates. Collectively, our evidence casts doubt on the merit of regulation-induced tenure voting as a desirable corporate governance mechanism.This paper was accepted by Brian Bushee, accounting.Funding: This work was supported by Research Grants Council of Hong Kong [16513216]. We also acknowledge the General Research Fund of the Research Grants Council of Hong Kong [Project No. 16505017] for financial support.Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2022.4320.
+AB  - We examine the consequences of a regulatory intervention aimed at generalizing tenure voting in French public companies. The 2014 Florange Act departs from the ?one share one vote? principle by automatically granting double-voting rights (DVR) to shares held for at least two years. However, firms can opt out through an annual meeting vote. We document three main findings. First, firms that adopt DVR by default experience a decrease in long-term foreign institutional ownership offset by an increase in insider/family ownership. Second, those firms significantly underperform in terms of stock returns after Florange relative to those that reject DVR. Third, their environmental and social performance deteriorates. Collectively, our evidence casts doubt on the merit of regulation-induced tenure voting as a desirable corporate governance mechanism.This paper was accepted by Brian Bushee, accounting.Funding: This work was supported by Research Grants Council of Hong Kong [16513216]. We also acknowledge the General Research Fund of the Research Grants Council of Hong Kong [Project No. 16505017] for financial support.Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2022.4320.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4320
+UR  - https://doi.org/10.1287/mnsc.2022.4320
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Behavior of Corporate Depositors During a Bank Panic
+AU  - Chernykh, Lucy
+AU  - Mityakov, Sergey
+Y1  - 2022/02/01
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4304
+DO  - 10.1287/mnsc.2022.4304
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9129
+EP  - 9151
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - We use high-frequency data to study access and response to bank-level information by corporate depositors during a banking crisis. We examine a bank panic episode in Russia during the summer of 2004 triggered by the Central Bank of Russia (CBR) announcement to liquidate banks for suspicious operations. Our results support the presence of sophisticated depositor monitoring and discipline. Private information about bank risk is available to depositor-firms with a strong business connection to their bank. Other corporate depositors make withdrawals based on publicly observable bank characteristics. Corporate depositors (both with and without strong business ties to the bank) are also susceptible to rumors floating around the banking community. However, those rumors reflect bank-risk fundamentals. Contagion effects seem to be limited.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4304.
+AB  - We use high-frequency data to study access and response to bank-level information by corporate depositors during a banking crisis. We examine a bank panic episode in Russia during the summer of 2004 triggered by the Central Bank of Russia (CBR) announcement to liquidate banks for suspicious operations. Our results support the presence of sophisticated depositor monitoring and discipline. Private information about bank risk is available to depositor-firms with a strong business connection to their bank. Other corporate depositors make withdrawals based on publicly observable bank characteristics. Corporate depositors (both with and without strong business ties to the bank) are also susceptible to rumors floating around the banking community. However, those rumors reflect bank-risk fundamentals. Contagion effects seem to be limited.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4304.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4304
+UR  - https://doi.org/10.1287/mnsc.2022.4304
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Contagious Bank Runs and Committed Liquidity Support
+AU  - Li, Zhao
+AU  - Ma, Kebin
+Y1  - 2022/05/31
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2021.4258
+DO  - 10.1287/mnsc.2021.4258
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9152
+EP  - 9174
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - In a crisis, regulators and private investors can find it difficult, if not impossible, to tell whether banks facing runs are insolvent or merely illiquid. We introduce such an information constraint into a global-games-based bank run model with multiple banks and aggregate uncertainties. The information constraint creates a vicious cycle between contagious bank runs and falling asset prices and limits the effectiveness of traditional emergency liquidity assistance programs. We explain how a regulator can set up committed liquidity support to contain contagion and stabilize asset prices even without information on banks? solvency, rationalizing some recent developments in policy practices.This paper was accepted by Agostino Capponi, finance.Funding: This work was supported by the National Natural Science Foundation of China [Project 71803024]. Z. Li also acknowledges financial support from ?Innovation and Talent Base for Digital Technology and Finance? of China [Project B21038].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.4258.
+AB  - In a crisis, regulators and private investors can find it difficult, if not impossible, to tell whether banks facing runs are insolvent or merely illiquid. We introduce such an information constraint into a global-games-based bank run model with multiple banks and aggregate uncertainties. The information constraint creates a vicious cycle between contagious bank runs and falling asset prices and limits the effectiveness of traditional emergency liquidity assistance programs. We explain how a regulator can set up committed liquidity support to contain contagion and stabilize asset prices even without information on banks? solvency, rationalizing some recent developments in policy practices.This paper was accepted by Agostino Capponi, finance.Funding: This work was supported by the National Natural Science Foundation of China [Project 71803024]. Z. Li also acknowledges financial support from ?Innovation and Talent Base for Digital Technology and Finance? of China [Project B21038].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.4258.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4258
+UR  - https://doi.org/10.1287/mnsc.2021.4258
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Ratings and Cooperative Information Transmission
+AU  - Martel, Jordan
+AU  - Van Wesep, Edward Dickersin
+AU  - Van Wesep, Robert
+Y1  - 2022/09/16
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4297
+DO  - 10.1287/mnsc.2022.4297
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9175
+EP  - 9197
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - Researchers have often attributed discrete messages such as ratings to a difference in preferences between sender and receiver. By extending a standard model of information transmission, we show that discreteness can also arise when preferences are identical but misinterpretation is possible. Whereas discrete messages are less precise, they are easier to interpret. We provide predictions for the distribution of ratings. If we believe that an observed distribution results from cooperative behavior, the model provides a method for inferring the objectives of the sender and receiver. Ratings inflation and deflation arise as emergent properties of an optimal distribution.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4297.
+AB  - Researchers have often attributed discrete messages such as ratings to a difference in preferences between sender and receiver. By extending a standard model of information transmission, we show that discreteness can also arise when preferences are identical but misinterpretation is possible. Whereas discrete messages are less precise, they are easier to interpret. We provide predictions for the distribution of ratings. If we believe that an observed distribution results from cooperative behavior, the model provides a method for inferring the objectives of the sender and receiver. Ratings inflation and deflation arise as emergent properties of an optimal distribution.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4297.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4297
+UR  - https://doi.org/10.1287/mnsc.2022.4297
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Does Industry Employment of Active Regulators Weaken Oversight?
+AU  - Heese, Jonas
+Y1  - 2022/02/15
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.4326
+DO  - 10.1287/mnsc.2022.4326
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 9198
+EP  - 9218
+VL  - 68
+IS  - 12
+PB  - INFORMS
+N2  - I study whether industry employment of active regulators weakens oversight. To examine this question, I exploit that the Financial Reporting Enforcement Panel (FREP), the German capital-market regulator responsible for enforcing public firms? compliance with accounting standards, allows its senior regulators to serve on boards of public firms during their FREP tenure. I find that firms are less likely to face enforcement actions after they appoint active regulators to their board. After such an appointment, firms are more likely to receive a qualified audit opinion, more likely to have an above-normal risk of accounting manipulation, as measured by an F-score greater than one, and exhibit higher income-increasing abnormal accruals. These findings suggest that directorships of active regulators can result in conflicts of interest that weaken oversight.This paper was accepted by Brian Bushee, accounting.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4326.
+AB  - I study whether industry employment of active regulators weakens oversight. To examine this question, I exploit that the Financial Reporting Enforcement Panel (FREP), the German capital-market regulator responsible for enforcing public firms? compliance with accounting standards, allows its senior regulators to serve on boards of public firms during their FREP tenure. I find that firms are less likely to face enforcement actions after they appoint active regulators to their board. After such an appointment, firms are more likely to receive a qualified audit opinion, more likely to have an above-normal risk of accounting manipulation, as measured by an F-score greater than one, and exhibit higher income-increasing abnormal accruals. These findings suggest that directorships of active regulators can result in conflicts of interest that weaken oversight.This paper was accepted by Brian Bushee, accounting.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4326.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4326
+UR  - https://doi.org/10.1287/mnsc.2022.4326
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2022/12/01
+PY  - 2022
+DA  - 2022/12/01
+N1  - doi: 10.1287/mnsc.2022.eb.v68n12
+DO  - 10.1287/mnsc.2022.eb.v68n12
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 68
+IS  - 12
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.eb.v68n12
+UR  - https://doi.org/10.1287/mnsc.2022.eb.v68n12
+Y2  - 2024/03/29
+ER  - 

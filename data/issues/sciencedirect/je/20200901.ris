@@ -1,0 +1,191 @@
+TY  - JOUR
+T1  - Statistical inferences for price staleness
+AU  - Kolokolov, Aleksey
+AU  - Livieri, Giulia
+AU  - Pirino, Davide
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 32
+EP  - 81
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300270
+KW  - Average staleness
+KW  - Instantaneous price staleness
+KW  - Liquidity
+KW  - Zero returns
+KW  - Stable convergence
+AB  - This paper proposes a nonparametric theory for statistical inferences on zero returns of high-frequency asset prices. Using an infill asymptotic design, we derive limit theorems for the percentage of zero returns observed on a finite time interval and for other related quantities. Within this framework, we develop two nonparametric tests. First, we test whether intra-day zero returns are independent and identically distributed. Second, we test whether intra-day variation of the likelihood of occurrence of zero returns can be solely explained by a deterministic diurnal pattern. In an empirical application to ten representative stocks of the NYSE, we provide evidence that the null of independent and identically distributed intra-day zero returns can be conclusively rejected. We further find that a deterministic diurnal pattern is not sufficient to explain the intra-day variability of the distribution of zero returns.
+ER  - 
+
+TY  - JOUR
+T1  - On the unbiased asymptotic normality of quantile regression with fixed effects
+AU  - Galvao, Antonio F.
+AU  - Gu, Jiaying
+AU  - Volgushev, Stanislav
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 178
+EP  - 215
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300415
+KW  - Quantile regression
+KW  - Panel data
+KW  - Fixed effects
+KW  - Asymptotics
+AB  - Nonlinear panel data models with fixed individual effects provide an important set of tools for describing microeconometric data. In a large class of such models (including probit, proportional hazard and quantile regression to name just a few) it is impossible to difference out the individual effects, and inference is usually justified in a ‘large n large T’ asymptotic framework. However, there is a considerable gap in the type of assumptions that are currently imposed in models with smooth score functions (such as probit, and proportional hazard) and quantile regression. In the present paper we show that this gap can be bridged and establish unbiased asymptotic normality for fixed effects quantile regression panels under conditions on n,T that are very close to what is typically assumed in standard nonlinear panels. Our results considerably improve upon existing theory and show that quantile regression is applicable to the same type of panel data (in terms of n,T) as other commonly used nonlinear panel data models. Thorough numerical experiments confirm our theoretical findings.
+ER  - 
+
+TY  - JOUR
+T1  - Regression discontinuity design with many thresholds
+AU  - Bertanha, Marinho
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 216
+EP  - 241
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300361
+KW  - Regression discontinuity
+KW  - Multiple cutoffs
+KW  - Average treatment effect
+KW  - Peer-effects
+AB  - Numerous empirical studies employ regression discontinuity designs with multiple cutoffs and heterogeneous treatments. A common practice is to normalize all the cutoffs to zero and estimate one effect. This procedure identifies the average treatment effect (ATE) on the observed distribution of individuals local to existing cutoffs. However, researchers often want to make inferences on more meaningful ATEs, computed over general counterfactual distributions of individuals, rather than simply the observed distribution of individuals local to existing cutoffs. This paper proposes a consistent and asymptotically normal estimator for such ATEs when heterogeneity follows a non-parametric function of cutoff characteristics in the sharp case. The proposed estimator converges at the minimax optimal rate of root-n for a specific choice of tuning parameters. Identification in the fuzzy case, with multiple cutoffs, is impossible unless heterogeneity follows a finite-dimensional function of cutoff characteristics. Under parametric heterogeneity, this paper proposes an ATE estimator for the fuzzy case that optimally combines observations to maximize its precision.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic F tests under possibly weak identification
+AU  - Martínez-Iriarte, Julián
+AU  - Sun, Yixiao
+AU  - Wang, Xuexin
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 140
+EP  - 177
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300063
+KW  - Heteroskedasticity and autocorrelation robust variance
+KW  - Continuous updating GMM
+KW  - F distribution
+KW  - Fixed-smoothing asymptotics
+KW  - Weak identification
+AB  - This paper develops asymptotic F tests robust to weak identification and temporal dependence. The test statistics we focus on are modified versions of the S statistic of Stock and Wright (2000) and the K statistic of Kleibergen (2005). In the former case, the modification involves only a multiplicative degree-of-freedom adjustment, and the modified S statistic is asymptotically F distributed under fixed-smoothing asymptotics regardless of the strength of the model identification. In the latter case, the modification involves an additional multiplicative adjustment that uses a J statistic for testing overidentification. We show that the modified K statistic is asymptotically F-distributed when the model parameters are completely unidentified or nearly-weakly identified. When the model parameters are weakly identified, the F approximation for the K statistic can be justified under the conventional asymptotics. The F approximations account for the estimation errors in the underlying heteroskedasticity and autocorrelation robust variance estimators, which the chi-squared approximations ignore. Monte Carlo simulations show that the F approximations are much more accurate than the corresponding chi-squared approximations in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating latent asset-pricing factors
+AU  - Lettau, Martin
+AU  - Pelger, Markus
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 1
+EP  - 31
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300051
+KW  - Cross section of returns
+KW  - Anomalies
+KW  - Expected returns
+KW  - High-dimensional data
+KW  - Latent factors
+KW  - Weak factors
+KW  - PCA
+AB  - We develop an estimator for latent factors in a large-dimensional panel of financial data that can explain expected excess returns. Statistical factor analysis based on Principal Component Analysis (PCA) has problems identifying factors with a small variance that are important for asset pricing. We generalize PCA with a penalty term accounting for the pricing error in expected returns. Our estimator searches for factors that can explain both the expected return and covariance structure. We derive the statistical properties of the new estimator and show that our estimator can find asset-pricing factors, which cannot be detected with PCA, even if a large amount of data is available. Applying the approach to portfolio data we find factors with Sharpe-ratios more than twice as large as those based on conventional PCA and with smaller pricing errors.
+ER  - 
+
+TY  - JOUR
+T1  - Reducing the state space dimension in a large TVP-VAR
+AU  - Chan, Joshua C.C.
+AU  - Eisenstat, Eric
+AU  - Strachan, Rodney W.
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 105
+EP  - 118
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300348
+KW  - Large VAR
+KW  - Time varying parameter
+KW  - Reduced rank covariance matrix
+AB  - This paper proposes a new approach to estimating high dimensional time varying parameter structural vector autoregressive models (TVP-SVARs) by taking advantage of an empirical feature of TVP-(S)VARs. TVP-(S)VAR models are rarely used with more than 4–5 variables. However recent work has shown the advantages of modelling VARs with large numbers of variables and interest has naturally increased in modelling large dimensional TVP-VARs. A feature that has not yet been utilized is that the covariance matrix for the state equation, when estimated freely, is often near singular. We propose a specification that uses this singularity to develop a factor-like structure to estimate a TVP-SVAR for many variables. Using a generalization of the recentering approach, a rank reduced state covariance matrix and judicious parameter expansions, we obtain efficient and simple computation of a high dimensional TVP-SVAR. An advantage of our approach is that we retain a formal inferential framework such that we can propose formal inference on impulse responses, variance decompositions and, important for our model, the rank of the state equation covariance matrix. In a system with 15 variables, we show clear empirical evidence in favour of our model and improvements in estimates of impulse responses.
+ER  - 
+
+TY  - JOUR
+T1  - A projection-based conditional dependence measure with applications to high-dimensional undirected graphical models
+AU  - Fan, Jianqing
+AU  - Feng, Yang
+AU  - Xia, Lucy
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 119
+EP  - 139
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300403
+KW  - Conditional dependence
+KW  - Distance covariance
+KW  - Factor model
+KW  - Graphical model
+KW  - Projection
+AB  - Measuring conditional dependence is an important topic in econometrics with broad applications including graphical models. Under a factor model setting, a new conditional dependence measure based on projection is proposed. The corresponding conditional independence test is developed with the asymptotic null distribution unveiled where the number of factors could be high-dimensional. It is also shown that the new test has control over the asymptotic type I error and can be calculated efficiently. A generic method for building dependency graphs without Gaussian assumption using the new test is elaborated. We show the superiority of the new method, implemented in the R package pgraph, through simulation and real data studies.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial dynamic models with intertemporal optimization: Specification and estimation
+AU  - Jeong, Hanbat
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - 82
+EP  - 104
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.012
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030035X
+KW  - Dynamic interaction
+KW  - Intertemporal optimization
+KW  - Markov perfect equilibrium
+KW  - SDPD models
+KW  - QML estimation
+KW  - County’s public safety spending
+AB  - In this paper, we introduce a dynamic spatial interaction econometric model. There are n forward-looking agents of whom each has a parametric linear-quadratic payoff, and they interact with their neighbors through a spatial network. Considering a Markov perfect equilibrium (MPE), we derive a unique Nash equilibrium equation and construct a new spatial dynamic panel data (SDPD) model. For estimation, we suggest mainly the quasi-maximum likelihood (QML) method. Asymptotic properties of the QML estimator are investigated. In a Monte Carlo study, we estimate the model’s parameters and compare the results with those from traditional SDPD models. The model is applied to an empirical study on counties’ public safety spending in North Carolina.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 1
+SP  - ii
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30187-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301871
+ER  - 

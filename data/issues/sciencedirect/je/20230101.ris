@@ -1,0 +1,293 @@
+TY  - JOUR
+T1  - Time varying Markov process with partially observed aggregate data: An application to coronavirus
+AU  - Gourieroux, C.
+AU  - Jasiak, J.
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 35
+EP  - 51
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303791
+KW  - Markov process
+KW  - Partial observability
+KW  - Information recovery
+KW  - Estimating equations
+KW  - SIR model
+KW  - Coronavirus
+KW  - Infection rate
+AB  - A major difficulty in the analysis of Covid-19 transmission is that many infected individuals are asymptomatic. For this reason, the total counts of infected individuals and of recovered immunized individuals are unknown, especially during the early phase of the epidemic. In this paper, we consider a parametric time varying Markov process of Coronavirus transmission and show how to estimate the model parameters and approximate the unobserved counts from daily data on infected and detected individuals and the total daily death counts. This model-based approach is illustrated in an application to French data, performed on April 6, 2020.
+ER  - 
+
+TY  - JOUR
+T1  - A spatial panel quantile model with unobserved heterogeneity
+AU  - Ando, Tomohiro
+AU  - Li, Kunpeng
+AU  - Lu, Lina
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 191
+EP  - 213
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002323
+KW  - Endogeneity
+KW  - Heterogeneous panel
+KW  - Quantile factor structure
+KW  - Serial and cross-sectional correlations
+KW  - Spatial effects
+AB  - This paper introduces a spatial panel quantile model with unobserved heterogeneity. The proposed model is capable of capturing high-dimensional cross-sectional dependence and allows heterogeneous regression coefficients. For estimating model parameters, a new estimation procedure is proposed. When both the time and cross-sectional dimensions of the panel go to infinity, the uniform consistency and the asymptotic normality of the estimated parameters are established. In order to determine the dimension of the interactive fixed effects, we propose a new information criterion. It is shown that the criterion asymptotically selects the true dimension. Monte Carlo simulations document the satisfactory performance of the proposed method. Finally, the method is applied to study the quantile co-movement structure of the U.S. stock market by taking into account the input–output linkages as firms are connected through the input–output production network.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient closed-form estimation of large spatial autoregressions
+AU  - Gupta, Abhimanyu
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 148
+EP  - 167
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001597
+KW  - Spatial autoregression
+KW  - Efficiency
+KW  - Many parameters
+KW  - Networks
+AB  - Newton-step approximations to pseudo maximum likelihood estimates of spatial autoregressive models with a large number of parameters are examined, in the sense that the parameter space grows slowly as a function of sample size. These have the same asymptotic efficiency properties as maximum likelihood under Gaussianity but are of closed form. Hence they are computationally simple and free from compactness assumptions, thereby avoiding two notorious pitfalls of implicitly defined estimates of large spatial autoregressions. When commencing from an initial least squares estimate, the Newton step can also lead to weaker regularity conditions for a central limit theorem than some extant in the literature. A simulation study demonstrates excellent finite sample gains from Newton iterations, especially in large multiparameter models for which grid search is costly. A small empirical illustration shows improvements in estimation precision with real data.
+ER  - 
+
+TY  - JOUR
+T1  - Higher-order least squares inference for spatial autoregressions
+AU  - Rossi, Francesca
+AU  - Robinson, Peter M.
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 244
+EP  - 269
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000458
+KW  - Spatial autoregression
+KW  - Least squares estimation
+KW  - Higher-order inference
+KW  - Edgeworth expansion
+KW  - Testing spatial independence
+AB  - We develop refined inference for spatial regression models with predetermined regressors. The ordinary least squares estimate of the spatial parameter is neither consistent nor asymptotically normal, unless the elements of the spatial weight matrix uniformly vanish as sample size diverges. We develop refined testing of the hypothesis of no spatial dependence, without requiring such negligibility of spatial weights, by formal Edgeworth expansions. We also develop such higher-order expansions for both an unstudentized and a studentized transformed estimate, where the studentized one can be used to provide refined interval estimates. A Monte Carlo study of finite sample performance is included.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric comparison of epidemic time trends: The case of COVID-19
+AU  - Khismatullina, Marina
+AU  - Vogt, Michael
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 87
+EP  - 108
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100155X
+KW  - Simultaneous hypothesis testing
+KW  - Multiscale test
+KW  - Time trend
+KW  - Panel data
+KW  - COVID-19
+AB  - The COVID-19 pandemic is one of the most pressing issues at present. A question which is particularly important for governments and policy makers is the following: Does the virus spread in the same way in different countries? Or are there significant differences in the development of the epidemic? In this paper, we devise new inference methods that allow to detect differences in the development of the COVID-19 epidemic across countries in a statistically rigorous way. In our empirical study, we use the methods to compare the outbreak patterns of the epidemic in a number of European countries.
+ER  - 
+
+TY  - JOUR
+T1  - Who should get vaccinated? Individualized allocation of vaccines over SIR network
+AU  - Kitagawa, Toru
+AU  - Wang, Guanyi
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 109
+EP  - 131
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.09.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002219
+KW  - Vaccine allocation
+KW  - Statistical treatment choice
+KW  - Submodularity
+KW  - SIR model
+KW  - Social network
+AB  - How to allocate vaccines over heterogeneous individuals is one of the important policy decisions in pandemic times. This paper develops a procedure to estimate an individualized vaccine allocation policy under limited supply, exploiting social network data containing individual demographic characteristics and health status. We model the spillover effects of vaccination based on a Heterogeneous-Interacted-SIR network model and estimate an individualized vaccine allocation policy by maximizing an estimated social welfare (public health) criterion incorporating these spillovers. While this optimization problem is generally an NP-hard integer optimization problem, we show that the SIR structure leads to a submodular objective function, and provide a computationally attractive greedy algorithm for approximating a solution that has a theoretical performance guarantee. Moreover, we characterize a finite sample welfare regret bound and examine how its uniform convergence rate depends on the complexity and riskiness of the social network. In the simulation, we illustrate the importance of considering spillovers by comparing our method with targeting without network information.
+ER  - 
+
+TY  - JOUR
+T1  - How to go viral: A COVID-19 model with endogenously time-varying parameters
+AU  - Ho, Paul
+AU  - Lubik, Thomas A.
+AU  - Matthes, Christian
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 70
+EP  - 86
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000105
+KW  - Bayesian estimation
+KW  - Panel
+KW  - Time-varying parameters
+AB  - We estimate a panel model with endogenously time-varying parameters for COVID-19 cases and deaths in U.S. states. The functional form for infections incorporates important features of epidemiological models but is flexibly parameterized to capture different trajectories of the pandemic. Daily deaths are modeled as a spike-and-slab regression on lagged cases. Our Bayesian estimation reveals that social distancing and testing have significant effects on the parameters. For example, a 10 percentage point increase in the positive test rate is associated with a 2 percentage point increase in the death rate among reported cases. The model forecasts perform well, even relative to models from epidemiology and statistics.
+ER  - 
+
+TY  - JOUR
+T1  - Sparse spatio-temporal autoregressions by profiling and bagging
+AU  - Ma, Yingying
+AU  - Guo, Shaojun
+AU  - Wang, Hansheng
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 132
+EP  - 147
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.10.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100035X
+KW  - Bagging-based estimator
+KW  - Coefficient matrices
+KW  - Social network data analysis
+KW  - Spatial panel dynamic models
+AB  - We consider a new class of spatio-temporal models with sparse autoregressive coefficient matrices and exogenous variable. To estimate the model, we first profile the exogenous variable out of the response. This leads to a profiled model structure. Next, to overcome endogeneity issue, we propose a class of generalized methods of moment (GMM) estimators to estimate the autoregressive coefficient matrices. A novel bagging-based estimator is further developed to conquer the over-determined issue which also occurs in Chang et al. (2015) and Dou et al. (2016). An adaptive forward–backward greedy algorithm is proposed to learn the sparse structure of the autoregressive coefficient matrices. A new BIC-type selection criteria is further developed to conduct variable selection for GMM estimators. Asymptotic properties are further studied. The proposed methodology is illustrated with extensive simulation studies. A social network dataset is analyzed for illustration purpose.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of spatial sample selection models: A partial maximum likelihood approach
+AU  - Rabovič, Renata
+AU  - Čížek, Pavel
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 214
+EP  - 243
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002815
+KW  - Asymptotic distribution
+KW  - Maximum likelihood
+KW  - Near epoch dependence
+KW  - Sample selection model
+KW  - Spatial autoregressive model
+AB  - We study estimation of sample selection models with the spatially lagged latent dependent variable or spatial errors in both the selection and outcome equations under cross-sectional dependence. Since there is no estimation framework for the spatial-lag model and the existing estimators for the spatial-error model are computationally demanding or have poor small sample properties, we suggest to estimate these models by the partial maximum likelihood estimator. We show that the estimator is consistent and asymptotically normally distributed. To facilitate easy and precise estimation of the variance matrix, we propose the parametric bootstrap method. Simulations demonstrate the advantages of the estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - ii
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(22)00198-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001981
+ER  - 
+
+TY  - JOUR
+T1  - Spatial econometrics for misaligned data
+AU  - Pouliot, Guillaume Allaire
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 168
+EP  - 190
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001627
+KW  - Spatial econometrics
+KW  - Gaussian random fields
+KW  - Large sample distributions
+KW  - Kriging
+AB  - We produce methodology for regression analysis when the geographic locations of the independent and dependent variables do not coincide, in which case we speak of misaligned data. We develop and investigate two complementary methods for regression analysis with misaligned data that circumvent the need to estimate or specify the covariance of the regression errors. We carry out a detailed reanalysis of Maccini and Yang (2009) and find economically significant quantitative differences but sustain most qualitative conclusions.
+ER  - 
+
+TY  - JOUR
+T1  - Nowcasting in a pandemic using non-parametric mixed frequency VARs
+AU  - Huber, Florian
+AU  - Koop, Gary
+AU  - Onorante, Luca
+AU  - Pfarrhofer, Michael
+AU  - Schreiner, Josef
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 52
+EP  - 69
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303936
+KW  - Regression tree models
+KW  - Bayesian
+KW  - Macroeconomic forecasting
+KW  - Vector autoregressions
+AB  - This paper develops Bayesian econometric methods for posterior inference in non-parametric mixed frequency VARs using additive regression trees. We argue that regression tree models are ideally suited for macroeconomic nowcasting in the face of extreme observations, for instance those produced by the COVID-19 pandemic of 2020. This is due to their flexibility and ability to model outliers. In an application involving four major euro area countries, we find substantial improvements in nowcasting performance relative to a linear mixed frequency VAR.
+ER  - 
+
+TY  - JOUR
+T1  - Time series analysis of COVID-19 infection curve: A change-point perspective
+AU  - Jiang, Feiyu
+AU  - Zhao, Zifeng
+AU  - Shao, Xiaofeng
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 1
+EP  - 17
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.039
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302633
+AB  - In this paper, we model the trajectory of the cumulative confirmed cases and deaths of COVID-19 (in log scale) via a piecewise linear trend model. The model naturally captures the phase transitions of the epidemic growth rate via change-points and further enjoys great interpretability due to its semiparametric nature. On the methodological front, we advance the nascent self-normalization (SN) technique (Shao, 2010) to testing and estimation of a single change-point in the linear trend of a nonstationary time series. We further combine the SN-based change-point test with the NOT algorithm (Baranowski et al., 2019) to achieve multiple change-point estimation. Using the proposed method, we analyze the trajectory of the cumulative COVID-19 cases and deaths for 30 major countries and discover interesting patterns with potentially relevant implications for effectiveness of the pandemic responses by different countries. Furthermore, based on the change-point detection algorithm and a flexible extrapolation function, we design a simple two-stage forecasting scheme for COVID-19 and demonstrate its promising performance in predicting cumulative deaths in the U.S.
+ER  - 
+
+TY  - JOUR
+T1  - Nowcasting the output gap
+AU  - Berger, Tino
+AU  - Morley, James
+AU  - Wong, Benjamin
+JO  - Journal of Econometrics
+VL  - 232
+IS  - 1
+SP  - 18
+EP  - 34
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303523
+KW  - Nowcasting
+KW  - Output gap
+KW  - COVID-19
+AB  - We propose a way to directly nowcast the output gap using the Beveridge–Nelson decomposition based on a mixed-frequency Bayesian VAR. The mixed-frequency approach produces similar but more timely estimates of the U.S. output gap compared to those based on a quarterly model, the CBO measure of potential, or the HP filter. We find that within-quarter nowcasts for the output gap are more reliable than for output growth, with monthly indicators for a credit risk spread, consumer sentiment, and the unemployment rate providing particularly useful new information about the final estimate of the output gap. An out-of-sample analysis of the COVID-19 crisis anticipates the exceptionally large negative output gap of −8.3% in 2020Q2 before the release of real GDP data for the quarter, with both conditional and scenario nowcasts tracking a dramatic decline in the output gap given the April data.
+ER  - 

@@ -1,0 +1,317 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Optimal Production Scheduling and Employment Smoothing with Deterministic Demands
+AU  - Lippman, Steven A.
+AU  - Rolfe, Alan J.
+AU  - Wagner, Harvey M.
+AU  - Yuan, John S. C.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.127
+DO  - 10.1287/mnsc.14.3.127
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 127
+EP  - 158
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - In this paper we study a model that minimizes the sum of production, employment smoothing, and inventory costs subject to a schedule of known demand requirements over a finite time horizon. The three instrumental variables are work force producing at regular-time, work force producing on overtime, and the total work force. Overtime is limited to be not more than a fixed multiple of regular time. The idle portion of the work force and the levels of inventory are resultant variables. We postulate the following shape characteristics for the cost functions production costs are convex-like, smoothing costs are V-shaped, and holding costs are increasing, both the production and holding cost functions need not be stationary. In this paper, we provide upper and lower bounds on the cumulative regular-time plus overtime work force for any sequence of demand requirements. We also give the form of an optimal policy when demands are monotone (either increasing or decreasing). Finally, we derive the asymptotic behavior of optimal policies when demands are monotone and the planning horizon becomes arbitrarily long. All of these results, which convey information about the numerical values of optimal policies, given specific demands and an initial level of inventory, depend only on the shape characteristics of the cost functions. Algorithmic techniques are discussed elsewhere [Lippman, S. A., A. J. Rolfe, H. M. Wagner, J. S. C. Yuan. Algorithms for optimal production scheduling and employment smoothing. Opns Res. To appear.], [Yuan, J. S. C. 1967. Algorithms and multi-product model in production scheduling and employment smoothing. Technical Report 22 (NSF GS-552), Stanford University, August.].
+AB  - In this paper we study a model that minimizes the sum of production, employment smoothing, and inventory costs subject to a schedule of known demand requirements over a finite time horizon. The three instrumental variables are work force producing at regular-time, work force producing on overtime, and the total work force. Overtime is limited to be not more than a fixed multiple of regular time. The idle portion of the work force and the levels of inventory are resultant variables. We postulate the following shape characteristics for the cost functions production costs are convex-like, smoothing costs are V-shaped, and holding costs are increasing, both the production and holding cost functions need not be stationary. In this paper, we provide upper and lower bounds on the cumulative regular-time plus overtime work force for any sequence of demand requirements. We also give the form of an optimal policy when demands are monotone (either increasing or decreasing). Finally, we derive the asymptotic behavior of optimal policies when demands are monotone and the planning horizon becomes arbitrarily long. All of these results, which convey information about the numerical values of optimal policies, given specific demands and an initial level of inventory, depend only on the shape characteristics of the cost functions. Algorithmic techniques are discussed elsewhere [Lippman, S. A., A. J. Rolfe, H. M. Wagner, J. S. C. Yuan. Algorithms for optimal production scheduling and employment smoothing. Opns Res. To appear.], [Yuan, J. S. C. 1967. Algorithms and multi-product model in production scheduling and employment smoothing. Technical Report 22 (NSF GS-552), Stanford University, August.].
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.127
+UR  - https://doi.org/10.1287/mnsc.14.3.127
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Games with Incomplete Information Played by “Bayesian” Players, I–III Part I. The Basic Model
+AU  - Harsanyi, John C.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.159
+DO  - 10.1287/mnsc.14.3.159
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 159
+EP  - 182
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - The paper develops a new theory for the analysis of games with incomplete information where the players are uncertain about some important parameters of the game situation, such as the payoff functions, the strategies available to various players, the information other players have about the game, etc. However, each player has a subjective probability distribution over the alternative possibilities. In most of the paper it is assumed that these probability distributions entertained by the different players are mutually ?consistent?, in the sense that they can be regarded as conditional probability distributions derived from a certain ?basic probability distribution? over the parameters unknown to the various players. But later the theory is extended also to cases where the different players' subjective probability distributions fail to satisfy this consistency assumption. In cases where the consistency assumption holds, the original game can be replaced by a game where nature first conducts a lottery in accordance with the basic probability distribution, and the outcome of this lottery will decide which particular subgame will be played, i.e., what the actual values of the relevant parameters will be in the game. Yet, each player will receive only partial information about the outcome of the lottery, and about the values of these parameters. However, every player will know the ?basic probability distribution? governing the lottery. Thus, technically, the resulting game will be a game with complete information. It is called the Bayes-equivalent of the original game. Part I of the paper describes the basic model and discusses various intuitive interpretations for the latter. Part II shows that the Nash equilibrium points of the Bayes-equivalent game yield ?Bayesian equilibrium points? for the original game. Finally, Part III considers the main properties of the ?basic probability distribution?.
+AB  - The paper develops a new theory for the analysis of games with incomplete information where the players are uncertain about some important parameters of the game situation, such as the payoff functions, the strategies available to various players, the information other players have about the game, etc. However, each player has a subjective probability distribution over the alternative possibilities. In most of the paper it is assumed that these probability distributions entertained by the different players are mutually ?consistent?, in the sense that they can be regarded as conditional probability distributions derived from a certain ?basic probability distribution? over the parameters unknown to the various players. But later the theory is extended also to cases where the different players' subjective probability distributions fail to satisfy this consistency assumption. In cases where the consistency assumption holds, the original game can be replaced by a game where nature first conducts a lottery in accordance with the basic probability distribution, and the outcome of this lottery will decide which particular subgame will be played, i.e., what the actual values of the relevant parameters will be in the game. Yet, each player will receive only partial information about the outcome of the lottery, and about the values of these parameters. However, every player will know the ?basic probability distribution? governing the lottery. Thus, technically, the resulting game will be a game with complete information. It is called the Bayes-equivalent of the original game. Part I of the paper describes the basic model and discusses various intuitive interpretations for the latter. Part II shows that the Nash equilibrium points of the Bayes-equivalent game yield ?Bayesian equilibrium points? for the original game. Finally, Part III considers the main properties of the ?basic probability distribution?.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.159
+UR  - https://doi.org/10.1287/mnsc.14.3.159
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Some Special P-Models in Chance-Constrained Programming
+AU  - Charnes, A.
+AU  - Kirby, M. J. L.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.183
+DO  - 10.1287/mnsc.14.3.183
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 183
+EP  - 195
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - This paper establishes sufficient conditions for decision rules to be optimal for two n-penod P-models of chance-constrained programming. The models considered are the triangular model with total probability constraints and the block triangular model with conditional probability constraints. It is shown that, for both these models, a sufficient condition for optimality is that the decision rule be the optimal piecewise linear rule. Proofs of theorems are based on results contained in earlier papers by the authors, on n-penod E-models of chance-constrained programming.
+AB  - This paper establishes sufficient conditions for decision rules to be optimal for two n-penod P-models of chance-constrained programming. The models considered are the triangular model with total probability constraints and the block triangular model with conditional probability constraints. It is shown that, for both these models, a sufficient condition for optimality is that the decision rule be the optimal piecewise linear rule. Proofs of theorems are based on results contained in earlier papers by the authors, on n-penod E-models of chance-constrained programming.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.183
+UR  - https://doi.org/10.1287/mnsc.14.3.183
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Multiple (s, S) Policies and the n-Period Inventory Problem
+AU  - Boylan, Edward S.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.196
+DO  - 10.1287/mnsc.14.3.196
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 196
+EP  - 204
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - In a previous paper the concept of a multiple (s, S, policy, generalizing the well-known (s, S) policy, was introduced, and it was shown that for a broad class of situations some multiple (s, S) policy would minimize costs when a single decision was to be made whether or not to order goods to add to inventory. In the present paper it is shown that when n such decisions must be made, some multiple (s, S) policy will minimize total (discounted) costs, though under slightly more restrictive conditions.
+AB  - In a previous paper the concept of a multiple (s, S, policy, generalizing the well-known (s, S) policy, was introduced, and it was shown that for a broad class of situations some multiple (s, S) policy would minimize costs when a single decision was to be made whether or not to order goods to add to inventory. In the present paper it is shown that when n such decisions must be made, some multiple (s, S) policy will minimize total (discounted) costs, though under slightly more restrictive conditions.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.196
+UR  - https://doi.org/10.1287/mnsc.14.3.196
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Primal Method for Minimal Cost Flows with Applications to the Assignment and Transportation Problems
+AU  - Klein, Morton
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.205
+DO  - 10.1287/mnsc.14.3.205
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 205
+EP  - 220
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - A simple procedure is given for solving minimal cost flow problems in which feasible flows are maintained throughout. It specializes to give primal algorithms for the assignment and transportation problems. Convex cost problems can also be handled.
+AB  - A simple procedure is given for solving minimal cost flow problems in which feasible flows are maintained throughout. It specializes to give primal algorithms for the assignment and transportation problems. Convex cost problems can also be handled.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.205
+UR  - https://doi.org/10.1287/mnsc.14.3.205
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Convex Simplex Method
+AU  - Zangwill, Willard I.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.221
+DO  - 10.1287/mnsc.14.3.221
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 221
+EP  - 238
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - This paper presents a method, called the convex simplex method, for minimizing a convex objective function subject to linear inequality constraints. The method is a true generalization of Dantzig's linear simplex method both in spirit and in the fact that the same tableau and variable selection techniques are used. With a linear objective function the convex simplex method reduces to the linear simplex method. Moreover, the convex simplex method actually behaves like the linear simplex method whenever it encounters a linear portion of a convex objective function. Many of the sophisticated techniques designed to enhance the efficiency of the linear simplex method are applicable to the convex simplex method. In particular, as an example, a network transportation problem with a convex objective function is solved by using the standard transportation tableau and by only slightly modifying the usual procedure for a linear objective function.
+AB  - This paper presents a method, called the convex simplex method, for minimizing a convex objective function subject to linear inequality constraints. The method is a true generalization of Dantzig's linear simplex method both in spirit and in the fact that the same tableau and variable selection techniques are used. With a linear objective function the convex simplex method reduces to the linear simplex method. Moreover, the convex simplex method actually behaves like the linear simplex method whenever it encounters a linear portion of a convex objective function. Many of the sophisticated techniques designed to enhance the efficiency of the linear simplex method are applicable to the convex simplex method. In particular, as an example, a network transportation problem with a convex objective function is solved by using the standard transportation tableau and by only slightly modifying the usual procedure for a linear objective function.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.221
+UR  - https://doi.org/10.1287/mnsc.14.3.221
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Regional Rain Models with Space- and Time-Correlated Structure
+AU  - Sorensen, Eric E.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.239
+DO  - 10.1287/mnsc.14.3.239
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 239
+EP  - 249
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - Many activities combining the interactions between man and machine are influenced by a third factor of weather. The sensitivity analysis required to explore the complicated effects of weather is important in evaluating situations when man-machine strategies are constructed to arrive at optimal operations. The influence of rain on the harvesting of crops is one such situation. A generalized model has been constructed which will simulate rainfall over regions containing gradient extremes of annual rainfall of 5 inches to 50 inches within the region for any given year. The specific application covered a region 5 miles by 14 miles. We believe that much larger regions can be represented in the same manner. The model will generate daily rain patterns of a spatial and temporal sequence correlated from over a large number of sub areas (fields or farms) within the region. Daily isohyets (equal rainfall contour lines) can be constructed from simulated computer periods of an unlimited time horizon. The model can interact with other models (for example, harvesting and irrigation models) in order to analyze the sensitivity of these models to rainfall incidence, rainfall severity and duration.
+AB  - Many activities combining the interactions between man and machine are influenced by a third factor of weather. The sensitivity analysis required to explore the complicated effects of weather is important in evaluating situations when man-machine strategies are constructed to arrive at optimal operations. The influence of rain on the harvesting of crops is one such situation. A generalized model has been constructed which will simulate rainfall over regions containing gradient extremes of annual rainfall of 5 inches to 50 inches within the region for any given year. The specific application covered a region 5 miles by 14 miles. We believe that much larger regions can be represented in the same manner. The model will generate daily rain patterns of a spatial and temporal sequence correlated from over a large number of sub areas (fields or farms) within the region. Daily isohyets (equal rainfall contour lines) can be constructed from simulated computer periods of an unlimited time horizon. The model can interact with other models (for example, harvesting and irrigation models) in order to analyze the sensitivity of these models to rainfall incidence, rainfall severity and duration.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.239
+UR  - https://doi.org/10.1287/mnsc.14.3.239
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Communications to the Editor—Improvement on Gutjahr and Nemhauser's Algorithm for the Line Balancing Problem
+AU  - Mansoor, E. M.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.250
+DO  - 10.1287/mnsc.14.3.250
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 250
+EP  - 254
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - Improvements to the paper Gutjahr, A. L., G. L. Nemhauser. An algorithm for the line balancing problem. Management Sci. 11(2) 308?315.
+AB  - Improvements to the paper Gutjahr, A. L., G. L. Nemhauser. An algorithm for the line balancing problem. Management Sci. 11(2) 308?315.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.250
+UR  - https://doi.org/10.1287/mnsc.14.3.250
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Communications to the Editor
+AU  - Fife, Dennis W.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.254
+DO  - 10.1287/mnsc.14.3.254
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 254
+EP  - 255
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - Following publication of my paper entitled (Fife, Dennis W. 1965. Scheduling with random arrivals and linear loss functions. Management Sci. 11 (3, January) 429?437.), a private comment on it was received by the Editor. I responded to this, also in a private communication to the Editor. However the Editor has now suggested that a published statement from me would be appropriate to close the matter.
+AB  - Following publication of my paper entitled (Fife, Dennis W. 1965. Scheduling with random arrivals and linear loss functions. Management Sci. 11 (3, January) 429?437.), a private comment on it was received by the Editor. I responded to this, also in a private communication to the Editor. However the Editor has now suggested that a published statement from me would be appropriate to close the matter.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.254
+UR  - https://doi.org/10.1287/mnsc.14.3.254
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Errata
+AU  - Martos, Bela
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.255
+DO  - 10.1287/mnsc.14.3.255
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 255
+EP  - 256
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - Erratum to B. Martos, ?The Direct Power of Adjacent Vertex Programming Methods,? Management Science, 12 3, pp. 241?252.
+AB  - Erratum to B. Martos, ?The Direct Power of Adjacent Vertex Programming Methods,? Management Science, 12 3, pp. 241?252.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.255
+UR  - https://doi.org/10.1287/mnsc.14.3.255
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Erratum
+AU  - Demetriou, Peter A.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.256
+DO  - 10.1287/mnsc.14.3.256
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 256
+EP  - 256
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - Erratum to Peter A. Demetriou, ?The Present Value of Investments in Sinking Funds,? Management Science, 13 5, pp. 336?343.
+AB  - Erratum to Peter A. Demetriou, ?The Present Value of Investments in Sinking Funds,? Management Science, 13 5, pp. 336?343.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.256
+UR  - https://doi.org/10.1287/mnsc.14.3.256
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Errata
+AU  - Loane, Edward P.
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.256a
+DO  - 10.1287/mnsc.14.3.256a
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 256
+EP  - 257
+VL  - 14
+IS  - 3
+PB  - INFORMS
+N2  - Errata to the author's paper ?Note on Level-Debt-Service Municipal Bidding?, in Management Science, Vol. 13, No. 3 (November 1966).
+AB  - Errata to the author's paper ?Note on Level-Debt-Service Municipal Bidding?, in Management Science, Vol. 13, No. 3 (November 1966).
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.256a
+UR  - https://doi.org/10.1287/mnsc.14.3.256a
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Notes About Authors
+Y1  - 1967/11/01
+PY  - 1967
+DA  - 1967/11/01
+N1  - doi: 10.1287/mnsc.14.3.258
+DO  - 10.1287/mnsc.14.3.258
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 258
+EP  - 261
+VL  - 14
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.14.3.258
+UR  - https://doi.org/10.1287/mnsc.14.3.258
+Y2  - 2024/03/27
+ER  - 

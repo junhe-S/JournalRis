@@ -1,0 +1,203 @@
+TY  - JOUR
+T1  - Design-free estimation of variance matrices
+AU  - Abadir, Karim M.
+AU  - Distaso, Walter
+AU  - Žikeš, Filip
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 165
+EP  - 180
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000591
+KW  - Variance matrices
+KW  - Ill-conditioning
+KW  - Mean squared error
+KW  - Mean absolute deviations
+KW  - Resampling
+KW  - -statistics
+AB  - This paper introduces a new method for estimating variance matrices. Starting from the orthogonal decomposition of the sample variance matrix, we exploit the fact that orthogonal matrices are never ill-conditioned and therefore focus on improving the estimation of the eigenvalues. We estimate the eigenvectors from just a fraction of the data, then use them to transform the data into approximately orthogonal series that deliver a well-conditioned estimator (by construction), even when there are fewer observations than dimensions. We also show that our estimator has lower error norms than the traditional one. Our estimator is design-free: we make no assumptions on the distribution of the random sample or on any parametric structure the variance matrix may have. Simulations confirm our theoretical results and they also show that our simple estimator does very well in comparison with other existing methods.
+ER  - 
+
+TY  - JOUR
+T1  - Testing over-identifying restrictions without consistent estimation of the asymptotic covariance matrix
+AU  - Lee, Wei-Ming
+AU  - Kuan, Chung-Ming
+AU  - Hsu, Yu-Chin
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 181
+EP  - 193
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400061X
+KW  - GMM
+KW  - Kernel function
+KW  - KVB approach
+KW  - Over-identifying restrictions
+KW  - Robust test
+AB  - We propose new over-identifying restriction (OIR) tests that are robust to heteroskedasticity and serial correlations of unknown form. The proposed tests do not require consistent estimation of the asymptotic covariance matrix and hence avoid choosing the bandwidth in nonparametric kernel estimation. Instead, they rely on the normalizing matrices that can eliminate the nuisance parameters in the limit. Compared with the conventional OIR test, the proposed tests require only a consistent, but not necessarily optimal, GMM estimator. Our simulations demonstrate that these tests are properly sized and may have power comparable with that of the conventional OIR test.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - IFC
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(14)00119-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001195
+ER  - 
+
+TY  - JOUR
+T1  - Estimating spot volatility with high-frequency financial data
+AU  - Zu, Yang
+AU  - Peter Boswijk, H.
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 117
+EP  - 135
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000608
+KW  - Spot volatility
+KW  - Market microstructure noise
+KW  - Subsampling
+KW  - Scale selection
+KW  - Bandwidth selection
+AB  - We construct a spot volatility estimator for high-frequency financial data which contain market microstructure noise. We prove consistency and derive the asymptotic distribution of the estimator. A data-driven method is proposed to select the scale parameter and the bandwidth parameter in the estimator. In Monte Carlo simulations, we compare the finite sample performance of our estimator with some existing estimators. Empirical examples are given to illustrate the potential applications of the estimator.
+ER  - 
+
+TY  - JOUR
+T1  - A flexible parametric approach for estimating switching regime models and treatment effect parameters
+AU  - Chen, Heng
+AU  - Fan, Yanqin
+AU  - Wu, Jisong
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 77
+EP  - 91
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000906
+KW  - EM algorithm
+KW  - Generalized normal mean–variance mixture
+KW  - Inverse-mills ratio
+KW  - Skewness
+KW  - Two-step estimation
+AB  - In this paper, we propose a flexible, parametric class of switching regime models allowing for both skewed and fat-tailed outcome and selection errors. Specifically, we model the joint distribution of each outcome error and the selection error via a newly constructed class of multivariate distributions which we call generalized normal mean–variance mixture distributions. We extend Heckman’s two-step estimation procedure for the Gaussian switching regime model to the new class of models. When the distributions of the outcome errors are asymmetric, we show that an additional correction term accounting for skewness in the outcome error distribution (besides the analogue of the well known inverse mill’s ratio) needs to be included in the second step regression. We use the two-step estimators of parameters in the model to construct simple estimators of average treatment effects and establish their asymptotic properties. Simulation results confirm the importance of accounting for skewness in the outcome errors in estimating both model parameters and the average treatment effect and the treatment effect for the treated.
+ER  - 
+
+TY  - JOUR
+T1  - Weighted KS statistics for inference on conditional moment inequalities
+AU  - Armstrong, Timothy B.
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 92
+EP  - 116
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000888
+KW  - Moment inequalities
+KW  - Set inference
+KW  - Adaptive inference
+KW  - Irregular identification
+AB  - This paper proposes set estimators and conservative confidence regions for the identified set in conditional moment inequality models using Kolmogorov–Smirnov statistics with a truncated inverse variance weighting with increasing truncation points. The new weighting differs from those proposed in the literature in two important ways. First, this paper shows that estimators based on KS statistics with the proposed weighting function converge to the identified set at a faster rate than existing procedures based on bounded weight functions in a broad class of models. This provides a theoretical justification for inverse variance weighting in this context, and contrasts with analogous results for conditional moment equalities in which optimal weighting only affects the asymptotic variance. The results on rates of convergence of set estimators are the first such results even for the existing procedures, and involve developing the first general framework for determining consistency and rates of convergence for set estimators and confidence regions in this context. Second, the new weighting changes the asymptotic behavior, including the rate of convergence, of the KS statistic itself, requiring a new asymptotic theory in choosing the critical value. A series of examples illustrate the broad applicability of the results.
+ER  - 
+
+TY  - JOUR
+T1  - Non parametric analysis of panel data models with endogenous variables
+AU  - Fève, Frédérique
+AU  - Florens, Jean-Pierre
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 151
+EP  - 164
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000499
+KW  - Panel data
+KW  - Endogeneity
+KW  - Instrumental variables
+KW  - Inverse problems
+AB  - This paper considers the estimation of panel data models by first differences in the presence of endogenous variables and under an instrumental variables condition. This framework leads to the resolution of linear inverse problems solved using a Tikhonov regularization with L2 or Sobolev penalty. Rates of convergence and data driven selection of the regularization parameters are proposed. The practical implementation of our estimators is presented and some Monte Carlo simulations show the potential of the method.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent estimation of the fixed effects stochastic frontier model
+AU  - Chen, Yi-Yi
+AU  - Schmidt, Peter
+AU  - Wang, Hung-Jen
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 65
+EP  - 76
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400058X
+KW  - Stochastic frontier
+KW  - Fixed effects
+KW  - Panel data
+AB  - In this paper we consider a fixed-effects stochastic frontier model. That is, we have panel data, fixed individual (firm) effects, and the usual stochastic frontier analysis (SFA) composed error. Maximum likelihood estimation (MLE) of this model has been considered by Greene, 2005a, Greene, 2005b. It is subject to the “incidental parameters problem”, that is, to possible inconsistency due to the number of parameters growing with the number of firms. In the linear regression model with normal errors, it is known that the MLE of the regression coefficients is consistent, and the inconsistency due to the incidental parameters problem applies only to the error variance. Greene’s simulations suggest that the same is true in the fixed effects SFA model. In this paper we take a somewhat different approach. We consider MLE based only on the joint density of the deviations from means. In the linear regression model with normal errors, this estimator is the same as the full MLE for the regression coefficients, but it yields a consistent estimator of the error variance. For the SFA model, the MLE based on the deviations from means is not the same as the full MLE, and it has the advantage of not being subject to the incidental parameters problem. The derivation of the joint density of the deviations from means is made possible by results in the statistical literature on the closed skew normal family of distributions. These results may be of independent interest to researchers in this area. Simulations indicate that our within MLE estimator performs quite well in finite samples. We also present an empirical example.
+ER  - 
+
+TY  - JOUR
+T1  - Misreported schooling, multiple measures and returns to educational qualifications
+AU  - Battistin, Erich
+AU  - De Nadai, Michele
+AU  - Sianesi, Barbara
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 136
+EP  - 150
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000414
+KW  - Misclassification
+KW  - Mixture models
+KW  - Returns to educational qualifications
+KW  - Treatment effects
+AB  - We consider the identification and estimation of the average wage return to attaining educational qualifications when attainment is potentially measured with error. By exploiting two independent measures of qualifications, we identify the extent of misclassification in administrative and self-reported data on educational attainment. The availability of multiple self-reported educational measures additionally allows us to identify the temporal patterns of individual misreporting errors across survey waves. We provide the first reliable estimate of a highly policy relevant parameter for the UK, namely the return from attaining any academic qualification compared to leaving school at the minimum age without any formal qualification. We identify returns to qualifications under two alternative settings: a strong ignorability assumption and an exclusion restriction. All these results are obtained by casting the identification problem in terms of a mixture model, and using a semi-parametric estimation approach based on balancing scores, which allows for arbitrarily heterogeneous individual returns.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum to “Testing predictive regression models with nonstationary regressors” [J. Econometrics 178 (2014) 4–14]
+AU  - Cai, Zongwu
+AU  - Wang, Yunfei
+JO  - Journal of Econometrics
+VL  - 181
+IS  - 2
+SP  - 194
+PY  - 2014
+DA  - 2014/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000487
+ER  - 

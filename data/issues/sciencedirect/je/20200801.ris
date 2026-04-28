@@ -1,0 +1,344 @@
+TY  - JOUR
+T1  - Incorporating overnight and intraday returns into multivariate GARCH volatility models
+AU  - Dhaene, Geert
+AU  - Wu, Jianbin
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 471
+EP  - 495
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930260X
+KW  - Mixed-frequency sampling
+KW  - Overnight returns
+KW  - Intraday returns
+KW  - Multivariate GARCH
+AB  - We propose and evaluate mixed-frequency multivariate GARCH models for forecasting low-frequency (weekly) volatility based on high-frequency intraday returns (at 5-minute intervals) and on the overnight returns. The low-frequency conditional volatility matrix is modeled as a weighted sum of an intraday and an overnight component. The components are specified as multivariate GARCH processes of the BEKK type, adapted to the mixed-frequency data setting, and may enter the model as two separate components or as a single one. The models may further be extended by a nonparametrically estimated slowly-varying long-run volatility matrix. We evaluate the models in and out of sample using the 5-minute and overnight returns on four DJIA stocks (AXP, GE, HD, and IBM) from January 1988 to November 2014 and find that they systematically dominate a variety of models that only use lower-frequency data (weekly, daily, or close-to-open and open-to-close returns).
+ER  - 
+
+TY  - JOUR
+T1  - Spanning tests for Markowitz stochastic dominance
+AU  - Arvanitis, Stelios
+AU  - Scaillet, Olivier
+AU  - Topaloglou, Nikolas
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 291
+EP  - 311
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302519
+KW  - Saddle-type point
+KW  - Markowitz stochastic dominance
+KW  - Spanning test
+KW  - Linear and mixed integer programming
+KW  - Reverse S-shaped utility
+AB  - We derive properties of the cdf of random variables defined as saddle-type points of real valued continuous stochastic processes. This facilitates the derivation of the first-order asymptotic properties of tests for stochastic spanning given some stochastic dominance relation. We define the concept of Markowitz stochastic dominance spanning, and develop an analytical representation of the spanning property. We construct a non-parametric test for spanning based on subsampling, and derive its asymptotic exactness and consistency. The spanning methodology determines whether introducing new securities or relaxing investment constraints improves the investment opportunity set of investors driven by Markowitz stochastic dominance. In an application to standard datasets of historical stock market returns, we reject market portfolio Markowitz efficiency as well as two-fund separation. Hence, we find evidence that equity management through base assets can outperform the market, for investors with Markowitz type preferences.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility estimation and jump detection for drift–diffusion processes
+AU  - Laurent, Sébastien
+AU  - Shi, Shuping
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 259
+EP  - 290
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302507
+KW  - Diffusion process
+KW  - Nonzero drift
+KW  - Finite sample theory
+KW  - Volatility estimation
+KW  - Jumps
+AB  - The logarithmic prices of financial assets are conventionally assumed to follow a drift–diffusion process. While the drift term is typically ignored in the infill asymptotic theory and applications, the presence of temporary nonzero drifts is an undeniable fact. The finite sample theory for integrated variance estimators and extensive simulations provided in this paper reveal that the drift component has a nonnegligible impact on the estimation accuracy of volatility, which leads to a dramatic power loss for a class of jump identification procedures. We propose an alternative construction of volatility estimators and observe significant improvement in the estimation accuracy in the presence of nonnegligible drift. The analytical formulas of the finite sample bias of the realized variance, bipower variation, and their modified versions take simple and intuitive forms. The new jump tests, which are constructed from the modified volatility estimators, show satisfactory performance. As an illustration, we apply the new volatility estimators and jump tests, along with their original versions, to 21 years of 5-minute log returns of the NASDAQ stock price index.
+ER  - 
+
+TY  - JOUR
+T1  - The leverage effect puzzle revisited: Identification in discrete time
+AU  - Han, Hyojin
+AU  - Khrapov, Stanislav
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 230
+EP  - 258
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302490
+KW  - Stochastic volatility
+KW  - Leverage effect
+KW  - Volatility risk premium
+KW  - Identification
+KW  - Affine pricing models
+AB  - The term “leverage effect,” as coined by Black (1976), refers to the tendency of an asset’s volatility to be negatively correlated with the asset’s return. Aït-Sahalia et al. (2013) refer to the “leverage effect puzzle” as the fact that, in spite of a broad agreement that the effect should be present, it is hard to identify empirically. For this purpose, we propose an extension with leverage effect of the discrete time stochastic volatility model of Darolles et al. (2006). This extension is shown to be the natural discrete time analog of the Heston (1993) option pricing model. It shares with Heston (1993) the advantage of structure preserving change of measure: with an exponentially affine stochastic discount factor, the historical and the risk neutral models belong to the same family of joint probability distributions for return and volatility processes. The discrete time approach allows us to make the role of various parameters more transparent: leverage versus volatility feedback effect, connection with daily realized volatility, impact of leverage on the volatility smile, etc. Even more importantly it sheds some new light on the identification of leverage effect and of the various risk premium parameters through link functions in closed form. The price of volatility risk is identified from underlying asset return data, even without option price data, if and only if leverage effect is present. However, the link functions are almost flat if the leverage effect is close to zero, making estimation of the volatility risk price difficult and paving the way for identification robust inference.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of a multiplicative correlation structure in the large dimensional case
+AU  - Hafner, Christian M.
+AU  - Linton, Oliver B.
+AU  - Tang, Haihan
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 431
+EP  - 470
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302593
+KW  - Correlation matrix
+KW  - Kronecker product
+KW  - Matrix logarithm
+KW  - Multiway array data
+KW  - Portfolio choice
+AB  - We propose a Kronecker product model for correlation or covariance matrices in the large dimensional case. The number of parameters of the model increases logarithmically with the dimension of the matrix. We propose a minimum distance (MD) estimator based on a log-linear property of the model, as well as a one-step estimator, which is a one-step approximation to the quasi-maximum likelihood estimator (QMLE). We establish rates of convergence and central limit theorems (CLT) for our estimators in the large dimensional case. A specification test and tools for Kronecker product model selection and inference are provided. In a Monte Carlo study where a Kronecker product model is correctly specified, our estimators exhibit superior performance. In an empirical application to portfolio choice for S&P500 daily returns, we demonstrate that certain Kronecker product models are good approximations to the general covariance matrix.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - ii
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30177-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301779
+ER  - 
+
+TY  - JOUR
+T1  - Multivariate leverage effects and realized semicovariance GARCH models
+AU  - Bollerslev, Tim
+AU  - Patton, Andrew J.
+AU  - Quaedvlieg, Rogier
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 411
+EP  - 430
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302581
+KW  - High-frequency data
+KW  - Realized volatility
+KW  - Realized correlation
+KW  - Semivariance
+KW  - Asymmetric dependence
+AB  - We propose new asymmetric multivariate volatility models. The models exploit estimates of variances and covariances based on the signs of high-frequency returns, measures known as realized semivariances, semicovariances, and semicorrelations, to allow for more nuanced responses to positive and negative return shocks than threshold “leverage effect” terms traditionally used in the literature. Our empirical implementations of the new models, including extensions of widely-used bivariate GARCH specifications for a number of individual stocks and the aggregate market portfolio as well as larger dimensional dynamic conditional correlation type formulations for a cross-section of individual stocks, provide clear evidence of improved model fit and reveal new and interesting asymmetric joint dynamic dependencies.
+ER  - 
+
+TY  - JOUR
+T1  - Liquidity and volatility in the U.S. Treasury market
+AU  - Nguyen, Giang
+AU  - Engle, Robert
+AU  - Fleming, Michael
+AU  - Ghysels, Eric
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 207
+EP  - 229
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302465
+KW  - Treasury market
+KW  - Liquidity
+KW  - Volatility
+KW  - Log-ACD models
+KW  - Liquidity-at-risk
+AB  - We model the joint dynamics of intraday liquidity, volume, and volatility in the U.S. Treasury market, especially through the 2007–09 financial crisis and around important economic announcements. Using various specifications based on Bauwens and Giot (2000)’s Log-ACD(1,1) model, we find that liquidity, volume, and volatility are highly persistent, with volatility having a lower short-term persistence than the other two. Market liquidity and volume are important to explaining volatility dynamics but not vice versa. In addition, market dynamics change during the financial crisis, with all variables exhibiting increased responsiveness to their most recent realizations. Our models also reveal different market dynamics around announcements. Finally, we introduce new measures of liquidity risk that are useful for continually monitoring liquidity conditions and the risk of liquidity stress in the market.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamics of variance risk premia: A new model for disentangling the price of risk
+AU  - Rombouts, Jeroen V.K.
+AU  - Stentoft, Lars
+AU  - Violante, Francesco
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 312
+EP  - 334
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302520
+KW  - Variance risk premium
+KW  - Return predictability
+KW  - Sentiment indicators
+AB  - This paper formulates a new dynamic model for the variance risk premium based on a state space representation of a bivariate system for the observable ex-post realized variance and the ex-ante option implied variance expectation. A regime switching structure accommodates for periods of unusually high volatility, heterogeneous dynamics and changes in the dependence between the latent states. The model allows separating the continuous component of the variance risk premium from the impact of jumps on option implied variance expectations. Using options and high frequency returns for the S&P500 index, we explain what is generating return predictability by disentangling the part of the variance risk premium associated with normal sized price fluctuations from that associated with tail events. The latter component predicts to a significant extent, and asymmetrically with respect to their sign, future market return variations.
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinear financial econometrics JoE special issue introduction
+AU  - Rombouts, Jeroen V.K.
+AU  - Scaillet, Olivier
+AU  - Veredas, David
+AU  - Zakoian, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 203
+EP  - 206
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302453
+ER  - 
+
+TY  - JOUR
+T1  - Flexible multivariate Hill estimators
+AU  - Dominicy, Yves
+AU  - Heikkilä, Matias
+AU  - Ilmonen, Pauliina
+AU  - Veredas, David
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 398
+EP  - 410
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302568
+KW  - Tail index
+KW  - Hill estimator
+KW  - Extreme value
+KW  - Multivariate regular variation
+KW  - Homogeneous function
+AB  - Dominicy et al. (2017) introduce a family of Hill estimators for elliptically distributed and heavy tailed random vectors. They propose to use the univariate Hill to a norm of order h of the data. The norms are homogeneous functions of order one. We show that the family of estimators can be generalized to homogeneous functions of any order and, more importantly, that ellipticity is not required. Only multivariate regular variation is needed, as it is preserved under well-behaved homogeneous functions. This enables us to have flexibility in terms of the estimator and the underlying distribution. Consistency and asymptotic normality are shown, and a Monte Carlo study is conducted to assess the finite sample properties under different asymmetric and heavy tailed multivariate distributions. We illustrate the estimators with an application to 10 years of daily data of paid claims from property insurance policies across 15 regions of Belgium.
+ER  - 
+
+TY  - JOUR
+T1  - Nearest comoment estimation with unobserved factors
+AU  - Boudt, Kris
+AU  - Cornilly, Dries
+AU  - Verdonck, Tim
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 381
+EP  - 397
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302556
+KW  - Higher-order multivariate moments
+KW  - Latent factor model
+KW  - Minimum distance estimation
+KW  - Risk assessment
+KW  - Structural equation modelling
+AB  - We propose a minimum distance estimator for the higher-order comoments of a multivariate distribution exhibiting a lower dimensional latent factor structure. We derive the influence function of the proposed estimator and prove its consistency and asymptotic normality. The simulation study confirms the large gains in accuracy compared to the traditional sample comoments. The empirical usefulness of the novel framework is shown in applications to portfolio allocation under non-Gaussian objective functions and to the extraction of factor loadings in a dataset with mental ability scores.
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinearities and regimes in conditional correlations with different dynamics
+AU  - Bauwens, Luc
+AU  - Otranto, Edoardo
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 496
+EP  - 522
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302611
+KW  - Dynamic conditional correlations
+KW  - Regime-switching dynamic correlations
+KW  - Hadamard exponential matrix
+AB  - New parameterizations of the dynamic conditional correlation (DCC) model and of the regime-switching dynamic correlation (RSDC) model are introduced, such that these models provide a specific dynamics for each correlation. They imply a nonlinear autoregressive form of dependence on lagged correlations and are based on properties of the Hadamard exponential matrix. The new models are applied to a data set of twenty stock market indices and a data set of the thirty Dow Jones components, comparing them to the classical DCC and RSDC models. The empirical results show that the new models improve their classical versions in terms of several criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual Historical Simulation for estimating the conditional VaR of large portfolios
+AU  - Francq, Christian
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 356
+EP  - 380
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302544
+KW  - Accuracy of VaR estimation
+KW  - Dynamic portfolio
+KW  - Estimation risk
+KW  - Filtered historical simulation
+KW  - Virtual returns
+AB  - In order to estimate the conditional risk of a portfolio’s return, two strategies can be advocated. A multivariate strategy requires estimating a dynamic model for the vector of risk factors, which is often challenging, when at all possible, for large portfolios. A univariate approach based on a dynamic model for the portfolio’s return seems more attractive. However, when the combination of the individual returns is time varying, the portfolio’s return series is typically non stationary which may invalidate statistical inference. An alternative approach consists in reconstituting a ”virtual portfolio”, whose returns are built using the current composition of the portfolio and for which a stationary dynamic model can be estimated. This paper establishes the asymptotic properties of this method, that we call Virtual Historical Simulation. Numerical illustrations on simulated and real data are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Partially censored posterior for robust and efficient risk evaluation
+AU  - Borowska, Agnieszka
+AU  - Hoogerheide, Lennart
+AU  - Koopman, Siem Jan
+AU  - van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 2
+SP  - 335
+EP  - 355
+PY  - 2020
+DA  - 2020/08/01/
+T2  - Nonlinear Financial Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302532
+KW  - Bayesian inference
+KW  - Censored likelihood
+KW  - Censored posterior
+KW  - Partially censored posterior
+KW  - Misspecification
+KW  - Density forecasting
+KW  - Markov chain Monte Carlo
+KW  - Importance sampling
+KW  - Mixture of Student’s t
+KW  - Value-at-Risk
+KW  - Expected Shortfall
+AB  - A novel approach to inference for a specific region of the predictive distribution is introduced. An important domain of application is accurate prediction of financial risk measures, where the area of interest is the left tail of the predictive density of logreturns. Our proposed approach originates from the Bayesian approach to parameter estimation and time series forecasting, however it is robust in the sense that it provides a more accurate estimation of the predictive density in the region of interest in case of misspecification. The first main contribution of the paper is the novel concept of the Partially Censored Posterior (PCP), where the set of model parameters is partitioned into two subsets: for the first subset of parameters we consider the standard marginal posterior, for the second subset of parameters (that are particularly related to the region of interest) we consider the conditional censored posterior. The censoring means that observations outside the region of interest are censored: for those observations only the probability of being outside the region of interest matters. This quasi-Bayesian approach yields more precise parameter estimation than a fully censored posterior for all parameters, and has more focus on the region of interest than a standard Bayesian approach. The second main contribution is that we introduce two novel methods for computationally efficient simulation: Conditional MitISEM, a Markov chain Monte Carlo method to simulate model parameters from the Partially Censored Posterior, and PCP-QERMit, an Importance Sampling method that is introduced to further decrease the numerical standard errors of the Value-at-Risk and Expected Shortfall estimators. The third main contribution is that we consider the effect of using a time-varying boundary of the region of interest. Extensive simulation and empirical studies show the ability of the introduced method to outperform standard approaches.
+ER  - 

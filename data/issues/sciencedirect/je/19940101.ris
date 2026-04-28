@@ -1,0 +1,337 @@
+TY  - JOUR
+T1  - Five alternative methods of estimating long-run equilibrium relationships
+AU  - Gonzalo, Jesus
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 203
+EP  - 233
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90044-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900442
+KW  - Canonical correlations
+KW  - Cointegrating vectors
+KW  - Error correction models
+KW  - Maximum likelihood estimators
+AB  - This paper compares several methods (ordinary least squares, nonlinear least squares, maximum likelihood in an error correction model, principal components, and canonical correlations) of estimating cointegrating vectors. Although all of them are superconsistent, an empirical example shows that the estimates can vary significantly. The paper examines the asymptotic distribution of the estimators resulting from these methods, and shows that maximum likelihood in a fully specified error correction model (Johansen's approach) has clearly better properties than the other estimators. A Monte Carlo study indicates that finite sample properties are consistent with the asymptotic results. This is so even when the errors are non-Gaussian or when the dynamics are unknown.
+ER  - 
+
+TY  - JOUR
+T1  - Global optimization of statistical functions with simulated annealing
+AU  - Goffe, William L.
+AU  - Ferrier, Gary D.
+AU  - Rogers, John
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 65
+EP  - 99
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90038-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900388
+KW  - Simulated annealing
+KW  - Global optimization
+KW  - Estimation algorithms
+AB  - Many statistical methods rely on numerical optimization to estimate a model's parameters. Unfortunately, conventional algorithms sometimes fail. Even when they do converge, there is no assurance that they have found the global, rather than a local, optimum. We test a new optimization algorithm, simulated annealing, on four econometric problems and compare it to three common conventional algorithms. Not only can simulated annealing find the global optimum, it is also less likely to fail on difficult functions because it is a very robust algorithm. The promise of simulated annealing is demonstrated on the four econometric problems.
+ER  - 
+
+TY  - JOUR
+T1  - Selectivity bias correction methods in polychotomous sample selection models
+AU  - Schmertmann, Carl P.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 101
+EP  - 132
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90039-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900396
+KW  - Selectivity bias
+KW  - Self-selection
+KW  - Nonrandom samples
+KW  - Polychotomous choice
+AB  - Polychotomous sample selection models include multinomial choice models and models with multiple rules for sample inclusion. The author analyzes two standard parametric approaches to selectivity bias correction in such models - the Lee and Generalized Heckman (GH) methods. The paper's main point is that Lee's approach, unlike GH, requires strong implicit restrictions on covariances between outcomes and selection indices. A Monte Carlo study demonstrates (1) that the Lee estimator exhibits significant bias when the data-generating process does not conform to its implicit covariance assumptions, and (2) that the GH estimator may have high variance due to multicollinearity between regressors.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - IFC
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90035-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900353
+ER  - 
+
+TY  - JOUR
+T1  - Specification diagnostics for duration models: A martingale approach
+AU  - McCall, Brian P.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 293
+EP  - 312
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90048-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900485
+KW  - Hazard models
+KW  - Martingales
+KW  - Unobserved heterogeneity
+KW  - Chi-square tests
+AB  - This paper develops specification diagnostics for discrete time duration models which are based on the martingale theory of stochastic processes. The methods can be applied to parametric grouped data duration models with time-varying covariates, right censoring, and which account for unobserved heterogeneity. A residual process is defined such that, under the correct model specification, the process is (approximately) a martingale difference sequence. Chi-square tests based on these residuals are derived. Results from Monte Carlo simulations are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic linear models with Markov-switching
+AU  - Kim, Chang-Jin
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 1
+EP  - 22
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90036-1
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900361
+KW  - State-space model
+KW  - Markov-switching
+KW  - Basic filtering
+KW  - Smoothing
+KW  - Generalized Hamilton model
+AB  - In this paper, Hamilton's (1988, 1989) Markov-switching model is extended to a general state-space model. This paper also complements Shumway and Stoffer's (1991) dynamic linear models with switching, by introducing dependence in the switching process, and by allowing switching in both measurement and transition equations. Building upon ideas in Hamilton (1989), Cosslett and Lee (1985), and Harrison and Stevens (1976), a basic filtering and smoothing algorithm is presented. The algorithm and the maximum likelihood estimation procedure is applied in estimating Lam's (1990) generalized Hamilton model with a general autoregressive component. The estimation results show that the approximation employed in this paper performs an excellent job, with a considerable advantage in computation time. A state–space representation is a very flexible form, and the approach taken in this paper therefore allows a broad class of models to be estimated that could not be handled before. In addition, the algorithm for calculating smoothed inferences on the unobserved states is a vastly more efficient one than that in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Spurious regressions and residual-based tests for cointegration when regressors are cointegrated
+AU  - Choi, In
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 313
+EP  - 320
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90049-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900493
+KW  - Spurious regression
+KW  - Cointegrated regressors
+KW  - Residual-based tests for cointegration
+AB  - We study a spurious regression with cointegrated regressors. Asymptotic properties of the OLS estimates and other conventional statistics are reported. Using these results, we analyze the asymptotic null distributions of such residual-based cointegration tests as Phillips' Ž∝ and the augmented Dickey–Fuller (ADF) tests, when regressors are cointegrated.
+ER  - 
+
+TY  - JOUR
+T1  - A revealed preference test for weakly separable utility maximization with incomplete adjustment
+AU  - Swofford, James L.
+AU  - Whitney, Gerald A.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 235
+EP  - 249
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90045-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900450
+KW  - Divisia
+KW  - GARP
+KW  - Monetary aggregate
+KW  - Nonparametric
+AB  - Functional structure is an important issue in many areas of economics. We suggest a nonparametric revealed preference test for weakly separable utility maximization that permits category incomplete adjustment within the period under study. This test is an extension of the necessary and sufficient condition for weakly separable utility maximization developed by Varian (1983). We implement this test and identify a quarterly economic monetary aggregate. This is the first implementation that we know about of any revealed preference necessary and sufficient condition for weakly separable utility maximization. We also perform sensitivity analyses of the test and find it to be reasonably robust.
+ER  - 
+
+TY  - JOUR
+T1  - Confidence sets centered at James—Stein estimators: A surprise concerning the unknown-variance case
+AU  - Hwang, J.T.Gene
+AU  - Ullah, Aman
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 145
+EP  - 156
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90041-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900418
+KW  - Confidence sets
+KW  - James—Stein estimators
+KW  -  sets
+KW  - Unknown variance
+AB  - We compare the confidence set centered at a James—Stein point estimator to the usual F confidence set for the p regression parameters of a linear model. Previous studies usually focused on the known-variance case and typically concluded that whatever holds in the known-variance case also holds in the unknown-variance case when the variance is replaced by its best linear estimator based on S2, where S2 is the sum of squarred residuals. We are surprised that this is not entirely the scenario we observe here. In fact, in many situations involving unknown variance, the range of the shrinkage factor a for the associated confidence set to have uniformly higher coverage probabilities than its F counterpart can be ten times bigger than 2 (p−2) (the expected upper bound in the known-variance case). This is true especially when the degrees of freedom are small. Our numerical studies also show that to gain substantial improvement one has to use a much larger a, especially when the degrees of freedom of the residuals are small. Application to an economic data set is also included.
+ER  - 
+
+TY  - JOUR
+T1  - Exact densities for variance estimators of the structural disturbances in simultaneous equations models
+AU  - Smith, Murray D.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 157
+EP  - 180
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90042-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900426
+KW  - Structural equation
+KW  - Structural variance estimator
+KW  - Right-hand-side endogenous variables
+KW  - Leading case
+AB  - The conditional distribution theory which enables the derivation of exact finite sample results for the density of many variance estimators of the structural disturbances in a simultaneous equations model is presented. The theory is then used to derive exact density and moment formulae when the equation contains an arbitrary number of endogenous variables. Bounds upon the existence of estimators moments are also given.
+ER  - 
+
+TY  - JOUR
+T1  - Acknowledgement
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 323
+EP  - 324
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90051-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900515
+ER  - 
+
+TY  - JOUR
+T1  - Testing for autocorrelation in the presence of lagged dependent variables: A specification error approach
+AU  - Dezhbakhsh, Hashem
+AU  - Thursby, Jerry G.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 251
+EP  - 272
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90046-9
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900469
+KW  - Autocorrelation
+KW  - Hausman test
+KW  - Lagged dependent variables
+KW  - Monte Carlo study
+AB  - Hausman's specification error testing procedure is used to develop serial correlation tests in lagged dependent variable models. Properties of the tests are discussed and comparisons are made with existing tests. A reparameterization of the model using the error structure under the alternative hypothesis results in an augmented regression equation; standard tests of exclusionary restrictions on coefficients of the augmented regressors can be regarded as serial correlation tests. Monte Carlo experiments are used to examine small sample properties. Several of the newtests are shown to perform well in comparison with existing tests.
+ER  - 
+
+TY  - JOUR
+T1  - Index
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 325
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90052-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900523
+ER  - 
+
+TY  - JOUR
+T1  - Generic uniform convergence and equicontinuity concepts for random functions: An exploration of the basic structure
+AU  - Pötscher, Benedikt M.
+AU  - Prucha, Ingmar R.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 23
+EP  - 63
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90037-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440769490037X
+KW  - Uniform convergence
+KW  - Uniform laws of large numbers
+KW  - Stochastic equicontinuity
+AB  - Equicontinuity-type concepts for random functions, which are important for establishing convergence results for such functions, have increasingly been used in the econometrics literature. In this paper we define and discuss various equicontinuity-type concepts for random functions and employ those concepts to provide sufficient conditions for uniform convergence and, in particular, for uniform laws of large numbers. Furthermore, we clarify the differences and similarities between uniform laws of large numbers based on pointwise and local laws of large numbers given in the recent literature as they relate to differences in the employed equicontinuity-type concepts.
+ER  - 
+
+TY  - JOUR
+T1  - Joint and separate score tests for state dependence and unobserved heterogeneity
+AU  - Jaggia, Sanjiv
+AU  - Trivedi, Pravin K.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 273
+EP  - 291
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90047-7
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900477
+KW  - Conditional score
+KW  - C-alpha test
+AB  - The paper compares separate, conditional, and joint score tests of duration dependence and unobserved heterogeneity when the null is the exponential model and the alternative is the heterogeneous Weibull model. The score tests based on the conditional score function include the Neyman C(α) test as a special case. An examination of the non-null distribution of the joint test explains when all score tests have low power in the presence of multiple misspecifications. Monte Carlo experiments show that the conditional score tests are superior to the standard separate tests which confound unobserved heterogeneity and duration dependence.
+ER  - 
+
+TY  - JOUR
+T1  - Local scale models: State space alternative to integrated GARCH processes
+AU  - Shephard, Neil
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 181
+EP  - 202
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90043-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900434
+KW  - ARCH
+KW  - Unobserved components
+KW  - Heteroskedasticity
+KW  - Stochastic volatility
+AB  - State space alternative to autoregressive conditional heteroskedasticity models are proposed. The initial model, which is labelled the Gaussian local scale model, has a measurement density which is Gaussian, conditional on the unobservable precision. The precision is assumed to be a gamma variable which evolves by being scaled by a beta variable. The resulting forecast is a student's t random variable, with a scale which is approximately an exponentially weighted moving average (EWMA) of the squares of the past observations. The degrees of freedom of the student's t distribution is controlled by the size of the discount parameter of the EWMA procedure. The Gaussianity of the measurement density is potentially inadequate when the model is applied to heavy tailed finance data. Instead, this assumption can be replaced by an exponential power density which allows the observed excess kurtosis to be modelled. The choice of the exponential power means that the model still maintains conjugacy, so allowing the derivation of an exact filter and likelihood function. This model is called the generalised local scale model. It has been used to model two exchange rate series.
+ER  - 
+
+TY  - JOUR
+T1  - A simplification of the Kopp—Diewert method of decomposing cost efficiency and some implications
+AU  - Mensah, Yaw M.
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 133
+EP  - 144
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90040-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440769490040X
+KW  - Allocative efficiency
+KW  - Cost efficiency
+KW  - Efficiency measurement
+KW  - ‘Greene problem’
+KW  - Technical efficiency
+AB  - Earlier papers by Kopp and Diewert (1982) and Zieschang (1983) have considered ways of decomposing the overall productive efficiency into technical and allocative components given the parameters of a frontier cost function. This paper presents a simplified approach to the same problem, and some implications for a possible solution of the ‘Greene problem’ [Greene (1980)a].
+ER  - 
+
+TY  - JOUR
+T1  - Testing for a unit root in time series using instrumental variable estimators with pretest data based model selection (vol. 54 (1992) pp. 223-250)
+AU  - Hall, Alastair
+JO  - Journal of Econometrics
+VL  - 60
+IS  - 1
+SP  - 321
+PY  - 1994
+DA  - 1994/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90050-7
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900507
+ER  - 

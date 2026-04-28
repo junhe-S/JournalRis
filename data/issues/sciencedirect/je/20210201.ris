@@ -1,0 +1,412 @@
+TY  - JOUR
+T1  - Second-order corrected likelihood for nonlinear panel models with fixed effects
+AU  - Dhaene, Geert
+AU  - Sun, Yutao
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 227
+EP  - 252
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301196
+KW  - Nonlinear panel data models
+KW  - Fixed effects
+KW  - Incidental parameter problem
+KW  - Bias correction
+AB  - We propose a second-order correction for nonlinear fixed-effect panel models. The correction is made via the log-likelihood function. It removes the two leading terms of the bias of the log-likelihood that arises from estimating the fixed effects. Maximizing the corrected likelihood gives a second-order bias-corrected estimator, with bias OT−3, where T is the number of time periods. The corrected likelihood also gives second-order corrected test statistics. The correction applies to general nonlinear fixed-effect models with independent observations. The bias correction properties are confirmed in simulations for binary-choice models.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting the VIX and the volatility risk premium: The role of short-run funding spreads Volatility Factors
+AU  - Andreou, Elena
+AU  - Ghysels, Eric
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 366
+EP  - 398
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301251
+KW  - Factor asset pricing models
+KW  - Volatility Factors
+KW  - ARCH filters
+AB  - This paper presents an innovative approach to extract Volatility Factors which predict the VIX, the S&P500 Realized Volatility (RV) and the Variance Risk Premium (VRP). The approach is innovative along two different dimensions, namely: (1) we extract Volatility Factors from panels of filtered volatilities — in particular large panels of univariate ARCH-type models and propose methods to estimate common Volatility Factors in the presence of estimation error and (2) we price equity volatility risk using factors which go beyond the equity class namely Volatility Factors extracted from panels of volatilities of short-run funding spreads. The role of these Volatility Factors is compared with the corresponding factors extracted from the panels of the above spreads as well as related factors proposed in the literature. Our monthly short-run funding spreads Volatility Factors provide both in- and out-of-sample predictive gains for forecasting the monthly VIX, RV as well as the equity premium, while the corresponding daily volatility factors via Mixed Data Sampling (MIDAS) models provide further improvements.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of heterogeneous panels with systematic slope variations
+AU  - Breitung, Jörg
+AU  - Salish, Nazarii
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 399
+EP  - 415
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301263
+KW  - Panel data
+KW  - Random effects
+KW  - Slope heterogeneity
+AB  - We analyse estimation procedures for the panel data models with heterogeneous slopes. Specifically we take into account a possible dependence between regressors and heterogeneous slope coefficients, which is referred to as systematic variation. It is shown that under relevant forms of systematic slope variations (i) the pooled OLS estimator is severely biased, (ii) Swamy’s GLS estimator is inconsistent if the number of time periods T is fixed, whereas (iii) the mean-group estimator always provides consistent estimators at the risk of high variances. Following Mundlak (1978) we propose an augmentated regression which results in a simple and robust version of the pooled estimator. The latter approach avoids the risk of large standard errors of the mean-group estimator, whenever T is small. We also propose two test statistics for systematic slope variation using the Lagrange multiplier and Hausman principles. We derive their asymptotic properties and provide a local power analysis of both test statistics. Monte Carlo experiments corroborate our theoretical findings and show that for all combinations of N and T the Mundlak-type GLS estimator outperform all other estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable estimation of dynamic linear panel data models with defactored regressors and a multifactor error structure
+AU  - Norkutė, Milda
+AU  - Sarafidis, Vasilis
+AU  - Yamagata, Takashi
+AU  - Cui, Guowei
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 416
+EP  - 446
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301275
+KW  - Method of moments
+KW  - Dynamic panel data
+KW  - Cross-sectional dependence
+KW  - Factor model
+AB  - This paper develops two instrumental variable (IV) estimators for dynamic panel data models with exogenous covariates and a multifactor error structure when both the cross-sectional and time series dimensions, N and T respectively, are large. The main idea is to project out the common factors from the exogenous covariates of the model, and to construct instruments based on defactored covariates. For models with homogeneous slope coefficients, we propose a two-step IV estimator. In the first step, the model is estimated consistently by employing defactored covariates as instruments. In the second step, the entire model is defactored based on estimated factors extracted from the residuals of the first-step estimation, after which an IV regression is implemented using the same instruments as in step one. For models with heterogeneous slope coefficients, we propose a mean-group-type estimator, which involves the averaging of first-step IV estimates of cross-section-specific slopes. The proposed estimators do not need to seek for instrumental variables outside the model. Furthermore, these estimators are linear, and therefore computationally robust and inexpensive. Notably, they require no bias correction. We investigate the finite sample performances of the proposed estimators and associated statistical tests, and the results show that the estimators and the tests perform well even for small N and T.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of a nonparametric model for bond prices from cross-section and time series information
+AU  - Koo, Bonsoo
+AU  - La Vecchia, Davide
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 562
+EP  - 588
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301330
+KW  - Nonparametric inference
+KW  - Panel data
+KW  - Time varying
+KW  - Yield curve dynamics
+AB  - We develop a novel estimation methodology for an additive nonparametric panel model that is suitable for capturing the pricing of coupon-paying government bonds followed over many time periods. We use our model to estimate the discount function and yield curve of nominally riskless government bonds. The novelty of our approach is the combination of two different techniques: cross-sectional nonparametric methods and kernel estimation for time varying dynamics in the time series context. The resulting estimator is used for predicting individual bond prices given the full schedule of their future payments. In addition, it is able to capture the yield curve shapes and dynamics commonly observed in the fixed income markets. We establish the consistency, the rate of convergence, and the asymptotic normality of the proposed estimator. A Monte Carlo exercise illustrates the good performance of the method under different scenarios. We apply our methodology to the daily CRSP bond market dataset, and compare ours with the popular Diebold and Li (2006) method.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - ii
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00005-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000051
+ER  - 
+
+TY  - JOUR
+T1  - An econometric approach to the estimation of multi-level models
+AU  - Yang, Yimin
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 532
+EP  - 543
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301317
+KW  - Panel data
+KW  - Hierarchical model
+KW  - Multi-level model
+KW  - Hausman and Taylor
+KW  - Exogeneity tests
+AB  - In this paper we consider “multidimensional” or “hierarchical” or “multilevel” models that are popular in the educational and economics literatures. Instead of two levels (individuals over time in the standard panel data model), we now have multiple levels (e.g. students in classrooms in schools in districts). We apply standard methods of analysis for econometric panel data to multilevel models. Specifically, we generalize the results of Hausman and Taylor and the subsequent literature to these models. This is a non-trivial extension because we now have more than one kind of time-invariant effect and more than one kind of “between” regression. We discuss estimation by GMM both with and without the assumption of no conditional heteroskedasticity. We also discuss endogeneity and dynamic models, and we generalize the concept of testing the exogeneity assumptions using a variable addition test.
+ER  - 
+
+TY  - JOUR
+T1  - On the robustness of the pooled CCE estimator
+AU  - Juodis, Artūras
+AU  - Karabiyik, Hande
+AU  - Westerlund, Joakim
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 325
+EP  - 348
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301834
+KW  - Factor-augmented regressions
+KW  - Rank condition
+KW  - Common correlated effects
+KW  - Predetermined regressors
+AB  - Among the existing estimators of factor-augmented regressions, the CCE approach is the most popular. A major reason for this popularity is the simplicity and good small-sample performance of the approach, making it very attractive from an empirical point of view. The main drawback is that most of the available asymptotic theory is based on quite restrictive assumptions, such as that the common factor component should be independent of the regressors. The present paper can be seen as a reaction to this. The purpose is to study the asymptotic properties of the pooled CCE estimator under more realistic conditions. In particular, the common factor component may be correlated with the regressors, and the true number of common factors, r, can be larger than the number of estimated factors, which in CCE is given by k+1, where k is the number of regressors. The main conclusion is that while the estimator is generally consistent, asymptotic normality can fail when r>k+1.
+ER  - 
+
+TY  - JOUR
+T1  - Detecting granular time series in large panels
+AU  - Brownlees, Christian
+AU  - Mesters, Geert
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 544
+EP  - 561
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301329
+KW  - Granularity
+KW  - Network models
+KW  - Factor models
+KW  - Industrial production
+AB  - Large economic and financial panels can include time series that influence the entire cross-section. We name such series granular. In this paper we introduce a panel data model that allows to formalize the notion of granular time series. We then propose a methodology, which is inspired by the network literature in statistics and econometrics, to detect the set of granulars when such set is unknown. The influence of the ith series in the panel is measured by the norm of the ith column of the inverse covariance matrix. We show that a detection procedure based on the column norms allows to consistently select granular series when the cross-section and time series dimensions are large. Importantly, the methodology allows to consistently detect granulars also when the series in the panel are influenced by common factors. A simulation study shows that the proposed procedures perform satisfactorily in finite samples. Our empirical study shows the granular influence of the automobile sector in US industrial production.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying latent group structures in nonlinear panels
+AU  - Wang, Wuyi
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 272
+EP  - 295
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301214
+KW  - Binary segmentation algorithm
+KW  - Clustering
+KW  - Community detection
+KW  - Network
+KW  - Oracle estimator
+KW  - Panel structure model
+KW  - Parameter heterogeneity
+KW  - Singular value decomposition
+AB  - We propose a procedure to identify latent group structures in nonlinear panel data models where some regression coefficients are heterogeneous across groups but homogeneous within a group and the group number and membership are unknown. To identify the group structures, we consider the order statistics for the preliminary unconstrained consistent estimators of the regression coefficients and translate the problem of classification into the problem of break detection. Then we extend the sequential binary segmentation algorithm of Bai (1997) for break detection from the time series setup to the panel data framework. We demonstrate that our method is able to identify the true latent group structures with probability approaching one and the post-classification estimators are oracle-efficient. The method has the advantage of more convenient implementation compared with some alternative methods, which is a desirable feature in nonlinear panel applications. To improve the finite sample performance, we also consider an alternative version based on the spectral decomposition of certain estimated matrix and link the group identification issue to the community detection problem in the network literature. Simulations show that our method has good finite sample performance. We apply this method to explore how individuals’ portfolio choices respond to their financial status and other characteristics using the Netherlands household panel data from year 1993 to 2015, and find three latent groups.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating and testing high dimensional factor models with multiple structural changes
+AU  - Baltagi, Badi H.
+AU  - Kao, Chihwa
+AU  - Wang, Fa
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 349
+EP  - 365
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030124X
+KW  - Factor model
+KW  - Multiple changes
+KW  - Model selection
+KW  - Panel data
+AB  - This paper considers multiple changes in the factor loadings of a high dimensional factor model occurring at dates that are unknown but common to all subjects. Since the factors are unobservable, the problem is converted to estimating and testing structural changes in the second moments of the pseudo factors. We consider both joint and sequential estimation of the change points and show that the distance between the estimated and the true change points is Op(1). We find that the estimation error contained in the estimated pseudo factors has no effect on the asymptotic properties of the estimated change points as the cross-sectional dimension N and the time dimension T go to infinity jointly. No N-T ratio condition is needed. We also propose (i) tests for no change versus l changes (ii) tests for l changes versus l+1 changes, and show that using estimated factors asymptotically has no effect on their limit distributions if T∕N→0. These tests allow us to make inference on the presence and number of structural changes. Simulation results show good performance of the proposed procedure. In an application to US quarterly macroeconomic data we detect two possible breaks.
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinear factor models for network and panel data
+AU  - Chen, Mingli
+AU  - Fernández-Val, Iván
+AU  - Weidner, Martin
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 296
+EP  - 324
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301238
+KW  - Panel data
+KW  - Network data
+KW  - Interactive fixed effects
+KW  - Factor models
+KW  - Bias correction
+KW  - Incidental parameter problem
+KW  - Gravity equation
+AB  - Factor structures or interactive effects are convenient devices to incorporate latent variables in panel data models. We consider fixed effect estimation of nonlinear panel single-index models with factor structures in the unobservables, which include logit, probit, ordered probit and Poisson specifications. We establish that fixed effect estimators of model parameters and average partial effects have normal distributions when the two dimensions of the panel grow large, but might suffer from incidental parameter bias. We also show how models with factor structures can be applied to capture important features of network data such as reciprocity, degree heterogeneity, homophily in latent variables, and clustering. We illustrate this applicability with an empirical example to the estimation of a gravity equation of international trade between countries using a Poisson model with multiple factors.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference for multi-dimensional heterogeneous panel datasets with hierarchical multi-factor error structure
+AU  - Kapetanios, George
+AU  - Serlenga, Laura
+AU  - Shin, Yongcheol
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 504
+EP  - 531
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301305
+KW  - Multi-dimensional panel data models
+KW  - Cross-sectional error dependence
+KW  - Unobserved heterogeneous global and local factors
+KW  - Multilateral resistance
+KW  - The gravity model of bilateral export flows
+AB  - Given the growing availability of large datasets and following recent research trends on multi-dimensional modelling, we develop three dimensional (3D) panel data models with hierarchical error components that allow for strong cross-section dependence through unobserved heterogeneous global and local factors. We propose consistent estimation procedures by extending the common correlated effects (CCE) estimation approach proposed by Pesaran (2006). The standard CCE approach needs to be modified in order to account for the hierarchical factor structure in 3D panels. Further, we provide asymptotic theory, including new nonparametric variance estimators. The validity of the proposed approach is confirmed by Monte Carlo simulation studies. We demonstrate the empirical usefulness of the proposed framework through an application to a 3D panel gravity model of bilateral export flows.
+ER  - 
+
+TY  - JOUR
+T1  - Celebrating 40 years of panel data analysis: Past, present and future
+AU  - Sarafidis, Vasilis
+AU  - Wansbeek, Tom
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 215
+EP  - 226
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301822
+KW  - Panel data analysis
+KW  - Unobserved heterogeneity
+KW  - Omitted variables
+KW  - Cross-sectional dependence
+KW  - Dynamic relationships
+KW  - Temporal effects
+KW  - Aggregation bias
+KW  - Nonlinear models
+KW  - Incidental parameter problem
+KW  - Common factor models
+KW  - Multi-dimensional data
+KW  - Multi-level data
+AB  - The present special issue features a collection of papers presented at the 2017 International Panel Data Conference, hosted by the University of Macedonia in Thessaloniki, Greece. The conference marked the 40th anniversary of the inaugural International Panel Data Conference, which was held in 1977 at INSEE in Paris, under the auspices of the French National Centre for Scientific Research. As a collection, the papers appearing in this special issue of the Journal of Econometrics continue to advance the analysis of panel data, and paint a state-of-the-art picture of the field.
+ER  - 
+
+TY  - JOUR
+T1  - Heterogeneous structural breaks in panel data models
+AU  - Okui, Ryo
+AU  - Wang, Wendun
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 447
+EP  - 473
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301287
+KW  - Panel data
+KW  - Grouped patterns
+KW  - Structural breaks
+KW  - Grouped fixed effects
+KW  - Fused Lasso
+AB  - This paper develops a new model and estimation procedure for panel data that allows us to identify heterogeneous structural breaks. We model individual heterogeneity using a grouped pattern. For each group, we allow common structural breaks in the coefficients. However, the number, timing, and size of these breaks can differ across groups. We develop a hybrid estimation procedure of the grouped fixed effects approach and adaptive group fused Lasso. We show that our method can consistently identify the latent group structure, detect structural breaks, and estimate the regression parameters. Monte Carlo results demonstrate the good performance of the proposed method in finite samples. An empirical application to the relationship between income and democracy illustrates the importance of considering heterogeneous structural breaks.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic panels with MIDAS covariates: Nonlinearity, estimation and fit
+AU  - Khalaf, Lynda
+AU  - Kichian, Maral
+AU  - Saunders, Charles J.
+AU  - Voia, Marcel
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 589
+EP  - 605
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301342
+KW  - Dynamic panel model
+KW  - Mixed data sampling
+KW  - Unidentified nuisance parameter
+KW  - Reserve holdings model
+AB  - This paper introduces Mixed Data Sampling (MIDAS) into the panel data context. To address the unidentified nuisance parameter problem, we propose to invert model specification tests for inference on the MIDAS parameter along with bounds tests for model coefficients. Illustrative identification, simulation and empirical analyses are conducted in the dynamic GMM framework. Our framework allows for departures from i.i.d errors such as clustering and dynamic specifications. A simulation study and an application to a model of reserve holdings illustrate the usefulness of the proposed methods, and more broadly set a promising template for shrinkage approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Inferential theory for heterogeneity and cointegration in large panels
+AU  - Trapani, Lorenzo
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 474
+EP  - 503
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301299
+KW  - Large panels
+KW  - Heterogeneity
+KW  - Cointegration
+KW  - Spurious regression
+KW  - Method of moments
+AB  - This paper provides an estimation and testing framework to assess the presence and the extent of slope heterogeneity and cointegration when the units are a mixture of spurious and/or cointegrating regressions. We propose two moment estimators for the degree of heterogeneity (measured by the dispersion of the slope coefficients around their average) and for the fraction of spurious regressions, which are found to be consistent in the whole parameter space. Based on these estimators, two tests for the null hypotheses of slope homogeneity and for cointegration are proposed. Monte Carlo simulations show that both tests have the correct size and satisfactory power.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric identification in panel data discrete response models
+AU  - Aristodemou, Eleni
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 2
+SP  - 253
+EP  - 271
+PY  - 2021
+DA  - 2021/02/01/
+T2  - Annals Issue: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301202
+KW  - Static and dynamic panel data
+KW  - Binary response models
+KW  - Ordered response models
+KW  - Semiparametric identification
+KW  - Partial identification
+AB  - This paper studies semiparametric identification in linear index discrete response panel data models with fixed effects. Departing from the classic binary response static panel data model, this paper examines identification in the binary response dynamic panel data model and the ordered response static panel data model. It is shown that under mild distributional assumptions on the fixed effect and the time-varying unobservables point-identification fails, but informative bounds on the regression coefficients can still be derived. Partial identification is achieved by eliminating the fixed effect and discovering features of the distribution of the unobservable time-varying components that do not depend on the unobserved heterogeneity. Numerical analyses illustrate how the identification bounds change as the support of the explanatory variables varies.
+ER  - 

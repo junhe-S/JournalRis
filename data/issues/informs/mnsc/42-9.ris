@@ -1,0 +1,231 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Mixed 0-1 Programming by Lift-and-Project in a Branch-and-Cut Framework
+AU  - Balas, Egon
+AU  - Ceria, Sebastián
+AU  - Cornuéjols, Gérard
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1229
+DO  - 10.1287/mnsc.42.9.1229
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1229
+EP  - 1246
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - We investigate the computational issues that need to be addressed when incorporating general cutting planes for mixed 0-1 programs into a branch-and-cut framework. The cuts we use are of the lift-and-project variety. Some of the issues addressed have a theoretical answer, but others are of an experimental nature and are settled by comparing alternatives on a set of test problems. The resulting code is a robust solver for mixed 0-1 programs. We compare it with several existing codes. On a wide range of test problems it performs as well as, or better than, some of the best currently available mixed integer programming codes.
+AB  - We investigate the computational issues that need to be addressed when incorporating general cutting planes for mixed 0-1 programs into a branch-and-cut framework. The cuts we use are of the lift-and-project variety. Some of the issues addressed have a theoretical answer, but others are of an experimental nature and are settled by comparing alternatives on a set of test problems. The resulting code is a robust solver for mixed 0-1 programs. We compare it with several existing codes. On a wide range of test problems it performs as well as, or better than, some of the best currently available mixed integer programming codes.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1229
+UR  - https://doi.org/10.1287/mnsc.42.9.1229
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Overlapping Start-Time Bands in Implicit Tour Scheduling
+AU  - Jacobs, Larry W.
+AU  - Brusco, Michael J.
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1247
+DO  - 10.1287/mnsc.42.9.1247
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1247
+EP  - 1259
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - Many organizations face personnel scheduling decisions under conditions of variable demand for service across a seven-day planning horizon. These organizations must assign employees to daily shifts that efficiently satisfy the demand for labor, yet allow adequate time for rest between subsequent shifts of an employee's weekly tour schedule. To meet these diverse objectives, managers may permit shifts to begin (and end) in any planning period of the day, but place bands on shift-start times to which individuals may be assigned on each day of their tour schedule. We present a compact integer programming model that implicitly represents start-time band scheduling flexibility. We demonstrate the new model by applying it to requirements for toll collectors on the Illinois Tollway. Problems requiring up to two million variables using a general set covering formulation were represented using the new implicit programming model and often solved to optimality in just a few minutes on a Pentium-based microcomputer. The results indicate that start-time bands can provide an important improvement in scheduling efficiency when compared to the exclusive use of schedules that require workers to begin work on the same hour of the day on each day of their tour.
+AB  - Many organizations face personnel scheduling decisions under conditions of variable demand for service across a seven-day planning horizon. These organizations must assign employees to daily shifts that efficiently satisfy the demand for labor, yet allow adequate time for rest between subsequent shifts of an employee's weekly tour schedule. To meet these diverse objectives, managers may permit shifts to begin (and end) in any planning period of the day, but place bands on shift-start times to which individuals may be assigned on each day of their tour schedule. We present a compact integer programming model that implicitly represents start-time band scheduling flexibility. We demonstrate the new model by applying it to requirements for toll collectors on the Illinois Tollway. Problems requiring up to two million variables using a general set covering formulation were represented using the new implicit programming model and often solved to optimality in just a few minutes on a Pentium-based microcomputer. The results indicate that start-time bands can provide an important improvement in scheduling efficiency when compared to the exclusive use of schedules that require workers to begin work on the same hour of the day on each day of their tour.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1247
+UR  - https://doi.org/10.1287/mnsc.42.9.1247
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Scheduling Parallel Manufacturing Cells with Resource Flexibility
+AU  - Daniels, Richard L.
+AU  - Hoopes, Barbara J.
+AU  - Mazzola, Joseph B.
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1260
+DO  - 10.1287/mnsc.42.9.1260
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1260
+EP  - 1276
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - This paper investigates the improvements in manufacturing performance that can be realized by broadening the scope of the production scheduling function to include both job sequencing and processing-time control through the deployment of a flexible resource. We consider an environment in which a set of jobs must be scheduled over a set of parallel manufacturing cells, each consisting of a single machine, where the processing time of each job depends on the amount of resource allocated to the associated cell. Two versions of the problem are introduced: a static problem in which a single resource-allocation decision is made and maintained throughout the production horizon, and a dynamic problem in which resource can be reassigned among the production cells as local bottlenecks shift. We provide mathematical formulations for each version of the problem, establish problem complexity, identify important characteristics of optimal solutions, develop optimal and heuristic solution approaches, and report the results of a set of computational experiments. The computational results demonstrate that substantial improvements in operational performance can be achieved through effective utilization of resource flexibility.
+AB  - This paper investigates the improvements in manufacturing performance that can be realized by broadening the scope of the production scheduling function to include both job sequencing and processing-time control through the deployment of a flexible resource. We consider an environment in which a set of jobs must be scheduled over a set of parallel manufacturing cells, each consisting of a single machine, where the processing time of each job depends on the amount of resource allocated to the associated cell. Two versions of the problem are introduced: a static problem in which a single resource-allocation decision is made and maintained throughout the production horizon, and a dynamic problem in which resource can be reassigned among the production cells as local bottlenecks shift. We provide mathematical formulations for each version of the problem, establish problem complexity, identify important characteristics of optimal solutions, develop optimal and heuristic solution approaches, and report the results of a set of computational experiments. The computational results demonstrate that substantial improvements in operational performance can be achieved through effective utilization of resource flexibility.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1260
+UR  - https://doi.org/10.1287/mnsc.42.9.1260
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - An Integer Programming Approach to the Bandwidth Packing Problem
+AU  - Park, Kyungchul
+AU  - Kang, Seokhoon
+AU  - Park, Sungsoo
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1277
+DO  - 10.1287/mnsc.42.9.1277
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1277
+EP  - 1291
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - We consider the bandwidth packing problem arising from telecommunication networks. The problem is to determine the set of calls and an assignment of them to the paths in an arc-capacitated network to maximize profit. We propose an algorithm to solve the integer programming formulation of the problem. An efficient column generation technique to solve the linear programming relaxation is proposed, and a modified cover inequality is used to strengthen the IP formulation. The algorithm incorporates the column generation technique and the strong cutting plane approach into a branch-and-bound scheme. We test the proposed algorithm on some random problems. The results show that the algorithm can be used to solve the problems within reasonably small time limits.
+AB  - We consider the bandwidth packing problem arising from telecommunication networks. The problem is to determine the set of calls and an assignment of them to the paths in an arc-capacitated network to maximize profit. We propose an algorithm to solve the integer programming formulation of the problem. An efficient column generation technique to solve the linear programming relaxation is proposed, and a modified cover inequality is used to strengthen the IP formulation. The algorithm incorporates the column generation technique and the strong cutting plane approach into a branch-and-bound scheme. We test the proposed algorithm on some random problems. The results show that the algorithm can be used to solve the problems within reasonably small time limits.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1277
+UR  - https://doi.org/10.1287/mnsc.42.9.1277
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Rare-Event Simulation for Multistage Production-Inventory Systems
+AU  - Glasserman, Paul
+AU  - Liu, Tai-Wen
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1292
+DO  - 10.1287/mnsc.42.9.1292
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1292
+EP  - 1307
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - We consider the problem of precise estimation of service-level measures in multistage production-inventory systems when the system is managed for high levels of service. Precisely because the service level is high, stockouts, large backorders, and unfilled demands are rare and thus difficult to estimate by straightforward simulation. We propose and analyze alternative estimators, based on changing the demand distribution to make these rare events less rare. Whereas straightforward simulation for a fixed relative error results in computational requirements that grow exponentially in certain stock-level parameters, the requirements for our importance sampling estimators remain bounded for all parameter values. We provide bounds making it possible to determine the maximum number of replications required before any are generated. Numerical examples illustrate the effectiveness of our method.
+AB  - We consider the problem of precise estimation of service-level measures in multistage production-inventory systems when the system is managed for high levels of service. Precisely because the service level is high, stockouts, large backorders, and unfilled demands are rare and thus difficult to estimate by straightforward simulation. We propose and analyze alternative estimators, based on changing the demand distribution to make these rare events less rare. Whereas straightforward simulation for a fixed relative error results in computational requirements that grow exponentially in certain stock-level parameters, the requirements for our importance sampling estimators remain bounded for all parameter values. We provide bounds making it possible to determine the maximum number of replications required before any are generated. Numerical examples illustrate the effectiveness of our method.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1292
+UR  - https://doi.org/10.1287/mnsc.42.9.1292
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Measurement Errors in Probability Judgments
+AU  - Ofir, Chezy
+AU  - Reddy, Srinivas K.
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1308
+DO  - 10.1287/mnsc.42.9.1308
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1308
+EP  - 1325
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - This paper investigates the psychometric properties of three measures of subjective uncertainty?a zero-to-hundred subjective probability scale and two seven point rating scales. Individual level analysis applied to data obtained from two separate studies suggests that the scales produce fairly similar results: The inter-response mode correlations were high, and individual plots comparing various methods were quite similar. Covariance structure models based on multitrait-multimethod matrices are utilized to assess the reliability and method variance of the scales. The cumulative evidence suggests that rating scales are consistently just as reliable as the subjective probability scale. The probability scale contained significant method error. In fact, the two rating scales were found to have lower systematic method variance and lower random error variance than the subjective probability scale. The paper concludes with a discussion regarding possible explanations of these results and directions for future research.
+AB  - This paper investigates the psychometric properties of three measures of subjective uncertainty?a zero-to-hundred subjective probability scale and two seven point rating scales. Individual level analysis applied to data obtained from two separate studies suggests that the scales produce fairly similar results: The inter-response mode correlations were high, and individual plots comparing various methods were quite similar. Covariance structure models based on multitrait-multimethod matrices are utilized to assess the reliability and method variance of the scales. The cumulative evidence suggests that rating scales are consistently just as reliable as the subjective probability scale. The probability scale contained significant method error. In fact, the two rating scales were found to have lower systematic method variance and lower random error variance than the subjective probability scale. The paper concludes with a discussion regarding possible explanations of these results and directions for future research.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1308
+UR  - https://doi.org/10.1287/mnsc.42.9.1308
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Divestiture of Nippon Telegraph and Telephone
+AU  - Sueyoshi, Toshiyuki
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1326
+DO  - 10.1287/mnsc.42.9.1326
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1326
+EP  - 1351
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - This article discusses whether the Japanese government should break up NTT (Nippon Telegraph & Telephone) in 1995, as the U.S. federal government compelled AT&T (American Telephone & Telegram) to break itself into toll and local telephone companies in 1984. The divestiture of NTT has long been a major industrial policy issue in Japan since the common carrier was privatized in 1985. The governmental decision to divest it may influence not only the Japanese telecommunications infrastructure, but also the global telecommunications and information industries in the world, where many common carriers are now facing an environmental change from regulation to competition. A unique feature of this study is that it employs eight different estimation techniques to obtain a cost function of NTT, so that this research avoids a methodological bias occurring in many empirical studies. This study confirms that NTT has maintained cost subadditivity, but it has failed to establish the status of a natural monopoly in the observed time period. However, it also finds that the NTT divestiture will not produce a price-reducing benefit to Japanese telecommunications consumers. This research result will serve as empirical evidence for guiding the governmental review of this large-scale industrial policy issue in Japan.
+AB  - This article discusses whether the Japanese government should break up NTT (Nippon Telegraph & Telephone) in 1995, as the U.S. federal government compelled AT&T (American Telephone & Telegram) to break itself into toll and local telephone companies in 1984. The divestiture of NTT has long been a major industrial policy issue in Japan since the common carrier was privatized in 1985. The governmental decision to divest it may influence not only the Japanese telecommunications infrastructure, but also the global telecommunications and information industries in the world, where many common carriers are now facing an environmental change from regulation to competition. A unique feature of this study is that it employs eight different estimation techniques to obtain a cost function of NTT, so that this research avoids a methodological bias occurring in many empirical studies. This study confirms that NTT has maintained cost subadditivity, but it has failed to establish the status of a natural monopoly in the observed time period. However, it also finds that the NTT divestiture will not produce a price-reducing benefit to Japanese telecommunications consumers. This research result will serve as empirical evidence for guiding the governmental review of this large-scale industrial policy issue in Japan.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1326
+UR  - https://doi.org/10.1287/mnsc.42.9.1326
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Joint Effect of Leadtime Variance and Lot Size in a Parallel Processing Environment
+AU  - Song, Jing-Sheng
+AU  - Zipkin, Paul H.
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1352
+DO  - 10.1287/mnsc.42.9.1352
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1352
+EP  - 1363
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - We study a basic (r, q) system, in which the demand is a Poisson process and the leadtimes are independent, identically-distributed random variables. The key issue is the joint effect of the leadtime variance and the lot size q on performance. We know that, under a simple base-stock policy (with q = 1), the leadtime variance has no effect at all. We find here that, for larger q, the leadtime variance can have a significant adverse impact on performance. To explore this effect, we test two simple approximations. The simplest ignores the leadtime variance. The second approach is only a bit more complex; it captures the variance effect through a hybrid of two limiting approximations. Both methods provide useful information, but the second is more robust.
+AB  - We study a basic (r, q) system, in which the demand is a Poisson process and the leadtimes are independent, identically-distributed random variables. The key issue is the joint effect of the leadtime variance and the lot size q on performance. We know that, under a simple base-stock policy (with q = 1), the leadtime variance has no effect at all. We find here that, for larger q, the leadtime variance can have a significant adverse impact on performance. To explore this effect, we test two simple approximations. The simplest ignores the leadtime variance. The second approach is only a bit more complex; it captures the variance effect through a hybrid of two limiting approximations. Both methods provide useful information, but the second is more robust.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1352
+UR  - https://doi.org/10.1287/mnsc.42.9.1352
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Mailing Decisions in the Catalog Sales Industry
+AU  - Bitran, Gabriel R.
+AU  - Mondschein, Susana V.
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1287/mnsc.42.9.1364
+DO  - 10.1287/mnsc.42.9.1364
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1364
+EP  - 1381
+VL  - 42
+IS  - 9
+PB  - INFORMS
+N2  - Catalog sales are among the fastest growing businesses in the U.S. The most important asset a company in this industry has is its list of customers, called the house list. Building a house list is expensive, since the response rate of names from rental lists is low. Cash management therefore plays a central role in this capital intensive business. This paper studies optimal mailing policies in the catalog sales industry when there is limited access to capital. We consider a stochastic environment given by the random responses of customers and a dynamic evolution of the house list. Given the size of real problems, it is impossible to compute the optimal solutions. We therefore develop a heuristic based on the optimal solutions of simplified versions of the problem. The performance of this heuristic is evaluated by comparing its outcome with an upper bound derived for the original problem. Computational experiments show that it behaves satisfactorily. The methodology presented permits the evaluation of potential catalog ventures thus proving useful to entrepreneurs in this industry.
+AB  - Catalog sales are among the fastest growing businesses in the U.S. The most important asset a company in this industry has is its list of customers, called the house list. Building a house list is expensive, since the response rate of names from rental lists is low. Cash management therefore plays a central role in this capital intensive business. This paper studies optimal mailing policies in the catalog sales industry when there is limited access to capital. We consider a stochastic environment given by the random responses of customers and a dynamic evolution of the house list. Given the size of real problems, it is impossible to compute the optimal solutions. We therefore develop a heuristic based on the optimal solutions of simplified versions of the problem. The performance of this heuristic is evaluated by comparing its outcome with an upper bound derived for the original problem. Computational experiments show that it behaves satisfactorily. The methodology presented permits the evaluation of potential catalog ventures thus proving useful to entrepreneurs in this industry.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.42.9.1364
+UR  - https://doi.org/10.1287/mnsc.42.9.1364
+Y2  - 2024/03/28
+ER  - 

@@ -1,0 +1,203 @@
+
+
+
+
+
+TY  - JOUR
+T1  - A Modeling Language for Mathematical Programming
+AU  - Fourer, Robert
+AU  - Gay, David M.
+AU  - Kernighan, Brian W.
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.519
+DO  - 10.1287/mnsc.36.5.519
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 519
+EP  - 554
+VL  - 36
+IS  - 5
+PB  - INFORMS
+N2  - Practical large-scale mathematical programming involves more than just the application of an algorithm to minimize or maximize an objective function. Before any optimizing routine can be invoked, considerable effort must be expended to formulate the underlying model and to generate the requisite computational data structures. AMPL is a new language designed to make these steps easier and less error-prone. AMPL closely resembles the symbolic algebraic notation that many modelers use to describe mathematical programs, yet it is regular and formal enough to be processed by a computer system; it is particularly notable for the generality of its syntax and for the variety of its indexing operations. We have implemented an efficient translator that takes as input a linear AMPL model and associated data, and produces output suitable for standard linear programming optimizers. Both the language and the translator admit straightforward extensions to more general mathematical programs that incorporate nonlinear expressions or discrete variables.
+AB  - Practical large-scale mathematical programming involves more than just the application of an algorithm to minimize or maximize an objective function. Before any optimizing routine can be invoked, considerable effort must be expended to formulate the underlying model and to generate the requisite computational data structures. AMPL is a new language designed to make these steps easier and less error-prone. AMPL closely resembles the symbolic algebraic notation that many modelers use to describe mathematical programs, yet it is regular and formal enough to be processed by a computer system; it is particularly notable for the generality of its syntax and for the variety of its indexing operations. We have implemented an efficient translator that takes as input a linear AMPL model and associated data, and produces output suitable for standard linear programming optimizers. Both the language and the translator admit straightforward extensions to more general mathematical programs that incorporate nonlinear expressions or discrete variables.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.519
+UR  - https://doi.org/10.1287/mnsc.36.5.519
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Price Skimming by a Monopolist Facing Rational Consumers
+AU  - Besanko, David
+AU  - Winston, Wayne L.
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.555
+DO  - 10.1287/mnsc.36.5.555
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 555
+EP  - 567
+VL  - 36
+IS  - 5
+PB  - INFORMS
+N2  - This paper considers the intertemporal pricing problem for a monopolist marketing a new product. The key feature differentiating this paper from the extant management science literature on intertemporal pricing is the assumption that consumers are intertemporal utility maximizers. A subgame perfect Nash equilibrium pricing policy is characterized and shown to involve intertemporal price discrimination. We compare this policy to the optimal policy for a monopolist facing myopic consumers and find that for any given state, prices are always lower with rational consumers than with myopic consumers. For plausible parameter values the assumption of consumer rationality can be shown to lead to large differences in optimal prices. Moreover, if a monopolist facing rational consumers implements the optimal myopic consumer pricing policy, profits can be significantly less than if the monopolist follows the equilibrium pricing policy for rational consumers.
+AB  - This paper considers the intertemporal pricing problem for a monopolist marketing a new product. The key feature differentiating this paper from the extant management science literature on intertemporal pricing is the assumption that consumers are intertemporal utility maximizers. A subgame perfect Nash equilibrium pricing policy is characterized and shown to involve intertemporal price discrimination. We compare this policy to the optimal policy for a monopolist facing myopic consumers and find that for any given state, prices are always lower with rational consumers than with myopic consumers. For plausible parameter values the assumption of consumer rationality can be shown to lead to large differences in optimal prices. Moreover, if a monopolist facing rational consumers implements the optimal myopic consumer pricing policy, profits can be significantly less than if the monopolist follows the equilibrium pricing policy for rational consumers.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.555
+UR  - https://doi.org/10.1287/mnsc.36.5.555
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Timing of Competitive Market Entry: An Exploratory Study of New Industrial Products
+AU  - Lilien, Gary L.
+AU  - Yoon, Eunsang
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.568
+DO  - 10.1287/mnsc.36.5.568
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 568
+EP  - 585
+VL  - 36
+IS  - 5
+PB  - INFORMS
+N2  - In a dynamic, competitive environment, the decision to enter the market should be timed to balance the risks of premature entry against the missed opportunity of late entry. Previous research has mainly focused on the strategic aspects of the entry-time decision. In this paper we review the literature and develop a set of propositions about the timing of new product entry. Then we empirically test the relationship between the market-entry time and the likelihood of success for new industrial products.
+AB  - In a dynamic, competitive environment, the decision to enter the market should be timed to balance the risks of premature entry against the missed opportunity of late entry. Previous research has mainly focused on the strategic aspects of the entry-time decision. In this paper we review the literature and develop a set of propositions about the timing of new product entry. Then we empirically test the relationship between the market-entry time and the likelihood of success for new industrial products.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.568
+UR  - https://doi.org/10.1287/mnsc.36.5.568
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Queue Inference Engine: Deducing Queue Statistics from Transactional Data
+AU  - Larson, Richard C.
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.586
+DO  - 10.1287/mnsc.36.5.586
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 586
+EP  - 601
+VL  - 36
+IS  - 5
+PB  - INFORMS
+N2  - The transactional data of a queueing system are the recorded times of service commencement and service completion for each customer served. With increasing use of computers to aid or even perform service one often has machine readable transactional data, but virtually no information about the queue itself. In this paper we propose a way to deduce the queueing behavior of Poisson arrival queueing systems from only the transactional data and the Poisson assumption. For each congestion period in which queues may form (in front of a single or multiple servers), the key quantities obtained are mean wait in queue, time-dependent mean number in queue, and probability distribution of the number in queue observed by a randomly arriving customer. The methodology builds on arguments of order statistics and usually requires a computer to evaluate a recursive function. The results are exact for a homogeneous Poisson arrival process (with unknown parameter) and approximately correct for a slowly time varying Poisson process.
+AB  - The transactional data of a queueing system are the recorded times of service commencement and service completion for each customer served. With increasing use of computers to aid or even perform service one often has machine readable transactional data, but virtually no information about the queue itself. In this paper we propose a way to deduce the queueing behavior of Poisson arrival queueing systems from only the transactional data and the Poisson assumption. For each congestion period in which queues may form (in front of a single or multiple servers), the key quantities obtained are mean wait in queue, time-dependent mean number in queue, and probability distribution of the number in queue observed by a randomly arriving customer. The methodology builds on arguments of order statistics and usually requires a computer to evaluate a recursive function. The results are exact for a homogeneous Poisson arrival process (with unknown parameter) and approximately correct for a slowly time varying Poisson process.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.586
+UR  - https://doi.org/10.1287/mnsc.36.5.586
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Properties of Standardized Time Series Weighted Area Variance Estimators
+AU  - Goldsman, David
+AU  - Meketon, Marc
+AU  - Schruben, Lee
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.602
+DO  - 10.1287/mnsc.36.5.602
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 602
+EP  - 612
+VL  - 36
+IS  - 5
+PB  - INFORMS
+N2  - We wish to estimate the variance of the sample mean from a continuous-time stationary stochastic process. This article expands on the results of a technical note (Goldsman and Schruben 1990) by using the theory of standardized time series to investigate weighted generalizations of Schruben's area variance estimator. We find a simple expression for the bias of the weighted area variance estimator, and we give weights which yield variance estimators with lower asymptotic bias than certain other popular estimators. We use the weighted area variance estimators to derive asymptotically valid confidence interval estimators (CIEs) for the mean of a stationary stochastic process. Although the weighted area CIEs have the same asymptotic expected value and variance of the length as Schruben's area CIE, we show that the new CIEs sometimes yield coverages which are closer to the nominal value.
+AB  - We wish to estimate the variance of the sample mean from a continuous-time stationary stochastic process. This article expands on the results of a technical note (Goldsman and Schruben 1990) by using the theory of standardized time series to investigate weighted generalizations of Schruben's area variance estimator. We find a simple expression for the bias of the weighted area variance estimator, and we give weights which yield variance estimators with lower asymptotic bias than certain other popular estimators. We use the weighted area variance estimators to derive asymptotically valid confidence interval estimators (CIEs) for the mean of a stationary stochastic process. Although the weighted area CIEs have the same asymptotic expected value and variance of the length as Schruben's area CIE, we show that the new CIEs sometimes yield coverages which are closer to the nominal value.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.602
+UR  - https://doi.org/10.1287/mnsc.36.5.602
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Reorganization Policies for Stationary and Evolutionary Databases
+AU  - Park, June S.
+AU  - Bartoszynski, Robert
+AU  - De, Prabuddha
+AU  - Pirkul, Hasan
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.613
+DO  - 10.1287/mnsc.36.5.613
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 613
+EP  - 631
+VL  - 36
+IS  - 5
+PB  - INFORMS
+N2  - The problem of determining optimal reorganization policies for databases which employ file structures with overflow chaining is studied. The dynamics of the file performance driven by update transactions and reorganizations is formulated as a stochastic control model which incorporates micro-level design parameters of the physical file structure. Various simplifying assumptions employed in past research are relaxed in the model. Polynomial time procedures for solving the optimization models are developed for two cases: when the file size is stationary as in the steady-state and when the file size evolves stochastically with a nonlinear trajectory. The model and the solution procedures are applied to an ISAM file revealing the effectiveness of the solution procedures and the relationship between file design parameters and the optimal policy.
+AB  - The problem of determining optimal reorganization policies for databases which employ file structures with overflow chaining is studied. The dynamics of the file performance driven by update transactions and reorganizations is formulated as a stochastic control model which incorporates micro-level design parameters of the physical file structure. Various simplifying assumptions employed in past research are relaxed in the model. Polynomial time procedures for solving the optimization models are developed for two cases: when the file size is stationary as in the steady-state and when the file size evolves stochastically with a nonlinear trajectory. The model and the solution procedures are applied to an ISAM file revealing the effectiveness of the solution procedures and the relationship between file design parameters and the optimal policy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.613
+UR  - https://doi.org/10.1287/mnsc.36.5.613
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - (m,T) Group Maintenance Policies
+AU  - Ritchken, Peter
+AU  - Wilson, John G.
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.632
+DO  - 10.1287/mnsc.36.5.632
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 632
+EP  - 639
+VL  - 36
+IS  - 5
+PB  - INFORMS
+N2  - A model that recognizes the advantages of coordinated group maintenance planning is established. The maintenance policy that is investigated calls for group maintenance to be conducted at time T or upon m failures, whichever comes first. This policy combines the best features of the well-known T-age and m-failure replacement policies. Using a renewal approach the economic objective is to minimize the long-run (expected) average cost per unit time. General cost structures and failure time distributions are allowed. An algorithm that does not require unimodality properties is provided for computing optimal policies for general failure time distribution and cost structures.
+AB  - A model that recognizes the advantages of coordinated group maintenance planning is established. The maintenance policy that is investigated calls for group maintenance to be conducted at time T or upon m failures, whichever comes first. This policy combines the best features of the well-known T-age and m-failure replacement policies. Using a renewal approach the economic objective is to minimize the long-run (expected) average cost per unit time. General cost structures and failure time distributions are allowed. An algorithm that does not require unimodality properties is provided for computing optimal policies for general failure time distribution and cost structures.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.632
+UR  - https://doi.org/10.1287/mnsc.36.5.632
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - About Authors
+Y1  - 1990/05/01
+PY  - 1990
+DA  - 1990/05/01
+N1  - doi: 10.1287/mnsc.36.5.640
+DO  - 10.1287/mnsc.36.5.640
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 640
+EP  - 641
+VL  - 36
+IS  - 5
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.36.5.640
+UR  - https://doi.org/10.1287/mnsc.36.5.640
+Y2  - 2024/03/28
+ER  - 

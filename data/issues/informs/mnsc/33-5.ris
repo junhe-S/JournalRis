@@ -1,0 +1,199 @@
+
+
+
+
+
+TY  - JOUR
+T1  - An Introduction to Structured Modeling
+AU  - Geoffrion, Arthur M.
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.547
+DO  - 10.1287/mnsc.33.5.547
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 547
+EP  - 588
+VL  - 33
+IS  - 5
+PB  - INFORMS
+N2  - The discipline of modeling has advanced only slowly compared to disciplines concerned with analyzing and solving models once they are brought into being. Structured Modeling is an attempt to redress this imbalance. Structured Modeling aims to provide a formal mathematical framework and computer-based environment for conceiving, representing, and manipulating a wide variety of models. The framework uses a hierarchically organized, partitioned, and attributed acyclic graph to represent the semantic as well as mathematical structure of a model. The computer-based environment is evolving via experimental prototypes that provide for ad hoc query, immediate expression evaluation, solving simultaneous systems, and optimization. If successful, Structured Modeling will enable model-based work to be done with greater productivity and acceptance by nonspecialists, will exploit important developments in small computers, and will cross-fertilize management science/operations research, artificial intelligence, database management, programming language design, and software engineering. This paper is an introduction and status report on a long term project. The presentation is based largely on examples; rigorous development and details are left to a series of technical reports.
+AB  - The discipline of modeling has advanced only slowly compared to disciplines concerned with analyzing and solving models once they are brought into being. Structured Modeling is an attempt to redress this imbalance. Structured Modeling aims to provide a formal mathematical framework and computer-based environment for conceiving, representing, and manipulating a wide variety of models. The framework uses a hierarchically organized, partitioned, and attributed acyclic graph to represent the semantic as well as mathematical structure of a model. The computer-based environment is evolving via experimental prototypes that provide for ad hoc query, immediate expression evaluation, solving simultaneous systems, and optimization. If successful, Structured Modeling will enable model-based work to be done with greater productivity and acceptance by nonspecialists, will exploit important developments in small computers, and will cross-fertilize management science/operations research, artificial intelligence, database management, programming language design, and software engineering. This paper is an introduction and status report on a long term project. The presentation is based largely on examples; rigorous development and details are left to a series of technical reports.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.547
+UR  - https://doi.org/10.1287/mnsc.33.5.547
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Foundation for the Study of Group Decision Support Systems
+AU  - DeSanctis, Gerardine
+AU  - Gallupe, R. Brent
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.589
+DO  - 10.1287/mnsc.33.5.589
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 589
+EP  - 609
+VL  - 33
+IS  - 5
+PB  - INFORMS
+N2  - Technical developments in electronic communication, computing, and decision support, coupled with new interest on the part of organizations to improve meeting effectiveness, are spurring research in the area of group decision support systems (GDSS). A GDSS combines communication, computing, and decision support technologies to facilitate formulation and solution of unstructured problems by a group of people. This paper presents a conceptual overview of GDSS based on an information-exchange perspective of decision making, Three levels of systems are described, representing varying degrees of intervention into the decision process. Research on GDSS is conceived as evolving over time from the study of simple ?shell? systems, consisting of menus of features available for selection by a group, to consideration of sophisticated rule-based systems that enable a group to pursue highly structured and novel decision paths. A multi-dimensional taxonomy of systems is proposed as an organizing framework for research in the area. Three environmental contingencies are identified as critical to GDSS design: group size, member proximity, and the task confronting the group. Potential impacts of GDSS on group processes and outcomes are discussed, and important constructs in need of study are identified.
+AB  - Technical developments in electronic communication, computing, and decision support, coupled with new interest on the part of organizations to improve meeting effectiveness, are spurring research in the area of group decision support systems (GDSS). A GDSS combines communication, computing, and decision support technologies to facilitate formulation and solution of unstructured problems by a group of people. This paper presents a conceptual overview of GDSS based on an information-exchange perspective of decision making, Three levels of systems are described, representing varying degrees of intervention into the decision process. Research on GDSS is conceived as evolving over time from the study of simple ?shell? systems, consisting of menus of features available for selection by a group, to consideration of sophisticated rule-based systems that enable a group to pursue highly structured and novel decision paths. A multi-dimensional taxonomy of systems is proposed as an organizing framework for research in the area. Three environmental contingencies are identified as critical to GDSS design: group size, member proximity, and the task confronting the group. Potential impacts of GDSS on group processes and outcomes are discussed, and important constructs in need of study are identified.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.589
+UR  - https://doi.org/10.1287/mnsc.33.5.589
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - PAM—A Practitioner's Approach to Modeling
+AU  - Welch, James S.
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.610
+DO  - 10.1287/mnsc.33.5.610
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 610
+EP  - 625
+VL  - 33
+IS  - 5
+PB  - INFORMS
+N2  - Many Linear Programming (LP) practitioners formulate and document their models with block schematics of LP matrices. They subscribe to neither the column-wise emphasis of commercial matrix generators nor to the constraint orientation of recently proposed ?modelling languages.? PAM is a nonprocedural modeling language in which the practitioner describes an LP matrix with a set of two-dimensional tables: a table representing the block schematic of the matrix and supporting data tables. A computer program processes these tables to produce an LP matrix ready for optimization. This paper describes block-wise model formulation, discusses the relationships of the data to the model, presents an overview of PAM's matrix generation language, and gives some experience with a prototype system.
+AB  - Many Linear Programming (LP) practitioners formulate and document their models with block schematics of LP matrices. They subscribe to neither the column-wise emphasis of commercial matrix generators nor to the constraint orientation of recently proposed ?modelling languages.? PAM is a nonprocedural modeling language in which the practitioner describes an LP matrix with a set of two-dimensional tables: a table representing the block schematic of the matrix and supporting data tables. A computer program processes these tables to produce an LP matrix ready for optimization. This paper describes block-wise model formulation, discusses the relationships of the data to the model, presents an overview of PAM's matrix generation language, and gives some experience with a prototype system.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.610
+UR  - https://doi.org/10.1287/mnsc.33.5.610
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Cost Allocation and Opportunity Costs
+AU  - Miller, Bruce L.
+AU  - Buckman, A. G.
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.626
+DO  - 10.1287/mnsc.33.5.626
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 626
+EP  - 639
+VL  - 33
+IS  - 5
+PB  - INFORMS
+N2  - One explanation for the widespread use of allocated fixed costs is that they can serve as a proxy for difficult-to-calculate opportunity costs. This explanation is pursued by modeling a service department as an M/M/s/s queueing system. Two main results are that the expected value of opportunity costs equals both the incremental productivity of capacity and the optimal transfer price. When the cost of capacity is of the form C(s) = asα and α is close to one, we show that allocated fixed costs are a good proxy for average opportunity costs. However, if there are great economies of scale (α is close to zero), then a method which charges users only for the variable costs of the service department is recommended. Finally, the economic efficiency of transfer prices based on either variable cost or full cost is compared with optimal transfer pricing policies.
+AB  - One explanation for the widespread use of allocated fixed costs is that they can serve as a proxy for difficult-to-calculate opportunity costs. This explanation is pursued by modeling a service department as an M/M/s/s queueing system. Two main results are that the expected value of opportunity costs equals both the incremental productivity of capacity and the optimal transfer price. When the cost of capacity is of the form C(s) = asα and α is close to one, we show that allocated fixed costs are a good proxy for average opportunity costs. However, if there are great economies of scale (α is close to zero), then a method which charges users only for the variable costs of the service department is recommended. Finally, the economic efficiency of transfer prices based on either variable cost or full cost is compared with optimal transfer pricing policies.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.626
+UR  - https://doi.org/10.1287/mnsc.33.5.626
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Ordinal Time Series Methodology for Industry and Competitive Analysis
+AU  - Ruefli, Timothy W.
+AU  - Wilson, Chester L.
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.640
+DO  - 10.1287/mnsc.33.5.640
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 640
+EP  - 661
+VL  - 33
+IS  - 5
+PB  - INFORMS
+N2  - Ordinal time series analysis is a new methodology that is especially appropriate for industry and competitive analysis along multiple dimensions of performance over periods of time. The methodology, by using ordinal data, eliminates the requirements encountered in cardinal analysis for further assumptions and calculations concerning model specifications, appropriate discount rates, and re-scaling of data to facilitate presentation. Using longitudinal data, ordinal time series analysis allows the strategy analyst to develop empirical measures of the position, volatility, direction of movement, and relative uncertainty associated with an industry or with groups of firms within that industry. Using these statistical patterns of industry behavior, key strategic dimensions and relationships among and across performance measures, groups of firms, and industries can be identified. The methodology is illustrated by using published data to perform a comparative ordinal time series analysis of the largest firms in the transportation industry over the last quarter century.
+AB  - Ordinal time series analysis is a new methodology that is especially appropriate for industry and competitive analysis along multiple dimensions of performance over periods of time. The methodology, by using ordinal data, eliminates the requirements encountered in cardinal analysis for further assumptions and calculations concerning model specifications, appropriate discount rates, and re-scaling of data to facilitate presentation. Using longitudinal data, ordinal time series analysis allows the strategy analyst to develop empirical measures of the position, volatility, direction of movement, and relative uncertainty associated with an industry or with groups of firms within that industry. Using these statistical patterns of industry behavior, key strategic dimensions and relationships among and across performance measures, groups of firms, and industries can be identified. The methodology is illustrated by using published data to perform a comparative ordinal time series analysis of the largest firms in the transportation industry over the last quarter century.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.640
+UR  - https://doi.org/10.1287/mnsc.33.5.640
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Average Cost Policies for the Two-Terminal Shuttle
+AU  - Deb, Rajat K.
+AU  - Schmidt, Charles P.
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.662
+DO  - 10.1287/mnsc.33.5.662
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 662
+EP  - 669
+VL  - 33
+IS  - 5
+PB  - INFORMS
+N2  - In this paper we consider a transportation system consisting of a carrier with capacity Q ≤ ∞, operating between two terminals. Passengers arrive at these terminals according to independent Poisson processes and are transported by the carrier from one terminal to the other terminal. Under a fairly general cost structure we show that the optimal operating policy which minimizes the expected average cost is a monotone decreasing function of the number of customers waiting at each terminal. Bounds are derived for the optimal average cost policy and a method to compute these optimal policies using linear programming is presented.
+AB  - In this paper we consider a transportation system consisting of a carrier with capacity Q ≤ ∞, operating between two terminals. Passengers arrive at these terminals according to independent Poisson processes and are transported by the carrier from one terminal to the other terminal. Under a fairly general cost structure we show that the optimal operating policy which minimizes the expected average cost is a monotone decreasing function of the number of customers waiting at each terminal. Bounds are derived for the optimal average cost policy and a method to compute these optimal policies using linear programming is presented.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.662
+UR  - https://doi.org/10.1287/mnsc.33.5.662
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Nonorthogonal Two-Dimensional Cutting Patterns
+AU  - Rinnooy Kan, A. H. G.
+AU  - De Wit, J. R.
+AU  - Wijmenga, R. Th.
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.670
+DO  - 10.1287/mnsc.33.5.670
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 670
+EP  - 684
+VL  - 33
+IS  - 5
+PB  - INFORMS
+N2  - The optimal way to cut a number of pieces from a reel is usually studied under the assumption that each piece has one of its sides parallel to the reel edge. If the material to be cut is homogeneous, it may be attractive to consider patterns in which certain pieces appear in an intermediate, tilted position. Certain properties of a class of such nonorthogonal cutting patterns axe derived that make it possible to allow for tilting in a simple manner. Substantial savings may thus be realised at the expense of a modest increase in computational effort.
+AB  - The optimal way to cut a number of pieces from a reel is usually studied under the assumption that each piece has one of its sides parallel to the reel edge. If the material to be cut is homogeneous, it may be attractive to consider patterns in which certain pieces appear in an intermediate, tilted position. Certain properties of a class of such nonorthogonal cutting patterns axe derived that make it possible to allow for tilting in a simple manner. Substantial savings may thus be realised at the expense of a modest increase in computational effort.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.670
+UR  - https://doi.org/10.1287/mnsc.33.5.670
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - About Authors
+Y1  - 1987/05/01
+PY  - 1987
+DA  - 1987/05/01
+N1  - doi: 10.1287/mnsc.33.5.685
+DO  - 10.1287/mnsc.33.5.685
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 685
+EP  - 686
+VL  - 33
+IS  - 5
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.33.5.685
+UR  - https://doi.org/10.1287/mnsc.33.5.685
+Y2  - 2024/03/28
+ER  - 

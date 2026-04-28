@@ -1,0 +1,561 @@
+TY  - JOUR
+T1  - A moment computation algorithm for the error in discrete dynamic hedging
+AU  - Primbs, James A.
+AU  - Yamada, Yuji
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 519
+EP  - 540
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000816
+KW  - Dynamic hedging
+KW  - Derivatives
+KW  - Moments
+KW  - Incomplete markets
+KW  - Lattice
+AB  - This paper develops a computational approach to determining the moments of the distribution of the error in a dynamic hedging or payoff replication strategy under discrete trading. In particular, an algorithm is developed for portfolio affine trading strategies, which lead to portfolio dynamics that are affine in the portfolio variable. This structure can be exploited in the computation of moments of the hedging error of such a strategy, leading to a lattice based backward recursion similar in nature to lattice based pricing techniques, but not requiring the portfolio variable. We use this algorithm to analyze the performance of portfolio affine hedging strategies under discrete trading through the moments of the hedging error.
+ER  - 
+
+TY  - JOUR
+T1  - The magnitude of a market crash can be predicted
+AU  - Novak, S.Y.
+AU  - Beirlant, J.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 453
+EP  - 462
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000737
+KW  - Value-at-Risk
+KW  - Expected shortfall
+KW  - Heavy tails
+AB  - Could the magnitude of the stock market crash of 19.10.1987 be predicted on the base of the data available on the eve of “the black Monday”? How far can the financial market fall, say, once in 40years? We demonstrate that modern methods of Extreme Value Theory can help in answering these questions.
+ER  - 
+
+TY  - JOUR
+T1  - Risk management and optimization in finance
+AU  - Krokhmal, Pavlo
+AU  - Rockafellar, R. Tyrrell
+AU  - Uryasev, Stan
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 315
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S037842660500066X
+ER  - 
+
+TY  - JOUR
+T1  - Asset and liability management for insurance products with minimum guarantees: The UK case
+AU  - Consiglio, Andrea
+AU  - Saunders, David
+AU  - Zenios, Stavros A.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 645
+EP  - 667
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000877
+KW  - Insurance
+KW  - Minimum guarantees
+KW  - Stochastic programming
+KW  - Portfolio optimization
+AB  - Modern insurance products are becoming increasingly complex, offering various guarantees, surrender options and bonus provisions. A case in point are the with-profits insurance policies offered by UK insurers. While these policies have been offered in some form for centuries, in recent years their structure and management have become substantially more involved. The products are particularly complicated due to the wide discretion they afford insurers in determining the bonuses policyholders receive. In this paper, we study the problem of an insurance firm attempting to structure the portfolio underlying its with-profits fund. The resulting optimization problem, a non-linear program with stochastic variables, is presented in detail. Numerical results show how the model can be used to analyze the alternatives available to the insurer, such as different bonus policies and reserving methods.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of criteria VaR and CVaR
+AU  - Kibzun, Andrey I.
+AU  - Kuznetsov, Evgeniy A.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 779
+EP  - 796
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000932
+KW  - Value-at-Risk (Quantile function)
+KW  - Conditional Value-at-Risk (Integeral quantile function)
+KW  - Criteria for decision-making under risk
+KW  - Convexity of VaR and CVaR
+KW  - Stochastic programming
+KW  - Portfolio selection
+AB  - Criteria VaR (Value-at-Risk) and CVaR (Conditional Value-at-Risk), which are well-known in financial mathematics, are compared. Some connection between them is established. Ways of choice a level of confidence probability for the quantile optimization problem are suggested. The ways are based on some equations of balance between VaR and CVaR. Examples are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Pricing methods and hedging strategies for volatility derivatives
+AU  - Windcliff, H.
+AU  - Forsyth, P.A.
+AU  - Vetzal, K.R.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 409
+EP  - 431
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000713
+KW  - Volatility derivatives
+KW  - Risk management
+KW  - Jump-diffusion
+KW  - Local volatility surface
+AB  - We explore the valuation and hedging of discretely observed volatility derivatives using three different models for the price of the underlying asset: Geometric Brownian motion with constant volatility, a local volatility surface, and jump-diffusion. We begin by comparing the effects on valuation of variations in contract design, such as the differences between specifying log returns or actual returns and incorporating caps on the level of realized volatility. We then focus on the difficulties associated with hedging these products. Delta hedging strategies are ineffective for hedging volatility derivatives since they require very frequent rebalancing. Moreover, they provide limited protection in the jump-diffusion context. We study the performance of a hedging strategy for volatility swaps that establishes small, fixed positions in vanilla options at each volatility observation.
+ER  - 
+
+TY  - JOUR
+T1  - A linearly implicit predictor–corrector scheme for pricing American options using a penalty method approach
+AU  - Khaliq, A.Q.M.
+AU  - Voss, D.A.
+AU  - Kazmi, S.H.K.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 489
+EP  - 502
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000798
+KW  - Black–Scholes equation
+KW  - Method of lines
+KW  - Predictor–corrector methods
+KW  - American options
+KW  - Penalty method
+AB  - Pricing of an American option is complicated since at each time we have to determine not only the option value but also whether or not it should be exercised (early exercise constraint). This makes the valuation of an American option a free boundary problem. Typically at each time there is a particular value of the asset, which marks the boundary between two regions: to one side one should hold the option and to other side one should exercise it. Assuming that investors act optimally, the value of an American option cannot fall below the value that would be obtained if it were exercised early. Effectively, this means that the American option early exercise feature transforms the original linear pricing partial differential equation into a nonlinear one. We consider a penalty method approach in which the free and moving boundary is removed by adding a small and continuous penalty term to the Black–Scholes equation; consequently,the problem can be solved on a fixed domain. Analytical solutions of the Black–Scholes model of American option problems are seldom available and hence such derivatives must be priced by stable and efficient numerical techniques. Standard numerical methods involve the need to solve a system of nonlinear equations, evolving from the finite difference discretization of the nonlinear Black–Scholes model, at each time step by a Newton-type iterative procedure. We implement a novel linearly implicit scheme by treating the nonlinear penalty term explicitly, while maintaining superior accuracy and stability properties compared to the well-known θ-methods.
+ER  - 
+
+TY  - JOUR
+T1  - Implied migration rates from credit barrier models
+AU  - Albanese, Claudio
+AU  - Chen, Oliver X.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 607
+EP  - 626
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000853
+KW  - Credit risk modelling
+KW  - Credit ratings
+KW  - Default probabilities
+KW  - Credit spreads
+AB  - The risk-neutral credit migration process captures quantitative information which is relevant to the pricing theory and risk management of credit derivatives. In this article, we derive implied migration rates by means of a recently introduced credit barrier model which is calibrated on the basis of aggregate information such as credit migration rates and credit spread curves. The model is characterized by an underlying stochastic process that represents credit quality, and default events are associated to barrier crossings. The stochastic process has state dependent volatility and jumps which are estimated by using empirical migration and default rates. A risk-neutralizing drift and forward liquidity spreads are estimated to consistently match the average spread curves corresponding to all the various ratings. The implied migration rates obtained with our credit barrier model are then compared with those obtained via the Kijima–Komoribayashi model.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating market and credit risk: A simulation and optimisation perspective
+AU  - Jobst, Norbert J.
+AU  - Mitra, Gautam
+AU  - Zenios, Stavros A.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 717
+EP  - 742
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000919
+KW  - Credit risk
+KW  - Default risk
+KW  - Asset and liability management
+KW  - Stochastic programming
+AB  - We introduce a modelling paradigm which integrates credit risk and market risk in describing the random dynamical behaviour of the underlying fixed income assets. We then consider an asset and liability management (ALM) problem and develop a multistage stochastic programming model which focuses on optimum risk decisions. These models exploit the dynamical multiperiod structure of credit risk and provide insight into the corrective recourse decisions whereby issues such as the timing risk of default is appropriately taken into consideration. We also present an index tracking model in which risk is measured (and optimised) by the CVaR of the tracking portfolio in relation to the index. In-sample as well as out-of-sample (backtesting) experiments are undertaken to validate our approach. The main benefits of backtesting, that is, ex-post analysis are that (a) we gain insight into asset allocation decisions, and (b) we are able to demonstrate the feasibility and flexibility of the chosen framework.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing CVaR and VaR for a portfolio of derivatives
+AU  - Alexander, S.
+AU  - Coleman, T.F.
+AU  - Li, Y.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 583
+EP  - 605
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000841
+KW  - VaR
+KW  - CVaR
+KW  - Risk minimization
+KW  - Ill-posedness
+KW  - Transaction and management cost
+AB  - Value at risk (VaR) and conditional value at risk (CVaR) are frequently used as risk measures in risk management. Compared to VaR, CVaR is attractive since it is a coherent risk measure. We analyze the problem of computing the optimal VaR and CVaR portfolios. We illustrate that VaR and CVaR minimization problems for derivatives portfolios are typically ill-posed. We propose to include cost as an additional preference criterion for the CVaR optimization problem. We demonstrate that, with the addition of a proportional cost, it is possible to compute an optimal CVaR derivative investment portfolio with significantly fewer instruments and comparable CVaR and VaR. A computational method based on a smoothing technique is proposed to solve a simulation based CVaR optimization problem efficiently. Comparison is made with the linear programming approach for solving the simulation based CVaR optimization problem.
+ER  - 
+
+TY  - JOUR
+T1  - An approximation method for analysis and valuation of credit correlation derivatives
+AU  - Egami, Masahiko
+AU  - Esteghamat, Kian
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 341
+EP  - 364
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000683
+KW  - Correlated credit risk
+KW  - Structured security
+KW  - Portfolio approximation
+AB  - This paper presents a model for approximating the value of a basket of default-correlated assets and analyzes subordinate tranches in securitized debt obligations. The model is calibrated to an intensity-based simulation of correlated defaults and represents an alternative computation method to full Monte Carlo simulation. Timing of individual obligor defaults are driven by intensity processes and collateral value is modeled with a jump-diffusion process where the number of jumps corresponds to the total number of defaults in the asset pool. This approach allows decomposition of subordinate obligations in terms of a collection of simpler securities and yields useful risk management information.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal credit limit management under different information regimes
+AU  - Leippold, Markus
+AU  - Vanini, Paolo
+AU  - Ebnoether, Silvan
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 463
+EP  - 487
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000749
+KW  - Credit risk management
+KW  - Optimal limit policy
+KW  - Partial information
+KW  - Adverse selection
+AB  - Credit limit management is of paramount importance for successful short-term credit risk management, even more so when the situation in credit and financial markets is tense. We consider a continuous-time model where the credit provider and the credit taker interact within a game-theoretic framework under different information structures. The model with complete information provides decision-theoretic insights into the problem of optimal limit policies and motivates more complicated information structures. Moving to a partial information setup, incentive distortions emerge that are not in the bank’s interest. We discuss how these distortions can effectively be reduced by an incentive-compatible contract. Finally, we provide some practical implications of our theoretical results.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient fund of hedge funds construction under downside risk measures
+AU  - Morton, David P.
+AU  - Popova, Elmira
+AU  - Popova, Ivilina
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 503
+EP  - 518
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000804
+KW  - Portfolio choice
+KW  - Expected regret
+KW  - Hedge funds
+KW  - Fund of funds
+KW  - Portfolio optimization
+KW  - Monte Carlo simulation
+AB  - We consider portfolio allocation in which the underlying investment instruments are hedge funds. We consider a family of utility functions involving the probability of outperforming a benchmark and expected regret relative to another benchmark. Non-normal return vectors with prescribed marginal distributions and correlation structure are modeled and simulated using the normal-to-anything method. A Monte Carlo procedure is used to obtain, and establish the quality of, a solution to the associated portfolio optimization model. Computational results are presented on a problem in which we construct a fund of 13 CSFB/Tremont hedge-fund indices.
+ER  - 
+
+TY  - JOUR
+T1  - The hidden dangers of historical simulation
+AU  - Pritsker, Matthew
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 561
+EP  - 582
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.013
+UR  - https://www.sciencedirect.com/science/article/pii/S037842660500083X
+KW  - Value-at-Risk
+KW  - Backtest
+KW  - Historical simulation
+AB  - Many large financial institutions compute the Value-at-Risk (VaR) of their trading portfolios using historical simulation based methods, but the methods’ properties are not well understood. This paper theoretically and empirically examines the historical simulation method, a variant of historical simulation introduced by Boudoukh et al. [Boudoukh, J., Richardson, M., Whitelaw, R., 1998. The best of both worlds, Risk 11(May) 64–67] (BRW), and the filtered historical simulation method (FHS) of Barone-Adesi et al. [Barone-Adesi, G., Bourgoin F., Giannopoulos, K., 1998. Don’t look back. Risk 11(August) 100–104; Barone-Adesi, G., Giannopoulos K., Vosper L., 1999. VaR without correlations for nonlinear portfolios. Journal of Futures Markets 19(April) 583–602]. The historical simulation and BRW methods are both under-responsive to changes in conditional risk; and respond to changes in risk in an asymmetric fashion: measured risk increases when the portfolio experiences large losses, but not when it earns large gains. The FHS method is promising, but its risk estimates are variable in small samples, and its assumption that correlations are constant is violated in large samples. Additional refinements are needed to account for time-varying correlations; and to choose the appropriate length of the historical sample period.
+ER  - 
+
+TY  - JOUR
+T1  - Portfolio optimization with stochastic dominance constraints
+AU  - Dentcheva, Darinka
+AU  - Ruszczyński, Andrzej
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 433
+EP  - 451
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000725
+KW  - Portfolio optimization
+KW  - Stochastic dominance
+KW  - Stochastic order
+KW  - Risk
+KW  - Utility function
+KW  - Duality
+AB  - We consider the problem of constructing a portfolio of finitely many assets whose return rates are described by a discrete joint distribution. We propose a new portfolio optimization model involving stochastic dominance constraints on the portfolio return rate. We develop optimality and duality theory for these models. We construct equivalent optimization models with utility functions. Numerical illustration is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Interaction of credit and liquidity risks: Modelling and valuation
+AU  - Zheng, Harry
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 391
+EP  - 407
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000701
+KW  - Default risk
+KW  - Liquidity risk
+KW  - Conditional independence
+KW  - Structural and intensity models
+KW  - Calibration with two-stage optimization
+AB  - In this paper we discuss the interaction of default risk and liquidity risk on pricing financial contracts. We show that two risks are almost indistinguishable if the underlying contract has non-negative values; however, if it can take both positive and negative values then these two risks demand different risk premiums depending on their loss rates and distributions. We discuss a structural default model and a discrete time default model with exponentially distributed liquidity shocks. We show that short-term yield spreads are dominated by liquidity risk rather than credit risk. We suggest a two-stage procedure to calibrate the model with one scalar optimization problem and one linear programming problem.
+ER  - 
+
+TY  - JOUR
+T1  - Portfolio selection using hierarchical Bayesian analysis and MCMC methods
+AU  - Greyserman, Alex
+AU  - Jones, Douglas H.
+AU  - Strawderman, William E.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 669
+EP  - 678
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000889
+KW  - Monte Carlo Markov Chain
+KW  - Gibbs sampling
+KW  - Hierarchical Bayes
+KW  - Portfolio theory
+AB  - This paper contributes to portfolio selection methodology using a Bayesian forecast of the distribution of returns by stochastic approximation. New hierarchical priors on the mean vector and covariance matrix of returns are derived and implemented. Comparison’s between this approach and other Bayesian methods are studied with simulations on 25 years of historical data on global stock indices. It is demonstrated that a fully hierarchical Bayes procedure produces promising results warranting more study. We carried out a numerical optimization procedure to maximize expected utility using the MCMC (Monte Carlo Markov Chain) samples from the posterior predictive distribution. This model resulted in an extra 1.5 percentage points per year in additional portfolio performance (on top of the Hierarchical Bayes model to estimate μ and Σ and use the Markowitz model), which is quite a significant empirical result. This approach applies to a large class of utility functions and models for market returns.
+ER  - 
+
+TY  - JOUR
+T1  - Applying CVaR for decentralized risk management of financial companies
+AU  - Mulvey, John M.
+AU  - Erkan, Hafize G.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 627
+EP  - 644
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000865
+KW  - Risk management
+KW  - Decentralized optimization
+KW  - Conditional value-at-risk
+KW  - Risk measures
+KW  - Utility optimization
+AB  - Over the past decade, financial companies have merged diverse areas including investment banking, insurance, retail banking, and trading operations. Despite this diversity, many global financial firms suffered severe losses during the recent recession. To reduce enterprise risks and increase profits, we apply a decentralized risk management strategy based on a stochastic optimization model. We extend the decentralized approach with the CVaR risk-metric, showing the advantages of CVaR over traditional risk measures such as value-at-risk. An example taken from the earthquake insurance area illustrates the concepts.
+ER  - 
+
+TY  - JOUR
+T1  - Master funds in portfolio analysis with general deviation measures
+AU  - Rockafellar, R. Tyrrell
+AU  - Uryasev, Stan
+AU  - Zabarankin, Michael
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 743
+EP  - 778
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000920
+KW  - Deviation measures
+KW  - Risk measures
+KW  - Value-at-risk
+KW  - Conditional value-at-risk
+KW  - Portfolio optimization
+KW  - One-fund theorem
+KW  - Master fund
+KW  - Basic fund
+KW  - Efficient frontier
+KW  - Convex analysis
+AB  - Generalized measures of deviation are considered as substitutes for standard deviation in a framework like that of classical portfolio theory for coping with the uncertainty inherent in achieving rates of return beyond the risk-free rate. Such measures, derived for example from conditional value-at-risk and its variants, can reflect the different attitudes of different classes of investors. They lead nonetheless to generalized one-fund theorems in which a more customized version of portfolio optimization is the aim, rather than the idea that a single “master fund” might arise from market equilibrium and serve the interests of all investors. The results that are obtained cover discrete distributions along with continuous distributions. They are applicable therefore to portfolios involving derivatives, which create jumps in distribution functions at specific gain or loss values, well as to financial models involving finitely many scenarios. Furthermore, they deal rigorously with issues that come up at that level of generality, but have not received adequate attention, including possible lack of differentiability of the deviation expression with respect to the portfolio weights, and the potential nonuniqueness of optimal weights. The results also address in detail the phenomenon that if the risk-free rate lies above a certain threshold, the usually envisioned master fund must be replaced by one of alternative type, representing a “net short position” instead of a “net long position” in the risky instruments. For nonsymmetric deviation measures, the second type need not just be the reverse of the first type, and there can sometimes even be an interval for the risk-free rate in which no master fund of either type exists. A notion of basic fund, in place of master fund, is brought in to get around this difficulty and serve as a single guide to optimality regardless of such circumstances.
+ER  - 
+
+TY  - JOUR
+T1  - A value-of-information approach to measuring risk in multi-period economic activity
+AU  - Pflug, Georg Ch.
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 695
+EP  - 715
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000907
+KW  - Risk measures
+KW  - Conditional value-at-risk
+KW  - Non-anticipativity costs
+AB  - In this paper, we discuss measures of risk for uncertain outcomes of economic activity, which are based on the notion of the value of full information in stochastic programs. Information is measured in terms of σ-algebras. For multi-period income streams information is represented by filtrations, i.e. sequences of σ-algebras. The basic properties of our risk measures are multi-period coherence (“diversification decreases risk”), compound concavity (“random alternatives increase risk”) and convex monotonicity (“insurance decreases risk”).
+ER  - 
+
+TY  - JOUR
+T1  - Utility-based performance measures for regression models
+AU  - Friedman, Craig
+AU  - Sandow, Sven
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 541
+EP  - 560
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000828
+KW  - Regression models
+KW  - Model performance measures
+KW  - Relative entropy
+KW  - Expected utility
+KW  - Horse race
+AB  - We measure regression model performance (as perceived by a conservative investor betting on a complete market) via the out-of-sample expected utility for the allocation that maximizes expected utility under a most adverse model-consistent measure. This robust allocation is optimal under the minimum generalized relative entropy (MGRE) measure. We analyze our performance measure in the (practical) case of an investor whose utility function is a member of a three-parameter logarithmic family with a wide range of possible risk aversions. Here, our performance measure is independent of the market prices, and the MGRE measure minimizes the Kullback–Leibler relative entropy.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - CO2
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(05)00196-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605001962
+ER  - 
+
+TY  - JOUR
+T1  - Multi-period stochastic optimization models for dynamic asset allocation
+AU  - Hibiki, Norio
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 365
+EP  - 390
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000695
+KW  - Multi-period model
+KW  - Portfolio optimization
+KW  - Asset allocation
+KW  - Simulation
+KW  - Hybrid model
+AB  - Institutional investors manage their strategic asset mix over time to achieve favorable returns subject to various uncertainties, policy and legal constraints, and other requirements. One may use a multi-period portfolio optimization model in order to determine an optimal asset mix. The concept of scenarios is typically employed for modeling random parameters in a multi-period stochastic programming model, and scenarios are constructed via a tree structure. Recently, an alternative stochastic programming model with simulated paths was proposed by Hibiki [Hibiki, N., 2001b. A hybrid simulation/tree multi-period stochastic programming model for optimal asset allocation. In: Takahashi, H. (Ed.), The Japanese Association of Financial Econometrics and Engineering. JAFEE Journal 89–119 (in Japanese); Hibiki, N., 2003. A hybrid simulation/tree stochastic optimization model for dynamic asset allocation. In: Scherer, B. (Ed.), Asset and Liability Management Tools: A Handbook for Best Practice, Risk Books, pp. 269–294], and it is called a hybrid model. The advantage of the simulated path structure compared to the tree structure is to give a better accuracy to describe uncertainties of asset returns. In this paper, we compare the two types of multi-period stochastic optimization models, and clarify that the hybrid model can evaluate and control risk better than the scenario tree model using some numerical tests. According to the numerical results, an efficient frontier of the hybrid model with the fixed-proportion strategy dominates that of the scenario tree model when we evaluate them on simulated paths. Moreover, optimal solutions of the hybrid model are more appropriate than those of the scenario tree model.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic portfolio selection with process control
+AU  - MacLean, Leonard
+AU  - Zhao, Yonggan
+AU  - Ziemba, William
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 317
+EP  - 339
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000671
+KW  - Dynamic portfolio selection
+KW  - Process control
+KW  - Fractional Kelly strategy
+KW  - Growth and security
+KW  - Risk control strategies
+KW  - Value-at-risk
+KW  - Conditional value-at-risk
+AB  - The risk inherent in the accumulation of investment capital depends on the true return distributions of the risky assets, the accuracy of estimated returns, and the investment strategy. This paper considers risk control with Value-at-Risk and Conditional Value-at-Risk, using control limits to determine times for portfolio rebalancing. Optimal strategies and control limits are determined for a geometric Brownian motion asset pricing model with random parameters. The approaches to risk control are applied to the fundamental problem of investment in stocks, bonds, and cash over time.
+ER  - 
+
+TY  - JOUR
+T1  - Economy-wide bond default rates: A maximum expected utility approach
+AU  - Sandow, Sven
+AU  - Friedman, Craig
+AU  - Gold, Mark
+AU  - Chang, Peter
+JO  - Journal of Banking & Finance
+VL  - 30
+IS  - 2
+SP  - 679
+EP  - 693
+PY  - 2006
+DA  - 2006/02/01/
+T2  - Risk Management and Optimization in Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000890
+KW  - Maximum expected utility
+KW  - Bond default rates
+KW  - Entropy
+AB  - We consider the 12-month moving average aggregate default rate of S&P-rated US-bonds. We estimate the conditional probability distribution of this default rate as a function of a weighted average bond rating, a lagged default rate and a preliminary predictor that is based on lagged new issuance. Our modeling approach is asymptotically optimal for an expected utility maximizing investor. The resulting conditional probability density is consistent with our intuition. We measure the model’s performance by the out-of-sample expected utility. According to this measure, our model clearly outperforms a simple regression model, a regression model with ARMA error terms and a Poisson model.
+ER  - 

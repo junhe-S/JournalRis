@@ -1,0 +1,349 @@
+TY  - JOUR
+T1  - Specification test for panel data models with interactive fixed effects
+AU  - Su, Liangjun
+AU  - Jin, Sainan
+AU  - Zhang, Yonghui
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 222
+EP  - 244
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001729
+KW  - Common factors
+KW  - Conditional strong mixing
+KW  - Cross-sectional dependence
+KW  - Economic growth
+KW  - Interactive fixed effects
+KW  - Linearity
+KW  - Panel data models
+KW  - Specification test
+AB  - In this paper, we propose a consistent nonparametric test for linearity in a large dimensional panel data model with interactive fixed effects. Both lagged dependent variables and conditional heteroskedasticity of unknown form are allowed in the model. We estimate the model under the null hypothesis of linearity to obtain the restricted residuals which are then used to construct the test statistic. We show that after being appropriately centered and standardized, the test statistic is asymptotically normally distributed under both the null hypothesis and a sequence of Pitman local alternatives by using the concept of conditional strong mixing that was recently introduced by Prakasa Rao (2009). To improve the finite sample performance, we propose a bootstrap procedure to obtain the bootstrap p-value. A small set of Monte Carlo simulations illustrates that our test performs well in finite samples. An application to an economic growth panel dataset indicates significant nonlinear relationships between economic growth, initial income level and capital accumulation.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile regression with censoring and endogeneity
+AU  - Chernozhukov, Victor
+AU  - Fernández-Val, Iván
+AU  - Kowalski, Amanda E.
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 201
+EP  - 221
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001717
+AB  - In this paper we develop a new censored quantile instrumental variable (CQIV) estimator and describe its properties and computation. The CQIV estimator combines Powell (1986) censored quantile regression (CQR) to deal with censoring, with a control variable approach to incorporate endogenous regressors. The CQIV estimator is obtained in two stages that are nonadditive in the unobservables. The first stage estimates a nonadditive model with infinite dimensional parameters for the control variable, such as a quantile or distribution regression model. The second stage estimates a nonadditive censored quantile regression model for the response variable of interest, including the estimated control variable to deal with endogeneity. For computation, we extend the algorithm for CQR developed by Chernozhukov and Hong (2002) to incorporate the estimation of the control variable. We give generic regularity conditions for asymptotic normality of the CQIV estimator and for the validity of resampling methods to approximate its asymptotic distribution. We verify these conditions for quantile and distribution regression estimation of the control variable. Our analysis covers two-stage (uncensored) quantile regression with nonadditive first stage as an important special case. We illustrate the computation and applicability of the CQIV estimator with a Monte-Carlo numerical example and an empirical application on estimation of Engel curves for alcohol.
+ER  - 
+
+TY  - JOUR
+T1  - Regression-based analysis of cointegration systems
+AU  - Gomez-Biscarri, Javier
+AU  - Hualde, Javier
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 32
+EP  - 50
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002978
+KW  - Cointegrating space
+KW  - Phillips’ triangular form
+KW  - Johansen’s methodology
+KW  - Regression-based cointegration testing
+AB  - Two estimation procedures dominate the cointegration literature: Johansen’s maximum likelihood inference on vector autoregressive error correction models and estimation of Phillips’ triangular forms. This latter methodology is essentially semiparametric, focusing on estimating long run parameters by means of cointegrating regressions. However, it is less used in practice than Johansen’s approach, since its implementation requires prior knowledge of features such as the cointegrating rank and an appropriate set of non-cointegrated regressors. In this paper we develop a simple and automatic procedure (based on unit root and regression-based cointegration testing) which, without imposing a parametric specification for the short run components of the model, provides an estimator of the cointegrating rank and data-based just-identifying conditions for the cointegrating parameters which lead to a Phillips’ triangular form. A Monte Carlo analysis of the properties of the estimator and an empirical application are also provided.
+ER  - 
+
+TY  - JOUR
+T1  - A general method for third-order bias and variance corrections on a nonlinear estimator
+AU  - Yang, Zhenlin
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 178
+EP  - 200
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001705
+KW  - Third-order bias
+KW  - Third-order variance
+KW  - Bootstrap
+KW  - Concentrated estimating equation
+KW  - Monte Carlo
+KW  - Spatial layout
+KW  - Stochastic expansion
+AB  - Motivated by a recent study of Bao and Ullah (2007a) on finite sample properties of MLE in the pure SAR (spatial autoregressive) model, a general method for third-order bias and variance corrections on a nonlinear estimator is proposed based on stochastic expansion and bootstrap. Working with concentrated estimating equation simplifies greatly the high-order expansions for bias and variance; a simple bootstrap procedure overcomes a major difficulty in analytically evaluating expectations of various quantities in the expansions. The method is then studied in detail using a more general SAR model, with its effectiveness in correcting bias and improving inference fully demonstrated by extensive Monte Carlo experiments. Compared with the analytical approach, the proposed approach is much simpler and has a much wider applicability. The validity of the bootstrap procedure is formally established. The proposed method is then extended to the case of more than one nonlinear estimator.
+ER  - 
+
+TY  - JOUR
+T1  - What is the chance that the equity premium varies over time? Evidence from regressions on the dividend-price ratio
+AU  - Wachter, Jessica A.
+AU  - Warusawitharana, Missaka
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 74
+EP  - 93
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.05.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001407
+KW  - Return predictability
+KW  - Bayesian statistics
+KW  - Model uncertainty
+AB  - We examine the evidence on excess stock return predictability in a Bayesian setting in which the investor faces uncertainty about both the existence and strength of predictability. When we apply our methods to the dividend-price ratio, we find that even investors who are quite skeptical about the existence of predictability sharply modify their views in favor of predictability when confronted by the historical time series of returns and predictor variables. Correctly taking into account the stochastic properties of the regressor has a dramatic impact on inference, particularly over the 2000–2005 period.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotically exact inference in conditional moment inequality models
+AU  - Armstrong, Timothy B.
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 51
+EP  - 65
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000111
+AB  - This paper derives the rate of convergence and asymptotic distribution for a class of Kolmogorov–Smirnov style test statistics for conditional moment inequality models for parameters on the boundary of the identified set under general conditions. Using these results, I propose tests that are more powerful than existing approaches for choosing critical values for this test statistic. I quantify the power improvement by showing that the new tests can detect alternatives that converge to points on the identified set at a faster rate than those detected by existing approaches. A Monte Carlo study confirms that the tests and the asymptotic approximations they use perform well in finite samples. In an application to a regression of prescription drug expenditures on income with interval data from the Health and Retirement Study, confidence regions based on the new tests are substantially tighter than those based on existing methods.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - IFC
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00089-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000895
+ER  - 
+
+TY  - JOUR
+T1  - Nested forecast model comparisons: A new approach to testing equal accuracy
+AU  - Clark, Todd E.
+AU  - McCracken, Michael W.
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 160
+EP  - 177
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001699
+KW  - Mean square error
+KW  - Prediction
+AB  - We develop methods for testing whether, in a finite sample, forecasts from nested models are equally accurate. Most prior work has focused on a null of equal accuracy in population — basically, whether the additional coefficients of the larger model are zero. Our asymptotic approximation instead treats the coefficients as non-zero but small, such that, in a finite sample, forecasts from the small and large models are expected to be equally accurate. We derive the limiting distributions of tests of equal mean square error, and develop a bootstrap for inference. Simulations show that our procedures have good size and power properties.
+ER  - 
+
+TY  - JOUR
+T1  - Asset-pricing anomalies at the firm level
+AU  - Cederburg, Scott
+AU  - O’Doherty, Michael S.
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 113
+EP  - 128
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001456
+KW  - Hierarchical Bayes
+KW  - Factor models
+KW  - Asset-pricing anomalies
+AB  - We introduce a hierarchical Bayes approach to model conditional firm-level alphas as a function of firm characteristics. Our empirical framework is motivated by growing concerns in the literature regarding the reliability of inferences from portfolio-based methods. In our initial tests, we confirm the existence of several CAPM anomalies at the firm level. Prominent multifactor models deliver only a modest improvement, however, as they often resolve only those anomalies which are directly linked to their additional factors. Further results suggest that the economic importance of CAPM anomalies is overstated. We find that anomalies are primarily confined to small stocks, few characteristics are associated with CAPM alphas out of sample, and many firm characteristics do not contain unique information about abnormal returns.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on higher-order spatial autoregressive models with increasingly many parameters
+AU  - Gupta, Abhimanyu
+AU  - Robinson, Peter M.
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 19
+EP  - 31
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400298X
+KW  - Spatial autoregression
+KW  - Increasingly many parameters
+KW  - Central limit theorem
+KW  - Rate of convergence
+KW  - Spatial panel data
+AB  - This paper develops consistency and asymptotic normality of parameter estimates for a higher-order spatial autoregressive model whose order, and number of regressors, are allowed to approach infinity slowly with sample size. Both least squares and instrumental variables estimates are examined, and the permissible rate of growth of the dimension of the parameter space relative to sample size is studied. Besides allowing the number of parameters to increase with the data, this has the advantage of accommodating some asymptotic regimes that are suggested by certain spatial settings, several of which are discussed. A small empirical example is also included, and a Monte Carlo study analyses various implications of the theory in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Bad environments, good environments: A non-Gaussian asymmetric volatility model
+AU  - Bekaert, Geert
+AU  - Engstrom, Eric
+AU  - Ermolov, Andrey
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 258
+EP  - 275
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.021
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400178X
+KW  - Non-Gaussianities
+KW  - GARCH
+KW  - Asymmetric volatility
+KW  - Conditional skewness
+KW  - Risk management
+AB  - We propose an extension of standard asymmetric volatility models in the generalized autoregressive conditional heteroskedasticity (GARCH) class that admits conditional non-Gaussianities in a tractable fashion. Our “bad environment–good environment” (BEGE) model utilizes two gamma-distributed shocks and generates a conditional shock distribution with time-varying heteroskedasticity, skewness, and kurtosis. The BEGE model features nontrivial news impact curves and closed-form solutions for higher-order moments. In an empirical application to stock returns, the BEGE model outperforms asymmetric GARCH and regime-switching models along several dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - A spatial autoregressive model with a nonlinear transformation of the dependent variable
+AU  - Xu, Xingbai
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 1
+EP  - 18
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002954
+KW  - Nonlinear spatial autoregressive model
+KW  - Near-epoch dependence
+KW  - Maximum likelihood
+KW  - Instrumental variables
+KW  - Asymptotic distribution of estimators
+AB  - This paper develops a nonlinear spatial autoregressive model. Of particular interest is a structural interaction model for share data. We consider possible instrumental variable (IV) and maximum likelihood estimation (MLE) for this model, and analyze asymptotic properties of the IV and MLE based on the notion of spatial near-epoch dependence. We also design a statistical test to compare the nonlinear transformation against alternatives. Monte Carlo experiments are designed to investigate finite sample performance of the proposed estimates and the sizes and powers of the test.
+ER  - 
+
+TY  - JOUR
+T1  - Distribution theory of the least squares averaging estimator
+AU  - Liu, Chu-An
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 142
+EP  - 159
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001596
+KW  - Local asymptotic theory
+KW  - Model averaging
+KW  - Model selection
+KW  - Plug-in estimators
+AB  - This paper derives the limiting distributions of least squares averaging estimators for linear regression models in a local asymptotic framework. We show that the averaging estimators with fixed weights are asymptotically normal and then develop a plug-in averaging estimator that minimizes the sample analog of the asymptotic mean squared error. We investigate the focused information criterion (Claeskens and Hjort, 2003), the plug-in averaging estimator, the Mallows model averaging estimator (Hansen, 2007), and the jackknife model averaging estimator (Hansen and Racine, 2012). We find that the asymptotic distributions of averaging estimators with data-dependent weights are nonstandard and cannot be approximated by simulation. To address this issue, we propose a simple procedure to construct valid confidence intervals with improved coverage probability. Monte Carlo simulations show that the plug-in averaging estimator generally has smaller expected squared error than other existing model averaging methods, and the coverage probability of proposed confidence intervals achieves the nominal level. As an empirical illustration, the proposed methodology is applied to cross-country growth regressions.
+ER  - 
+
+TY  - JOUR
+T1  - Revealed preference tests for weak separability: An integer programming approach
+AU  - Cherchye, Laurens
+AU  - Demuynck, Thomas
+AU  - De Rock, Bram
+AU  - Hjertstrand, Per
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 129
+EP  - 141
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001584
+KW  - Weak separability
+KW  - Revealed preference
+KW  - Integer programming
+AB  - We present the revealed preference conditions that characterize the data sets that are consistent with the maximization of a weakly separable utility function. We show that verifying these revealed preference conditions is np-hard. We also present an integer programming approach, which is particularly attractive in view of empirical analysis. We demonstrate the versatility of this integer programming approach by showing that it allows for testing homothetic separability and weak separability of the indirect utility function. We illustrate the practical usefulness of the approach by an empirical application to Spanish household consumption data.
+ER  - 
+
+TY  - JOUR
+T1  - Disentangling the effects of multiple treatments—Measuring the net economic impact of the 1995 great Hanshin-Awaji earthquake
+AU  - Fujiki, Hiroshi
+AU  - Hsiao, Cheng
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 66
+EP  - 73
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002541
+KW  - Multiple treatment effects
+KW  - Panel data
+KW  - Great Hanshin-Awaji earthquake, natural disaster, measurement without theory
+AB  - We propose a panel data approach to disentangle the impact of “one treatment” from the “other treatment” when the observed outcomes are subject to both treatments. We use the Great Hanshin-Awaji earthquake that took place on January 17, 1995 to illustrate our methodology. We find that there were no persistent earthquake effects. The observed persistent effects are due to structural change in Hyogo prefecture.
+ER  - 
+
+TY  - JOUR
+T1  - Empirical likelihood for regression discontinuity design
+AU  - Otsu, Taisuke
+AU  - Xu, Ke-Li
+AU  - Matsushita, Yukitoshi
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 94
+EP  - 112
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001444
+KW  - Empirical likelihood
+KW  - Nonparametric methods
+KW  - Regression discontinuity design
+KW  - Treatment effect
+KW  - Bartlett correction
+AB  - This paper proposes empirical likelihood based inference methods for causal effects identified from regression discontinuity designs. We consider both the sharp and fuzzy regression discontinuity designs and treat the regression functions as nonparametric. The proposed inference procedures do not require asymptotic variance estimation and the confidence sets have natural shapes, unlike the conventional Wald-type method. These features are illustrated by simulations and an empirical example which evaluates the effect of class size on pupils’ scholastic achievements. Furthermore, for the sharp regression discontinuity design, we show that the empirical likelihood statistic admits a higher-order refinement, so-called the Bartlett correction. Bandwidth selection methods are also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - The generalised autocovariance function
+AU  - Proietti, Tommaso
+AU  - Luati, Alessandra
+JO  - Journal of Econometrics
+VL  - 186
+IS  - 1
+SP  - 245
+EP  - 257
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001730
+KW  - Stationary processes
+KW  - Spectral estimation
+KW  - White noise tests
+KW  - Feature matching
+KW  - Discriminant analysis
+AB  - The generalised autocovariance function is defined for a stationary stochastic process as the inverse Fourier transform of the power transformation of the spectral density function. Depending on the value of the transformation parameter, this function nests the inverse and the traditional autocovariance functions. A frequency domain non-parametric estimator based on the power transformation of the pooled periodogram is considered and its asymptotic distribution is derived. The results are employed to construct classes of tests of the white noise hypothesis, for clustering and discrimination of stochastic processes and to introduce a novel feature matching estimator of the spectrum.
+ER  - 

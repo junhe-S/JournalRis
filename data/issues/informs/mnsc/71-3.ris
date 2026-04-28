@@ -1,0 +1,1027 @@
+
+TY  - JOUR
+T1  - Does Mining Fuel Bubbles? An Experimental Study on Cryptocurrency Markets
+AU  - Lambrecht, Marco
+AU  - Sofianos, Andis
+AU  - Xu, Yilong
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.01238
+DO  - 10.1287/mnsc.2022.01238
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1865
+EP  - 1888
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We investigate how key features associated with the Proof-of-Work consensus mechanism of Bitcoin (commonly referred to as mining) affect pricing. In a controlled laboratory experiment, we observe that price bubble formation can be attributed to mining. Moreover, overpricing is more pronounced if the mining capacity is centralized to a small group of individuals. The order book data reveal that miners seem to play a crucial role in bubble formation. Further probing the mechanism in a second study, we find that both mining costs and decisions jointly with the sluggish rate of supply of the asset contribute to the bubble formation. Our results demonstrate that erratic pricing is an inherent feature of cryptocurrencies based on a mining protocol, thus seriously limiting any prospects for such assets becoming a medium of exchange. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: The funding provided by the University of Heidelberg, Hanken Foundation [Grant 271-6250], and Durham University is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01238.
+AB  - We investigate how key features associated with the Proof-of-Work consensus mechanism of Bitcoin (commonly referred to as mining) affect pricing. In a controlled laboratory experiment, we observe that price bubble formation can be attributed to mining. Moreover, overpricing is more pronounced if the mining capacity is centralized to a small group of individuals. The order book data reveal that miners seem to play a crucial role in bubble formation. Further probing the mechanism in a second study, we find that both mining costs and decisions jointly with the sluggish rate of supply of the asset contribute to the bubble formation. Our results demonstrate that erratic pricing is an inherent feature of cryptocurrencies based on a mining protocol, thus seriously limiting any prospects for such assets becoming a medium of exchange. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: The funding provided by the University of Heidelberg, Hanken Foundation [Grant 271-6250], and Durham University is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01238.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01238
+UR  - https://doi.org/10.1287/mnsc.2022.01238
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Pigeonhole Design: Balancing Sequential Experiments from an Online Matching Perspective
+AU  - Zhao, Jinglong
+AU  - Zhou, Zijie
+Y1  - 2024/05/24
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.02184
+DO  - 10.1287/mnsc.2023.02184
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1889
+EP  - 1908
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Practitioners and academics have long appreciated the benefits of covariate balancing when they conduct randomized experiments. For web-facing firms running online A/B tests, however, it still remains challenging in balancing covariate information when experimental subjects arrive sequentially. In this paper, we study an online experimental design problem, which we refer to as the online blocking problem. In this problem, experimental subjects with heterogeneous covariate information arrive sequentially and must be immediately assigned into either the control or the treated group. The objective is to minimize the total discrepancy, which is defined as the minimum weight perfect matching between the two groups. To solve this problem, we propose a randomized design of experiment, which we refer to as the pigeonhole design. The pigeonhole design first partitions the covariate space into smaller spaces, which we refer to as pigeonholes, and then, when the experimental subjects arrive at each pigeonhole, balances the number of control and treated subjects for each pigeonhole. We analyze the theoretical performance of the pigeonhole design and show its effectiveness by comparing against two well-known benchmark designs: the matched-pair design and the completely randomized design. We identify scenarios when the pigeonhole design demonstrates more benefits over the benchmark design. To conclude, we conduct extensive simulations using Yahoo! data to show a 10.2% reduction in variance if we use the pigeonhole design to estimate the average treatment effect. This paper was accepted by George Shanthikumar, data science. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02184.
+AB  - Practitioners and academics have long appreciated the benefits of covariate balancing when they conduct randomized experiments. For web-facing firms running online A/B tests, however, it still remains challenging in balancing covariate information when experimental subjects arrive sequentially. In this paper, we study an online experimental design problem, which we refer to as the online blocking problem. In this problem, experimental subjects with heterogeneous covariate information arrive sequentially and must be immediately assigned into either the control or the treated group. The objective is to minimize the total discrepancy, which is defined as the minimum weight perfect matching between the two groups. To solve this problem, we propose a randomized design of experiment, which we refer to as the pigeonhole design. The pigeonhole design first partitions the covariate space into smaller spaces, which we refer to as pigeonholes, and then, when the experimental subjects arrive at each pigeonhole, balances the number of control and treated subjects for each pigeonhole. We analyze the theoretical performance of the pigeonhole design and show its effectiveness by comparing against two well-known benchmark designs: the matched-pair design and the completely randomized design. We identify scenarios when the pigeonhole design demonstrates more benefits over the benchmark design. To conclude, we conduct extensive simulations using Yahoo! data to show a 10.2% reduction in variance if we use the pigeonhole design to estimate the average treatment effect. This paper was accepted by George Shanthikumar, data science. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02184.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.02184
+UR  - https://doi.org/10.1287/mnsc.2023.02184
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Time Pressure Preferences
+AU  - Buser, Thomas
+AU  - Van Veldhuizen, Roel
+AU  - Zhong, Yang
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.02078
+DO  - 10.1287/mnsc.2023.02078
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1909
+EP  - 1924
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Many professional and educational settings require individuals to be willing and able to perform under time pressure. We use a laboratory experiment and survey data to study preferences for working under time pressure. We make three main contributions. First, we develop an incentivized method to measure preferences for working under time pressure and document that participants in our laboratory experiment are averse to working under time pressure on average. Second, we show that there is substantial heterogeneity in the degree of time pressure aversion across individuals and that these individual preferences can be partially captured by simple survey questions. Third, we include these questions in a survey of bachelor?s degree students and a nationally representative survey panel and show that time pressure preferences predict career choices and income. Our results indicate that individual differences in time pressure aversion could be an influential factor in determining labor market outcomes. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: This work was supported by the Jan Wallander and Tom Hedelius Foundation, European Research Council under the European Union?s Horizon 2020 Research and Innovation Programme [Grant 850590]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02078.
+AB  - Many professional and educational settings require individuals to be willing and able to perform under time pressure. We use a laboratory experiment and survey data to study preferences for working under time pressure. We make three main contributions. First, we develop an incentivized method to measure preferences for working under time pressure and document that participants in our laboratory experiment are averse to working under time pressure on average. Second, we show that there is substantial heterogeneity in the degree of time pressure aversion across individuals and that these individual preferences can be partially captured by simple survey questions. Third, we include these questions in a survey of bachelor?s degree students and a nationally representative survey panel and show that time pressure preferences predict career choices and income. Our results indicate that individual differences in time pressure aversion could be an influential factor in determining labor market outcomes. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: This work was supported by the Jan Wallander and Tom Hedelius Foundation, European Research Council under the European Union?s Horizon 2020 Research and Innovation Programme [Grant 850590]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02078.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.02078
+UR  - https://doi.org/10.1287/mnsc.2023.02078
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Predictive Three-Dimensional Printing of Spare Parts with Internet of Things
+AU  - Song, Jing-Sheng
+AU  - Zhang, Yue
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.00978
+DO  - 10.1287/mnsc.2023.00978
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1925
+EP  - 1943
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Industry 4.0 integrates digital and physical technologies to transform work management, where two core enablers are the internet of things (IoT) and three-dimensional printing (3DP). IoT monitors complex systems in real time, whereas 3DP enables agile manufacturing that can respond to real-time information. However, the details of how these two can be integrated are not yet clear. To gain insights, we consider a scenario where a three-dimensional (3D) printer supplies a critical part to multiple machines that are embedded with sensors and connected through IoT. Although the public perception indicates that this integration would enable on-demand printing, our research suggests that this is not necessarily the case. Instead, the true benefit is the ability to print predictively. In particular, it is typically more effective for the 3D printer to predictively print to stock based on a threshold that depends on the system?s status. We also identify a printing mode called predictive print on demand that allows for minimal inventory, and we find the speed of 3DP to be the primary factor that influences its optimality. Furthermore, we assess the value of IoT in cost reductions by separately analyzing the impact of advance information from embedded sensors and the real-time information fusion through IoT. We find that IoT provides significant value in general. However, the conventional wisdom that IoT?s value scales up for larger systems is suitable only when the expansion is paired with appropriate 3DP capacity. Our framework can help inform investment decisions regarding IoT/embedded sensors and support the development of scheduling tools for predictive 3DP. This paper was accepted by David Simchi-Levi, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00978.
+AB  - Industry 4.0 integrates digital and physical technologies to transform work management, where two core enablers are the internet of things (IoT) and three-dimensional printing (3DP). IoT monitors complex systems in real time, whereas 3DP enables agile manufacturing that can respond to real-time information. However, the details of how these two can be integrated are not yet clear. To gain insights, we consider a scenario where a three-dimensional (3D) printer supplies a critical part to multiple machines that are embedded with sensors and connected through IoT. Although the public perception indicates that this integration would enable on-demand printing, our research suggests that this is not necessarily the case. Instead, the true benefit is the ability to print predictively. In particular, it is typically more effective for the 3D printer to predictively print to stock based on a threshold that depends on the system?s status. We also identify a printing mode called predictive print on demand that allows for minimal inventory, and we find the speed of 3DP to be the primary factor that influences its optimality. Furthermore, we assess the value of IoT in cost reductions by separately analyzing the impact of advance information from embedded sensors and the real-time information fusion through IoT. We find that IoT provides significant value in general. However, the conventional wisdom that IoT?s value scales up for larger systems is suitable only when the expansion is paired with appropriate 3DP capacity. Our framework can help inform investment decisions regarding IoT/embedded sensors and support the development of scheduling tools for predictive 3DP. This paper was accepted by David Simchi-Levi, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00978.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00978
+UR  - https://doi.org/10.1287/mnsc.2023.00978
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - A Benchmark for Collateralized Loan Obligations
+AU  - Elkamhi, Redouane
+AU  - Li, Ruicong
+AU  - Nozawa, Yoshio
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.00097
+DO  - 10.1287/mnsc.2022.00097
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1944
+EP  - 1966
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We build a benchmark for AAA-rated tranches of collateralized loan obligations (CLOs) using business development companies (BDCs), which hold a diversified portfolio of loans as CLOs do. BDCs are publicly listed, and their share price, equity volatility, and borrowing cost can be easily obtained. Applying a structural model to BDCs, we extract market-implied correlation in their loan portfolio, compare spreads on CLO tranches and BDC-implied benchmark, and find that observed large credit spreads on CLO senior tranches after the financial crisis are a fair reflection of the systematic risk of correlated loan defaults. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00097.
+AB  - We build a benchmark for AAA-rated tranches of collateralized loan obligations (CLOs) using business development companies (BDCs), which hold a diversified portfolio of loans as CLOs do. BDCs are publicly listed, and their share price, equity volatility, and borrowing cost can be easily obtained. Applying a structural model to BDCs, we extract market-implied correlation in their loan portfolio, compare spreads on CLO tranches and BDC-implied benchmark, and find that observed large credit spreads on CLO senior tranches after the financial crisis are a fair reflection of the systematic risk of correlated loan defaults. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00097.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00097
+UR  - https://doi.org/10.1287/mnsc.2022.00097
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Credit Market Conditions and Mental Health
+AU  - Hu, Qing
+AU  - Levine, Ross
+AU  - Lin, Chen
+AU  - Tai, Mingzhu
+Y1  - 2024/05/22
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.00194
+DO  - 10.1287/mnsc.2023.00194
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1967
+EP  - 1987
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Research offers conflicting predictions about the impact of credit conditions on mental health. We first assess how bank regulatory reforms that improved credit conditions, for example, by enhancing the efficiency of credit allocation and lowering lending rates, impacted mental health. We discover that among low-income individuals, these regulatory reforms reduced mental depression, boosted labor market outcomes, eased access to mortgage debt, and reduced the ranks of the ?unbanked.? We also find that mergers of large regional banks that led to branch closures and tighter credit constraints in affected counties harmed the mental health of lower-income individuals in treated counties. This paper was accepted by Kay Giesecke, finance. Funding: C. Lin and M. Tai acknowledge financial support from the National Natural Science Foundation of China [Grant 72192841] and the Research Grants Council of the Hong Kong Special Administration Region, China [Project T35/710/20R]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00194.
+AB  - Research offers conflicting predictions about the impact of credit conditions on mental health. We first assess how bank regulatory reforms that improved credit conditions, for example, by enhancing the efficiency of credit allocation and lowering lending rates, impacted mental health. We discover that among low-income individuals, these regulatory reforms reduced mental depression, boosted labor market outcomes, eased access to mortgage debt, and reduced the ranks of the ?unbanked.? We also find that mergers of large regional banks that led to branch closures and tighter credit constraints in affected counties harmed the mental health of lower-income individuals in treated counties. This paper was accepted by Kay Giesecke, finance. Funding: C. Lin and M. Tai acknowledge financial support from the National Natural Science Foundation of China [Grant 72192841] and the Research Grants Council of the Hong Kong Special Administration Region, China [Project T35/710/20R]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00194.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00194
+UR  - https://doi.org/10.1287/mnsc.2023.00194
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Thompson Sampling with Information Relaxation Penalties
+AU  - Min, Seungki
+AU  - Maglaras, Costis
+AU  - Moallemi, Ciamac C.
+Y1  - 2024/05/22
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2020.01396
+DO  - 10.1287/mnsc.2020.01396
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1988
+EP  - 2010
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We consider a finite-horizon multiarmed bandit (MAB) problem in a Bayesian setting, for which we propose an information relaxation sampling framework. With this framework, we define an intuitive family of control policies that include Thompson sampling (TS) and the Bayesian optimal policy as endpoints. Analogous to TS, which at each decision epoch pulls an arm that is best with respect to the randomly sampled parameters, our algorithms sample entire future reward realizations and take the corresponding best action. However, this is done in the presence of ?penalties? that seek to compensate for the availability of future information. We develop several novel policies and performance bounds for MAB problems that vary in terms of improving performance and increasing computational complexity between the two endpoints. Our policies can be viewed as natural generalizations of TS that simultaneously incorporate knowledge of the time horizon and explicitly consider the exploration-exploitation trade-off. We prove associated structural results on performance bounds and suboptimality gaps. Numerical experiments suggest that this new class of policies perform well, in particular, in settings where the finite time horizon introduces significant exploration-exploitation tension into the problem. Finally, inspired by the finite-horizon Gittins index, we propose an index policy that builds on our framework that particularly outperforms the state-of-the-art algorithms in our numerical experiments. This paper was accepted by Hamid Nazerzadeh, data science. Funding: This research was supported by the National Research Foundation of Korea [NRF-2022R1C1C1013402]. Supplemental Material: The electronic companion and data files are available at https://doi.org/10.1287/mnsc.2020.01396.
+AB  - We consider a finite-horizon multiarmed bandit (MAB) problem in a Bayesian setting, for which we propose an information relaxation sampling framework. With this framework, we define an intuitive family of control policies that include Thompson sampling (TS) and the Bayesian optimal policy as endpoints. Analogous to TS, which at each decision epoch pulls an arm that is best with respect to the randomly sampled parameters, our algorithms sample entire future reward realizations and take the corresponding best action. However, this is done in the presence of ?penalties? that seek to compensate for the availability of future information. We develop several novel policies and performance bounds for MAB problems that vary in terms of improving performance and increasing computational complexity between the two endpoints. Our policies can be viewed as natural generalizations of TS that simultaneously incorporate knowledge of the time horizon and explicitly consider the exploration-exploitation trade-off. We prove associated structural results on performance bounds and suboptimality gaps. Numerical experiments suggest that this new class of policies perform well, in particular, in settings where the finite time horizon introduces significant exploration-exploitation tension into the problem. Finally, inspired by the finite-horizon Gittins index, we propose an index policy that builds on our framework that particularly outperforms the state-of-the-art algorithms in our numerical experiments. This paper was accepted by Hamid Nazerzadeh, data science. Funding: This research was supported by the National Research Foundation of Korea [NRF-2022R1C1C1013402]. Supplemental Material: The electronic companion and data files are available at https://doi.org/10.1287/mnsc.2020.01396.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.01396
+UR  - https://doi.org/10.1287/mnsc.2020.01396
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Accessing the Untapped Brand Leverage Potential: A Strategic Framework from a Capital Market View
+AU  - Fischer, Marc
+AU  - Wies, Simone
+Y1  - 2024/05/23
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.00670
+DO  - 10.1287/mnsc.2022.00670
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2011
+EP  - 2034
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Do firms fully capitalize on the financial strength of their customer-based brand equity (CBBE)? If not, how large is the gap to a benchmark condition where CBBE is financially fully leveraged? Which market strategies, if any, should the firm emphasize to close the gap? This research addresses these questions. The authors introduce a framework and methodology that enables firms to identify and measure their ?brand capabilities gap,? which captures the firm?s potential for leveraging CBBE into firm value when the most effective and efficient brand leverage strategy is in place, and, if necessary, take corrective action to realize their brand leverage potential. The authors further examine three market strategy moderators that firms can steer via their marketing programs and tactics to close the brand capabilities gap. The application of the framework and methodology to a wide-ranging sample of firms from 2005 to 2013 reveals that, on average, firms only realize 35% of their financial brand leverage potential. This translates into an average brand capabilities gap worth $2.1 bn per brand, which represents 4.3% of firm value. These findings have important implications for strategic brand analysis and planning and can help firms design a more effective financial brand leverage strategy. This paper was accepted by Raphael Thomadsen, marketing. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.00670.
+AB  - Do firms fully capitalize on the financial strength of their customer-based brand equity (CBBE)? If not, how large is the gap to a benchmark condition where CBBE is financially fully leveraged? Which market strategies, if any, should the firm emphasize to close the gap? This research addresses these questions. The authors introduce a framework and methodology that enables firms to identify and measure their ?brand capabilities gap,? which captures the firm?s potential for leveraging CBBE into firm value when the most effective and efficient brand leverage strategy is in place, and, if necessary, take corrective action to realize their brand leverage potential. The authors further examine three market strategy moderators that firms can steer via their marketing programs and tactics to close the brand capabilities gap. The application of the framework and methodology to a wide-ranging sample of firms from 2005 to 2013 reveals that, on average, firms only realize 35% of their financial brand leverage potential. This translates into an average brand capabilities gap worth $2.1 bn per brand, which represents 4.3% of firm value. These findings have important implications for strategic brand analysis and planning and can help firms design a more effective financial brand leverage strategy. This paper was accepted by Raphael Thomadsen, marketing. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.00670.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00670
+UR  - https://doi.org/10.1287/mnsc.2022.00670
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Digital vs. Traditional Advertising and the Recognition of Brand Intangible Assets
+AU  - Song, Scarlett Xiaotong
+Y1  - 2024/05/23
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.00387
+DO  - 10.1287/mnsc.2022.00387
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2035
+EP  - 2055
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - This paper examines how different advertising categories are associated with attributes of brand asset recognition arising in the context of acquisitions. Prior research documents that aggregate advertising is positively associated with firm sales and brand values, but it fails to consider major recent shifts in advertising from traditional channels (such as TV) to digital advertising (such as paid search and online display). Using proprietary data, I decompose advertising expenditures into the categories of traditional, online display, and paid search. Consistent with expectations, results confirm that target firms? traditional and online display advertising exhibit a higher likelihood of brand asset recognition and higher recognized brand values as compared with paid search advertising. Confirming the economic substance of the recognized brands, additional results reveal positive investor equity market reactions to brand value, which are driven by firms investing more in traditional and online display advertising. Overall, these results confirm that certain advertising channels exhibit stronger associations with the recognition and characteristics of the underlying brand asset, consistent with their heterogeneous properties. This paper was accepted by Suraj Srinivasan, accounting. Funding: I acknowledge the financial support from my advisor, Eddie Riedl, as well as from the UNH Paul College of Business and Economics Summer Research Support Award. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00387.
+AB  - This paper examines how different advertising categories are associated with attributes of brand asset recognition arising in the context of acquisitions. Prior research documents that aggregate advertising is positively associated with firm sales and brand values, but it fails to consider major recent shifts in advertising from traditional channels (such as TV) to digital advertising (such as paid search and online display). Using proprietary data, I decompose advertising expenditures into the categories of traditional, online display, and paid search. Consistent with expectations, results confirm that target firms? traditional and online display advertising exhibit a higher likelihood of brand asset recognition and higher recognized brand values as compared with paid search advertising. Confirming the economic substance of the recognized brands, additional results reveal positive investor equity market reactions to brand value, which are driven by firms investing more in traditional and online display advertising. Overall, these results confirm that certain advertising channels exhibit stronger associations with the recognition and characteristics of the underlying brand asset, consistent with their heterogeneous properties. This paper was accepted by Suraj Srinivasan, accounting. Funding: I acknowledge the financial support from my advisor, Eddie Riedl, as well as from the UNH Paul College of Business and Economics Summer Research Support Award. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00387.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00387
+UR  - https://doi.org/10.1287/mnsc.2022.00387
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Like Stars: How Firms Learn at Scientific Conferences
+AU  - Baruffaldi, Stefano
+AU  - Poege, Felix
+Y1  - 2024/05/24
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.01373
+DO  - 10.1287/mnsc.2022.01373
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2056
+EP  - 2078
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Scientific conferences are an underexplored channel by which firms can learn from science. We provide empirical evidence that firms learn from scientific conferences in which they participate but also that this is conditional on intense participation. Using data from conference papers in computer science since the 1990s, we show that corporate investments in participation are both frequent and highly skewed, with some firms contributing to a given conference scientifically, some as sponsors, and some doing both. We use direct flights as an instrumental variable for the probability that other scientists participate in the same conference as a firm, altering the knowledge set to which the firm is exposed. We find that a firm?s use of scientists? knowledge increases when they participate in the same conferences. Greater participation efforts, where the firm seeks the spotlight by both sponsoring the conference and contributing to its scientific discourse, foretell research collaborations and a stronger learning effect. Such learning is disproportionately concentrated among the most prominent firms and scientists rather than benefitting those without alternative interaction channels. Therefore, on average, firms learn from scientists that they encounter at conferences, but the substantial heterogeneity of the effect reflects the influence of reputation mechanisms in social interactions. This paper was accepted by Ashish Arora, entrepreneurship and innovation. Funding: S. Baruffaldi acknowledges financial support from the Swiss Science National Foundation (Reference No.: P2ELP1-161847). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01373.
+AB  - Scientific conferences are an underexplored channel by which firms can learn from science. We provide empirical evidence that firms learn from scientific conferences in which they participate but also that this is conditional on intense participation. Using data from conference papers in computer science since the 1990s, we show that corporate investments in participation are both frequent and highly skewed, with some firms contributing to a given conference scientifically, some as sponsors, and some doing both. We use direct flights as an instrumental variable for the probability that other scientists participate in the same conference as a firm, altering the knowledge set to which the firm is exposed. We find that a firm?s use of scientists? knowledge increases when they participate in the same conferences. Greater participation efforts, where the firm seeks the spotlight by both sponsoring the conference and contributing to its scientific discourse, foretell research collaborations and a stronger learning effect. Such learning is disproportionately concentrated among the most prominent firms and scientists rather than benefitting those without alternative interaction channels. Therefore, on average, firms learn from scientists that they encounter at conferences, but the substantial heterogeneity of the effect reflects the influence of reputation mechanisms in social interactions. This paper was accepted by Ashish Arora, entrepreneurship and innovation. Funding: S. Baruffaldi acknowledges financial support from the Swiss Science National Foundation (Reference No.: P2ELP1-161847). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01373.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01373
+UR  - https://doi.org/10.1287/mnsc.2022.01373
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Prediction-Driven Surge Planning with Application to Emergency Department Nurse Staffing
+AU  - Hu, Yue
+AU  - Chan, Carri W.
+AU  - Dong, Jing
+Y1  - 2024/05/24
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.02781
+DO  - 10.1287/mnsc.2021.02781
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2079
+EP  - 2126
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Determining emergency department (ED) nurse staffing decisions to balance quality of service and staffing costs can be extremely challenging, especially when there is a high level of uncertainty in patient demand. Increasing data availability and continuing advancements in predictive analytics provide an opportunity to mitigate demand uncertainty by using demand forecasts. In this work, we study a two-stage prediction-driven staffing framework where the prediction models are integrated with the base (made weeks in advance) and surge (made nearly real-time) nurse staffing decisions in the ED. We quantify the benefit of having the ability to use the more expensive surge staffing and identify the importance of balancing demand uncertainty versus system stochasticity. We also propose a near-optimal two-stage staffing policy that is straightforward to interpret and implement. Last, we develop a unified framework that combines parameter estimation, real-time demand forecasts, and nurse staffing in the ED. High-fidelity simulation experiments for the ED demonstrate that the proposed framework has the potential to reduce annual staffing costs by 10%?16% ($2?M?$3?M) while guaranteeing timely access to care. This paper was accepted by David Simchi-Levi, healthcare management. Funding: J. Dong was partially supported by the Division of Civil, Mechanical and Manufacturing Innovation [Grant CMMI-1944209]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.02781.
+AB  - Determining emergency department (ED) nurse staffing decisions to balance quality of service and staffing costs can be extremely challenging, especially when there is a high level of uncertainty in patient demand. Increasing data availability and continuing advancements in predictive analytics provide an opportunity to mitigate demand uncertainty by using demand forecasts. In this work, we study a two-stage prediction-driven staffing framework where the prediction models are integrated with the base (made weeks in advance) and surge (made nearly real-time) nurse staffing decisions in the ED. We quantify the benefit of having the ability to use the more expensive surge staffing and identify the importance of balancing demand uncertainty versus system stochasticity. We also propose a near-optimal two-stage staffing policy that is straightforward to interpret and implement. Last, we develop a unified framework that combines parameter estimation, real-time demand forecasts, and nurse staffing in the ED. High-fidelity simulation experiments for the ED demonstrate that the proposed framework has the potential to reduce annual staffing costs by 10%?16% ($2?M?$3?M) while guaranteeing timely access to care. This paper was accepted by David Simchi-Levi, healthcare management. Funding: J. Dong was partially supported by the Division of Civil, Mechanical and Manufacturing Innovation [Grant CMMI-1944209]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.02781.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02781
+UR  - https://doi.org/10.1287/mnsc.2021.02781
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Gender Promotion Gaps and Career Aspirations
+AU  - Azmat, Ghazala
+AU  - Cuñat, Vicente
+AU  - Henry, Emeric
+Y1  - 2024/05/24
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.00715
+DO  - 10.1287/mnsc.2023.00715
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2127
+EP  - 2141
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Using a representative survey of U.S. lawyers, we document a sizeable gender gap in early partnership aspirations, which explains half of the later gender promotion gap. We further document that the correlation between aspirations and effort provides a ?mechanical link? between aspirations and promotion. Early workplace experiences, such as harassment and demeaning comments, are linked to promotion aspirations. Moreover, early aspirations provide insight into eventual promotion outcomes that goes beyond what can be drawn only from expectations. Our study highlights that measuring aspirations and adapting the corporate culture that shapes them are key components for firms to improve workplace environments. This paper was accepted by Joshua Gans, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00715.
+AB  - Using a representative survey of U.S. lawyers, we document a sizeable gender gap in early partnership aspirations, which explains half of the later gender promotion gap. We further document that the correlation between aspirations and effort provides a ?mechanical link? between aspirations and promotion. Early workplace experiences, such as harassment and demeaning comments, are linked to promotion aspirations. Moreover, early aspirations provide insight into eventual promotion outcomes that goes beyond what can be drawn only from expectations. Our study highlights that measuring aspirations and adapting the corporate culture that shapes them are key components for firms to improve workplace environments. This paper was accepted by Joshua Gans, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00715.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00715
+UR  - https://doi.org/10.1287/mnsc.2023.00715
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Investor-Paid Credit Ratings and Managerial Information Disclosure
+AU  - Li, Wei
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.01914
+DO  - 10.1287/mnsc.2021.01914
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2142
+EP  - 2169
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Unlike issuer-paid credit rating agencies (CRAs), investor-paid CRAs are compensated by investors for providing rating services. Exploiting the staggered timing of rating initiation by an investor-paid rating agency (the Egan Jones Ratings (EJR)), I document that the coverage by EJR increases rated firm managers? voluntary disclosure of negative news. Consistent with EJR?s rating coverage deterring managerial bad news hoarding by informing investors of downside risks, I find that the effect of EJR coverage is more pronounced when issuer-paid CRAs tend to assign inflated ratings and when rated firms? managers have a stronger incentive to conceal bad news. I also document that firms unwind upward earnings management after being covered by EJR. In contrast, coverage by an issuer-paid CRA (Standard & Poor?s) is not associated with changes in managerial information disclosure. I conclude that investor-paid CRAs function as a type of effective information intermediary to discipline firm managers and improve corporate transparency. This paper was accepted by Brian Bushee, accounting. Funding: The author acknowledge financial support from the MOE Project of the Key Research Institute of Humanities and Social Science in University [Grants 22JJD790093 and 22JJD790094], the Program for Innovative Research Team of Shanghai University of Finance and Economics, and the 111 Project [Grant B18033]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.01914.
+AB  - Unlike issuer-paid credit rating agencies (CRAs), investor-paid CRAs are compensated by investors for providing rating services. Exploiting the staggered timing of rating initiation by an investor-paid rating agency (the Egan Jones Ratings (EJR)), I document that the coverage by EJR increases rated firm managers? voluntary disclosure of negative news. Consistent with EJR?s rating coverage deterring managerial bad news hoarding by informing investors of downside risks, I find that the effect of EJR coverage is more pronounced when issuer-paid CRAs tend to assign inflated ratings and when rated firms? managers have a stronger incentive to conceal bad news. I also document that firms unwind upward earnings management after being covered by EJR. In contrast, coverage by an issuer-paid CRA (Standard & Poor?s) is not associated with changes in managerial information disclosure. I conclude that investor-paid CRAs function as a type of effective information intermediary to discipline firm managers and improve corporate transparency. This paper was accepted by Brian Bushee, accounting. Funding: The author acknowledge financial support from the MOE Project of the Key Research Institute of Humanities and Social Science in University [Grants 22JJD790093 and 22JJD790094], the Program for Innovative Research Team of Shanghai University of Finance and Economics, and the 111 Project [Grant B18033]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.01914.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01914
+UR  - https://doi.org/10.1287/mnsc.2021.01914
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Stars in Their Constellations: Great Person or Great Team?
+AU  - Mindruta, Denisa
+AU  - Bercovitz, Janet
+AU  - Mares, Vlad
+AU  - Feldman, Maryann
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.01969
+DO  - 10.1287/mnsc.2021.01969
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2170
+EP  - 2191
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Although much attention is accorded to star performers, this paper considers the extent to which stars, themselves, benefit from the contribution of their collaborators (the constellation). By considering stars, constellations, and the synergies between them, we address a key question: To what extent is collaboration performance driven by the great individual or by great constellations? We introduce a novel approach that uses a matching model to uncover the complementarities driving collaboration formation. We use formal value-capture theory to estimate the relative contribution of stars and constellations to joint value creation. Analyzing a sample of academic research collaborations, we document that stars? relative contribution exceeds that of their constellations in less than 15% of collaborations, although constellations provide a greater relative contribution in 9%. In most collaborations, neither party dominates: Innovation is a collective endeavor driven equally by the star and the constellation. Joint value creation and relative contribution are explained by the subtle interplay between complementarities in joint work and the substitutability of collaborative parties in the market. Joint value creation increases with the strength of complementarities between parties in a match. Relative value creation, and hence dominance, increases with the substitutability of one?s collaborative partner. Interestingly, joint value creation is greatest in collaborations where both stars and constellations offer bundles of rare attributes and where neither the star nor the constellation dominates. This paper was accepted by Olav Sorenson, organizations. Funding: D. Mindruta gratefully acknowledges funding from the HEC Foundation and from the French National Research Agency (ANR) ?Investissements d?Avenir? (LabEx Ecodec/ANR-11-LABX-0047). J. Bercovitz and M. Feldman gratefully acknowledge funding from the Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SCISIPBIO) program of the U.S. National Science Foundation (NSF) [Grant 1934875]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2021.01969.
+AB  - Although much attention is accorded to star performers, this paper considers the extent to which stars, themselves, benefit from the contribution of their collaborators (the constellation). By considering stars, constellations, and the synergies between them, we address a key question: To what extent is collaboration performance driven by the great individual or by great constellations? We introduce a novel approach that uses a matching model to uncover the complementarities driving collaboration formation. We use formal value-capture theory to estimate the relative contribution of stars and constellations to joint value creation. Analyzing a sample of academic research collaborations, we document that stars? relative contribution exceeds that of their constellations in less than 15% of collaborations, although constellations provide a greater relative contribution in 9%. In most collaborations, neither party dominates: Innovation is a collective endeavor driven equally by the star and the constellation. Joint value creation and relative contribution are explained by the subtle interplay between complementarities in joint work and the substitutability of collaborative parties in the market. Joint value creation increases with the strength of complementarities between parties in a match. Relative value creation, and hence dominance, increases with the substitutability of one?s collaborative partner. Interestingly, joint value creation is greatest in collaborations where both stars and constellations offer bundles of rare attributes and where neither the star nor the constellation dominates. This paper was accepted by Olav Sorenson, organizations. Funding: D. Mindruta gratefully acknowledges funding from the HEC Foundation and from the French National Research Agency (ANR) ?Investissements d?Avenir? (LabEx Ecodec/ANR-11-LABX-0047). J. Bercovitz and M. Feldman gratefully acknowledge funding from the Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SCISIPBIO) program of the U.S. National Science Foundation (NSF) [Grant 1934875]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2021.01969.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01969
+UR  - https://doi.org/10.1287/mnsc.2021.01969
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Technological Changes and Countries’ Tax Policy Design: Evidence from Anti–Tax Avoidance Rules
+AU  - Brühne, Alissa I.
+AU  - Jacob, Martin
+AU  - Schütt, Harm H.
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.03955
+DO  - 10.1287/mnsc.2021.03955
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2192
+EP  - 2215
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We investigate the association between technological changes and corporate tax policies in 34 OECD countries between 1996 and 2016. We use a shift-share design to capture the differential exposure of countries to U.S. technological advancements. Our study shows that countries? antitax avoidance rules are tightened as their exposure to U.S. technological advancements increases. The tightening is particularly concentrated in countries that are larger, more exposed to intangibles, and have higher profit shifting incentives. Our findings have important implications for corporate executives as a country?s anti?tax avoidance rules are associated with foreign technological advancements. This paper was accepted by Eric So, accounting. Funding: A. I. Brühne and M. Jacob acknowledge funding by the Deutsche Forschungsgemeinschaft [Project-ID 403041268?TRR 266 Accounting for Transparency]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03955.
+AB  - We investigate the association between technological changes and corporate tax policies in 34 OECD countries between 1996 and 2016. We use a shift-share design to capture the differential exposure of countries to U.S. technological advancements. Our study shows that countries? antitax avoidance rules are tightened as their exposure to U.S. technological advancements increases. The tightening is particularly concentrated in countries that are larger, more exposed to intangibles, and have higher profit shifting incentives. Our findings have important implications for corporate executives as a country?s anti?tax avoidance rules are associated with foreign technological advancements. This paper was accepted by Eric So, accounting. Funding: A. I. Brühne and M. Jacob acknowledge funding by the Deutsche Forschungsgemeinschaft [Project-ID 403041268?TRR 266 Accounting for Transparency]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03955.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03955
+UR  - https://doi.org/10.1287/mnsc.2021.03955
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The International Commonality of Idiosyncratic Variances
+AU  - Bekaert, Geert
+AU  - Wang, Xue
+AU  - Zhang, Xiaoyan
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.01398
+DO  - 10.1287/mnsc.2022.01398
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2216
+EP  - 2244
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We document strong global commonality in country idiosyncratic return variances across 23 developed markets, which is stronger than international return commonality. The global common factor of idiosyncratic return variances is highly correlated with that of idiosyncratic cash flow variances and is also significantly related to variables capturing aggregate discount rate variation and the conditional market variance. Furthermore, aggregate idiosyncratic return and cash flow variances are mostly but not always countercyclical. This paper was accepted by Kay Giesecke, finance. Funding: X. Zhang acknowledges financial support from the National Natural Science Foundation of China [Grant 72350710220] and the Beijing Natural Science Foundation [Grant IS23127]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01398.
+AB  - We document strong global commonality in country idiosyncratic return variances across 23 developed markets, which is stronger than international return commonality. The global common factor of idiosyncratic return variances is highly correlated with that of idiosyncratic cash flow variances and is also significantly related to variables capturing aggregate discount rate variation and the conditional market variance. Furthermore, aggregate idiosyncratic return and cash flow variances are mostly but not always countercyclical. This paper was accepted by Kay Giesecke, finance. Funding: X. Zhang acknowledges financial support from the National Natural Science Foundation of China [Grant 72350710220] and the Beijing Natural Science Foundation [Grant IS23127]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01398.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01398
+UR  - https://doi.org/10.1287/mnsc.2022.01398
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Strategic Behavior with Tight, Loose, and Polarized Norms
+AU  - Dimant, Eugen
+AU  - Gelfand, Michele
+AU  - Hochleitner, Anna
+AU  - Sonderegger, Silvia
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.01022
+DO  - 10.1287/mnsc.2023.01022
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2245
+EP  - 2263
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Descriptive norms, the behavior of other individuals in one?s reference group, play a key role in shaping individual decisions in managerial contexts and beyond. Organizations are increasingly using information about descriptive norms to nudge positive behavior change. When characterizing peer decisions, a standard approach in the literature is to focus on average behavior. In this paper, we argue both theoretically and empirically that not only averages but also the shape of the whole distribution of behavior can play a crucial role in how people react to descriptive norms. Using a representative sample of the U.S. population, we experimentally investigate how individuals react to strategic environments that are characterized by different distributions of behavior, focusing on the distinction between tight (i.e., characterized by low behavioral variance), loose (i.e., characterized by high behavioral variance), and polarized (i.e., characterized by u-shaped behavior) environments. We find that individuals indeed strongly respond to differences in the variance and shape of the descriptive norm they are facing: Loose norms generate greater behavioral variance and polarization generates polarized responses. In polarized environments, most individuals prefer extreme actions, which expose them to considerable strategic risk, to intermediate actions that minimize such risk. Furthermore, in polarized and loose environments, personal traits and values play a larger role in determining actual behavior. These nuances of how individuals react to different types of descriptive norms have important implications for company culture, productivity, and organizational effectiveness alike. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: This work was supported by the German Research Foundation under Germany?s Excellence Strategy [EXC 2126/1?390838866]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01022.
+AB  - Descriptive norms, the behavior of other individuals in one?s reference group, play a key role in shaping individual decisions in managerial contexts and beyond. Organizations are increasingly using information about descriptive norms to nudge positive behavior change. When characterizing peer decisions, a standard approach in the literature is to focus on average behavior. In this paper, we argue both theoretically and empirically that not only averages but also the shape of the whole distribution of behavior can play a crucial role in how people react to descriptive norms. Using a representative sample of the U.S. population, we experimentally investigate how individuals react to strategic environments that are characterized by different distributions of behavior, focusing on the distinction between tight (i.e., characterized by low behavioral variance), loose (i.e., characterized by high behavioral variance), and polarized (i.e., characterized by u-shaped behavior) environments. We find that individuals indeed strongly respond to differences in the variance and shape of the descriptive norm they are facing: Loose norms generate greater behavioral variance and polarization generates polarized responses. In polarized environments, most individuals prefer extreme actions, which expose them to considerable strategic risk, to intermediate actions that minimize such risk. Furthermore, in polarized and loose environments, personal traits and values play a larger role in determining actual behavior. These nuances of how individuals react to different types of descriptive norms have important implications for company culture, productivity, and organizational effectiveness alike. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: This work was supported by the German Research Foundation under Germany?s Excellence Strategy [EXC 2126/1?390838866]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01022.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01022
+UR  - https://doi.org/10.1287/mnsc.2023.01022
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Dispersion on the Informativeness of Consensus Analyst Target Prices
+AU  - Palley, Asa B.
+AU  - Steffen, Thomas D.
+AU  - Zhang, X. Frank
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.03549
+DO  - 10.1287/mnsc.2021.03549
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2264
+EP  - 2288
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Consensus analyst target prices are widely available online at no cost to investors. In this paper, we examine how the amount of dispersion in the individual target prices comprising the consensus affects the predictive association between the consensus target price and future returns. We find that returns implied by consensus target prices and realized future returns are positively correlated when dispersion is low, but they become highly negatively correlated when dispersion is high. Further analyses suggest that the differing effect of dispersion stems from incentive-driven staleness in price targets by some analysts after bad news. As a stock performs poorly and some analysts are slow to update their target prices, dispersion increases, and the consensus target price becomes too high. This has important implications for how consensus analyst target prices should inform investment decisions. We show that a hedge strategy taking a long (short) position in stocks with the highest predicted returns among stocks with the lowest (highest) dispersion earns more than 11% annually. Finally, we show that the negative correlation between consensus-based predicted returns and future realized returns for high-dispersion stocks exists mainly for stocks with high retail interest, suggesting that unsophisticated investors are misled by inflated target prices that are available freely online. This paper was accepted by Suraj Srinivasan, accounting. Funding: The authors acknowledge financial support from Indiana University and Yale University. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.03549.
+AB  - Consensus analyst target prices are widely available online at no cost to investors. In this paper, we examine how the amount of dispersion in the individual target prices comprising the consensus affects the predictive association between the consensus target price and future returns. We find that returns implied by consensus target prices and realized future returns are positively correlated when dispersion is low, but they become highly negatively correlated when dispersion is high. Further analyses suggest that the differing effect of dispersion stems from incentive-driven staleness in price targets by some analysts after bad news. As a stock performs poorly and some analysts are slow to update their target prices, dispersion increases, and the consensus target price becomes too high. This has important implications for how consensus analyst target prices should inform investment decisions. We show that a hedge strategy taking a long (short) position in stocks with the highest predicted returns among stocks with the lowest (highest) dispersion earns more than 11% annually. Finally, we show that the negative correlation between consensus-based predicted returns and future realized returns for high-dispersion stocks exists mainly for stocks with high retail interest, suggesting that unsophisticated investors are misled by inflated target prices that are available freely online. This paper was accepted by Suraj Srinivasan, accounting. Funding: The authors acknowledge financial support from Indiana University and Yale University. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.03549.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03549
+UR  - https://doi.org/10.1287/mnsc.2021.03549
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Who Lends Before Banking Crises? Evidence from the International Syndicated Loan Market
+AU  - Giannetti, Mariassunta
+AU  - Jang, YeeJin
+Y1  - 2024/05/30
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.03505
+DO  - 10.1287/mnsc.2022.03505
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2289
+EP  - 2310
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Existing studies assume that all lenders have similar incentives to take on risks during different phases of the lending cycle. We show that foreign lenders and low market share lenders extend more credit in comparison with other lenders during lending booms leading to banking crises but not during other credit expansions. These less established lenders also shorten loan maturity and increase the amount of credit they extend to riskier borrowers without asking for collateral or imposing covenants and higher interest rates. Our results suggest that foreign lenders and low market share lenders contribute disproportionately to credit misallocation and risk accumulation in precrisis periods. This paper was accepted by Victoria Ivashina, finance. Funding: M. Giannetti acknowledges financial support from the Bank of Sweden Tercentenary Foundation [P16-0328] and Jan Wallanders och Tom Hedelius stiftelse [P20-0127]. Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03505.
+AB  - Existing studies assume that all lenders have similar incentives to take on risks during different phases of the lending cycle. We show that foreign lenders and low market share lenders extend more credit in comparison with other lenders during lending booms leading to banking crises but not during other credit expansions. These less established lenders also shorten loan maturity and increase the amount of credit they extend to riskier borrowers without asking for collateral or imposing covenants and higher interest rates. Our results suggest that foreign lenders and low market share lenders contribute disproportionately to credit misallocation and risk accumulation in precrisis periods. This paper was accepted by Victoria Ivashina, finance. Funding: M. Giannetti acknowledges financial support from the Bank of Sweden Tercentenary Foundation [P16-0328] and Jan Wallanders och Tom Hedelius stiftelse [P20-0127]. Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03505.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03505
+UR  - https://doi.org/10.1287/mnsc.2022.03505
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Forgetful Consumers and Consumption Tracking
+AU  - Bao, Ying
+AU  - Landry, Peter
+AU  - Shi, Mengze
+Y1  - 2024/05/31
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.00522
+DO  - 10.1287/mnsc.2023.00522
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2311
+EP  - 2331
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We study the market consequences of advances in consumption tracking technologies?such as mobile banking apps that help consumers monitor their spending and avoid overdrawn accounts?using a two-period consumption model. In the model, consumers pay a penalty fee if they consume in both periods. In the second period, consumers may be forgetful of their first-period consumption, although the use of consumption tracking can remind them. According to our analysis, the availability of consumption tracking often helps consumers at the expense of the firm; such benefits may be direct, where consumers make use of the technology to avoid penalty fees, or indirect, where the mere availability of consumption tracking forces the firm to lower its penalty fee. If consumers are partially sophisticated regarding their forgetfulness, however, the availability of consumption tracking may instill a false sense of security in that consumers expect to use consumption tracking to avoid penalty fees but ultimately, decide not to bother, making them especially susceptible to penalty fees. In some cases, the availability of consumption tracking may actually compel a firm to impose a penalty fee that would not otherwise be viable, leading to higher profits and lower consumer surplus. As we show, this scenario is attained within an intermediate range of forgetfulness and at a level of (partial) sophistication for which consumers overestimate their demand for the technology. This paper was accepted by Dmitri Kuksov, marketing. Funding: M. Shi appreciates financial support from HKUST Yuk-Shee Chan Professorship Fund and China NSF [Grant 72272036]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.00522.
+AB  - We study the market consequences of advances in consumption tracking technologies?such as mobile banking apps that help consumers monitor their spending and avoid overdrawn accounts?using a two-period consumption model. In the model, consumers pay a penalty fee if they consume in both periods. In the second period, consumers may be forgetful of their first-period consumption, although the use of consumption tracking can remind them. According to our analysis, the availability of consumption tracking often helps consumers at the expense of the firm; such benefits may be direct, where consumers make use of the technology to avoid penalty fees, or indirect, where the mere availability of consumption tracking forces the firm to lower its penalty fee. If consumers are partially sophisticated regarding their forgetfulness, however, the availability of consumption tracking may instill a false sense of security in that consumers expect to use consumption tracking to avoid penalty fees but ultimately, decide not to bother, making them especially susceptible to penalty fees. In some cases, the availability of consumption tracking may actually compel a firm to impose a penalty fee that would not otherwise be viable, leading to higher profits and lower consumer surplus. As we show, this scenario is attained within an intermediate range of forgetfulness and at a level of (partial) sophistication for which consumers overestimate their demand for the technology. This paper was accepted by Dmitri Kuksov, marketing. Funding: M. Shi appreciates financial support from HKUST Yuk-Shee Chan Professorship Fund and China NSF [Grant 72272036]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.00522.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00522
+UR  - https://doi.org/10.1287/mnsc.2023.00522
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Information Search Within a Web Page: Modeling the Full Sequence of Eye Movement Decisions, Subjective Value Updating, and First Clicks
+AU  - Lu, Joy
+AU  - Hutchinson, J. Wesley
+Y1  - 2024/06/03
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.02983
+DO  - 10.1287/mnsc.2022.02983
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2332
+EP  - 2359
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Online retail settings often present shoppers with large, complex choice sets where they need to quickly and dynamically weigh the benefits and costs of search within each web page. We build a model of information search within a web page using eye-tracking data collected during two incentive-compatible online shopping experiments, in which participants browsed the websites of two different clothing retailers (Experiments 1 and 2), as well as previously reported data from a laboratory experiment involving choices among snack food assortments (Experiment 3). Our model incorporates features that build upon recent advances in descriptive and normative models of information sampling and search in psychology and economics. First, our model captures how people decide where to look by treating eye fixations on clickable options as a series of ?split-second? decisions that depend on estimates of option attractiveness and navigation effort. Second, our model assumes that the value of each option is learned via Bayesian updating. Third, the choice to end search on the web page depends on a dynamic decision threshold. Our model outperforms benchmarks that assume random search, instant learning, fixed thresholds, nonheterogeneous thresholds, and stochastic accumulator stopping rules. Explicitly modeling the sequence of eye fixation decisions results in accurate counterfactual simulations of the effects of hypothetical product orderings on search duration and quality as verified using experimental manipulation, and it can be applied flexibly to a wide range of web-page layouts. Systematic differences across experiments highlight the importance of accounting for product familiarity, choice-set size, and the role of category outside options. This paper was accepted by Ilia Tsetlin, behavioral economics and decision analysis. Funding: This work was supported by the Jay H. Baker Retailing Center and the Wharton Behavioral Lab at the University of Pennsylvania. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02983.
+AB  - Online retail settings often present shoppers with large, complex choice sets where they need to quickly and dynamically weigh the benefits and costs of search within each web page. We build a model of information search within a web page using eye-tracking data collected during two incentive-compatible online shopping experiments, in which participants browsed the websites of two different clothing retailers (Experiments 1 and 2), as well as previously reported data from a laboratory experiment involving choices among snack food assortments (Experiment 3). Our model incorporates features that build upon recent advances in descriptive and normative models of information sampling and search in psychology and economics. First, our model captures how people decide where to look by treating eye fixations on clickable options as a series of ?split-second? decisions that depend on estimates of option attractiveness and navigation effort. Second, our model assumes that the value of each option is learned via Bayesian updating. Third, the choice to end search on the web page depends on a dynamic decision threshold. Our model outperforms benchmarks that assume random search, instant learning, fixed thresholds, nonheterogeneous thresholds, and stochastic accumulator stopping rules. Explicitly modeling the sequence of eye fixation decisions results in accurate counterfactual simulations of the effects of hypothetical product orderings on search duration and quality as verified using experimental manipulation, and it can be applied flexibly to a wide range of web-page layouts. Systematic differences across experiments highlight the importance of accounting for product familiarity, choice-set size, and the role of category outside options. This paper was accepted by Ilia Tsetlin, behavioral economics and decision analysis. Funding: This work was supported by the Jay H. Baker Retailing Center and the Wharton Behavioral Lab at the University of Pennsylvania. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02983.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02983
+UR  - https://doi.org/10.1287/mnsc.2022.02983
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Innovation Strategy After IPO: How AI Analytics Spurs Innovation After IPO
+AU  - Wu, Lynn
+AU  - Lou, Bowen
+AU  - Hitt, Lorin M.
+Y1  - 2024/06/05
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.01559
+DO  - 10.1287/mnsc.2022.01559
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2360
+EP  - 2389
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We examine the role of AI analytics in facilitating innovation in firms that have gone through IPO. Using patent data on over 1,000 publicly traded firms, we find that firms acquiring AI analytics capability post-IPO experience less of a decline in innovation quality compared with similar firms that have not acquired that capability. This effect is greater when only machine learning capabilities are considered. Moreover, we find this sustained rate of innovation is driven principally by the continued development of innovations that combine existing technologies into new ones?a form of innovation that is especially well supported by analytics. By examining three main mechanisms that hampered post-IPO innovation, we find that AI analytics can ameliorate the pressure to meet short-term financial goals and disclosure requirements. However, it has limited effect in addressing managerial incentives. For firms with long product cycles, the disclosure effect is reduced to a greater extent than it is for those with short cycles. Overall, our results show the importance of examining technology as a critical input factor in innovation. We show that the increased deployment of AI analytics may reduce some of the innovative penalties suffered by IPOs and that investors and managers can potentially mitigate post-IPO reductions in innovative output by directing capital acquired in the IPO process to the acquisition of AI analytics capabilities. This paper was accepted by D. J. Wu, information systems. Funding: The authors appreciate the generous financial support from Wharton Dean?s Research Fund and Mack Institute for Innovation Management. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.01559.
+AB  - We examine the role of AI analytics in facilitating innovation in firms that have gone through IPO. Using patent data on over 1,000 publicly traded firms, we find that firms acquiring AI analytics capability post-IPO experience less of a decline in innovation quality compared with similar firms that have not acquired that capability. This effect is greater when only machine learning capabilities are considered. Moreover, we find this sustained rate of innovation is driven principally by the continued development of innovations that combine existing technologies into new ones?a form of innovation that is especially well supported by analytics. By examining three main mechanisms that hampered post-IPO innovation, we find that AI analytics can ameliorate the pressure to meet short-term financial goals and disclosure requirements. However, it has limited effect in addressing managerial incentives. For firms with long product cycles, the disclosure effect is reduced to a greater extent than it is for those with short cycles. Overall, our results show the importance of examining technology as a critical input factor in innovation. We show that the increased deployment of AI analytics may reduce some of the innovative penalties suffered by IPOs and that investors and managers can potentially mitigate post-IPO reductions in innovative output by directing capital acquired in the IPO process to the acquisition of AI analytics capabilities. This paper was accepted by D. J. Wu, information systems. Funding: The authors appreciate the generous financial support from Wharton Dean?s Research Fund and Mack Institute for Innovation Management. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.01559.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01559
+UR  - https://doi.org/10.1287/mnsc.2022.01559
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Insider Trading Restrictions and Informed Trading in Peer Stocks
+AU  - Deuskar, Prachi
+AU  - Khatri, Aditi
+AU  - Sunder, Jayanthi
+Y1  - 2024/06/05
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.02907
+DO  - 10.1287/mnsc.2022.02907
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2390
+EP  - 2412
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Using a uniquely constructed data set of trades by corporate insiders in all stocks, we find that, after insider trading regulations become stricter, insiders are 20% more likely to trade in peer stocks and that such trades become more profitable. The increase in both the probability and profitability of peer-stock trades is driven by the insider?s information that is fungible to industry peers. Stricter insider trading laws are designed to improve liquidity and price informativeness in capital markets. We show that peer trading dampens these intended benefits of the insider trading regulation. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by NSE-NYU Stern Initiative on the Study of Indian Financial Markets. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02907.
+AB  - Using a uniquely constructed data set of trades by corporate insiders in all stocks, we find that, after insider trading regulations become stricter, insiders are 20% more likely to trade in peer stocks and that such trades become more profitable. The increase in both the probability and profitability of peer-stock trades is driven by the insider?s information that is fungible to industry peers. Stricter insider trading laws are designed to improve liquidity and price informativeness in capital markets. We show that peer trading dampens these intended benefits of the insider trading regulation. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by NSE-NYU Stern Initiative on the Study of Indian Financial Markets. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02907.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02907
+UR  - https://doi.org/10.1287/mnsc.2022.02907
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Number Processing Constraints and Earnings News
+AU  - Karolyi, Stephen
+AU  - Ruchti, Thomas
+AU  - Truong, Phong
+Y1  - 2024/06/05
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.01722
+DO  - 10.1287/mnsc.2023.01722
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2413
+EP  - 2442
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Neuroscience shows that human brains are neurologically constrained to process small numbers linearly and large numbers logarithmically, leading to underreactions to larger numbers as their perceived difference becomes smaller. We test this hypothesis in the context of earnings announcements and find that investors respond less in the short term to earnings news for stocks with high earnings per share magnitudes, exacerbating postearnings announcement drift for these stocks. These findings are distinct from and incremental to several risk-based and behavioral explanations, attenuated by robot presence and present in a quasi-experimental design using stock splits. Our evidence suggests that number processing constraints have implications for stock price efficiency. This paper was accepted by Will Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01722.
+AB  - Neuroscience shows that human brains are neurologically constrained to process small numbers linearly and large numbers logarithmically, leading to underreactions to larger numbers as their perceived difference becomes smaller. We test this hypothesis in the context of earnings announcements and find that investors respond less in the short term to earnings news for stocks with high earnings per share magnitudes, exacerbating postearnings announcement drift for these stocks. These findings are distinct from and incremental to several risk-based and behavioral explanations, attenuated by robot presence and present in a quasi-experimental design using stock splits. Our evidence suggests that number processing constraints have implications for stock price efficiency. This paper was accepted by Will Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01722.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01722
+UR  - https://doi.org/10.1287/mnsc.2023.01722
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Estimating Career Benefits from Online Community Leadership: Evidence from Stack Exchange Moderators
+AU  - Forderer, Jens
+AU  - Burtch, Gordon
+Y1  - 2024/06/05
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2019.03252
+DO  - 10.1287/mnsc.2019.03252
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2443
+EP  - 2466
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Many IT professionals seek to improve their job prospects by engaging as leaders of online communities, for example, by serving as a moderator or admin. We investigate whether such community leadership leads to (causal) improvements in individuals? careers. We assemble a data set, including job histories of IT professionals who have sought election as moderators (mods) in Stack Exchange question-and-answer communities, between 2010 and 2020. We estimate the career benefits of moderatorship under two complementary identification strategies: difference-in-differences (DID) and regression discontinuity (RD). We observe qualitatively consistent results under each design, finding that election to a moderator role has a significant, causal, positive effect on job mobility. We estimate that moderatorship increases the probability of a job change by between 4.7 and 12.3 percentage points over the two years following the election. We also report a series of secondary analyses that speak to associated salary increases and show evidence consistent with the notion that social capital and signaling play a role. Our findings help us understand the benefits of online community leadership, and they extend our understanding of the motivations for online community engagement. This paper was accepted by Chris Forman, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2019.03252.
+AB  - Many IT professionals seek to improve their job prospects by engaging as leaders of online communities, for example, by serving as a moderator or admin. We investigate whether such community leadership leads to (causal) improvements in individuals? careers. We assemble a data set, including job histories of IT professionals who have sought election as moderators (mods) in Stack Exchange question-and-answer communities, between 2010 and 2020. We estimate the career benefits of moderatorship under two complementary identification strategies: difference-in-differences (DID) and regression discontinuity (RD). We observe qualitatively consistent results under each design, finding that election to a moderator role has a significant, causal, positive effect on job mobility. We estimate that moderatorship increases the probability of a job change by between 4.7 and 12.3 percentage points over the two years following the election. We also report a series of secondary analyses that speak to associated salary increases and show evidence consistent with the notion that social capital and signaling play a role. Our findings help us understand the benefits of online community leadership, and they extend our understanding of the motivations for online community engagement. This paper was accepted by Chris Forman, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2019.03252.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.03252
+UR  - https://doi.org/10.1287/mnsc.2019.03252
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Operational Data Analytics (ODA) for Service Speed Design
+AU  - Feng, Qi
+AU  - Jiang, Zhibin
+AU  - Liu, Jue
+AU  - Shanthikumar, J. George
+AU  - Yang, Yang
+Y1  - 2024/06/05
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.00655
+DO  - 10.1287/mnsc.2023.00655
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2467
+EP  - 2486
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We develop the operational data analytics (ODA) framework for the classical service design problem of G / G / c / k systems. The customer arrival rate is unknown. Instead, some historical data of interarrival times are collected. The data-integration model, specifying the mapping from the arrival data to the service rate, is formulated based on the time-scaling property of the stochastic service process. Validating the data-integration model against the long-run average service reward leads to a uniformly optimal service rate for any given sample size. We further derive the ODA-predicted reward function based on the data-integration model, which gives a consistent estimate of the underlying reward function. Our numerical experiments show that the ODA framework can lead to an efficient design of service rate and service capacity, which is insensitive to model specification. The ODA solution exhibits superior performance compared with the conventional estimation-and-then-optimization solutions in the small sample regime. This paper was accepted by David Simchi-Levi, operations management. Funding: Z. Jiang?s research is supported by the National Natural Science Foundation of China [Grant 71931007]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.00655.
+AB  - We develop the operational data analytics (ODA) framework for the classical service design problem of G / G / c / k systems. The customer arrival rate is unknown. Instead, some historical data of interarrival times are collected. The data-integration model, specifying the mapping from the arrival data to the service rate, is formulated based on the time-scaling property of the stochastic service process. Validating the data-integration model against the long-run average service reward leads to a uniformly optimal service rate for any given sample size. We further derive the ODA-predicted reward function based on the data-integration model, which gives a consistent estimate of the underlying reward function. Our numerical experiments show that the ODA framework can lead to an efficient design of service rate and service capacity, which is insensitive to model specification. The ODA solution exhibits superior performance compared with the conventional estimation-and-then-optimization solutions in the small sample regime. This paper was accepted by David Simchi-Levi, operations management. Funding: Z. Jiang?s research is supported by the National Natural Science Foundation of China [Grant 71931007]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.00655.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00655
+UR  - https://doi.org/10.1287/mnsc.2023.00655
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Do Firms Proactively Build Internal Markets for Redeployment? Evidence from a Natural Experiment
+AU  - Sohl, Timo
+AU  - Folta, Timothy B.
+Y1  - 2024/06/05
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.02396
+DO  - 10.1287/mnsc.2021.02396
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2487
+EP  - 2507
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - The topic of related diversification is of fundamental interest to corporate strategy research. However, the understanding of how the potential for resource redeployment might encourage related diversification is limited. This paper explores the impact of the 2006 German real estate transfer tax (RETT) reform, which led to higher RETT rates but retained the exemption from RETT for corporate restructurings. We propose that firms might have reacted strategically to the threat of higher transfer taxes by combining related businesses into a portfolio, providing an efficient internal market for reallocating property assets in the event of business-specific shocks. Consistent with a dynamic perspective on relatedness, difference-in-differences analyses of the European retail market show that the probability of related diversification increased significantly for firms that were affected by the reform, relative to control firms. This finding contributes to the literature that links firm boundary choices to intertemporal economies of scope and offers new insights into the real effects of transfer tax policies. This paper was accepted by Alfonso Gambardella, business strategy. Funding: This work was supported by the Ministerio de Ciencia, Innovación y Universidades [Grant PID2020-115660GB-I00]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.02396.
+AB  - The topic of related diversification is of fundamental interest to corporate strategy research. However, the understanding of how the potential for resource redeployment might encourage related diversification is limited. This paper explores the impact of the 2006 German real estate transfer tax (RETT) reform, which led to higher RETT rates but retained the exemption from RETT for corporate restructurings. We propose that firms might have reacted strategically to the threat of higher transfer taxes by combining related businesses into a portfolio, providing an efficient internal market for reallocating property assets in the event of business-specific shocks. Consistent with a dynamic perspective on relatedness, difference-in-differences analyses of the European retail market show that the probability of related diversification increased significantly for firms that were affected by the reform, relative to control firms. This finding contributes to the literature that links firm boundary choices to intertemporal economies of scope and offers new insights into the real effects of transfer tax policies. This paper was accepted by Alfonso Gambardella, business strategy. Funding: This work was supported by the Ministerio de Ciencia, Innovación y Universidades [Grant PID2020-115660GB-I00]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.02396.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02396
+UR  - https://doi.org/10.1287/mnsc.2021.02396
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Stable Matching on the Job? Theory and Evidence on Internal Talent Markets
+AU  - Cowgill, Bo
+AU  - Davis, Jonathan M. V.
+AU  - Montagnes, B. Pablo
+AU  - Perkowski, Patryk
+Y1  - 2024/06/06
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.01373
+DO  - 10.1287/mnsc.2023.01373
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2508
+EP  - 2526
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - A principal often needs to match agents to perform coordinated tasks, but agents can quit or slack off if they dislike their match. We study two prevalent approaches for matching within organizations: centralized assignment by firm leaders and self-organization through market-like mechanisms. We provide a formal model of the strengths and weaknesses of both methods under different settings, incentives, and production technologies. The model highlights trade-offs between match-specific productivity and job satisfaction. We then measure these trade-offs with data from a large organization?s internal talent market. Firm-dictated matches are 33% more valuable than randomly assigned matches within job categories (using the firm?s preferred metric of quality). By contrast, preference-based matches (using deferred acceptance) are only 5% better than random but are ranked (on average) about 38 percentiles higher by the workforce. The self-organized match is positively assortative and helps workers grow new skills; the firm?s preferred match is negatively assortative and harvests existing expertise. This paper was accepted by Joshua Gans, business strategy. Funding: This work was supported by the Ewing Marion Kauffman Foundation (Emerging Scholar Award). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01373.
+AB  - A principal often needs to match agents to perform coordinated tasks, but agents can quit or slack off if they dislike their match. We study two prevalent approaches for matching within organizations: centralized assignment by firm leaders and self-organization through market-like mechanisms. We provide a formal model of the strengths and weaknesses of both methods under different settings, incentives, and production technologies. The model highlights trade-offs between match-specific productivity and job satisfaction. We then measure these trade-offs with data from a large organization?s internal talent market. Firm-dictated matches are 33% more valuable than randomly assigned matches within job categories (using the firm?s preferred metric of quality). By contrast, preference-based matches (using deferred acceptance) are only 5% better than random but are ranked (on average) about 38 percentiles higher by the workforce. The self-organized match is positively assortative and helps workers grow new skills; the firm?s preferred match is negatively assortative and harvests existing expertise. This paper was accepted by Joshua Gans, business strategy. Funding: This work was supported by the Ewing Marion Kauffman Foundation (Emerging Scholar Award). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01373.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01373
+UR  - https://doi.org/10.1287/mnsc.2023.01373
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Human in the Loop Automation: Ride-Hailing with Remote (Tele-)Drivers
+AU  - Benjaafar, Saif
+AU  - Wang, Zicheng
+AU  - Yang, Xiaotang
+Y1  - 2024/06/10
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.01687
+DO  - 10.1287/mnsc.2022.01687
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2527
+EP  - 2543
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Tele-driving refers to a novel concept by which drivers can remotely operate vehicles (without being physically in the vehicle). By putting the human back in the loop, tele-driving has emerged recently as a more viable alternative to fully automated vehicles with ride-hailing (and other on-demand transportation-enabled services) being an important application. Because remote drivers can be operated as a shared resource (any driver can be assigned to any customer regardless of trip origin or destination), it may be possible for such services to deploy fewer drivers than vehicles without significantly reducing service quality. In this paper, we examine the extent to which this is possible. Using a spatial queueing model that captures the dynamics of both pickup and trip times, we show that the impact of reducing the number of drivers depends crucially on system workload relative to the number of vehicles. In particular, when workload is sufficiently high relative to the number of vehicles, we show that, perhaps surprisingly, reducing the number of drivers relative to the number of vehicles can actually improve service level (e.g., as measured by the amount of demand fulfilled in the case of impatient customers). Having fewer drivers than vehicles ensures that there are always idle vehicles; the fewer the drivers, the likelier it is for there to be more idle vehicles. Consequently, the fewer the drivers, the likelier it is for the pickup times to be shorter (making overall shorter service times likelier). The impact of shorter service time is particularly significant when the workload is high, and in this case, it is enough to overcome the loss in driver capacity. When workload is sufficiently low relative to the number of vehicles, we show that it is possible to significantly reduce the number of drivers without significantly reducing service level. In systems in which customers are patient and willing to queue up for the service, we show that reducing the number of drivers can also reduce delay, including stabilizing a system that may otherwise be unstable. In general, relative to a system in which the number of vehicles equals the number of drivers (as in a system with in-vehicle drivers), a system with remote drivers can result in savings in the number of drivers either without significantly degrading performance or actually improving performance. We discuss how these results can, in part, be explained by the interplay of two counteracting forces: (1) having fewer drivers increasing service rate and (2) having fewer drivers reducing the number of servers with the relative strength of these forces depending on system workload. This paper was accepted by Baris Ata, stochastic models and simulation. Funding: This work was supported by the US National Science Foundation [Grant SCC-1831140], and the Guangdong (China) Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [2023B1212010001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01687.
+AB  - Tele-driving refers to a novel concept by which drivers can remotely operate vehicles (without being physically in the vehicle). By putting the human back in the loop, tele-driving has emerged recently as a more viable alternative to fully automated vehicles with ride-hailing (and other on-demand transportation-enabled services) being an important application. Because remote drivers can be operated as a shared resource (any driver can be assigned to any customer regardless of trip origin or destination), it may be possible for such services to deploy fewer drivers than vehicles without significantly reducing service quality. In this paper, we examine the extent to which this is possible. Using a spatial queueing model that captures the dynamics of both pickup and trip times, we show that the impact of reducing the number of drivers depends crucially on system workload relative to the number of vehicles. In particular, when workload is sufficiently high relative to the number of vehicles, we show that, perhaps surprisingly, reducing the number of drivers relative to the number of vehicles can actually improve service level (e.g., as measured by the amount of demand fulfilled in the case of impatient customers). Having fewer drivers than vehicles ensures that there are always idle vehicles; the fewer the drivers, the likelier it is for there to be more idle vehicles. Consequently, the fewer the drivers, the likelier it is for the pickup times to be shorter (making overall shorter service times likelier). The impact of shorter service time is particularly significant when the workload is high, and in this case, it is enough to overcome the loss in driver capacity. When workload is sufficiently low relative to the number of vehicles, we show that it is possible to significantly reduce the number of drivers without significantly reducing service level. In systems in which customers are patient and willing to queue up for the service, we show that reducing the number of drivers can also reduce delay, including stabilizing a system that may otherwise be unstable. In general, relative to a system in which the number of vehicles equals the number of drivers (as in a system with in-vehicle drivers), a system with remote drivers can result in savings in the number of drivers either without significantly degrading performance or actually improving performance. We discuss how these results can, in part, be explained by the interplay of two counteracting forces: (1) having fewer drivers increasing service rate and (2) having fewer drivers reducing the number of servers with the relative strength of these forces depending on system workload. This paper was accepted by Baris Ata, stochastic models and simulation. Funding: This work was supported by the US National Science Foundation [Grant SCC-1831140], and the Guangdong (China) Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [2023B1212010001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01687.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01687
+UR  - https://doi.org/10.1287/mnsc.2022.01687
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Selling Bonus Actions in Video Games
+AU  - Sheng, Lifei
+AU  - Zhao, Xuying
+AU  - Thomas Ryan, Christopher
+Y1  - 2024/06/10
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.02348
+DO  - 10.1287/mnsc.2022.02348
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2544
+EP  - 2564
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - In the mobile video games industry, a common in-app purchase is for additional ?moves? or ?time? in single-player puzzle games. We call these in-app purchases bonus actions. In some games, bonus actions can only be purchased in advance of attempting a level of the game (pure advance sales (PAS)), yet in other games, bonus actions can only be purchased in a ?spot? market that appears when an initial attempt to pass the level fails (pure spot sales). Some games offer both advance and spot purchases (hybrid advance sales). This paper studies these selling strategies for bonus actions in video games. Such a question is novel to in-app tools selling in video games, and it cannot be answered by previous advance selling studies focusing on end goods. We model the selling of bonus actions as a stochastic extensive form game. We show how the distribution of skill among players (i.e., their inherent ability to pass the level) and the inherent randomness of the game influence selling strategies. For casual games, where low-skill players have a sufficiently high probability of success in each attempt, if the proportion of high-skill players is either sufficiently large or sufficiently small, firms should adopt PAS and shut down the ?spot? market. Furthermore, the player welfare-maximizing selling strategy is to sell only in the spot market. Hence, no ?win-win? strategy exists for casual games. However, PAS can be a win-win for hardcore games, where low-skill players have a sufficiently low success probability for each attempt. This paper was accepted by Hemant Bhargava, information systems. Funding: C. T. Ryan received funding from NSERC Discovery [Grant RGPIN-2020-06488]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.02348.
+AB  - In the mobile video games industry, a common in-app purchase is for additional ?moves? or ?time? in single-player puzzle games. We call these in-app purchases bonus actions. In some games, bonus actions can only be purchased in advance of attempting a level of the game (pure advance sales (PAS)), yet in other games, bonus actions can only be purchased in a ?spot? market that appears when an initial attempt to pass the level fails (pure spot sales). Some games offer both advance and spot purchases (hybrid advance sales). This paper studies these selling strategies for bonus actions in video games. Such a question is novel to in-app tools selling in video games, and it cannot be answered by previous advance selling studies focusing on end goods. We model the selling of bonus actions as a stochastic extensive form game. We show how the distribution of skill among players (i.e., their inherent ability to pass the level) and the inherent randomness of the game influence selling strategies. For casual games, where low-skill players have a sufficiently high probability of success in each attempt, if the proportion of high-skill players is either sufficiently large or sufficiently small, firms should adopt PAS and shut down the ?spot? market. Furthermore, the player welfare-maximizing selling strategy is to sell only in the spot market. Hence, no ?win-win? strategy exists for casual games. However, PAS can be a win-win for hardcore games, where low-skill players have a sufficiently low success probability for each attempt. This paper was accepted by Hemant Bhargava, information systems. Funding: C. T. Ryan received funding from NSERC Discovery [Grant RGPIN-2020-06488]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.02348.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02348
+UR  - https://doi.org/10.1287/mnsc.2022.02348
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - On the Robustness of Idiosyncratic Volatility Effect
+AU  - Barinov, Alexander
+Y1  - 2024/06/10
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.04140
+DO  - 10.1287/mnsc.2022.04140
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2565
+EP  - 2582
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - The idiosyncratic volatility (IVol) effect is robust to restricting the sample to New York Stock Exchange (NYSE) firms (once the proper listing indicator is used) and to excluding from the sample small, illiquid, and low-price stocks. The idiosyncratic volatility effect is also unlikely to stem from the short-run reversal, as the IVol effect stays significant for about six months and seems stronger for high turnover firms, which do not exhibit short-term reversal. The IVol effect also does not seem to weaken postpublication. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04140.
+AB  - The idiosyncratic volatility (IVol) effect is robust to restricting the sample to New York Stock Exchange (NYSE) firms (once the proper listing indicator is used) and to excluding from the sample small, illiquid, and low-price stocks. The idiosyncratic volatility effect is also unlikely to stem from the short-run reversal, as the IVol effect stays significant for about six months and seems stronger for high turnover firms, which do not exhibit short-term reversal. The IVol effect also does not seem to weaken postpublication. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04140.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.04140
+UR  - https://doi.org/10.1287/mnsc.2022.04140
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Risks to Human Capital
+AU  - Ebrahimian, Mehran
+AU  - Wachter, Jessica A.
+Y1  - 2024/06/11
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.03068
+DO  - 10.1287/mnsc.2022.03068
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2583
+EP  - 2622
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We build a model with inalienable human capital, in which investors finance individuals who can potentially become skilled. Although investment in skill is always optimal, it does not take place in some states of the world, due to moral hazard. In intermediate states of the world, individuals acquire skill; however outside investors and individuals inefficiently share risk. We show that this simple moral hazard problem, combined with risk aversion of individuals and outside investors, amplifies the equity premium, lowers the risk-free rate, and leads to disaster states that fall especially heavily on some agents but not on others. We show that the possibility of disaster states distorts risk prices and affects wealth inequality, even under calibrations in which they never occur in equilibrium. This paper was accepted by Lukas Schmid, finance. Funding: M. Ebrahimian acknowledges funding from the Swedish House of Finance. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.03068.
+AB  - We build a model with inalienable human capital, in which investors finance individuals who can potentially become skilled. Although investment in skill is always optimal, it does not take place in some states of the world, due to moral hazard. In intermediate states of the world, individuals acquire skill; however outside investors and individuals inefficiently share risk. We show that this simple moral hazard problem, combined with risk aversion of individuals and outside investors, amplifies the equity premium, lowers the risk-free rate, and leads to disaster states that fall especially heavily on some agents but not on others. We show that the possibility of disaster states distorts risk prices and affects wealth inequality, even under calibrations in which they never occur in equilibrium. This paper was accepted by Lukas Schmid, finance. Funding: M. Ebrahimian acknowledges funding from the Swedish House of Finance. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.03068.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03068
+UR  - https://doi.org/10.1287/mnsc.2022.03068
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Consumption of Values
+AU  - Minardi, Stefania
+AU  - Wang, Fan
+AU  - Gilboa, Itzhak
+Y1  - 2024/06/11
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.01632
+DO  - 10.1287/mnsc.2023.01632
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2623
+EP  - 2634
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Consumption decisions are partly influenced by values and ideologies. Consumers care about global warming, child labor, fair trade, etc. We develop an axiomatic model of intrinsic values?those that are carriers of meaning in and of themselves?and argue that they often introduce discontinuities near zero. For example, a vegetarian?s preferences would be discontinuous near zero amount of animal meat. We distinguish intrinsic values from instrumental ones, which are means rather than ends and serve as proxies for intrinsic values. We illustrate the relevance of our value-based model in different contexts, including equity concerns and prosocial behavior. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Funding: The authors acknowledge support from the Agence Nationale de la Recherche [Grants ANR-11-IDEX-0003 and 11-LABX-0047], the Israel Science Foundation [Grant 1443/20], the AXA Research Fund [Chair for Decision Sciences], the Foerder Institute at Tel-Aviv University, and the Sapir Center for Economic Development (Gilboa). Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.01632.
+AB  - Consumption decisions are partly influenced by values and ideologies. Consumers care about global warming, child labor, fair trade, etc. We develop an axiomatic model of intrinsic values?those that are carriers of meaning in and of themselves?and argue that they often introduce discontinuities near zero. For example, a vegetarian?s preferences would be discontinuous near zero amount of animal meat. We distinguish intrinsic values from instrumental ones, which are means rather than ends and serve as proxies for intrinsic values. We illustrate the relevance of our value-based model in different contexts, including equity concerns and prosocial behavior. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Funding: The authors acknowledge support from the Agence Nationale de la Recherche [Grants ANR-11-IDEX-0003 and 11-LABX-0047], the Israel Science Foundation [Grant 1443/20], the AXA Research Fund [Chair for Decision Sciences], the Foerder Institute at Tel-Aviv University, and the Sapir Center for Economic Development (Gilboa). Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.01632.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01632
+UR  - https://doi.org/10.1287/mnsc.2023.01632
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Co-Production of Service: Modeling Services in Contact Centers Using Hawkes Processes
+AU  - Daw, Andrew
+AU  - Castellanos, Antonio
+AU  - Yom-Tov, Galit B.
+AU  - Pender, Jamol
+AU  - Gruendlinger, Leor
+Y1  - 2024/06/11
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.04060
+DO  - 10.1287/mnsc.2021.04060
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2635
+EP  - 2656
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - In customer support contact centers, every service interaction involves a messaging dialogue between a customer and an agent; together, they exchange information, solve problems, and collectively co-produce the service. Because the service progression is shaped by the history of conversation thus far, we propose a bivariate marked Hawkes process cluster model of the customer-agent interaction. To evaluate our stochastic model of service, we apply it to an industry contact center data set containing nearly 5 million messages. Through both a novel residual analysis comparison and several Monte Carlo goodness-of-fit tests, we show that the Hawkes cluster model indeed captures dynamics at the heart of the service and surpasses classic models that do not incorporate the service history. Furthermore, in an entirely data-driven simulation, we demonstrate how this history-dependent model can be leveraged operationally to inform a prediction-based routing policy. We show that widely used and well-studied customer routing policies can be outperformed with simple modifications according to the Hawkes model. Through analysis of a stylized model proposed in the contact center literature, we prove that service heterogeneity can cause this underperformance and, moreover, that such heterogeneity will occur if service closures are not carefully managed. This paper was accepted by Elena Katok, operations management. Funding: The authors are grateful for the generous support of this work by the National Science Foundation Division of Graduate Education [Grant DGE-1650441] (A. Daw), the Israel Science Foundation [Grant 336/19] (G. B. Yom-Tov), and the United States-Israel Binational Science Foundation [Grant 2022095] (A. Daw, G. B. Yom-Tov). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.04060.
+AB  - In customer support contact centers, every service interaction involves a messaging dialogue between a customer and an agent; together, they exchange information, solve problems, and collectively co-produce the service. Because the service progression is shaped by the history of conversation thus far, we propose a bivariate marked Hawkes process cluster model of the customer-agent interaction. To evaluate our stochastic model of service, we apply it to an industry contact center data set containing nearly 5 million messages. Through both a novel residual analysis comparison and several Monte Carlo goodness-of-fit tests, we show that the Hawkes cluster model indeed captures dynamics at the heart of the service and surpasses classic models that do not incorporate the service history. Furthermore, in an entirely data-driven simulation, we demonstrate how this history-dependent model can be leveraged operationally to inform a prediction-based routing policy. We show that widely used and well-studied customer routing policies can be outperformed with simple modifications according to the Hawkes model. Through analysis of a stylized model proposed in the contact center literature, we prove that service heterogeneity can cause this underperformance and, moreover, that such heterogeneity will occur if service closures are not carefully managed. This paper was accepted by Elena Katok, operations management. Funding: The authors are grateful for the generous support of this work by the National Science Foundation Division of Graduate Education [Grant DGE-1650441] (A. Daw), the Israel Science Foundation [Grant 336/19] (G. B. Yom-Tov), and the United States-Israel Binational Science Foundation [Grant 2022095] (A. Daw, G. B. Yom-Tov). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.04060.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.04060
+UR  - https://doi.org/10.1287/mnsc.2021.04060
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Revealed Privacy Preferences: Are Privacy Choices Rational?
+AU  - Lee, Yi-Shan
+AU  - Weber, Roberto A.
+Y1  - 2024/06/12
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.00807
+DO  - 10.1287/mnsc.2022.00807
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2657
+EP  - 2677
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - We investigate the extent to which trade-offs involving the sharing of personal information exhibit consistency with an underlying rational preference for privacy. In an experiment, people engage in trade-offs across two domains of personal information sharing, allowing us to classify whether their choices satisfy the generalized axiom of revealed preference. They also subsequently price the sharing of their personal information. Sixty-three percent of subjects act consistently with a rational preference ordering when allocating privacy levels, a level comparable to that observed in other domains. Individuals who are inconsistent when engaging in simple privacy trade-offs exhibit substantially more costly preference reversals when pricing personal information sharing. Only one-third of subjects exhibit consistency across both the selection of personal information to share and the pricing of such information sharing. Our results imply that monetizing personal information can have distinct welfare consequences for people with different degrees of rationality in their underlying ability to make sensible trade-offs involving personal information. We also provide evidence that preferences elicited over choices in our experiment correlate with real-world privacy behaviors. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: This work was supported by Forschungskredit (University of Zurich) [Grant FK-17-017] and Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung [Grant 174630] to Y.S. Lee. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00807.
+AB  - We investigate the extent to which trade-offs involving the sharing of personal information exhibit consistency with an underlying rational preference for privacy. In an experiment, people engage in trade-offs across two domains of personal information sharing, allowing us to classify whether their choices satisfy the generalized axiom of revealed preference. They also subsequently price the sharing of their personal information. Sixty-three percent of subjects act consistently with a rational preference ordering when allocating privacy levels, a level comparable to that observed in other domains. Individuals who are inconsistent when engaging in simple privacy trade-offs exhibit substantially more costly preference reversals when pricing personal information sharing. Only one-third of subjects exhibit consistency across both the selection of personal information to share and the pricing of such information sharing. Our results imply that monetizing personal information can have distinct welfare consequences for people with different degrees of rationality in their underlying ability to make sensible trade-offs involving personal information. We also provide evidence that preferences elicited over choices in our experiment correlate with real-world privacy behaviors. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: This work was supported by Forschungskredit (University of Zurich) [Grant FK-17-017] and Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung [Grant 174630] to Y.S. Lee. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00807.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00807
+UR  - https://doi.org/10.1287/mnsc.2022.00807
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Resolving Tensions Between Heterogeneous Investors in a Startup
+AU  - Chen, Shiqi
+AU  - Lambrecht, Bart M.
+Y1  - 2024/06/13
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2022.01724
+DO  - 10.1287/mnsc.2022.01724
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2678
+EP  - 2695
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Legal scholars highlight the tensions that exist between different classes of shareholders in startups. We model a startup owned by undiversified investors with heterogeneous capital contributions and risk preferences. A social planner runs the firm on behalf of all investors. We compare investors? expected utility with a hypothetical first-best decentralized benchmark. The startup?s optimal investment policy is procyclical and a time-varying weighted average of shareholders? optimal investment policies. The optimal contracts issued to investors are tailor-made, interdependent, and include equity claims resembling preferred stock with heterogeneous payout caps, leading to a complex capitalization table as more investors join the startup. This paper was accepted by Will Cong, finance. Funding: This work was supported by the Cambridge Endowment for Research in Finance and Keynes Fellowship. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.01724.
+AB  - Legal scholars highlight the tensions that exist between different classes of shareholders in startups. We model a startup owned by undiversified investors with heterogeneous capital contributions and risk preferences. A social planner runs the firm on behalf of all investors. We compare investors? expected utility with a hypothetical first-best decentralized benchmark. The startup?s optimal investment policy is procyclical and a time-varying weighted average of shareholders? optimal investment policies. The optimal contracts issued to investors are tailor-made, interdependent, and include equity claims resembling preferred stock with heterogeneous payout caps, leading to a complex capitalization table as more investors join the startup. This paper was accepted by Will Cong, finance. Funding: This work was supported by the Cambridge Endowment for Research in Finance and Keynes Fellowship. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.01724.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01724
+UR  - https://doi.org/10.1287/mnsc.2022.01724
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Robustness to Dependency in Influence Maximization
+AU  - Chen, Louis L.
+AU  - Lim, Chee Chin
+AU  - Padmanabhan, Divya
+AU  - Natarajan, Karthik
+Y1  - 2024/06/13
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2021.03445
+DO  - 10.1287/mnsc.2021.03445
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2696
+EP  - 2713
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - In this paper, we pursue a correlation-robust study of the influence maximization problem. Departing from the classic independent cascade model, we study a diffusion process adversarially adapted to the choice of seed set. More precisely, rather than the independent coupling of known individual edge probabilities, we now evaluate a seed set?s expected influence under all possible correlations, specifically, the one that presents the worst case. We find that the worst case expected influence can be efficiently computed, its NP-hard optimization done approximately ( 1 ? 1 / e ) with greedy construction, and we provide complete, efficient characterizations of the adversarial coupling, the random graph, and the random number of influenced nodes. But, most importantly, upon mixing the independent cascade with the worst case, we attain a tunable and more comprehensive model better suited for real-world diffusion phenomena than the independent cascade alone and without increased computational complexity. Extensions to the correlation-robust study of risk follow along with numerical experiments on network data sets with demonstration of how our models can be tuned. This paper was accepted by George Shanthikumar, data science. Funding: This work was supported by the Air Force Office of Scientific Research (Mathematical Optimization Program) under the grant: ?Optimal Decision Making under Tight Performance Requirements in Adversarial and Uncertain Environments: Insight from Rockafellian Functions?. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03445.
+AB  - In this paper, we pursue a correlation-robust study of the influence maximization problem. Departing from the classic independent cascade model, we study a diffusion process adversarially adapted to the choice of seed set. More precisely, rather than the independent coupling of known individual edge probabilities, we now evaluate a seed set?s expected influence under all possible correlations, specifically, the one that presents the worst case. We find that the worst case expected influence can be efficiently computed, its NP-hard optimization done approximately ( 1 ? 1 / e ) with greedy construction, and we provide complete, efficient characterizations of the adversarial coupling, the random graph, and the random number of influenced nodes. But, most importantly, upon mixing the independent cascade with the worst case, we attain a tunable and more comprehensive model better suited for real-world diffusion phenomena than the independent cascade alone and without increased computational complexity. Extensions to the correlation-robust study of risk follow along with numerical experiments on network data sets with demonstration of how our models can be tuned. This paper was accepted by George Shanthikumar, data science. Funding: This work was supported by the Air Force Office of Scientific Research (Mathematical Optimization Program) under the grant: ?Optimal Decision Making under Tight Performance Requirements in Adversarial and Uncertain Environments: Insight from Rockafellian Functions?. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03445.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03445
+UR  - https://doi.org/10.1287/mnsc.2021.03445
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Vaccine Progress, Stock Prices, and the Value of Ending the Pandemic
+AU  - Acharya, Viral V.
+AU  - Johnson, Timothy
+AU  - Sundaresan, Suresh
+AU  - Zheng, Steven
+Y1  - 2024/06/19
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.00863
+DO  - 10.1287/mnsc.2023.00863
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2714
+EP  - 2732
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - One measure of the ex ante cost of disasters is the welfare gain from shortening their expected duration. We introduce a stochastic clock into a standard disaster model that summarizes information about progress (positive or negative) toward disaster resolution. We show that the stock market response to duration news is essentially a sufficient statistic to identify the welfare gain to interventions that alter the state. Using information on clinical trial progress during 2020, we build contemporaneous forecasts of the time to vaccine deployment, which provide a measure of the anticipated length of the COVID-19 pandemic. The model can thus be calibrated from market reactions to vaccine news, which we estimate. The estimates imply that ending the pandemic would have been worth from 5% to 15% of total wealth as the expected duration varied in this period. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00863.
+AB  - One measure of the ex ante cost of disasters is the welfare gain from shortening their expected duration. We introduce a stochastic clock into a standard disaster model that summarizes information about progress (positive or negative) toward disaster resolution. We show that the stock market response to duration news is essentially a sufficient statistic to identify the welfare gain to interventions that alter the state. Using information on clinical trial progress during 2020, we build contemporaneous forecasts of the time to vaccine deployment, which provide a measure of the anticipated length of the COVID-19 pandemic. The model can thus be calibrated from market reactions to vaccine news, which we estimate. The estimates imply that ending the pandemic would have been worth from 5% to 15% of total wealth as the expected duration varied in this period. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00863.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00863
+UR  - https://doi.org/10.1287/mnsc.2023.00863
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Signaling Targeting Cost Through List Price
+AU  - Yu, Peiwen
+AU  - Zhang, Jiahua
+Y1  - 2024/06/19
+PY  - 2024
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2023.02031
+DO  - 10.1287/mnsc.2023.02031
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2733
+EP  - 2750
+VL  - 71
+IS  - 3
+PB  - INFORMS
+N2  - Data analytics enable firms to offer personalized prices to targeted consumers but at a cost. We study a competitive personalized pricing game where the entrant is uncertain about the incumbent?s targeting cost. We demonstrate that implementing personalized pricing through a ?list price-discount? scheme allows the incumbent to signal its targeting cost via the list price. This signaling mechanism is effective because the list price serves as a price ceiling, which limits the incumbent?s ability to extract consumer surplus through personalized discounts. The high-cost incumbent can strategically set its list price below the full-information level to separate itself from the low-cost incumbent. Interestingly, the high-cost incumbent prefers separating over pooling only when there is a moderate variation in the incumbents? targeting costs. Personalized pricing can affect firms differently, benefiting the incumbent but hurting the entrant. Asymmetric information about targeting costs weakens the high-cost incumbent?s incentive to offer personalized discounts, resulting in lower total targeting costs and potentially increasing social surplus. These findings shed light on government regulations and transparency policies regarding personalized pricing. This paper was accepted by Dmitri Kuksov, marketing. Funding: P. Yu was supported by the National Natural Science Foundation of China [Grants 72371038 and 72033003]. J. Zhang was supported by the National Natural Science Foundation of China [Grants 72371061 and 72232001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.02031.
+AB  - Data analytics enable firms to offer personalized prices to targeted consumers but at a cost. We study a competitive personalized pricing game where the entrant is uncertain about the incumbent?s targeting cost. We demonstrate that implementing personalized pricing through a ?list price-discount? scheme allows the incumbent to signal its targeting cost via the list price. This signaling mechanism is effective because the list price serves as a price ceiling, which limits the incumbent?s ability to extract consumer surplus through personalized discounts. The high-cost incumbent can strategically set its list price below the full-information level to separate itself from the low-cost incumbent. Interestingly, the high-cost incumbent prefers separating over pooling only when there is a moderate variation in the incumbents? targeting costs. Personalized pricing can affect firms differently, benefiting the incumbent but hurting the entrant. Asymmetric information about targeting costs weakens the high-cost incumbent?s incentive to offer personalized discounts, resulting in lower total targeting costs and potentially increasing social surplus. These findings shed light on government regulations and transparency policies regarding personalized pricing. This paper was accepted by Dmitri Kuksov, marketing. Funding: P. Yu was supported by the National Natural Science Foundation of China [Grants 72371038 and 72033003]. J. Zhang was supported by the National Natural Science Foundation of China [Grants 72371061 and 72232001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.02031.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.02031
+UR  - https://doi.org/10.1287/mnsc.2023.02031
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2025/03/01
+PY  - 2025
+DA  - 2025/03/01
+N1  - doi: 10.1287/mnsc.2025.eb.v71n3
+DO  - 10.1287/mnsc.2025.eb.v71n3
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - vi
+VL  - 71
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2025.eb.v71n3
+UR  - https://doi.org/10.1287/mnsc.2025.eb.v71n3
+Y2  - 2026/04/24
+ER  - 

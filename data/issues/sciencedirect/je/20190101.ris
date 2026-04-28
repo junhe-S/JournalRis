@@ -1,0 +1,397 @@
+TY  - JOUR
+T1  - Optimum thresholding using mean and conditional mean squared error
+AU  - Figueroa-López, José E.
+AU  - Mancini, Cecilia
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 179
+EP  - 210
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301763
+KW  - Threshold estimator
+KW  - Integrated variance
+KW  - Lévy jumps
+KW  - Mean and conditional mean squared error
+KW  - Feasible tuning of estimation parameters
+AB  - We consider a univariate semimartingale model for (the logarithm of) an asset price, containing jumps having possibly infinite activity. The nonparametric threshold estimator IV̂n of the integrated variance IV≔∫0Tσs2ds proposed in Mancini (2009) is constructed using observations on a discrete time grid, and precisely it sums up the squared increments of the process when they are below a threshold, which depends on the observation time step and, sometimes, model parameters or latent variables, that need to be estimated. All the threshold functions satisfying given conditions allow asymptotically consistent estimates of IV, however the finite sample properties of IV̂n can depend on the specific choice of the threshold. We aim here at optimally selecting the threshold by minimizing either the estimation mean squared error (MSE) or the conditional mean squared error (cMSE). The last criterion allows to reach a threshold which is optimal not in mean but for the specific volatility and jumps paths at hand. A parsimonious characterization of the optimum is established, which turns out to be asymptotically proportional to the Lévy’s modulus of continuity of the underlying Brownian motion. Moreover, minimizing the cMSE enables us to propose a novel implementation scheme for approximating the optimal threshold. Monte Carlo simulations illustrate the superior performance of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Banded spatio-temporal autoregressions
+AU  - Gao, Zhaoxing
+AU  - Ma, Yingying
+AU  - Wang, Hansheng
+AU  - Yao, Qiwei
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 211
+EP  - 230
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301775
+KW  - Banded coefficient matrices
+KW  - Least squares estimation
+KW  - Spatial panel dynamic models
+KW  - Yule–Walker equation
+AB  - We propose a new class of spatio-temporal models with unknown and banded autoregressive coefficient matrices. The setting represents a sparse structure for high-dimensional spatial panel dynamic models when panel members represent economic (or other type) individuals at many different locations. The structure is practically meaningful when the order of panel members is arranged appropriately. Note that the implied autocovariance matrices are unlikely to be banded, and therefore, the proposal is radically different from the existing literature on the inference for high-dimensional banded covariance matrices. Due to the innate endogeneity, we apply the least squares method based on a Yule–Walker equation to estimate autoregressive coefficient matrices. The estimators based on multiple Yule–Walker equations are also studied. A ratio-based method for determining the bandwidth of autoregressive matrices is also proposed. Some asymptotic properties of the inference methods are established. The proposed methodology is further illustrated using both simulated and real data sets.
+ER  - 
+
+TY  - JOUR
+T1  - Mark to market value at risk
+AU  - Chen, Yu
+AU  - Wang, Zhicheng
+AU  - Zhang, Zhengjun
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 299
+EP  - 321
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301830
+KW  - Risk management
+KW  - Value at risk
+KW  - Mark to market
+KW  - Account settlements
+KW  - Historical simulation
+AB  - Financial risk management has been overwhelmed by applications and research of value at risk (VaR) in daily practice mainly due to its simple form and easily interpretable feature. Yet, its serious drawback of underestimating an asset’s market risk has been noticed in numerous applications, and many alternative risk measures have been proposed in the literature. Among all existing alternative risk measures, it is hard to find one that a financial institution whose portfolio has multiple settlements before the end of holding period uses to internally perform risk assessment. We propose a new risk measure termed mark to market value at risk (MMVaR) for settlement being taken daily during the holding period. MMVaR is a natural alternative risk measure to VaR as it is a direct generalization of VaR. It not only maintains easily interpretable feature held by VaR, but also better computes an asset’s market risk in a financial institution having daily account settlements. We show that MMVaR is superior to VaR using simulation examples and real data. In real data analysis, we find that risks calculated using MMVaR are about 20% higher than risks calculated using classical VaR, which provides an evidence proof of Basel III’s new capital adequacy ratio requirement, and hence it can become an implementable daily risk measure.
+ER  - 
+
+TY  - JOUR
+T1  - Factor models for matrix-valued high-dimensional time series
+AU  - Wang, Dong
+AU  - Liu, Xialu
+AU  - Chen, Rong
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 231
+EP  - 248
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301787
+AB  - In finance, economics and many other fields, observations in a matrix form are often observed over time. For example, many economic indicators are obtained in different countries over time. Various financial characteristics of many companies are reported over time. Although it is natural to turn a matrix observation into a long vector then use standard vector time series models or factor analysis, it is often the case that the columns and rows of a matrix represent different sets of information that are closely interrelated in a very structural way. We propose a novel factor model that maintains and utilizes the matrix structure to achieve greater dimensional reduction as well as finding clearer and more interpretable factor structures. Estimation procedure and its theoretical properties are investigated and demonstrated with simulated and real examples.
+ER  - 
+
+TY  - JOUR
+T1  - Daily price limits and destructive market behavior
+AU  - Chen, Ting
+AU  - Gao, Zhenyu
+AU  - He, Jibao
+AU  - Jiang, Wenxi
+AU  - Xiong, Wei
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 249
+EP  - 264
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301799
+KW  - Price limit rule
+KW  - Speculation
+KW  - Investor behavior
+KW  - Financial regulation
+AB  - We use account-level data from the Shenzhen Stock Exchange to show that daily price limits, a widely adopted market stabilization mechanism, may lead to unintended, destructive market behavior: large investors tend to buy on the day when a stock hits the 10% upper price limit and then sell on the next day; and their net buying on the limit-hitting day predicts stronger long-run price reversal. We also analyze a sample of special treatment (ST) stocks, which face tighter 5% daily price limits, and provide a causal validation from comparing market dynamics before and after they are assigned the ST status.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial for the special issue on financial engineering and risk management for JoE
+AU  - Linton, Oliver
+AU  - Zhang, Zhengjun
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 1
+EP  - 4
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301672
+ER  - 
+
+TY  - JOUR
+T1  - Robust covariance estimation for approximate factor models
+AU  - Fan, Jianqing
+AU  - Wang, Weichen
+AU  - Zhong, Yiqiao
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 5
+EP  - 22
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301684
+KW  - Robust covariance matrix
+KW  - Approximate factor model
+KW  - M-estimator
+AB  - In this paper, we study robust covariance estimation under the approximate factor model with observed factors. We propose a novel framework to first estimate the initial joint covariance matrix of the observed data and the factors, and then use it to recover the covariance matrix of the observed data. We prove that once the initial matrix estimator is good enough to maintain the element-wise optimal rate, the whole procedure will generate an estimated covariance with desired properties. For data with bounded fourth moments, we propose to use adaptive Huber loss minimization to give the initial joint covariance estimation. This approach is applicable to a much wider class of distributions, beyond sub-Gaussian and elliptical distributions. We also present an asymptotic result for adaptive Huber’s M-estimator with a diverging parameter. The conclusions are demonstrated by extensive simulations and real data analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Large-dimensional factor modeling based on high-frequency observations
+AU  - Pelger, Markus
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 23
+EP  - 42
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301696
+KW  - Systematic risk
+KW  - High-dimensional data
+KW  - High-frequency data
+KW  - Latent factor model
+KW  - PCA
+KW  - Jumps
+KW  - Semimartingales
+KW  - Approximate factor model
+KW  - Number of factors
+AB  - This paper develops a statistical theory to estimate an unknown factor structure based on financial high-frequency data. We derive an estimator for the number of factors and consistent and asymptotically mixed-normal estimators of the loadings and factors under the assumption of a large number of cross-sectional and high-frequency observations. The estimation approach can separate factors for continuous and rare jump risk. The estimators for the loadings and factors are based on the principal component analysis of the quadratic covariation matrix. The estimator for the number of factors uses a perturbed eigenvalue ratio statistic. In an empirical analysis of the S&P 500 firms we estimate four stable continuous systematic factors, which can be approximated very well by a market and industry portfolios. Jump factors are different from the continuous factors.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation of the bid–ask spread in extended roll models
+AU  - Chen, Xiaohong
+AU  - Linton, Oliver
+AU  - Schneeberger, Stefan
+AU  - Yi, Yanping
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 160
+EP  - 178
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301751
+KW  - Bid–ask spread
+KW  - Roll model
+KW  - Semiparametric estimation
+KW  - Empirical characteristic function
+KW  - Latent variables
+AB  - We propose new methods for estimating the bid–ask spread from observed transaction prices alone. Our methods are based on the empirical characteristic function. We compare our methods theoretically and numerically with the Roll (1984) method as well as with its best known competitor, the Hasbrouck (2004) method, and find that our estimators perform much better when this distribution is far from Gaussian. Our methods are applied to the E-mini futures contract on the S&P 500 during the Flash Crash of May 6, 2010. We also establish T consistency and asymptotic normality of the proposed estimators in various extended Roll models.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - ii
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30224-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302240
+ER  - 
+
+TY  - JOUR
+T1  - The scale of predictability
+AU  - Bandi, F.M.
+AU  - Perron, B.
+AU  - Tamoni, A.
+AU  - Tebaldi, C.
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 120
+EP  - 140
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301738
+KW  - Predictability
+KW  - Frequency
+KW  - Aggregation
+KW  - Risk-return trade-off
+AB  - We introduce a new stylized fact: the hump-shaped behavior of slopes and coefficients of determination as a function of the aggregation horizon when running (forward/backward) predictive regressions of future excess market returns onto past economic uncertainty (as proxied by market variance, consumption variance, or economic policy uncertainty). To justify this finding formally, we propose a novel modeling framework in which predictability is specified as a property of components of both excess market returns and economic uncertainty. We dub this property scale-specific predictability. We show that classical predictive systems imply restricted forms of scale-specific predictability. We conclude that for certain predictors, like economic uncertainty, the restrictions imposed by classical predictive systems may be excessively strong.
+ER  - 
+
+TY  - JOUR
+T1  - Climate risks and market efficiency
+AU  - Hong, Harrison
+AU  - Li, Frank Weikai
+AU  - Xu, Jiangmin
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 265
+EP  - 281
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301817
+KW  - Climate risks
+KW  - Climate change
+KW  - Stock market
+KW  - Efficiency
+KW  - Return predictability
+AB  - Climate science finds that the trend towards higher global temperatures exacerbates the risks of droughts. We investigate whether the prices of food stocks efficiently discount these risks. Using data from thirty-one countries with publicly-traded food companies, we rank these countries each year based on their long-term trends toward droughts using the Palmer Drought Severity Index. A poor trend ranking for a country forecasts relatively poor profit growth for food companies in that country. It also forecasts relatively poor food stock returns in that country. This return predictability is consistent with food stock prices underreacting to climate change risks.
+ER  - 
+
+TY  - JOUR
+T1  - Tail event driven networks of SIFIs
+AU  - Chen, Cathy Yi-Hsuan
+AU  - Härdle, Wolfgang Karl
+AU  - Okhrin, Yarema
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 282
+EP  - 298
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301829
+KW  - Systemic risk
+KW  - Network analysis
+KW  - Network autoregression
+KW  - Tail event
+AB  - The interdependence, dynamics and riskiness of financial institutions are the key features frequently tackled in financial econometrics. We propose a Tail Event driven Network Quantile Regression (TENQR) model which addresses these three aspects. More precisely, our framework captures the risk propagation and dynamics in terms of a panel quantile autoregression involving network effects that are quantified through a time-varying adjacency matrix. To reflect the risk content in stress situations the construction of the adjacency matrix is suggested to include tail events. More precisely we employ the conditional expected shortfall as risk profile. Based on the similarity of the risk profiles we create a positive and a negative network factor, which capture the effects of risk contagion and risk diversification respectively. The developed joint spacings variance ratio test supports the suggested methodology. The TENQR technique is evaluated using the SIFIs (systemically important financial institutions) identified by the Financial Stability Board (FSB). The risk decomposition of the resulting network identifies the systemic importance of SIFIs and thus provides measures for the required level of additional loss absorbency. It is discovered that the positive network effect, as a function of the tail probability level, becomes more profound in stress situations and varies in its impact to SIFIs located in different geographic regions.
+ER  - 
+
+TY  - JOUR
+T1  - Knowing factors or factor loadings, or neither? Evaluating estimators of large covariance matrices with noisy and asynchronous data
+AU  - Dai, Chaoxing
+AU  - Lu, Kun
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 43
+EP  - 79
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301702
+KW  - High-dimensional data
+KW  - High-frequency data
+KW  - Factor model
+KW  - Pre-averaging estimator
+KW  - Portfolio allocation
+KW  - Low-rank plus sparse covariance matrix
+KW  - Barra covariance matrix estimator
+AB  - We investigate estimators of factor-model-based large covariance (and precision) matrices using high-frequency data, which are asynchronous and potentially contaminated by the market microstructure noise. Our estimation strategies rely on the pre-averaging method with refresh time to solve the microstructure problems, while using three different specifications of factor models with a variety of thresholding methods, respectively, to battle the curse of dimensionality. To estimate a factor model, we either adopt the time-series regression (TSR) to recover loadings if factors are known, or use the cross-sectional regression (CSR) to recover factors from known loadings, or use the principal component analysis (PCA) if neither factors nor their loadings are assumed known. We compare the convergence rates in these scenarios using the joint in-fill and increasing dimensionality asymptotics. To evaluate the empirical trade-off between robustness to model misspecification and statistical efficiency among all 30 combinations of estimation strategies, we run a horse race on the out-of-sample portfolio allocation with Dow Jones 30, S&P 100, and S&P 500 index constituents, respectively, and find the pre-averaging-based strategy using TSR or PCA with location thresholding dominates, especially over the subsampling-based alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating the integrated volatility with tick observations
+AU  - Jacod, Jean
+AU  - Li, Yingying
+AU  - Zheng, Xinghua
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 80
+EP  - 100
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301714
+KW  - High frequency data
+KW  - Integrated volatility
+KW  - Market microstructure noise
+KW  - Dependent noise
+KW  - Endogenous time
+AB  - We develop a volatility estimator that can be directly applied to tick-by- tick data. More specifically, we consider a model that allows for (i) irregular observation times that can be endogenous, (ii) dependent noise that can have diurnal features and be dependent on the latent price process, and (iii) jumps in the latent price process. We show that our estimator yields consistent estimates and enjoys the optimal rate of convergence. Simulation as well as empirical studies demonstrate favorable properties of our proposed estimator.
+ER  - 
+
+TY  - JOUR
+T1  - The algebra of two scales estimation, and the S-TSRV: High frequency estimation that is robust to sampling times
+AU  - Mykland, Per A.
+AU  - Zhang, Lan
+AU  - Chen, Dachuan
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 101
+EP  - 119
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301726
+KW  - Asynchronous times
+KW  - Consistency
+KW  - Discrete observation
+KW  - Efficiency
+KW  - Endogenous times
+KW  - Equivalent martingale measure
+KW  - Irregular times
+KW  - Itô process
+KW  - Leads and lags
+KW  - Leverage effect
+KW  - Microstructure
+KW  - Pre-averaging
+KW  - Realized volatility
+KW  - Robust estimation
+KW  - Stable convergence
+KW  - Two scales estimation
+AB  - In this paper, we derive a new algebraic property of two scales estimation in high frequency data, under which the effect of sampling times is canceled to high order. This is a particular robustness property of the two scales construction. In general, irregular, asynchronous, or endogenous times can cause problems in estimators based on equidistant observation of (trade or quote) times. The new algebraic property can be combined with pre-averaging, giving rise to the smoothed two-scales realized volatility (S-TSRV). We derive a finite sample solution to controlling edge effects and for handling irregular and endogenous observation times and asynchronously observed multivariate data. In connection with this development, we use the algebraic approach to define a version of the S-TSRV which has particularly small edge effect in microstructure noise. The main result of the paper is a representation of the statistical error of the estimator in terms of simple components. As an application of this representation, the paper develops a central limit theory for multivariate volatility estimators. The approach can also handle leads and lags in the signal process.
+ER  - 
+
+TY  - JOUR
+T1  - A unified test for predictability of asset returns regardless of properties of predicting variables
+AU  - Liu, Xiaohui
+AU  - Yang, Bingduo
+AU  - Cai, Zongwu
+AU  - Peng, Liang
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 1
+SP  - 141
+EP  - 159
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special Issue on Financial Engineering and Risk Management
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.009
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830174X
+KW  - Empirical likelihood
+KW  - Predictive regression
+KW  - Weighted score
+AB  - Some unified tests have been proposed recently in the literature for testing predictability of asset returns based on a simple linear predictive regression model, which has a drawback that predicted variable cannot be stationary if the predicting variable is nonstationary. To solve this issue, this paper includes the difference of the predicting variable into the simple linear predictive regression. Furthermore, a unified empirical likelihood inference is developed to test the predictability regardless of the properties of the predicting variable. A simulation study is conducted to confirm the efficiency of the proposed methods before applying to a real example.
+ER  - 

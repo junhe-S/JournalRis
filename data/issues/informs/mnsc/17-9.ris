@@ -1,0 +1,312 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Proximal Decision Analysis
+AU  - Howard, Ronald A.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.507
+DO  - 10.1287/mnsc.17.9.507
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 507
+EP  - 541
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - This paper presents simplified techniques for analyzing the effect of uncertainty in large decision problems. Starting with the development of approximate expressions for the moments of a value lottery, we show that the probabilistic assessments of jointly related random variables necessary for these approximations are quite reasonable in number. The concepts of risk aversion, certain equivalent, and exponential utility function then permit writing useful approximations for the certain equivalent of the value lottery. Deterministic sensitivity analyses are described first for the case when the decision variables are fixed and then for the case when they can be changed to compensate for variations in state variables. The approximate effect and value of clairvoyance (revelation of ultimate values of uncertain variables) is derived from the original probabilistic assessment and the results of the deterministic sensitivity analysis. We next determine the approximate value of wizardry (changing uncertain variables into decision variables). The amount by which decision variables must be adjusted to account for risk aversion is established from earlier results. The final portion of the paper discusses a simple economic example that illustrates the application of the development.
+AB  - This paper presents simplified techniques for analyzing the effect of uncertainty in large decision problems. Starting with the development of approximate expressions for the moments of a value lottery, we show that the probabilistic assessments of jointly related random variables necessary for these approximations are quite reasonable in number. The concepts of risk aversion, certain equivalent, and exponential utility function then permit writing useful approximations for the certain equivalent of the value lottery. Deterministic sensitivity analyses are described first for the case when the decision variables are fixed and then for the case when they can be changed to compensate for variations in state variables. The approximate effect and value of clairvoyance (revelation of ultimate values of uncertain variables) is derived from the original probabilistic assessment and the results of the deterministic sensitivity analysis. We next determine the approximate value of wizardry (changing uncertain variables into decision variables). The amount by which decision variables must be adjusted to account for risk aversion is established from earlier results. The final portion of the paper discusses a simple economic example that illustrates the application of the development.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.507
+UR  - https://doi.org/10.1287/mnsc.17.9.507
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Control Problem of Bellman
+AU  - Dantzig, George B.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.542
+DO  - 10.1287/mnsc.17.9.542
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 542
+EP  - 546
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - The control problem discussed in this paper is a variant of one considered by Bellman in a seminar at the RAND Corporation. A solution was presented to the seminar by the author in October 1952 based on the idea of placing a ?loose? string between end points and ?pulling tight.? Recently, Arthur Veinott has greatly extended the class of problems which admit a ?string? solution. It appeared of value that the author publish his original notes on Bellman's problem. The problem will be considered here in a discrete version. The reader should have no difficulties developing its continuous analogue.
+AB  - The control problem discussed in this paper is a variant of one considered by Bellman in a seminar at the RAND Corporation. A solution was presented to the seminar by the author in October 1952 based on the idea of placing a ?loose? string between end points and ?pulling tight.? Recently, Arthur Veinott has greatly extended the class of problems which admit a ?string? solution. It appeared of value that the author publish his original notes on Bellman's problem. The problem will be considered here in a discrete version. The reader should have no difficulties developing its continuous analogue.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.542
+UR  - https://doi.org/10.1287/mnsc.17.9.542
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Least d-Majorized Network Flows with Inventory and Statistical Applications
+AU  - Veinott, Arthur F.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.547
+DO  - 10.1287/mnsc.17.9.547
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 547
+EP  - 567
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - It is shown that for any feasible network flow model, there is a flow which simultaneously minimizes every d-Schur convex function of the flows emanating from a single distinguished node called the source. The vector of flows emanating from the source in the minimizing flow is unique and is the ?least d-majorized? flow. This flow can be found by solving the problem for the special case where the d-Sehur convex function is separable and quadratic. Once this flow is found, the solution of the dual problem is reduced to evaluating the conjugate of a function appearing in the dual objective function at the above flow. This computation is extremely simple when the function is separable. These results are extended to situations in which the variables must be integers. An important special case of the problem can be solved geometrically by choosing, from among all paths joining two points in the plane and lying between two given nonintersecting paths, the path with minimum euclidian length. Applications of the results are given, to deterministic production-distribution models (e.g., the Modigliani-Hohn [30] production smoothing model), certain of the stochastic inventory-redistribution models examined by Ignall and Veinott [27], a deterministic price speculation and storage model (including Cahn's warehouse problem [11]), and a zero lead time case of the Clark-Scarf series multi-echelon model [13]. In addition, applications are given to several maximum likelihood estimation problems in which the parameters satisfy certain linear inequalities, e.g., those surveyed in Brunk [8], [9, pp. 1347?1349], and a few others.
+AB  - It is shown that for any feasible network flow model, there is a flow which simultaneously minimizes every d-Schur convex function of the flows emanating from a single distinguished node called the source. The vector of flows emanating from the source in the minimizing flow is unique and is the ?least d-majorized? flow. This flow can be found by solving the problem for the special case where the d-Sehur convex function is separable and quadratic. Once this flow is found, the solution of the dual problem is reduced to evaluating the conjugate of a function appearing in the dual objective function at the above flow. This computation is extremely simple when the function is separable. These results are extended to situations in which the variables must be integers. An important special case of the problem can be solved geometrically by choosing, from among all paths joining two points in the plane and lying between two given nonintersecting paths, the path with minimum euclidian length. Applications of the results are given, to deterministic production-distribution models (e.g., the Modigliani-Hohn [30] production smoothing model), certain of the stochastic inventory-redistribution models examined by Ignall and Veinott [27], a deterministic price speculation and storage model (including Cahn's warehouse problem [11]), and a zero lead time case of the Clark-Scarf series multi-echelon model [13]. In addition, applications are given to several maximum likelihood estimation problems in which the parameters satisfy certain linear inequalities, e.g., those surveyed in Brunk [8], [9, pp. 1347?1349], and a few others.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.547
+UR  - https://doi.org/10.1287/mnsc.17.9.547
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Flows in Arborescences
+AU  - Glover, Fred
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.568
+DO  - 10.1287/mnsc.17.9.568
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 568
+EP  - 586
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - This paper gives efficient methods for solving four specially structured network problems that arise in connection with certain integer programming methods developed by Cook and Cooper, Hillier, and Glover. Such problems have also independently been studied in inventory theory by Ignall and Veinott, who have developed extensive qualitative (nonalgorithmic) implications of their structures. In the integer programming context, special subclasses of these network problems are generated and solved as part of a strategy for solving more general integer linear programs. By providing particularly efficient methods for accommodating somewhat broader network structures, our results enable the development of related integer programming solution strategies that generate more complex subproblems. We show that the first of the four network problems can be solved by a procedure that assigns each variable a value exactly once, without subsequent revision. Properties of optimal solutions for the remaining problems are developed that enable the algorithm for the first to be extended to the second and then, by suitable transformation of variables, to the third and last problems as well. Moreover, while the last three problems involve an additional linear constraint that nullifies the ?integer extreme point property,? we show that optimal integer solutions to these problems can nevertheless easily be obtained from the optimal continuous solutions.
+AB  - This paper gives efficient methods for solving four specially structured network problems that arise in connection with certain integer programming methods developed by Cook and Cooper, Hillier, and Glover. Such problems have also independently been studied in inventory theory by Ignall and Veinott, who have developed extensive qualitative (nonalgorithmic) implications of their structures. In the integer programming context, special subclasses of these network problems are generated and solved as part of a strategy for solving more general integer linear programs. By providing particularly efficient methods for accommodating somewhat broader network structures, our results enable the development of related integer programming solution strategies that generate more complex subproblems. We show that the first of the four network problems can be solved by a procedure that assigns each variable a value exactly once, without subsequent revision. Properties of optimal solutions for the remaining problems are developed that enable the algorithm for the first to be extended to the second and then, by suitable transformation of variables, to the third and last problems as well. Moreover, while the last three problems involve an additional linear constraint that nullifies the ?integer extreme point property,? we show that optimal integer solutions to these problems can nevertheless easily be obtained from the optimal continuous solutions.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.568
+UR  - https://doi.org/10.1287/mnsc.17.9.568
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Quality Control under Markovian Deterioration
+AU  - Ross, Sheldon M.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.587
+DO  - 10.1287/mnsc.17.9.587
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 587
+EP  - 596
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - We suppose that a production process may be in any one of a countable number of states and that the quality of the item produced is a function of this underlying state. It is also supposed that the state of the process at time t is not known and only becomes known when an item is sampled. We suppose that there are inspection, production, and revision costs and provide a framework for handling problems of this nature. We also treat in detail a 2-state version of this problem, and in this case show that the optimal policy does not necessarily have the three region structure which intuition suggests.
+AB  - We suppose that a production process may be in any one of a countable number of states and that the quality of the item produced is a function of this underlying state. It is also supposed that the state of the process at time t is not known and only becomes known when an item is sampled. We suppose that there are inspection, production, and revision costs and provide a framework for handling problems of this nature. We also treat in detail a 2-state version of this problem, and in this case show that the optimal policy does not necessarily have the three region structure which intuition suggests.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.587
+UR  - https://doi.org/10.1287/mnsc.17.9.587
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Smoothing of Shipments in Response to Orders
+AU  - Peterson, Rein
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.597
+DO  - 10.1287/mnsc.17.9.597
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 597
+EP  - 607
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - In the American economy practically no penalty for fluctuations in placing orders is incurred by the ordering company, even though such fluctuations are costly to manufacturers and to the economy as a whole. In particular, dynamic pricing by suppliers, which would communicate information on desirable and undesirable times for placing orders, is seldom used in practice. In this paper we extend the Holt, Modigliani, Muth and Simon (H.M.M.S.) aggregate production-work force scheduling model by not requiring the manufacturer to ship exactly what is ordered. Our model provides a means of balancing the costs and benefits (to the manufacturer) of smoothing shipments in response to orders and therefore could be used as an aid in establishing dynamic prices.
+AB  - In the American economy practically no penalty for fluctuations in placing orders is incurred by the ordering company, even though such fluctuations are costly to manufacturers and to the economy as a whole. In particular, dynamic pricing by suppliers, which would communicate information on desirable and undesirable times for placing orders, is seldom used in practice. In this paper we extend the Holt, Modigliani, Muth and Simon (H.M.M.S.) aggregate production-work force scheduling model by not requiring the manufacturer to ship exactly what is ordered. Our model provides a means of balancing the costs and benefits (to the manufacturer) of smoothing shipments in response to orders and therefore could be used as an aid in establishing dynamic prices.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.597
+UR  - https://doi.org/10.1287/mnsc.17.9.597
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Comments on “Optimal Smoothing of Shipments in Response to Orders”
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.608
+DO  - 10.1287/mnsc.17.9.608
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 608
+EP  - 611
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - Comments on Peterson, R. 1971. Optimal Smoothing of Shipments in Response to Orders. Management Sci. 17(1, May) 597?607. ??On Smoothing Shipments? by Samuel Eilon, Imperial College of Science and Technology, Exhibition Road, London, S.W. 7, England ??Dynamic Pricing and Economic Instability? by Charles C. Holt, The Urban Institute, 2100 M Street, N. W., Washington, D. C. 20037
+AB  - Comments on Peterson, R. 1971. Optimal Smoothing of Shipments in Response to Orders. Management Sci. 17(1, May) 597?607. ??On Smoothing Shipments? by Samuel Eilon, Imperial College of Science and Technology, Exhibition Road, London, S.W. 7, England ??Dynamic Pricing and Economic Instability? by Charles C. Holt, The Urban Institute, 2100 M Street, N. W., Washington, D. C. 20037
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.608
+UR  - https://doi.org/10.1287/mnsc.17.9.608
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Linear Complementarity Problem
+AU  - Eaves, B. Curtis
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.612
+DO  - 10.1287/mnsc.17.9.612
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 612
+EP  - 634
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - This study centers on the task of efficiently finding a solution of the linear complementarity problem: Ix ? My = q, x ≥ 0, y ≥ 0, x ? y. The main results are: (1) It is shown that Lemke's algorithm will solve (or show no solution exists) the problem for M ? L where L is a class of matrices, which properly includes (i) certain copositive matrices, (ii) certain matrices with nonnegative principal minors, (iii) matrices for bimatrix games. (2) If M ? L, if the system Ix ? My = q, x ≥ 0, y ≥ 0 is feasible and nondegenerate, then the corresponding linear complementarity problem has an odd number of solutions. If M ? L and q > 0 then the solution is unique. (3) If for some M and every q ≥ 0 the problem has a unique solution then M ? L and the problem has a solution for every q. (4) If M has nonnegative principal minors and if the linear complementarity with M and q has a nondegenerate complementary solution then the solution is unique. (5) If yTMy + yTq is bounded below on y ≥ 0 then the linear complementarity problem with M and q has a solution and Lemke's algorithm can be used to find such a solution. If, in addition, the problem is nondegenerate, then it has an odd number of solutions. (6) A procedure based on Lemke's algorithm is developed which either computes stationary points for general quadratic programs or else shows that the program has no optimum. (7) If a quadratic program has an optimum and satisfies a nondegeneracy condition then there are an odd number of stationary points.
+AB  - This study centers on the task of efficiently finding a solution of the linear complementarity problem: Ix ? My = q, x ≥ 0, y ≥ 0, x ? y. The main results are: (1) It is shown that Lemke's algorithm will solve (or show no solution exists) the problem for M ? L where L is a class of matrices, which properly includes (i) certain copositive matrices, (ii) certain matrices with nonnegative principal minors, (iii) matrices for bimatrix games. (2) If M ? L, if the system Ix ? My = q, x ≥ 0, y ≥ 0 is feasible and nondegenerate, then the corresponding linear complementarity problem has an odd number of solutions. If M ? L and q > 0 then the solution is unique. (3) If for some M and every q ≥ 0 the problem has a unique solution then M ? L and the problem has a solution for every q. (4) If M has nonnegative principal minors and if the linear complementarity with M and q has a nondegenerate complementary solution then the solution is unique. (5) If yTMy + yTq is bounded below on y ≥ 0 then the linear complementarity problem with M and q has a solution and Lemke's algorithm can be used to find such a solution. If, in addition, the problem is nondegenerate, then it has an odd number of solutions. (6) A procedure based on Lemke's algorithm is developed which either computes stationary points for general quadratic programs or else shows that the program has no optimum. (7) If a quadratic program has an optimum and satisfies a nondegeneracy condition then there are an odd number of stationary points.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.612
+UR  - https://doi.org/10.1287/mnsc.17.9.612
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Economically Optimal Determination of the Parameters of X̄-Control Chart
+AU  - Gibra, Isaac N.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.635
+DO  - 10.1287/mnsc.17.9.635
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 635
+EP  - 646
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - This paper seeks a theoretical basis for determining the optimal parameters of the X?-chart under the specified conditions. These parameters are the sample size, the factor determining the spread of the control limits, and the intersample interval. The paper shows how to determine these parameters under sound practical assumptions so that the relevant cost function is minimized. Illustrative examples show how the formulated model can be applied.
+AB  - This paper seeks a theoretical basis for determining the optimal parameters of the X?-chart under the specified conditions. These parameters are the sample size, the factor determining the spread of the control limits, and the intersample interval. The paper shows how to determine these parameters under sound practical assumptions so that the relevant cost function is minimized. Illustrative examples show how the formulated model can be applied.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.635
+UR  - https://doi.org/10.1287/mnsc.17.9.635
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Computing Expected Values of Customer Requests Backordered
+AU  - Kaplan, Alan J.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.647
+DO  - 10.1287/mnsc.17.9.647
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 647
+EP  - 651
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - Suppose that the stockout cost for a supplier is a function of the number of customer requests backordered, each request possibly being for several units of stock of a product. The problem arises of computing the expected number of customer requests backordered. when techniques are available for computing the expected number of units backordered. A simple conversion factor is desirable. Based on a formal analysis, the conversion factor 1/E(X) is recommended where E(X) is average size of a customer request. This conclusion is contrary to that reached in previously published research. Analysis is extended to the case where backorder cost is time weighted; i.e., backordered sales are not lost, and the cost of a backorder depends on the time elapsing before the customer request is finally satisfied.
+AB  - Suppose that the stockout cost for a supplier is a function of the number of customer requests backordered, each request possibly being for several units of stock of a product. The problem arises of computing the expected number of customer requests backordered. when techniques are available for computing the expected number of units backordered. A simple conversion factor is desirable. Based on a formal analysis, the conversion factor 1/E(X) is recommended where E(X) is average size of a customer request. This conclusion is contrary to that reached in previously published research. Analysis is extended to the case where backorder cost is time weighted; i.e., backordered sales are not lost, and the cost of a backorder depends on the time elapsing before the customer request is finally satisfied.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.647
+UR  - https://doi.org/10.1287/mnsc.17.9.647
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Shuttle Car Assignment Problem in the Mining Industry
+AU  - Reynolds, Gary H.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.652
+DO  - 10.1287/mnsc.17.9.652
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 652
+EP  - 655
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - Shuttle cars form a part of the standard equipment employed by the mining industry in the transportation of coal when using the room-and-piller method for extracting coal from underground seams. These cars are subject to frequent failure, so the problem of assigning shuttle cars to sections of the mine is considered in this paper, with the objective of maximizing expected output. A particularly simple solution is found that could be used readily by any mine foreman.
+AB  - Shuttle cars form a part of the standard equipment employed by the mining industry in the transportation of coal when using the room-and-piller method for extracting coal from underground seams. These cars are subject to frequent failure, so the problem of assigning shuttle cars to sections of the mine is considered in this paper, with the objective of maximizing expected output. A particularly simple solution is found that could be used readily by any mine foreman.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.652
+UR  - https://doi.org/10.1287/mnsc.17.9.652
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Note on Marginal Allocation in Multiple-Server Service Systems
+AU  - Rolfe, Alan J.
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.656
+DO  - 10.1287/mnsc.17.9.656
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 656
+EP  - 658
+VL  - 17
+IS  - 9
+PB  - INFORMS
+N2  - In this note we consider the allocation of servers to a multiple facility service system. Each facility consists of a number of parallel channels and the arrival processes are Poisson. When service times are constant we prove that marginal allocation is an optimal and easily implemented solution technique and suggest that it is also optimal for exponential service times.
+AB  - In this note we consider the allocation of servers to a multiple facility service system. Each facility consists of a number of parallel channels and the arrival processes are Poisson. When service times are constant we prove that marginal allocation is an optimal and easily implemented solution technique and suggest that it is also optimal for exponential service times.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.656
+UR  - https://doi.org/10.1287/mnsc.17.9.656
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Notes About Authors
+Y1  - 1971/05/01
+PY  - 1971
+DA  - 1971/05/01
+N1  - doi: 10.1287/mnsc.17.9.659
+DO  - 10.1287/mnsc.17.9.659
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 659
+EP  - 660
+VL  - 17
+IS  - 9
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.17.9.659
+UR  - https://doi.org/10.1287/mnsc.17.9.659
+Y2  - 2024/03/27
+ER  - 

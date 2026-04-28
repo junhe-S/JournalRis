@@ -1,0 +1,281 @@
+TY  - JOUR
+T1  - Nonparametric estimation in case of endogenous selection
+AU  - Breunig, Christoph
+AU  - Mammen, Enno
+AU  - Simoni, Anna
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 268
+EP  - 285
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302221
+KW  - Endogenous selection
+KW  - Instrumental variable
+KW  - Sieve minimum distance
+KW  - Regression estimation
+KW  - Inverse problem
+KW  - Inverse probability weighting
+KW  - Convergence rate
+KW  - Asymptotic normality
+KW  - Bootstrap uniform confidence bands
+AB  - This paper addresses the problem of estimation of a nonparametric regression function from selectively observed data when selection is endogenous. Our approach relies on independence between covariates and selection conditionally on potential outcomes. Endogeneity of regressors is also allowed for. In the exogenous and endogenous case, consistent two-step estimation procedures are proposed and their rates of convergence are derived. Pointwise asymptotic distribution of the estimators is established. In addition, bootstrap uniform confidence bands are obtained. Finite sample properties are illustrated in a Monte Carlo simulation study and an empirical illustration.
+ER  - 
+
+TY  - JOUR
+T1  - Two-stage stationary bootstrapping for bivariate average realized volatility matrix under market microstructure noise and asynchronicity
+AU  - Hwang, Eunju
+AU  - Shin, Dong Wan
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 178
+EP  - 195
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302099
+KW  - Market microstructure noise
+KW  - Non-synchronous trading
+KW  - Realized covariations
+KW  - Two-time scale estimator
+KW  - Stationary bootstrap
+KW  - High frequency data
+AB  - Under the two important modern financial market features of noise and non-synchronicity for multiple assets, for consistent estimators of the integrated covariations, we adopt the two-time scale average realized volatility matrix (ARVM) which is a matrix extension of the two-time scale realized volatilities of Zhang et al. (2005). An asymptotic normal theory is provided for the two-time scale ARVM and resulting realized covariations. The asymptotic normality is not directly applicable in practice to construct statistical methods owning to nuisance parameters. To bypass the nuisance parameter problem, two-stage stationary bootstrapping is proposed. We establish consistencies of the bootstrap distributions, and construct confidence intervals and hypothesis tests for the integrated covariance, regression coefficient and correlation coefficient. The validity of the stationary bootstrap for the high frequency heterogeneous returns is proved by showing that there exist parameters of the stationary bootstrap blocks so that the bootstrap consistencies hold. The proposed bootstrap methods extend the i.i.d. bootstrapping methods for realized covariations by Dovonon et al. (2013), that are confined to synchronous noise-free sampling. For high frequency noisy asynchronous samples, a Monte-Carlo experiment shows better finite sample performances of the proposed stationary bootstrap methods based on the two-time scale ARVM estimator than the wild blocks of blocks bootstrap methods of Hounyo (2017), based on pre-averaged truncated estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric testing for smooth structural changes in panel data models
+AU  - Chen, Bin
+AU  - Huang, Liquan
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 245
+EP  - 267
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730221X
+KW  - Local smoothing
+KW  - Panel data
+KW  - Parameter constancy
+KW  - Smooth structural changes
+AB  - Detecting and modeling structural changes in time series models have attracted great attention. However, relatively little effort has been paid to the testing of structural changes in panel data models despite their increasing importance in economics and finance. In this paper, we propose a new approach to testing structural changes in panel data models. Unlike the bulk of the literature on structural changes, which focuses on detection of abrupt structural changes, we consider smooth structural changes for which model parameters are unknown deterministic smooth functions of time except for a finite number of time points. We use nonparametric local smoothing method to consistently estimate the smooth changing parameters and develop two consistent tests for smooth structural changes in panel data models. The first test is to check whether all model parameters are stable over time. The second test is to check potential time-varying interaction while allowing for a common trend. Both tests have an asymptotic N(0,1) distribution under the null hypothesis of parameter constancy and are consistent against a vast class of smooth structural changes as well as abrupt structural breaks with possibly unknown break points alternatives. Simulation studies show that the tests provide reliable inference in finite samples and two empirical examples with respect to a cross-country growth model and a capital structure model are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference of dynamic structural factor models with over-identifying restrictions
+AU  - Han, Xu
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 125
+EP  - 147
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301896
+KW  - High-dimensional factor models
+KW  - Identification and estimation
+KW  - Structural impulse responses
+AB  - This paper develops a new estimator for the impulse response functions in structural factor models with a fixed number of over-identifying restrictions. The proposed identification scheme nests the conventional just-identified recursive scheme as a special case. We establish the asymptotic distributions of the new estimator and develop test statistics for the over-identifying restrictions. Simulation results show that adding a few more over-identifying restrictions can lead to a substantial improvement in estimation accuracy for impulse response functions at both zero and nonzero horizons. We estimate the effects of a monetary policy shock using a U.S. data set. The results show that our over-identified scheme can help to detect incorrect specifications that lead to spurious impulse responses.
+ER  - 
+
+TY  - JOUR
+T1  - The cointegrated vector autoregressive model with general deterministic terms
+AU  - Johansen, Søren
+AU  - Nielsen, Morten Ørregaard
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 214
+EP  - 229
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302117
+KW  - Additive formulation
+KW  - Cointegration
+KW  - Deterministic terms
+KW  - Extended model
+KW  - Likelihood inference
+KW  - VAR model
+AB  - In the cointegrated vector autoregression (CVAR) literature, deterministic terms have until now been analyzed on a case-by-case, or as-needed basis. We give a comprehensive unified treatment of deterministic terms in the additive model Xt=γZt+Yt, where Zt belongs to a large class of deterministic regressors and Yt is a zero-mean CVAR. We suggest an extended model that can be estimated by reduced rank regression, and give a condition for when the additive and extended models are asymptotically equivalent, as well as an algorithm for deriving the additive model parameters from the extended model parameters. We derive asymptotic properties of the maximum likelihood estimators and discuss tests for rank and tests on the deterministic terms. In particular, we give conditions under which the estimators are asymptotically (mixed) Gaussian, such that associated tests are χ2-distributed.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum to “Characterization of the asymptotic distribution of semiparametric M-estimators” [J. Econometrics 159 (2) (2010) 252–266]
+AU  - Ichimura, Hidehiko
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 306
+EP  - 307
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730146X
+KW  - Semiparametric estimation
+KW  - Two-step estimation
+AB  - This note provides correction to Ichimura and Lee (2010).
+ER  - 
+
+TY  - JOUR
+T1  - Sparse linear models and l1-regularized 2SLS with high-dimensional endogenous regressors and instruments
+AU  - Zhu, Ying
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 196
+EP  - 213
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302105
+KW  - High-dimensional statistics
+KW  - Lasso
+KW  - Sparse linear models
+KW  - Endogeneity
+KW  - Two-stage least squares
+AB  - We explore the validity of the 2-stage least squares estimator with l1-regularization in both stages, for linear triangular models where the numbers of endogenous regressors in the main equation and instruments in the first-stage equations can exceed the sample size, and the regression coefficients are sufficiently sparse. For this l1-regularized 2-stage least squares estimator, we first establish finite-sample performance bounds and then provide a simple practical method (with asymptotic guarantees) for choosing the regularization parameter. We also sketch an inference strategy built upon this practical method.
+ER  - 
+
+TY  - JOUR
+T1  - Announcement
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 309
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302312
+ER  - 
+
+TY  - JOUR
+T1  - Announcement
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 308
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302300
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric fixed effects model for panel data with locally stationary regressors
+AU  - Pei, Youquan
+AU  - Huang, Tao
+AU  - You, Jinhong
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 286
+EP  - 305
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302233
+KW  - Panel data models
+KW  - Fixed effect
+KW  - Locally stationary
+KW  - Local linear estimation
+KW  - Hypothesis testing
+AB  - We develop methods for inference in nonparametric time-varying fixed effects panel data models that allow for locally stationary regressors and for the time series length T and cross-section size N both being large. We first develop a pooled nonparametric profile least squares dummy variable approach to estimate the nonparametric function, and establish the optimal convergence rate and asymptotic normality of the resultant estimator. We then propose a test statistic to check whether the bivariate nonparametric function is time-varying or the time effect is separable, and derive the asymptotic distribution of the proposed test statistic. We present several simulated examples and two real data analyses to illustrate the finite sample performance of the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent inference in fixed-effects stochastic frontier models
+AU  - Belotti, Federico
+AU  - Ilardi, Giuseppe
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 161
+EP  - 177
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730194X
+KW  - Stochastic frontiers
+KW  - Fixed-effects
+KW  - Panel data
+KW  - Marginal simulated likelihood
+KW  - Pairwise differencing
+AB  - The classical stochastic frontier panel data models provide no mechanism to disentangle individual time invariant unobserved heterogeneity from inefficiency. Greene (2005a, b) proposed the so-called “true” fixed-effects specification that distinguishes these two latent components. However, due to the incidental parameters problem, his maximum likelihood estimator may lead to biased variance estimates. We propose two alternative estimators that achieve consistency for n→∞ with fixed T. Furthermore, we extend the Chen et al. (2014) results providing a feasible estimator when the inefficiency is heteroskedastic and follows a first-order autoregressive process. We investigate the behavior of the proposed estimators through Monte Carlo simulations showing good finite sample properties, especially in small samples. An application to hospitals’ technical efficiency illustrates the usefulness of the new approach.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification and estimation of sample selection models under symmetry
+AU  - Chen, Songnian
+AU  - Zhou, Yahong
+AU  - Ji, Yuanyuan
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 148
+EP  - 160
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301938
+KW  - Sample selection
+KW  - Nonparametric estimation
+KW  - Symmetry
+AB  - Under a conditional mean restriction Das et al. (2003) considered nonparametric estimation of sample selection models. However, their method can only identify the outcome regression function up to a constant. In this paper we strengthen the conditional mean restriction to a symmetry restriction under which selection biases due to selection on unobservables can be eliminated through proper matching of propensity scores; consequently we are able to identify and obtain consistent estimators for the average treatment effects and the structural regression functions. The results from a simulation study suggest that our estimators perform satisfactorily.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - ii
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30250-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302506
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation and computation for the generalised additive models with unknown link function
+AU  - Lin, Huazhen
+AU  - Pan, Lixian
+AU  - Lv, Shaogao
+AU  - Zhang, Wenyang
+JO  - Journal of Econometrics
+VL  - 202
+IS  - 2
+SP  - 230
+EP  - 244
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302208
+KW  - Generalised additive model
+KW  - Local linear smoothing
+KW  - Quasi-likelihood
+KW  - Asymptotical properties
+KW  - Semiparametric efficiency
+AB  - The generalised additive models (GAM) are widely used in data analysis. In the application of the GAM, the link function involved is usually assumed to be a commonly used one without justification. Motivated by a real data example with binary response where the commonly used link function does not work, we propose a generalised additive models with unknown link function (GAMUL) for various types of data, including binary, continuous and ordinal. The proposed estimators are proved to be consistent and asymptotically normal. Semiparametric efficiency of the estimators is demonstrated in terms of their linear functionals. In addition, an iterative algorithm, where all estimators can be expressed explicitly as a linear function of Y, is proposed to overcome the computational hurdle for the GAM type model. Extensive simulation studies conducted in this paper show the proposed estimation procedure works very well. The proposed GAMUL are finally used to analyze a real dataset about loan repayment in China, which leads to some interesting findings.
+ER  - 

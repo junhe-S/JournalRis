@@ -1,0 +1,273 @@
+TY  - JOUR
+T1  - We modeled long memory with just one lag!
+AU  - Bauwens, Luc
+AU  - Chevillon, Guillaume
+AU  - Laurent, Sébastien
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105467
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001616
+KW  - Bayesian estimation
+KW  - Ridge regression
+KW  - Vector autoregressive model
+KW  - Forecasting
+AB  - Two recent contributions have found conditions for large dimensional networks or systems to generate long memory in their individual components. We build on these and provide a multivariate methodology for modeling and forecasting series displaying long range dependence. We model long memory properties within a vector autoregressive system of order 1 and consider Bayesian estimation or ridge regression. For these, we derive a theory-driven parametric setting that informs a prior distribution or a shrinkage target. Our proposal significantly outperforms univariate time series long-memory models when forecasting a daily volatility measure for 250 U.S. company stocks over twelve years. This provides an empirical validation of the theoretical results showing long memory can be sourced to marginalization within a large dimensional system.
+ER  - 
+
+TY  - JOUR
+T1  - Large stochastic volatility in mean VARs
+AU  - Cross, Jamie L.
+AU  - Hou, Chenghan
+AU  - Koop, Gary
+AU  - Poon, Aubrey
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105469
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.05.006
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300163X
+KW  - Bayesian VARs
+KW  - Macroeconomic forecasting
+KW  - Stochastic volatility in mean
+KW  - State space models
+KW  - Uncertainty
+AB  - Bayesian vector autoregressions with stochastic volatility in both the conditional mean and variance (SVMVARs) are widely used for studying the macroeconomic effects of uncertainty. Despite their popularity, intensive computational demands when estimating such models has constrained researchers to specifying a small number of latent volatilities, and made out-of-sample forecasting exercises impractical. In this paper, we propose an efficient Markov chain Monte Carlo (MCMC) algorithm that facilitates timely posterior and predictive inference with large SVMVARs. In a simulation exercise, we show that the new algorithm is significantly faster than the state-of-the-art particle Gibbs with ancestor sampling algorithm, and exhibits superior mixing properties. In two applications, we show that large SVMVARs are generally useful for structural analysis and out-of-sample forecasting, and are especially useful in periods of high uncertainty such as the Great Recession and the COVID-19 pandemic.
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional conditionally Gaussian state space models with missing data
+AU  - Chan, Joshua C.C.
+AU  - Poon, Aubrey
+AU  - Zhu, Dan
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105468
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001628
+KW  - Mixed-frequency
+KW  - Unbalanced panel
+KW  - Vector autoregression
+KW  - Dynamic factor model
+KW  - Stochastic volatility
+AB  - We develop an efficient sampling approach for handling complex missing data patterns and a large number of missing observations in conditionally Gaussian state space models. Two important examples are dynamic factor models with unbalanced datasets and large Bayesian VARs with variables in multiple frequencies. A key observation underlying the proposed approach is that the joint distribution of the missing data conditional on the observed data is Gaussian. Furthermore, the inverse covariance or precision matrix of this conditional distribution is sparse, and this special structure can be exploited to substantially speed up computations. We illustrate the methodology using two empirical applications. The first application combines quarterly, monthly and weekly data using a large Bayesian VAR to produce weekly GDP estimates. In the second application, we extract latent factors from unbalanced datasets involving over a hundred monthly variables via a dynamic factor model with stochastic volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Post-processed posteriors for sparse covariances
+AU  - Lee, Kwangmin
+AU  - Lee, Jaeyong
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105475
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105475
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001914
+KW  - Covariance estimation
+KW  - Bayesian inference
+KW  - High-dimensional analysis
+KW  - Minimax analysis
+KW  - Idiosyncratic covariance
+AB  - We consider Bayesian inference of sparse covariance matrices and propose a post-processed posterior. This method consists of two steps. In the first step, posterior samples are obtained from the conjugate inverse-Wishart posterior without considering the sparse structural assumption. The posterior samples are transformed in the second step to satisfy the sparse structural assumption through a generalized thresholding function. This non-traditional Bayesian procedure is justified by showing that the post-processed posterior attains the optimal minimax rates under the spectral norm loss in high-dimensional settings. We also propose the post-processed posterior for contaminated data and apply it to the estimation of the sparse idiosyncratic covariance of the approximate factor model. The advantages of our method are demonstrated via a simulation study and a real data analysis with S&P 500 data.
+ER  - 
+
+TY  - JOUR
+T1  - Policy evaluation during a pandemic
+AU  - Callaway, Brantly
+AU  - Li, Tong
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105454
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001483
+KW  - Policy evaluation
+KW  - Difference-in-differences
+KW  - Unconfoundedness
+KW  - Covid-19
+KW  - Pandemic
+KW  - Mediators
+AB  - National and local governments have implemented a large number of policies in response to the Covid-19 pandemic. Evaluating the effects of these policies, both on the number of Covid-19 cases as well as on other economic outcomes is a key ingredient for policymakers to be able to determine which policies are most effective as well as the relative costs and benefits of particular policies. In this paper, we consider the relative merits of common identification strategies that exploit variation in the timing of policies across different locations by checking whether the identification strategies are compatible with leading epidemic models in the epidemiology literature. We argue that unconfoundedness type approaches, that condition on the pre-treatment “state” of the pandemic, are likely to be more useful for evaluating policies than difference-in-differences type approaches due to the highly nonlinear spread of cases during a pandemic. For difference-in-differences, we further show that a version of this problem continues to exist even when one is interested in understanding the effect of a policy on other economic outcomes when those outcomes also depend on the number of Covid-19 cases. We propose alternative approaches that are able to circumvent these issues. We apply our proposed approach to study the effect of state level shelter-in-place orders early in the pandemic.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic discrete choice models with incomplete data: Sharp identification
+AU  - Sasaki, Yuya
+AU  - Takahashi, Yuya
+AU  - Xin, Yi
+AU  - Hu, Yingyao
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105461
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001550
+KW  - Dynamic discrete choice
+KW  - Incomplete data
+KW  - Industry dynamics
+KW  - Partial identification
+KW  - Sharp identification
+AB  - In many empirical studies, those states that are relevant for forward-looking economic agents to make decisions may not be included in the data to which researchers have access. This problem often arises in the context of declining/booming industries. In this paper, we develop the sharp identified sets of structural parameters and counterfactuals for dynamic discrete choice models when empirical data do not cover realizations of relevant future states. Applying the proposed method to the annual Toyo Keizai database, we study the behaviors of Japanese firms on foreign direct investments in China without observing the future states after Chinese economy slows down.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105485
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00201-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002014
+ER  - 
+
+TY  - JOUR
+T1  - Identification-robust beta pricing, spanning, mimicking portfolios, and the benchmark neutrality of catastrophe bonds
+AU  - Beaulieu, Marie-Claude
+AU  - Dufour, Jean-Marie
+AU  - Khalaf, Lynda
+AU  - Melin, Olena
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105464
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001586
+KW  - Identification-robust inference
+KW  - Asset pricing
+KW  - Spanning
+KW  - Benchmark neutrality
+KW  - Mimicking portfolios
+KW  - Missing factors
+AB  - This paper proposes inference strategies for conditional and unconditional asset pricing models, which cover beta pricing, the zero-beta rate, risk prices, Jensen’s alphas, mean–variance spanning and intersection. We derive analytical conditions that link the identification of the zero-beta rate to spanning. Following finite-sample statistical considerations, the proposed procedures correct for measurement error with mimicking portfolios, and are invariant to fund repacking as well as and robust to: (i) missing factors, (ii) identification of risk price, and (iii) the quality of conditioning information. Empirically, we study benchmark neutrality of Catastrophe bond mutual funds. Results show that potential for diversification is significant before the 2008 financial crisis, yet lack support thereafter.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation of latent variable asset pricing models
+AU  - Dalderop, Jeroen
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105465
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001598
+KW  - Asset prices
+KW  - Volatility
+KW  - Risk aversion
+KW  - Latent variables
+KW  - Semiparametric estimation
+AB  - This paper studies semiparametric identification and estimation of consumption-based asset pricing models with latent state variables. First, we measure how consumption, dividends, and prices depend on Markovian state variables describing aggregate output growth. Subsequently, we identify state-dependent components in the stochastic discount factor using the Euler equation. We develop tractable algorithms for filtering, smoothing, and sieve maximum likelihood estimation, and establish its consistency. Empirically, we find sizable nonlinearities in the impact of expected growth and volatility on the price–dividend ratio and discount factor.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation for α-stable double autoregressive models
+AU  - Li, Dong
+AU  - Tao, Yuxin
+AU  - Yang, Yaxing
+AU  - Zhang, Rongmao
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105471
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001653
+KW  - DAR model
+KW  - Kolmogorov-type test
+KW  - MLE
+KW  - Nonstationarity
+KW  - Stable distribution
+AB  - The paper investigates the maximum likelihood estimation (MLE) for a first-order double autoregressive model with standardized non-Gaussian symmetric α-stable innovation (sDAR) within a unified framework of stationary and explosive cases. It is shown that the MLE of all parameters, including the stable exponent in the innovation, are strongly consistent and asymptotically normal (with the exception of the intercept for the explosive case). Particularly, the MLE of the parameter in the conditional location is always asymptotically normal, regardless of the stationary or explosive case. This point totally differs from that for linear α-stable AR models in Andrews et al. (2009). Furthermore, it is the first time to provide exact values of the quantities related to the innovation in the asymptotic covariance matrices when the true innovation is the standard Cauchy distribution. Additionally, a modified Kolmogorov-type test statistic is proposed for model diagnostic checking in the stationary case. Monte Carlo simulation studies are conducted to confirm our theoretical findings and assess the finite-sample performance of the MLE and the modified Kolmogorov-type test. An empirical example is analyzed to illustrate the usefulness of sDAR models.
+ER  - 
+
+TY  - JOUR
+T1  - Testing many restrictions under heteroskedasticity
+AU  - Anatolyev, Stanislav
+AU  - Sølvsten, Mikkel
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105473
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001677
+KW  - Linear regression
+KW  - Ordinary least squares
+KW  - Many regressors
+KW  - Leave-out estimation
+KW  - Hypothesis testing
+KW  - High-dimensional models
+AB  - We propose a hypothesis test that allows for many tested restrictions in a heteroskedastic linear regression model. The test compares the conventional F statistic to a critical value that corrects for many restrictions and conditional heteroskedasticity. This correction uses leave-one-out estimation to correctly center the critical value and leave-three-out estimation to appropriately scale it. The large sample properties of the test are established in an asymptotic framework where the number of tested restrictions may be fixed or may grow with the sample size, and can even be proportional to the number of observations. We show that the test is asymptotically valid and has non-trivial asymptotic power against the same local alternatives as the exact F test when the latter is valid. Simulations corroborate these theoretical findings and suggest excellent size control in moderately small samples, even under strong heteroskedasticity.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of auction models using order statistics
+AU  - Luo, Yao
+AU  - Xiao, Ruli
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105457
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001513
+KW  - Consecutive order statistics
+KW  - Finite mixture
+KW  - Unobserved competition
+KW  - Multidimensional unobserved heterogeneity
+AB  - Auction data often contain information on only the most competitive bids as opposed to all bids. The usual measurement error approaches to unobserved heterogeneity are inapplicable due to dependence among order statistics. We bridge this gap by providing a set of positive identification results. First, we show that symmetric auctions with discrete unobserved heterogeneity are identifiable using two consecutive order statistics and an instrument. Second, we extend the results to ascending auctions with unknown competition and unobserved heterogeneity.
+ER  - 
+
+TY  - JOUR
+T1  - Structural VAR models in the Frequency Domain
+AU  - Guay, Alain
+AU  - Pelgrin, Florian
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 1
+SP  - 105466
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001604
+KW  - SVARs
+KW  - Frequency domain
+KW  - Asymptotic least squares
+KW  - Continuum of identifying restrictions
+AB  - This paper proposes a joint methodology for the identification and inference of structural vector autoregressive models in the frequency domain. We show that identifying restrictions can be written naturally as an asymptotic least squares problem (Gouriéroux et al., 1985) in which there is a continuum of nonlinear estimating equations. Following Carrasco and Florens (2000), we then propose a continuum asymptotic least squares estimator (C-ALS) that efficiently exploits the continuum of estimating equations, thereby allowing to obtain optimal consistent estimates of impulse responses and reliable confidence intervals. Moreover, the identifying restrictions can be formally tested using an appropriate J-stat, and the frequency band can be selected using a data-driven procedure. Finally, we provide some Monte Carlo simulations and an application regarding the hours–productivity debate.
+ER  - 

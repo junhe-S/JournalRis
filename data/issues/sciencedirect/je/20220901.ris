@@ -1,0 +1,263 @@
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - ii
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(22)00110-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001105
+ER  - 
+
+TY  - JOUR
+T1  - Factor investing: A Bayesian hierarchical approach
+AU  - Feng, Guanhao
+AU  - He, Jingyu
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 183
+EP  - 200
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100258X
+KW  - Asset allocation
+KW  - Bayes
+KW  - Hierarchical prior
+KW  - Estimation risk
+KW  - Characteristics
+KW  - Macro predictors
+KW  - Risk factor
+AB  - This paper investigates the asset allocation problem when returns are predictable. We introduce a market-timing Bayesian hierarchical (BH) approach that adopts heterogeneous time-varying coefficients driven by lagged fundamental characteristics. Our approach estimates the conditional expected returns and residual covariance matrix jointly enables evaluating the estimation risk in the portfolio analysis. The hierarchical prior allows the modeling of different assets separately while sharing information across assets. We demonstrate the performance of the U.S. equity market, and our BH approach outperforms most alternative methods in terms of point prediction and interval coverage. In addition, the BH efficient portfolio achieves monthly returns of 0.92% and a significant Jensen’s alpha of 0.32% in sector investment over the past twenty years. We detect that technology, energy, and manufacturing are the most critical sectors in the past decade, and size, investment, and short-term reversal factors are heavily weighted in our portfolio. Furthermore, the stochastic discount factor constructed by our BH approach can explain many risk anomalies.
+ER  - 
+
+TY  - JOUR
+T1  - Parsimony inducing priors for large scale state–space models
+AU  - Lopes, Hedibert F.
+AU  - McCulloch, Robert E.
+AU  - Tsay, Ruey S.
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 39
+EP  - 61
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002621
+KW  - Bayesian modeling
+KW  - Conditional heteroscedasticity
+KW  - Forward filtering and backward sampling
+KW  - Parallel computing
+KW  - Sparsity
+KW  - Shrinkage
+AB  - State–space models are commonly used in the engineering, economic, and statistical literature. They are flexible and encompass many well-known statistical models, including random coefficient autoregressive models and dynamic factor models. Bayesian analysis of state–space models has attracted much interest in recent years. However, for large scale models, prior specification becomes a challenging issue in Bayesian inference. In this paper, we propose a flexible prior for state–space models. The proposed prior is a mixture of four commonly entertained models, yet achieving parsimony in high-dimensional systems. Here “parsimony” is represented by the idea that, in a large system, some states may not be time-varying. Our prior for the state–space component’s standard deviation is capable to accommodate different scenarios. Simulation and simple examples are used throughout this paper to demonstrate the performance of the proposed prior. As an application, we consider the time-varying conditional covariance matrices of daily log returns of the components of the S&P 100 index, leading to a state–space model with roughly five thousand time-varying states. Our model for this large system enables us to use parallel computing.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian nonparametric learning of how skill is distributed across the mutual fund industry
+AU  - Fisher, Mark
+AU  - Jensen, Mark J.
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 131
+EP  - 153
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001147
+KW  - Bayesian nonparametrics
+KW  - Mutual funds
+KW  - Unsupervised learning
+AB  - In this paper, we use Bayesian nonparametric learning to estimate the skill of actively managed mutual funds and also to estimate the population distribution of skill. A nonparametric hierarchical prior, where the hyperprior distribution is unknown and modeled with a Dirichlet Process prior, is used to model the skill parameter, with its posterior predictive distribution being an estimate of the population distribution. Our nonparametric approach is equivalent to an infinitely ordered mixture of normals where we resolve the uncertainty in the number of mixture components by learning how to partition the funds into groups according to the average ability and the variability in the skill of a group. By resolving the mixture’s uncertainty, our nonparametric prior avoids having to sequentially estimate and test an array of pre-specified, finite ordered, mixture priors. Applying our Bayesian nonparametric learning approach to a panel of actively managed, domestic equity funds, we find the population distribution of skill to be fat-tailed, skewed towards higher levels of performance, with two distinct modes – a primary mode where the average ability covers the average fees charged by funds, and a secondary mode at a performance level where a fund loses money for its investors.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotically valid Bayesian inference in the presence of distributional misspecification in VAR models
+AU  - Petrova, Katerina
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 154
+EP  - 182
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000865
+AB  - Inaccurately imposing Gaussian distributional assumptions in standard multivariate time series models does not affect inference on the autoregressive coefficients but distorts both classical and Bayesian inference on the volatility matrix whenever the true error distribution has excess kurtosis relative to the multivariate normal density. Inference on the intercept is also affected whenever the innovations are generated from a non-symmetric distribution. As a result of distributional misspecification, Bayesian methods lead to asymptotically invalid posterior inference for the intercept and the volatility matrix and, consequently, invalid posterior credible sets for quantities such as impulse responses, variance decompositions and density forecasts. We propose a robust and computationally fast Bayesian procedure which delivers asymptotically correct posterior credible sets without the need for distributional assumptions. The proposed corrected Bayesian posteriors for the volatility matrix and the intercept vector are based on the asymptotic covariance of the QML estimators and admit a closed form. Implementation of the procedure requires consistent estimation of the multivariate skewness and kurtosis of the innovations, and we propose novel shrinkage estimators designed to shrink these large dimensional objects towards the skewness and kurtosis of a Gaussian vector. We extend our robust Bayesian analysis to accommodate non-Gaussian disturbances in the presence of parameter instability, by combining the estimators of the current paper with semi-parametric kernel-type methods. We demonstrate that our estimators deliver correct posterior coverage rates in an extensive Monte Carlo exercise under a variety of distributional specifications. Finally, we present empirical evidence that imposing Gaussianity or homoskedasticity assumptions on financial and uncertainty shocks is not justified and may lead to misleading empirical conclusions.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive Bayesian estimation of conditional discrete-continuous distributions with an application to stock market trading activity
+AU  - Norets, Andriy
+AU  - Pelenis, Justinas
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 62
+EP  - 82
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100261X
+KW  - Bayesian nonparametrics
+KW  - Adaptive rates
+KW  - Posterior contraction
+KW  - Conditional density
+KW  - Mixtures of normal distributions
+KW  - Smoothly mixing regressions
+KW  - Mixtures of experts
+AB  - We consider Bayesian nonparametric estimation of conditional discrete-continuous distributions. Our model is based on a mixture of normal distributions with covariate dependent mixing probabilities. We use continuous latent variables for modeling the discrete part of the distribution. The marginal distribution of covariates is not modeled. Under anisotropic smoothness conditions on the data generating conditional distribution and a possibly increasing number of the support points for the discrete part of the distribution, we show that the posterior in our model contracts at frequentist adaptive optimal rates up to a log factor. Our results also imply an upper bound on the posterior contraction rate for predictive distributions when the data follow an ergodic Markov process and our model is used for modeling the Markov transition distribution. The proposed model performs well in an application to stock market trading activity.
+ER  - 
+
+TY  - JOUR
+T1  - Real-time Bayesian learning and bond return predictability
+AU  - Wan, Runqing
+AU  - Fulop, Andras
+AU  - Li, Junye
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 114
+EP  - 130
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.052
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000877
+KW  - Bayesian learning
+KW  - Bond return predictability
+KW  - Non-overlapping bond returns
+KW  - Parameter uncertainty
+KW  - Model combinations
+KW  - Real-time macroeconomic information
+AB  - The paper examines statistical and economic evidence of out-of-sample bond return predictability for a real-time Bayesian investor who learns about parameters, hidden states, and predictive models over time. We find some statistical evidence using information contained in forward rates. However, such statistical predictability can hardly generate any economic value for investors. Furthermore, we find that strong statistical and economic evidence of bond return predictability from fully-revised macroeconomic data vanishes when real-time macroeconomic information is used. We also show that highly levered investments in bonds can improve short-run bond return predictability.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian Methods in Economics and Finance: Editor’s Introduction
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 1
+EP  - 2
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621003109
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian factor-adjusted sparse regression
+AU  - Fan, Jianqing
+AU  - Jiang, Bai
+AU  - Sun, Qiang
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 3
+EP  - 19
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000828
+KW  - Factor model
+KW  - Bayesian sparse regression
+KW  - Posterior contraction
+KW  - Model selection
+AB  - Many sparse regression methods rely on an assumption that the covariates are weakly correlated, which hardly holds in many economic and financial datasets. To relax this assumption, we model the strongly correlated covariates by a factor structure: strong correlations among covariates are modeled by common factors, while the remaining variations of covariates are modeled as idiosyncratic components. We then propose a factor-adjusted sparse regression model and develop a semi-Bayesian estimation method for it. Posterior contraction rate and model selection consistency are established by a non-asymptotic analysis. Experimental studies show that the proposed method outperforms its Lasso analogue, manifests insensitivity to overestimates of the number of common factors, pays a negligible price when covariates are uncorrelated, scales up well with increasing sample size, dimensionality and sparsity, and converges fast to the posterior distribution. An application to the U.S. bond risk premia lends further support to the proposed model and method.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian and maximum likelihood analysis of large-scale panel choice models with unobserved heterogeneity
+AU  - Ando, Tomohiro
+AU  - Bai, Jushan
+AU  - Li, Kunpeng
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 20
+EP  - 38
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100083X
+KW  - Cross-sectional and serial dependence
+KW  - Endogeneity
+KW  - Factor analysis
+KW  - Heterogeneous panel
+KW  - Nonlinear panel data
+AB  - This paper considers the estimation and inference procedures for the case of a logistic panel regression model with interactive fixed effects, where multiple individual effects are allowed and the model is capable of capturing high-dimensional cross-section dependence. The proposed model also allows for heterogeneous regression coefficients. New Bayesian and non-Bayesian approaches are introduced to estimate the model parameters. We investigate the asymptotic behaviors of the estimated parameters. We show the consistency and asymptotic normality of the estimated regression coefficients and the estimated interactive fixed effects when both the cross-section and time-series dimensions of the panel go to infinity. We prove that the dimensionality of the interactive effects can be consistently estimated by the proposed information criterion. Monte Carlo simulations demonstrate the satisfactory performance of the proposed method. Finally, the method is applied to study the performance of New York City medallion drivers in terms of efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Posterior-based Wald-type statistics for hypothesis testing
+AU  - Liu, Xiaobin
+AU  - Li, Yong
+AU  - Yu, Jun
+AU  - Zeng, Tao
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 83
+EP  - 113
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002608
+KW  - Decision theory
+KW  - Hypothesis testing
+KW  - Latent variable models
+KW  - Posterior simulation
+KW  - Wald test
+AB  - A new Wald-type statistic is proposed for hypothesis testing based on Bayesian posterior distributions under the correct model specification. The new statistic can be explained as a posterior version of the Wald statistic and has several nice properties. First, it is well-defined under improper prior distributions. Second, it avoids Jeffreys–Lindley–Bartlett’s paradox. Third, under the null hypothesis and repeated sampling, it follows a χ2 distribution asymptotically, offering an asymptotically pivotal test. Fourth, it only requires inverting the posterior covariance for parameters of interest. Fifth and perhaps most importantly, when a random sample from the posterior distribution (such as MCMC output) is available, the proposed statistic can be easily obtained as a by-product of posterior simulation. In addition, the numerical standard error of the estimated proposed statistic can be computed based on random samples. A robust version of the test statistic is developed under model misspecification and inherits many nice properties of the new posterior statistic. The finite sample performance of the statistics is examined in Monte Carlo studies. The method is applied to two latent variable models used in microeconometrics and financial econometrics.
+ER  - 
+
+TY  - JOUR
+T1  - Affine arbitrage-free yield net models with application to the euro debt crisis
+AU  - Hong, Zhiwu
+AU  - Niu, Linlin
+AU  - Zhang, Chen
+JO  - Journal of Econometrics
+VL  - 230
+IS  - 1
+SP  - 201
+EP  - 220
+PY  - 2022
+DA  - 2022/09/01/
+T2  - ANNALS ISSUE IN “BAYESIAN METHODS IN ECONOMICS AND FINANCE”
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002591
+KW  - Term structure models
+KW  - European debt crisis
+KW  - Liquidity risk
+KW  - Sovereign credit risk
+KW  - Nelson–Siegel factors
+AB  - We develop a parsimonious class of affine arbitrage-free yield net models for consistent bond pricing across maturities and issuers of different risk levels. Containing a core curve and multiple peripheral curves, the yield net is spanned by three layers of factors: base factors spanning all curves, and common and individual spread factors. Under the arbitrage-free assumption, we prove a parsimonious solution to the risk-neutral process that guarantees joint identification of parameters and latent states. By using a Bayesian estimation method with a marginal Metropolis–Hastings algorithm and specification tests based on MCMC output, we apply the model to weekly treasury yields of Germany, Italy, Spain, and Greece from 2009 to 2016. The results show that the extracted common credit risk is a level factor in spread, and market liquidity risk is a slope factor. Further, the net structure helps reconstruct the Greek yield curve even with only its 10-year yield available throughout the sample.
+ER  - 

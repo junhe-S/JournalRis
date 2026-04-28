@@ -1,0 +1,400 @@
+TY  - JOUR
+T1  - When uncertainty and volatility are disconnected: Implications for asset pricing and portfolio performance
+AU  - Aït-Sahalia, Yacine
+AU  - Matthys, Felix
+AU  - Osambela, Emilio
+AU  - Sircar, Ronnie
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105654
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105654
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003706
+KW  - Risk
+KW  - Uncertainty
+KW  - Volatility
+KW  - Robust control
+KW  - Portfolio choice
+KW  - Asset returns
+KW  - Equity risk premium
+AB  - We analyze an environment where the uncertainty in the equity market return and its volatility are both stochastic and may be potentially disconnected. We solve a representative investor’s optimal asset allocation and derive the resulting conditional equity premium and risk-free rate in equilibrium. Our empirical analysis shows that the equity premium appears to be earned for facing uncertainty, especially high uncertainty that is disconnected from lower volatility, rather than for facing volatility as traditionally assumed. Incorporating the possibility of a disconnect between volatility and uncertainty significantly improves portfolio performance, over and above the performance obtained by conditioning on volatility only.
+ER  - 
+
+TY  - JOUR
+T1  - Simulation-based estimation with many auxiliary statistics applied to long-run dynamic analysis
+AU  - Antoine, Bertille
+AU  - Sun, Wenqian
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105814
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105814
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400160X
+KW  - Many moments
+KW  - Regularization
+KW  - Bootstrap
+KW  - Impulse response matching
+AB  - The existing asymptotic theory for estimators obtained by simulated minimum distance does not cover situations in which the number of components of the auxiliary statistics (or number of matched “moments”) is large — typically larger than the sample size. We establish the consistency of the simulated minimum distance estimator in this situation and derive its asymptotic distribution. Our estimator is easy to implement and allows us to exploit all the informational content of a large number of auxiliary statistics without having to, (i) know these functions explicitly, or (ii) choose a priori which functions are the most informative. As a result, we are able to exploit, among other things, long-run information. We illustrate the implementation of the proposed method through Monte-Carlo simulation experiments based on small- and medium-scale New Keynesian models. These examples highlight how to conveniently exploit valuable information from matching a large number of impulse responses including at long-run horizons.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying the volatility risk price through the leverage effect
+AU  - Cheng, Xu
+AU  - Renault, Eric
+AU  - Sangrey, Paul
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105943
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105943
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400294X
+KW  - Leverage effect
+KW  - Nonparametric identification
+KW  - Stochastic volatility
+KW  - Volatility factor
+KW  - Volatility risk price
+KW  - Weak identification
+AB  - In asset pricing models with stochastic volatility, uncertainty about volatility affects risk premia through two channels: aversion to decreasing returns and aversion to increasing volatility. We analyze the identification of and robust inference for structural parameters measuring investors’ aversions to these risks: the return risk price and the volatility risk price. In the presence of a leverage effect (instantaneous causality between the asset return and its volatility), we study the identification of both structural parameters with the price data only, without relying on additional option pricing models or option data. We analyze this identification challenge in a nonparametric discrete-time exponentially affine model, complementing the continuous-time approach of Bandi and Renò (2016). We then specialize to a parametric model and derive the implied minimum distance criterion relating the risk prices to the asset return and volatility’s joint distribution. This criterion is almost flat when the leverage effect is small, and we introduce identification-robust confidence sets for both risk prices regardless of the magnitude of the leverage effect.
+ER  - 
+
+TY  - JOUR
+T1  - The term structure of macroeconomic risks at the effective lower bound
+AU  - Roussellet, Guillaume
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105383
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000143
+KW  - Quadratic term structure model
+KW  - Effective lower bound
+KW  - TIPS
+KW  - Liftoff probabilities
+KW  - Inflation risk premia
+AB  - This paper proposes a new macro-finance model that solves the tension between tractability, flexibility in macroeconomic dynamics, and consistency of the term structures of treasury yields with the effective lower bound (ELB). I use the term structures of U.S. nominal and real treasury yields from 1990 to explore the interdependence between inflation expectations, volatility, and monetary policy at the ELB. The estimation reveals that real yields stay elevated during the ELB due to large premia and deflation fears, produced by a persistent shift in inflation dynamics, with low average inflation and heightened inflation volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Conditional spectral methods
+AU  - Bandi, Federico M.
+AU  - Su, Yinan
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105863
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105863
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002082
+KW  - Time/scale representations
+KW  - Spectral predictive cycles
+KW  - Portfolio allocation
+AB  - We model predictive scale-specific cycles. By employing suitable matrix representations, we express the forecast errors of covariance-stationary multivariate time series in terms of conditionally orthonormal scale-specific bases. The representations yield conditionally orthogonal decompositions of these forecast errors. They also provide decompositions of their variances and betas in terms of scale-specific variances and betas capturing predictive variability and co-variability over cycles of alternative lengths without spillovers across cycles. Making use of the proposed representations within the classical family of time-varying conditional volatility models, we document the role of time-varying volatility forecasts in generating orthogonal predictive scale-specific cycles in returns. We conclude by providing suggestive evidence that the conditional variances of the predictive return cycles (i) may be priced over short-to-medium horizons and (ii) may offer economically-relevant trading signals over these same horizons.
+ER  - 
+
+TY  - JOUR
+T1  - Exogeneity tests and weak identification in IV regressions: Asymptotic theory and point estimation
+AU  - Doko Tchatoka, Firmin
+AU  - Dufour, Jean-Marie
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105821
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105821
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001660
+KW  - Exogeneity tests
+KW  - Weak identification
+KW  - Test consistency
+KW  - Pretest estimators
+KW  - Asymptotic MSE
+KW  - Inference post-selection
+KW  - Identification-robust procedure
+AB  - This paper provides new insights on exogeneity tests in linear IV models and their use for estimation, when identification fails or may not be strong. We make two main contributions. First, we show that Durbin–Wu–Hausman (DWH) and Revankar–Hartley (RH) exogeneity tests have correct level asymptotically, even when the first-stage coefficient matrix (which controls identification) is rank-deficient. We provide necessary and sufficient conditions under which these tests are consistent. In particular, we show that test consistency can hold even when identification fails, provided at least one component of the structural parameter vector is identifiable. Second, we study point estimation after estimator (or model) selection, when the outcome of a DWH/RH test determines whether OLS or an IV method is employed in the second-stage. For this purpose, we use (non-local) concepts of asymptotic bias, asymptotic mean squared error (AMSE), and asymptotic relative efficiency (ARE), which remain applicable even when the estimators considered do not have moments (as can happen for 2SLS) or may be inconsistent. We study the asymptotic properties of OLS, 2SLS, and pretest estimators which select OLS or 2SLS based on the outcome of a DWH/RH test. We show that: (i) OLS typically dominates 2SLS estimator asymptotically for MSE across a broad spectrum of cases, including weak identification and moderate endogeneity; (ii) exogeneity-pretest estimators exhibit consistently good performance and asymptotically dominate both OLS and 2SLS. The proposed theoretical findings are documented by Monte Carlo simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Weak identification in discrete choice models
+AU  - Frazier, David T.
+AU  - Renault, Eric
+AU  - Zhang, Lina
+AU  - Zhao, Xueyan
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105866
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105866
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002112
+KW  - Discrete choice models
+KW  - Weak instruments
+KW  - Weak identification
+KW  - Identification testing
+AB  - We study the impact of weak identification in discrete choice models, and provide insights into the determinants of identification strength in these models. Using these insights, we propose a novel test that can consistently detect weak identification in commonly applied discrete choice models, such as probit, logit, and many of their extensions. Furthermore, we demonstrate that when the null hypothesis of weak identification is rejected, Wald-based inference can be carried out using standard formulas and critical values. A Monte Carlo study compares our proposed testing approach against commonly applied weak identification tests. The results simultaneously demonstrate the good performance of our approach and the fundamental failure of using conventional weak identification tests for linear models in the discrete choice model context. Lastly, we apply our approach in two empirical examples: married women labor force participation, and US food aid and civil conflicts.
+ER  - 
+
+TY  - JOUR
+T1  - Long-run risk in stationary vector autoregressive models
+AU  - Gourieroux, Christian
+AU  - Jasiak, Joann
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105905
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105905
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002562
+KW  - VAR
+KW  - Ultra-long-run process
+KW  - Identification
+KW  - Autocorrelation function
+KW  - Ultra-long-run prediction
+KW  - Estimation risk
+KW  - Prudential principle
+KW  - Long-run predictability puzzle
+AB  - This paper introduces a local-to-unity/small sigma model for stationary processes with long-range persistence and non-negligible long-run prediction and estimation risks. The model represents a process containing unobserved short and long-run components measured on different time scales. The short-run component is defined in calendar time, while the long-run component evolves in rescaled time with ultra-long units. We develop estimation and long-run prediction methods for time series with multivariate Vector Autoregressive (VAR) short-run components and reveal the impossibility of estimating consistently some of the long-run parameters, which causes significant estimation and prediction risks in the long run. A simulation study and an application to macroeconomic data illustrate the approach.
+ER  - 
+
+TY  - JOUR
+T1  - Reprint of: Finite underidentification
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105947
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.105947
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000016
+KW  - Finite set
+KW  - Generalised Method of Moments
+KW  - Identification test
+AB  - I adapt the Generalised Method of Moments to deal with nonlinear models in which a finite number of isolated parameter values satisfy the moment conditions. I also study the closely related class of first-order underidentified models, whose expected Jacobian is rank deficient but not necessarily zero. In both cases, my proposed procedures exploit the underidentification structure to yield parameter estimators and underidentification tests within a standard asymptotically normal GMM framework. I study nonlinear models with and without separation of data and parameters. I also illustrate my proposed inference procedures with applications to production function estimation and dynamic panel data models.
+ER  - 
+
+TY  - JOUR
+T1  - The chained difference-in-differences
+AU  - Bellégo, Christophe
+AU  - Benatia, David
+AU  - Dortet-Bernadet, Vincent
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105783
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105783
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001295
+KW  - Event study
+KW  - Unbalanced panel
+KW  - Attrition
+KW  - Treatment effect heterogeneity
+KW  - GMM
+AB  - This paper studies the identification, estimation, and inference of long-term (binary) treatment effect parameters when balanced panel data is not available, or consists of only a subset of the available data. We develop a new estimator: the chained difference-in-differences, which leverages the overlapping structure of many unbalanced panel data sets. This approach consists in aggregating a collection of short-term treatment effects estimated on multiple incomplete panels. Our estimator accommodates (1) multiple time periods, (2) variation in treatment timing, (3) treatment effect heterogeneity, (4) general missing data patterns, and (5) sample selection on observables. We establish the asymptotic properties of the proposed estimator and discuss identification and efficiency gains in comparison to existing methods. Finally, we illustrate its relevance through (i) numerical simulations, and (ii) an application about the effects of an innovation policy in France.
+ER  - 
+
+TY  - JOUR
+T1  - Efficiency bounds for moment condition models with mixed identification strength
+AU  - Dovonon, Prosper
+AU  - Atchadé, Yves F.
+AU  - Doko Tchatoka, Firmin
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105723
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105723
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000691
+KW  - Generalized method of moments
+KW  - Mixed identification strength
+KW  - Weak identification
+KW  - Efficiency bounds
+KW  - Semiparametric models
+AB  - Moment condition models with mixed identification strength are models that are point identified but with estimating moment functions that are allowed to drift to 0 uniformly over the parameter space. Even though identification fails in the limit, depending on how slow the moment functions vanish, consistent estimation is possible. Existing estimators such as the generalized method of moment (GMM) estimator exhibit a pattern of nonstandard or even heterogeneous rate of convergence that materializes by some parameter directions being estimated at a slower rate than others. This paper derives asymptotic semiparametric efficiency bounds for regular estimators of parameters of these models. We show that GMM estimators are regular and that the so-called two-step GMM estimator – using the inverse of estimating function’s variance as weighting matrix – is semiparametrically efficient as it reaches the minimum variance attainable by regular estimators. This estimator is also asymptotically minimax efficient with respect to a large family of loss functions. Monte Carlo simulations are provided that confirm these results.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105982
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(25)00036-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000363
+ER  - 
+
+TY  - JOUR
+T1  - Functional ecological inference
+AU  - Bontemps, Christian
+AU  - Florens, Jean-Pierre
+AU  - Meddahi, Nour
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105918
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105918
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002690
+KW  - Ecological inference
+KW  - Linear operator
+KW  - Generalized inverse
+KW  - Hilbert–Schmidt norm
+KW  - Regularization
+AB  - In this paper, we consider the problem of ecological inference when one observes the conditional distributions of Y|W and Z|W from aggregate data and attempts to infer the conditional distribution of Y|Z without observing Y and Z in the same sample. First, we show that this problem can be transformed into a linear equation involving operators for which, under suitable regularity assumptions, least squares solutions are available. We then propose the use of the least squares solution with the minimum Hilbert–Schmidt norm, which, in our context, can be structurally interpreted as the solution with minimum dependence between Y and Z. Interestingly, in the case where the conditioning variable W is discrete and belongs to a finite set, such as the labels of units/groups/cities, the solution of this minimal dependence has a closed form. In the more general case, we use a regularization scheme and show the convergence of our proposed estimator. A numerical evaluation of our procedure is proposed.
+ER  - 
+
+TY  - JOUR
+T1  - Identification robust inference for the risk premium in term structure models
+AU  - Kleibergen, Frank
+AU  - Kong, Lingwei
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105728
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105728
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000745
+KW  - Asset pricing
+KW  - Risk premia
+KW  - Robust inference
+KW  - Weak identification
+AB  - We propose identification robust statistics for testing hypotheses on the risk premia in dynamic affine term structure models. We do so using the moment equation specification proposed in Adrian et al. (2013). Statistical inference based on their three-stage estimator requires knowledge of the risk factors’ quality and can be misleading when the β’s are weak, which results when sampling errors are of comparable order of magnitude as the risk factor loadings. We extend the subset (factor) Anderson–Rubin test from Guggenberger et al. (2012) to models with multiple dynamic factors and time-varying risk prices. It provides a computationally tractable manner to conduct identification robust tests on a few risk premia when a larger number is present. We use it to analyze potential identification issues arising in the data from Adrian et al. (2013) for which we show that some factors, though potentially weak, may drive the time variation of risk prices, and weak identification issues are more prominent in multi-factor models.
+ER  - 
+
+TY  - JOUR
+T1  - Regularizing stock return covariance matrices via multiple testing of correlations
+AU  - Luger, Richard
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105753
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105753
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400099X
+KW  - Regularization
+KW  - Multiple testing
+KW  - Sign-based tests
+KW  - Generalized familywise error rate
+KW  - False discovery proportion
+AB  - This paper develops a large-scale inference approach for the regularization of stock return covariance matrices. The framework allows for the presence of heavy tails and multivariate GARCH-type effects of unknown form among the stock returns. The approach involves simultaneous testing of all pairwise correlations, followed by setting non-statistically significant elements to zero. This adaptive thresholding is achieved through sign-based Monte Carlo resampling within multiple testing procedures, controlling either the traditional familywise error rate, a generalized familywise error rate, or the false discovery proportion. Subsequent shrinkage ensures that the final covariance matrix estimate is positive definite and well-conditioned while preserving the achieved sparsity. Compared to alternative estimators, this new regularization method demonstrates strong performance in simulation experiments and real portfolio optimization.
+ER  - 
+
+TY  - JOUR
+T1  - Spanning latent and observable factors
+AU  - Andreou, E.
+AU  - Gagliardini, P.
+AU  - Ghysels, E.
+AU  - Rubin, M.
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105743
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105743
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000897
+KW  - Latent pervasive factors
+KW  - Observable factors
+KW  - Canonical correlations
+KW  - Spanning
+KW  - PCA
+AB  - Factor analysis is a widely used tool to summarize high dimensional panel data via a small dimensional set of latent factors. Many applications in finance and macroeconomics, are often focused on observable factors with an economic interpretation. The objective of this paper is to provide a test to answer a question which naturally comes up in discussions regarding latent versus observable factors: do latent and observable factors span the same space? We derive asymptotic properties of a formal test and propose a bootstrap version with improved small sample properties. We find empirical evidence for a small number of factors common between a small number of traditional Fama–French risk factors – or returns on a few stocks (i.e. “magnificent” 5 or 7) – and large panels of US, North American and international portfolio returns.
+ER  - 
+
+TY  - JOUR
+T1  - Score-type tests for normal mixtures
+AU  - Amengual, Dante
+AU  - Bei, Xinyue
+AU  - Carrasco, Marine
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105717
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105717
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000630
+KW  - Generalized extremum tests
+KW  - Higher-order identifiability
+KW  - Likelihood ratio test
+KW  - Mincer equations
+AB  - Testing normality against discrete normal mixtures is complex because some parameters turn increasingly underidentified along alternative ways of approaching the null, others are inequality constrained, and several higher-order derivatives become identically 0. These problems make the maximum of the alternative model log-likelihood function numerically unreliable. We propose score-type tests asymptotically equivalent to the likelihood ratio as the largest of two simple intuitive statistics that only require estimation under the null. One novelty of our approach is that we treat symmetrically both ways of writing the null hypothesis without excluding any region of the parameter space. We derive the asymptotic distribution of our tests under the null and sequences of local alternatives. We also show that their asymptotic distribution is the same whether applied to observations or standardized residuals from heteroskedastic regression models. Finally, we study their power in simulations and apply them to the residuals of Mincer earnings functions.
+ER  - 
+
+TY  - JOUR
+T1  - Identification-robust and simultaneous inference in multifactor asset pricing models
+AU  - Beaulieu, Marie-Claude
+AU  - Dufour, Jean-Marie
+AU  - Khalaf, Lynda
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105915
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105915
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002665
+KW  - Linear asset pricing
+KW  - Traded and non-traded factors
+KW  - Weak identification
+KW  - Identification-robust inference
+KW  - Multivariate linear regression
+KW  - Exact test
+AB  - This paper proposes exact identification-robust confidence sets for the zero-beta rate and ex-post factor prices in asset pricing models. Exploiting the information from the cross-sectional intercept allows us to impose or formally test model-consistent restrictions, including those resulting from traded factors in excess of the zero beta-rate or from return spreads. Analytical projection-based solutions for confidence set outcomes are developed. The proposed procedures are extended to the case of missing factors. Empirical and simulation results with traded and non-traded factors show that model-consistent restrictions and elusive factors can materially affect model fit, identification, inference and temporal constancy of pricing influence.
+ER  - 
+
+TY  - JOUR
+T1  - Identification, inference and risk
+AU  - Antoine, Bertille
+AU  - Gagliardini, Patrick
+AU  - Garcia, René
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105938
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105938
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002896
+ER  - 
+
+TY  - JOUR
+T1  - Uncovering asset market participation from household consumption and income
+AU  - Czellar, Veronika
+AU  - Garcia, René
+AU  - Le Grand, François
+JO  - Journal of Econometrics
+VL  - 248
+SP  - 105867
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105867
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002124
+KW  - Limited participation
+KW  - Household-level consumption distribution
+KW  - Heterogeneity
+KW  - Indirect inference
+KW  - Marginal propensity to consume
+KW  - Stock market participation cost
+AB  - We propose an asset pricing model featuring time-varying limited participation in both bond and stock markets and household heterogeneity. Households participate in financial markets with a certain probability that depends on their individual income and on asset market conditions. We use indirect inference to uncover individual asset market participation from individual consumption data and asset prices. Our model very accurately reproduces the proportions of stockholders in the Survey of Consumer Finances over three-year intervals, provides a reasonable estimate of stock market participation costs, and is able to price characteristic-based stock portfolios with the top decile of households identified as stockholders.
+ER  - 

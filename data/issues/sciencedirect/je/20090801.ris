@@ -1,0 +1,209 @@
+TY  - JOUR
+T1  - Inference on transformed stationary time series
+AU  - Hosoya, Yuzo
+AU  - Terasaka, Takahiro
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 129
+EP  - 139
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000785
+KW  - ARMA model
+KW  - Asymptotic theory
+KW  - Box–Cox transformation
+KW  - Instantaneous transformation
+KW  - Whittle likelihood
+AB  - The paper is about an approach for parametric inference on instantaneously transformed stationary processes. The paper discusses the asymptotics of the Whittle estimator of the parameters involved and also provides the explicit expression of the asymptotic covariance matrix which does not necessarily require the innovation Gaussianity assumption. As a specific instantaneous transformation, the paper introduces a new version of the Box–Cox transformation and investigates in detail the vector ARMA processes implemented by that transformation, proposing a computation-intensive procedure for parametric estimation and testing. As a computationally feasible test not relying upon the knowledge of the explicit analytic form of the asymptotic covariance matrix or on the information equality, the paper proposes a Monte Carlo Wald test, providing illustrative simulation and real-data examples.
+ER  - 
+
+TY  - JOUR
+T1  - Long memory and long run variation
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 150
+EP  - 158
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000797
+KW  - Asymptotic expansion
+KW  - Autocovariance function
+KW  - Fractional pole
+KW  - Fourier integral
+KW  - Generalized function
+KW  - Long memory
+KW  - Long range dependence
+KW  - Singularity
+AB  - A commonly used defining property of long memory time series is the power law decay of the autocovariance function. Some alternative methods of deriving this property are considered, working from the alternate definition in terms of a fractional pole in the spectrum at the origin. The methods considered involve the use of (i) Fourier transforms of generalized functions, (ii) asymptotic expansions of Fourier integrals with singularities, (iii) direct evaluation using hypergeometric function algebra, and (iv) conversion to a simple gamma integral. The paper is largely pedagogical but some novel methods and results involving complete asymptotic series representations are presented. The formulae are useful in many ways, including the calculation of long run variation matrices for multivariate time series with long memory and the econometric estimation of such models.
+ER  - 
+
+TY  - JOUR
+T1  - Goodness of fit for lattice processes
+AU  - Hidalgo, Javier
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 113
+EP  - 128
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000761
+KW  - Goodness-of-fit tests
+KW  - Spatial linear processes
+KW  - Spectral domain
+KW  - Bootstrap tests
+AB  - The paper discusses tests for the correct specification of a model when data is observed in a d-dimensional lattice, extending previous work when the data is collected in the real line. As it happens with the latter type of data, the asymptotic distributions of the tests are functionals of a Gaussian sheet process, say B(ν), ν∈[0,π]d. Since it is not easy to find a time transformation h(ν) such that B(h(ν)) becomes the standard Brownian sheet, a consequence is that the critical values are difficult, if at all possible, to obtain. So, to overcome the problem of its implementation, we propose employing a bootstrap approach, showing its validity in our context.
+ER  - 
+
+TY  - JOUR
+T1  - An automatic Portmanteau test for serial correlation
+AU  - Escanciano, J. Carlos
+AU  - Lobato, Ignacio N.
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 140
+EP  - 149
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000773
+KW  - Autocorrelation
+KW  - Consistency
+KW  - Power
+KW  - Akaike’s AIC
+KW  - Schwarz’s BIC
+AB  - This article introduces a data-driven Box–Pierce test for serial correlation. The proposed test is very attractive compared to the existing ones. In particular, implementation of this test is extremely simple for two reasons: first, the researcher does not need to specify the order of the autocorrelation tested, since the test automatically chooses this number; second, its asymptotic null distribution is chi-square with one degree of freedom, so there is no need of using a bootstrap procedure to estimate the critical values. In addition, the test is robust to the presence of conditional heteroskedasticity of unknown form. Finally, the proposed test presents higher power in simulations than the existing ones for models commonly employed in empirical finance.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - IFC
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(09)00153-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001535
+ER  - 
+
+TY  - JOUR
+T1  - A Wald test for the cointegration rank in nonstationary fractional systems
+AU  - Avarucci, Marco
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 178
+EP  - 189
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000815
+KW  - Fractional integration
+KW  - Fractional error correction model
+KW  - Singular value decomposition
+KW  - Cointegration test
+AB  - This paper develops new methods for determining the cointegration rank in a nonstationary fractionally integrated system, extending univariate optimal methods for testing the degree of integration. We propose a simple Wald test based on the singular value decomposition of the unrestricted estimate of the long run multiplier matrix. When the “strength” of the cointegrating relationship is less than 1/2, the test statistic has a standard asymptotic distribution, like Lagrange Multiplier tests exploiting local properties. We consider the behavior of our test under estimation of short run parameters and local alternatives. We compare our procedure with other cointegration tests based on different principles and find that the new method has better properties in a range of situations by using information on the alternative obtained through a preliminary estimate of the cointegration strength.
+ER  - 
+
+TY  - JOUR
+T1  - Whittle estimation of EGARCH and other exponential volatility models
+AU  - Zaffaroni, Paolo
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 190
+EP  - 200
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000827
+KW  - EGARCH
+KW  - GJR
+KW  - Stochastic volatility
+KW  - Whittle estimation
+KW  - Asymptotics
+AB  - The strong consistency and asymptotic normality of the Whittle estimate of the parameters in a class of exponential volatility processes are established. Our main focus here are the EGARCH model of [Nelson, D. 1991. Conditional heteroscedasticity in asset pricing: A new approach. Econometrica 59, 347–370] and other one-shock models such as the GJR model of [Glosten, L., Jaganathan, R., Runkle, D., 1993. On the relation between the expected value and the volatility of the nominal excess returns on stocks. Journal of Finance, 48, 1779–1801], but two-shock models, such as the SV model of [Taylor, S. 1986. Modelling Financial Time Series. Wiley, Chichester, UK], are also comprised by our assumptions. The variable of interest might not have finite fractional moment of any order and so, in particular, finite variance is not imposed. We allow for a wide range of degrees of persistence of shocks to conditional variance, allowing for both short and long memory.
+ER  - 
+
+TY  - JOUR
+T1  - Local inference for locally stationary time series based on the empirical spectral measure
+AU  - Dahlhaus, Rainer
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 101
+EP  - 112
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760900075X
+KW  - Empirical spectral measure
+KW  - Asymptotic normality
+KW  - Locally stationary processes
+KW  - Nonstationary time series
+AB  - The time varying empirical spectral measure plays a major role in the treatment of inference problems for locally stationary processes. The properties of the empirical spectral measure and related statistics are studied — both when its index function is fixed or when dependent on the sample size. In particular we prove a general central limit theorem. Several applications and examples are given including semiparametric Whittle estimation, local least squares estimation and spectral density estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Estimators of long-memory: Fourier versus wavelets
+AU  - Faÿ, Gilles
+AU  - Moulines, Eric
+AU  - Roueff, François
+AU  - Taqqu, Murad S.
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 159
+EP  - 177
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000803
+KW  - Wavelet analysis
+KW  - Long range dependence
+KW  - Semi-parametric estimation
+AB  - Semi-parametric estimation methods of the long-memory exponent of a time series have been studied in several papers, some applied, others theoretical, some using Fourier methods, others using a wavelet-based technique. In this paper, we compare the Fourier and wavelet approaches to the local regression method and to the local Whittle method. We provide an overview of these methods, describe what has been done and indicate the available results and the conditions under which they hold. We discuss their relative strengths and weaknesses both from a practical and a theoretical perspective. We also include a simulation-based comparison. The software written to support this work is available on demand and we illustrate its use at the end of the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Editor’s introduction
+AU  - Delgado, Miguel A.
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 2
+SP  - 99
+EP  - 100
+PY  - 2009
+DA  - 2009/08/01/
+T2  - Recent Advances in Time Series Analysis: A Volume Honouring Peter M. Robinson
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000839
+ER  - 

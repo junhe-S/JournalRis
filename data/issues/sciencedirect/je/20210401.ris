@@ -1,0 +1,335 @@
+TY  - JOUR
+T1  - Detection of units with pervasive effects in large panel data models
+AU  - Kapetanios, G.
+AU  - Pesaran, M.H.
+AU  - Reese, S.
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 510
+EP  - 541
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302141
+KW  - Pervasive units
+KW  - Factor models
+KW  - Systemic risk
+KW  - Multiple testing
+KW  - Sequential procedure
+KW  - Cross-sectional dependence
+AB  - The importance of units that influence a large number of other units in a network has become increasingly recognized in the literature. In this paper we propose a new method to detect such pervasive units by basing our analysis on unit-specific residual error variances subject to suitable adjustments due to the multiple testing issues involved. Accordingly, a sequential multiple testing (SMT) procedure is proposed, which allows identification of pervasive units (if any) without a priori knowledge of the interconnections amongst cross-section units or availability of a short list of candidate units to search over. The proposed method is applicable even if the cross-section dimension exceeds the time series dimension, and most importantly it could end up with none of the units selected as pervasive when this is in fact the case. The SMT procedure exhibits satisfactory small-sample performance in Monte Carlo simulations and compares well relative to existing approaches. We apply the SMT detection method to sectoral indices of U.S. industrial production, U.S. house price changes by states, and the rates of change of real GDP and real equity prices across the world’s largest economies.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial dynamic panel data models with correlated random effects
+AU  - Li, Liyao
+AU  - Yang, Zhenlin
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 424
+EP  - 454
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302372
+KW  - Adjusted quasi score
+KW  - Dynamic panels
+KW  - Correlated random effects
+KW  - Initial-conditions
+KW  - Martingale difference
+KW  - Spatial effects
+KW  - Short panels
+AB  - In this paper, M-estimation and inference methods are developed for spatial dynamic panel data models with correlated random effects, based on short panels. The unobserved individual-specific effects are assumed to be correlated with the observed time-varying regressors linearly or in a linearizable way, giving the so-called correlated random effects model, which allows the estimation of effects of time-invariant regressors. The unbiased estimating functions are obtained by adjusting the conditional quasi-scores given the initial observations, leading to M-estimators that are consistent, asymptotically normal, and free from the initial conditions except the process starting time. By decomposing the estimating functions into sums of terms uncorrelated given idiosyncratic errors, a hybrid method is developed for consistently estimating the variance–covariance matrix of the M-estimators, which again depends only on the process starting time. Monte Carlo results demonstrate that the proposed methods perform well in finite sample. An empirical application on the political competition in China is presented.
+ER  - 
+
+TY  - JOUR
+T1  - Testing high-dimensional covariance matrices under the elliptical distribution and beyond
+AU  - Yang, Xinxin
+AU  - Zheng, Xinghua
+AU  - Chen, Jiaqi
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 409
+EP  - 423
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302384
+KW  - Covariance matrix
+KW  - High-dimension
+KW  - Elliptical model
+KW  - Linear spectral statistics
+KW  - Central limit theorem
+AB  - We develop tests for high-dimensional covariance matrices under a generalized elliptical model. Our tests are based on a central limit theorem for linear spectral statistics of the sample covariance matrix based on self-normalized observations. For testing sphericity, our tests neither assume specific parametric distributions nor involve the kurtosis of data. More generally, we can test against any non-negative definite matrix that can even be not invertible. As an interesting application, we illustrate in empirical studies that our tests can be used to test uncorrelatedness among idiosyncratic returns.
+ER  - 
+
+TY  - JOUR
+T1  - Missing observations in observation-driven time series models
+AU  - Blasques, F.
+AU  - Gorgi, P.
+AU  - Koopman, S.J.
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 542
+EP  - 568
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.043
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302670
+KW  - Missing data
+KW  - Observation-driven models
+KW  - Consistency
+KW  - Indirect inference
+KW  - Volatility
+AB  - We argue that existing methods for the treatment of missing observations in time-varying parameter observation-driven models lead to inconsistent inference. We provide a formal proof of this inconsistency for a Gaussian model with time-varying mean. A Monte Carlo simulation study supports this theoretical result and illustrates how the inconsistency problem extends to score-driven and, more generally, to observation-driven models, which include well-known models for conditional volatility. To overcome the problem of inconsistent inference, we propose a novel estimation procedure based on indirect inference. This easy-to-implement method delivers consistent inference. The asymptotic properties of the new method are formally derived. Our proposed estimation procedure shows a promising performance in a Monte Carlo simulation exercise as well as in an empirical study concerning the measurement of conditional volatility from financial returns data.
+ER  - 
+
+TY  - JOUR
+T1  - The factor analytical approach in near unit root interactive effects panels
+AU  - Norkutė, Milda
+AU  - Westerlund, Joakim
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 569
+EP  - 590
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302682
+KW  - Factor analytical method
+KW  - Interactive effects
+KW  - Common factors
+KW  - Local-to-unity asymptotics
+KW  - Bias
+KW  - Panel unit root test
+AB  - In a recent study, Bai (2013) proposes a new factor analytical (FA) method for estimation of stationary dynamic panel data models with fixed effects. Our interest in this method originates with the fact it does not require explicit demeaning of the data, a practice that is known to cause problems of bias and low power in near unit root panels. The purpose is to study the properties of FA when applied to such panels when the common component admits to a interactive effects representation, which is more general than fixed effects. It is shown that the estimator of the autoregressive parameter is consistent with a well centered asymptotic normal distribution, leading to unit root tests with maximal achievable power. In fact, FA is consistent and asymptotically normal regardless of whether the data are near unit root non-stationary or stationary. It is therefore very general and hence widely applicable.
+ER  - 
+
+TY  - JOUR
+T1  - Overlap in observational studies with high-dimensional covariates
+AU  - D’Amour, Alexander
+AU  - Ding, Peng
+AU  - Feller, Avi
+AU  - Lei, Lihua
+AU  - Sekhon, Jasjeet
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 644
+EP  - 654
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302694
+KW  - Causal inference
+KW  - Overlap
+KW  - Information theory
+KW  - Curse of dimensionality
+AB  - Estimating causal effects under exogeneity hinges on two key assumptions: unconfoundedness and overlap. Researchers often argue that unconfoundedness is more plausible when more covariates are included in the analysis. Less discussed is the fact that covariate overlap is more difficult to satisfy in this setting. In this paper, we explore the implications of overlap in observational studies with high-dimensional covariates and formalize curse-of-dimensionality argument, suggesting that these assumptions are stronger than investigators likely realize. Our key innovation is to explore how strict overlap restricts global discrepancies between the covariate distributions in the treated and control populations. Exploiting results from information theory, we derive explicit bounds on the average imbalance in covariate means under strict overlap and show that these bounds become more restrictive as the dimension grows large. We discuss how these implications interact with assumptions and procedures commonly deployed in observational causal inference, including sparsity and trimming.
+ER  - 
+
+TY  - JOUR
+T1  - Robust and optimal estimation for partially linear instrumental variables models with partial identification
+AU  - Chen, Qihui
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 368
+EP  - 380
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302293
+KW  - Instrumental variables
+KW  - Partial identification
+KW  - Optimal penalty
+KW  - Minimum variance
+AB  - This paper studies robust and optimal estimation of the slope coefficients in a partially linear instrumental variables model with nonparametric partial identification. We establish the root-n asymptotic normality of a penalized sieve minimum distance estimator of the slope coefficients. We show that the asymptotic normality holds regardless of whether the nonparametric function is point identified or only partially identified. However, in the presence of nonparametric partial identification, the slope coefficients may not be continuous in the underlying distribution and the asymptotic variance matrix may depend on the penalty, so classical efficiency analysis does not apply. We instead develop an optimally penalized estimator that minimizes the asymptotic variance of a linear functional of the slope coefficients estimator by employing an optimal penalty for a given weight, and propose a feasible two-step procedure. We also propose an iterated procedure to address how to choose both penalty and weight optimally and further improve efficiency. To conduct inference, we provide a consistent variance matrix estimator. Monte Carlo simulations examine the finite sample performance of our estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference in spatial models with dominant units
+AU  - Pesaran, M. Hashem
+AU  - Yang, Cynthia Fan
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 591
+EP  - 615
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.045
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302360
+KW  - SAR models
+KW  - Central limit theorems for linear–quadratic forms
+KW  - Dominant units
+KW  - Heteroskedastic errors
+KW  - Bias-corrected method of moments
+KW  - US input–output tables
+KW  - Capital share
+AB  - In spatial econometrics literature estimation and inference are carried out assuming that the matrix of spatial or network connections has uniformly bounded absolute column sums in the number of units, n, in the network. This paper relaxes this restriction and allows for one or more units to have pervasive effects in the network. The linear–quadratic central limit theorem of Kelejian and Prucha (2001) is generalized to allow for such dominant units, and the asymptotic properties of the GMM estimators are established in this more general setting. A new bias-corrected method of moments (BMM) estimator is also proposed that avoids the problem of weak instruments by self-instrumenting the spatially lagged dependent variable. Both cases of homoskedastic and heteroskedastic errors are considered and the associated estimators are shown to be consistent and asymptotically normal, depending on the rate at which the maximum column sum of the weights matrix rises with n. The small sample properties of GMM and BMM estimators are investigated by Monte Carlo experiments and shown to be satisfactory. An empirical application to sectoral price changes in the US over the pre- and post-2008 financial crisis is also provided. It is shown that the share of capital can be estimated reasonably well from the degree of sectoral interdependence using the input–output tables, despite the evidence of dominant sectors being present in the US economy.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - ii
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00032-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000324
+ER  - 
+
+TY  - JOUR
+T1  - Large-dimensional Dynamic Factor Models: Estimation of Impulse–Response Functions with I(1) cointegrated factors
+AU  - Barigozzi, Matteo
+AU  - Lippi, Marco
+AU  - Luciani, Matteo
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 455
+EP  - 482
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302219
+KW  - Dynamic Factor Models
+KW  - Unit root processes
+KW  - Cointegration
+KW  - Impulse–Response Functions
+AB  - We study a large-dimensional Dynamic Factor Model where: (i) the vector of factors Ft is I(1) and driven by a number of shocks that is smaller than the dimension of Ft; and, (ii) the idiosyncratic components are either I(1) or I(0). Under (i), the factors Ft are cointegrated and can be modeled as a Vector Error Correction Model (VECM). Under (i) and (ii), we provide consistent estimators, as both the cross-sectional size n and the time dimension T go to infinity, for the factors, the loadings, the shocks, the coefficients of the VECM and therefore the Impulse–Response Functions (IRF) of the observed variables to the shocks. Furthermore, possible deterministic linear trends are fully accounted for, and the case of an unrestricted VAR in the levels Ft, instead of a VECM, is also studied. The finite-sample properties the proposed estimators are explored by means of a MonteCarlo exercise. Finally, we revisit two distinct and widely studied empirical applications. By correctly modeling the long-run dynamics of the factors, our results partly overturn those obtained by recent literature. Specifically, we find that: (i) oil price shocks have just a temporary effect on US real activity; and, (ii) in response to a positive news shock, the economy first experiences a significant boom, and then a milder recession.
+ER  - 
+
+TY  - JOUR
+T1  - Revisiting the location of FDI in China: A panel data approach with heterogeneous shocks
+AU  - Hou, Lei
+AU  - Li, Kunpeng
+AU  - Li, Qi
+AU  - Ouyang, Min
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 483
+EP  - 509
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.047
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302426
+KW  - FDI
+KW  - Location determinants
+KW  - Endogeneity issue
+KW  - Panel data models
+KW  - Quasi maximum likelihood estimation
+KW  - Heterogeneous shocks
+AB  - Foreign Direct Investment (FDI) is viewed as a primary driving force in shaping the global economy and receives particular attention in empirical studies. In this paper, we argue that many of the existing studies ignore endogeneities that arise from shocks in source and destination countries. To address this endogeneity issue, we take the “controlling through estimating” idea from the econometric literature and propose using panel data models with heterogeneous shocks to deal with it. We consider the quasi maximum likelihood (QML) method to estimate our proposed model. We investigate the asymptotic properties of the QML estimator, including the consistency, the asymptotic representation, and the limiting distribution. We also propose new statistics to test the validity of the use of traditional dynamic and static panel data estimation methods. Applying it to the location determinants of inward FDI in China, we find that the endogeneity issue does exist, and that controlling for heterogeneous shocks helps to improve the estimation results.
+ER  - 
+
+TY  - JOUR
+T1  - Varying random coefficient models
+AU  - Breunig, Christoph
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 381
+EP  - 408
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.049
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030244X
+KW  - Random coefficients
+KW  - Varying coefficients
+KW  - Sieve minimum distance
+KW  - Hermite functions
+KW  - Rate of convergence
+KW  - Bootstrap uniform confidence bands
+AB  - This paper analyzes unobserved heterogeneity when observed characteristics are modeled nonlinearly. The proposed model builds on varying random coefficients (VRC) that are determined by nonlinear functions of observed regressors and additively separable unobservables. This paper proposes a novel estimator of the VRC density based on weighted sieve minimum distance. The main example of sieve bases are Hermite functions which yield a numerically stable estimation procedure. This paper shows inference results that go beyond what has been shown in ordinary RC models. We provide in each case rates of convergence and also establish pointwise limit theory of linear functionals, where a prominent example is the density of potential outcomes. In addition, a multiplier bootstrap procedure is proposed to construct uniform confidence bands. A Monte Carlo study examines finite sample properties of the estimator and shows that it performs well even when the regressors associated to RC are far from being heavy tailed. Finally, the methodology is applied to analyze heterogeneity in income elasticity of demand for housing.
+ER  - 
+
+TY  - JOUR
+T1  - The continuous-time limit of score-driven volatility models
+AU  - Buccheri, Giuseppe
+AU  - Corsi, Fulvio
+AU  - Flandoli, Franco
+AU  - Livieri, Giulia
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 655
+EP  - 675
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.042
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302669
+KW  - Weak diffusion limits
+KW  - Score-driven models
+KW  - Student-
+KW  - General error distribution
+AB  - We provide general conditions under which a class of discrete-time volatility models driven by the score of the conditional density converges in distribution to a stochastic differential equation as the interval between observations goes to zero. We show that the form of the diffusion limit depends on: (i) the link function, (ii) the conditional second moment of the score, (iii) the normalization of the score. Interestingly, the properties of the stochastic differential equation are strictly entangled with those of the discrete-time counterpart. Score-driven models with fat-tailed densities lead to continuous-time processes with finite volatility of volatility, as opposed to fat-tailed models with a GARCH update, for which the volatility of volatility is explosive. We examine in simulations the implications of such results on approximate estimation and filtering of diffusion processes. An extension to models with a time-varying conditional mean and to conditional covariance models is also developed.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of dynamic panel spatial vector autoregression: Stability and spatial multivariate cointegration
+AU  - Yang, Kai
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 337
+EP  - 367
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030227X
+KW  - Dynamic panel
+KW  - Spatial vector autoregression
+KW  - Identification
+KW  - Quasi-maximum likelihood
+KW  - Spatial cointegration
+KW  - Market integration
+AB  - This paper introduces dynamic panel spatial vector autoregressive models. We study features of dynamics and spatial interactions that an SVAR model can generate and classify the model into stable or unstable cases by partitioning parameter spaces. For stable, spatial cointegration, and mixed cointegration cases, we investigate identification and QML estimation of the models to take into account simultaneity and correlated relationships. Asymptotic properties and bias-corrected estimators are presented. To detect unknown cointegration relationships, we introduce a sequential likelihood ratio testing procedure. Simulations show the advantage of QMLEs on bias reduction and efficiency gains. The empirical application provides evidences on ancient China’s market integration.
+ER  - 
+
+TY  - JOUR
+T1  - Diffusion copulas: Identification and estimation
+AU  - Bu, Ruijun
+AU  - Hadri, Kaddour
+AU  - Kristensen, Dennis
+JO  - Journal of Econometrics
+VL  - 221
+IS  - 2
+SP  - 616
+EP  - 643
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302104
+KW  - Diffusion process
+KW  - Dynamic copula
+KW  - Transformation model
+KW  - Identification
+KW  - Semiparametric maximum likelihood
+AB  - We propose a new semiparametric approach for modelling nonlinear univariate diffusions, where the observed process is a nonparametric transformation of an underlying parametric diffusion (UPD). This modelling strategy yields a general class of semiparametric Markov diffusion models with parametric dynamic copulas and nonparametric marginal distributions. We provide primitive conditions for the identification of the UPD parameters together with the unknown transformations from discrete samples. Likelihood-based estimators of both parametric and nonparametric components are developed and we analyse their asymptotic properties. Kernel-based drift and diffusion estimators are also proposed and shown to be normally distributed in large samples. A simulation study investigates the finite sample performance of our estimators in the context of modelling US short-term interest rates. We also present a simple application of the proposed method for modelling the CBOE volatility index data.
+ER  - 

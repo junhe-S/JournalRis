@@ -1,0 +1,338 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Disutility as a Probability: A Reconsideration of the Symmetry Approach to the Committee Decision Problem
+AU  - Theil, Henri
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.109
+DO  - 10.1287/mnsc.23.2.109
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 109
+EP  - 116
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - Von Neumann and Morgenstern formulated the expected-utiiity approach in terms of a simultaneous utility-probability axiomatization, which makes utility unique up to a linear transformation. This note illustrates, that there are situations in which it is convenient to consider utility or, more precisely, disutility as a probability. The disutility caused by the best decision is zero: that caused by any other decision is nonnegative and usually positive: the only further condition which disutilities must satisfy in order to qualify as probabilities is that they add up to 1, for which a linear transformation of the utility function can be used. Disutility may thus be interpreted as the ?probability of injury.? This idea is illustrated by means of the symmetry approach to the committee decision problem as formulated by Van den Bogaard and Versiuis [van den Bogaard, P. J. M., J. Versluis. 1962. The design, of optimal committee decisions. Statistica Neerlandica 16 271?289.] and Theil [Theil, H. 1963. On the symmetry approach to the committee decision problem. Management Sci. 9 380?393; Theil, H. 1964. Optimal Decision Rules for Government and Industry. American Elsevier Publishing Co., Inc., New York, and North-Holland Publishing Company. Amsterdam.]. Each committee member has his own preferences, but the committee as a whole is responsible for making a decision. The committee's debate is described in terms of a Markov chain, and the symmetry approach appears to correspond to the steady state of Markov chain theory. An application to a three-member committee is discussed.
+AB  - Von Neumann and Morgenstern formulated the expected-utiiity approach in terms of a simultaneous utility-probability axiomatization, which makes utility unique up to a linear transformation. This note illustrates, that there are situations in which it is convenient to consider utility or, more precisely, disutility as a probability. The disutility caused by the best decision is zero: that caused by any other decision is nonnegative and usually positive: the only further condition which disutilities must satisfy in order to qualify as probabilities is that they add up to 1, for which a linear transformation of the utility function can be used. Disutility may thus be interpreted as the ?probability of injury.? This idea is illustrated by means of the symmetry approach to the committee decision problem as formulated by Van den Bogaard and Versiuis [van den Bogaard, P. J. M., J. Versluis. 1962. The design, of optimal committee decisions. Statistica Neerlandica 16 271?289.] and Theil [Theil, H. 1963. On the symmetry approach to the committee decision problem. Management Sci. 9 380?393; Theil, H. 1964. Optimal Decision Rules for Government and Industry. American Elsevier Publishing Co., Inc., New York, and North-Holland Publishing Company. Amsterdam.]. Each committee member has his own preferences, but the committee as a whole is responsible for making a decision. The committee's debate is described in terms of a Markov chain, and the symmetry approach appears to correspond to the steady state of Markov chain theory. An application to a three-member committee is discussed.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.109
+UR  - https://doi.org/10.1287/mnsc.23.2.109
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimization of Multitype Branching Processes
+AU  - Pliska, Stanley R.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.117
+DO  - 10.1287/mnsc.23.2.117
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 117
+EP  - 124
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - We consider either a discrete time or an age-dependent branching process where the population consists of k types of individuals. Each time an individual is born, an action is chosen, for him which affects his lifetime, the number and types of his offspring, and the reward received. The problem of maximizing the expected reward is shown to be equivalent to a generalized Markov decision problem where the (k ? k) transition, matrices are non-negative but not necessarily substochastic. It is shown that this branching process decision model can account for immigration, that it can be viewed as a controlled population process or infinite particle system, and that it has a number of applications including marketing and biology.
+AB  - We consider either a discrete time or an age-dependent branching process where the population consists of k types of individuals. Each time an individual is born, an action is chosen, for him which affects his lifetime, the number and types of his offspring, and the reward received. The problem of maximizing the expected reward is shown to be equivalent to a generalized Markov decision problem where the (k ? k) transition, matrices are non-negative but not necessarily substochastic. It is shown that this branching process decision model can account for immigration, that it can be viewed as a controlled population process or infinite particle system, and that it has a number of applications including marketing and biology.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.117
+UR  - https://doi.org/10.1287/mnsc.23.2.117
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Majority Decisions and Transitivity: Some Special Cases
+AU  - Merchant, Deepak K.
+AU  - Rao, M. R.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.125
+DO  - 10.1287/mnsc.23.2.125
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 125
+EP  - 130
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - The problem considered is that of obtaining majority decisions which are transitive. We show that the corresponding optimization problems for the weighted l1 norm and the weighted l2 norm are identical. We then show that she general problem of minimizing the weighted lk norm can be equivalently formulated as a set covering problem. Finally, we identify the Tchebycheff problem (l2 norm) with a class, of bottleneck quadratic assignment problems and give an efficient algorithm for solving it.
+AB  - The problem considered is that of obtaining majority decisions which are transitive. We show that the corresponding optimization problems for the weighted l1 norm and the weighted l2 norm are identical. We then show that she general problem of minimizing the weighted lk norm can be equivalently formulated as a set covering problem. Finally, we identify the Tchebycheff problem (l2 norm) with a class, of bottleneck quadratic assignment problems and give an efficient algorithm for solving it.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.125
+UR  - https://doi.org/10.1287/mnsc.23.2.125
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Global Solutions for a Nonconvex Nonconcave Rail Network Model
+AU  - LeBlanc, Larry J.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.131
+DO  - 10.1287/mnsc.23.2.131
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 131
+EP  - 139
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - This paper is concerned with developing long-range planning models of transportation systems to assist planners in assessing the impact of various levels of service in a transportation network. Railroad distribution networks are studied in particular, and emphasis is placed on the problem of determining optimal levels of service (improvements, degradations, abandonments) on each arc in the existing network. The problem is to optimally design a transportation system: the term ?design? as used here, does not comprehend new networks, but more importantly, the optimization or ?pruning? of existing transshipment networks. The model is formulated so that improvements to the shipping arcs are included as decision variables: The concave transshipment problem is extended to the case where coefficients of the shipping cost functions are treated as decision variables. Thus the model determines optimum movements of freight between nodes and optimum improvements/degradations to the network to minimize shipping costs plus maintenance costs on the shipping arcs. The result is a nonconvex, nonconcave transshipment problem which is then converted into a concave minimization problem for which global optimal solutions can be found. Several sample problems are solved.
+AB  - This paper is concerned with developing long-range planning models of transportation systems to assist planners in assessing the impact of various levels of service in a transportation network. Railroad distribution networks are studied in particular, and emphasis is placed on the problem of determining optimal levels of service (improvements, degradations, abandonments) on each arc in the existing network. The problem is to optimally design a transportation system: the term ?design? as used here, does not comprehend new networks, but more importantly, the optimization or ?pruning? of existing transshipment networks. The model is formulated so that improvements to the shipping arcs are included as decision variables: The concave transshipment problem is extended to the case where coefficients of the shipping cost functions are treated as decision variables. Thus the model determines optimum movements of freight between nodes and optimum improvements/degradations to the network to minimize shipping costs plus maintenance costs on the shipping arcs. The result is a nonconvex, nonconcave transshipment problem which is then converted into a concave minimization problem for which global optimal solutions can be found. Several sample problems are solved.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.131
+UR  - https://doi.org/10.1287/mnsc.23.2.131
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Group Preference Axiomatization with Cardinal Utility
+AU  - Keeney, Ralph L.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.140
+DO  - 10.1287/mnsc.23.2.140
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 140
+EP  - 145
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - Given a group composed of N individuals and given that each has rated all of the alternatives using a cardinal utility function, the problem is to aggregate these to obtain a group cardinal utility function for evaluating each alternative. The cardinal utilities indicate the strength of preference of one alternative relative to others as well as order the alternatives. Five assumptions, which seem reasonable for the aggregation, are postulated, and it is shown the group cardinal utility function which is implied must be a linear combination of the individual cardinal utility functions. For assessing such a function, interpersonal comparisons of preferences are required. Suggestions for who should make these comparisons and how they might be done are given.
+AB  - Given a group composed of N individuals and given that each has rated all of the alternatives using a cardinal utility function, the problem is to aggregate these to obtain a group cardinal utility function for evaluating each alternative. The cardinal utilities indicate the strength of preference of one alternative relative to others as well as order the alternatives. Five assumptions, which seem reasonable for the aggregation, are postulated, and it is shown the group cardinal utility function which is implied must be a linear combination of the individual cardinal utility functions. For assessing such a function, interpersonal comparisons of preferences are required. Suggestions for who should make these comparisons and how they might be done are given.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.140
+UR  - https://doi.org/10.1287/mnsc.23.2.140
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Parametric Model for the Allocation of Fire Companies in New York City
+AU  - Rider, Kenneth Lloyd
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.146
+DO  - 10.1287/mnsc.23.2.146
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 146
+EP  - 158
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - A fire department, in order to balance equitably its resources throughout a city, must consider several often conflicting objectives. This paper describes an allocation method that avoids the difficulty of choosing an objective in advance by allowing the decision-maker to enumerate a range of criteria by varying a trade-off parameter. The method uses travel time to fires as a measure of system performance and generates allocations satisfying criteria ranging from the minimization of city-wide travel time to the equalization of average travel times in different regions. A comparison of the allocations generated by the model to the current allocation of fire companies in New York City shows that one value of the trade-off parameter produces results that correspond closely to the current allocation policy. An example of how the model can be used as a policy tool is given.
+AB  - A fire department, in order to balance equitably its resources throughout a city, must consider several often conflicting objectives. This paper describes an allocation method that avoids the difficulty of choosing an objective in advance by allowing the decision-maker to enumerate a range of criteria by varying a trade-off parameter. The method uses travel time to fires as a measure of system performance and generates allocations satisfying criteria ranging from the minimization of city-wide travel time to the equalization of average travel times in different regions. A comparison of the allocations generated by the model to the current allocation of fire companies in New York City shows that one value of the trade-off parameter produces results that correspond closely to the current allocation policy. An example of how the model can be used as a policy tool is given.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.146
+UR  - https://doi.org/10.1287/mnsc.23.2.146
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Linear Multiparametric Programming by Multicriteria Simplex Method
+AU  - Yuf, P. L.
+AU  - Zeleny, M.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.159
+DO  - 10.1287/mnsc.23.2.159
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 159
+EP  - 170
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - A recently derived Multicriteria Simplex Method [Yu, P. L., M. Zeleny. 1975. The set of all nondominated solutions in linear cases and a multicriteria simplex method. J. Math. Anal. Appl. 49 (2, February) 430?468.] is used to study some basic properties in the decomposition of parametric space. A new type of parametric space, which arises naturally in its formulation, is used. Two computational methods are discussed. The first one is an indirect algebraic method which locates the corresponding set of all nondominated extreme points. The second one is a direct geometric decomposition method which is similar to that discussed by Gal and Nedoma [Gal, T., J. Nedoma. 1972 Multiparametric linear programming. Management Sci.. 18 406?421.]. The difficulties of such a geometric method are discussed through an example.
+AB  - A recently derived Multicriteria Simplex Method [Yu, P. L., M. Zeleny. 1975. The set of all nondominated solutions in linear cases and a multicriteria simplex method. J. Math. Anal. Appl. 49 (2, February) 430?468.] is used to study some basic properties in the decomposition of parametric space. A new type of parametric space, which arises naturally in its formulation, is used. Two computational methods are discussed. The first one is an indirect algebraic method which locates the corresponding set of all nondominated extreme points. The second one is a direct geometric decomposition method which is similar to that discussed by Gal and Nedoma [Gal, T., J. Nedoma. 1972 Multiparametric linear programming. Management Sci.. 18 406?421.]. The difficulties of such a geometric method are discussed through an example.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.159
+UR  - https://doi.org/10.1287/mnsc.23.2.159
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Aggregate Planning with Learning Curve Productivity
+AU  - Ebert, Ronald J.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.171
+DO  - 10.1287/mnsc.23.2.171
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 171
+EP  - 182
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - Research reports of others indicate that many manufacturing organizations experience (a) the probiem of aggregate planning, and (b) experience systematic productivity changes throughout the ?life? of a product. Methods for resolving (a) and for quantifying (b) have been developed and applied independently in the operations management literature. All current aggregate planning models are suitable only for constant productivity situations. The current research integrates (a) and (b) into a single computer-based model which permits the development of aggregate-output plans in the face of changing, productivity. The model requires reformulation of traditional aggregate planning methods to incorporate changes in productivity and thereafter solves the reformulated planning problem using direct-computer search. The potential significance of the model is demonstrated by generating a series of aggregate plans for various learning rates. These plans are then used to develop manpower schedules, for cash flow analysis, and for making product pricing decisions.
+AB  - Research reports of others indicate that many manufacturing organizations experience (a) the probiem of aggregate planning, and (b) experience systematic productivity changes throughout the ?life? of a product. Methods for resolving (a) and for quantifying (b) have been developed and applied independently in the operations management literature. All current aggregate planning models are suitable only for constant productivity situations. The current research integrates (a) and (b) into a single computer-based model which permits the development of aggregate-output plans in the face of changing, productivity. The model requires reformulation of traditional aggregate planning methods to incorporate changes in productivity and thereafter solves the reformulated planning problem using direct-computer search. The potential significance of the model is demonstrated by generating a series of aggregate plans for various learning rates. These plans are then used to develop manpower schedules, for cash flow analysis, and for making product pricing decisions.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.171
+UR  - https://doi.org/10.1287/mnsc.23.2.171
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of Implied Risk-Taking Behavior Under a Goal-Based Incentive Scheme
+AU  - Itami, Hiroyuki
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.183
+DO  - 10.1287/mnsc.23.2.183
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 183
+EP  - 197
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - The purpose of this paper is an analysis of how an incentive scheme and the subordinate's risk preference criterion to determine the implied risk preference criterion which is essentially used in arriving at a decision under uncertainty in a decentralized decision making situation. After emphasizing the importance of risk-congruence in management control under uncertainty, a topic rarely mentioned in the past, some analytical result which would be of help to management in designing a goal-based incentive scheme are obtained. Results are related to earlier empirical observations.
+AB  - The purpose of this paper is an analysis of how an incentive scheme and the subordinate's risk preference criterion to determine the implied risk preference criterion which is essentially used in arriving at a decision under uncertainty in a decentralized decision making situation. After emphasizing the importance of risk-congruence in management control under uncertainty, a topic rarely mentioned in the past, some analytical result which would be of help to management in designing a goal-based incentive scheme are obtained. Results are related to earlier empirical observations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.183
+UR  - https://doi.org/10.1287/mnsc.23.2.183
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On Optimal Bidding Strategies
+AU  - Näykki, Pertti
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.198
+DO  - 10.1287/mnsc.23.2.198
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 198
+EP  - 203
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - This paper determines the optimal bid price for a fine bidding against several other firms, when each firm estimates its own cost and the cost estimates of the prices of other firms. Game theoretic and decision theoretic approaches are compared.
+AB  - This paper determines the optimal bid price for a fine bidding against several other firms, when each firm estimates its own cost and the cost estimates of the prices of other firms. Game theoretic and decision theoretic approaches are compared.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.198
+UR  - https://doi.org/10.1287/mnsc.23.2.198
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Theory of Two-Currency Gambles
+AU  - Folks, William R.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.204
+DO  - 10.1287/mnsc.23.2.204
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 204
+EP  - 215
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - This paper describes a theory of decision making under uncertainty when payoffs are made in two different currencies. It is shown that immediate lotteries can be evaluated consistently using utility functions assessed in either currency. Delayed lotteries subject to the exchange risk may also be evaluated by single currency utility functions; the implications of the use of such functions are discussed. The conditions where a utility function should include the rate of exchange itself are outlined. Finally, the fallacy of the use of risk adjusted exchange rates for specific exchange management operations is discussed.
+AB  - This paper describes a theory of decision making under uncertainty when payoffs are made in two different currencies. It is shown that immediate lotteries can be evaluated consistently using utility functions assessed in either currency. Delayed lotteries subject to the exchange risk may also be evaluated by single currency utility functions; the implications of the use of such functions are discussed. The conditions where a utility function should include the rate of exchange itself are outlined. Finally, the fallacy of the use of risk adjusted exchange rates for specific exchange management operations is discussed.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.204
+UR  - https://doi.org/10.1287/mnsc.23.2.204
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Note—Sequencing with Finite Intermediate Storage
+AU  - Reddi, S. S.
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.216
+DO  - 10.1287/mnsc.23.2.216
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 216
+EP  - 217
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - This note presents procedures for finding optimal solutions to the deterministic N-job two machine flow-shop sequencing problem when the buffer size z is nearly the same as the number of jobs. When m = N ? z ? 2 is small, a simple and fast procedure that uses Johnson's algorithm on the middle N ? 2m jobs is used. The procedure has a computational complexity of o(N2m+1) comparisons.
+AB  - This note presents procedures for finding optimal solutions to the deterministic N-job two machine flow-shop sequencing problem when the buffer size z is nearly the same as the number of jobs. When m = N ? z ? 2 is small, a simple and fast procedure that uses Johnson's algorithm on the middle N ? 2m jobs is used. The procedure has a computational complexity of o(N2m+1) comparisons.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.216
+UR  - https://doi.org/10.1287/mnsc.23.2.216
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - North-Holland–TIMS Studies in the Management Sciences
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.218
+DO  - 10.1287/mnsc.23.2.218
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 218
+EP  - 220
+VL  - 23
+IS  - 2
+PB  - INFORMS
+N2  - Abstracts of Logistics, Volume 1, edited by Murray A. Geisler.
+AB  - Abstracts of Logistics, Volume 1, edited by Murray A. Geisler.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.218
+UR  - https://doi.org/10.1287/mnsc.23.2.218
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Notes About Authors
+Y1  - 1976/10/01
+PY  - 1976
+DA  - 1976/10/01
+N1  - doi: 10.1287/mnsc.23.2.221
+DO  - 10.1287/mnsc.23.2.221
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 221
+EP  - 222
+VL  - 23
+IS  - 2
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.23.2.221
+UR  - https://doi.org/10.1287/mnsc.23.2.221
+Y2  - 2024/03/27
+ER  - 

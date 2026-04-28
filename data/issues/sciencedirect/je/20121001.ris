@@ -1,0 +1,403 @@
+TY  - JOUR
+T1  - GEL statistics under weak identification
+AU  - Guggenberger, Patrik
+AU  - Ramalho, Joaquim J.S.
+AU  - Smith, Richard J.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 331
+EP  - 349
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001212
+KW  - Asymptotically pivotal statistics
+KW  - Conditional likelihood ratio statistic
+KW  - Generalised empirical likelihood
+KW  - Implied probabilities
+KW  - Nonlinear moment conditions
+KW  - Weak identification
+AB  - The central concern of this paper is the provision in a time series moment condition framework of practical recommendations of confidence regions for parameters whose coverage probabilities are robust to the strength or weakness of identification. To this end we develop Pearson-type test statistics based on GEL implied probabilities formed from general kernel smoothed versions of the moment indicators. We also modify the statistics suggested in Guggenberger and Smith (2008) for a general kernel smoothing function. Importantly for our conclusions, we provide GEL time series counterparts to GMM and GEL conditional likelihood ratio statistics given in Kleibergen (2005) and Smith (2007). Our analysis not only demonstrates that these statistics are asymptotically (conditionally) pivotal under both classical asymptotic theory and weak instrument asymptotics of Stock and Wright (2000) but also provides asymptotic power results in the weakly identified time series context. Consequently, the empirical null rejection probabilities of the associated tests and, thereby, the coverage probabilities of the corresponding confidence regions, should not be affected greatly by the strength or otherwise of identification. A comprehensive Monte Carlo study indicates that a number of the tests proposed here represent very competitive choices in comparison with those suggested elsewhere in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Editors’ introduction
+AU  - Carrasco, Marine
+AU  - Caner, Mehmet
+AU  - Kitamura, Yuichi
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 251
+EP  - 255
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001169
+ER  - 
+
+TY  - JOUR
+T1  - Efficient minimum distance estimation with multiple rates of convergence
+AU  - Antoine, Bertille
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 350
+EP  - 367
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001224
+KW  - GMM
+KW  - Mixed-rates asymptotics
+KW  - Kernel estimation
+KW  - Rotation in the coordinate system
+AB  - This paper extends the asymptotic theory of GMM inference to allow sample counterparts of the estimating equations to converge at (multiple) rates, different from the usual square-root of the sample size. In this setting, we provide consistent estimation of the structural parameters. In addition, we define a convenient rotation in the parameter space (or reparametrization) to disentangle the different rates of convergence. More precisely, we identify special linear combinations of the structural parameters associated with a specific rate of convergence. Finally, we demonstrate the validity of usual inference procedures, like the overidentification test and Wald test, with standard formulas. It is important to stress that both estimation and testing work without requiring the knowledge of the various rates. However, the assessment of these rates is crucial for (asymptotic) power considerations. Possible applications include econometric problems with two dimensions of asymptotics, due to trimming, tail estimation, infill asymptotic, social interactions, kernel smoothing or any kind of regularization.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in regression models with many regressors
+AU  - Anatolyev, Stanislav
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 368
+EP  - 382
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001236
+KW  - Alternative asymptotic theory
+KW  - Linear regression
+KW  - Test size
+KW  - Test power
+KW  -  test
+KW  - Wald test
+KW  - Likelihood ratio test
+KW  - Lagrange multiplier test
+AB  - We investigate the behavior of various standard and modified F, likelihood ratio (LR), and Lagrange multiplier (LM) tests in linear homoskedastic regressions, adapting an alternative asymptotic framework in which the number of regressors and possibly restrictions grows proportionately to the sample size. When the restrictions are not numerous, the rescaled classical test statistics are asymptotically chi-squared, irrespective of whether there are many or few regressors. However, when the restrictions are numerous, standard asymptotic versions of classical tests are invalid. We propose and analyze asymptotically valid versions of the classical tests, including those that are robust to the numerosity of regressors and restrictions. The local power of all asymptotically valid tests under consideration turns out to be equal. The “exact” F test that appeals to critical values of the F distribution is also asymptotically valid and robust to the numerosity of regressors and restrictions.
+ER  - 
+
+TY  - JOUR
+T1  - Kernel-weighted GMM estimators for linear time series models
+AU  - Kuersteiner, Guido M.
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 399
+EP  - 421
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761200125X
+KW  - Time series
+KW  - Feasible GMM
+KW  - Number of instruments
+KW  - Kernel weights
+KW  - Higher-order MSE
+KW  - Bias reduction
+AB  - This paper analyzes the higher-order asymptotic properties of generalized method of moments (GMM) estimators for linear time series models using many lags as instruments. A data-dependent moment selection method based on minimizing the approximate mean squared error is developed. In addition, a new version of the GMM estimator based on kernel-weighted moment conditions is proposed. It is shown that kernel-weighted GMM estimators can reduce the asymptotic bias compared to standard GMM estimators. Kernel weighting also helps to simplify the problem of selecting the optimal number of instruments. A feasible procedure similar to optimal bandwidth selection is proposed for the kernel-weighted GMM estimator.
+ER  - 
+
+TY  - JOUR
+T1  - A regularization approach to the many instruments problem
+AU  - Carrasco, Marine
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 383
+EP  - 398
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001248
+KW  - Many instruments
+KW  - Mean square error
+KW  - Regularization methods
+AB  - This paper focuses on the estimation of a finite dimensional parameter in a linear model where the number of instruments is very large or infinite. In order to improve the small sample properties of standard instrumental variable (IV) estimators, we propose three modified IV estimators based on three different ways of inverting the covariance matrix of the instruments. These inverses involve a regularization or smoothing parameter. It should be stressed that no restriction on the number of instruments is needed and that all the instruments are used in the estimation. We show that the three estimators are asymptotically normal and attain the semiparametric efficiency bound. Higher-order analysis of the MSE reveals that the bias of the modified estimators does not depend on the number of instruments. Finally, we suggest a data-driven method for selecting the regularization parameter. Interestingly, our regularization techniques lead to a consistent nonparametric estimation of the optimal instrument.
+ER  - 
+
+TY  - JOUR
+T1  - Efficiency bounds for estimating linear functionals of nonparametric regression models with endogenous regressors
+AU  - Severini, Thomas A.
+AU  - Tripathi, Gautam
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 491
+EP  - 498
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001303
+AB  - Let Y=μ∗(X)+ε, where μ∗ is unknown and E[ε|X]≠0 with positive probability but there exist instrumental variables W such that E[ε|W]=0 w.p.1. It is well known that such nonparametric regression models are generally “ill-posed” in the sense that the map from the data to μ∗ is not continuous. In this paper, we derive the efficiency bounds for estimating certain linear functionals of μ∗ without assuming μ∗ itself to be identified.
+ER  - 
+
+TY  - JOUR
+T1  - Information criteria for impulse response function matching estimation of DSGE models
+AU  - Hall, Alastair R.
+AU  - Inoue, Atsushi
+AU  - Nason, James M.
+AU  - Rossi, Barbara
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 499
+EP  - 518
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001315
+AB  - We propose new information criteria for impulse response function matching estimators (IRFMEs). These estimators yield sampling distributions of the structural parameters of dynamic stochastic general equilibrium (DSGE) models by minimizing the distance between sample and theoretical impulse responses. First, we propose an information criterion to select only the responses that produce consistent estimates of the true but unknown structural parameters: the Valid Impulse Response Selection Criterion (VIRSC). The criterion is especially useful for mis-specified models. Second, we propose a criterion to select the impulse responses that are most informative about DSGE model parameters: the Relevant Impulse Response Selection Criterion (RIRSC). These criteria can be used in combination to select the subset of valid impulse response functions with minimal dimension that yields asymptotically efficient estimators. The criteria are general enough to apply to impulse responses estimated by VARs, local projections, and simulation methods. We show that the use of our criteria significantly affects estimates and inference about key parameters of two well-known new Keynesian DSGE models. Monte Carlo evidence indicates that the criteria yield gains in terms of finite sample bias as well as offering tests statistics whose behavior is better approximated by the first order asymptotic theory. Thus, our criteria improve existing methods used to implement IRFMEs.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing misspecified asset pricing models with empirical likelihood estimators
+AU  - Almeida, Caio
+AU  - Garcia, René
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 519
+EP  - 537
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001327
+KW  - Stochastic discount factor
+KW  - Euler equations
+KW  - Generalized minimum contrast estimators
+KW  - Model misspecification
+KW  - Cressie–Read discrepancies
+AB  - Hansen and Jagannathan (1997) compare misspecified asset pricing models based on least-square projections on a family of admissible stochastic discount factors. We extend their fundamental contribution by considering Minimum Discrepancy projections where misspecification is measured by a family of convex functions that take into account higher moments of asset returns. The Minimum Discrepancy problems are solved on dual spaces producing a family of estimators that captures the least-square problem as a particular case. We derive the asymptotic distributions of the estimators for the Cressie–Read family of discrepancies, and illustrate their use with an assessment of the Consumption Asset Pricing Model.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal comparison of misspecified moment restriction models under a chosen measure of fit
+AU  - Marmer, Vadim
+AU  - Otsu, Taisuke
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 538
+EP  - 550
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001339
+KW  - Moment restriction
+KW  - Model comparison
+KW  - Misspecification
+KW  - Generalized Neyman–Pearson optimality
+KW  - Generalized method of moments
+AB  - Suppose that the econometrician is interested in comparing two misspecified moment restriction models, where the comparison is performed in terms of some chosen measure of fit. This paper is concerned with describing an optimal test of the Vuong (1989) and Rivers and Vuong (2002) type null hypothesis that the two models are equivalent under the given measure of fit (the ranking may vary for different measures). We adopt the generalized Neyman–Pearson optimality criterion, which focuses on the decay rates of the type I and II error probabilities under fixed non-local alternatives, and derive an optimal but practically infeasible test. Then, as an illustration, by considering the model comparison hypothesis defined by the weighted Euclidean norm of moment restrictions, we propose a feasible approximate test statistic to the optimal one and study its asymptotic properties. Local power properties, one-sided test, and comparison under the generalized empirical likelihood-based measure of fit are also investigated. A simulation study illustrates that our approximate test is more powerful than the Rivers–Vuong test.
+ER  - 
+
+TY  - JOUR
+T1  - Inference regarding multiple structural changes in linear models with endogenous regressors
+AU  - Hall, Alastair R.
+AU  - Han, Sanggohn
+AU  - Boldea, Otilia
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 281
+EP  - 302
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001182
+KW  - Structural change
+KW  - Multiple break points
+KW  - Instrumental variables estimation
+AB  - This paper considers the linear model with endogenous regressors and multiple changes in the parameters at unknown times. It is shown that minimization of a Generalized Method of Moments criterion yields inconsistent estimators of the break fractions, but minimization of the Two Stage Least Squares (2SLS) criterion yields consistent estimators of these parameters. We develop a methodology for estimation and inference of the parameters of the model based on 2SLS. The analysis covers the cases where the reduced form is either stable or unstable. The methodology is illustrated via an application to the New Keynesian Phillips Curve for the US.
+ER  - 
+
+TY  - JOUR
+T1  - Spanning tests in return and stochastic discount factor mean–variance frontiers: A unifying approach
+AU  - Peñaranda, Francisco
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 303
+EP  - 324
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001194
+KW  - Asset pricing
+KW  - Continuously updated GMM
+KW  - Generalised empirical likelihood
+KW  - Generalised inverse
+KW  - Representing portfolios
+KW  - Singular covariance matrix
+AB  - We propose new spanning tests that assess if the initial and additional assets share the economically meaningful cost and mean representing portfolios. We prove their asymptotic equivalence to existing tests under local alternatives. We also show that unlike two-step or iterated procedures, single-step methods such as continuously updated GMM yield numerically identical overidentifying restrictions test, so there is arguably a single spanning test. To prove these results, we extend optimal GMM inference to deal with singularities in the long run second moment matrix of the influence functions. Finally, we test for spanning using size and book-to-market sorted US stock portfolios.
+ER  - 
+
+TY  - JOUR
+T1  - CUE with many weak instruments and nearly singular design
+AU  - Caner, Mehmet
+AU  - Yıldız, Neşe
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 422
+EP  - 441
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001261
+KW  - Singular matrix
+KW  - Variance
+KW  - Bias
+AB  - This paper analyzes many weak moment asymptotics under the possibility of similar moments. The possibility of highly related moments arises when there are many of them. Knight and Fu (2000) designate the issue of similar regressors as the “nearly singular” design in the least squares case. In the nearly singular design, the sample variance converges to a singular limit term. However, Knight and Fu (2000) assume that on the nullspace of the limit term, the difference between the sample variance and the singular matrix converges in probability to a positive definite matrix when multiplied by an appropriate rate. We consider specifically Continuous Updating Estimator (CUE) with many weak moments under nearly singular design. We show that the nearly singular design affects the form of the limit of the many weak moment asymptotics that is introduced by Newey and Windmeijer (2009a). However, the estimator is still consistent and the Wald test has the standard χ2 limit.
+ER  - 
+
+TY  - JOUR
+T1  - The semiparametric efficiency bound for models of sequential moment restrictions containing unknown functions
+AU  - Ai, Chunrong
+AU  - Chen, Xiaohong
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 442
+EP  - 457
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001273
+KW  - Sequential moment models
+KW  - Semiparametric efficiency bounds
+KW  - Optimally weighted orthogonalized sieve minimum distance
+KW  - Nonparametric IV regression
+KW  - Weighted average derivatives
+KW  - Partially linear quantile IV
+AB  - This paper computes the semiparametric efficiency bound for finite dimensional parameters identified by models of sequential moment restrictions containing unknown functions. Our results extend those of Chamberlain (1992b) and Ai and Chen (2003) for semiparametric conditional moment restrictions with identical information sets to the case of nested information sets, and those of Chamberlain (1992a) and Brown and Newey (1998) for models of sequential moment restrictions without unknown functions to cases with unknown functions of possibly endogenous variables. Our results are applicable to semiparametric panel data models and two stage plug-in problems. As an important example, we compute the efficiency bound for a weighted average derivative of a nonparametric instrumental variables regression (NPIV), and find that simple plug-in NPIV estimators are not efficient. We present an optimally weighted, orthogonalized, sieve minimum distance estimator that achieves the semiparametric efficiency bound.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - IFC
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00179-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001790
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of an instrumental regression: A quasi-Bayesian approach based on regularized posterior
+AU  - Florens, Jean-Pierre
+AU  - Simoni, Anna
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 458
+EP  - 475
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001285
+KW  - Instrumental regression
+KW  - Nonparametric estimation
+KW  - Posterior distribution
+KW  - Tikhonov regularization
+KW  - Posterior consistency
+AB  - We propose a quasi-Bayesian nonparametric approach to estimating the structural relationship φ among endogenous variables when instruments are available. We show that the posterior distribution of φ is inconsistent in the frequentist sense. We interpret this fact as the ill-posedness of the Bayesian inverse problem defined by the relation that characterizes the structural function φ. To solve this problem, we construct a regularized posterior distribution, based on a Tikhonov regularization of the inverse of the marginal variance of the sample, which is justified by a penalized projection argument. This regularized posterior distribution is consistent in the frequentist sense and its mean can be interpreted as the mean of the exact posterior distribution resulting from a Gaussian prior distribution with a shrinking covariance operator.
+ER  - 
+
+TY  - JOUR
+T1  - Local GMM estimation of time series models with conditional moment restrictions
+AU  - Gospodinov, Nikolay
+AU  - Otsu, Taisuke
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 476
+EP  - 490
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001297
+KW  - Conditional moment restriction
+KW  - Local GMM
+KW  - Higher-order expansion
+KW  - Conditional heteroskedasticity
+AB  - This paper investigates statistical properties of the local generalized method of moments (LGMM) estimator for some time series models defined by conditional moment restrictions. First, we consider Markov processes with possible conditional heteroskedasticity of unknown forms and establish the consistency, asymptotic normality, and semi-parametric efficiency of the LGMM estimator. Second, we undertake a higher-order asymptotic expansion and demonstrate that the LGMM estimator possesses some appealing bias reduction properties for positively autocorrelated processes. Our analysis of the asymptotic expansion of the LGMM estimator reveals an interesting contrast with the OLS estimator that helps to shed light on the nature of the bias correction performed by the LGMM estimator. The practical importance of these findings is evaluated in terms of a bond and option pricing exercise based on a diffusion model for spot interest rate.
+ER  - 
+
+TY  - JOUR
+T1  - Proofs for large sample properties of generalized method of moments estimators
+AU  - Hansen, Lars Peter
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 325
+EP  - 330
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001200
+AB  - I present proofs for the consistency of generalized method of moments (GMM) estimators presented in Hansen (1982). Some basic approximation results provide the groundwork for the analysis of a class of such estimators. Using these results, I establish the large sample convergence of GMM estimators under alternative restrictions on the estimation problem.
+ER  - 
+
+TY  - JOUR
+T1  - Underidentification?
+AU  - Arellano, Manuel
+AU  - Hansen, Lars Peter
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 170
+IS  - 2
+SP  - 256
+EP  - 280
+PY  - 2012
+DA  - 2012/10/01/
+T2  - Thirtieth Anniversary of Generalized Method of Moments
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001170
+AB  - We develop methods for testing that an econometric model is underidentified and for estimating the nature of the failed identification. We adopt a generalized-method-of moments perspective in a possibly non-linear econometric specification. If, after attempting to replicate the structural relation, we find substantial evidence against the overidentifying restrictions of an augmented model, this is evidence against underidentification of the original model. To diagnose how identification might fail, we study the estimation of a one-dimensional curve that gives the parameter configurations that provide the greatest challenge to identification, and we illustrate this calculation in an empirical example.
+ER  - 

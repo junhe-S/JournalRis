@@ -1,0 +1,144 @@
+TY  - JOUR
+T1  - Delay times of sequential procedures for multiple time series regression models
+AU  - Aue, Alexander
+AU  - Horváth, Lajos
+AU  - Reimherr, Matthew L.
+JO  - Journal of Econometrics
+VL  - 149
+IS  - 2
+SP  - 174
+EP  - 190
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.018
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760900027X
+KW  - Change-point estimation
+KW  - CUSUM statistic
+KW  - Linear models
+KW  - Sequential tests
+KW  - Structural stability
+KW  - Threshold function
+KW  - Time series regressors
+AB  - We consider a multiple regression model in which the explanatory variables are specified by time series. To sequentially test for the stability of the regression parameters in time, we introduce a detector which is based on the first excess time of a CUSUM-type statistic over a suitably constructed threshold function. The aim of this paper is to study the delay time associated with this detector. As our main result, we derive the limit distribution of the delay time and provide thereby a theory that extends the benchmark average run-length concept utilized in most of the sequential monitoring literature. To highlight the applicability of the limit results in finite samples, we present a Monte Carlo simulation study and an application to macroeconomic data.
+ER  - 
+
+TY  - JOUR
+T1  - Tests of risk premia in linear factor models
+AU  - Kleibergen, Frank
+JO  - Journal of Econometrics
+VL  - 149
+IS  - 2
+SP  - 149
+EP  - 173
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000311
+KW  - Small ’s
+KW  - Size distortion of test statistics
+KW  - Consumption capital asset pricing model
+AB  - We show that statistical inference on the risk premia in linear factor models that is based on the Fama–MacBeth (FM) and generalized least squares (GLS) two-pass risk premia estimators is misleading when the β’s are small and/or the number of assets is large. We propose novel statistics, that are based on the maximum likelihood estimator of Gibbons [Gibbons, M., 1982. Multivariate tests of financial models: A new approach. Journal of Financial Economics 10, 3–27], which remain trustworthy in these cases. The inadequacy of the FM and GLS two-pass t/Wald statistics is highlighted in a power and size comparison using quarterly portfolio returns from Lettau and Ludvigson [Lettau, M., Ludvigson, S., 2001. Resurrecting the (C)CAPM: A cross-sectional test when risk premia are time-varying. Journal of Political Economy 109, 1238–1287]. The power and size comparison shows that the FM and GLS two-pass t/Wald statistics can be severely size distorted. The 95% confidence sets for the risk premia in the above-cited work that result from the novel statistics differ substantially from those that result from the FM and GLS two-pass t-statistics. They show support for the human capital asset pricing model although the 95% confidence set for the risk premia on labor income growth is unbounded. The 95% confidence sets show no support for the (scaled) consumption asset pricing model, since the 95% confidence set of the risk premia on the scaled consumption growth consists of the whole real line, but do not reject it either.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian analysis of random coefficient logit models using aggregate data
+AU  - Jiang, Renna
+AU  - Manchanda, Puneet
+AU  - Rossi, Peter E.
+JO  - Journal of Econometrics
+VL  - 149
+IS  - 2
+SP  - 136
+EP  - 148
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.12.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002297
+KW  - Random coefficient logit
+KW  - Aggregate share models
+KW  - Bayesian analysis
+AB  - We present a Bayesian approach for analyzing aggregate level sales data in a market with differentiated products. We consider the aggregate share model proposed by Berry et al. [Berry, Steven, Levinsohn, James, Pakes, Ariel, 1995. Automobile prices in market equilibrium. Econometrica. 63 (4), 841–890], which introduces a common demand shock into an aggregated random coefficient logit model. A full likelihood approach is possible with a specification of the distribution of the common demand shock. We introduce a reparameterization of the covariance matrix to improve the performance of the random walk Metropolis for covariance parameters. We illustrate the usefulness of our approach with both actual and simulated data. Sampling experiments show that our approach performs well relative to the GMM estimator even in the presence of a mis-specified shock distribution. We view our approach as useful for those who are willing to trade off one additional distributional assumption for increased efficiency in estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 149
+IS  - 2
+SP  - IFC
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(09)00087-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000876
+ER  - 
+
+TY  - JOUR
+T1  - Estimating distributions of potential outcomes using local instrumental variables with an application to changes in college enrollment and wage inequality
+AU  - Carneiro, Pedro
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 149
+IS  - 2
+SP  - 191
+EP  - 208
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000281
+KW  - Comparative advantage
+KW  - Composition effects
+KW  - Local instrumental variables
+KW  - Marginal treatment effect
+KW  - Semiparametric estimation
+KW  - Wage inequality
+AB  - This paper extends the method of local instrumental variables developed by Heckman and Vytlacil [Heckman, J., Vytlacil E., 2005. Structural equations, treatment, effects and econometric policy evaluation. Econometrica 73(3), 669–738] to the estimation of not only means, but also distributions of potential outcomes. The newly developed method is illustrated by applying it to changes in college enrollment and wage inequality using data from the National Longitudinal Survey of Youth of 1979. Increases in college enrollment cause changes in the distribution of ability among college and high school graduates. This paper estimates a semiparametric selection model of schooling and wages to show that, for fixed skill prices, a 14% increase in college participation (analogous to the increase observed in the 1980s), reduces the college premium by 12% and increases the 90–10 percentile ratio among college graduates by 2%.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric binary regression models under shape constraints with an application to Indian schooling data
+AU  - Banerjee, Moulinath
+AU  - Mukherjee, Debasri
+AU  - Mishra, Santosh
+JO  - Journal of Econometrics
+VL  - 149
+IS  - 2
+SP  - 101
+EP  - 117
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608002091
+KW  - Convex minorants
+KW  - Likelihood ratio statistic
+KW  - School attendance
+KW  - Semiparametric binary regression
+AB  - We consider estimation of the regression function in a semiparametric binary regression model defined through an appropriate link function (with emphasis on the logistic link) using likelihood-ratio based inversion. The dichotomous response variable Δ is influenced by a set of covariates that can be partitioned as (X,Z) where Z (real valued) is the covariate of primary interest and X (vector valued) denotes a set of control variables. For any fixed X, the conditional probability of the event of interest (Δ=1) is assumed to be a non-decreasing function of Z. The effect of the control variables is captured by a regression parameter β. We show that the baseline conditional probability function (corresponding to X=0) can be estimated by isotonic regression procedures and develop a likelihood ratio based method for constructing asymptotic confidence intervals for the conditional probability function (the regression function) that avoids the need to estimate nuisance parameters. Interestingly enough, the calibration of the likelihood ratio based confidence sets for the regression function no longer involves the usual χ2 quantiles, but those of the distribution of a new random variable that can be characterized as a functional of convex minorants of Brownian motion with quadratic drift. Confidence sets for the regression parameter β can however be constructed using asymptotically χ2 likelihood ratio statistics. The finite sample performance of the methods are assessed via a simulation study. The techniques of the paper are applied to data sets on primary school attendance among children belonging to different socio-economic groups in rural India.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic properties of the efficient estimators for cointegrating regression models with serially dependent errors
+AU  - Kurozumi, Eiji
+AU  - Hayakawa, Kazuhiko
+JO  - Journal of Econometrics
+VL  - 149
+IS  - 2
+SP  - 118
+EP  - 135
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800211X
+KW  - Cointegration
+KW  - Second-order bias
+KW  - Fully modified regressions
+KW  - Canonical cointegrating regressions
+KW  - Dynamic ordinary least squares regressions
+AB  - In this paper, we analytically investigate three efficient estimators for cointegrating regression models: Phillips and Hansen’s [Phillips, P.C.B., Hansen, B.E., 1990. Statistical inference in instrumental variables regression with I(1) processes. Review of Economic Studies 57, 99–125] fully modified OLS estimator, Park’s [Park, J.Y., 1992. Canonical cointegrating regressions. Econometrica 60, 119–143] canonical cointegrating regression estimator, and Saikkonen’s [Saikkonen, P., 1991. Asymptotically efficient estimation of cointegration regressions. Econometric Theory 7, 1–21] dynamic OLS estimator. We consider the case where the regression errors are moderately serially correlated and the AR coefficient in the regression errors approaches 1 at a rate slower than 1/T, where T represents the sample size. We derive the limiting distributions of the efficient estimators under this system and find that they depend on the approaching rate of the AR coefficient. If the rate is slow enough, efficiency is established for the three estimators; however, if the approaching rate is relatively faster, the estimators will have the same limiting distribution as the OLS estimator. For the intermediate case, the second-order bias of the OLS estimator is partially eliminated by the efficient methods. This result explains why, in finite samples, the effect of the efficient methods diminishes as the serial correlation in the regression errors becomes stronger. We also propose to modify the existing efficient estimators in order to eliminate the second-order bias, which possibly remains in the efficient estimators. Using Monte Carlo simulations, we demonstrate that our modification is effective when the regression errors are moderately serially correlated and the simultaneous correlation is relatively strong.
+ER  - 

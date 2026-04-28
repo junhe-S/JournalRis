@@ -1,0 +1,564 @@
+TY  - JOUR
+T1  - Ultra high frequency volatility estimation with dependent microstructure noise
+AU  - Aït-Sahalia, Yacine
+AU  - Mykland, Per A.
+AU  - Zhang, Lan
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 160
+EP  - 175
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000709
+KW  - Market microstructure
+KW  - Serial dependence
+KW  - High frequency data
+KW  - Realized volatility
+KW  - Subsampling
+KW  - Two scales realized volatility
+KW  - Multiple scales realized volatility
+AB  - We analyze the impact of time series dependence in market microstructure noise on the properties of estimators of the integrated volatility of an asset price based on data sampled at frequencies high enough for that noise to be a dominant consideration. We show that combining two time scales for that purpose will work even when the noise exhibits time series dependence, analyze in that context a refinement of this approach is based on multiple time scales, and compare empirically our different estimators to the standard realized volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Subsampling realised kernels
+AU  - Barndorff-Nielsen, Ole E.
+AU  - Hansen, Peter Reinhard
+AU  - Lunde, Asger
+AU  - Shephard, Neil
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 204
+EP  - 219
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000734
+KW  - Long run variance estimator
+KW  - Market frictions
+KW  - Quadratic variation
+KW  - Realised kernel
+KW  - Realised variance
+KW  - Subsampling
+AB  - In a recent paper we have introduced the class of realised kernel estimators of the increments of quadratic variation in the presence of noise. We showed that this estimator is consistent and derived its limit distribution under various assumptions on the kernel weights. In this paper we extend our analysis, looking at the class of subsampled realised kernels and we derive the limit theory for this class of estimators. We find that subsampling is highly advantageous for estimators based on discontinuous kernels, such as the truncated kernel. For kinked kernels, such as the Bartlett kernel, we show that subsampling is impotent, in the sense that subsampling has no effect on the asymptotic distribution. Perhaps surprisingly, for the efficient smooth kernels, such as the Parzen kernel, we show that subsampling is harmful as it increases the asymptotic variance. We also study the performance of subsampled realised kernels in simulations and in empirical work.
+ER  - 
+
+TY  - JOUR
+T1  - Econometric analysis of jump-driven stochastic volatility models
+AU  - Todorov, Viktor
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 12
+EP  - 21
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000515
+KW  - Lévy process
+KW  - Method-of-moments
+KW  - Power variation
+KW  - Quadratic variation
+KW  - Realized variance
+KW  - Stochastic volatility
+AB  - This paper introduces and studies the econometric properties of a general new class of models, which I refer to as jump-driven stochastic volatility models, in which the volatility is a moving average of past jumps. I focus attention on two particular semiparametric classes of jump-driven stochastic volatility models. In the first, the price has a continuous component with time-varying volatility and time-homogeneous jumps. The second jump-driven stochastic volatility model analyzed here has only jumps in the price, which have time-varying size. In the empirical application I model the memory of the stochastic variance with a CARMA(2,1) kernel and set the jumps in the variance to be proportional to the squared price jumps. The estimation, which is based on matching moments of certain realized power variation statistics calculated from high-frequency foreign exchange data, shows that the jump-driven stochastic volatility model containing continuous component in the price performs best. It outperforms a standard two-factor affine jump–diffusion model, but also the pure-jump jump-driven stochastic volatility model for the particular jump specification.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility forecast comparison using imperfect volatility proxies
+AU  - Patton, Andrew J.
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 246
+EP  - 256
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.034
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761000076X
+KW  - Forecast evaluation
+KW  - Forecast comparison
+KW  - Loss functions
+KW  - Realised variance
+KW  - Range
+AB  - The use of a conditionally unbiased, but imperfect, volatility proxy can lead to undesirable outcomes in standard methods for comparing conditional variance forecasts. We motivate our study with analytical results on the distortions caused by some widely used loss functions, when used with standard volatility proxies such as squared returns, the intra-daily range or realised volatility. We then derive necessary and sufficient conditions on the functional form of the loss function for the ranking of competing volatility forecasts to be robust to the presence of noise in the volatility proxy, and derive some useful special cases of this class of “robust” loss functions. The methods are illustrated with an application to the volatility of returns on IBM over the period 1993 to 2003.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities
+AU  - Bollerslev, Tim
+AU  - Gibson, Michael
+AU  - Zhou, Hao
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 235
+EP  - 245
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000758
+KW  - Stochastic volatility risk premium
+KW  - Model-free implied volatility
+KW  - Model-free realized volatility
+KW  - Black–Scholes
+KW  - GMM estimation
+KW  - Return predictability
+AB  - This paper proposes a method for constructing a volatility risk premium, or investor risk aversion, index. The method is intuitive and simple to implement, relying on the sample moments of the recently popularized model-free realized and option-implied volatility measures. A small-scale Monte Carlo experiment confirms that the procedure works well in practice. Implementing the procedure with actual S&P500 option-implied volatilities and high-frequency five-minute-based realized volatilities indicates significant temporal dependencies in the estimated stochastic volatility risk premium, which we in turn relate to a set of macro-finance state variables. We also find that the extracted volatility risk premium helps predict future stock market returns.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of objective and risk-neutral distributions based on moments of integrated volatility
+AU  - Garcia, René
+AU  - Lewis, Marc-André
+AU  - Pastorello, Sergio
+AU  - Renault, Éric
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 22
+EP  - 32
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000539
+KW  - Realized volatility
+KW  - Implied volatility
+KW  - Volatility risk premium
+KW  - Moments of integrated volatility
+KW  - Objective distribution
+KW  - Risk-neutral distribution
+AB  - In this paper, we present an estimation procedure which uses both option prices and high-frequency spot price feeds to estimate jointly the objective and risk-neutral parameters of stochastic volatility models. The procedure is based on a method of moments that uses analytical expressions for the moments of the integrated volatility and series expansions of option prices and implied volatilities. This results in an easily implementable and rapid estimation technique. An extensive Monte Carlo study compares various procedures and shows the efficiency of our approach. Empirical applications to the Deutsche mark–US dollar exchange rate futures and the S&P 500 index provide evidence that the method delivers results that are in line with the ones obtained in previous studies where much more involved estimation procedures were used.
+ER  - 
+
+TY  - JOUR
+T1  - Covariance measurement in the presence of non-synchronous trading and market microstructure noise
+AU  - Griffin, Jim E.
+AU  - Oomen, Roel C.A.
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 58
+EP  - 68
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000576
+AB  - This paper studies the problem of covariance estimation when prices are observed non-synchronously and contaminated by i.i.d. microstructure noise. We derive closed form expressions for the bias and variance of three popular covariance estimators, namely realised covariance, realised covariance plus lead and lag adjustments, and the Hayashi and Yoshida estimator, and present a comprehensive investigation into their properties and relative efficiency. Our main finding is that the ordering of the covariance estimators in terms of efficiency crucially depends on the level of microstructure noise, as well as the level of correlation. In fact, for sufficiently high levels of noise, the standard realised covariance estimator (without any corrections for non-synchronous trading) can be most efficient. We also propose a sparse sampling implementation of the Hayashi and Yoshida estimator, study the robustness of our findings using simulations with stochastic volatility and correlation, and highlight some important practical considerations.
+ER  - 
+
+TY  - JOUR
+T1  - Forecasting multivariate realized stock market volatility
+AU  - Bauer, Gregory H.
+AU  - Vorkink, Keith
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 93
+EP  - 101
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000631
+KW  - HAR-RV model
+KW  - Realized volatility
+KW  - Covariance matrix
+KW  - Factor model
+AB  - We present a new matrix-logarithm model of the realized covariance matrix of stock returns. The model uses latent factors which are functions of lagged volatility, lagged returns and other forecasting variables. The model has several advantages: it is parsimonious; it does not require imposing parameter restrictions; and, it results in a positive-definite estimated covariance matrix. We apply the model to the covariance matrix of size-sorted stock returns and find that two factors are sufficient to capture most of the dynamics.
+ER  - 
+
+TY  - JOUR
+T1  - Realized jumps on financial markets and predicting credit spreads
+AU  - Tauchen, George
+AU  - Zhou, Hao
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 102
+EP  - 118
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000655
+KW  - Jump–diffusion process
+KW  - Realized variance
+KW  - bipower variation
+KW  - Realized jumps
+KW  - Jump volatility
+KW  - Credit risk premium
+AB  - This paper extends the jump detection method based on bipower variation to identify realized jumps on financial markets and to estimate parametrically the jump intensity, mean, and variance. Finite sample evidence suggests that the jump parameters can be accurately estimated and that the statistical inferences are reliable under the assumption that jumps are rare and large. Applications to equity market, treasury bond, and exchange rate data reveal important differences in jump frequencies and volatilities across asset classes over time. For investment grade bond spread indices, the estimated jump volatility has more forecasting power than interest rate factors and volatility factors including option-implied volatility, with control for systematic risk factors. The jump volatility risk factor seems to capture the low frequency movements in credit spreads and comoves countercyclically with the price–dividend ratio and corporate default rate.
+ER  - 
+
+TY  - JOUR
+T1  - A reduced form framework for modeling volatility of speculative prices based on realized variation measures
+AU  - Andersen, Torben G.
+AU  - Bollerslev, Tim
+AU  - Huang, Xin
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 176
+EP  - 189
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.029
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000710
+KW  - Stochastic volatility
+KW  - Realized variation
+KW  - Bipower variation
+KW  - Jumps
+KW  - Hazard rates
+KW  - Overnight volatility
+AB  - Building on realized variance and bipower variation measures constructed from high-frequency financial prices, we propose a simple reduced form framework for effectively incorporating intraday data into the modeling of daily return volatility. We decompose the total daily return variability into the continuous sample path variance, the variation arising from discontinuous jumps that occur during the trading day, as well as the overnight return variance. Our empirical results, based on long samples of high-frequency equity and bond futures returns, suggest that the dynamic dependencies in the daily continuous sample path variability are well described by an approximate long-memory HAR–GARCH model, while the overnight returns may be modeled by an augmented GARCH type structure. The dynamic dependencies in the non-parametrically identified significant jumps appear to be well described by the combination of an ACH model for the time-varying jump intensities coupled with a relatively simple log-linear structure for the jump sizes. Finally, we discuss how the resulting reduced form model structure for each of the three components may be used in the construction of out-of-sample forecasts for the total return volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility forecasting and microstructure noise
+AU  - Ghysels, Eric
+AU  - Sinko, Arthur
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 257
+EP  - 271
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000771
+AB  - It is common practice to use the sum of frequently sampled squared returns to estimate volatility, yielding the so-called realized volatility. Unfortunately, returns are contaminated by market microstructure noise. Several noise-corrected realized volatility measures have been proposed. We assess to what extent correction for microstructure noise improves forecasting future volatility using a MIxed DAta Sampling (MIDAS) regression framework. We study the population prediction properties of various realized volatility measures, assuming i.i.d. microstructure noise. Next we study optimal sampling issues theoretically, when the objective is forecasting and microstructure noise contaminates realized volatility. We distinguish between conditional and unconditional optimal sampling schemes, and find that conditional optimal sampling seems to work reasonably well in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating quadratic variation when quoted prices change by a constant increment
+AU  - Large, Jeremy
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 2
+EP  - 11
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000497
+KW  - Realized volatility
+KW  - Realized variance
+KW  - Quadratic variation
+KW  - Market microstructure
+KW  - High-frequency data
+KW  - Pure jump process
+AB  - For financial assets whose best quotes almost always change by jumping by the market’s price tick size (one cent, five cents, etc.), this paper proposes an estimator of Quadratic Variation which controls for microstructure effects. It measures the prevalence of alternations, where quotes jump back to their just-previous price. It defines a simple property called “uncorrelated alternation”, which under conditions implies that the estimator is consistent in an asymptotic limit theory, where jumps become very frequent and small. Feasible limit theory is developed, and in simulations works well.
+ER  - 
+
+TY  - JOUR
+T1  - Variance dynamics: Joint evidence from options and high-frequency returns
+AU  - Wu, Liuren
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 280
+EP  - 287
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000795
+KW  - Return variance dynamics
+KW  - Variance risk premium
+KW  - Options
+KW  - Variance swap rates
+KW  - High-frequency returns
+KW  - Market microstructure
+KW  - Realized variance
+KW  - Quadratic variation
+KW  - Time-changed Lévy processes
+AB  - This paper analyzes the S&P 500 index return variance dynamics and the variance risk premium by combining information in variance swap rates constructed from options and quadratic variation estimators constructed from tick data on S&P 500 index futures. Estimation shows that the index return variance jumps. The jump arrival rate is not constant over time, but is proportional to the variance rate level. The variance jumps are not rare events but arrive frequently. Estimation also identifies a strongly negative variance risk premium, the absolute magnitude of which is proportional to the variance rate level.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - IFC
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00217-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610002174
+ER  - 
+
+TY  - JOUR
+T1  - Market microstructure noise, integrated variance estimators, and the accuracy of asymptotic approximations
+AU  - Bandi, Federico M.
+AU  - Russell, Jeffrey R.
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 145
+EP  - 159
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000692
+KW  - Integrated variance
+KW  - Realized variance
+KW  - Microstructure noise
+KW  - Kernel-based estimators
+AB  - A growing literature has been advocating consistent kernel estimation of integrated variance in the presence of financial market microstructure noise. We find that, for realistic sample sizes encountered in practice, the asymptotic results derived for the proposed estimators may provide unsatisfactory representations of their finite sample properties. In addition, the existing asymptotic results might not offer sufficient guidance for practical implementations. We show how to optimize the finite sample properties of kernel-based integrated variance estimators. Empirically, we find that their suboptimal implementation can, in some cases, lead to little or no finite sample gains when compared to the classical realized variance estimator. Significant statistical and economic gains can, however, be recovered by using our proposed finite sample methods.
+ER  - 
+
+TY  - JOUR
+T1  - Threshold estimation of Markov models with jumps and interest rate modeling
+AU  - Mancini, Cecilia
+AU  - Renò, Roberto
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 77
+EP  - 92
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000618
+AB  - We reconstruct the level-dependent diffusion coefficient of a univariate semimartingale with jumps which is observed discretely. The consistency and asymptotic normality of our estimator are provided in the presence of both finite and infinite activity (finite variation) jumps. Our results rely on kernel estimation, using the properties of the local time of the data generating process, and the fact that it is possible to disentangle the discontinuous part of the state variable through those squared increments between observations not exceeding a suitable threshold function. We also reconstruct the drift and the jump intensity coefficients when they are level-dependent and jumps have finite activity, through consistent and asymptotically normal estimators. Simulated experiments show that the newly proposed estimators perform better in finite samples than alternative estimators, and this allows us to reexamine the estimation of a univariate model for the short term interest rate, for which we find fewer jumps and more variance due to the diffusion part than previous studies.
+ER  - 
+
+TY  - JOUR
+T1  - Realized volatility forecasting and market microstructure noise
+AU  - Andersen, Torben G.
+AU  - Bollerslev, Tim
+AU  - Meddahi, Nour
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 220
+EP  - 234
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000746
+KW  - Volatility forecasting
+KW  - High-frequency data
+KW  - Market microstructure noise
+KW  - Integrated volatility
+KW  - Realized volatility
+KW  - Robust volatility measures
+KW  - Eigenfunction stochastic volatility models
+AB  - We extend the analytical results for reduced form realized volatility based forecasting in ABM (2004) to allow for market microstructure frictions in the observed high-frequency returns. Our results build on the eigenfunction representation of the general stochastic volatility class of models developed byMeddahi (2001). In addition to traditional realized volatility measures and the role of the underlying sampling frequencies, we also explore the forecasting performance of several alternative volatility measures designed to mitigate the impact of the microstructure noise. Our analysis is facilitated by a simple unified quadratic form representation for all these estimators. Our results suggest that the detrimental impact of the noise on forecast accuracy can be substantial. Moreover, the linear forecasts based on a simple-to-implement ‘average’ (or ‘subsampled’) estimator obtained by averaging standard sparsely sampled realized volatility measures generally perform on par with the best alternative robust measures.
+ER  - 
+
+TY  - JOUR
+T1  - Do high-frequency measures of volatility improve forecasts of return distributions?
+AU  - Maheu, John M.
+AU  - McCurdy, Thomas H.
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 69
+EP  - 76
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000588
+KW  - Realized volatility
+KW  - Multiperiod out-of-sample prediction
+KW  - Term structure of density forecasts
+KW  - Stochastic volatility
+AB  - Many finance questions require the predictive distribution of returns. We propose a bivariate model of returns and realized volatility (RV), and explore which features of that time-series model contribute to superior density forecasts over horizons of 1 to 60 days out of sample. This term structure of density forecasts is used to investigate the importance of: the intraday information embodied in the daily RV estimates; the functional form for log(RV) dynamics; the timing of information availability; and the assumed distributions of both return and log(RV) innovations. We find that a joint model of returns and volatility that features two components for log(RV) provides a good fit to S&P 500 and IBM data, and is a significant improvement over an EGARCH model estimated from daily returns.
+ER  - 
+
+TY  - JOUR
+T1  - High-frequency returns, jumps and the mixture of normals hypothesis
+AU  - Fleming, Jeff
+AU  - Paye, Bradley S.
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 119
+EP  - 128
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000667
+AB  - Previous empirical studies find both evidence of jumps in asset prices and that returns standardized by ‘realized volatility’ are approximately standard normal. These findings appear to be contradictory. Using a sample of high-frequency returns for 20 heavily traded US stocks, we show how microstructure noise distorts the standard deviation and kurtosis of returns normalized using realized variance. When returns are standardized using a recently developed realized kernel estimator, the resulting series is clearly platykurtotic and the standard normal distribution is soundly rejected. Moreover, daily returns standardized using realized bipower variation, an estimator for integrated variance that is robust to the presence of jumps, are more consistent with the standard normal distribution. These results suggest that there is no empirical contradiction: jumps should be included in stock price models.
+ER  - 
+
+TY  - JOUR
+T1  - Edgeworth expansions for realized volatility and related estimators
+AU  - Zhang, Lan
+AU  - Mykland, Per A.
+AU  - Aït-Sahalia, Yacine
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 190
+EP  - 203
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.030
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000722
+KW  - Bias correction
+KW  - Edgeworth expansion
+KW  - Market microstructure
+KW  - Martingale
+KW  - Realized volatility
+KW  - Two scales realized volatility
+AB  - This paper shows that the asymptotic normal approximation is often insufficiently accurate for volatility estimators based on high frequency data. To remedy this, we derive Edgeworth expansions for such estimators. The expansions are developed in the framework of small-noise asymptotics. The results have application to Cornish–Fisher inversion and help setting intervals more accurately than those relying on normal distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating covariation: Epps effect, microstructure noise
+AU  - Zhang, Lan
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 33
+EP  - 47
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000540
+KW  - Bias–variance tradeoff
+KW  - Epps effect
+KW  - High frequency data
+KW  - Measurement error
+KW  - Market microstructure
+KW  - Martingale
+KW  - Nonsynchronous trading
+KW  - Realized covariance
+KW  - Realized variance
+KW  - Two scales estimation
+AB  - This paper is about how to estimate the integrated covariance 〈X,Y〉T of two assets over a fixed time horizon [0,T], when the observations of X and Y are “contaminated” and when such noisy observations are at discrete, but not synchronized, times. We show that the usual previous-tick covariance estimator is biased, and the size of the bias is more pronounced for less liquid assets. This is an analytic characterization of the Epps effect. We also provide the optimal sampling frequency which balances the tradeoff between the bias and various sources of stochastic error terms, including nonsynchronous trading, microstructure noise, and time discretization. Finally, a two scales covariance estimator is provided which simultaneously cancels (to first order) the Epps effect and the effect of microstructure noise. The gain is demonstrated in data.
+ER  - 
+
+TY  - JOUR
+T1  - Causality effects in return volatility measures with random times
+AU  - Renault, Eric
+AU  - Werker, Bas J.M.
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 272
+EP  - 279
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.036
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000783
+KW  - Continuous time models
+KW  - Granger causality
+KW  - Instantaneous causality
+KW  - Durations
+KW  - Ultra-high frequency data
+KW  - Volatility per trade
+AB  - We provide a structural approach to identify instantaneous causality effects between durations and stock price volatility. So far, in the literature, instantaneous causality effects have either been excluded or cannot be identified separately from Granger type causality effects. By giving explicit moment conditions for observed returns over (random) duration intervals, we are able to identify an instantaneous causality effect. The documented causality effect has significant impact on inference for tick-by-tick data. We find that instantaneous volatility forecasts for, e.g., IBM stock returns must be decreased by as much as 40% when not having seen the next quote change before its (conditionally) median time. Also, instantaneous volatilities are found to be much higher than indicated by standard volatility assessment procedures using tick-by-tick data. For IBM, a naive assessment of spot volatility based on observed returns between quote changes would only account for 60% of the actual volatility. For less liquidly traded stocks at NYSE this effect is even stronger.
+ER  - 
+
+TY  - JOUR
+T1  - The role of implied volatility in forecasting future realized volatility and jumps in foreign exchange, stock, and bond markets
+AU  - Busch, Thomas
+AU  - Christensen, Bent Jesper
+AU  - Nielsen, Morten Ørregaard
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 48
+EP  - 57
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000564
+KW  - Bipower variation
+KW  - HAR (Heterogeneous autoregressive model)
+KW  - Implied volatility
+KW  - Jumps
+KW  - Options
+KW  - Realized volatility
+KW  - VecHAR
+KW  - Volatility forecasting
+AB  - We study the forecasting of future realized volatility in the foreign exchange, stock, and bond markets from variables in our information set, including implied volatility backed out from option prices. Realized volatility is separated into its continuous and jump components, and the heterogeneous autoregressive (HAR) model is applied with implied volatility as an additional forecasting variable. A vector HAR (VecHAR) model for the resulting simultaneous system is introduced, controlling for possible endogeneity issues. We find that implied volatility contains incremental information about future volatility in all three markets, relative to past continuous and jump components, and it is an unbiased forecast in the foreign exchange and stock markets. Out-of-sample forecasting experiments confirm that implied volatility is important in forecasting future realized volatility components in all three markets. Perhaps surprisingly, the jump component is, to some extent, predictable, and options appear calibrated to incorporate information about future jumps in all three markets.
+ER  - 
+
+TY  - JOUR
+T1  - Realized Volatility
+AU  - Meddahi, Nour
+AU  - Mykland, Per
+AU  - Shephard, Neil
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 1
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001570
+ER  - 
+
+TY  - JOUR
+T1  - Box–Cox transforms for realized volatility
+AU  - Gonçalves, Sílvia
+AU  - Meddahi, Nour
+JO  - Journal of Econometrics
+VL  - 160
+IS  - 1
+SP  - 129
+EP  - 144
+PY  - 2011
+DA  - 2011/01/01/
+T2  - Realized Volatility
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.03.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000680
+KW  - Realized volatility
+KW  - Box–Cox transformation
+KW  - Edgeworth expansions
+AB  - The log transformation of realized volatility is often preferred to the raw version of realized volatility because of its superior finite sample properties. One of the possible explanations for this finding is the fact the skewness of the log transformed statistic is smaller than that of the raw statistic. Simulation evidence presented here shows that this is the case. It also shows that the log transform does not completely eliminate skewness in finite samples. This suggests that there may exist other nonlinear transformations that are more effective at reducing the finite sample skewness. The main goal of this paper is to study the accuracy of a new class of transformations for realized volatility based on the Box–Cox transformation. This transformation is indexed by a parameter β and contains as special cases the log (when β=0) and the raw (when β=1) versions of realized volatility. Based on the theory of Edgeworth expansions, we study the accuracy of the Box–Cox transforms across different values of β. We derive an optimal value of β that approximately eliminates skewness. We then show that the corresponding Box–Cox transformed statistic outperforms other choices of β, including β=0 (the log transformation). We provide extensive Monte Carlo simulation results to compare the finite sample properties of different Box–Cox transforms. Across the models considered in this paper, one of our conclusions is that β=−1 (i.e. relying on the inverse of realized volatility also known as realized precision) is the best choice if we want to control the coverage probability of 95% level confidence intervals for integrated volatility.
+ER  - 

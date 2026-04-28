@@ -1,0 +1,452 @@
+TY  - JOUR
+T1  - Comparing forecasting performance in cross-sections
+AU  - Qu, Ritong
+AU  - Timmermann, Allan
+AU  - Zhu, Yinchu
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105186
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.02.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002256
+KW  - Economic forecasting
+KW  - Competing models
+KW  - Predictive accuracy
+KW  - Cross-sectional data
+KW  - Analysts’ earnings forecasts
+AB  - This paper develops new methods for pairwise comparisons of predictive accuracy with cross-sectional data. Using a common factor setup, we establish conditions on cross-sectional dependencies in forecast errors which allow us to test the null of equal predictive accuracy on a single cross-section of forecasts. We consider both unconditional tests of equal predictive accuracy as well as tests that condition on the realization of common factors and show how to decompose forecast errors into exposures to common factors and idiosyncratic components. An empirical application compares the predictive accuracy of financial analysts’ short-term earnings forecasts across six brokerage firms.
+ER  - 
+
+TY  - JOUR
+T1  - Extensions to IVX methods of inference for return predictability
+AU  - Demetrescu, Matei
+AU  - Georgiev, Iliyan
+AU  - Rodrigues, Paulo M.M.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105271
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000586
+KW  - Predictive regression
+KW  - IVX estimation
+KW  - (Un)conditional heteroskedasticity
+KW  - Subsample tests
+KW  - Unknown regressor persistence
+KW  - Endogeneity
+KW  - Residual wild bootstrap
+AB  - The contribution of this paper is threefold. First, we demonstrate that, provided either a suitable bootstrap implementation is employed or heteroskedasticity-consistent standard errors are used, the IVX-based predictability tests of Kostakis et al. (2015) retain asymptotically valid inference under the null hypothesis under considerably weaker assumptions on the innovations than are required by Kostakis et al. (2015). Second, under the same assumptions, we develop asymptotically valid bootstrap implementations of the IVX tests. Monte Carlo simulations show that the bootstrap tests deliver considerably more accurate finite sample inference than the asymptotic implementations of the tests under certain problematic parameter constellations, most notably for one-sided testing, and where multiple predictors are included. Third, we show how sub-sample implementations of the IVX approach can be used to develop asymptotically valid one-sided and two-sided tests for the presence of temporary windows of predictability.
+ER  - 
+
+TY  - JOUR
+T1  - Time-varying forecast combination for high-dimensional data
+AU  - Chen, Bin
+AU  - Maung, Kenwin
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105418
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000556
+KW  - Cross validation
+KW  - Forecast combination
+KW  - High dimension
+KW  - Local linear estimation
+KW  - SCAD
+KW  - Sparsity
+AB  - In this paper, we propose a new nonparametric estimator of time-varying forecast combination weights. When the number of individual forecasts is small, we study the asymptotic properties of the local linear estimator. When the number of candidate forecasts exceeds or diverges with the sample size, we consider penalized local linear estimation with the group SCAD penalty. We show that the estimator exhibits the oracle property and correctly selects relevant forecasts with probability approaching one. Simulations indicate that the proposed estimators outperform existing combination schemes when structural changes exist. An empirical application on inflation and unemployment forecasting highlights the merits of our approach relative to other popular methods in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Machine learning panel data regressions with heavy-tailed dependent data: Theory and application
+AU  - Babii, Andrii
+AU  - Ball, Ryan T.
+AU  - Ghysels, Eric
+AU  - Striaukas, Jonas
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105315
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001282
+KW  - High-dimensional panels
+KW  - Large  and  panels
+KW  - Mixed-frequency data
+KW  - Sparse-group LASSO
+KW  - Fat tails
+AB  - The paper introduces structured machine learning regressions for heavy-tailed dependent panel data potentially sampled at different frequencies. We focus on the sparse-group LASSO regularization. This type of regularization can take advantage of the mixed frequency time series panel data structures and improve the quality of the estimates. We obtain oracle inequalities for the pooled and fixed effects sparse-group LASSO panel data estimators recognizing that financial and economic data can have fat tails. To that end, we leverage on a new Fuk–Nagaev concentration inequality for panel data consisting of heavy-tailed τ-mixing processes.
+ER  - 
+
+TY  - JOUR
+T1  - Transformed regression-based long-horizon predictability tests
+AU  - Demetrescu, Matei
+AU  - Rodrigues, Paulo M.M.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105316
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001294
+KW  - Long-horizon predictive regression
+KW  - IVX estimation
+KW  - (Un)conditional heteroskedasticity
+KW  - Unknown regressor persistence
+KW  - Endogeneity
+KW  - Residual augmentation
+AB  - We propose new tests for long-horizon predictability based on IVX estimation of a transformed regression which explicitly accounts for the over-lapping nature of the dependent variable in the long-horizon regression arising from temporal aggregation. To improve efficiency, we moreover incorporate the residual augmentation approach recently used in the context of short-horizon predictability testing by Demetrescu and Rodrigues (2022). Our proposed tests improve on extant tests in the literature in a number of ways. First, they allow practitioners to remain ambivalent over the strength of the persistence of the predictors. Second, they are valid under much weaker conditions on the innovations than extant long-horizon predictability tests; in particular, we allow for general forms of conditional and unconditional heteroskedasticity in the innovations, neither of which are tied to a parametric model. Third, unlike the popular Bonferroni-based methods in the literature, our proposed tests can handle multiple predictors, and can be easily implemented as either one or two-sided hypotheses tests. Monte Carlo analysis suggests that our preferred tests offer improved finite sample properties compared to the leading tests in the literature. We report results from an empirical application investigating the use of real exchange rates for predicting nominal exchange rates and inflation.
+ER  - 
+
+TY  - JOUR
+T1  - On the aggregation of probability assessments: Regularized mixtures of predictive densities for Eurozone inflation and real interest rates
+AU  - Diebold, Francis X.
+AU  - Shin, Minchul
+AU  - Zhang, Boyuan
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105321
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001464
+KW  - Density forecasts
+KW  - Forecast combination
+KW  - Survey forecasts
+KW  - Shrinkage
+KW  - Model selection
+KW  - Regularization
+KW  - Partially egalitarian LASSO
+KW  - Model averaging
+KW  - Subset averaging
+AB  - We propose methods for constructing regularized mixtures of density forecasts. We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts. All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts’ probability mass from the centers to the tails, correcting for overconfidence.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic factor copula models with estimated cluster assignments
+AU  - Oh, Dong Hwan
+AU  - Patton, Andrew J.
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105374
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002135
+KW  - High-dimensional models
+KW  - Risk management
+KW  - Multivariate density forecasting
+AB  - This paper proposes a dynamic multi-factor copula for use in high-dimensional time series applications. A novel feature of our model is that the assignment of individual variables to groups is estimated from the data, rather than being pre-assigned using SIC industry codes, market capitalization ranks, or other ad hoc methods. We adapt the k-means clustering algorithm for use in our application and show that it has excellent finite-sample properties. Applying the new model to returns on 110 US equities, we find around 20 clusters to be optimal. In out-of-sample forecasts, we find that a model with as few as five estimated clusters significantly outperforms an otherwise identical model with 21 clusters formed using two-digit SIC codes.
+ER  - 
+
+TY  - JOUR
+T1  - Taking stock of long-horizon predictability tests: Are factor returns predictable?
+AU  - Kostakis, Alexandros
+AU  - Magdalinos, Tassos
+AU  - Stamatogiannis, Michalis P.
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105380
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000052
+AB  - This study provides a critical assessment of long-horizon return predictability tests using highly persistent regressors. We show that the commonly used statistics are typically oversized, leading to spurious inference. Instead, we propose a Wald statistic, which accommodates multiple predictors of (unknown) arbitrary persistence degree within the I(0)-I(1) range. The test statistic, based on an adaptation of the IVX procedure to a long-horizon regression framework, is shown to have a standard chi-squared asymptotic distribution (regardless of the stochastic properties of the regressors used as predictors) and to exhibit excellent finite-sample size and power properties. Employing this test statistic, we find evidence of predictability for “old” and “new” pricing factors with monthly returns, but this becomes weaker as the predictive horizon increases. The predictability evidence substantially weakens with annual data. Overall, we question the incremental value of using long-horizon predictive regressions.
+ER  - 
+
+TY  - JOUR
+T1  - A penalized two-pass regression to predict stock returns with time-varying risk premia
+AU  - Bakalli, Gaetan
+AU  - Guerrier, Stéphane
+AU  - Scaillet, Olivier
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105375
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002147
+KW  - Two-pass regression
+KW  - Predictive modeling
+KW  - Large panel
+KW  - Factor model
+KW  - LASSO penalization
+AB  - We develop a penalized two-pass regression with time-varying factor loadings. The penalization in the first pass enforces sparsity for the time-variation drivers while also maintaining compatibility with the no-arbitrage restrictions by regularizing appropriate groups of coefficients. The second pass delivers risk premia estimates to predict equity excess returns. Our Monte Carlo results and our empirical results on a large cross-sectional data set of US individual stocks show that penalization without grouping can yield to nearly all estimated time-varying models violating the no-arbitrage restrictions. Moreover, our results demonstrate that the proposed method reduces the prediction errors compared to a penalized approach without appropriate grouping or a time-invariant factor model.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating forecast performance with state dependence
+AU  - Odendahl, Florens
+AU  - Rossi, Barbara
+AU  - Sekhposyan, Tatevik
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105220
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002657
+KW  - State dependence
+KW  - Forecast evaluation
+KW  - Predictive ability testing
+KW  - Moment-based tests
+KW  - Pockets of predictability
+AB  - We propose a novel forecast evaluation methodology to assess models’ absolute and relative forecasting performance when it is a state-dependent function of economic variables. In our framework, the forecasting performance, measured by a forecast error loss function, is modeled via a hard or smooth threshold model with unknown threshold values. Existing tests either assume a constant out-of-sample forecast performance or use non-parametric techniques robust to time-variation; consequently, they may lack power against a state-dependent performance. Our tests can be applied to relative forecast comparisons, forecast encompassing, forecast efficiency, and, more generally, moment-based tests of forecast evaluation. Monte Carlo results suggest that our proposed tests perform well in finite samples and have better power than existing tests in selecting the best forecast or assessing its efficiency in the presence of state dependence. Our tests uncover “pockets of predictability” in U.S. equity premia; although the term spread is not a useful predictor on average over the sample, it forecasts significantly better than the benchmark forecast when real GDP growth is low. In addition, we find that leading indicators, such as measures of vacancy postings and new orders for durable goods, improve the forecasts of U.S. industrial production when financial conditions are tight.
+ER  - 
+
+TY  - JOUR
+T1  - Predictive quantile regression with mixed roots and increasing dimensions: The ALQR approach
+AU  - Fan, Rui
+AU  - Lee, Ji Hyung
+AU  - Shin, Youngki
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105372
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002111
+KW  - Adaptive lasso
+KW  - Cointegration
+KW  - Forecasting
+KW  - Oracle property
+KW  - Quantile regression
+AB  - In this paper we propose the adaptive lasso for predictive quantile regression (ALQR). Reflecting empirical findings, we allow predictors to have various degrees of persistence and exhibit different signal strengths. The number of predictors is allowed to grow with the sample size. We study regularity conditions under which stationary, local unit root, and cointegrated predictors are present simultaneously. We next show the convergence rates, model selection consistency, and asymptotic distributions of ALQR. We apply the proposed method to the out-of-sample quantile prediction problem of stock returns and find that it outperforms the existing alternatives. We also provide numerical evidence from additional Monte Carlo experiments, supporting the theoretical results.
+ER  - 
+
+TY  - JOUR
+T1  - CRPS learning
+AU  - Berrisch, Jonathan
+AU  - Ziel, Florian
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105221
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002724
+KW  - Combination
+KW  - Aggregation
+KW  - Online
+KW  - Probabilistic
+KW  - Forecasting
+KW  - Quantile
+KW  - Time series
+KW  - Distribution
+KW  - Density
+KW  - Prediction
+KW  - Splines
+AB  - Combination and aggregation techniques can significantly improve forecast accuracy. This also holds for probabilistic forecasting methods where predictive distributions are combined. There are several time-varying and adaptive weighting schemes such as Bayesian model averaging (BMA). However, the quality of different forecasts may vary not only over time but also within the distribution. For example, some distribution forecasts may be more accurate in the center of the distributions, while others are better at predicting the tails. Therefore, we introduce a new weighting method that considers the differences in performance over time and within the distribution. We discuss pointwise combination algorithms based on aggregation across quantiles that optimize with respect to the continuous ranked probability score (CRPS). After analyzing the theoretical properties of pointwise CRPS learning, we discuss B- and P-Spline-based estimation techniques for batch and online learning, based on quantile regression and prediction with expert advice. We prove that the proposed fully adaptive Bernstein online aggregation (BOA) method for pointwise CRPS online learning has optimal convergence properties. They are confirmed in simulations and a probabilistic forecasting study for European emission allowance (EUA) prices.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform predictive inference for factor models with instrumental and idiosyncratic betas
+AU  - Cheng, Mingmian
+AU  - Liao, Yuan
+AU  - Yang, Xiye
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105373
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002123
+KW  - Factor-augmented prediction
+KW  - Uniform inference
+KW  - Projected PCA
+KW  - Large dimensional data
+KW  - High-frequency data
+AB  - This paper investigates the impact of allowing for characteristic-based time-varying factor betas on the diffusion-index type forecasts. The factor beta consists of two distinct components: the “instrumental beta” is a function of some observable characteristics, while the “idiosyncratic beta” captures more volatile residual movements. To estimate these characteristic-based time-varying betas and the corresponding factors, we apply the projected principal component analysis (P-PCA) method on high-frequency returns data. The primary advantage of this method is that it refines the estimators of latent factors, which shall be used in the forecasting models. We show that various leading components of the conditional mean forecast error are all asymptotically normal and pairwise independent. Extensive simulation studies show the good finite-sample properties of the P-PCA estimators and demonstrate the advantage of the P-PCA method relative to the classic PCA method in forecasting. In our empirical experiments of volatility prediction, we find that the factor-augmented model associated with the P-PCA method is more parsimonious and achieves better performance for a wide variety of target assets. We also find evidence on different levels of variation over time in the idiosyncratic beta, which necessitates our uniform predictive inference procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Are bond returns predictable with real-time macro data?
+AU  - Huang, Dashan
+AU  - Jiang, Fuwei
+AU  - Li, Kunpeng
+AU  - Tong, Guoshi
+AU  - Zhou, Guofu
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105438
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.09.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001161
+KW  - Bond return predictability
+KW  - Real-time macro data
+KW  - Scaled sufficient forecasting
+KW  - Machine learning
+AB  - We investigate the predictability of bond returns using real-time macro variables and consider the possibility of a nonlinear predictive relationship and the presence of weak factors. To address these issues, we propose a scaled sufficient forecasting (sSUFF) method and analyze its asymptotic properties. Using both the existing and the new method, we find empirically that real-time macro variables have significant forecasting power both in-sample and out-of-sample. Moreover, they generate sizable economic values, and their predictability is not spanned by the yield curve. We also observe that the forecasted bond returns are countercyclical, and the magnitude of predictability is stronger during economic recessions, which lends empirical support to well-known macro finance theories.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility measurement with pockets of extreme return persistence
+AU  - Andersen, Torben G.
+AU  - Li, Yingying
+AU  - Todorov, Viktor
+AU  - Zhou, Bo
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105048
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303924
+KW  - Extreme return persistence
+KW  - High-frequency data
+KW  - Integrated volatility estimation
+KW  - Market microstructure noise
+KW  - Volatility forecasting
+AB  - Increasing evidence points towards the episodic emergence of pockets with extreme return persistence. This notion refers to intraday periods of non-trivial duration, for which stock returns are highly positively autocorrelated. Such episodes include, but are not limited to, gradual jumps and prolonged bursts in the drift component. In this paper, we develop a family of integrated volatility estimators, labeled differenced-return volatility (DV) estimators, which provide robustness to these types of Itô semimartingale violations. Specifically, we show that, by using differences in consecutive high-frequency returns, our DV estimators can reduce the non-trivial bias that all commonly-used estimators exhibit during such periods of apparent short-term intraday return predictability. A Monte Carlo study demonstrates the reliability of the newly developed volatility estimators in finite samples. In our empirical volatility forecasting application to S&P 500 index futures and individual equities, our DV-based Heterogeneous Autoregressive (HAR) model performs well relative to existing procedures according to standard out-of-sample MSE and QLIKE criteria.
+ER  - 
+
+TY  - JOUR
+T1  - A flexible predictive density combination for large financial data sets in regular and crisis periods
+AU  - Casarin, Roberto
+AU  - Grassi, Stefano
+AU  - Ravazzolo, Francesco
+AU  - van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105370
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002093
+KW  - Density combination
+KW  - Large set of predictive densities
+KW  - Dynamic factor models
+KW  - Nonlinear state-space
+KW  - Bayesian inference
+AB  - A flexible predictive density combination is introduced for large financial data sets which allows for model set incompleteness. Dimension reduction procedures that include learning allocate the large sets of predictive densities and combination weights to relatively small subsets. Given the representation of the probability model in extended nonlinear state-space form, efficient simulation-based Bayesian inference is proposed using parallel dynamic clustering as well as nonlinear filtering, implemented on graphics processing units. The approach is applied to combine predictive densities based on a large number of individual US stock returns of daily observations over a period that includes the Covid-19 crisis period. Evidence on dynamic cluster composition, weight patterns and model set incompleteness gives valuable signals for improved modelling. This enables higher predictive accuracy and better assessment of uncertainty and risk for investment fund management.
+ER  - 
+
+TY  - JOUR
+T1  - Business-cycle consumption risk and asset prices
+AU  - Bandi, Federico M.
+AU  - Tamoni, Andrea
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105447
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.11.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001410
+KW  - CCAPM
+KW  - Business-cycle consumption
+KW  - Frequency
+KW  - Aggregation
+KW  - Return predictability
+AB  - Aggregation is routinely employed in asset pricing to capture frequency-specific effects. We formalize the theoretical mapping between aggregates of time series and their frequency-specific components as well as the mapping between factor loadings obtained upon aggregation of returns and factors and frequency-specific factor loadings. We show that business-cycle consumption, a component of the consumption growth process with cycles between 4 and 8 years, provides valuable pricing signal. In agreement with the implications of theory, we document that consumption growth aggregated over a 4-year horizon (4-year consumption) has analogous pricing ability, cross-sectionally and in the time series, to business-cycle consumption.
+ER  - 
+
+TY  - JOUR
+T1  - Score-driven asset pricing: Predicting time-varying risk premia based on cross-sectional model performance
+AU  - Umlandt, Dennis
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105470
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.05.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001641
+KW  - Dynamic asset pricing
+KW  - Generalized autoregressive score models
+KW  - Time-varying risk premia
+KW  - Return predictability
+AB  - This paper proposes a new parametric approach for estimating linear factor pricing models with dynamic risk premia. Time-varying risk prices and exposures follow an observation-driven updating scheme that reduces the one-step-ahead prediction error from a cross-sectional factor model at the current observation. This agnostic approach is particularly useful in situations where predictors are unknown or of uncertain quality. Updating schemes for elliptically distributed returns are derived and propose cross-sectional regression errors as driving sequence for the parameter dynamics. Estimation and inference are performed by likelihood maximization. A simulation study confirms that the novel method is capable of filtering and predicting substantial risk price movements. The empirical performance of the method is illustrated by an application to a panel of equity portfolios.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105599
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00315-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003159
+ER  - 
+
+TY  - JOUR
+T1  - Optimal model averaging based on forward-validation
+AU  - Zhang, Xiaomeng
+AU  - Zhang, Xinyu
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105295
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762200094X
+KW  - Model averaging
+KW  - Forward-validation
+KW  - Asymptotic optimality
+KW  - Forecasting
+KW  - Minimum risk
+KW  - Window size
+AB  - In this paper, noting that the prediction of time series follows the temporal order of data, we propose a frequentist model averaging method based on forward-validation. Our method also considers the uncertainty of the window size in estimation, i.e., we allow the sample size to vary among candidate models. We establish the asymptotic optimality of our method in the sense of achieving the lowest possible squared prediction risk. We also prove that if there exists one or more correctly specified models, our method will automatically assign all the weights to them. The promising performance of our method for finite samples is demonstrated by simulations and an empirical example of predicting the equity premium.
+ER  - 
+
+TY  - JOUR
+T1  - Predictive modeling of financial data
+AU  - Andersen, Torben G.
+AU  - Taylor, Robert
+AU  - Timmermann, Allan
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 237
+IS  - 2, Part C
+SP  - 105496
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105496
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002129
+ER  - 

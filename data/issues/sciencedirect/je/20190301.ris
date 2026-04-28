@@ -1,0 +1,189 @@
+TY  - JOUR
+T1  - Corrigendum to “Inference on impulse response functions in structural VAR models” [J. Econometrics 177 (2013) 1–13]
+AU  - Inoue, Atsushi
+AU  - Kilian, Lutz
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 139
+EP  - 143
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302288
+KW  - Vector autoregression
+KW  - Simultaneous inference
+KW  - Impulse responses
+KW  - Sign restrictions
+KW  - Median
+KW  - Mode
+KW  - Credible set
+ER  - 
+
+TY  - JOUR
+T1  - Quantile regression for duration models with time-varying regressors
+AU  - Chen, Songnian
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 1
+EP  - 17
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302574
+KW  - Quantile regression
+KW  - Time-varying regressors
+KW  - Duration analysis
+AB  - Since the seminal work of Koenker and Bassett (1978), quantile regression has become a widely used tool in duration analysis. The existing literature, however, has focused on time-invariant regressors, even though time-varying regressors are common in practice. In this paper, we introduce a quantile regression framework with time-varying regressors and develop quantile regression estimators. Our estimators are motivated by Manski’s (1975, 1985) maximum score estimator and Chen’s (2010) integrated maximum score estimator. Our estimators are consistent and asymptotically normal under some regularity conditions, and perform well in finite samples. Our method is illustrated with an unemployment duration data set.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian estimation of dynamic asset pricing models with informative observations
+AU  - Fulop, Andras
+AU  - Li, Junye
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 114
+EP  - 138
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302276
+KW  - Non-affineness
+KW  - Self-exciting jumps
+KW  - Optimal proposal density
+KW  - Auxiliary particle filter
+KW  - Common random numbers
+KW  - Sequential Monte Carlo sampler
+AB  - In dynamic asset pricing models, when the model structure becomes complex and derivatives data are introduced in estimation, traditional MCMC methods converge slowly, are difficult to design efficient proposals for parameters, and have large computational cost. We propose a two-stage sequential Monte Carlo sampler based on common random numbers and a smooth particle filter. This method is robust to potential model misspecification and can deliver almost full-likelihood-based inference at a much smaller computational cost. It is applied to estimate a class of volatility models that take into account price-volatility co-jumps, non-affineness, and self-excitation. An empirical study using S&P 500 index and variance swap rates shows that both non-affineness and self-excitation need to be introduced in modeling volatility dynamics.
+ER  - 
+
+TY  - JOUR
+T1  - The bivariate probit model, maximum likelihood estimation, pseudo true parameters and partial identification
+AU  - Li, Chuhui
+AU  - Poskitt, D.S.
+AU  - Zhao, Xueyan
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 94
+EP  - 113
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302562
+KW  - Average treatment effect
+KW  - Binary outcome models
+KW  - Copula
+KW  - Identified set
+KW  - Instrumental variables
+KW  - Misspecification
+AB  - This paper examines the notion of “identification by functional form” for two equation triangular systems for binary endogenous variables by providing a bridge between the literature on the recursive bivariate probit model and that on partial identification. We evaluate the impact of functional form on the performance of (quasi) maximum likelihood estimators, and investigate the practical importance of available instruments in both cases of correct and incorrect distributional specification. Finally, we calculate average treatment effect bounds and demonstrate how properties of the estimators are explicable via a link between the notion of pseudo-true parameters and the concepts of partial identification.
+ER  - 
+
+TY  - JOUR
+T1  - Model averaging based on leave-subject-out cross-validation for vector autoregressions
+AU  - Liao, Jun
+AU  - Zong, Xianpeng
+AU  - Zhang, Xinyu
+AU  - Zou, Guohua
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 35
+EP  - 60
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302598
+KW  - Asymptotic optimality
+KW  - Consistency
+KW  - Leave-subject-out cross-validation
+KW  - Model averaging
+KW  - Vector autoregressions
+AB  - The vector autoregressive (VAR) model is a useful tool for economic evaluation and prediction. This paper develops a leave-subject-out cross-validation model averaging (LsoMA) method to average predictions from VAR models. The approximate unbiasedness of LsoMA and its asymptotic optimality in terms of obtaining the lowest possible quadratic errors are established. The rate of the LsoMA based weights converging to the optimal weights minimizing the expected quadratic errors is also derived. Simulation experiments show that our method is generally more efficient than the other frequently used model selection and averaging methods. Two empirical applications further illustrate that the proposed method is promising.
+ER  - 
+
+TY  - JOUR
+T1  - Nearly weighted risk minimal unbiased estimation
+AU  - Müller, Ulrich K.
+AU  - Wang, Yulong
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 18
+EP  - 34
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302586
+KW  - Mean bias
+KW  - Median bias
+KW  - Autoregression
+KW  - Quantile unbiased forecast
+AB  - Consider a small-sample parametric estimation problem, such as the estimation of the coefficient in a Gaussian AR(1). We develop a numerical algorithm that determines an estimator that is nearly (mean or median) unbiased, and among all such estimators, comes close to minimizing a weighted average risk criterion. We also apply our generic approach to the median unbiased estimation of the degree of time variation in a Gaussian local-level model, and to a quantile unbiased point forecast for a Gaussian AR(1) process.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - ii
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30013-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300132
+ER  - 
+
+TY  - JOUR
+T1  - New results on the identification of stochastic bargaining models
+AU  - Merlo, Antonio
+AU  - Tang, Xun
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 79
+EP  - 93
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302550
+KW  - Nonparametric identification
+KW  - Stochastic sequential bargaining
+AB  - We present new identification results for stochastic sequential bargaining models when the data only reports the time of agreement and the evolution of observable states. With no information on the stochastic surplus available for allocation or how it is allocated under agreement, we recover the latent surplus process, the distribution of unobservable states, and the equilibrium outcome in counterfactual contexts. The method we propose, which is constructive and original, can also be adapted to establish identification in general optimal stopping models.
+ER  - 
+
+TY  - JOUR
+T1  - Structured volatility matrix estimation for non-synchronized high-frequency financial data
+AU  - Fan, Jianqing
+AU  - Kim, Donggyu
+JO  - Journal of Econometrics
+VL  - 209
+IS  - 1
+SP  - 61
+EP  - 78
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302604
+KW  - Diffusion process
+KW  - Factor model
+KW  - High-frequency data
+KW  - Low-rank matrix
+KW  - Matrix completion
+KW  - POET
+KW  - Sparsity
+AB  - Several large volatility matrix estimation procedures have been recently developed for factor-based Itô processes whose integrated volatility matrix consists of low-rank and sparse matrices. Their performance depends on the accuracy of input volatility matrix estimators. When estimating co-volatilities based on high-frequency data, one of the crucial challenges is non-synchronization for illiquid assets, which makes their co-volatility estimators inaccurate. In this paper, we study how to estimate the large integrated volatility matrix without using co-volatilities of illiquid assets. Specifically, we pretend that the co-volatilities for illiquid assets are missing, and estimate the low-rank matrix using a matrix completion scheme with a structured missing pattern. To further regularize the sparse volatility matrix, we employ the principal orthogonal complement thresholding method (POET). We also investigate the asymptotic properties of the proposed estimation procedure and demonstrate its advantages over using co-volatilities of illiquid assets. The advantages of our methods are also verified by an extensive simulation study and illustrated by high-frequency data for NYSE stocks.
+ER  - 

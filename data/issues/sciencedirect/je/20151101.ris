@@ -1,0 +1,327 @@
+TY  - JOUR
+T1  - Identification and shape restrictions in nonparametric instrumental variables estimation
+AU  - Freyberger, Joachim
+AU  - Horowitz, Joel L.
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 41
+EP  - 53
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001918
+KW  - Partial identification
+KW  - Linear programming
+KW  - Bootstrap
+AB  - This paper is concerned with inference about an unidentified linear functional, L(g), where g satisfies Y=g(X)+U; E(U|W)=0. In much applied research, X and W are discrete, and W has fewer points of support than X. Consequently, L(g) is not identified nonparametrically and can have any value in (−∞,∞). This paper uses shape restrictions, such as monotonicity or convexity, to achieve interval identification of L(g). The paper shows that under shape restrictions, L(g) is contained in an interval whose bounds can be obtained by solving linear programming problems. Inference about L(g) can be carried out by using the bootstrap. An empirical application illustrates the usefulness of the method.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of complete information games
+AU  - Kline, Brendan
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 117
+EP  - 131
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001955
+KW  - Identification
+KW  - Strategic interaction
+KW  - Entry game
+KW  - Social interactions
+AB  - This paper establishes sufficient conditions for point identification of the utility functions in generalized complete information game models. These models allow generalized interaction structures and generalized behavioral assumptions. The generalized interaction structures allow that the dependence of an agent’s utility function on the other agents’ actions can itself depend on characteristics of the agents, including an endogenous network of connections among the agents. The generalized behavioral assumptions relax the solution concept from Nash equilibrium play to weaker solution concepts like rationalizability. The results allow a non-parametric specification of the unobservables.
+ER  - 
+
+TY  - JOUR
+T1  - Regression discontinuity designs with unknown discontinuity points: Testing and estimation
+AU  - Porter, Jack
+AU  - Yu, Ping
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 132
+EP  - 147
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001712
+KW  - Regression discontinuity design
+KW  - Unknown discontinuity point
+KW  - Specification testing
+KW  - Nonparametric structural change
+KW  - Wild bootstrap
+KW  - Degenerate -statistic
+KW  - Difference kernel estimator
+KW  - Cross validation
+AB  - The regression discontinuity design has become a common framework among applied economists for measuring treatment effects. A key restriction of the existing literature is the assumption that the discontinuity point is known, which does not always hold in practice. This paper extends the applicability of the regression discontinuity design by allowing for an unknown discontinuity point. First, we construct a unified test statistic to check whether there are selection or treatment effects. Our tests are shown to be consistent, and local powers are derived. Also, a bootstrap method is proposed to obtain critical values. Second, we estimate the treatment effect by first estimating the nuisance discontinuity point. It is shown that estimating the discontinuity point does not affect the efficiency of the treatment effect estimator. Simulation studies illustrate the usefulness of our procedures in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive estimation of the threshold point in threshold regression
+AU  - Yu, Ping
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 83
+EP  - 100
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001888
+KW  - Nonregular model
+KW  - Threshold regression
+KW  - Semiparametric efficiency
+KW  - Adaptive estimation
+KW  - Semiparametric empirical Bayes
+KW  - Middle-point LSE
+KW  - Nonparametric posterior interval
+KW  - Curse of dimensionality
+KW  - Additively separable loss function
+KW  - Compound Poisson process
+AB  - This paper studies semiparametric efficient estimation of the threshold point in threshold regression. The classical literature of semiparametric efficient estimation rests on the fact that the maximum likelihood estimator is efficient in any parametric submodel for a large class of loss functions. However, in threshold regression, the maximum likelihood estimator is not efficient, while the Bayes estimators are efficient and different loss functions induce different efficient estimators. For an additively separable loss function that separates the efficiency problem of the threshold point from that of other parameters, we show that the semiparametric and parametric efficiency risk bounds coincide. Then we design a semiparametric empirical Bayes estimator to achieve this bound. In consequence, the threshold point can be adaptively estimated even under conditional moment restrictions. We also provide a valid confidence interval called the nonparametric posterior interval for the threshold point. Simulation studies show that the semiparametric empirical Bayes approach is substantially better than existing methods. To illustrate our procedure in practice, we apply it to an economic growth model for detecting different growth patterns.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of games with incomplete information using excluded regressors
+AU  - Lewbel, Arthur
+AU  - Tang, Xun
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 229
+EP  - 244
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001943
+KW  - Games with incomplete information
+KW  - Excluded regressors
+KW  - Nonparametric identification
+KW  - Semiparametric estimation
+KW  - Multiple equilibria
+AB  - We show structural components in binary games with incomplete information are nonparametrically identified using variation in player-specific excluded regressors. An excluded regressor for a player i is a sufficiently varying state variable that does not affect other players’ utility and is additively separable from other components in i’s payoff. Such excluded regressors arise in various empirical contexts. Our identification method is constructive, and provides a basis for nonparametric estimators. For a semiparametric model with linear payoffs, we propose root-N consistent and asymptotically normal estimators for players’ payoffs. We also discuss extension to the case with multiple Bayesian Nash equilibria in the data-generating process without assuming equilibrium selection rules.
+ER  - 
+
+TY  - JOUR
+T1  - Binary quantile regression with local polynomial smoothing
+AU  - Chen, Songnian
+AU  - Zhang, Hanghui
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 24
+EP  - 40
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001906
+KW  - Binary quantile regression
+KW  - Smoothed maximum score estimator
+KW  - Local polynomial smoothing
+AB  - Manski (1975, 1985) proposed the maximum score estimator for the binary choice model under a weak conditional median restriction that converges at the rate of n−1/3 and the standardized version has a nonstandard distribution. By imposing additional smoothness conditions, Horowitz (1992) proposed a smoothed maximum score estimator that often has large finite sample biases and is quite sensitive to the choice of smoothing parameter. In this paper we propose a novel framework that leads to a local polynomial smoothing based estimator. Our estimator possesses finite sample and asymptotic properties typically associated with the local polynomial regression. In addition, our local polynomial regression-based estimator can be extended to the panel data setting. Simulation results suggest that our estimators may offer significant improvement over the smoothed maximum score estimators.
+ER  - 
+
+TY  - JOUR
+T1  - A Bayesian chi-squared test for hypothesis testing
+AU  - Li, Yong
+AU  - Liu, Xiao-Bin
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 54
+EP  - 69
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.021
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500192X
+KW  - Bayes factor
+KW  - Decision theory
+KW  - EM algorithm
+KW  - Lagrange multiplier
+KW  - Markov chain Monte Carlo
+KW  - Latent variable models
+AB  - A new Bayesian test statistic is proposed to test a point null hypothesis based on a quadratic loss. The proposed test statistic may be regarded as the Bayesian version of the Lagrange multiplier test. Its asymptotic distribution is obtained based on a set of regular conditions and follows a chi-squared distribution when the null hypothesis is correct. The new statistic has several important advantages that make it appealing in practical applications. First, it is well-defined under improper prior distributions. Second, it avoids Jeffrey–Lindley’s paradox. Third, it always takes a non-negative value and is relatively easy to compute, even for models with latent variables. Fourth, its numerical standard error is relatively easy to obtain. Finally, it is asymptotically pivotal and its threshold values can be obtained from the chi-squared distribution. The method is illustrated using some real examples in economics and finance.
+ER  - 
+
+TY  - JOUR
+T1  - Unexplained factors and their effects on second pass R-squared’s
+AU  - Kleibergen, Frank
+AU  - Zhan, Zhaoguo
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 101
+EP  - 116
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001876
+KW  - Fama–MacBeth two pass procedure
+KW  - Factor pricing
+KW  - Stochastic discount factors
+KW  - Weak identification
+KW  - (Non-standard) Large sample distribution
+KW  - Principal components
+AB  - We construct the large sample distributions of the OLS and GLS R2’s of the second pass regression of the Fama and MacBeth (1973) two pass procedure when the observed proxy factors are minorly correlated with the true unobserved factors. This implies an unexplained factor structure in the first pass residuals and, consequently, a large estimation error in the estimated beta’s which is spanned by the beta’s of the unexplained true factors. The average portfolio returns and the estimation error of the estimated beta’s are then both linear in the beta’s of the unobserved true factors which leads to possibly large values of the OLS R2 of the second pass regression. These large values of the OLS R2 are not indicative of the strength of the relationship. Our results question many empirical findings that concern the relationship between expected portfolio returns and (macro-) economic factors.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for factor loading structural change under common breaks
+AU  - Yamamoto, Yohei
+AU  - Tanaka, Shinya
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 187
+EP  - 206
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.018
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500189X
+KW  - Factor model
+KW  - Principal components
+KW  - Common breaks
+KW  - Spurious factors
+KW  - Nonmonotonic power
+AB  - This paper proposes a new test for factor loading structural change in dynamic factor models. We first show that the leading test proposed by Breitung and Eickmeier (2011) exhibits nonmonotonic power, essentially because the breaks are considered as spurious factors with stable factor loadings. The proposed test eliminates the effects of the spurious factors by maximizing the test statistic over possible numbers of the original factors. Monte Carlo simulations and an empirical example using U.S. Treasury yield curve data clearly illustrate the usefulness of the proposed test.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of mixture models using support variations
+AU  - D’Haultfœuille, Xavier
+AU  - Février, Philippe
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 70
+EP  - 82
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001931
+KW  - Mixture models
+KW  - Nonparametric identification
+KW  - Support variations
+KW  - Measurement error
+KW  - Auctions
+KW  - Matching
+AB  - We consider the issue of identifying nonparametrically continuous mixture models. In these models, all observed variables depend on a common and unobserved component, but are mutually independent conditional on it. Such a structure applies for instance to measurement error, matching and auction models. Traditional approaches rely on parametric assumptions or strong functional restrictions. We show that these models are actually identified nonparametrically if the supports of the observed variables move with the value of the unobserved component. Moreover, this assumption is testable nonparametrically, using tools from extreme value theory. We develop an appropriate test and derive its asymptotic properties.
+ER  - 
+
+TY  - JOUR
+T1  - Robust inference on average treatment effects with possibly more covariates than observations
+AU  - Farrell, Max H.
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 1
+EP  - 23
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.06.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001864
+KW  - High-dimensional sparse model
+KW  - Heterogeneous treatment effects
+KW  - Uniform inference
+KW  - Model selection
+KW  - Doubly-robust estimator
+KW  - Unconfoundedness
+KW  - Group lasso
+AB  - This paper concerns robust inference on average treatment effects following model selection. Under selection on observables, we construct confidence intervals using a doubly-robust estimator that are robust to model selection errors and prove their uniform validity over a large class of models that allows for multivalued treatments with heterogeneous effects and selection amongst (possibly) more covariates than observations. The semiparametric efficiency bound is attained under appropriate conditions. Precise conditions are given for any model selector to yield these results, and we specifically propose the group lasso, which is apt for treatment effects, and derive new results for high-dimensional, sparse multinomial logistic regression. Both a simulation study and revisiting the National Supported Work demonstration show our estimator performs well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Sieve semiparametric two-step GMM under weak dependence
+AU  - Chen, Xiaohong
+AU  - Liao, Zhipeng
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 163
+EP  - 186
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002031
+KW  - Sieve two-step GMM
+KW  - Weakly dependent data
+KW  - Auto-correlation robust inference
+KW  - Semiparametric over-identification test
+KW  - Numerical equivalence
+KW  - Random perturbation derivative estimator
+AB  - This paper considers semiparametric two-step GMM estimation and inference with weakly dependent data, where unknown nuisance functions are estimated via sieve extremum estimation in the first step. We show that although the asymptotic variance of the second-step GMM estimator may not have a closed form expression, it can be well approximated by sieve variances that have simple closed form expressions. We present consistent or robust variance estimation, Wald tests and Hansen’s (1982) over-identification tests for the second step GMM that properly reflect the first-step estimated functions and the weak dependence of the data. Our sieve semiparametric two-step GMM inference procedures are shown to be numerically equivalent to the ones computed as if the first step were parametric. A new consistent random-perturbation estimator of the derivative of the expectation of the non-smooth moment function is also provided.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - IFC
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00226-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002262
+ER  - 
+
+TY  - JOUR
+T1  - Smooth coefficient estimation of a seemingly unrelated regression
+AU  - Henderson, Daniel J.
+AU  - Kumbhakar, Subal C.
+AU  - Li, Qi
+AU  - Parmeter, Christopher F.
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 148
+EP  - 162
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002043
+KW  - Semiparametric smooth coefficient model
+KW  - System estimation
+KW  - Bandwidth selection
+KW  - Banking
+AB  - This paper proposes estimation and inference for the semiparametric smooth coefficient seemingly unrelated regression model. We discuss the imposition of cross-equation restrictions which are required by economic theory as well as methods for data driven bandwidth selection. A test of correct functional form for the entire system of equations is also constructed. Asymptotic and finite sample results are given. We illustrate our estimator by applying it to a cost system for US commercial banks. Our results show that most of the banks are operating under increasing returns to scale, but that returns to scale decrease with bank size.
+ER  - 
+
+TY  - JOUR
+T1  - Robust inference in nonlinear models with mixed identification strength
+AU  - Cheng, Xu
+JO  - Journal of Econometrics
+VL  - 189
+IS  - 1
+SP  - 207
+EP  - 228
+PY  - 2015
+DA  - 2015/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002055
+KW  - Mixed rates
+KW  - Nonlinear regression
+KW  - Robust inference
+KW  - Uniformity
+KW  - Weak identification
+AB  - The paper studies inference in regression models composed of nonlinear functions with unknown transformation parameters and loading coefficients that measure the importance of each component. In these models, non-identification and weak identification present in multiple parts of the parameter space, resulting in mixed identification strength for different unknown parameters. This paper proposes robust tests and confidence intervals for sub-vectors and linear functions of the unknown parameters. In particular, the results cover applications where some nuisance parameters are non-identified under the null (Davies (1977, 1987)) and some nuisance parameters are subject to a full range of identification strength. To construct this robust inference procedure, we develop a local limit theory that models mixed identification strength. The asymptotic results involve both inconsistent estimators that depend on a localization parameter and consistent estimators with different rates of convergence. A sequential argument is used to peel the criterion function based on identification strength of the parameters.
+ER  - 

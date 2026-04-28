@@ -1,0 +1,194 @@
+TY  - JOUR
+T1  - Filtered likelihood for point processes
+AU  - Giesecke, Kay
+AU  - Schwenkler, Gustavo
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 33
+EP  - 53
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300058
+KW  - Point processes
+KW  - Filtering
+KW  - Efficient parametric inference
+KW  - Maximum likelihood
+KW  - Likelihood approximation
+AB  - Point processes are widely used in finance and economics to model the timing of defaults, market transactions, unemployment spells, births, and a range of other events. We develop and analyze likelihood estimators for the parameters of a marked point process and incompletely observed explanatory factors that influence the arrival intensity and mark distribution. We establish an approximation to the likelihood and analyze the convergence and large-sample properties of the associated estimators. Numerical results illustrate the behavior of our estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - ii
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30036-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300368
+ER  - 
+
+TY  - JOUR
+T1  - Weighted-average least squares estimation of generalized linear models
+AU  - De Luca, Giuseppe
+AU  - Magnus, Jan R.
+AU  - Peracchi, Franco
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 1
+EP  - 17
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300034
+KW  - WALS
+KW  - Model averaging
+KW  - Generalized linear models
+KW  - Monte Carlo
+KW  - Attrition
+AB  - The weighted-average least squares (WALS) approach, introduced by Magnus et al. (2010) in the context of Gaussian linear models, has been shown to enjoy important advantages over other strictly Bayesian and strictly frequentist model-averaging estimators when accounting for problems of uncertainty in the choice of the regressors. In this paper we extend the WALS approach to deal with uncertainty about the specification of the linear predictor in the wider class of generalized linear models (GLMs). We study the large-sample properties of the WALS estimator for GLMs under a local misspecification framework, and the finite-sample properties of this estimator by a Monte Carlo experiment the design of which is based on a real empirical analysis of attrition in the first two waves of the Survey of Health, Aging and Retirement in Europe (SHARE).
+ER  - 
+
+TY  - JOUR
+T1  - Estimating the integrated volatility using high-frequency data with zero durations
+AU  - Liu, Zhi
+AU  - Kong, Xin-Bing
+AU  - Jing, Bing-Yi
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 18
+EP  - 32
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300046
+KW  - It semimartingale
+KW  - High frequency data
+KW  - Multiple transactions
+KW  - Realized power variations
+KW  - Microstructure noise
+KW  - Central limit theorem
+AB  - In estimating integrated volatility using high-frequency data, it is well documented that the presence of microstructure noise presents a major challenge. Recent literature has shown that the presence of multiple observations, a common feature in datasets, brings additional difficulty. In this study, we show that the preaveraging estimator is still consistent under multiple observations, and the related asymptotic distribution of the estimator is established. We also show that the preaveraging estimator based on multiple observations achieves the same asymptotic efficiency as the “ideal” estimator that assumes we know the exact trading times of all transactions. Simulation studies support the theoretical results, and we also illustrate the estimator using real data analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Generating univariate fractional integration within a large VAR(1)
+AU  - Chevillon, Guillaume
+AU  - Hecq, Alain
+AU  - Laurent, Sébastien
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 54
+EP  - 65
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830006X
+KW  - Long memory
+KW  - Vector autoregressive model
+KW  - Marginalization
+KW  - Final equation representation
+AB  - This paper shows that a large dimensional vector autoregressive model (VAR) of finite order can generate fractional integration in the marginalized univariate series. We derive high-level assumptions under which the final equation representation of a VAR(1) leads to univariate fractional white noises and verify the validity of these assumptions for two specific models.
+ER  - 
+
+TY  - JOUR
+T1  - Minimum distance approach to inference with many instruments
+AU  - Kolesár, Michal
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 86
+EP  - 100
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300083
+KW  - Instrumental variables
+KW  - Minimum distance
+KW  - Incidental parameters
+KW  - Random effects
+KW  - Many instruments
+KW  - Misspecification
+KW  - Limited information maximum likelihood
+KW  - Bias-corrected two-stage least squares
+AB  - I analyze a linear instrumental variables model with a single endogenous regressor and many instruments. I use invariance arguments to construct a new minimum distance objective function. With respect to a particular weight matrix, the minimum distance estimator is equivalent to the random effects estimator of Chamberlain and Imbens (2004), and the estimator of the coefficient on the endogenous regressor coincides with the limited information maximum likelihood estimator. This weight matrix is inefficient unless the errors are normal, and I construct a new, more efficient estimator based on the optimal weight matrix. Finally, I show that when the minimum distance objective function does not impose a proportionality restriction on the reduced-form coefficients, the resulting estimator corresponds to a version of the bias-corrected two-stage least squares estimator. I use the objective function to construct confidence intervals that remain valid when the proportionality restriction is violated.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for parameter instability in predictive regression models
+AU  - Georgiev, Iliyan
+AU  - Harvey, David I.
+AU  - Leybourne, Stephen J.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 101
+EP  - 118
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300095
+KW  - Predictive regression
+KW  - Persistence
+KW  - Parameter stability tests
+KW  - Fixed regressor wild bootstrap
+KW  - Conditional distribution
+AB  - We consider tests for structural change, based on the SupF and Cramer–von-Mises type statistics of Andrews (1993) and Nyblom (1989), respectively, in the slope and/or intercept parameters of a predictive regression model where the predictors display strong persistence. The SupF type tests are motivated by alternatives where the parameters display a small number of breaks at deterministic points in the sample, while the Cramer–von-Mises alternative is one where the coefficients are random and slowly evolve through time. In order to allow for an unknown degree of persistence in the predictors, and for both conditional and unconditional heteroskedasticity in the data, we implement the tests using a fixed regressor wild bootstrap procedure. The asymptotic validity of the bootstrap tests is established by showing that the asymptotic distributions of the bootstrap parameter constancy statistics, conditional on the data, coincide with those of the asymptotic null distributions of the corresponding statistics computed on the original data, conditional on the predictors. Monte Carlo simulations suggest that the bootstrap parameter stability tests work well in finite samples, with the tests based on the Cramer–von-Mises principle seemingly the most useful in practice. An empirical application to U.S. stock returns data demonstrates the practical usefulness of these methods.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform confidence bands: Characterization and optimality
+AU  - Freyberger, Joachim
+AU  - Rai, Yoshiyasu
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 119
+EP  - 130
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300174
+KW  - Uniform confidence bands
+KW  - Simultaneous inference
+KW  - Projections
+KW  - Optimality
+AB  - This paper studies optimal uniform confidence bands for functions g(x,β0), where β0 is an unknown parameter vector. We provide a simple characterization of a general class of taut 1−α uniform confidence bands, allowing for both nonlinear functions and nonparametrically estimated functions. Specifically, we show that all taut bands can be obtained from projections on confidence sets for β0 and we characterize the class of sets which yield taut bands. Using these results, we then present a computational method for selecting an approximately optimal confidence band for a given objective function. We illustrate the applicability of these results in numerical applications.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for common breaks in a multiple equations system
+AU  - Oka, Tatsushi
+AU  - Perron, Pierre
+JO  - Journal of Econometrics
+VL  - 204
+IS  - 1
+SP  - 66
+EP  - 85
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300071
+KW  - Change-point
+KW  - Segmented regressions
+KW  - Break dates
+KW  - Hypothesis testing
+KW  - Multiple equations systems
+AB  - The issue addressed in this paper is that of testing for common breaks across or within equations of a multivariate system. Our framework is very general and allows integrated regressors and trends as well as stationary regressors. The null hypothesis is that breaks in different parameters occur at common locations and are separated by some positive fraction of the sample size unless they occur across different equations. Under the alternative hypothesis, the break dates across parameters are not the same and also need not be separated by a positive fraction of the sample size whether within or across equations. The test considered is the quasi-likelihood ratio test assuming normal errors, though as usual the limit distribution of the test remains valid with non-normal errors. Of independent interest, we provide results about the rate of convergence of the estimates when searching over all possible partitions subject only to the requirement that each regime contains at least as many observations as some positive fraction of the sample size, allowing break dates not separated by a positive fraction of the sample size across equations. Simulations show that the test has good finite sample properties. We also provide an application to issues related to level shifts and persistence for various measures of inflation to illustrate its usefulness.
+ER  - 

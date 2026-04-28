@@ -1,0 +1,300 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Theory and Application of an Optimizing Procedure for Lock Box Location Analysis
+AU  - Nauss, Robert M.
+AU  - Markland, Robert E.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.855
+DO  - 10.1287/mnsc.27.8.855
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 855
+EP  - 865
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - This paper describes the theory, development, and application of an optimizing procedure for solving lock box location problems. Such problems have become increasingly important to banks, corporations, and governmental agencies in their quest for more efficient cash management. Extensive discussion of practical data collection and modeling aspects is provided. An optimizing procedure for solving the problem is discussed, and computational results are reported.
+AB  - This paper describes the theory, development, and application of an optimizing procedure for solving lock box location problems. Such problems have become increasingly important to banks, corporations, and governmental agencies in their quest for more efficient cash management. Extensive discussion of practical data collection and modeling aspects is provided. An optimizing procedure for solving the problem is discussed, and computational results are reported.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.855
+UR  - https://doi.org/10.1287/mnsc.27.8.855
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Design of a Receivable Collection System: Sequential Building Heuristics
+AU  - Stone, Bernell K.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.866
+DO  - 10.1287/mnsc.27.8.866
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 866
+EP  - 880
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - This paper extends previous work on the use of sequential building heuristics for the design of a collection system, a linear fixed-charge problem that includes the design of a lock-box system as an important subproblem. The heuristic extensions in this paper first present simple methods for eliminating ?premature termination? (stopping the heuristics while there are still worthwhile alternatives not included in the collection system) and unprofitable inclusion (including collection alternatives with net benefits less than the fixed cost). Initiation procedures that increase computational efficiency and reduce the likelihood of significant suboptimization are presented. Finally, the simple one-at-a-time building procedure is extended to include joint exclusion-building (a limited switching plus building) and combination switching-building rules that consider combinations of alternatives rather than one-at-a-time evaluation.
+AB  - This paper extends previous work on the use of sequential building heuristics for the design of a collection system, a linear fixed-charge problem that includes the design of a lock-box system as an important subproblem. The heuristic extensions in this paper first present simple methods for eliminating ?premature termination? (stopping the heuristics while there are still worthwhile alternatives not included in the collection system) and unprofitable inclusion (including collection alternatives with net benefits less than the fixed cost). Initiation procedures that increase computational efficiency and reduce the likelihood of significant suboptimization are presented. Finally, the simple one-at-a-time building procedure is extended to include joint exclusion-building (a limited switching plus building) and combination switching-building rules that consider combinations of alternatives rather than one-at-a-time evaluation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.866
+UR  - https://doi.org/10.1287/mnsc.27.8.866
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Two Stage Solution Procedure for the Lock Box Location Problem
+AU  - Fielitz, Bruce D.
+AU  - White, Daniel L.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.881
+DO  - 10.1287/mnsc.27.8.881
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 881
+EP  - 886
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - New lock box solution techniques have recently been suggested by Stone and Nauss-Markland. This paper briefly discusses these new methodologies and shows how the algorithms can be combined into a third solution procedure which exploits the computational efficiency of the Stone heuristic and retains the optimizing property of the Nauss-Markland algorithm.
+AB  - New lock box solution techniques have recently been suggested by Stone and Nauss-Markland. This paper briefly discusses these new methodologies and shows how the algorithms can be combined into a third solution procedure which exploits the computational efficiency of the Stone heuristic and retains the optimizing property of the Nauss-Markland algorithm.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.881
+UR  - https://doi.org/10.1287/mnsc.27.8.881
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Model-Directed Information Systems for Management of the Federal Courts
+AU  - Buchanan, Jack R.
+AU  - Fennell, Richard D.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.887
+DO  - 10.1287/mnsc.27.8.887
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 887
+EP  - 903
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - To satisfy the diverse information needs of federal courts, a family of information management systems was developed, based upon formal mathematical models of judicial case processing embedded in interactive data base information systems for case tracking and caseload management. These case processing models embodied pertinent federal rules of procedure, regulatory statutes, and local rules of procedure as adopted by individual courts. This paper describes the particular model-directed system to track federal criminal cases. In this system, a model of criminal case processing was incorporated into the information management system as a series of parallel state diagrams in which the status of any given court case could be described as a set of state indicators and allowable next-actions. Data entry is performed as a part of the court's obligation to maintain a permanent record of the proceedings (the ?docket?) in each case. Users of the information system interact with the model by posting transactions (?events?) against court cases in the data base, thereby causing the cases to be moved through the model. Erroneous transactions are rejected with an appropriate diagnosis of the error based upon the state of the case with respect to the model. Use of such a model-directed information management system helps to ensure that the records of court cases being maintained are accurate and legally consistent. The embedded case processing model also permits the ready comparison of cases according to their procedural status, thereby providing an effective means for monitoring the progress of the court's caseload. Since the data base is structured according to elements of the procedural model, such model-directed systems are potentially very useful in providing effective management information, in addition to their obvious utility in information management. As an analytical tool, the model provides the opportunity to understand the complexity and procedural details of the administration of individual courts. Such an analysis allows the comparison of procedural differences among courts in such a way as to facilitate the ability of the courts to better manage their caseloads and provide a higher level of service to the public. In addition, the data bases established as a result of the docketing process provide a valuable source of historical data for judicial administration research in court management methods. As an unexpected benefit, the model-directed information systems also became a valuable training aid to new court personnel. New users may post case status situations and possible sequences of transactions to the information system and be informed of the correctness of such a transaction sequence relative to the model, thereby revealing certain implications of the detailed procedures of the court.
+AB  - To satisfy the diverse information needs of federal courts, a family of information management systems was developed, based upon formal mathematical models of judicial case processing embedded in interactive data base information systems for case tracking and caseload management. These case processing models embodied pertinent federal rules of procedure, regulatory statutes, and local rules of procedure as adopted by individual courts. This paper describes the particular model-directed system to track federal criminal cases. In this system, a model of criminal case processing was incorporated into the information management system as a series of parallel state diagrams in which the status of any given court case could be described as a set of state indicators and allowable next-actions. Data entry is performed as a part of the court's obligation to maintain a permanent record of the proceedings (the ?docket?) in each case. Users of the information system interact with the model by posting transactions (?events?) against court cases in the data base, thereby causing the cases to be moved through the model. Erroneous transactions are rejected with an appropriate diagnosis of the error based upon the state of the case with respect to the model. Use of such a model-directed information management system helps to ensure that the records of court cases being maintained are accurate and legally consistent. The embedded case processing model also permits the ready comparison of cases according to their procedural status, thereby providing an effective means for monitoring the progress of the court's caseload. Since the data base is structured according to elements of the procedural model, such model-directed systems are potentially very useful in providing effective management information, in addition to their obvious utility in information management. As an analytical tool, the model provides the opportunity to understand the complexity and procedural details of the administration of individual courts. Such an analysis allows the comparison of procedural differences among courts in such a way as to facilitate the ability of the courts to better manage their caseloads and provide a higher level of service to the public. In addition, the data bases established as a result of the docketing process provide a valuable source of historical data for judicial administration research in court management methods. As an unexpected benefit, the model-directed information systems also became a valuable training aid to new court personnel. New users may post case status situations and possible sequences of transactions to the information system and be informed of the correctness of such a transaction sequence relative to the model, thereby revealing certain implications of the detailed procedures of the court.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.887
+UR  - https://doi.org/10.1287/mnsc.27.8.887
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Over-Tenured Universities: The Mathematics of Reduction
+AU  - Vaupel, James W.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.904
+DO  - 10.1287/mnsc.27.8.904
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 904
+EP  - 913
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - Most universities anticipate an era of retrenchment over the next decade or two. The heady period of expansion fueled by the baby boom and by the jump in the percentage of high school graduates enrolling in college is now yielding to the lean years of the baby bust. As college enrollments fall, universities face a seller's market in attracting new students; on the other hand, as job openings decline, universities enjoy a buyer's market in hiring new faculty. It is thus understandable that university administrators are striving to maximize their flexibility in determining the composition of their professorial work force?to respond to shifts in student interest, to trim dead wood, and to seize opportunities to hire transcendent new Ph.D.'s. The employment guarantees of tenure make it harder to achieve this flexibility. Most universities, however, are entering the era of retrenchment with more than three-quarters of the faculty holding tenure. Consequently, many university administrators are pondering ways to reduce the tenure ratio. Attention has been focused on making tenure harder to get, i.e., on reducing the proportion of junior faculty who, after the usual trial period of five or six years, are granted tenure. This article compares this strategy with two alternatives?increasing the attrition of less-worthy tenured faculty and lengthening the average time to tenure. It turns out that in most cases even a relatively modest decrease in the tenure ratio, say from 80% to 67%, would require a radical reduction in the percentage of new faculty who can be expected to be granted tenure?e.g., from 50% to 25%. Remarkably enough, the same impact on the tenure ratio of such of halving of the chances of tenure can be achieved either by doubling average time to tenure or by doubling the attrition of already tenured faculty. Since faculty have to leave the university if denied tenure, a drastic cut in the chances of tenure may severely diminish the loyalty and the dedication to teaching of junior faculty as well as making faculty recruitment more difficult. Therefore, universities should seriously weigh alternative strategies. A variety of means exist for encouraging attrition, including holding salaries down, giving bonuses for early retirement, and making promotion from associate to full professor more selective. Lengthening the time to tenure should also be considered: many junior faculty would prefer to face a 50% chance of tenure after ten years rather than a 25% chance after five years; furthermore, the ten-year trial period would enable better evaluation of performance, as well as requiring only half as much recruiting of new junior faculty each year. The desirability of the alternative strategies depends on the specific attributes and preferences of particular universities. No panacea emerges?and it is by no means clear that a university, given the drawbacks, would be wise to attempt to reduce its tenure ratio. The simple mathematics developed in this article, however, does demonstrate that reducing the chances of tenure is certainly not the only feasible way, and in many cases probably not the best way, of reducing the tenure ratio.
+AB  - Most universities anticipate an era of retrenchment over the next decade or two. The heady period of expansion fueled by the baby boom and by the jump in the percentage of high school graduates enrolling in college is now yielding to the lean years of the baby bust. As college enrollments fall, universities face a seller's market in attracting new students; on the other hand, as job openings decline, universities enjoy a buyer's market in hiring new faculty. It is thus understandable that university administrators are striving to maximize their flexibility in determining the composition of their professorial work force?to respond to shifts in student interest, to trim dead wood, and to seize opportunities to hire transcendent new Ph.D.'s. The employment guarantees of tenure make it harder to achieve this flexibility. Most universities, however, are entering the era of retrenchment with more than three-quarters of the faculty holding tenure. Consequently, many university administrators are pondering ways to reduce the tenure ratio. Attention has been focused on making tenure harder to get, i.e., on reducing the proportion of junior faculty who, after the usual trial period of five or six years, are granted tenure. This article compares this strategy with two alternatives?increasing the attrition of less-worthy tenured faculty and lengthening the average time to tenure. It turns out that in most cases even a relatively modest decrease in the tenure ratio, say from 80% to 67%, would require a radical reduction in the percentage of new faculty who can be expected to be granted tenure?e.g., from 50% to 25%. Remarkably enough, the same impact on the tenure ratio of such of halving of the chances of tenure can be achieved either by doubling average time to tenure or by doubling the attrition of already tenured faculty. Since faculty have to leave the university if denied tenure, a drastic cut in the chances of tenure may severely diminish the loyalty and the dedication to teaching of junior faculty as well as making faculty recruitment more difficult. Therefore, universities should seriously weigh alternative strategies. A variety of means exist for encouraging attrition, including holding salaries down, giving bonuses for early retirement, and making promotion from associate to full professor more selective. Lengthening the time to tenure should also be considered: many junior faculty would prefer to face a 50% chance of tenure after ten years rather than a 25% chance after five years; furthermore, the ten-year trial period would enable better evaluation of performance, as well as requiring only half as much recruiting of new junior faculty each year. The desirability of the alternative strategies depends on the specific attributes and preferences of particular universities. No panacea emerges?and it is by no means clear that a university, given the drawbacks, would be wise to attempt to reduce its tenure ratio. The simple mathematics developed in this article, however, does demonstrate that reducing the chances of tenure is certainly not the only feasible way, and in many cases probably not the best way, of reducing the tenure ratio.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.904
+UR  - https://doi.org/10.1287/mnsc.27.8.904
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Two Server Queue with Nonwaiting Customers Receiving Specialized Service
+AU  - Brill, P. H.
+AU  - Posner, M. J. M.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.914
+DO  - 10.1287/mnsc.27.8.914
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 914
+EP  - 925
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - The stationary distributions of the waiting time and number in the system are obtained for a variant of an M/M/2 queue in which non-waiting customers receive a different rate of service from those who must wait in line. Characteristics of the solution, and applications of the model are discussed. The solution has also been generalized to any finite number of servers, using the same technique. The analysis utilizes the new System Point (SP) method for analyzing queues. This method employs the relationship between virtual waiting time sample function down- and up-crossings of a level, and the probability density function of the virtual wait at that level. Brief outlines of the SP approach, and relevant theory are included.
+AB  - The stationary distributions of the waiting time and number in the system are obtained for a variant of an M/M/2 queue in which non-waiting customers receive a different rate of service from those who must wait in line. Characteristics of the solution, and applications of the model are discussed. The solution has also been generalized to any finite number of servers, using the same technique. The analysis utilizes the new System Point (SP) method for analyzing queues. This method employs the relationship between virtual waiting time sample function down- and up-crossings of a level, and the probability density function of the virtual wait at that level. Brief outlines of the SP approach, and relevant theory are included.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.914
+UR  - https://doi.org/10.1287/mnsc.27.8.914
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Service Level Relationships in a Multi-Echelon Inventory System
+AU  - Rosenbaum, Barbara Amdur
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.926
+DO  - 10.1287/mnsc.27.8.926
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 926
+EP  - 945
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - This paper deals with a multi-echelon inventory system consisting of one central Distribution Center (DC) which is the source of supply for any number of Regional Distribution Centers (RDC's) which are the source of supply for customer demand. It develops and tests through the use of simulation a heuristic for determining what level of service the customer receives given any combination of DC and RDC service levels, where service is defined as the fraction of demand met from on-hand inventory at the location where the order is placed. A number of different combinations of DC and RDC service level will achieve any given level of customer service. The criterion used to identify the best combination is the minimization of the average level of total system inventory.
+AB  - This paper deals with a multi-echelon inventory system consisting of one central Distribution Center (DC) which is the source of supply for any number of Regional Distribution Centers (RDC's) which are the source of supply for customer demand. It develops and tests through the use of simulation a heuristic for determining what level of service the customer receives given any combination of DC and RDC service levels, where service is defined as the fraction of demand met from on-hand inventory at the location where the order is placed. A number of different combinations of DC and RDC service level will achieve any given level of customer service. The criterion used to identify the best combination is the minimization of the average level of total system inventory.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.926
+UR  - https://doi.org/10.1287/mnsc.27.8.926
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Stochastic Cutting Stock Procedure: Cutting Rolls of Insulating Tape
+AU  - Sculli, D.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.946
+DO  - 10.1287/mnsc.27.8.946
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 946
+EP  - 952
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - This paper develops a one-dimensional cutting stock procedure which will minimize material wastage when a batch of small pieces are cut from several long pieces. The problem differs from the classical one-dimensional cutting stock problem in that the dimensions of the material to be cut are random variables due to fringe defects caused by the production process. Examples of such processes include the production of flat glass, laminated board, corrugated board, adhesive tape, carpeting, and insulating tape. The cutting procedure inevitably generates some material wastage and process delays caused by the need to set cutting knives in required positions. The approach followed in this paper is to minimize material wastage when cutting a batch of identical rolls of insulating tape from several long rolls with stationary cutting knives. An exact solution is presented for the case in which the variability of defects at both ends is independently distributed and the two distributions differ by a location parameter only. An approximate solution is also presented when the two end defect distributions differ by both scale and location parameters. The wastage resulting from the use of these procedures is then compared with the wastage generated when the positioning of the knives is altered every time an original piece is cut. This comparison enables management to decide when the positioning of the cutting knives should be fixed.
+AB  - This paper develops a one-dimensional cutting stock procedure which will minimize material wastage when a batch of small pieces are cut from several long pieces. The problem differs from the classical one-dimensional cutting stock problem in that the dimensions of the material to be cut are random variables due to fringe defects caused by the production process. Examples of such processes include the production of flat glass, laminated board, corrugated board, adhesive tape, carpeting, and insulating tape. The cutting procedure inevitably generates some material wastage and process delays caused by the need to set cutting knives in required positions. The approach followed in this paper is to minimize material wastage when cutting a batch of identical rolls of insulating tape from several long rolls with stationary cutting knives. An exact solution is presented for the case in which the variability of defects at both ends is independently distributed and the two distributions differ by a location parameter only. An approximate solution is also presented when the two end defect distributions differ by both scale and location parameters. The wastage resulting from the use of these procedures is then compared with the wastage generated when the positioning of the knives is altered every time an original piece is cut. This comparison enables management to decide when the positioning of the cutting knives should be fixed.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.946
+UR  - https://doi.org/10.1287/mnsc.27.8.946
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Note—Further Tests of Aspiration Level Effects in Risky Choice Behavior
+AU  - Payne, John W.
+AU  - Laughhunn, Dan J.
+AU  - Crum, Roy
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.953
+DO  - 10.1287/mnsc.27.8.953
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 953
+EP  - 958
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - This Note extends the work reported in Payne, Laughhunn, and Crum (Payne, J. W., D. J. Laughhunn, R. Crum. 1980. Translation of gambles and aspiration level effects in risky choice behavior. Management Sci. 26 1039?1060.) on the need to incorporate a target return, reference point, or aspiration level concept in the analysis of risky choice behavior. Two experiments are reported. The first experiment provides a more complete test of the model of reference point effects developed by Payne, Laughhunn, and Crum. A translation of outcomes procedure, which adds a constant to all outcomes, was used to vary the relationship of pairs of gambles to an assumed target or reference point. The results fully support the model. The second experiment provides evidence of the conceptual validity of the model by using explicit instructions to vary the target levels of managers, while holding gamble values constant.
+AB  - This Note extends the work reported in Payne, Laughhunn, and Crum (Payne, J. W., D. J. Laughhunn, R. Crum. 1980. Translation of gambles and aspiration level effects in risky choice behavior. Management Sci. 26 1039?1060.) on the need to incorporate a target return, reference point, or aspiration level concept in the analysis of risky choice behavior. Two experiments are reported. The first experiment provides a more complete test of the model of reference point effects developed by Payne, Laughhunn, and Crum. A translation of outcomes procedure, which adds a constant to all outcomes, was used to vary the relationship of pairs of gambles to an assumed target or reference point. The results fully support the model. The second experiment provides evidence of the conceptual validity of the model by using explicit instructions to vary the target levels of managers, while holding gamble values constant.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.953
+UR  - https://doi.org/10.1287/mnsc.27.8.953
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Note—On the Aggregation of Individual Probability Estimates
+AU  - Bordley, Robert F.
+AU  - Wolff, Ronald W.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.959
+DO  - 10.1287/mnsc.27.8.959
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 959
+EP  - 964
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - This Note considers the problem of aggregating individual probability estimates of an event to obtain a group estimate. Norman Dalkey has argued that no rigorous theory of probability aggregation is possible for the following reasons: (1) There is no consistent way of aggregating individual probability estimates (Dalkey's Impossibility Theorem). But Dalkey's Impossibility Theorem makes what we call the context-free assumption, namely that the group estimate of an event's probability is a function only of the estimates of the individuals and, in particular, is not dependent on the event in question. We argue that the context-free assumption is unreasonable and present several known aggregation methods which don't make it. (2) Although there is a Bayesian approach to the problem, it requires that the estimates of all but at most one of the experts be independent of the event in question. To make this argument, Dalkey assumed both: a1: The individual estimates are independent random variables, and a2: Given the occurrence or nonoccurrence of the event, the individual estimates are independent random variables. This paper presents an alternate derivation of the result, abstracting from Dalkey's context. The point is that Dalkey's result is simply a consequence of assuming both a1 and a2. It is unreasonable to assume both a1 and a2. And hence Dalkey's result does not discredit the Bayesian approach. Thus this paper resolves some theoretical objections to the possibility of a rigorous theory of aggregation. Furthermore, it clarifies the nature of the context-free assumption and the independence assumptions: a1 and a2.
+AB  - This Note considers the problem of aggregating individual probability estimates of an event to obtain a group estimate. Norman Dalkey has argued that no rigorous theory of probability aggregation is possible for the following reasons: (1) There is no consistent way of aggregating individual probability estimates (Dalkey's Impossibility Theorem). But Dalkey's Impossibility Theorem makes what we call the context-free assumption, namely that the group estimate of an event's probability is a function only of the estimates of the individuals and, in particular, is not dependent on the event in question. We argue that the context-free assumption is unreasonable and present several known aggregation methods which don't make it. (2) Although there is a Bayesian approach to the problem, it requires that the estimates of all but at most one of the experts be independent of the event in question. To make this argument, Dalkey assumed both: a1: The individual estimates are independent random variables, and a2: Given the occurrence or nonoccurrence of the event, the individual estimates are independent random variables. This paper presents an alternate derivation of the result, abstracting from Dalkey's context. The point is that Dalkey's result is simply a consequence of assuming both a1 and a2. It is unreasonable to assume both a1 and a2. And hence Dalkey's result does not discredit the Bayesian approach. Thus this paper resolves some theoretical objections to the possibility of a rigorous theory of aggregation. Furthermore, it clarifies the nature of the context-free assumption and the independence assumptions: a1 and a2.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.959
+UR  - https://doi.org/10.1287/mnsc.27.8.959
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Note—On the Relationship of Adaptive Filtering Forecasting Models to Simple Brown Smoothing
+AU  - Bretschneider, Stuart I.
+AU  - Gorr, Wilpen L.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.965
+DO  - 10.1287/mnsc.27.8.965
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 965
+EP  - 972
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - This Note establishes two linkages between adaptive estimation procedures used in the analysis and forecasting of multivariate time series and the simple Brown smoothing technique. First, for a simple model it is shown that AEP and LMS are identical to the Brown technique. Thus they are accorded the theoretical properties possessed by the Brown estimator for the simple model. This linkage establishes that the Brown technique has been extended in two complementary directions: to higher order smoothing models which use explicit functions of time and implicitly include effects of other variables and to adaptive time-varying parameter models which explicitly include the influences of other variables and implicitly incorporate time. Second, for the same simple model, Stochastic Approximation, Kalman Filtering, and Bayesian Analysis reduce to a form similar to the Brown technique except that they have a time-varying smoothing constant which approaches zero as the sample size grows large. Hence, while they provide optimal estimates which converge in mean square error, they are not responsive to change.
+AB  - This Note establishes two linkages between adaptive estimation procedures used in the analysis and forecasting of multivariate time series and the simple Brown smoothing technique. First, for a simple model it is shown that AEP and LMS are identical to the Brown technique. Thus they are accorded the theoretical properties possessed by the Brown estimator for the simple model. This linkage establishes that the Brown technique has been extended in two complementary directions: to higher order smoothing models which use explicit functions of time and implicitly include effects of other variables and to adaptive time-varying parameter models which explicitly include the influences of other variables and implicitly incorporate time. Second, for the same simple model, Stochastic Approximation, Kalman Filtering, and Bayesian Analysis reduce to a form similar to the Brown technique except that they have a time-varying smoothing constant which approaches zero as the sample size grows large. Hence, while they provide optimal estimates which converge in mean square error, they are not responsive to change.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.965
+UR  - https://doi.org/10.1287/mnsc.27.8.965
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Management Science Update Column—The Past, Present and Future Histories of an Old Paper
+AU  - Hall, John R.
+Y1  - 1981/08/01
+PY  - 1981
+DA  - 1981/08/01
+N1  - doi: 10.1287/mnsc.27.8.973
+DO  - 10.1287/mnsc.27.8.973
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 973
+EP  - 974
+VL  - 27
+IS  - 8
+PB  - INFORMS
+N2  - One of my University of Pennsylvania professors, Kenneth D. MacKenzie (now at the University of Kansas), sent in this update of his December 1970 Management Science article ?Analysis of a Decision Making Investigation.? Once I saw Ken's title (above) for this update. I knew we were in for some fun. I've cut the essay a little and I've knocked out Ken's lengthy bibliography of related articles and books (which you may want to write him about) because Marty Starr likes to run some new stuff in this journal, too.
+AB  - One of my University of Pennsylvania professors, Kenneth D. MacKenzie (now at the University of Kansas), sent in this update of his December 1970 Management Science article ?Analysis of a Decision Making Investigation.? Once I saw Ken's title (above) for this update. I knew we were in for some fun. I've cut the essay a little and I've knocked out Ken's lengthy bibliography of related articles and books (which you may want to write him about) because Marty Starr likes to run some new stuff in this journal, too.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.27.8.973
+UR  - https://doi.org/10.1287/mnsc.27.8.973
+Y2  - 2024/03/28
+ER  - 

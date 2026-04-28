@@ -1,0 +1,997 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Controlling Epidemic Spread: Reducing Economic Losses with Targeted Closures
+AU  - Birge, John R.
+AU  - Candogan, Ozan
+AU  - Feng, Yiding
+Y1  - 2022/03/17
+PY  - 2022
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2022.4318
+DO  - 10.1287/mnsc.2022.4318
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3175
+EP  - 3195
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Data on population movements can be helpful in designing targeted policy responses to curb epidemic spread. However, it is not clear how to exactly leverage such data and how valuable they might be for the control of epidemics. To explore these questions, we study a spatial epidemic model that explicitly accounts for population movements and propose an optimization framework for obtaining targeted policies that restrict economic activity in different neighborhoods of a city at different levels. We focus on COVID-19 and calibrate our model using the mobile phone data that capture individuals? movements within New York City (NYC). We use these data to illustrate that targeting can allow for substantially higher employment levels than uniform (city-wide) policies when applied to reduce infections across a region of focus. In our NYC example (which focuses on the control of the disease in April 2020), our main model illustrates that appropriate targeting achieves a reduction in infections in all neighborhoods while resuming 23.1%?42.4% of the baseline nonteleworkable employment level. By contrast, uniform restriction policies that achieve the same policy goal permit 3.92?6.25 times less nonteleworkable employment. Our optimization framework demonstrates the potential of targeting to limit the economic costs of unemployment while curbing the spread of an epidemic.This paper was accepted by Carri Chan, healthcare management.
+AB  - Data on population movements can be helpful in designing targeted policy responses to curb epidemic spread. However, it is not clear how to exactly leverage such data and how valuable they might be for the control of epidemics. To explore these questions, we study a spatial epidemic model that explicitly accounts for population movements and propose an optimization framework for obtaining targeted policies that restrict economic activity in different neighborhoods of a city at different levels. We focus on COVID-19 and calibrate our model using the mobile phone data that capture individuals? movements within New York City (NYC). We use these data to illustrate that targeting can allow for substantially higher employment levels than uniform (city-wide) policies when applied to reduce infections across a region of focus. In our NYC example (which focuses on the control of the disease in April 2020), our main model illustrates that appropriate targeting achieves a reduction in infections in all neighborhoods while resuming 23.1%?42.4% of the baseline nonteleworkable employment level. By contrast, uniform restriction policies that achieve the same policy goal permit 3.92?6.25 times less nonteleworkable employment. Our optimization framework demonstrates the potential of targeting to limit the economic costs of unemployment while curbing the spread of an epidemic.This paper was accepted by Carri Chan, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4318
+UR  - https://doi.org/10.1287/mnsc.2022.4318
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - More Women in Tech? Evidence from a Field Experiment Addressing Social Identity
+AU  - Del Carpio, Lucía
+AU  - Guadalupe, Maria
+Y1  - 2021/08/18
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4035
+DO  - 10.1287/mnsc.2021.4035
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3196
+EP  - 3218
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We study the impact of using informational messaging aimed at encouraging women to seek a career in technology and the resulting trade-offs for organizations pursuing recruitment strategies of this kind. Our treatment, implemented through two field experiments among potential applicants to a five-month software-coding program targeted at low-income women in Peru and Mexico, counterbalances the strong male stereotype associated with a career in tech. Although our informational messages substantially increase application rates, including candidates at the top of the cognitive skill distribution, they introduce negative selection on cognitive skills, implying a higher cost of screening. Moreover, we observe selection on the noncognitive dimensions addressed with the treatment (e.g., stronger gender stereotypes and traditional norms). This points to the barriers that preclude more women from applying to tech positions, as well as the trade-offs for organizations of adopting such a strategy.This paper was accepted by Alfonso Gambardella, business strategy.
+AB  - We study the impact of using informational messaging aimed at encouraging women to seek a career in technology and the resulting trade-offs for organizations pursuing recruitment strategies of this kind. Our treatment, implemented through two field experiments among potential applicants to a five-month software-coding program targeted at low-income women in Peru and Mexico, counterbalances the strong male stereotype associated with a career in tech. Although our informational messages substantially increase application rates, including candidates at the top of the cognitive skill distribution, they introduce negative selection on cognitive skills, implying a higher cost of screening. Moreover, we observe selection on the noncognitive dimensions addressed with the treatment (e.g., stronger gender stereotypes and traditional norms). This points to the barriers that preclude more women from applying to tech positions, as well as the trade-offs for organizations of adopting such a strategy.This paper was accepted by Alfonso Gambardella, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4035
+UR  - https://doi.org/10.1287/mnsc.2021.4035
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Driver Surge Pricing
+AU  - Garg, Nikhil
+AU  - Nazerzadeh, Hamid
+Y1  - 2021/08/09
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4058
+DO  - 10.1287/mnsc.2021.4058
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3219
+EP  - 3235
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Ride-hailing marketplaces like Uber and Lyft use dynamic pricing, often called surge, to balance the supply of available drivers with the demand for rides. We study driver-side payment mechanisms for such marketplaces, presenting the theoretical foundation that has informed the design of Uber?s new additive driver surge mechanism. We present a dynamic stochastic model to capture the impact of surge pricing on driver earnings and their strategies to maximize such earnings. In this setting, some time periods (surge) are more valuable than others (nonsurge), and therefore trips of different time lengths vary in the induced driver opportunity cost. First, we show that multiplicative surge, historically the standard on ride-hailing platforms, is not incentive compatible in a dynamic setting. We then propose a structured, incentive-compatible pricing mechanism. This closed-form mechanism has a simple form and is well approximated by Uber?s new additive surge mechanism. Finally, through both numerical analysis and real data from a ride-hailing marketplace, we show that additive surge is more incentive compatible in practice than is multiplicative surge.This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+AB  - Ride-hailing marketplaces like Uber and Lyft use dynamic pricing, often called surge, to balance the supply of available drivers with the demand for rides. We study driver-side payment mechanisms for such marketplaces, presenting the theoretical foundation that has informed the design of Uber?s new additive driver surge mechanism. We present a dynamic stochastic model to capture the impact of surge pricing on driver earnings and their strategies to maximize such earnings. In this setting, some time periods (surge) are more valuable than others (nonsurge), and therefore trips of different time lengths vary in the induced driver opportunity cost. First, we show that multiplicative surge, historically the standard on ride-hailing platforms, is not incentive compatible in a dynamic setting. We then propose a structured, incentive-compatible pricing mechanism. This closed-form mechanism has a simple form and is well approximated by Uber?s new additive surge mechanism. Finally, through both numerical analysis and real data from a ride-hailing marketplace, we show that additive surge is more incentive compatible in practice than is multiplicative surge.This paper was accepted by David Simchi-Levi, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4058
+UR  - https://doi.org/10.1287/mnsc.2021.4058
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Complex Disclosure
+AU  - Jin, Ginger Zhe
+AU  - Luca, Michael
+AU  - Martin, Daniel
+Y1  - 2021/08/10
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4037
+DO  - 10.1287/mnsc.2021.4037
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3236
+EP  - 3261
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We present evidence that unnecessarily complex disclosure can result from strategic incentives to shroud information. In our laboratory experiment, senders are required to report their private information truthfully but can choose how complex to make their reports. We find that senders use complex disclosure more than half the time. This obfuscation is profitable because receivers make systematic mistakes in assessing complex reports. Regression and structural analysis suggest that these mistakes could be driven by receivers who are naive about the strategic use of complexity or overconfident about their ability to process complex information.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - We present evidence that unnecessarily complex disclosure can result from strategic incentives to shroud information. In our laboratory experiment, senders are required to report their private information truthfully but can choose how complex to make their reports. We find that senders use complex disclosure more than half the time. This obfuscation is profitable because receivers make systematic mistakes in assessing complex reports. Regression and structural analysis suggest that these mistakes could be driven by receivers who are naive about the strategic use of complexity or overconfident about their ability to process complex information.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4037
+UR  - https://doi.org/10.1287/mnsc.2021.4037
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Missing Women in Tech: The Labor Market for Highly Skilled Software Engineers
+AU  - Murciano-Goroff, Raviv
+Y1  - 2021/09/16
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4077
+DO  - 10.1287/mnsc.2021.4077
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3262
+EP  - 3281
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - This paper examines the behavior of job seekers and recruiters in the labor market for software engineers. I obtained data from a recruiting platform where individuals can self-report their computer programming skills and recruiters can message individuals they wish to contact about job opportunities. I augment this data set with measures of each individual?s previous programming experience based on analysis of actual computer source code they wrote and shared within the open-source software community. This novel data set reveals that candidates? self-reported technical skills are quantitatively important predictors of recruiter interest. Consistent with social psychology and behavioral economics studies, I also find female programmers with previous experience in a programming language are 11.07% less likely than their male counterparts to self-report knowledge of that programming language on their resume. Despite public pronouncements, however, recruiters do not appear more inclined toward recruiting female candidates who self-report knowing programming languages. Indeed, recruiters are predicted to be 6.47% less likely to express interest in a female candidate than a male candidate with comparable observable qualifications even if those qualifications are very strong. Ultimately, a gender gap in the self-reporting of skills on resumes exists; but recruiters do not appear to be adjusting their response to such signals in ways that could increase the representation of women among software engineering recruits.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - This paper examines the behavior of job seekers and recruiters in the labor market for software engineers. I obtained data from a recruiting platform where individuals can self-report their computer programming skills and recruiters can message individuals they wish to contact about job opportunities. I augment this data set with measures of each individual?s previous programming experience based on analysis of actual computer source code they wrote and shared within the open-source software community. This novel data set reveals that candidates? self-reported technical skills are quantitatively important predictors of recruiter interest. Consistent with social psychology and behavioral economics studies, I also find female programmers with previous experience in a programming language are 11.07% less likely than their male counterparts to self-report knowledge of that programming language on their resume. Despite public pronouncements, however, recruiters do not appear more inclined toward recruiting female candidates who self-report knowing programming languages. Indeed, recruiters are predicted to be 6.47% less likely to express interest in a female candidate than a male candidate with comparable observable qualifications even if those qualifications are very strong. Ultimately, a gender gap in the self-reporting of skills on resumes exists; but recruiters do not appear to be adjusting their response to such signals in ways that could increase the representation of women among software engineering recruits.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4077
+UR  - https://doi.org/10.1287/mnsc.2021.4077
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Can Gambling Increase Savings? Empirical Evidence on Prize-Linked Savings Accounts
+AU  - Cole, Shawn
+AU  - Iverson, Benjamin
+AU  - Tufano, Peter
+Y1  - 2021/05/27
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4047
+DO  - 10.1287/mnsc.2021.4047
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3282
+EP  - 3308
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - This paper studies the adoption and impact of prize-linked savings (PLS) accounts, which offer lottery-like payouts to individual account holders in lieu of interest. Using microlevel data from a bank in South Africa, we show that PLS is attractive to a broad group of individuals, with financially constrained individuals and those with no other deposit accounts particularly likely to participate. Individuals who choose to use PLS increase their total savings on average by 1% of annual income. Exploiting the random assignment of prizes, we present causal evidence that PLS substitutes for lottery gambling but is a complement to standard savings.This paper was accepted by Tyler Shumway, finance.
+AB  - This paper studies the adoption and impact of prize-linked savings (PLS) accounts, which offer lottery-like payouts to individual account holders in lieu of interest. Using microlevel data from a bank in South Africa, we show that PLS is attractive to a broad group of individuals, with financially constrained individuals and those with no other deposit accounts particularly likely to participate. Individuals who choose to use PLS increase their total savings on average by 1% of annual income. Exploiting the random assignment of prizes, we present causal evidence that PLS substitutes for lottery gambling but is a complement to standard savings.This paper was accepted by Tyler Shumway, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4047
+UR  - https://doi.org/10.1287/mnsc.2021.4047
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Does Online Lending Influence Bankruptcy Filings?
+AU  - Wang, Hongchang
+AU  - Overby, Eric M.
+Y1  - 2021/05/27
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4045
+DO  - 10.1287/mnsc.2021.4045
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3309
+EP  - 3329
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - By providing quick and easy access to credit, online lending platforms may help borrowers overcome financial setbacks and/or refinance high-interest debt, thereby decreasing bankruptcy filings. On the other hand, these platforms may cause borrowers to overextend themselves financially, leading to a ?debt trap? and increasing bankruptcy filings. To investigate the impact of online lending on bankruptcy filings, we leverage variation in when state regulators granted approval for a major online lending platform?Lending Club?to issue peer-to-peer loans. Using a difference-in-differences approach, we find that state approval of Lending Club led to an increase in bankruptcy filings. A complementary instrumental variables analysis using loan-level data yields similar results. We find suggestive evidence that the ease of receiving a Lending Club loan causes some borrowers to overextend themselves financially, leading to bankruptcy. Our results suggest that recent initiatives from online lending platforms to control how borrowers use loans, such as Lending Club?s ?balance transfer loans? that send loan funds directly to creditors, can help these platforms provide safe and affordable credit. Our study adds to the literature that examines how online platforms influence society and the economy; it contributes to the literature that examines how financial products, services, and regulations influence bankruptcy filings; and it has policy implications for online lending design and regulation.This paper was accepted by Lorin Hitt, information systems.
+AB  - By providing quick and easy access to credit, online lending platforms may help borrowers overcome financial setbacks and/or refinance high-interest debt, thereby decreasing bankruptcy filings. On the other hand, these platforms may cause borrowers to overextend themselves financially, leading to a ?debt trap? and increasing bankruptcy filings. To investigate the impact of online lending on bankruptcy filings, we leverage variation in when state regulators granted approval for a major online lending platform?Lending Club?to issue peer-to-peer loans. Using a difference-in-differences approach, we find that state approval of Lending Club led to an increase in bankruptcy filings. A complementary instrumental variables analysis using loan-level data yields similar results. We find suggestive evidence that the ease of receiving a Lending Club loan causes some borrowers to overextend themselves financially, leading to bankruptcy. Our results suggest that recent initiatives from online lending platforms to control how borrowers use loans, such as Lending Club?s ?balance transfer loans? that send loan funds directly to creditors, can help these platforms provide safe and affordable credit. Our study adds to the literature that examines how online platforms influence society and the economy; it contributes to the literature that examines how financial products, services, and regulations influence bankruptcy filings; and it has policy implications for online lending design and regulation.This paper was accepted by Lorin Hitt, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4045
+UR  - https://doi.org/10.1287/mnsc.2021.4045
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Consumer Consent and Firm Targeting After GDPR: The Case of a Large Telecom Provider
+AU  - Godinho de Matos, Miguel
+AU  - Adjerid, Idris
+Y1  - 2021/09/08
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4054
+DO  - 10.1287/mnsc.2021.4054
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3330
+EP  - 3378
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - The general data protection regulation (GDPR) represents a dramatic shift in global privacy regulation. We focus on GDPR?s enhanced consumer consent requirements that aim to provide transparent and active elicitation of data allowances. We evaluate the effect of enhanced consent on consumer opt-in behavior and on firm behavior and outcomes after consent is solicited. Utilizing an experiment at a large telecommunications provider with operations in Europe, we find that opt-in for different data types and uses increased once GDPR-compliant consent was elicited. However, consumers did not uniformly increase data allowances and continued to generally restrict permissions for more sensitive or tangential uses of their personal information. We also find that sales, the efficacy of marketing communications, and contractual lock-in increased after consumers provided new data allowances. Additional analysis suggests that these gains to the firm emerged because new data allowances enabled them to increase their use of targeted marketing for households that were amenable to these marketing efforts. These results have significant implications for firms and policymakers and suggest that enhanced consent provided via GDPR may be effective for increasing consumer privacy protection while also allowing firms reliant on consumers? personal information to improve outcomes.This paper was accepted by Chris Forman, information systems.
+AB  - The general data protection regulation (GDPR) represents a dramatic shift in global privacy regulation. We focus on GDPR?s enhanced consumer consent requirements that aim to provide transparent and active elicitation of data allowances. We evaluate the effect of enhanced consent on consumer opt-in behavior and on firm behavior and outcomes after consent is solicited. Utilizing an experiment at a large telecommunications provider with operations in Europe, we find that opt-in for different data types and uses increased once GDPR-compliant consent was elicited. However, consumers did not uniformly increase data allowances and continued to generally restrict permissions for more sensitive or tangential uses of their personal information. We also find that sales, the efficacy of marketing communications, and contractual lock-in increased after consumers provided new data allowances. Additional analysis suggests that these gains to the firm emerged because new data allowances enabled them to increase their use of targeted marketing for households that were amenable to these marketing efforts. These results have significant implications for firms and policymakers and suggest that enhanced consent provided via GDPR may be effective for increasing consumer privacy protection while also allowing firms reliant on consumers? personal information to improve outcomes.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4054
+UR  - https://doi.org/10.1287/mnsc.2021.4054
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Funding Liquidity and Market Liquidity: The Broker-Dealer Perspective
+AU  - Macchiavelli, Marco
+AU  - Zhou, Xing (Alex)
+Y1  - 2021/06/15
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4053
+DO  - 10.1287/mnsc.2021.4053
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3379
+EP  - 3398
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We provide direct evidence of how dealers? funding liquidity affects their liquidity provision in securities markets. Worse funding liquidity (higher repo haircuts and rates) leads to larger bid-ask spreads and transaction costs in corporate bonds. We also find that dealers? relationships with money funds are important determinants of their repo haircuts and rates. Using dealers? exposure to the 2016 Securities and Exchange Commission (SEC) money fund reform as an instrument, we show that funding liquidity indeed has a causal effect on market liquidity. Finally, dealers with lower funding liquidity tend to have smaller market shares and execute more trades on an agency basis.This paper was accepted by Haoxiang Zhu, finance.
+AB  - We provide direct evidence of how dealers? funding liquidity affects their liquidity provision in securities markets. Worse funding liquidity (higher repo haircuts and rates) leads to larger bid-ask spreads and transaction costs in corporate bonds. We also find that dealers? relationships with money funds are important determinants of their repo haircuts and rates. Using dealers? exposure to the 2016 Securities and Exchange Commission (SEC) money fund reform as an instrument, we show that funding liquidity indeed has a causal effect on market liquidity. Finally, dealers with lower funding liquidity tend to have smaller market shares and execute more trades on an agency basis.This paper was accepted by Haoxiang Zhu, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4053
+UR  - https://doi.org/10.1287/mnsc.2021.4053
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - An Instrumental Variable Forest Approach for Detecting Heterogeneous Treatment Effects in Observational Studies
+AU  - Wang, Guihua
+AU  - Li, Jun
+AU  - Hopp, Wallace J.
+Y1  - 2021/09/13
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4084
+DO  - 10.1287/mnsc.2021.4084
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3399
+EP  - 3418
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - This study addresses the ubiquitous challenge of using big observational data to identify heterogeneous treatment effects. This problem arises in precision medicine, targeted marketing, personalized education, and many other environments. Identifying heterogeneous treatment effects presents several analytical challenges including high dimensionality and endogeneity issues. We develop a new instrumental variable tree (IVT) approach that incorporates the instrumental variable method into a causal tree (CT) to correct for potential endogeneity biases that may exist in observational data. Our IVT approach partitions subjects into subgroups with similar treatment effects within subgroups and different treatment effects across subgroups. The estimated treatment effects are asymptotically consistent under a set of mild assumptions. Using simulated data, we show our approach has a better coverage rate and smaller mean-squared error than the conventional CT approach. We also demonstrate that an instrumental variable forest (IVF) constructed using IVTs has better accuracy and stratification than a generalized random forest. Finally, by applying the IVF approach to an empirical assessment of laparoscopic colectomy, we demonstrate the importance of accounting for endogeneity to make accurate comparisons of the heterogeneous effects of the treatment (teaching hospitals) and control (nonteaching hospitals) on different types of patients.This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - This study addresses the ubiquitous challenge of using big observational data to identify heterogeneous treatment effects. This problem arises in precision medicine, targeted marketing, personalized education, and many other environments. Identifying heterogeneous treatment effects presents several analytical challenges including high dimensionality and endogeneity issues. We develop a new instrumental variable tree (IVT) approach that incorporates the instrumental variable method into a causal tree (CT) to correct for potential endogeneity biases that may exist in observational data. Our IVT approach partitions subjects into subgroups with similar treatment effects within subgroups and different treatment effects across subgroups. The estimated treatment effects are asymptotically consistent under a set of mild assumptions. Using simulated data, we show our approach has a better coverage rate and smaller mean-squared error than the conventional CT approach. We also demonstrate that an instrumental variable forest (IVF) constructed using IVTs has better accuracy and stratification than a generalized random forest. Finally, by applying the IVF approach to an empirical assessment of laparoscopic colectomy, we demonstrate the importance of accounting for endogeneity to make accurate comparisons of the heterogeneous effects of the treatment (teaching hospitals) and control (nonteaching hospitals) on different types of patients.This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4084
+UR  - https://doi.org/10.1287/mnsc.2021.4084
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Trust, Incomplete Contracting, and Corporate Innovation
+AU  - Xie, Fei
+AU  - Zhang, Bohui
+AU  - Zhang, Wenrui
+Y1  - 2021/08/04
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4055
+DO  - 10.1287/mnsc.2021.4055
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3419
+EP  - 3443
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Innovation is a contract-intensive economic activity in a world of incomplete contracts. We show that trust mitigates incomplete contracting and enhances innovation by acting as an informal contracting mechanism. Trust plays an especially important role when formal laws and regulations are lacking, and it promotes innovation by encouraging collaboration and fostering tolerance for failure. Further analyses show that trust also facilitates cross-border technological spillover and innovation collaboration. Overall, our evidence highlights innovation as a key conduit through which trust affects economic growth.This paper was accepted by Gustavo Manso, finance.
+AB  - Innovation is a contract-intensive economic activity in a world of incomplete contracts. We show that trust mitigates incomplete contracting and enhances innovation by acting as an informal contracting mechanism. Trust plays an especially important role when formal laws and regulations are lacking, and it promotes innovation by encouraging collaboration and fostering tolerance for failure. Further analyses show that trust also facilitates cross-border technological spillover and innovation collaboration. Overall, our evidence highlights innovation as a key conduit through which trust affects economic growth.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4055
+UR  - https://doi.org/10.1287/mnsc.2021.4055
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Tactical Design of Same-Day Delivery Systems
+AU  - Stroh, Alexander M.
+AU  - Erera, Alan L.
+AU  - Toriello, Alejandro
+Y1  - 2021/09/14
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4041
+DO  - 10.1287/mnsc.2021.4041
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3444
+EP  - 3463
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We study tactical models for the design of same-day delivery (SDD) systems. Same-day fulfillment in e-commerce has seen substantial growth in recent years, and the underlying management of such services is complex. Although the literature includes operational models to study SDD, they tend to be detailed, complex, and computationally difficult to solve, and thus may not provide any insight into tactical SDD design variables and their impact on the average performance of the system. We propose a simplified vehicle-dispatching model that captures the ?average? behavior of an SDD system from a single stocking location by utilizing continuous approximation techniques. We analyze the structure of optimal vehicle-dispatching policies given our model for two important instance families?the single-vehicle case and the case in which the delivery fleet is large?and develop techniques to find these policies that require only simple computations. We also leverage these results to analyze the case of a finite fleet, proposing a heuristic policy with a worst-case approximation guarantee. We then demonstrate with several example problem settings how this model and these policies can help answer various tactical design questions, including how to select a fleet size, determine an order cutoff time, and combine SDD and overnight order delivery operations. We validate model predictions empirically against a detailed operational model in a computational case study using geographic and Census data for the northeastern metro Atlanta region, and we demonstrate that our model predicts the average number of orders served and dispatch time to within 1%.This paper was accepted by Jay Swaminathan, operations management.
+AB  - We study tactical models for the design of same-day delivery (SDD) systems. Same-day fulfillment in e-commerce has seen substantial growth in recent years, and the underlying management of such services is complex. Although the literature includes operational models to study SDD, they tend to be detailed, complex, and computationally difficult to solve, and thus may not provide any insight into tactical SDD design variables and their impact on the average performance of the system. We propose a simplified vehicle-dispatching model that captures the ?average? behavior of an SDD system from a single stocking location by utilizing continuous approximation techniques. We analyze the structure of optimal vehicle-dispatching policies given our model for two important instance families?the single-vehicle case and the case in which the delivery fleet is large?and develop techniques to find these policies that require only simple computations. We also leverage these results to analyze the case of a finite fleet, proposing a heuristic policy with a worst-case approximation guarantee. We then demonstrate with several example problem settings how this model and these policies can help answer various tactical design questions, including how to select a fleet size, determine an order cutoff time, and combine SDD and overnight order delivery operations. We validate model predictions empirically against a detailed operational model in a computational case study using geographic and Census data for the northeastern metro Atlanta region, and we demonstrate that our model predicts the average number of orders served and dispatch time to within 1%.This paper was accepted by Jay Swaminathan, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4041
+UR  - https://doi.org/10.1287/mnsc.2021.4041
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Does Analyst Coverage Affect Workplace Safety?
+AU  - Bradley, Daniel
+AU  - Mao, Connie X.
+AU  - Zhang, Chi
+Y1  - 2021/09/10
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4093
+DO  - 10.1287/mnsc.2021.4093
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3464
+EP  - 3487
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We find firms? work-related injury rates are negatively associated with the level of analyst coverage. This result is also robust at the establishment level at which we find local analysts have a more profound impact than distant analysts. Cross-sectionally, our results are exacerbated in firms with weak internal governance mechanisms and in industries with low union representation. Finally, management is more likely to discuss safety issues during earnings conference calls in the presence of more analysts. Overall, our results suggest analysts play an effective external monitoring role and have a subtle yet important impact on employee welfare.This paper was accepted by Brian Bushee, accounting.
+AB  - We find firms? work-related injury rates are negatively associated with the level of analyst coverage. This result is also robust at the establishment level at which we find local analysts have a more profound impact than distant analysts. Cross-sectionally, our results are exacerbated in firms with weak internal governance mechanisms and in industries with low union representation. Finally, management is more likely to discuss safety issues during earnings conference calls in the presence of more analysts. Overall, our results suggest analysts play an effective external monitoring role and have a subtle yet important impact on employee welfare.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4093
+UR  - https://doi.org/10.1287/mnsc.2021.4093
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit
+AU  - Burtch, Gordon
+AU  - He, Qinglai
+AU  - Hong, Yili
+AU  - Lee, Dokyun
+Y1  - 2021/06/01
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4040
+DO  - 10.1287/mnsc.2021.4040
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3488
+EP  - 3506
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We theorize peer awards? effects on the volume and novelty of creative user-generated content (UGC) produced at online platform communities. We then test our hypotheses via a randomized field experiment on Reddit, wherein we randomly and anonymously assigned Reddit?s Gold Award to 905 users? posts over a two-month period. We find that peer awards induced recipients to make longer, more frequent posts and that these effects were particularly pronounced among newer community members. Further, we show that recipients were causally influenced to engage in greater (lesser) exploitation (exploration) behavior, producing content that exhibited significantly greater textual similarity to their own past (awarded) content. However, because the effects were most pronounced among new community members, who also produce content that, in general, is systematically more novel than that of established members to begin with, this process yields a desirable outcome: larger volumes of generally novel UGC for the community.This paper was accepted by Chris Forman, information systems.
+AB  - We theorize peer awards? effects on the volume and novelty of creative user-generated content (UGC) produced at online platform communities. We then test our hypotheses via a randomized field experiment on Reddit, wherein we randomly and anonymously assigned Reddit?s Gold Award to 905 users? posts over a two-month period. We find that peer awards induced recipients to make longer, more frequent posts and that these effects were particularly pronounced among newer community members. Further, we show that recipients were causally influenced to engage in greater (lesser) exploitation (exploration) behavior, producing content that exhibited significantly greater textual similarity to their own past (awarded) content. However, because the effects were most pronounced among new community members, who also produce content that, in general, is systematically more novel than that of established members to begin with, this process yields a desirable outcome: larger volumes of generally novel UGC for the community.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4040
+UR  - https://doi.org/10.1287/mnsc.2021.4040
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Turn Your Online Weight Management from Zero to Hero: A Multidimensional, Continuous-Time Evaluation
+AU  - Zhou, Tongxin
+AU  - Yan, Lu (Lucy)
+AU  - Wang, Yingfei
+AU  - Tan, Yong
+Y1  - 2021/06/01
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4046
+DO  - 10.1287/mnsc.2021.4046
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3507
+EP  - 3527
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Online weight-loss communities (OWCs) provide individuals with various tools to support their weight management, such as weight recorders and weight-loss journals. These tools enable individuals to focus on different aspects of their self-regulation, including weight-loss outcomes and behavioral routines. Prior research, however, has not fully incorporated individuals? self-regulation focuses; thus, there is limited understanding of individuals? online weight-management dynamics as well as the operating mechanisms of OWCs. This gap in the literature motivates us to develop a framework that is able to account for individuals? multiple self-regulation focuses, termed self-regulatory dimensions in this study. We propose a multidimensional, continuous-time hidden Markov model, which can not only capture individuals? self-regulatory dimensions jointly as a multidimensional vector, but also can incorporate a hidden layer of dynamics that depicts individuals? cognitive states in producing weight-management behaviors. By investigating a leading noncommercial OWC in the United States, we find that individuals tend to increase their journal-recording behaviors while decreasing self-weighing behaviors after they have participated in online social activities. Given that individuals usually expend limited effort toward weight management, this result suggests that individuals may shift their focus from weight-loss outcomes (i.e., changes in weight) to weight-management behavioral routines. Therefore, neglecting either self-regulatory dimension would result in an underestimation of individuals? engagement in conducting self-management in OWCs. Our results also provide insight into social influence on individuals? weight-management behaviors. This study contributes to the extant literature on individuals? engagement in online healthcare communities and the functionality of OWCs.This paper was accepted by Anandhi Bharadwaj, information systems.
+AB  - Online weight-loss communities (OWCs) provide individuals with various tools to support their weight management, such as weight recorders and weight-loss journals. These tools enable individuals to focus on different aspects of their self-regulation, including weight-loss outcomes and behavioral routines. Prior research, however, has not fully incorporated individuals? self-regulation focuses; thus, there is limited understanding of individuals? online weight-management dynamics as well as the operating mechanisms of OWCs. This gap in the literature motivates us to develop a framework that is able to account for individuals? multiple self-regulation focuses, termed self-regulatory dimensions in this study. We propose a multidimensional, continuous-time hidden Markov model, which can not only capture individuals? self-regulatory dimensions jointly as a multidimensional vector, but also can incorporate a hidden layer of dynamics that depicts individuals? cognitive states in producing weight-management behaviors. By investigating a leading noncommercial OWC in the United States, we find that individuals tend to increase their journal-recording behaviors while decreasing self-weighing behaviors after they have participated in online social activities. Given that individuals usually expend limited effort toward weight management, this result suggests that individuals may shift their focus from weight-loss outcomes (i.e., changes in weight) to weight-management behavioral routines. Therefore, neglecting either self-regulatory dimension would result in an underestimation of individuals? engagement in conducting self-management in OWCs. Our results also provide insight into social influence on individuals? weight-management behaviors. This study contributes to the extant literature on individuals? engagement in online healthcare communities and the functionality of OWCs.This paper was accepted by Anandhi Bharadwaj, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4046
+UR  - https://doi.org/10.1287/mnsc.2021.4046
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Spillovers from Online Engagement: How a Newspaper Subscriber’s Activation of Digital Paywall Access Affects Her Retention and Subscription Revenue
+AU  - Pattabhiramaiah, Adithya
+AU  - Overby, Eric
+AU  - Xu, Lizhen
+Y1  - 2021/09/08
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4092
+DO  - 10.1287/mnsc.2021.4092
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3528
+EP  - 3548
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Newspapers are increasingly reliant on subscription revenue as advertising spend shifts to online platforms. Many newspapers have implemented paywalls in an attempt to boost subscription revenue. We study whether and how paywalls can help newspapers boost subscription revenue by retaining existing subscribers. Most major newspapers offer free access to paywalled content to subscribers to the print edition, which may help the newspaper retain subscribers by making their subscriptions more valuable. We leverage variation in whether and when existing subscribers activated access to the paywall of a top 30 North American newspaper. Our identification strategy accounts for self-selection in subscribers? decisions to activate paywall access. We find that a subscriber?s activation of digital access decreases the risk of her canceling her subscription by about 31% and increases her subscription revenue by 7%?12%. In other words, digital activation improves subscriber retention and the associated subscription revenue. This suggests a crosschannel spillover in which the online product (the paywalled website) increases customers? valuation for the offline product (the printed newspaper). Our results have implications not only for the newspaper industry but also for firms in other industries that offer subscribers to one product free or subsidized access to a complementary product.This paper was accepted by Kartik Hosanagar, information systems.
+AB  - Newspapers are increasingly reliant on subscription revenue as advertising spend shifts to online platforms. Many newspapers have implemented paywalls in an attempt to boost subscription revenue. We study whether and how paywalls can help newspapers boost subscription revenue by retaining existing subscribers. Most major newspapers offer free access to paywalled content to subscribers to the print edition, which may help the newspaper retain subscribers by making their subscriptions more valuable. We leverage variation in whether and when existing subscribers activated access to the paywall of a top 30 North American newspaper. Our identification strategy accounts for self-selection in subscribers? decisions to activate paywall access. We find that a subscriber?s activation of digital access decreases the risk of her canceling her subscription by about 31% and increases her subscription revenue by 7%?12%. In other words, digital activation improves subscriber retention and the associated subscription revenue. This suggests a crosschannel spillover in which the online product (the paywalled website) increases customers? valuation for the offline product (the printed newspaper). Our results have implications not only for the newspaper industry but also for firms in other industries that offer subscribers to one product free or subsidized access to a complementary product.This paper was accepted by Kartik Hosanagar, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4092
+UR  - https://doi.org/10.1287/mnsc.2021.4092
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Monetary Incentives and Knowledge Spillover: Evidence from a Natural Experiment
+AU  - Wang, Jing
+AU  - Li, Gen
+AU  - Hui, Kai-Lung
+Y1  - 2021/07/01
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4048
+DO  - 10.1287/mnsc.2021.4048
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3549
+EP  - 3572
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We examine how the introduction of monetary incentives by a knowledge-sharing platform affects the nonrewarded knowledge activity on the platform. Our setting is a question-and-answer platform that provides monetary incentives for holding live talks. Using a combination of coarsened exact matching and difference-in-differences estimation techniques, we find that the launch of the paid feature creates a positive spillover effect on the hosts? free contributions, specifically, 9.4%?40.8% more answers in the short run when compared with nonhosts. The paid feature did not result in any significant change in the quality of answers. We suggest reputation building is one plausible mechanism underlying the spillover. Additional analyses reveal the spillover effect is negative for short-lived hosts in the long run, indicating possible crowding out of free contributions. The positive spillover effect for long-lived hosts lasts longer but is also reduced over time. Our findings suggest that introducing monetary incentives can be a viable business model for knowledge platforms to stimulate user contributions in both the paid and related unpaid activities. Yet platform owners should be cautious about the potential negative spillover after users stop contributing to the paid activity and develop effective strategies to maintain users? long-term interests in the paid program.This paper was accepted by Kartik Hosanagar, information systems.
+AB  - We examine how the introduction of monetary incentives by a knowledge-sharing platform affects the nonrewarded knowledge activity on the platform. Our setting is a question-and-answer platform that provides monetary incentives for holding live talks. Using a combination of coarsened exact matching and difference-in-differences estimation techniques, we find that the launch of the paid feature creates a positive spillover effect on the hosts? free contributions, specifically, 9.4%?40.8% more answers in the short run when compared with nonhosts. The paid feature did not result in any significant change in the quality of answers. We suggest reputation building is one plausible mechanism underlying the spillover. Additional analyses reveal the spillover effect is negative for short-lived hosts in the long run, indicating possible crowding out of free contributions. The positive spillover effect for long-lived hosts lasts longer but is also reduced over time. Our findings suggest that introducing monetary incentives can be a viable business model for knowledge platforms to stimulate user contributions in both the paid and related unpaid activities. Yet platform owners should be cautious about the potential negative spillover after users stop contributing to the paid activity and develop effective strategies to maintain users? long-term interests in the paid program.This paper was accepted by Kartik Hosanagar, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4048
+UR  - https://doi.org/10.1287/mnsc.2021.4048
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Deterrence Effects of Enforcement Schemes: An Experimental Study
+AU  - Agranov, Marina
+AU  - Buyalskaya, Anastasia
+Y1  - 2021/06/04
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4036
+DO  - 10.1287/mnsc.2021.4036
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3573
+EP  - 3589
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Private and public organizations are interested in finding effective ways to reduce crime and promote ethical behavior without investing heavy resources into monitoring and compliance. In this paper, we experimentally study how revealing different information about a fine distribution affects deterrence of an undesirable behavior. We use a novel incentive-compatible elicitation method to observe subjects lying (the undesirable behavior) and quantify the extent to which this behavior responds to information structures. We find that punishment schemes that communicate only partial information (the minimum fine in particular) are more effective than full information schemes at deterring lying. We explore the mechanism driving this result and link it to subjects? beliefs about their own versus the average expected fine in treatments with partial information.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - Private and public organizations are interested in finding effective ways to reduce crime and promote ethical behavior without investing heavy resources into monitoring and compliance. In this paper, we experimentally study how revealing different information about a fine distribution affects deterrence of an undesirable behavior. We use a novel incentive-compatible elicitation method to observe subjects lying (the undesirable behavior) and quantify the extent to which this behavior responds to information structures. We find that punishment schemes that communicate only partial information (the minimum fine in particular) are more effective than full information schemes at deterring lying. We explore the mechanism driving this result and link it to subjects? beliefs about their own versus the average expected fine in treatments with partial information.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4036
+UR  - https://doi.org/10.1287/mnsc.2021.4036
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Moral Universalism: Measurement and Economic Relevance
+AU  - Enke, Benjamin
+AU  - Rodríguez-Padilla, Ricardo
+AU  - Zimmermann, Florian
+Y1  - 2021/08/10
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4086
+DO  - 10.1287/mnsc.2021.4086
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3590
+EP  - 3603
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Many applied economic settings involve trade-offs between in-group members and strangers. To better understand decision making in these contexts, this paper measures and investigates the economic relevance of heterogeneity in moral universalism: the extent to which people exhibit the same level of altruism and trust toward strangers as toward in-group members. We first introduce a new experimentally validated, survey-based measure of moral universalism that is simple and easily scalable. We then deploy this tool in a large, representative sample of the U.S. population to study heterogeneity and economic relevance. We find that universalism is a relatively stable trait at the individual level. In exploratory analyses, heterogeneity in universalism is significantly related to observables: Older people, men, the rich, the rural, and the religious exhibit less universalist preferences and beliefs. Linking variation in universalism to self-reports of economic and social behaviors, we document the following correlations. Universalists donate less money locally, but more globally, and are less likely to exhibit home bias in equity and educational investments. In terms of social networks, universalists have fewer friends, spend less time with them, and feel more lonely. These results provide a blueprint for measuring moral universalism in applied settings and suggest that variation in universalism is relevant for understanding a myriad of economic behaviors.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - Many applied economic settings involve trade-offs between in-group members and strangers. To better understand decision making in these contexts, this paper measures and investigates the economic relevance of heterogeneity in moral universalism: the extent to which people exhibit the same level of altruism and trust toward strangers as toward in-group members. We first introduce a new experimentally validated, survey-based measure of moral universalism that is simple and easily scalable. We then deploy this tool in a large, representative sample of the U.S. population to study heterogeneity and economic relevance. We find that universalism is a relatively stable trait at the individual level. In exploratory analyses, heterogeneity in universalism is significantly related to observables: Older people, men, the rich, the rural, and the religious exhibit less universalist preferences and beliefs. Linking variation in universalism to self-reports of economic and social behaviors, we document the following correlations. Universalists donate less money locally, but more globally, and are less likely to exhibit home bias in equity and educational investments. In terms of social networks, universalists have fewer friends, spend less time with them, and feel more lonely. These results provide a blueprint for measuring moral universalism in applied settings and suggest that variation in universalism is relevant for understanding a myriad of economic behaviors.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4086
+UR  - https://doi.org/10.1287/mnsc.2021.4086
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Fair and Square: A Retention Model of Managerial Compensation
+AU  - Ellingsen, Tore
+AU  - Kristiansen, Eirik Gaard
+Y1  - 2021/08/13
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4062
+DO  - 10.1287/mnsc.2021.4062
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3604
+EP  - 3624
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We propose a model of how the retention motive shapes managerial compensation contracts. Once employed, a risk-averse manager acquires imperfectly portable skills whose value is stochastic because of industry-wide demand shocks. The manager?s actions are uncontractible, and the perceived fairness of the compensation contract affects the manager?s motivation. If the volatility of profits is sufficiently large and outside offers are sufficiently likely, the equilibrium contract combines a salary with an own-firm stock option. The model?s predictions are consistent with empirical regularities concerning contractual shape, the magnitude of variable pay, the lack of indexation, and the prevalence of discretionary severance pay.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+AB  - We propose a model of how the retention motive shapes managerial compensation contracts. Once employed, a risk-averse manager acquires imperfectly portable skills whose value is stochastic because of industry-wide demand shocks. The manager?s actions are uncontractible, and the perceived fairness of the compensation contract affects the manager?s motivation. If the volatility of profits is sufficiently large and outside offers are sufficiently likely, the equilibrium contract combines a salary with an own-firm stock option. The model?s predictions are consistent with empirical regularities concerning contractual shape, the magnitude of variable pay, the lack of indexation, and the prevalence of discretionary severance pay.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4062
+UR  - https://doi.org/10.1287/mnsc.2021.4062
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Changes in Risky Benefits and in Risky Costs: A Question of the Right Order
+AU  - Menegatti, Mario
+AU  - Peter, Richard
+Y1  - 2021/08/20
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4081
+DO  - 10.1287/mnsc.2021.4081
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3625
+EP  - 3634
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We organize and extend findings on the comparative static effects of risk changes on optimal behavior in a unifying expected utility model. We determine restrictions on preferences for clear-cut results. Risk increases of a benefit are compensated by lowering exposure to risk. For risk increases of a cost, the response depends on the order of the risk change. This discrepancy arises because even-order risk increases of a cost raise the riskiness of the payoff distribution, whereas odd-order risk increases of a cost reduce it. We identify the stochastic dominance orders to resolve this discrepancy and discuss specific decision problems as applications.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.
+AB  - We organize and extend findings on the comparative static effects of risk changes on optimal behavior in a unifying expected utility model. We determine restrictions on preferences for clear-cut results. Risk increases of a benefit are compensated by lowering exposure to risk. For risk increases of a cost, the response depends on the order of the risk change. This discrepancy arises because even-order risk increases of a cost raise the riskiness of the payoff distribution, whereas odd-order risk increases of a cost reduce it. We identify the stochastic dominance orders to resolve this discrepancy and discuss specific decision problems as applications.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4081
+UR  - https://doi.org/10.1287/mnsc.2021.4081
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Wisdom of Model Crowds
+AU  - He, Lisheng
+AU  - Analytis, Pantelis P.
+AU  - Bhatia, Sudeep
+Y1  - 2021/09/16
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4090
+DO  - 10.1287/mnsc.2021.4090
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3635
+EP  - 3659
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - A wide body of empirical research has revealed the descriptive shortcomings of expected value and expected utility models of risky decision making. In response, numerous models have been advanced to predict and explain people?s choices between gambles. Although some of these models have had a great impact in the behavioral, social, and management sciences, there is little consensus about which model offers the best account of choice behavior. In this paper, we conduct a large-scale comparison of 58 prominent models of risky choice, using 19 existing behavioral data sets involving more than 800 participants. This allows us to comprehensively evaluate models in terms of individual-level predictive performance across a range of different choice settings. We also identify the psychological mechanisms that lead to superior predictive performance and the properties of choice stimuli that favor certain types of models over others. Moreover, drawing on research on the wisdom of crowds, we argue that each of the existing models can be seen as an expert that provides unique forecasts in choice predictions. Consistent with this claim, we find that crowds of risky choice models perform better than individual models and thus provide a performance bound for assessing the historical accumulation of knowledge in our field. Our results suggest that each model captures unique aspects of the decision process and that existing risky choice models offer complementary rather than competing accounts of behavior. We discuss the implications of our results on theories of risky decision making and the quantitative modeling of choice behavior.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.
+AB  - A wide body of empirical research has revealed the descriptive shortcomings of expected value and expected utility models of risky decision making. In response, numerous models have been advanced to predict and explain people?s choices between gambles. Although some of these models have had a great impact in the behavioral, social, and management sciences, there is little consensus about which model offers the best account of choice behavior. In this paper, we conduct a large-scale comparison of 58 prominent models of risky choice, using 19 existing behavioral data sets involving more than 800 participants. This allows us to comprehensively evaluate models in terms of individual-level predictive performance across a range of different choice settings. We also identify the psychological mechanisms that lead to superior predictive performance and the properties of choice stimuli that favor certain types of models over others. Moreover, drawing on research on the wisdom of crowds, we argue that each of the existing models can be seen as an expert that provides unique forecasts in choice predictions. Consistent with this claim, we find that crowds of risky choice models perform better than individual models and thus provide a performance bound for assessing the historical accumulation of knowledge in our field. Our results suggest that each model captures unique aspects of the decision process and that existing risky choice models offer complementary rather than competing accounts of behavior. We discuss the implications of our results on theories of risky decision making and the quantitative modeling of choice behavior.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4090
+UR  - https://doi.org/10.1287/mnsc.2021.4090
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Does Transportation Mean Transplantation? Impact of New Airline Routes on Sharing of Cadaveric Kidneys
+AU  - Wang, Guihua
+AU  - Zheng, Ronghuo
+AU  - Dai, Tinglong
+Y1  - 2021/07/09
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4103
+DO  - 10.1287/mnsc.2021.4103
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3660
+EP  - 3679
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Every year, nearly 5,000 patients die while waiting for kidney transplants, and yet an estimated 3,500 procured kidneys are discarded. Such a polarized coexistence of dire scarcity and massive wastefulness has been mainly driven by insufficient pooling of cadaveric kidneys across geographic regions. Although numerous policy initiatives are aimed at broadening organ pooling, they rarely account for a key friction?efficient airline transportation, ideally direct flights, is necessary for long-distance sharing, because of the time-sensitive nature of kidney transplantation. Conceivably, transplant centers may be reluctant to accept kidney offers from far-off locations without direct flights. In this paper, we estimate the effect of the introduction of new airline routes on broader kidney sharing. By merging the U.S. airline transportation and kidney transplantation data sets, we create a unique sample tracking (1) the evolution of airline routes connecting all the U.S. airports and (2) kidney transplants between donors and recipients connected by these airports. We estimate the introduction of a new airline route increases the number of shared kidneys by 7.3%. We also find a net increase in the total number of kidney transplants and a decrease in the organ discard rate with the introduction of new routes. Notably, the posttransplant survival rate remains largely unchanged, although average travel distance increases after the introduction of new airline routes. Our results are robust to alternative empirical specifications and have important implications for improving access to the U.S. organ transplantation system.This paper was accepted by Vishal Gaur, operations management.
+AB  - Every year, nearly 5,000 patients die while waiting for kidney transplants, and yet an estimated 3,500 procured kidneys are discarded. Such a polarized coexistence of dire scarcity and massive wastefulness has been mainly driven by insufficient pooling of cadaveric kidneys across geographic regions. Although numerous policy initiatives are aimed at broadening organ pooling, they rarely account for a key friction?efficient airline transportation, ideally direct flights, is necessary for long-distance sharing, because of the time-sensitive nature of kidney transplantation. Conceivably, transplant centers may be reluctant to accept kidney offers from far-off locations without direct flights. In this paper, we estimate the effect of the introduction of new airline routes on broader kidney sharing. By merging the U.S. airline transportation and kidney transplantation data sets, we create a unique sample tracking (1) the evolution of airline routes connecting all the U.S. airports and (2) kidney transplants between donors and recipients connected by these airports. We estimate the introduction of a new airline route increases the number of shared kidneys by 7.3%. We also find a net increase in the total number of kidney transplants and a decrease in the organ discard rate with the introduction of new routes. Notably, the posttransplant survival rate remains largely unchanged, although average travel distance increases after the introduction of new airline routes. Our results are robust to alternative empirical specifications and have important implications for improving access to the U.S. organ transplantation system.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4103
+UR  - https://doi.org/10.1287/mnsc.2021.4103
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Focusing Provider Attention: An Empirical Examination of Incentives and Feedback in Flu Vaccinations
+AU  - Niewoehner, Robert J.
+AU  - Staats, Bradley R.
+Y1  - 2021/08/12
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4051
+DO  - 10.1287/mnsc.2021.4051
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3680
+EP  - 3702
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Background. Influenza imposes heavy societal costs through healthcare expenditures, missed days of work, and numerous hospitalizations each year. Considering these costs, the healthcare and behavioral science literature offers suggestions on increasing demand for flu vaccinations. Yet, the adult flu vaccination rate fluctuated between 37% and 46% between 2010 and 2019. Aim. Although a demand-side approach represents one viable strategy, an operations management approach would also highlight the need to consider a supply-side approach. In this paper, we investigate how to improve clinic vaccination rates by altering provider behavior. Methodology. We implement and study a flu vaccine intervention among 145 clinics from nine different states. This intervention randomly assigned these clinics to a control group or one of two separate treatment arms that received either relative performance feedback or financial incentives. Results. We find clinics that received relative performance feedback outperformed all others: Our intervention led to a 12% increase in flu shots for this group of clinics. Moreover, we also find clinics in this group exhibit rank response behavior, specifically last-place aversion; in particular, clinics near last place outperform the corresponding control clinics by 23% points. Conclusion. Overall, we find that clinic-level performance feedback can effectively drive operational improvement. Even a small increase in the U.S. adult flu vaccination rate might confer hundreds of millions of dollars in societal benefits and prevents thousands of hospitalizations. We discuss the implications of our work for healthcare operations theory, healthcare providers, and healthcare administrators.This paper was accepted by Charles Corbett, operations management.
+AB  - Background. Influenza imposes heavy societal costs through healthcare expenditures, missed days of work, and numerous hospitalizations each year. Considering these costs, the healthcare and behavioral science literature offers suggestions on increasing demand for flu vaccinations. Yet, the adult flu vaccination rate fluctuated between 37% and 46% between 2010 and 2019. Aim. Although a demand-side approach represents one viable strategy, an operations management approach would also highlight the need to consider a supply-side approach. In this paper, we investigate how to improve clinic vaccination rates by altering provider behavior. Methodology. We implement and study a flu vaccine intervention among 145 clinics from nine different states. This intervention randomly assigned these clinics to a control group or one of two separate treatment arms that received either relative performance feedback or financial incentives. Results. We find clinics that received relative performance feedback outperformed all others: Our intervention led to a 12% increase in flu shots for this group of clinics. Moreover, we also find clinics in this group exhibit rank response behavior, specifically last-place aversion; in particular, clinics near last place outperform the corresponding control clinics by 23% points. Conclusion. Overall, we find that clinic-level performance feedback can effectively drive operational improvement. Even a small increase in the U.S. adult flu vaccination rate might confer hundreds of millions of dollars in societal benefits and prevents thousands of hospitalizations. We discuss the implications of our work for healthcare operations theory, healthcare providers, and healthcare administrators.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4051
+UR  - https://doi.org/10.1287/mnsc.2021.4051
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Consensus Algorithm for Linear Support Vector Machines
+AU  - Dutta, Haimonti
+Y1  - 2021/08/30
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4042
+DO  - 10.1287/mnsc.2021.4042
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3703
+EP  - 3725
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - In the era of big data, an important weapon in a machine learning researcher?s arsenal is a scalable support vector machine (SVM) algorithm. Traditional algorithms for learning SVMs scale superlinearly with the training set size, which becomes infeasible quickly for large data sets. In recent years, scalable algorithms have been designed which study the primal or dual formulations of the problem. These often suggest a way to decompose the problem and facilitate development of distributed algorithms. In this paper, we present a distributed algorithm for learning linear SVMs in the primal form for binary classification called the gossip-based subgradient (GADGET) SVM. The algorithm is designed such that it can be executed locally on sites of a distributed system. Each site processes its local homogeneously partitioned data and learns a primal SVM model; it then gossips with random neighbors about the classifier learnt and uses this information to update the model. To learn the model, the SVM optimization problem is solved using several techniques, including a gradient estimation procedure, stochastic gradient descent method, and several variants including minibatches of varying sizes. Our theoretical results indicate that the rate at which the GADGET SVM algorithm converges to the global optimum at each site is dominated by an O(1?) term, where ? measures the degree of convexity of the function at the site. Empirical results suggest that this anytime algorithm?where the quality of results improve gradually as computation time increases?has performance comparable to its centralized, pseudodistributed, and other state-of-the-art gossip-based SVM solvers. It is at least 1.5 times (often several orders of magnitude) faster than other gossip-based SVM solvers known in literature and has a message complexity of O(d) per iteration, where d represents the number of features of the data set. Finally, a large-scale case study is presented wherein the consensus-based SVM algorithm is used to predict failures of advanced mechanical components in a chocolate manufacturing process using more than one million data points.This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - In the era of big data, an important weapon in a machine learning researcher?s arsenal is a scalable support vector machine (SVM) algorithm. Traditional algorithms for learning SVMs scale superlinearly with the training set size, which becomes infeasible quickly for large data sets. In recent years, scalable algorithms have been designed which study the primal or dual formulations of the problem. These often suggest a way to decompose the problem and facilitate development of distributed algorithms. In this paper, we present a distributed algorithm for learning linear SVMs in the primal form for binary classification called the gossip-based subgradient (GADGET) SVM. The algorithm is designed such that it can be executed locally on sites of a distributed system. Each site processes its local homogeneously partitioned data and learns a primal SVM model; it then gossips with random neighbors about the classifier learnt and uses this information to update the model. To learn the model, the SVM optimization problem is solved using several techniques, including a gradient estimation procedure, stochastic gradient descent method, and several variants including minibatches of varying sizes. Our theoretical results indicate that the rate at which the GADGET SVM algorithm converges to the global optimum at each site is dominated by an O(1?) term, where ? measures the degree of convexity of the function at the site. Empirical results suggest that this anytime algorithm?where the quality of results improve gradually as computation time increases?has performance comparable to its centralized, pseudodistributed, and other state-of-the-art gossip-based SVM solvers. It is at least 1.5 times (often several orders of magnitude) faster than other gossip-based SVM solvers known in literature and has a message complexity of O(d) per iteration, where d represents the number of features of the data set. Finally, a large-scale case study is presented wherein the consensus-based SVM algorithm is used to predict failures of advanced mechanical components in a chocolate manufacturing process using more than one million data points.This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4042
+UR  - https://doi.org/10.1287/mnsc.2021.4042
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Survival and the Ergodicity of Corporate Profitability
+AU  - Mundt, Philipp
+AU  - Alfarano, Simone
+AU  - Milaković, Mishael
+Y1  - 2022/03/25
+PY  - 2022
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2022.4395
+DO  - 10.1287/mnsc.2022.4395
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3726
+EP  - 3734
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - The cross-sectional variation in corporate profitability has occupied research across fields as diverse as strategic management, industrial organization, finance, and accounting. Prior work suggests that corporate idiosyncrasies are important determinants of profitability, but it disagrees on the quantitative importance of particular effects. This paper shows that corporate specificities become irrelevant in the long run because profitability is ergodic conditional on survival, leading to a uniform, time-invariant regularity in profitability that applies across firms. Conditional on survival, we cannot reject the hypothesis that corporations are on average equally profitable and also experience equally volatile fluctuations in their profitability, irrespective of their individual characteristics. Because the same is not true for shorter-lived firms, even for more than 20 years after entry, we can reconcile our findings with an extensive literature that studies profitability in heterogeneous samples of surviving and shorter-lived firms. Our findings provide a new benchmark for long-term performance in competitive environments and offer a novel perspective by highlighting a robust commonality instead of specificities.This paper was accepted by Alfonso Gambardella, business strategy.
+AB  - The cross-sectional variation in corporate profitability has occupied research across fields as diverse as strategic management, industrial organization, finance, and accounting. Prior work suggests that corporate idiosyncrasies are important determinants of profitability, but it disagrees on the quantitative importance of particular effects. This paper shows that corporate specificities become irrelevant in the long run because profitability is ergodic conditional on survival, leading to a uniform, time-invariant regularity in profitability that applies across firms. Conditional on survival, we cannot reject the hypothesis that corporations are on average equally profitable and also experience equally volatile fluctuations in their profitability, irrespective of their individual characteristics. Because the same is not true for shorter-lived firms, even for more than 20 years after entry, we can reconcile our findings with an extensive literature that studies profitability in heterogeneous samples of surviving and shorter-lived firms. Our findings provide a new benchmark for long-term performance in competitive environments and offer a novel perspective by highlighting a robust commonality instead of specificities.This paper was accepted by Alfonso Gambardella, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4395
+UR  - https://doi.org/10.1287/mnsc.2022.4395
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Team Relationships and Performance: Evidence from Healthcare Referral Networks
+AU  - Agha, Leila
+AU  - Ericson, Keith Marzilli
+AU  - Geissler, Kimberley H.
+AU  - Rebitzer, James B.
+Y1  - 2021/09/08
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4091
+DO  - 10.1287/mnsc.2021.4091
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3735
+EP  - 3754
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We examine the teams that emerge when a primary care physician (PCP) refers patients to specialists. When PCPs concentrate their specialist referrals?for instance, by sending their cardiology patients to fewer distinct cardiologists?repeat interactions between PCPs and specialists are encouraged. Repeated interactions provide more opportunities and incentives to develop productive team relationships. Using data from the Massachusetts All Payer Claims Database, we construct a new measure of PCP team referral concentration and document that it varies widely across PCPs, even among PCPs in the same organization. Chronically ill patients treated by PCPs with a one standard deviation higher team referral concentration have 4% lower healthcare utilization on average, with no discernible reduction in quality. We corroborate this finding using a national sample of Medicare claims and show that it holds under various identification strategies that account for observed and unobserved patient and physician characteristics. The results suggest that repeated PCP-specialist interactions improve team performance.This paper was accepted by Carri Chan, healthcare management.
+AB  - We examine the teams that emerge when a primary care physician (PCP) refers patients to specialists. When PCPs concentrate their specialist referrals?for instance, by sending their cardiology patients to fewer distinct cardiologists?repeat interactions between PCPs and specialists are encouraged. Repeated interactions provide more opportunities and incentives to develop productive team relationships. Using data from the Massachusetts All Payer Claims Database, we construct a new measure of PCP team referral concentration and document that it varies widely across PCPs, even among PCPs in the same organization. Chronically ill patients treated by PCPs with a one standard deviation higher team referral concentration have 4% lower healthcare utilization on average, with no discernible reduction in quality. We corroborate this finding using a national sample of Medicare claims and show that it holds under various identification strategies that account for observed and unobserved patient and physician characteristics. The results suggest that repeated PCP-specialist interactions improve team performance.This paper was accepted by Carri Chan, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4091
+UR  - https://doi.org/10.1287/mnsc.2021.4091
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Hidden Cost of Worker Turnover: Attributing Product Reliability to the Turnover of Factory Workers
+AU  - Moon, Ken
+AU  - Loyalka, Prashant
+AU  - Bergemann, Patrick
+AU  - Cohen, Joshua
+Y1  - 2022/03/14
+PY  - 2022
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2022.4311
+DO  - 10.1287/mnsc.2022.4311
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3755
+EP  - 3767
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Product reliability is a key concern for manufacturers. We examine worker turnover as a significant but underrecognized determinant of product reliability. Our study collects and integrates (1) data reporting factory worker staffing and turnover from within a major consumer electronics producer?s supply chain and (2) traceable data reporting the component quality and field failures?that is, replacements and repairs?of nearly 50 million consumer mobile devices over four years of customer usage. Devices are individually traced back to the factory conditions and staffing, down to the assembly line?week, under which they were produced. Despite the manufacturer?s extensive quality control efforts, including stringent testing, each percentage point increase in the weekly rate of workers quitting from an assembly line (its weekly worker turnover) is found to increase field failures by 0.74%?0.79%. In the high-turnover weeks following paydays, eventual field failures are strikingly 10.2% more common than for devices produced during the lowest turnover weeks immediately before paydays. In other weeks, the assembly lines experiencing higher turnover produce an estimated 2%?3% more field failures on average. The associated costs amount to hundreds of millions of U.S. dollars. We demonstrate that staffing and retaining a stable factory workforce critically underlies product reliability and showcase the value of traceability coupled with connected workplace and product data in supply chain operations.This paper was accepted by Charles Corbett, operations management.
+AB  - Product reliability is a key concern for manufacturers. We examine worker turnover as a significant but underrecognized determinant of product reliability. Our study collects and integrates (1) data reporting factory worker staffing and turnover from within a major consumer electronics producer?s supply chain and (2) traceable data reporting the component quality and field failures?that is, replacements and repairs?of nearly 50 million consumer mobile devices over four years of customer usage. Devices are individually traced back to the factory conditions and staffing, down to the assembly line?week, under which they were produced. Despite the manufacturer?s extensive quality control efforts, including stringent testing, each percentage point increase in the weekly rate of workers quitting from an assembly line (its weekly worker turnover) is found to increase field failures by 0.74%?0.79%. In the high-turnover weeks following paydays, eventual field failures are strikingly 10.2% more common than for devices produced during the lowest turnover weeks immediately before paydays. In other weeks, the assembly lines experiencing higher turnover produce an estimated 2%?3% more field failures on average. The associated costs amount to hundreds of millions of U.S. dollars. We demonstrate that staffing and retaining a stable factory workforce critically underlies product reliability and showcase the value of traceability coupled with connected workplace and product data in supply chain operations.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4311
+UR  - https://doi.org/10.1287/mnsc.2022.4311
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Shaming Microloan Delinquents: Evidence from a Field Experiment in China
+AU  - Bu, Di
+AU  - Liao, Yin
+Y1  - 2021/05/24
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4007
+DO  - 10.1287/mnsc.2021.4007
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3768
+EP  - 3790
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We study the effects of village credit information sharing on individual microloan repayment, using a randomized experiment with loan applicants from 40 villages in rural China. In our main treatment, customers received a message on the loan application form that ?overdue payment (40 days after each installment due date) will be considered for public disclosure among the village by showing debtors? names on a blackboard outside the village office of the microlending institution.? On average, this social appeal reduces the share of delinquents and the individual delinquency rate by 18.6% and 5.6% from baseline rates of 79.5% and 15.2%, respectively. The effects appear more pronounced among male and older borrowers. Additional treatments help to benchmark the effect against lender credit information sharing and separate the effects on adverse selection and moral hazard. Mechanism analysis shows that the publicly disclosed ?blacklist? of delinquents affects borrowers? repayment behaviors, partially through borrowers? fear of losing informal risk insurance from the village society and predominately through public shaming penalties. Overall, these results support that, in traditional societies, social appeals can provide not only pecuniary, but also psychological incentives to improve loan repayment. Psychological incentives, to some extent, have stronger effects.This paper was accepted by Gustavo Manso, finance.
+AB  - We study the effects of village credit information sharing on individual microloan repayment, using a randomized experiment with loan applicants from 40 villages in rural China. In our main treatment, customers received a message on the loan application form that ?overdue payment (40 days after each installment due date) will be considered for public disclosure among the village by showing debtors? names on a blackboard outside the village office of the microlending institution.? On average, this social appeal reduces the share of delinquents and the individual delinquency rate by 18.6% and 5.6% from baseline rates of 79.5% and 15.2%, respectively. The effects appear more pronounced among male and older borrowers. Additional treatments help to benchmark the effect against lender credit information sharing and separate the effects on adverse selection and moral hazard. Mechanism analysis shows that the publicly disclosed ?blacklist? of delinquents affects borrowers? repayment behaviors, partially through borrowers? fear of losing informal risk insurance from the village society and predominately through public shaming penalties. Overall, these results support that, in traditional societies, social appeals can provide not only pecuniary, but also psychological incentives to improve loan repayment. Psychological incentives, to some extent, have stronger effects.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4007
+UR  - https://doi.org/10.1287/mnsc.2021.4007
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Competition and Agency Problems Within Banks: Evidence from Insider Lending
+AU  - Girotti, Mattia
+AU  - Salvadè, Federica
+Y1  - 2021/05/27
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4043
+DO  - 10.1287/mnsc.2021.4043
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3791
+EP  - 3812
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - This paper studies whether greater competition can mitigate agency problems within banks. We measure the intensity of the agency conflict within a bank by the volume of loans that the bank lends to its insiders (e.g., executives). We first check that these loans are a form of private benefit. By exploiting interstate branching deregulation, we then show that banks react to greater competition by reducing insider lending, especially when the entry of new competitors may more strongly affect bank profitability. Results are robust to using various identification approaches and alternative indicators of agency conflict. We conclude that competitive pressure reduces managerial self-dealing.This paper was accepted by Gustavo Manso, finance.
+AB  - This paper studies whether greater competition can mitigate agency problems within banks. We measure the intensity of the agency conflict within a bank by the volume of loans that the bank lends to its insiders (e.g., executives). We first check that these loans are a form of private benefit. By exploiting interstate branching deregulation, we then show that banks react to greater competition by reducing insider lending, especially when the entry of new competitors may more strongly affect bank profitability. Results are robust to using various identification approaches and alternative indicators of agency conflict. We conclude that competitive pressure reduces managerial self-dealing.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4043
+UR  - https://doi.org/10.1287/mnsc.2021.4043
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Do Anti-discrimination Laws Affect Firm Performance and Financial Policies? Evidence from the Post-World War II Period
+AU  - Greene, Daniel
+AU  - Shenoy, Jaideep
+Y1  - 2021/07/13
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4057
+DO  - 10.1287/mnsc.2021.4057
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3813
+EP  - 3833
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We exploit the staggered passage of state-level fair-employment laws in the post-World War II period to examine how stronger worker protection against racial discrimination affects firm profitability and financing decisions. We find that firms experience a decline in operating profitability after the passage of anti-discrimination laws. We also document that the adoption of these laws leads to a reduction in debt ratios, which suggests that firms are able to partially offset the negative effects on operating profitability by adjusting their capital structure. Consistent with theoretical predictions, these effects of anti-discrimination laws are more pronounced for firms in states and cities with a greater proportion of African Americans, firms with high labor intensity, firms in states experiencing high African American migration, and firms in concentrated industries. Some of our evidence suggests that anti-discrimination laws lead to a reduction in statistical discrimination or monopsony power rather than taste-based discrimination. Taken together, our results are supportive of theoretical models of discrimination and show that racial discrimination laws significantly affect firm operating performance and financial policies.This paper was accepted by David Simchi-Levi, finance.
+AB  - We exploit the staggered passage of state-level fair-employment laws in the post-World War II period to examine how stronger worker protection against racial discrimination affects firm profitability and financing decisions. We find that firms experience a decline in operating profitability after the passage of anti-discrimination laws. We also document that the adoption of these laws leads to a reduction in debt ratios, which suggests that firms are able to partially offset the negative effects on operating profitability by adjusting their capital structure. Consistent with theoretical predictions, these effects of anti-discrimination laws are more pronounced for firms in states and cities with a greater proportion of African Americans, firms with high labor intensity, firms in states experiencing high African American migration, and firms in concentrated industries. Some of our evidence suggests that anti-discrimination laws lead to a reduction in statistical discrimination or monopsony power rather than taste-based discrimination. Taken together, our results are supportive of theoretical models of discrimination and show that racial discrimination laws significantly affect firm operating performance and financial policies.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4057
+UR  - https://doi.org/10.1287/mnsc.2021.4057
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Deposit Supply and Bank Transparency
+AU  - Jiang, Liangliang
+AU  - Levine, Ross
+AU  - Lin, Chen
+AU  - Xie, Wensi
+Y1  - 2021/08/02
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4012
+DO  - 10.1287/mnsc.2021.4012
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3834
+EP  - 3855
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Does a bank?s dependence on different external funding sources shape its voluntary disclosure of information? We evaluate whether economic shocks that increase the supply of bank deposits alter the cost?benefit calculations of bank managers concerning voluntary information disclosure. We measure information disclosure using 10-K filings, 8-K filings, and earnings guidance. As for the funding shock, we use unanticipated technological innovations that triggered shale development and booms in bank deposits. Further analyses suggest that greater exposure to shale development reduced information disclosure by relaxing the incentives for managers to disclose information to attract funds from external capital markets.This paper was accepted by Kay Giesecke, finance.
+AB  - Does a bank?s dependence on different external funding sources shape its voluntary disclosure of information? We evaluate whether economic shocks that increase the supply of bank deposits alter the cost?benefit calculations of bank managers concerning voluntary information disclosure. We measure information disclosure using 10-K filings, 8-K filings, and earnings guidance. As for the funding shock, we use unanticipated technological innovations that triggered shale development and booms in bank deposits. Further analyses suggest that greater exposure to shale development reduced information disclosure by relaxing the incentives for managers to disclose information to attract funds from external capital markets.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4012
+UR  - https://doi.org/10.1287/mnsc.2021.4012
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Hidden Role of Contract Terms: The Case of Credit Card Minimum Payments in Mexico
+AU  - Medina, Paolina C.
+AU  - Negrin, Jose L.
+Y1  - 2021/08/05
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4006
+DO  - 10.1287/mnsc.2021.4006
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3856
+EP  - 3877
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - This paper argues that thresholds in financial contracts act as implicit nudges in consumers? decisions. Exploiting a regulatory change to credit card minimum payments in Mexico, we find that a 1-percentage point change in minimum payments leads to a 0.87-percentage point change in actual payments, both expressed as a percentage of total balances. We decompose the effect of minimum payments into a constraining effect and a reference effect. The former captures the effect of minimum payments as a binding constraint and accounts for 59% of its total effect. The latter captures any remaining impact of changes in minimum payments beyond their constraining effect and represents 41% of the total. In turn, 67% of the reference effect is explained by the multiple heuristic: the tendency of consumers to pay whole-number multiples of the minimum payment.This paper was accepted by Kay Giesecke, finance.
+AB  - This paper argues that thresholds in financial contracts act as implicit nudges in consumers? decisions. Exploiting a regulatory change to credit card minimum payments in Mexico, we find that a 1-percentage point change in minimum payments leads to a 0.87-percentage point change in actual payments, both expressed as a percentage of total balances. We decompose the effect of minimum payments into a constraining effect and a reference effect. The former captures the effect of minimum payments as a binding constraint and accounts for 59% of its total effect. The latter captures any remaining impact of changes in minimum payments beyond their constraining effect and represents 41% of the total. In turn, 67% of the reference effect is explained by the multiple heuristic: the tendency of consumers to pay whole-number multiples of the minimum payment.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4006
+UR  - https://doi.org/10.1287/mnsc.2021.4006
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - History Matters: The Impact of Online Customer Reviews Across Product Generations
+AU  - Li, Linyi
+AU  - Gopinath, Shyam
+AU  - Carson, Stephen J.
+Y1  - 2021/07/02
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4061
+DO  - 10.1287/mnsc.2021.4061
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3878
+EP  - 3903
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - We examine how online customer reviews for one generation of a product affect sales of another generation in the same product series. The main intriguing result is that previous generation valence has a positive impact on current generation sales; however, current generation valence has a negative impact on previous generation sales. The positive impact of previous generation valence becomes even stronger (1) as the uncertainty (standard deviation) in reviews for the current generation increases and (2) when the current generation valence is high. In contrast, it becomes weaker (1) as the uncertainty in reviews for the previous generation increases and (2) when the current generation has been on the market for a longer period of time. Other results are discussed. Our data consist of intergenerational pairs of point-and-shoot cameras on the largest online seller of such devices, Amazon.com. We estimate the current and previous generation models jointly, allowing for errors to be clustered at the daily and product levels. In addition, we address endogeneity concerns over the online word of mouth measures by using instrumental variables.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - We examine how online customer reviews for one generation of a product affect sales of another generation in the same product series. The main intriguing result is that previous generation valence has a positive impact on current generation sales; however, current generation valence has a negative impact on previous generation sales. The positive impact of previous generation valence becomes even stronger (1) as the uncertainty (standard deviation) in reviews for the current generation increases and (2) when the current generation valence is high. In contrast, it becomes weaker (1) as the uncertainty in reviews for the previous generation increases and (2) when the current generation has been on the market for a longer period of time. Other results are discussed. Our data consist of intergenerational pairs of point-and-shoot cameras on the largest online seller of such devices, Amazon.com. We estimate the current and previous generation models jointly, allowing for errors to be clustered at the daily and product levels. In addition, we address endogeneity concerns over the online word of mouth measures by using instrumental variables.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4061
+UR  - https://doi.org/10.1287/mnsc.2021.4061
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Search and Discovery
+AU  - Greminger, Rafael P.
+Y1  - 2021/08/31
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4085
+DO  - 10.1287/mnsc.2021.4085
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3904
+EP  - 3924
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - This paper studies a search problem in which a consumer is initially aware of only a few products. At every point in time, the consumer then decides between searching among alternatives of which he is already aware and discovering more products. I show that the optimal policy for this search and discovery problem is fully characterized by tractable reservation values. Moreover, I prove that a predetermined index fully specifies the purchase decision of a consumer following the optimal search policy. Finally, a comparison highlights differences to classical random and directed search.This paper was accepted by Dmitri Kuksov, marketing.
+AB  - This paper studies a search problem in which a consumer is initially aware of only a few products. At every point in time, the consumer then decides between searching among alternatives of which he is already aware and discovering more products. I show that the optimal policy for this search and discovery problem is fully characterized by tractable reservation values. Moreover, I prove that a predetermined index fully specifies the purchase decision of a consumer following the optimal search policy. Finally, a comparison highlights differences to classical random and directed search.This paper was accepted by Dmitri Kuksov, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4085
+UR  - https://doi.org/10.1287/mnsc.2021.4085
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - When Do Associate Analysts Matter?
+AU  - Gao, Menghai
+AU  - Ji, Yuan
+AU  - Rozenbaum, Oded
+Y1  - 2021/08/31
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4056
+DO  - 10.1287/mnsc.2021.4056
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3925
+EP  - 3948
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Although extant literature investigates the role of sell-side equity analysts in capital markets, most studies do not consider that sell-side equity analysts often work in hierarchical teams. Lead analysts manage a team of associate and junior analysts who participate in the team?s tasks. Building on the delegation theory in the management literature, we hypothesize and find a division of labor between lead and associate analysts, where lead analysts are more likely to delegate tasks (1) that are less significant, (2) that are simpler, (3) when the workload of the lead analyst increases, and (4) when the associate analyst is more competent. Our results further suggest that associate analysts play a significant role in forecasting. By contrast, lead analysts are the main contributors to the qualitative aspects of analyst reports and are more likely to participate in earnings conference calls. Overall, our study documents the significant role of associate analysts in forecasting and the division of labor between lead and associate analysts.This paper was accepted by Brian Bushee, accounting.
+AB  - Although extant literature investigates the role of sell-side equity analysts in capital markets, most studies do not consider that sell-side equity analysts often work in hierarchical teams. Lead analysts manage a team of associate and junior analysts who participate in the team?s tasks. Building on the delegation theory in the management literature, we hypothesize and find a division of labor between lead and associate analysts, where lead analysts are more likely to delegate tasks (1) that are less significant, (2) that are simpler, (3) when the workload of the lead analyst increases, and (4) when the associate analyst is more competent. Our results further suggest that associate analysts play a significant role in forecasting. By contrast, lead analysts are the main contributors to the qualitative aspects of analyst reports and are more likely to participate in earnings conference calls. Overall, our study documents the significant role of associate analysts in forecasting and the division of labor between lead and associate analysts.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4056
+UR  - https://doi.org/10.1287/mnsc.2021.4056
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Crowd Classification Problem: Social Dynamics of Binary-Choice Accuracy
+AU  - Becker, Joshua Aaron
+AU  - Guilbeault, Douglas
+AU  - Smith, Edward Bishop
+Y1  - 2021/09/02
+PY  - 2021
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2021.4127
+DO  - 10.1287/mnsc.2021.4127
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3949
+EP  - 3965
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - Decades of research suggest that information exchange in groups and organizations can reliably improve judgment accuracy in tasks such as financial forecasting, market research, and medical decision making. However, we show that improving the accuracy of numeric estimates does not necessarily improve the accuracy of decisions. For binary-choice judgments, also known as classification tasks?for example, yes/no or build/buy decisions?social influence is most likely to grow the majority vote share, regardless of the accuracy of that opinion. As a result, initially, inaccurate groups become increasingly inaccurate after information exchange, even as they signal stronger support. We term this dynamic the ?crowd classification problem.? Using both a novel data set and a reanalysis of three previous data sets, we study this process in two types of information exchange: (1) when people share votes only, and (2) when people form and exchange numeric estimates prior to voting. Surprisingly, when people exchange numeric estimates prior to voting, the binary-choice vote can become less accurate, even as the average numeric estimate becomes more accurate. Our findings recommend against voting as a form of decision making when groups are optimizing for accuracy. For those cases where voting is required, we discuss strategies for managing communication to avoid the crowd classification problem. We close with a discussion of how our results contribute to a broader contingency theory of collective intelligence.This paper was accepted by Lamar Pierce, organizations.
+AB  - Decades of research suggest that information exchange in groups and organizations can reliably improve judgment accuracy in tasks such as financial forecasting, market research, and medical decision making. However, we show that improving the accuracy of numeric estimates does not necessarily improve the accuracy of decisions. For binary-choice judgments, also known as classification tasks?for example, yes/no or build/buy decisions?social influence is most likely to grow the majority vote share, regardless of the accuracy of that opinion. As a result, initially, inaccurate groups become increasingly inaccurate after information exchange, even as they signal stronger support. We term this dynamic the ?crowd classification problem.? Using both a novel data set and a reanalysis of three previous data sets, we study this process in two types of information exchange: (1) when people share votes only, and (2) when people form and exchange numeric estimates prior to voting. Surprisingly, when people exchange numeric estimates prior to voting, the binary-choice vote can become less accurate, even as the average numeric estimate becomes more accurate. Our findings recommend against voting as a form of decision making when groups are optimizing for accuracy. For those cases where voting is required, we discuss strategies for managing communication to avoid the crowd classification problem. We close with a discussion of how our results contribute to a broader contingency theory of collective intelligence.This paper was accepted by Lamar Pierce, organizations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4127
+UR  - https://doi.org/10.1287/mnsc.2021.4127
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Understanding Alpha Decay
+AU  - Pénasse, Julien
+Y1  - 2022/03/14
+PY  - 2022
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2022.4353
+DO  - 10.1287/mnsc.2022.4353
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 3966
+EP  - 3973
+VL  - 68
+IS  - 5
+PB  - INFORMS
+N2  - I study the importance of alpha decay for the measurement of realized and conditional expected returns in asset pricing studies. Alpha decay refers to the reduction in abnormal expected returns (relative to an asset pricing model) in response to an anomaly becoming widely known among market participants. As decreases in alpha are associated (ceteris paribus) with positive realized returns, the econometrician may misinterpret these repricing returns as evidence that the anomaly will persist in the future. Because alpha decay is generally a nonstationary phenomenon, asset pricing tests that impose stationarity may lead to biased inference. I illustrate the importance of alpha decay using the most commonly studied anomalies in the asset pricing literature and find that the measured alpha differs from the true alpha by about 1.4% per year. I provide a simple formula to correct for this bias and show how to incorporate alpha decay tests into the standard asset pricing toolkit.This paper was accepted by David Simchi-Levi, finance.
+AB  - I study the importance of alpha decay for the measurement of realized and conditional expected returns in asset pricing studies. Alpha decay refers to the reduction in abnormal expected returns (relative to an asset pricing model) in response to an anomaly becoming widely known among market participants. As decreases in alpha are associated (ceteris paribus) with positive realized returns, the econometrician may misinterpret these repricing returns as evidence that the anomaly will persist in the future. Because alpha decay is generally a nonstationary phenomenon, asset pricing tests that impose stationarity may lead to biased inference. I illustrate the importance of alpha decay using the most commonly studied anomalies in the asset pricing literature and find that the measured alpha differs from the true alpha by about 1.4% per year. I provide a simple formula to correct for this bias and show how to incorporate alpha decay tests into the standard asset pricing toolkit.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4353
+UR  - https://doi.org/10.1287/mnsc.2022.4353
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+N1  - doi: 10.1287/mnsc.2022.eb.v68n5
+DO  - 10.1287/mnsc.2022.eb.v68n5
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - v
+VL  - 68
+IS  - 5
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.eb.v68n5
+UR  - https://doi.org/10.1287/mnsc.2022.eb.v68n5
+Y2  - 2024/03/29
+ER  - 

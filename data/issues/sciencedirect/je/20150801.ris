@@ -1,0 +1,459 @@
+TY  - JOUR
+T1  - Smile from the past: A general option pricing framework with multiple volatility and leverage components
+AU  - Majewski, Adam A.
+AU  - Bormetti, Giacomo
+AU  - Corsi, Fulvio
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 521
+EP  - 531
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.036
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000615
+AB  - In the current literature, the analytical tractability of discrete time option pricing models is guaranteed only for rather specific types of models and pricing kernels. We propose a very general and fully analytical option pricing framework, encompassing a wide class of discrete time models featuring multiple-component structure in both volatility and leverage, and a flexible pricing kernel with multiple risk premia. Although the proposed framework is general enough to include either GARCH-type volatility, Realized Volatility or a combination of the two, in this paper we focus on realized volatility option pricing models by extending the Heterogeneous Autoregressive Gamma (HARG) model of Corsi et al. (2013) to incorporate heterogeneous leverage structures with multiple components, while preserving closed-form solutions for option prices. Applying our analytically tractable asymmetric HARG model to a large sample of S&P 500 index options, we demonstrate its superior ability to price out-of-the-money options compared to existing benchmarks.
+ER  - 
+
+TY  - JOUR
+T1  - Leverage and feedback effects on multifactor Wishart stochastic volatility for option pricing
+AU  - Asai, Manabu
+AU  - McAleer, Michael
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 436
+EP  - 446
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.029
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000548
+KW  - Multivariate stochastic volatility
+KW  - Wishart process
+KW  - Leverage effects
+KW  - Feedback effects
+KW  - Multifactor model
+KW  - Option pricing
+AB  - The paper proposes a general asymmetric multifactor Wishart stochastic volatility (AMWSV) diffusion process which accommodates leverage, feedback effects and multifactor for the covariance process. The paper gives the closed-form solution for the conditional and unconditional Laplace transform of the AMWSV models. The paper also suggests estimating the AMWSV model by the generalized method of moments using information not only of stock prices but also of realized volatilities and co-volatilities. The empirical results for the bivariate data of the NASDAQ 100 and S&P 500 indices show that the general AMWSV model is preferred among several nested models.
+ER  - 
+
+TY  - JOUR
+T1  - Quanto option pricing in the presence of fat tails and asymmetric dependence
+AU  - Kim, Young Shin
+AU  - Lee, Jaesung
+AU  - Mittnik, Stefan
+AU  - Park, Jiho
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 512
+EP  - 520
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000603
+KW  - Quanto option
+KW  - Multivariate normal tempered stable process
+KW  - Lévy process
+KW  - Black–Scholes option pricing
+KW  - Nikkei 225 dollar options
+AB  - We present an approach to pricing European quanto options assuming that the underlying instruments follow a multivariate normal tempered stable (NTS) process. This allows for both fat-tailedness and asymmetric dependence between the returns on the underlying asset and the exchange rate. In an empirical application, we estimate the market and risk-neutral parameters for a quanto construction involving the Nikkei 225 index, as the underlying asset, and the Japanese yen and the US dollar exchange rate. While the Gaussian model is clearly rejected by the data, the NTS model cannot be rejected at any reasonable level. A calibration exercise demonstrates that the prices implied by the estimated NTS and the conventional Gaussian models differ substantially, with the NTS model yielding a superior performance as it better reflects the tail properties of the instruments involved.
+ER  - 
+
+TY  - JOUR
+T1  - Market-based estimation of stochastic volatility models
+AU  - Aït-Sahalia, Yacine
+AU  - Amengual, Dante
+AU  - Manresa, Elena
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 418
+EP  - 435
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000536
+KW  - HJM approach
+KW  - Variance swaps
+KW  - Maximum likelihood estimation
+AB  - We propose a method for estimating stochastic volatility models by adapting the HJM approach to the case of volatility derivatives. We characterize restrictions that observed variance swap dynamics have to satisfy to prevent arbitrage opportunities. When the drift of variance swap rates are affine under the pricing measure, we obtain closed form expressions for those restrictions and formulas for forward variance curves. Using data on the S&P500 index and variance swap rates on different time to maturities, we find that linear mean-reverting one factor models provide inaccurate representation of the dynamics of the variance swap rates while two-factor models significantly outperform the former both in and out of sample.
+ER  - 
+
+TY  - JOUR
+T1  - Model-based pricing for financial derivatives
+AU  - Zhu, Ke
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 447
+EP  - 457
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.030
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761500055X
+KW  - NGARCH
+KW  - EGARCH and GJR models
+KW  - Non-normal innovation
+KW  - Option valuation
+KW  - Risk neutralized measure
+KW  - Volatility skew
+AB  - Assume that St is a stock price process and Bt is a bond price process with a constant continuously compounded risk-free interest rate, where both are defined on an appropriate probability space P. Let yt=log(St/St−1). yt can be generally decomposed into a conditional mean plus a noise with volatility components, but the discounted St is not a martingale under P. Under a general framework, we obtain a risk-neutralized measure Q under which the discounted St is a martingale in this paper. Using this measure, we show how to derive the risk neutralized price for the derivatives. Special examples, such as NGARCH, EGARCH and GJR pricing models, are given. Simulation study reveals that these pricing models can capture the “volatility skew” of implied volatilities in the European option. A small application highlights the importance of our model-based pricing procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Pricing with finite dimensional dependence
+AU  - Gourieroux, C.
+AU  - Monfort, A.
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 408
+EP  - 417
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000524
+KW  - Derivative pricing
+KW  - Term structure
+KW  - Predictor space
+KW  - Nonlinear state space
+KW  - Volatility swaps
+KW  - Finite dimensional dependence
+KW  - Linearity generating process
+AB  - We consider derivative pricing in factor models, where the factor is Markov with Finite Dimensional Dependence (FDD). The FDD condition allows for explicit formulas for derivative prices and their term structure and in this respect is a serious competitor of models with affine dynamic factors. The approach is illustrated by a comparison of the prices of realized and integrated volatility swaps. We show that the usual practice of replacing a payoff written on the realized volatility by the payoff written on the integrated volatility can imply pricing errors which are not negligible when the volatility of the volatility is large.
+ER  - 
+
+TY  - JOUR
+T1  - A non-linear dynamic model of the variance risk premium
+AU  - Eraker, Bjørn
+AU  - Wang, Jiakou
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 547
+EP  - 556
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.038
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000639
+KW  - VIX
+KW  - Semi-nonparametric diffusion
+KW  - VIX futures
+KW  - GMM
+KW  - MLE
+KW  - Non-linear asset pricing
+AB  - We propose a new class of non-linear diffusion processes for modeling financial markets data. Our non-linear diffusions are obtained as transformations of affine processes. We show that asset-pricing and estimation is possible and likelihood estimation is straightforward. We estimate a non-linear diffusion model for the VIX index under both the objective measure and the risk-neutral measure where the latter is obtained from futures prices. We find evidence of significant non-linearity under both measures. We define the difference between the P and Q drift as a measure of the variance risk premium and show that it has strong predictive power for stock returns.
+ER  - 
+
+TY  - JOUR
+T1  - The fine structure of equity-index option dynamics
+AU  - Andersen, Torben G.
+AU  - Bondarenko, Oleg
+AU  - Todorov, Viktor
+AU  - Tauchen, George
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 532
+EP  - 546
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000627
+KW  - High-frequency data
+KW  - Implied volatility
+KW  - Jump activity
+KW  - Kolmogorov–Smirnov test
+KW  - Stable process
+KW  - Stochastic volatility
+KW  - VIX index
+AB  - We analyze the high-frequency dynamics of S&P 500 equity-index option prices by constructing an assortment of implied volatility measures. This allows us to infer the underlying fine structure behind the innovations in the latent state variables driving the evolution of the volatility surface. In particular, we focus attention on implied volatilities covering a wide range of moneyness (strike/underlying stock price), which load differentially on the different latent state variables. We conduct a similar analysis for high-frequency observations on the VIX volatility index as well as on futures written on it. We find that the innovations over small time scales in the risk-neutral intensity of the negative jumps in the S&P 500 index, which is the dominant component of the short-maturity out-of-the-money put implied volatility dynamics, are best described via non-Gaussian shocks, i.e., jumps. On the other hand, the innovations over small time scales of the diffusive volatility, which is the dominant component in the short-maturity at-the-money option implied volatility dynamics, are best modeled as Gaussian with occasional jumps.
+ER  - 
+
+TY  - JOUR
+T1  - Option pricing with non-Gaussian scaling and infinite-state switching volatility
+AU  - Baldovin, Fulvio
+AU  - Caporin, Massimiliano
+AU  - Caraglio, Michele
+AU  - Stella, Attilio L.
+AU  - Zamparo, Marco
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 486
+EP  - 497
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000585
+KW  - Option pricing
+KW  - Anomalous scaling
+KW  - Markov switching
+KW  - GARCH
+AB  - Volatility clustering, long-range dependence, and non-Gaussian scaling are stylized facts of financial assets dynamics. They are ignored in the Black & Scholes framework, but have a relevant impact on the pricing of options written on financial assets. Using a recent model for market dynamics which adequately captures the above stylized facts, we derive closed form equations for option pricing, obtaining the Black & Scholes as a special case. By applying our pricing equations to a major equity index option dataset, we show that inclusion of stylized features in financial modelling moves derivative prices about 30% closer to the market values without the need of calibrating models parameters on available derivative prices.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrap score tests for fractional integration in heteroskedastic ARFIMA models, with an application to price dynamics in commodity spot and futures markets
+AU  - Cavaliere, Giuseppe
+AU  - Nielsen, Morten Ørregaard
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 557
+EP  - 579
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.039
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000640
+KW  - Bootstrap
+KW  - Efficient market hypothesis
+KW  - Fractional integration
+KW  - Score tests
+KW  - Spot and futures commodity prices
+KW  - Time-varying volatility
+AB  - Empirical evidence from time series methods which assume the usual I(0)/I(1) paradigm suggests that the efficient market hypothesis, stating that spot and futures prices of a commodity should co-integrate with a unit slope on futures prices, does not hold. However, these statistical methods are known to be unreliable if the data are fractionally integrated. Moreover, spot and futures price data tend to display clear patterns of time-varying volatility which also has the potential to invalidate the use of these methods. Using new tests constructed within a more general heteroskedastic fractionally integrated model we are able to find a body of evidence in support of the efficient market hypothesis for a number of commodities. Our new tests are wild bootstrap implementations of score-based tests for the order of integration of a fractionally integrated time series. These tests are designed to be robust to both conditional and unconditional heteroskedasticity of a quite general and unknown form in the shocks. We show that the asymptotic tests do not admit pivotal asymptotic null distributions in the presence of heteroskedasticity, but that the corresponding tests based on the wild bootstrap principle do. A Monte Carlo simulation study demonstrates that very significant improvements in finite sample behaviour can be obtained by the bootstrap vis-à-vis the corresponding asymptotic tests in both heteroskedastic and homoskedastic environments.
+ER  - 
+
+TY  - JOUR
+T1  - A stochastic dominance approach to financial risk management strategies
+AU  - Chang, Chia-Lin
+AU  - Jiménez-Martín, Juan-Ángel
+AU  - Maasoumi, Esfandiar
+AU  - Pérez-Amaral, Teodosio
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 472
+EP  - 485
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000573
+KW  - Stochastic dominance
+KW  - Value-at-Risk
+KW  - Daily capital charges
+KW  - Violation penalties
+KW  - Optimizing strategy
+KW  - Basel III Accord
+KW  - VIX futures
+KW  - Global financial crisis
+AB  - The Basel III Accord requires that banks and other Authorized Deposit-taking Institutions (ADIs) communicate their daily risk forecasts to the appropriate monetary authorities at the beginning of each trading day, using one of a range of alternative risk models to forecast Value-at-Risk (VaR). The risk estimates from these models are used to determine the daily capital charges (DCC) and associated capital costs of ADIs, depending in part on the number of previous violations, whereby realized losses exceed the estimated VaR. In this paper we define risk management in terms of choosing sensibly from a variety of risk models and discuss the optimal selection of the risk models. Previous approaches to model selection for predicting VaR proposed combining alternative risk models and ranking such models on the basis of average DCC, or other quantiles of its distribution. These methods are based on the first moment, or specific quantiles of the DCC distribution, and supported by restrictive evaluation functions. In this paper, we consider robust uniform rankings of models over large classes of loss functions that may reflect different weights and concerns over different intervals of the distribution of losses and DCC. The uniform rankings are based on recently developed statistical tests of stochastic dominance (SD). The SD tests are illustrated using the prices and returns of VIX futures. The empirical findings show that the tests of SD can rank different pairs of models to a statistical degree of confidence, and that the alternative (recentered) SD tests are in general agreement.
+ER  - 
+
+TY  - JOUR
+T1  - Stock return and cash flow predictability: The role of volatility risk
+AU  - Bollerslev, Tim
+AU  - Xu, Lai
+AU  - Zhou, Hao
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 458
+EP  - 471
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000561
+KW  - Return and dividend growth predictability
+KW  - Variance risk premium
+KW  - Equilibrium pricing
+KW  - Stochastic volatility and uncertainty
+KW  - ‘‘Structural” factor GARCH
+AB  - We examine the joint predictability of return and cash flow within a present value framework, by imposing the implications from a long-run risk model that allow for both time-varying volatility and volatility uncertainty. We provide new evidence that the expected return variation and the variance risk premium positively forecast both short-horizon returns and dividend growth rates. We also confirm that dividend yield positively forecasts long-horizon returns, but that it does not help in forecasting dividend growth rates. Our equilibrium-based “structural” factor GARCH model permits much more accurate inference than univariate regression procedures traditionally employed in the literature. The model also allows for the direct estimation of the underlying economic mechanisms, including a new volatility leverage effect, the persistence of the latent long-run growth component and the two latent volatility factors, as well as the contemporaneous impacts of the underlying “structural” shocks.
+ER  - 
+
+TY  - JOUR
+T1  - Econometric analysis of financial derivatives: An overview
+AU  - Chang, Chia-Lin
+AU  - McAleer, Michael
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 403
+EP  - 407
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000512
+KW  - Stochastic volatility
+KW  - Switching volatility
+KW  - Volatility risk
+KW  - Option pricing dynamics
+KW  - Futures prices
+KW  - Fractional integration
+KW  - Stochastic dominance
+KW  - Variance risk premium
+KW  - Fat tails
+KW  - Leverage and asymmetry
+KW  - Divided governments
+AB  - One of the fastest growing areas in empirical finance, and also one of the least rigorously analyzed, especially from a financial econometrics perspective, is the econometric analysis of financial derivatives, which are typically complicated and difficult to analyze. The purpose of this special issue of the journal on “Econometric Analysis of Financial Derivatives” is to highlight several areas of research by leading academics in which novel econometric, financial econometric, mathematical finance and empirical finance methods have contributed significantly to the econometric analysis of financial derivatives, including market-based estimation of stochastic volatility models, the fine structure of equity-index option dynamics, leverage and feedback effects in multifactor Wishart stochastic volatility for option pricing, option pricing with non-Gaussian scaling and infinite-state switching volatility, stock return and cash flow predictability: the role of volatility risk, the long and the short of the risk-return trade-off, what’s beneath the surface? option pricing with multifrequency latent states, bootstrap score tests for fractional integration in heteroskedastic ARFIMA models, with an application to price dynamics in commodity spot and futures markets, a stochastic dominance approach to financial risk management strategies, empirical evidence on the importance of aggregation, asymmetry, and jumps for volatility prediction, non-linear dynamic model of the variance risk premium, pricing with finite dimensional dependence, quanto option pricing in the presence of fat tails and asymmetric dependence, smile from the past: a general option pricing framework with multiple volatility and leverage components, COMFORT: A common market factor non-Gaussian returns model, divided governments and futures prices, and model-based pricing for financial derivatives.
+ER  - 
+
+TY  - JOUR
+T1  - Divided governments and futures prices
+AU  - Sojli, Elvira
+AU  - Tham, Wing Wah
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 622
+EP  - 633
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.043
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000688
+KW  - Divided government
+KW  - Elections
+KW  - Expected returns
+KW  - Policy uncertainty
+KW  - Prediction markets
+AB  - This paper investigates the effect of divided governments on asset prices. For identification, we use changes in the implied probability of a divided government while votes are being counted. Using high frequency data from the betting market and US overnight futures market, we estimate a 1.4% decrease in the S&P 500 futures in the election event of a divided government. Results are similar for the 2010 UK election. Further analysis shows that divided government affects expected stock returns through the mechanism of policy uncertainty.
+ER  - 
+
+TY  - JOUR
+T1  - Empirical evidence on the importance of aggregation, asymmetry, and jumps for volatility prediction
+AU  - Duong, Diep
+AU  - Swanson, Norman R.
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 606
+EP  - 621
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.042
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000676
+KW  - Realized volatility
+KW  - Jump power variations
+KW  - Downside risk
+KW  - Semivariances
+KW  - Market microstructure
+KW  - Volatility forecasts
+KW  - Jump test
+AB  - Many recent modeling advances in finance topics ranging from the pricing of volatility-based derivative products to asset management are predicated on the importance of jumps, or discontinuous movements in asset returns. In light of this, a number of recent papers have addressed volatility predictability, some from the perspective of the usefulness of jumps in forecasting volatility. Key papers in this area include Andersen et al. (2003), Corsi (2004), Andersen et al. (2007), Corsi et al. (2008), Barndorff et al. (2010), Patton and Shephard (2011), and the references cited therein. In this paper, we review the extant literature and then present new empirical evidence on the predictive content of realized measures of jump power variations (including upside and downside risk, jump asymmetry, and truncated jump variables), constructed using instantaneous returns, i.e., |rt|q,0≤q≤6 in the spirit of Ding et al. (1993) and Ding and Granger (1996). We also present new empirical evidence on the predictive content of realized measures of truncated large jump variations, constructed using truncated squared instantaneous return, i.e., rt2×I|rt|>γ, where γ is the threshold jump size. Our prediction experiments use high frequency price returns constructed using S&P500 futures data as well as stocks in the Dow 30, and our empirical implementation involves estimating linear and nonlinear heterogeneous autoregressive realized volatility (HAR-RV) type models. We find that past “large” jump power variations help less in the prediction of future realized volatility, than past “small” jump power variations. Additionally, we find evidence that past realized signed jump power variations, which have not previously been examined in this literature, are strongly correlated with future volatility, and that past downside jump variations matter in prediction. Finally, incorporation of downside and upside jump power variations does improve predictability, albeit to a limited extent.
+ER  - 
+
+TY  - JOUR
+T1  - COMFORT: A common market factor non-Gaussian returns model
+AU  - Paolella, Marc S.
+AU  - Polak, Paweł
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 593
+EP  - 605
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.041
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000664
+KW  - CCC
+KW  - Common jumps
+KW  - Density forecasting
+KW  - EM-algorithm
+KW  - Fat tails
+KW  - GARCH
+KW  - Multivariate asymmetric variance gamma distribution
+KW  - Multivariate generalized hyperbolic distribution
+KW  - Multivariate option pricing
+KW  - Stochastic volatility
+AB  - A new multivariate time series model with various attractive properties is motivated and studied. By extending the CCC model in several ways, it allows for all the primary stylized facts of financial asset returns, including volatility clustering, non-normality (excess kurtosis and asymmetry), and also dynamics in the dependency between assets over time. A fast EM-algorithm is developed for estimation. Each element of the vector return at time t is endowed with a common univariate shock, interpretable as a common market factor. This leads to the new model being a hybrid of GARCH and stochastic volatility, but without the estimation problems associated with the latter, and being applicable in the multivariate setting for potentially large numbers of assets. A feasible technique which allows for multivariate option pricing is presented, along with an empirical illustration.
+ER  - 
+
+TY  - JOUR
+T1  - What is beneath the surface? Option pricing with multifrequency latent states
+AU  - Calvet, Laurent E.
+AU  - Fearnley, Marcus
+AU  - Fisher, Adlai J.
+AU  - Leippold, Markus
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 498
+EP  - 511
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.034
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000597
+KW  - Markov-switching multifractal
+KW  - Particle filter
+KW  - Regime-switching
+KW  - Stochastic volatility
+KW  - Jump-risk premium
+KW  - Option pricing
+AB  - We introduce a tractable class of multi-factor price processes with regime-switching stochastic volatility and jumps, which flexibly adapt to changing market conditions and permit fast option pricing. A small set of structural parameters, whose dimension is invariant to the number of factors, fully specifies the joint dynamics of the underlying asset and options implied volatility surface. We develop a novel particle filter for efficiently extracting the latent state from joint S&P 500 returns and options data. The model outperforms standard benchmarks in- and out-of-sample, and remains robust even in the wake of seemingly large discontinuities such as the recent financial crisis.
+ER  - 
+
+TY  - JOUR
+T1  - The long and the short of the risk-return trade-off
+AU  - Bonomo, Marco
+AU  - Garcia, René
+AU  - Meddahi, Nour
+AU  - Tédongap, Roméo
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - 580
+EP  - 592
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2015.02.040
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000652
+KW  - Equilibrium asset pricing
+KW  - Time-aggregation
+KW  - Realized measures
+AB  - The relationship between conditional volatility and expected stock market returns, the so-called risk-return trade-off, has been studied at high- and low-frequency. We propose an asset pricing model with generalized disappointment aversion preferences and short- and long-run volatility risks that captures several stylized facts associated with the risk-return trade-off at short and long horizons. Writing the model in Bonomo et al. (2011) at the daily frequency, we aim at reproducing the moments of the variance premium and realized volatility, the long-run predictability of cumulative returns by the past cumulative variance, the short-run predictability of returns by the variance premium, as well as the daily autocorrelation patterns at many lags of the VIX and of the variance premium, and the daily cross-correlations of these two measures with leads and lags of daily returns. By keeping the same calibration as in this previous paper, we ensure that the model is capturing the first and second moments of the equity premium and the risk-free rate, and the predictability of returns by the dividend yield. Overall adding generalized disappointment aversion to the Kreps–Porteus specification improves the fit for both the short-run and the long-run risk-return trade-offs.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 187
+IS  - 2
+SP  - IFC
+PY  - 2015
+DA  - 2015/08/01/
+T2  - Econometric Analysis of Financial Derivatives
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00167-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615001670
+ER  - 

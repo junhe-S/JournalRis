@@ -1,0 +1,367 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Markovian Decision Processes with Probabilistic Observation of States
+AU  - Satia, J. K.
+AU  - Lave, R. E.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.1
+DO  - 10.1287/mnsc.20.1.1
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1
+EP  - 13
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - This is a study of finite state discrete time discounted Markovian decision process when the states are probabilistically observed. A model of this process is formulated, and an implicit enumeration algorithm is presented which optimizes the total expected discounted reward given the initial state. Several numerical examples are presented.
+AB  - This is a study of finite state discrete time discounted Markovian decision process when the states are probabilistically observed. A model of this process is formulated, and an implicit enumeration algorithm is presented which optimizes the total expected discounted reward given the initial state. Several numerical examples are presented.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.1
+UR  - https://doi.org/10.1287/mnsc.20.1.1
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Lot Size Models for Multi-Stage Assembly Systems
+AU  - Crowston, Wallace B.
+AU  - Wagner, Michael H.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.14
+DO  - 10.1287/mnsc.20.1.14
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 14
+EP  - 21
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - A multi-stage assembly system is a special case of Veinott's general multi-facility system in that each facility may have any number of predecessors but at most a single successor. This paper presents two algorithms for computing optimal lot sizes in such systems with known time-varying demand. The first is a dynamic programming algorithm for which solution time increases exponentially with the number of time periods, but only linearly with the number of stages, irrespective of assembly structure. The second is a branch and bound algorithm intended for cases where the number of time periods is large but the structure is close to serial. Computational results are given and extensions considered.
+AB  - A multi-stage assembly system is a special case of Veinott's general multi-facility system in that each facility may have any number of predecessors but at most a single successor. This paper presents two algorithms for computing optimal lot sizes in such systems with known time-varying demand. The first is a dynamic programming algorithm for which solution time increases exponentially with the number of time periods, but only linearly with the number of stages, irrespective of assembly structure. The second is a branch and bound algorithm intended for cases where the number of time periods is large but the structure is close to serial. Computational results are given and extensions considered.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.14
+UR  - https://doi.org/10.1287/mnsc.20.1.14
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Empirical Comparison of Models for Short Range Forecasting
+AU  - Groff, Gene K.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.22
+DO  - 10.1287/mnsc.20.1.22
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 22
+EP  - 31
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - Results of a simulation study of the short-range forecasting effectiveness of exponentially smoothed and selected Box-Jenkins models for sixty-three monthly sales series are presented. Brown's exponentially smoothed constant, linear and six- and eight-term harmonic models are compared with two seasonal factor models and ten Box-Jenkins models. The seasonal factor models are Winters' three parameter model and a single parameter model developed by the author. The forecasting errors of the best of the Box-Jenkins models that were tested are either approximately equal to or greater than the errors of the corresponding exponentially smoothed models. Test results indicate that the four exponentially smoothed seasonal models yield approximately equivalent accuracy for most data series. If a sharply defined pattern exists, the seasonal factor models can yield smaller forecast errors than the harmonic models. If no seasonal pattern exists, the errors of the exponentially smoothed models with seasonal components are only slightly greater than those of the constant and linear models.
+AB  - Results of a simulation study of the short-range forecasting effectiveness of exponentially smoothed and selected Box-Jenkins models for sixty-three monthly sales series are presented. Brown's exponentially smoothed constant, linear and six- and eight-term harmonic models are compared with two seasonal factor models and ten Box-Jenkins models. The seasonal factor models are Winters' three parameter model and a single parameter model developed by the author. The forecasting errors of the best of the Box-Jenkins models that were tested are either approximately equal to or greater than the errors of the corresponding exponentially smoothed models. Test results indicate that the four exponentially smoothed seasonal models yield approximately equivalent accuracy for most data series. If a sharply defined pattern exists, the seasonal factor models can yield smaller forecast errors than the harmonic models. If no seasonal pattern exists, the errors of the exponentially smoothed models with seasonal components are only slightly greater than those of the constant and linear models.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.22
+UR  - https://doi.org/10.1287/mnsc.20.1.22
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Deterministic Discrete Dynamic Programming with Discount Factor Greater than One: Structure of Optimal Policies
+AU  - Dirickx, Yvo M. I.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.32
+DO  - 10.1287/mnsc.20.1.32
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 32
+EP  - 43
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - The paper considers the deterministic dynamic programming model with discount factor greater than one. Possible applications are discussed. After the introduction of a suitable optimization criterion, it is shown that stationary policies are not necessarily optimal and that optimal finite horizon policies do not necessarily converge to an optimal infinite horizon policy. These difficulties are circumvented by the use of a special method, called asymptotic analysis, that allows for inductive arguments on finite horizon models. Asymptotic analysis yields the structure of optimal policies. An optimal policy will usually belong to a special class of history remembering policies.
+AB  - The paper considers the deterministic dynamic programming model with discount factor greater than one. Possible applications are discussed. After the introduction of a suitable optimization criterion, it is shown that stationary policies are not necessarily optimal and that optimal finite horizon policies do not necessarily converge to an optimal infinite horizon policy. These difficulties are circumvented by the use of a special method, called asymptotic analysis, that allows for inductive arguments on finite horizon models. Asymptotic analysis yields the structure of optimal policies. An optimal policy will usually belong to a special class of history remembering policies.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.32
+UR  - https://doi.org/10.1287/mnsc.20.1.32
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Another Look at the PERT Assumptions
+AU  - Kotiah, T. C. T.
+AU  - Wallace, N. D.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.44
+DO  - 10.1287/mnsc.20.1.44
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 44
+EP  - 49
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - A maximum entropy approach leads to a truncated normal distribution for the activity time in PERT analysis. Three different methods of fit are discussed, and a comparison with the standard assumption of a Beta distribution is made. The results suggest new ways of performing the PERT analysis.
+AB  - A maximum entropy approach leads to a truncated normal distribution for the activity time in PERT analysis. Three different methods of fit are discussed, and a comparison with the standard assumption of a Beta distribution is made. The results suggest new ways of performing the PERT analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.44
+UR  - https://doi.org/10.1287/mnsc.20.1.44
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Iterative Procedure for the Single-Machine Multi-Product Lot Scheduling Problem
+AU  - Doll, C. Loren
+AU  - Whybark, D. Clay
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.50
+DO  - 10.1287/mnsc.20.1.50
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 50
+EP  - 55
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - Most of the procedures that have been developed to find solutions to the single-machine, multi-product lot scheduling problem depend on judgment to define the desirable frequencies of production for the products. In this paper we describe an iterative procedure for directly determining near optimal frequencies of production for the products and the associated fundamental cycle time which, in many cases, can be used directly for constructing production schedules. In cases where feasible schedules cannot be constructed using the values from the iterative procedure, the procedure provides a basis for changing the production frequencies and the fundamental cycle time to obtain feasible schedules.
+AB  - Most of the procedures that have been developed to find solutions to the single-machine, multi-product lot scheduling problem depend on judgment to define the desirable frequencies of production for the products. In this paper we describe an iterative procedure for directly determining near optimal frequencies of production for the products and the associated fundamental cycle time which, in many cases, can be used directly for constructing production schedules. In cases where feasible schedules cannot be constructed using the values from the iterative procedure, the procedure provides a basis for changing the production frequencies and the fundamental cycle time to obtain feasible schedules.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.50
+UR  - https://doi.org/10.1287/mnsc.20.1.50
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Capacity Expansion and Specialization
+AU  - Kalotay, A. J.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.56
+DO  - 10.1287/mnsc.20.1.56
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 56
+EP  - 64
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - We consider a firm which is constrained to meet a growing demand for each of its two services. There are two types of equipment available to the firm: an expensive general-purpose equipment and a cheaper specialized equipment which could provide only one of the services. We assume that the ratio of the demands is independent of time and that identical scale-economies are offered in the cost of the equipments. We establish a lower bound for the present worth of the optimal policy in the case of linearly or exponentially growing demands, and determine the conditions under which the use of the specialized equipment is justified. We show that in the case of linearly growing demands the specialized equipment should eventually be used, while if the demands are growing exponentially this may not be the case.
+AB  - We consider a firm which is constrained to meet a growing demand for each of its two services. There are two types of equipment available to the firm: an expensive general-purpose equipment and a cheaper specialized equipment which could provide only one of the services. We assume that the ratio of the demands is independent of time and that identical scale-economies are offered in the cost of the equipments. We establish a lower bound for the present worth of the optimal policy in the case of linearly or exponentially growing demands, and determine the conditions under which the use of the specialized equipment is justified. We show that in the case of linearly growing demands the specialized equipment should eventually be used, while if the demands are growing exponentially this may not be the case.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.56
+UR  - https://doi.org/10.1287/mnsc.20.1.56
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Alternative Formulation of the Job Shop Problem with Due Dates
+AU  - Holloway, Charles A.
+AU  - Nelson, Rosser T.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.65
+DO  - 10.1287/mnsc.20.1.65
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 65
+EP  - 75
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - The classical formulation of the static job shop scheduling problem with job due dates implies that the question of interest to the manager is: What is the best that can be done to meet due dates with fixed resources? Here, two alternative formulations of the problem are proposed; one because of its practical appeal, the other because of its methodological appeal. The latter is used to develop a multi-pass heuristic scheduling procedure aimed at providing a practical tool for attacking any of the three formulations of the problem. This paper describes the basic structure of the scheduling procedure, the machine coding of a specific version of the procedure, and computational experience with a set of test problems ranging in size up to fourteen jobs and seven machines.
+AB  - The classical formulation of the static job shop scheduling problem with job due dates implies that the question of interest to the manager is: What is the best that can be done to meet due dates with fixed resources? Here, two alternative formulations of the problem are proposed; one because of its practical appeal, the other because of its methodological appeal. The latter is used to develop a multi-pass heuristic scheduling procedure aimed at providing a practical tool for attacking any of the three formulations of the problem. This paper describes the basic structure of the scheduling procedure, the machine coding of a specific version of the procedure, and computational experience with a set of test problems ranging in size up to fourteen jobs and seven machines.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.65
+UR  - https://doi.org/10.1287/mnsc.20.1.65
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Structural Control in a Graded Manpower System
+AU  - Davies, G. S.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.76
+DO  - 10.1287/mnsc.20.1.76
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 76
+EP  - 84
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - Control is exercised on the parameters of a Markov chain model for a graded manpower system, and the effects on the structure of the system are examined. Questions of attainability and maintainability of structures are discussed for both fixed size and expanding systems. Examples are presented to illustrate the theory.
+AB  - Control is exercised on the parameters of a Markov chain model for a graded manpower system, and the effects on the structure of the system are examined. Questions of attainability and maintainability of structures are discussed for both fixed size and expanding systems. Examples are presented to illustrate the theory.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.76
+UR  - https://doi.org/10.1287/mnsc.20.1.76
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Imbedding Approach to Additive Value Zero-One Problems
+AU  - White, D. J.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.85
+DO  - 10.1287/mnsc.20.1.85
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 85
+EP  - 100
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - Existing approaches to the determination of the parameters for zero-one additive value functions can involve a large amount of work. This paper considers an alternative imbedding approach which allows the parameters to be determined to within an error range 1/K within K steps. In considering the method itself specific elements of theory are developed relating to the existence of additive values for imbedding sets X · Y*, X · ? where X is a subset of zero-one vectors, Y* is a countable subset of numbers in the range ?∞ < y < ∞, and ? is a connected open interval of the range ?∞ < y < ∞. In seeking further approximation methods, it is necessary to investigate properties of the component value, u(·) over Y* and ?. The coefficients of the zero-one variables are shown to be unique for Y* once two values have been preset. Under certain circumstances it can be demonstrated that a continuous u(·) over ? exists, and that considerable variations in u(·) may be compatible with the specified preference structures, although in special circumstances u(·) is unique over ?.
+AB  - Existing approaches to the determination of the parameters for zero-one additive value functions can involve a large amount of work. This paper considers an alternative imbedding approach which allows the parameters to be determined to within an error range 1/K within K steps. In considering the method itself specific elements of theory are developed relating to the existence of additive values for imbedding sets X · Y*, X · ? where X is a subset of zero-one vectors, Y* is a countable subset of numbers in the range ?∞ < y < ∞, and ? is a connected open interval of the range ?∞ < y < ∞. In seeking further approximation methods, it is necessary to investigate properties of the component value, u(·) over Y* and ?. The coefficients of the zero-one variables are shown to be unique for Y* once two values have been preset. Under certain circumstances it can be demonstrated that a continuous u(·) over ? exists, and that considerable variations in u(·) may be compatible with the specified preference structures, although in special circumstances u(·) is unique over ?.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.85
+UR  - https://doi.org/10.1287/mnsc.20.1.85
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - N-Job, One Machine Sequencing Problems Under Uncertainty
+AU  - Blau, Roger A.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.101
+DO  - 10.1287/mnsc.20.1.101
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 101
+EP  - 109
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - N jobs simultaneously arrive at a machine where they are to be processed. It is assumed that the processing times and due dates for the jobs are independent random variables whose distributions are known. The problem is to determine the optimal sequences of jobs, before processing begins, for various criteria of tardiness. It is shown that solutions are obtainable by ascertaining the optimal paths through a particular deterministic network. Furthermore, one may utilize a branch and bound technique to find these paths. For special classes of distributions, the solution procedure degenerates, whereby the optimal sequences may be determined by inspection.
+AB  - N jobs simultaneously arrive at a machine where they are to be processed. It is assumed that the processing times and due dates for the jobs are independent random variables whose distributions are known. The problem is to determine the optimal sequences of jobs, before processing begins, for various criteria of tardiness. It is shown that solutions are obtainable by ascertaining the optimal paths through a particular deterministic network. Furthermore, one may utilize a branch and bound technique to find these paths. For special classes of distributions, the solution procedure degenerates, whereby the optimal sequences may be determined by inspection.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.101
+UR  - https://doi.org/10.1287/mnsc.20.1.101
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Planning Horizons for Production Smoothing with Deterministic Demands
+AU  - Kunreuther, Howard C.
+AU  - Morton, Thomas E.
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.110
+DO  - 10.1287/mnsc.20.1.110
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 110
+EP  - 125
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - In Part I of this paper, we develop an algorithm for finding planning horizons for the deterministic production smoothing problem when all demand must be met from regular production, under rather general assumptions for the production, production smoothing, and holding cost functions. (In Part II, planning horizons will be developed when the model is extended to include backlogging and overtime.) The techniques developed here are essentially forward-looking and marginal-cost-balancing in nature, rather than total-cost-minimizing and backward-looking such as dynamic programming, or total-cost-minimizing and omni-looking in nature such as linear programming. The fact that the planning horizon theorems do not depend on having discount rates less than one illustrates that the approach developed here is fundamentally different from ordinary infinite horizon dynamic programming techniques. The algorithm is ?user oriented? in the sense that only a small amount of forecasting work and computation ordinarily must be done to determine the horizon; the nature of the algorithm also makes the exact dependence of the horizon on the forecast clear for sensitivity analysis. Firms facing a seasonal demand pattern will often find that the horizon occurs within the first several periods after the peak period if there is a sufficient enough drop in demand afterwards. This result complements the findings of Modigliani and Hohn and provides insight into the nature of the optimal policy for stochastic planning problems.
+AB  - In Part I of this paper, we develop an algorithm for finding planning horizons for the deterministic production smoothing problem when all demand must be met from regular production, under rather general assumptions for the production, production smoothing, and holding cost functions. (In Part II, planning horizons will be developed when the model is extended to include backlogging and overtime.) The techniques developed here are essentially forward-looking and marginal-cost-balancing in nature, rather than total-cost-minimizing and backward-looking such as dynamic programming, or total-cost-minimizing and omni-looking in nature such as linear programming. The fact that the planning horizon theorems do not depend on having discount rates less than one illustrates that the approach developed here is fundamentally different from ordinary infinite horizon dynamic programming techniques. The algorithm is ?user oriented? in the sense that only a small amount of forecasting work and computation ordinarily must be done to determine the horizon; the nature of the algorithm also makes the exact dependence of the horizon on the forecast clear for sensitivity analysis. Firms facing a seasonal demand pattern will often find that the horizon occurs within the first several periods after the peak period if there is a sufficient enough drop in demand afterwards. This result complements the findings of Modigliani and Hohn and provides insight into the nature of the optimal policy for stochastic planning problems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.110
+UR  - https://doi.org/10.1287/mnsc.20.1.110
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On Characterizing the Extrema of a Function of Two Variables, One of Which is Discrete
+AU  - Kumin, Hillel
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.126
+DO  - 10.1287/mnsc.20.1.126
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 126
+EP  - 129
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - This research was motivated by design problems in queueing theory where the objective function is composed of a discrete variable and a continuous variable. Sufficient conditions are developed such that any local minimum of such an objective function is also a global minimum. A two-parameter design problem associated with an M/Ek/1 system is used as an example to show how the conditions are utilized.
+AB  - This research was motivated by design problems in queueing theory where the objective function is composed of a discrete variable and a continuous variable. Sufficient conditions are developed such that any local minimum of such an objective function is also a global minimum. A two-parameter design problem associated with an M/Ek/1 system is used as an example to show how the conditions are utilized.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.126
+UR  - https://doi.org/10.1287/mnsc.20.1.126
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Note—A Note on Least Squares Fitting of Functions Constrained to be Either Nonnegative, Nondecreasing or Convex
+AU  - Dent, Warren
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.130
+DO  - 10.1287/mnsc.20.1.130
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 130
+EP  - 132
+VL  - 20
+IS  - 1
+PB  - INFORMS
+N2  - Hudson [Hudson, D. J. Least-squares fitting of a polynomial constrained to be either non-negative, non-decreasing or convex. J. R. Statist. Soc. B. 31 113?118.] has described a complicated algorithm for least-squares fitting of polynomials constrained to be either nonnegative, nondecreasing, or convex. Alternate quadratic programming formulations which approximate general functions (not necessarily polynomials) by polygonal segmentation are presented here. The technique is simpler, more general and of wider applicability than that proposed of Hudson.
+AB  - Hudson [Hudson, D. J. Least-squares fitting of a polynomial constrained to be either non-negative, non-decreasing or convex. J. R. Statist. Soc. B. 31 113?118.] has described a complicated algorithm for least-squares fitting of polynomials constrained to be either nonnegative, nondecreasing, or convex. Alternate quadratic programming formulations which approximate general functions (not necessarily polynomials) by polygonal segmentation are presented here. The technique is simpler, more general and of wider applicability than that proposed of Hudson.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.130
+UR  - https://doi.org/10.1287/mnsc.20.1.130
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Notes About Authors
+Y1  - 1973/09/01
+PY  - 1973
+DA  - 1973/09/01
+N1  - doi: 10.1287/mnsc.20.1.133
+DO  - 10.1287/mnsc.20.1.133
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 133
+EP  - 135
+VL  - 20
+IS  - 1
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.1.133
+UR  - https://doi.org/10.1287/mnsc.20.1.133
+Y2  - 2024/03/27
+ER  - 

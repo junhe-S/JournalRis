@@ -1,0 +1,641 @@
+
+TY  - JOUR
+T1  - Inductive Inference: An Axiomatic Approach
+AU  - Gilboa, Itzhak
+AU  - Schmeidler, David
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00388
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 1
+EP  - 26
+VL  - 71
+IS  - 1
+KW  - case–based reasoning
+KW  - case–based decision theory
+KW  - prediction
+KW  - maximum likelihood
+KW  - kernel functions
+KW  - kernel classification
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00388
+Y2  - 2024/03/26
+N2  - A predictor is asked to rank eventualities according to their plausibility, based on past cases. We assume that she can form a ranking given any memory that consists of finitely many past cases. Mild consistency requirements on these rankings imply that they have a numerical representation via a matrix assigning numbers to eventuality?case pairs, as follows. Given a memory, each eventuality is ranked according to the sum of the numbers in its row, over cases in memory. The number attached to an eventuality?case pair can be interpreted as the degree of support that the past case lends to the plausibility of the eventuality. Special instances of this result may be viewed as axiomatizing kernel methods for estimation of densities and for classification problems. Interpreting the same result for rankings of theories or hypotheses, rather than of specific eventualities, it is shown that one may ascribe to the predictor subjective conditional probabilities of cases given theories, such that her rankings of theories agree with rankings by the likelihood functions.
+ER  - 
+
+TY  - JOUR
+T1  - A Structural Model of Government Formation
+AU  - Diermeier, Daniel
+AU  - Eraslan, Hülya
+AU  - Merlo, Antonio
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00389
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 27
+EP  - 70
+VL  - 71
+IS  - 1
+KW  - political stability
+KW  - bargaining
+KW  - coalitions
+KW  - government formation
+KW  - government dissolution
+KW  - comparative constitutional design
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00389
+Y2  - 2024/03/26
+N2  - In this paper we estimate a bargaining model of government formation in parliamentary democracies. We use the estimated structural model to conduct constitutional experiments aimed at evaluating the impact of institutional features of the political environment on the duration of the government formation process, the type of coalitions that form, and their relative stability.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent Tests for Stochastic Dominance
+AU  - Barrett, Garry F.
+AU  - Donald, Stephen G.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00390
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 71
+EP  - 104
+VL  - 71
+IS  - 1
+KW  - stochastic dominance
+KW  - test consistency
+KW  - simulation
+KW  - bootstrap
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00390
+Y2  - 2024/03/26
+N2  - Methods are proposed for testing stochastic dominance of any pre?specified order, with primary interest in the distributions of income. We consider consistent tests, that are similar to Kolmogorov?Smirnov tests, of the complete set of restrictions that relate to the various forms of stochastic dominance. For such tests, in the case of tests for stochastic dominance beyond first order, we propose and justify a variety of approaches to inference based on simulation and the bootstrap. We compare these approaches to one another and to alternative approaches based on multiple comparisons in the context of a Monte Carlo experiment and an empirical example.
+ER  - 
+
+TY  - JOUR
+T1  - Disclosures and Asset Returns
+AU  - Song Shin, Hyun
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00391
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 105
+EP  - 133
+VL  - 71
+IS  - 1
+KW  - disclosure games
+KW  - residual uncertainty
+KW  - binomial trees
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00391
+Y2  - 2024/03/26
+N2  - Public information in financial markets often arrives through the disclosures of interested parties who have a material interest in the reactions of the market to the new information. When the strategic interaction between the sender and the receiver is formalized as a disclosure game with verifiable reports, equilibrium prices can be given a simple characterization in terms of the concatenation of binomial pricing trees. There are a number of empirical implications. The theory predicts that the return variance following a poor disclosed outcome is higher than it would have been if the disclosed outcome were good. Also, when investors are risk averse, this leads to negative serial correlation of asset returns. Other points of contact with the empirical literature are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Inferential Theory for Factor Models of Large Dimensions
+AU  - Bai, Jushan
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00392
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 135
+EP  - 171
+VL  - 71
+IS  - 1
+KW  - approximate factor models
+KW  - principal components
+KW  - common components
+KW  - large model analysis
+KW  - large data sets
+KW  - data–rich environment
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00392
+Y2  - 2024/03/26
+N2  - This paper develops an inferential theory for factor models of large dimensions. The principal components estimator is considered because it is easy to compute and is asymptotically equivalent to the maximum likelihood estimator (if normality is assumed). We derive the rate of convergence and the limiting distributions of the estimated factors, factor loadings, and common components. The theory is developed within the framework of large cross sections (N) and a large time dimension (T), to which classical factor analysis does not apply. We show that the estimated common components are asymptotically normal with a convergence rate equal to the minimum of the square roots of N and T. The estimated factors and their loadings are generally normal, although not always so. The convergence rate of the estimated factors and factor loadings can be faster than that of the estimated common components. These results are obtained under general conditions that allow for correlations and heteroskedasticities in both dimensions. Stronger results are obtained when the idiosyncratic errors are serially uncorrelated and homoskedastic. A necessary and sufficient condition for consistency is derived for large N but fixed T.
+ER  - 
+
+TY  - JOUR
+T1  - Bubbles and Crashes
+AU  - Abreu, Dilip
+AU  - Brunnermeier, Markus K.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00393
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 173
+EP  - 204
+VL  - 71
+IS  - 1
+KW  - bubbles
+KW  - crashes
+KW  - temporal coordination
+KW  - synchronization
+KW  - market timing
+KW  - ‘overreaction’
+KW  - limits to arbitrage
+KW  - behavioral finance
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00393
+Y2  - 2024/03/26
+N2  - We present a model in which an asset bubble can persist despite the presence of rational arbitrageurs. The resilience of the bubble stems from the inability of arbitrageurs to temporarily coordinate their selling strategies. This synchronization problem together with the individual incentive to time the market results in the persistence of bubbles over a substantial period. Since the derived trading equilibrium is unique, our model rationalizes the existence of bubbles in a strong sense. The model also provides a natural setting in which news events, by enabling synchronization, can have a disproportionate impact relative to their intrinsic informational content.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric Engel Curves and Revealed Preference
+AU  - Blundell, Richard W.
+AU  - Browning, Martin
+AU  - Crawford, Ian A.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00394
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 205
+EP  - 240
+VL  - 71
+IS  - 1
+KW  - consumer demands
+KW  - nonparametric regression
+KW  - revealed preference
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00394
+Y2  - 2024/03/26
+N2  - This paper applies revealed preference theory to the nonparametric statistical analysis of consumer demand. Knowledge of expansion paths is shown to improve the power of nonparametric tests of revealed preference. The tightest bounds on indifference surfaces and welfare measures are derived using an algorithm for which revealed preference conditions are shown to guarantee convergence. Nonparametric Engel curves are used to estimate expansion paths and provide a stochastic structure within which to examine the consistency of household level data and revealed preference theory. An application is made to a long time series of repeated cross?sections from the Family Expenditure Survey for Britain. The consistency of these data with revealed preference theory is examined. For periods of consistency with revealed preference, tight bounds are placed on true cost of living indices.
+ER  - 
+
+TY  - JOUR
+T1  - Fully Nonparametric Estimation of Scalar Diffusion Models
+AU  - Bandi, Federico M.
+AU  - Phillips, Peter C. B.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00395
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 241
+EP  - 283
+VL  - 71
+IS  - 1
+KW  - diffusion
+KW  - drift
+KW  - local time
+KW  - martingale
+KW  - nonparametric estimation
+KW  - semimartingale
+KW  - stochastic differential equation
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00395
+Y2  - 2024/03/26
+N2  - We propose a functional estimation procedure for homogeneous stochastic differential equations based on a discrete sample of observations and with minimal requirements on the data generating process. We show how to identify the drift and diffusion function in situations where one or the other function is considered a nuisance parameter. The asymptotic behavior of the estimators is examined as the observation frequency increases and as the time span lengthens. We prove almost sure consistency and weak convergence to mixtures of normal laws, where the mixing variates depend on the chronological local time of the underlying diffusion process, that is the random time spent by the process in the vicinity of a generic spatial point. The estimation method and asymptotic results apply to both stationary and nonstationary recurrent processes.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in Arch and Garch Models with Heavy–Tailed Errors
+AU  - Hall, Peter
+AU  - Yao, Qiwei
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00396
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 285
+EP  - 317
+VL  - 71
+IS  - 1
+KW  - autoregression
+KW  - bootstrap
+KW  - dependent data
+KW  - domain of attraction
+KW  - financial data
+KW  - limit theory
+KW  - percentile–t bootstrap
+KW  - quasi–maximum likelihood
+KW  - semiparametric inference
+KW  - stable law
+KW  - studentize
+KW  - subsample bootstrap
+KW  - time series
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00396
+Y2  - 2024/03/26
+N2  - ARCH and GARCH models directly address the dependency of conditional second moments, and have proved particularly valuable in modelling processes where a relatively large degree of fluctuation is present. These include financial time series, which can be particularly heavy tailed. However, little is known about properties of ARCH or GARCH models in the heavy?tailed setting, and no methods are available for approximating the distributions of parameter estimators there. In this paper we show that, for heavy?tailed errors, the asymptotic distributions of quasi?maximum likelihood parameter estimators in ARCH and GARCH models are nonnormal, and are particularly difficult to estimate directly using standard parametric methods. Standard bootstrap methods also fail to produce consistent estimators. To overcome these problems we develop percentile?t, subsample bootstrap approximations to estimator distributions. Studentizing is employed to approximate scale, and the subsample bootstrap is used to estimate shape. The good performance of this approach is demonstrated both theoretically and numerically.
+ER  - 
+
+TY  - JOUR
+T1  - Equivalence Scales Reconsidered
+AU  - Ebert, Udo
+AU  - Moyes, Patrick
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00397
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 319
+EP  - 343
+VL  - 71
+IS  - 1
+KW  - heterogeneous households
+KW  - equivalent income function
+KW  - size adjusting function
+KW  - equivalence scales
+KW  - Lorenz dominance
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00397
+Y2  - 2024/03/26
+N2  - The paper proposes a new and normative approach for adjusting households? incomes in order to account for the heterogeneity of needs across income recipients when measuring inequality and welfare. We derive the implications for the structure of the adjustment method of two conditions concerned with the way the ranking of situations is modified by a change in the reference household type and by more equally distributed living standards across households. Our results suggest that concern for greater equality in living standards conflicts with the basic welfarist principle of symmetrical treatment of individuals that is at the core of the standard equivalence scale approach.
+ER  - 
+
+TY  - JOUR
+T1  - Randomization, Communication, and Efficiency in Repeated Games with Imperfect Public Monitoring
+AU  - Michihiro, Kandori
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00398
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 345
+EP  - 353
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00398
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Micro–Level Estimation of Poverty and Inequality
+AU  - Elbers, Chris
+AU  - Lanjouw, Jean O.
+AU  - Lanjouw, Peter
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00399
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 355
+EP  - 364
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00399
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Consumption–Savings Decisions with Quasi–Geometric Discounting
+AU  - Krusell, Per
+AU  - Smith, Jr., Anthony A.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00400
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 365
+EP  - 375
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00400
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - The Influence of Var Dimensions on Estimator Biases: Comment
+AU  - Doornik, Jurgen A.
+AU  - Nielsen, Bent
+AU  - Rothenberg, Thomas J.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00401
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 377
+EP  - 383
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00401
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Rejoinder to Comment by Doornik, Nielsen, and Rothenberg
+AU  - Abadir, Karim M.
+AU  - Hadri, Kaddour
+AU  - Tzavalis, Elias
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00402
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 385
+EP  - 386
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00402
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Contracts when Enforcement is a Decision Variable: A Comment
+AU  - Sharma, Tridib
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00403
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 387
+EP  - 390
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00403
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Contracts when Enforcement is a Decision Variable: A Reply
+AU  - Krasa, Stefan
+AU  - Villamil, Anne P.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00404
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 391
+EP  - 393
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00404
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Tests for Parameter Instability and Structural Change with Unknown Change Point: A Corrigendum
+AU  - Andrews, Donald W. K.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00405
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 395
+EP  - 397
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00405
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - The Determinants of Econometric Society Fellows Elections
+AU  - Hamermesh, Daniel S.
+AU  - Schmidt, Peter
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00406
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 399
+EP  - 407
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00406
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Announcements
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.t01-1-00407
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 409
+EP  - 414
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.t01-1-00407
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Nomination of Fellows and News Notes
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.t01-1-00408
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 415
+EP  - 416
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.t01-1-00408
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Report of the Secretary
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00409
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 417
+EP  - 425
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00409
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Report of the Treasurer
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00410
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 427
+EP  - 434
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00410
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Report of the Editors 2001–2002
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00411
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 435
+EP  - 437
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00411
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Econometrica Referees 2001–2002
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00412
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 439
+EP  - 444
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00412
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - The Econometric Society Research Monograph Series Report of the Editors
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00413
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 445
+EP  - 446
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00413
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Submission of Manuscripts to the Econometric Society Monograph Series
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.00414
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 447
+EP  - 447
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.00414
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Submission of Manuscripts to Econometrica
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+DO  - https://doi.org/10.1111/1468-0262.t01-2-00416
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+SP  - 448
+EP  - 448
+VL  - 71
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.1111/1468-0262.t01-2-00416
+Y2  - 2024/03/26
+ER  - 

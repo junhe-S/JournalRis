@@ -1,0 +1,242 @@
+TY  - JOUR
+T1  - Bounds on distributional treatment effect parameters using panel data with an application on job displacement
+AU  - Callaway, Brantly
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 861
+EP  - 881
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302839
+KW  - Joint distribution of potential outcomes
+KW  - Distribution of the treatment effect
+KW  - Quantile of the treatment effect
+KW  - Copula stability assumption
+KW  - Panel data
+KW  - Job displacement
+AB  - This paper develops new techniques to bound distributional treatment effect parameters that depend on the joint distribution of potential outcomes — an object not identified by standard identifying assumptions such as selection on observables or even when treatment is randomly assigned. I show that panel data and an additional assumption on the dependence between untreated potential outcomes for the treated group over time (i) provide more identifying power for distributional treatment effect parameters than existing bounds and (ii) provide a more plausible set of conditions than existing methods that obtain point identification. I apply these bounds to study heterogeneity in the effect of job displacement during the Great Recession. Using standard techniques, I find that workers who were displaced during the Great Recession lost on average 34% of their earnings relative to their counterfactual earnings had they not been displaced. Using the methods developed in the current paper, I also show that the average effect masks substantial heterogeneity across workers.
+ER  - 
+
+TY  - JOUR
+T1  - Simple and trustworthy cluster-robust GMM inference
+AU  - Hwang, Jungbin
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 993
+EP  - 1023
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.048
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303043
+KW  - Two-step GMM
+KW  - Heteroskedasticity and autocorrelation robust
+KW  - Clustered dependence
+KW  -  distribution
+KW  -  distribution
+AB  - This paper develops a new asymptotic theory for GMM estimation and inference in the presence of clustered dependence. The key feature of our alternative asymptotics is that the number of clusters G is regarded as fixed as the sample size increases. Under the fixed-G asymptotics, we show that the Wald and t tests in two-step GMM are asymptotically pivotal only if we recenter the estimated moment process in the clustered covariance estimator (CCE). Also, the J statistic, the trinity of two-step GMM statistics (QLR, LM, and Wald), and the t statistic can be modified to have an asymptotic standard F distribution or t distribution. We suggest a finite-sample variance correction to further improve the accuracy of the F and t approximations. The proposed tests are very appealing to practitioners because the test statistics are simple modifications of conventional GMM test statistics, and critical values are readily available from F and t tables. No further simulations or resampling methods are needed. A Monte Carlo study shows that our proposed tests are more accurate than the conventional large-G asymptotic inferences.
+ER  - 
+
+TY  - JOUR
+T1  - A weighted sieve estimator for nonparametric time series models with nonstationary variables
+AU  - Dong, Chaohua
+AU  - Linton, Oliver
+AU  - Peng, Bin
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 909
+EP  - 932
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303079
+KW  - Nonparametric regression
+KW  - Nonstationary variable
+KW  - Sieve estimation
+KW  - Stationary variable
+KW  - Time trend
+KW  - Unbounded support
+KW  - Weighted least squares
+AB  - We study a class of nonparametric regression models that includes deterministic time trends and both stationary and nonstationary stochastic processes (whose shocks are allowed to be mutually correlated). We propose a unified approach to estimation based on the weighted sieve method to tackle the issue of unbounded support of the covariates. This approach improves on the existing technology in terms of some key regularity conditions such as moment conditions and the α-mixing coefficients for the stationary process. We establish self-normalized central limit theorems for the sieve estimator and other related quantities. Monte Carlo simulation confirms the theoretical results. We use our methodology to study the effect of CO2 and solar irradiance on global sea level rise.
+ER  - 
+
+TY  - JOUR
+T1  - Time-varying model averaging
+AU  - Sun, Yuying
+AU  - Hong, Yongmiao
+AU  - Lee, Tae-Hwy
+AU  - Wang, Shouyang
+AU  - Zhang, Xinyu
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 974
+EP  - 992
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303067
+KW  - Asymptotic optimality
+KW  - Forecast combination
+KW  - Local stationarity
+KW  - Model averaging
+KW  - Structural change
+KW  - Time-varying model averaging
+AB  - Structural changes often occur in economics and finance due to changes in preferences, technologies, institutional arrangements, policies, crises, etc. Improving forecast accuracy of economic time series with structural changes is a long-standing problem. Model averaging aims at providing an insurance against selecting a poor forecast model. All existing model averaging approaches in the literature are designed with constant (non-time-varying) combination weights. Little attention has been paid to time-varying model averaging, which is more realistic in economics under structural changes. This paper proposes a novel model averaging estimator which selects optimal time-varying combination weights by minimizing a local jackknife criterion. It is shown that the proposed time-varying jackknife model averaging (TVJMA) estimator is asymptotically optimal in the sense of achieving the lowest possible local squared error loss in a class of time-varying model averaging estimators. Under a set of regularity assumptions, the TVJMA estimator is Th-consistent. A simulation study and an empirical application highlight the merits of the proposed TVJMA estimator relative to a variety of popular estimators with constant model averaging weights and model selection.
+ER  - 
+
+TY  - JOUR
+T1  - Bounding the difference between true and nominal rejection probabilities in tests of hypotheses about instrumental variables models
+AU  - Horowitz, Joel L.
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 1057
+EP  - 1082
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303353
+KW  - Instrumental variables
+KW  - Normal approximation
+KW  - Finite-sample bounds
+AB  - This paper presents a simple method for carrying out inference in a wide variety of possibly nonlinear IV models under weak assumptions. The method provides a finite-sample bound on the difference between the true and nominal probabilities of rejecting a correct null hypothesis. The method is a non-Studentized version of the S test of Stock and Wright (2000) but is implemented and analyzed differently. It does not require restrictive distributional assumptions, linearity of the estimated model, simultaneous equations, or information about whether the instruments are strong or weak. It can be applied to quantile IV models that may be nonlinear and can be used to test a parametric IV model against a nonparametric alternative. It provides information about the relation between the “degree of weakness” of the instruments and the power of the test. The bound presented here holds in finite samples, regardless of the strength of the instruments.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - ii
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00106-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001068
+ER  - 
+
+TY  - JOUR
+T1  - Limit theorems for network dependent random variables
+AU  - Kojevnikov, Denis
+AU  - Marmer, Vadim
+AU  - Song, Kyungchul
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 882
+EP  - 908
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302402
+KW  - Network dependence
+KW  - Random fields
+KW  - Central limit theorem
+KW  - Networks
+KW  - Law of large numbers
+KW  - Cross-sectional dependence
+KW  - Spatial processes
+AB  - This paper is concerned with cross-sectional dependence arising because observations are interconnected through an observed network. Following (Doukhan and Louhichi, 1999), we measure the strength of dependence by covariances of nonlinearly transformed variables. We provide a law of large numbers and central limit theorem for network dependent variables. We also provide a method of calculating standard errors robust to general forms of network dependence. For that purpose, we rely on a network heteroskedasticity and autocorrelation consistent (HAC) variance estimator, and show its consistency. The results rely on conditions characterized by tradeoffs between the rate of decay of dependence across a network and network’s denseness. Our approach can accommodate data generated by network formation models, random fields on graphs, conditional dependency graphs, and large functional-causal systems of equations.
+ER  - 
+
+TY  - JOUR
+T1  - Uncovering heterogeneous social effects in binary choices
+AU  - Lin, Zhongjian
+AU  - Tang, Xun
+AU  - Yu, Ning Neil
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 959
+EP  - 973
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303080
+KW  - Heterogeneous social effect
+KW  - Peer effect
+KW  - Exclusion restriction
+KW  - Binary choice
+KW  - Volunteering
+AB  - We identify and estimate heterogeneous social effects within groups of individuals that make binary choices. These heterogeneous social effects, which include peer and contextual effects, are modeled through unobserved influence matrices that summarize how the members within each group affect each other’s outcomes. We recover parameters in social effects as well as the unknown influence matrices by exploiting how these matrices are linked to the reduced-form effects of multiple characteristics. Monte Carlo experiments show that a nested fixed-point maximum-likelihood estimator for the social effects has good finite-sample performance. Using a new dataset, we analyze how college roommates influence each other’s decisions to participate in volunteering activities. Our estimates reveal substantial heterogeneity in the social effects among these students.
+ER  - 
+
+TY  - JOUR
+T1  - A Bayesian robust chi-squared test for testing simple hypotheses
+AU  - Doğan, Osman
+AU  - Taşpınar, Süleyman
+AU  - Bera, Anil K.
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 933
+EP  - 958
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.046
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303018
+KW  - Decision theory
+KW  - Chi-squared test
+KW  - LM test
+KW  - Robust LM test
+KW  - Bayesian inference
+KW  - MCMC
+AB  - In this paper, we introduce a new Bayesian chi-squared test based on an adjusted quadratic loss function for testing a simple null hypothesis. We show that the asymptotic null distribution of our suggested test is a central chi-squared distribution under some assumptions required for the Bayesian large sample theory. We refer to our test as the Bayesian robust chi-squared test, since it is robust to parametric misspecification in the alternative model. That is, the limiting null distribution of our test is a central chi-squared distribution irrespective of parametric misspecification in the alternative model. In addition to being robust to parametric misspecification, our test also shares properties of the test suggested by Li et al. (2015) based on a quadratic loss function. We provide four examples to illustrate the implementation of our suggested Bayesian test statistic.
+ER  - 
+
+TY  - JOUR
+T1  - Valid inference for treatment effect parameters under irregular identification and many extreme propensity scores
+AU  - Heiler, Phillip
+AU  - Kazak, Ekaterina
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 1083
+EP  - 1108
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303377
+KW  - Inverse probability weighting
+KW  - Irregular identification
+KW  - Propensity score
+KW  - Stable distribution
+KW  - Treatment effect
+AB  - This paper provides a framework for conducting valid inference for causal parameters without imposing strong variance or support restrictions on the propensity score. In particular, it covers the case of irregularly identified treatment effect parameters. We provide limit theorems for inverse probability weighting and doubly robust estimation of causal or counterfactual parameters that do not rely on trimming approaches. By construction the limiting distributions of these estimators belong to the alpha-stable class which implies that standard inference methods such as the nonparametric bootstrap are inconsistent. We propose an adaptive version of the m-out-of-n bootstrap that is robust to all types of identification and a bootstrap aggregation method for the optimal m choice. Monte Carlo simulations suggest that the modified resampling method compares favorably to conventional methods in finite samples. The method is applied to a re-analysis of the causal impact of right heart catheterization on survival rates.
+ER  - 
+
+TY  - JOUR
+T1  - Solving Euler equations via two-stage nonparametric penalized splines
+AU  - Cui, Liyuan
+AU  - Hong, Yongmiao
+AU  - Li, Yingxing
+JO  - Journal of Econometrics
+VL  - 222
+IS  - 2
+SP  - 1024
+EP  - 1056
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.042
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302323
+KW  - Euler equation
+KW  - Nonparametric penalized splines
+KW  - Two-stage regression
+KW  - Return predictability
+KW  - Implied price–dividend ratios
+AB  - This study proposes a novel estimation-based approach to solving asset pricing models for both stationary and time-varying observations. Our method is robust to misspecification errors while inheriting a closed-form solution. By representing the Euler equation into a well-posed integral equation of the second kind, we propose a penalized two-stage nonparametric estimation method and establish its optimal convergence under mild conditions. With the merit of penalized splines, our estimate is less sensitive to the spline setting and we also design a fast data-driven algorithm to effectively tune the key smoother, i.e. the penalty amount. Our approach exhibits excellent finite sample performance. Using the US data from 1947 to 2017, we reinvestigate the return predictability and find that the estimated implied dividend yield significantly predicts lower future cash flows and higher interest rates at short horizons.
+ER  - 

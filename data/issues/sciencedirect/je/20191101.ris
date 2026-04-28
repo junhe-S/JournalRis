@@ -1,0 +1,338 @@
+TY  - JOUR
+T1  - What do mean impacts miss? Distributional effects of corporate diversification
+AU  - Xiao, Zhijie
+AU  - Xu, Lan
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 92
+EP  - 120
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300624
+KW  - Corporate diversification
+KW  - Panel data
+KW  - Quantile regression
+KW  - Treatment heterogeneity
+AB  - Corporate diversification is one of the most debated topics in finance over the past two decades. While it is widely believed that there exists a discount in the stock market valuation of conglomerate firms, the extant research based on least squares methods points to different directions. We argue that the existing empirical analyses ignore some important data features, especially cross sectional heterogeneity, predicted by both theories and casual observations on corporate diversification, and thus cannot provide a complete picture of the diversification discount. Using a quantile regression analysis on U.S. public firms, we investigate the importance of heterogeneity of diversification as well as other firm characteristics. Estimated quantile treatment effects exhibit substantial heterogeneity as predicted. Thus mean impacts miss a great deal. We also tie back differences in the effect of diversification in high-valued and low-valued firms to observable agency characteristics; the most interesting finding is that CEOs seem to play vastly different roles in high-valued and low-valued firms. We conclude that the effect of diversification is likely more varied and more extensive than has been recognized.
+ER  - 
+
+TY  - JOUR
+T1  - Smoothed GMM for quantile models
+AU  - de Castro, Luciano
+AU  - Galvao, Antonio F.
+AU  - Kaplan, David M.
+AU  - Liu, Xin
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 121
+EP  - 144
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300636
+KW  - Instrumental variables
+KW  - Nonlinear quantile regression
+KW  - Quantile utility maximization
+AB  - We consider estimation of finite-dimensional parameters identified by general conditional quantile restrictions, including instrumental variables quantile regression. Within a generalized method of moments framework, moment functions are smoothed to aid both computation and precision. Consistency and asymptotic normality are established under weaker assumptions than previously seen in the literature, allowing dependent data and nonlinear structural models. Simulations illustrate the finite-sample properties. An in-depth empirical application estimates the consumption Euler equation derived from quantile utility maximization. Advantages of quantile Euler equations include robustness to fat tails, decoupling risk attitude from the elasticity of intertemporal substitution, and error-free log-linearization.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic inference for the constrained quantile regression process
+AU  - Parker, Thomas
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 174
+EP  - 189
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930065X
+KW  - Quantile regression
+KW  - Inequality constraints
+KW  - Asymptotic inference
+AB  - I investigate the asymptotic distribution of linear quantile regression coefficient estimates when the parameter lies on the boundary of the parameter space. In order to allow for inferences made across many conditional quantiles, I provide a uniform characterization of constrained quantile regression estimates as a stochastic process over an interval of quantile levels. To do this I pose the process of estimates as solutions to a parameterized family of constrained optimization problems, parameterized by quantile level. A uniform characterization of the dual solution to these problems – the so-called regression rankscore process – is also derived, which can be used for score-type inference in quantile regression. The asymptotic behavior of quasi-likelihood ratio, Wald and regression rankscore processes for inference when the null hypothesis asserts that the parameters lie on a boundary follows from the features of the constrained solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile-regression-based clustering for panel data
+AU  - Zhang, Yingying
+AU  - Wang, Huixia Judy
+AU  - Zhu, Zhongyi
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 54
+EP  - 67
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300600
+KW  - Fixed effects
+KW  - Heterogeneity
+KW  - Panel data
+KW  - Quantile regression
+KW  - Subgroup identification
+AB  - In panel data analysis, it is important to identify subgroups of units with heterogeneous parameters. This can not only increase the model flexibility but also produce more efficient estimation by pooling information across units within the same group. In this paper, we propose a new quantile-regression-based clustering method for panel data. We develop an iterative algorithm using a similar idea of k-means clustering to identify subgroups with heterogeneous slopes at a single quantile level or across multiple quantiles. The asymptotic properties of the group membership estimator and corresponding group-specific slope estimator are established. The finite sample performance of the proposed method is assessed through simulation and the analysis of an economic growth data.
+ER  - 
+
+TY  - JOUR
+T1  - Panel data quantile regression with grouped fixed effects
+AU  - Gu, Jiaying
+AU  - Volgushev, Stanislav
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 68
+EP  - 91
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300612
+AB  - This paper introduces estimation methods for grouped latent heterogeneity in panel data quantile regression. We assume that the observed individuals come from a heterogeneous population with a finite number of types. The number of types and group membership is not assumed to be known in advance and is estimated by means of a convex optimization problem. We provide conditions under which group membership is estimated consistently and establish asymptotic normality of the resulting estimators. Simulations show that the method works well in finite samples when T is reasonably large.
+ER  - 
+
+TY  - JOUR
+T1  - Quantiles via moments
+AU  - Machado, José A.F.
+AU  - Santos Silva, J.M.C.
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 145
+EP  - 173
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300648
+KW  - Endogeneity
+KW  - Fixed effects
+KW  - Linear heteroskedasticity
+KW  - Location-scale model
+KW  - Quantile regression
+AB  - We study the conditions under which it is possible to estimate regression quantiles by estimating conditional means. The advantage of this approach is that it allows the use of methods that are only valid in the estimation of conditional means, while still providing information on how the regressors affect the entire conditional distribution. The methods we propose are not meant to replace the well-established quantile regression estimator, but provide an additional tool that can allow the estimation of regression quantiles in settings where otherwise that would be difficult or even impossible. We consider two settings in which our approach can be particularly useful: panel data models with individual effects and models with endogenous explanatory variables. Besides presenting the estimator and establishing the regularity conditions needed for valid inference, we perform a small simulation experiment, present two simple illustrative applications, and discuss possible extensions.
+ER  - 
+
+TY  - JOUR
+T1  - Edgeworth’s time series model: Not AR(1) but same covariance structure
+AU  - Portnoy, Stephen
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 281
+EP  - 288
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300703
+KW  - Edgeworth process
+KW  - AR(1)
+KW  - Model diagnostics
+KW  - Counterexample
+AB  - In an 1886 paper, Edgeworth developed a method for simulating time series processes with substantial dependence. A version of this process with normal errors has the same means and covariance structure as an AR(1) process, but is actually a mixture of a very large number of processes, some of which are not stationary. That is, joint distributions of lag 3 or greater are not normal but are mixtures of normals (even though all successive pairs are bivariate normal). Thus, it serves as a cautionary example for time series analysis: though the AR(1) process cannot be distinguished from the Edgeworth Process by second order properties, inferences based on an AR(1) assumption can fail under the Edgeworth model. This model has many additional surprising features, among which is that it has Markov structure, but is not generated by a one-step transition operator.
+ER  - 
+
+TY  - JOUR
+T1  - Review of median stable distributions and Schröder’s equation
+AU  - Bassett, Gib
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 289
+EP  - 295
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300715
+KW  - Median stable distributions
+KW  - Schröder’s functional equation
+AB  - Median stable distributions are an extension of traditional (mean) stable distributions. The traditional definition of stability (in terms of sums of iid random variables) is recast as a condition on the sampling distribution of an estimator. For the traditional (mean) stable distribution, the sample mean’s (rescaled) sampling distribution is identical to the distribution of the iid data. Median stable distributions are defined similarly by replacing the sample mean with the sample median. Since the sampling distribution of the median is a functional its stable distribution is the solution to a functional equation. It turns out that this defining functional equation is an instance of a famous equation due to Schröder from 1870. The fame of the equation is due to the way it incorporates iteration of functions, a key feature of what many years later would become dynamic systems analysis. The current paper reviews median stable distributions in light of its connection to Schröder’s functional equation.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - ii
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30193-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301939
+ER  - 
+
+TY  - JOUR
+T1  - Penalized sieve GEL for weighted average derivatives of nonparametric quantile IV regressions
+AU  - Chen, Xiaohong
+AU  - Pouzo, Demian
+AU  - Powell, James L.
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 30
+EP  - 53
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300594
+KW  - Nonparametric quantile instrumental variables
+KW  - Weighted average derivatives
+KW  - Penalized sieve generalized empirical likelihood
+KW  - Semiparametric efficiency
+KW  - Chi-square inference
+AB  - This paper considers estimation and inference for a weighted average derivative (WAD) of a nonparametric quantile instrumental variables regression (NPQIV). NPQIV is a non-separable and nonlinear ill-posed inverse problem, which might be why there is no published work on the asymptotic properties of any estimator of its WAD. We first characterize the semiparametric efficiency bound for a WAD of a NPQIV, which, unfortunately, depends on an unknown conditional derivative operator and hence an unknown degree of ill-posedness, making it difficult to know if the information bound is singular or not. In either case, we propose a penalized sieve generalized empirical likelihood (GEL) estimation and inference procedure, which is based on the unconditional WAD moment restriction and an increasing number of unconditional moments that are implied by the conditional NPQIV restriction, where the unknown quantile function is approximated by a penalized sieve. Under some regularity conditions, we show that the self-normalized penalized sieve GEL estimator of the WAD of a NPQIV is asymptotically standard normal. We also show that the quasi likelihood ratio statistic based on the penalized sieve GEL criterion is asymptotically chi-square distributed regardless of whether or not the information bound is singular.
+ER  - 
+
+TY  - JOUR
+T1  - Placebo inference on treatment effects when the number of clusters is small
+AU  - Hagemann, Andreas
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 190
+EP  - 209
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300661
+KW  - Cluster-robust inference
+KW  - Randomization
+KW  - Permutation
+AB  - I introduce a general, Fisher-style randomization testing framework to conduct nearly exact inference about the lack of effect of a binary treatment in the presence of very few, large clusters when the treatment effect is identified across clusters. The proposed randomization test formalizes and extends the intuitive notion of generating null distributions by assigning placebo treatments to untreated clusters. I show that under simple and easily verifiable conditions, the placebo test leads to asymptotically valid inference in a very large class of empirically relevant models. Examples discussed explicitly are (i) least squares regression with cluster-level treatment, (ii) difference-in-differences estimation, and (iii) binary choice models with cluster-level treatment. A simulation study and an empirical example are provided. The proposed inference procedure is easy to implement and performs well with as few as three treated and three untreated clusters.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile regression
+AU  - Chernozhukov, Victor
+AU  - Galvao, Antonio F.
+AU  - He, Xuming
+AU  - Xiao, Zhijie
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 1
+EP  - 3
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300570
+ER  - 
+
+TY  - JOUR
+T1  - Conditional quantile processes based on series or many regressors
+AU  - Belloni, Alexandre
+AU  - Chernozhukov, Victor
+AU  - Chetverikov, Denis
+AU  - Fernández-Val, Iván
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 4
+EP  - 29
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300582
+KW  - Quantile regression
+KW  - Series
+KW  - Strong approximation
+KW  - Coupling
+KW  - Bootstrap
+KW  - Uniform inference
+KW  - Quantile process
+AB  - Quantile regression (QR) is a principal regression method for analyzing the impact of covariates on outcomes. The impact is described by the conditional quantile function and its functionals. In this paper we develop the nonparametric QR-series framework, covering many regressors as a special case, for performing inference on the entire conditional quantile function and its linear functionals. In this framework, we approximate the entire conditional quantile function by a linear combination of series terms with quantile-specific coefficients and estimate the function-valued coefficients from the data. We develop large sample theory for the QR-series coefficient process, namely we obtain uniform strong approximations to the QR-series coefficient process by conditionally pivotal and Gaussian processes. Based on these two strong approximations, or couplings, we develop four resampling methods (pivotal, gradient bootstrap, Gaussian, and weighted bootstrap) that can be used for inference on the entire QR-series coefficient function. We apply these results to obtain estimation and inference methods for linear functionals of the conditional quantile function, such as the conditional quantile function itself, its partial derivatives, average partial derivatives, and conditional average partial derivatives. Specifically, we obtain uniform rates of convergence and show how to use the four resampling methods mentioned above for inference on the functionals. All of the above results are for function-valued parameters, holding uniformly in both the quantile index and the covariate value, and covering the pointwise case as a by-product. We demonstrate the practical utility of these results with an empirical example, where we estimate the price elasticity function and test the Slutsky condition of the individual demand for gasoline, as indexed by the individual unobserved propensity for gasoline consumption.
+ER  - 
+
+TY  - JOUR
+T1  - Predictive quantile regressions under persistence and conditional heteroskedasticity
+AU  - Fan, Rui
+AU  - Lee, Ji Hyung
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 261
+EP  - 280
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300697
+KW  - -mixing process
+KW  - Conditional heteroskedasticity
+KW  - Moving block bootstrap
+KW  - Predictive regression
+KW  - Quantile regression
+AB  - This paper provides an improved inference for predictive quantile regressions with persistent predictors and conditionally heteroskedastic errors. The confidence intervals based on conventional quantile regression techniques are not valid when predictors are highly persistent. Moreover, the conditional heteroskedasticity introduces rather complicated nuisance parameters in the limit theory, whose estimation errors can be another source of distortion. We propose a size-corrected bootstrap inference thereby avoiding the nuisance parameter estimation. The bootstrap consistency is shown even with the nonstationary predictors and conditionally heteroskedastic innovations. Monte Carlo simulation confirms the significantly better test size performances of the new methods. The empirical exercises on stock return quantile predictability are revisited.
+ER  - 
+
+TY  - JOUR
+T1  - Partial identification of the treatment effect distribution and its functionals
+AU  - Firpo, Sergio
+AU  - Ridder, Geert
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 210
+EP  - 234
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300673
+KW  - Distribution of treatment effects
+KW  - Bounds
+AB  - In the treatment effect problem, the available information is on the marginal distributions of potential outcomes, but not on their joint distribution. The only point identified functional of the treatment effect distribution is its average, the average treatment effect (ATE). Quantiles and other functionals of the distribution of treatment effect are only partially identified. Bounds on a single quantile and on the cumulative distribution function (c.d.f.) in a single point are sharp (Makarov bounds). We show that bounds on functionals of the quantile process that use Makarov bounds are not sharp, because the Makarov bounds are pointwise, but not uniformly sharp. This allows us to propose improved bounds on functionals of the c.d.f. As an intermediate result, we find that the Makarov bounds on the region that contains the c.d.f. of the treatment effect distribution in a finite number of points can be improved. We provide numerical illustrations throughout the paper permitting a clear visualization of how the method works.
+ER  - 
+
+TY  - JOUR
+T1  - On the predictive risk in misspecified quantile regression
+AU  - Giessing, Alexander
+AU  - He, Xuming
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 1
+SP  - 235
+EP  - 260
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Annals: In Honor of Roger Koenker
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300685
+KW  - Quantile regression
+KW  - Misspecification
+KW  - Predictive risk
+KW  - Expected optimism
+AB  - In the present paper we investigate the predictive risk of possibly misspecified quantile regression functions. The in-sample risk is well-known to be an overly optimistic estimate of the predictive risk and we provide two relatively simple (asymptotic) characterizations of the associated bias, also called expected optimism. We propose estimates for the expected optimism and the predictive risk, and establish their uniform consistency under mild conditions. Our results hold for models of moderately growing size and allow the quantile function to be incorrectly specified. Empirical evidence from our estimates is encouraging as it compares favorably with cross-validation.
+ER  - 

@@ -1,0 +1,167 @@
+TY  - JOUR
+T1  - Determining the MSE-optimal cross section to forecast
+AU  - Arbués, Ignacio
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - 61
+EP  - 70
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000602
+KW  - Forecasting
+KW  - Model selection
+KW  - VARMA models
+AB  - In this paper, we address the question of which subset of time series should be selected among a given set in order to forecast another series. We evaluate the quality of the forecasts in terms of Mean Squared Error. We propose a family of criteria to estimate the optimal subset. Consistency results are proved, both in the weak (in probability) and strong (almost sure) sense. We present the results of a Monte Carlo experiment and a real data example in which the criteria are compared to some hypothesis tests such as the ones by Diebold and Mariano (1995), Clark and McCracken, 2001, Clark and McCracken, 2007 and Giacomini and White (2006).
+ER  - 
+
+TY  - JOUR
+T1  - Panel unit root tests in the presence of a multifactor error structure
+AU  - Pesaran, M. Hashem
+AU  - Vanessa Smith, L.
+AU  - Yamagata, Takashi
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - 94
+EP  - 115
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000353
+KW  - Panel unit root tests
+KW  - Cross section dependence
+KW  - Multifactor error structure
+KW  - Fisher inflation parity
+KW  - Real equity prices
+AB  - This paper extends the cross-sectionally augmented panel unit root test (CIPS) proposed by Pesaran (2007) to the case of a multifactor error structure, and proposes a new panel unit root test based on a simple average of cross-sectionally augmented Sargan–Bhargava statistics (CSB). The basic idea is to exploit information regarding the m unobserved factors that are shared by k observed time series in addition to the series under consideration. Initially, we develop the tests assuming that m0, the true number of factors, is known and show that the limit distribution of the tests does not depend on any nuisance parameters, so long as k≥m0−1. Small sample properties of the tests are investigated by Monte Carlo experiments and are shown to be satisfactory. Particularly, the proposed CIPS and CSB tests have the correct size for all combinations of the cross section (N) and time series (T) dimensions considered. The power of both tests rises with N and T, although the CSB test performs better than the CIPS test for smaller sample sizes. The various testing procedures are illustrated with empirical applications to real interest rates and real equity prices across countries.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and N-consistent estimation of a nonlinear panel data model with correlated unobserved effects
+AU  - Gayle, Wayne-Roy
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - 71
+EP  - 83
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000584
+KW  - Correlated random effects
+KW  - Single index
+KW  - Semiparametric
+KW  - Panel data
+KW  - Predetermined
+KW  - Lagged dependent variables
+AB  - This paper investigates identification and root-n-consistent estimation of a class of single-index panel data models in which the link function is unknown, the unobserved individual effects may be correlated with all the explanatory variables, and all the explanatory variables may be predetermined. We propose two sets of sufficient conditions, one in which link function is assumed to be strictly increasing, and the other in which it is not. We propose simple kernel-based estimators for the models, and derive consistency and asymptotic normality results for the proposed estimators. Finally, we present results of two Monte Carlo studies of the estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Methods for computing marginal data densities from the Gibbs output
+AU  - Fuentes-Albero, Cristina
+AU  - Melosi, Leonardo
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - 132
+EP  - 141
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000560
+KW  - Marginal likelihood
+KW  - Gibbs sampler
+KW  - Time series econometrics
+KW  - Bayesian econometrics
+KW  - Reciprocal importance sampling
+AB  - We introduce two estimators for estimating the Marginal Data Density (MDD) from the Gibbs output. Our methods are based on exploiting the analytical tractability condition, which requires that some parameter blocks can be analytically integrated out from the conditional posterior densities. This condition is satisfied by several widely used time series models. An empirical application to six-variate VAR models shows that the bias of a fully computational estimator is sufficiently large to distort the implied model rankings. One of the estimators is fast enough to make multiple computations of MDDs in densely parameterized models feasible.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of nonlinear dynamic panel data models with unobserved covariates
+AU  - Shiu, Ji-Liang
+AU  - Hu, Yingyao
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - 116
+EP  - 131
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000559
+KW  - Nonlinear dynamic panel data model
+KW  - Dynamic discrete choice model
+KW  - Dynamic censored model
+KW  - Nonparametric identification
+KW  - Initial condition
+KW  - Correlated random effects
+KW  - Unobserved heterogeneity
+KW  - Unobserved covariate
+KW  - Endogeneity
+AB  - This paper considers nonparametric identification of nonlinear dynamic models for panel data with unobserved covariates. Including such unobserved covariates may control for both the individual-specific unobserved heterogeneity and the endogeneity of the explanatory variables. Without specifying the distribution of the initial condition with the unobserved variables, we show that the models are nonparametrically identified from two periods of the dependent variable Yit and three periods of the covariate Xit. The main identifying assumptions include high-level injectivity restrictions and require that the evolution of the observed covariates depends on the unobserved covariates but not on the lagged dependent variable. We also propose a sieve maximum likelihood estimator (MLE) and focus on two classes of nonlinear dynamic panel data models, i.e., dynamic discrete choice models and dynamic censored models. We present the asymptotic properties of the sieve MLE and investigate the finite sample properties of these sieve-based estimators through a Monte Carlo study. An intertemporal female labor force participation model is estimated as an empirical illustration using a sample from the Panel Study of Income Dynamics (PSID).
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - IFC
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(13)00106-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613001061
+ER  - 
+
+TY  - JOUR
+T1  - Testing for structural stability in the whole sample
+AU  - Hidalgo, Javier
+AU  - Seo, Myung Hwan
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - 84
+EP  - 93
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000626
+KW  - Structural stability
+KW  - GMM
+KW  - Strong approximation
+KW  - Extreme value distribution
+AB  - The paper examines a Lagrange Multiplier type test for the constancy of the parameter in general models with dependent data without imposing any artificial choice of the possible location of the break. In order to prove the asymptotic behaviour of the test, we extend a strong approximation result for partial sums of a sequence of random variables. We also present a Monte-Carlo experiment to examine the finite sample performance of the test and how it compares with tests which assume some knowledge of the possible location of the break.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling volatility by variance decomposition
+AU  - Amado, Cristina
+AU  - Teräsvirta, Timo
+JO  - Journal of Econometrics
+VL  - 175
+IS  - 2
+SP  - 142
+EP  - 153
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761300064X
+KW  - Conditional heteroskedasticity
+KW  - Nonlinear time series
+KW  - Maximum likelihood estimation
+KW  - Iterative algorithm
+KW  - Time-varying parameter model
+AB  - In this paper, we propose two parametric alternatives to the standard GJR-GARCH model of Glosten et al. (1993), based on additive and multiplicative decompositions of the variance. They allow the variance of the model to have a smooth time-varying structure. The suggested parameterizations describe structural change in the conditional and unconditional variances where the transition between regimes over time is smooth. The main focus is on the multiplicative decomposition of the variance into an unconditional and conditional components. Estimation of the multiplicative model is discussed in detail. An empirical application to daily stock returns illustrates the functioning of the model. The results show that the ‘long memory type behaviour’ of the sample autocorrelation functions of the absolute returns can also be explained by deterministic changes in the unconditional variance.
+ER  - 

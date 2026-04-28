@@ -1,0 +1,248 @@
+TY  - JOUR
+T1  - Estimation risk for the VaR of portfolios driven by semi-parametric multivariate models
+AU  - Francq, Christian
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 381
+EP  - 401
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.03.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300575
+KW  - Confidence intervals for VaR
+KW  - Dynamic portfolio
+KW  - Elliptical distribution
+KW  - Filtered historical simulation
+KW  - Minimum variance portfolio
+KW  - Model risk
+KW  - Multivariate GARCH
+AB  - Joint estimation of market and estimation risks in portfolios is investigated, when the individual returns follow a semi-parametric multivariate dynamic model and the asset composition is time-varying. Under ellipticity of the conditional distribution, asymptotic theory for the estimation of the conditional Value-at-Risk (VaR) is developed. An alternative method – the Filtered Historical Simulation – which does not rely on ellipticity, is also studied. Asymptotic confidence intervals for the conditional VaR, which allow for simultaneous quantification of the market and estimation risks, are derived. The particular case of minimum variance portfolios is analyzed in more detail. Potential usefulness, feasibility and drawbacks of the two approaches are illustrated via Monte-Carlo experiments and an empirical study based on stock returns.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - ii
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30086-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300861
+ER  - 
+
+TY  - JOUR
+T1  - Exact and higher-order properties of the MLE in spatial autoregressive models, with applications to inference
+AU  - Hillier, Grant
+AU  - Martellosio, Federico
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 402
+EP  - 422
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300587
+KW  - Spatial autoregression
+KW  - Maximum likelihood estimation
+KW  - Group interaction
+KW  - Social networks
+KW  - Complete bipartite graph
+KW  - Saddlepoint
+AB  - The quasi-maximum likelihood estimator for the autoregressive parameter in a spatial autoregression usually cannot be written explicitly in terms of the data. A rigorous analysis of the first-order asymptotic properties of the estimator, under some assumptions on the evolution of the spatial design matrix, is available in Lee (2004), but very little is known about its exact or higher-order properties. In this paper we first show that the exact cumulative distribution function of the estimator can, under mild assumptions, be written in terms of that of a particular quadratic form. Simple examples are used to illustrate important exact properties of the estimator that follow from this representation. In general models a complete exact analysis is not possible, but a higher-order (saddlepoint) approximation is made available by the main result. We use this approximation to construct confidence intervals for the autoregressive parameter. Coverage properties of the proposed confidence intervals are studied by Monte Carlo simulation, and are found to be excellent in a variety of circumstances.
+ER  - 
+
+TY  - JOUR
+T1  - Unified M-estimation of fixed-effects spatial dynamic models with short panels
+AU  - Yang, Zhenlin
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 423
+EP  - 447
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.08.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300599
+KW  - Adjusted quasi score
+KW  - Dynamic panels
+KW  - Fixed effects
+KW  - Initial-condition free estimation
+KW  - Martingale difference
+KW  - OPMD
+KW  - Spatial effects
+KW  - Short panels
+AB  - It is well known that quasi maximum likelihood (QML) estimation of dynamic panel data (DPD) models with short panels depends on the assumptions on the initial values, and a wrong treatment of them will result in inconsistency and serious bias. The same issues apply to spatial DPD (SDPD) models with short panels. In this paper, a unified M-estimation method is proposed for estimating the fixed-effects SDPD models containing three major types of spatial effects, namely spatial lag, spatial error and space–time lag. The method is free from the specification of the distribution of the initial observations and robust against nonnormality of the errors. Consistency and asymptotic normality of the proposed M-estimator are established. A martingale difference representation of the underlying estimating functions is developed, which leads to an initial-condition free estimate of the variance of the M-estimators. Monte Carlo results show that the proposed methods have excellent finite sample performance.
+ER  - 
+
+TY  - JOUR
+T1  - A consistent bootstrap procedure for the maximum score estimator
+AU  - Patra, Rohit Kumar
+AU  - Seijo, Emilio
+AU  - Sen, Bodhisattva
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 488
+EP  - 507
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830068X
+KW  - Binary choice model
+KW  - Cube-root asymptotics
+KW  - (In)-consistency of the bootstrap
+KW  - Latent variable model
+KW  - Smoothed bootstrap
+AB  - In this paper we propose a new model-based smoothed bootstrap procedure for making inference on the maximum score estimator of Manski (1975, 1985) and prove its consistency. We provide a set of sufficient conditions for the consistency of any bootstrap procedure in this problem. We compare the finite sample performance of different bootstrap procedures through simulation studies. The results indicate that our proposed smoothed bootstrap outperforms other bootstrap schemes, including the m-out-of-n bootstrap. Additionally, we prove a convergence theorem for triangular arrays of random variables arising from binary choice models, which may be of independent interest.
+ER  - 
+
+TY  - JOUR
+T1  - Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment
+AU  - Christensen, Kim
+AU  - Hounyo, Ulrich
+AU  - Podolskij, Mark
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 336
+EP  - 362
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.03.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300551
+KW  - Bipower variation
+KW  - Bootstrapping
+KW  - Diurnal variation
+KW  - High-frequency data
+KW  - Microstructure noise
+KW  - Pre-averaging
+KW  - Time-varying volatility
+AB  - In this paper, we propose a nonparametric way to test the hypothesis that time-variation in intraday volatility is caused solely by a deterministic and recurrent diurnal pattern. We assume that noisy high-frequency data from a discretely sampled jump–diffusion process are available. The test is then based on asset returns, which are deflated by the seasonal component and therefore homoskedastic under the null. To construct our test statistic, we extend the concept of pre-averaged bipower variation to a general Itô semimartingale setting via a truncation device. We prove a central limit theorem for this statistic and construct a positive semi-definite estimator of the asymptotic covariance matrix. The t-statistic (after pre-averaging and jump-truncation) diverges in the presence of stochastic volatility and has a standard normal distribution otherwise. We show that replacing the true diurnal factor with a model-free jump- and noise-robust estimator does not affect the asymptotic theory. A Monte Carlo simulation also shows this substitution has no discernable impact in finite samples. The test is, however, distorted by small infinite-activity price jumps. To improve inference, we propose a new bootstrap approach, which leads to almost correctly sized tests of the null hypothesis. We apply the developed framework to a large cross-section of equity high-frequency data and find that the diurnal pattern accounts for a rather significant fraction of intraday variation in volatility, but important sources of heteroskedasticity remain present in the data.
+ER  - 
+
+TY  - JOUR
+T1  - Robust and efficient estimation for the treatment effect in causal inference and missing data problems
+AU  - Lin, Huazhen
+AU  - Zhou, Fanyin
+AU  - Wang, Qiuxia
+AU  - Zhou, Ling
+AU  - Qin, Jing
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 363
+EP  - 380
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.03.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300563
+KW  - Dimension reduction
+KW  - Kernel smoothing
+KW  - Missing outcomes
+KW  - Robust
+KW  - Semiparametrically efficient
+KW  - Mann–Whitney statistics
+AB  - The Mann–Whitney statistic based on complete data only might be invalid if the outcome variables are missing due to certain covariates. In this paper, we used the probabilistic index modelling (Thas et al., 2012) to obtain a new Mann–Whitney statistic when missingness occurs in the outcomes but multiple explanatory variables are observable. Our method combined the efficiency of the model-based approach and the robustness of the nonparametric approach. It requires few model assumptions and is shown to be efficient if all specifications are correct, and doubly robust if some part is misspecified. Results from simulation studies and a real data analysis of consumer phone loans are presented to demonstrate the advantages of the proposed method over others.
+ER  - 
+
+TY  - JOUR
+T1  - Bounds on treatment effects on transitions
+AU  - Vikström, Johan
+AU  - Ridder, Geert
+AU  - Weidner, Martin
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 448
+EP  - 469
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300605
+KW  - Partial identification
+KW  - Duration model
+KW  - Randomized experiment
+KW  - Treatment effect
+AB  - This paper considers the identification of treatment effects on conditional transition probabilities. We show that even under random assignment only the instantaneous average treatment effect is point identified. Since treated and control units drop out at different rates, randomization only ensures the comparability of treatment and controls at the time of randomization, so that long-run average treatment effects are not point identified. Instead, we derive bounds on these average effects. Our bounds do not impose (semi)parametric restrictions, for example, proportional hazards. We also explore assumptions such as monotone treatment response, common shocks and positively correlated outcomes that tighten the bounds.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on the tail process with application to financial time series modeling
+AU  - Davis, Richard A.
+AU  - Drees, Holger
+AU  - Segers, Johan
+AU  - Warchoł, Michał
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 508
+EP  - 525
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300691
+KW  - Financial time series
+KW  - Heavy-tails
+KW  - Multiplier block bootstrap
+KW  - Regular variation
+KW  - Shock persistence
+KW  - Stationary time series
+KW  - Tail process
+AB  - To draw inference on serial extremal dependence within heavy-tailed Markov chains, Drees et al., (2015) proposed nonparametric estimators of the spectral tail process. The methodology can be extended to the more general setting of a stationary, regularly varying time series. The large-sample distribution of the estimators is derived via empirical process theory for cluster functionals. The finite-sample performance of these estimators is evaluated via Monte Carlo simulations. Moreover, two different bootstrap schemes are employed which yield confidence intervals for the pre-asymptotic spectral tail process: the stationary bootstrap and the multiplier block bootstrap. The estimators are applied to stock price data to study the persistence of positive and negative shocks.
+ER  - 
+
+TY  - JOUR
+T1  - Stochastic tail index model for high frequency financial data with Bayesian analysis
+AU  - Mao, Guangyu
+AU  - Zhang, Zhengjun
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 470
+EP  - 487
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.03.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300678
+KW  - Bayesian statistics
+KW  - Extreme values
+KW  - High frequency
+KW  - State space model
+KW  - Tail index
+AB  - This paper proposes a new dynamic model called Stochastic Tail Index (STI) model to analyze time-varying tail index for financial asset using high frequency return data. Bayesian tools are developed to estimate the model, make related inferences, and perform model selection. To construct efficient posterior sampler for the STI model by an approximation approach, a new algorithm called ALSO (Auxiliary Least Squares Optimization) is introduced, which can quickly make sufficient approximation to a given random variable using Gaussian mixture variables. The posterior sampler takes advantages of the BFGS optimization method to tailor the proposal densities in Metropolis–Hastings chains, and is computationally faster than the existing samplers in literature. Simulation shows that the proposed posterior sampler works well for the STI model. To illustrate the use of the STI model in the real world, we analyze two real high frequency data sets associated with two markets. It is found that the estimated daily tail indexes generally follow a time-varying pattern and tend to fall when large negative events occur. Besides, they significantly drop below 2 during some periods, which implies that the variances of the return distributions during those periods may be infinite, and hence any variance-based risk management for the two markets may be questionable.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of first-price auctions with risk-averse bidders
+AU  - Zincenko, Federico
+JO  - Journal of Econometrics
+VL  - 205
+IS  - 2
+SP  - 303
+EP  - 335
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.03.015
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830054X
+KW  - First-price auction
+KW  - Risk aversion
+KW  - Independent private values
+KW  - Nonparametric estimation
+KW  - Sieve spaces
+AB  - This paper proposes nonparametric estimators for the bidders’ utility function and density of private values in a first-price sealed-bid auction model with independent valuations. I study a setting with risk-averse bidders and adopt a fully nonparametric approach by not placing any restrictions on the shape of the utility function beyond regularity conditions. I propose a population criterion function that has a unique minimizer, which characterizes the utility function and density of private values. The resulting estimators emerge after replacing the population quantities by sample analogues. These estimators are uniformly consistent and their convergence rates are established. I further suggest an estimator for the optimal reserve price. Monte Carlo experiments show that the proposed estimators perform well in finite samples.
+ER  - 

@@ -1,0 +1,318 @@
+TY  - JOUR
+T1  - Moment condition tests for heavy tailed time series
+AU  - Hill, Jonathan B.
+AU  - Aguilar, Mike
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 255
+EP  - 274
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001972
+KW  - Moment condition test
+KW  - Heavy tails
+KW  - Tail trimming
+KW  - Robust inference
+AB  - We develop an asymptotically chi-squared statistic for testing moment conditions E[mt(θ0)]=0, where mt(θ0) may be weakly dependent, scalar components of mt(θ0) may have an infinite variance, and E[mt(θ)] need not exist for any θ under the alternative. Score tests are a natural application, and in general a variety of tests can be heavy-tail robustified by our method, including white noise, GARCH affects, omitted variables, distribution, functional form, causation, volatility spillover and over-identification. The test statistic is derived from a tail-trimmed sample version of the moments evaluated at a consistent plug-in θˆT for θ0. Depending on the test in question and heaviness of tails, θˆT may be any consistent estimator including sub-T1/2-convergent and/or asymptotically non-Gaussian ones, since θˆT can be assured not to affect the test statistic asymptotically. We adapt bootstrap, p-value occupation time, and covariance determinant methods for selecting the trimming fractile in any sample, and apply our statistic to tests of white noise, omitted variables and volatility spillover. We find it obtains sharp empirical size and strong power, while conventional tests exhibit size distortions.
+ER  - 
+
+TY  - JOUR
+T1  - Stable mixture GARCH models
+AU  - Broda, Simon A.
+AU  - Haas, Markus
+AU  - Krause, Jochen
+AU  - Paolella, Marc S.
+AU  - Steude, Sven C.
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 292
+EP  - 306
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001960
+KW  - Density forecasting
+KW  - Expected shortfall
+KW  - Fat tails
+KW  - ICA
+KW  - GARCH
+KW  - Mixtures
+KW  - Portfolio selection
+KW  - Stable Paretian distribution
+KW  - Value-at-risk
+AB  - A new model class for univariate asset returns is proposed which involves the use of mixtures of stable Paretian distributions, and readily lends itself to use in a multivariate context for portfolio selection. The model nests numerous ones currently in use, and is shown to outperform all its special cases. In particular, an extensive out-of-sample risk forecasting exercise for seven major FX and equity indices confirms the superiority of the general model compared to its special cases and other competitors. Estimation issues related to problems associated with mixture models are discussed, and a new, general, method is proposed to successfully circumvent these. The model is straightforwardly extended to the multivariate setting by using an independent component analysis framework. The tractability of the relevant characteristic function then facilitates portfolio optimization using expected shortfall as the downside risk measure.
+ER  - 
+
+TY  - JOUR
+T1  - Heavy tails of OLS
+AU  - Mikosch, Thomas
+AU  - de Vries, Casper G.
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 205
+EP  - 221
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001996
+KW  - Heavy tails
+KW  - OLS estimator distribution
+KW  - Small sample inference
+AB  - Suppose the tails of the noise distribution in a regression exhibit power law behavior. Then the distribution of the OLS regression estimator inherits this tail behavior. This is relevant for regressions involving financial data. We derive explicit finite sample expressions for the tail probabilities of the distribution of the OLS estimator. These are useful for inference. Simulations for medium sized samples reveal considerable deviations of the coefficient estimates from their true values, in line with our theoretical formulas. The formulas provide a benchmark for judging the observed highly variable cross country estimates of the expectations coefficient in yield curve regressions.
+ER  - 
+
+TY  - JOUR
+T1  - Jump tails, extreme dependencies, and the distribution of stock returns
+AU  - Bollerslev, Tim
+AU  - Todorov, Viktor
+AU  - Li, Sophia Zhengzi
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 307
+EP  - 324
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001984
+KW  - Extreme events
+KW  - Jumps
+KW  - High-frequency data
+KW  - Jump tails
+KW  - Non-parametric estimation
+KW  - Stochastic volatility
+KW  - Systematic risks
+KW  - Tail dependence
+AB  - We provide a new framework for estimating the systematic and idiosyncratic jump tail risks in financial asset prices. Our estimates are based on in-fill asymptotics for directly identifying the jumps, together with Extreme Value Theory (EVT) approximations and methods-of-moments for assessing the tail decay parameters and tail dependencies. On implementing the procedures with a panel of intraday prices for a large cross-section of individual stocks and the S&P 500 market portfolio, we find that the distributions of the systematic and idiosyncratic jumps are both generally heavy-tailed and close to symmetric, and show how the jump tail dependencies deduced from the high-frequency data together with the day-to-day variation in the diffusive volatility account for the “extreme” joint dependencies observed at the daily level.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - IFC
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00251-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002515
+ER  - 
+
+TY  - JOUR
+T1  - One-step R-estimation in linear models with stable errors
+AU  - Hallin, Marc
+AU  - Swan, Yvik
+AU  - Verdebout, Thomas
+AU  - Veredas, David
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 195
+EP  - 204
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.016
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761200200X
+KW  - Stable distributions
+KW  - Local asymptotic normality
+KW  - LAD estimation
+KW  - R-estimation
+KW  - Asymptotic relative efficiency
+AB  - Classical estimation techniques for linear models either are inconsistent, or perform rather poorly, under α-stable error densities; most of them are not even rate-optimal. In this paper, we propose an original one-step R-estimation method and investigate its asymptotic performances under stable densities. Contrary to traditional least squares, the proposed R-estimators remain root-n consistent (the optimal rate) under the whole family of stable distributions, irrespective of their asymmetry and tail index. While parametric stable-likelihood estimation, due to the absence of a closed form for stable densities, is quite cumbersome, our method allows us to construct estimators reaching the parametric efficiency bounds associated with any prescribed values (α0,b0) of the tail index α and skewness parameter b, while preserving root-n consistency under any (α,b) as well as under usual light-tailed densities. The method furthermore avoids all forms of multidimensional argmin computation. Simulations confirm its excellent finite-sample performances.
+ER  - 
+
+TY  - JOUR
+T1  - Linear and nonlinear regression with stable errors
+AU  - Nolan, John P.
+AU  - Ojeda-Revah, Diana
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 186
+EP  - 194
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001923
+KW  - Heavy tailed regression
+KW  - Stable distributions
+KW  - Score function
+AB  - In this paper we describe methods and evaluate programs for linear regression by maximum likelihood when the errors have a heavy tailed stable distribution. The asymptotic Fisher information matrix for both the regression coefficients and the error distribution parameters are derived, giving large sample confidence intervals for all parameters. Simulated examples are shown where the errors are stably distributed and also where the errors are heavy tailed but are not stable, as well as a real example using financial data. The results are then extended to nonlinear models and to non-homogeneous error terms.
+ER  - 
+
+TY  - JOUR
+T1  - Latest developments on heavy-tailed distributions
+AU  - Paolella, Marc
+AU  - Renault, Eric
+AU  - Samorodnitsky, Gennady
+AU  - Veredas, David
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 183
+EP  - 185
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001911
+ER  - 
+
+TY  - JOUR
+T1  - Extended Neyman smooth goodness-of-fit tests, applied to competing heavy-tailed distributions
+AU  - McCulloch, J. Huston
+AU  - Percy, E. Richard
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 275
+EP  - 282
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002023
+KW  - Stable distribution
+KW  - Student  distribution
+KW  - Generalized error distribution
+KW  - Lagrange multiplier test
+AB  - A simplified version of the Neyman (1937) “Smooth” goodness-of-fit test is extended to account for the presence of estimated model parameters, thereby removing overfitting bias. Using a Lagrange Multiplier approach rather than the Likelihood Ratio statistic proposed by Neyman greatly simplifies the calculations. Polynomials, splines, and the step function of Pearson’s test are compared as alternative perturbations to the theoretical uniform distribution. The extended tests have negligible size distortion and more power than standard tests. The tests are applied to competing symmetric leptokurtic distributions with US stock return data. These are generally rejected, primarily because of the presence of skewness.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation for multivariate stable distributions with generalized empirical likelihood
+AU  - Ogata, Hiroaki
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 248
+EP  - 254
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002011
+KW  - Characteristic function
+KW  - CR discrepancy
+KW  - Estimating function
+KW  - Generalized empirical likelihood
+KW  - Multivariate stable distribution
+AB  - This paper considers the generalized empirical likelihood (GEL) method for estimating the parameters of the multivariate stable distribution. The GEL method is considered to be an extension of the generalized method of moments (GMM). The multivariate stable distributions are widely applicable as they can accommodate both skewness and heavy tails. We treat the spectral measure, which summarizes scale and asymmetry, by discretization. In order to estimate all the model parameters simultaneously, we apply the estimating function constructed by equating empirical and theoretical characteristic functions. The efficacy of the proposed GEL method is demonstrated in Monte Carlo studies. An illustrative example involving daily returns of market indexes is also included.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical estimation of multivariate Ornstein–Uhlenbeck processes and applications to co-integration
+AU  - Fasen, Vicky
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 325
+EP  - 337
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002035
+KW  - Asymptotic
+KW  - Co-integration
+KW  - Continuous-time process
+KW  - Multivariate regular variation
+KW  - Ornstein–Uhlenbeck process
+KW  - Point estimation
+KW  - Stable Lévy process
+KW  - -ratio statistic
+KW  - Wald-statistic
+AB  - Ornstein–Uhlenbeck models are continuous-time processes which have broad applications in finance as, e.g., volatility processes in stochastic volatility models or spread models in spread options and pairs trading. The paper presents a least squares estimator for the model parameter in a multivariate Ornstein–Uhlenbeck model driven by a multivariate regularly varying Lévy process with infinite variance. We show that the estimator is consistent. Moreover, we derive its asymptotic behavior and test statistics. The results are compared to the finite variance case. For the proof we require some new results on multivariate regular variation of products of random vectors and central limit theorems. Furthermore, we embed this model in the setup of a co-integrated model in continuous time.
+ER  - 
+
+TY  - JOUR
+T1  - The method of simulated quantiles
+AU  - Dominicy, Yves
+AU  - Veredas, David
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 235
+EP  - 247
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001947
+KW  - Quantiles
+KW  - Simulation
+KW  - Matching
+KW  - Inference
+AB  - We introduce the Method of Simulated Quantiles, or MSQ, an indirect inference method based on quantile matching that is useful for situations where the density function does not have a closed form and/or moments do not exist. Functions of theoretical quantiles, which depend on the parameters of the assumed probability law, are matched with the sample counterparts, which depend on the observations. Since the theoretical quantiles may not be available analytically, the optimization is based on simulations. We illustrate the method with the estimation of α-stable distributions. A thorough Monte Carlo study and an illustration to 22 financial indexes show the usefulness of MSQ.
+ER  - 
+
+TY  - JOUR
+T1  - Model identification for infinite variance autoregressive processes
+AU  - Andrews, Beth
+AU  - Davis, Richard A.
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 222
+EP  - 234
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001935
+KW  - Akaike’s information criterion
+KW  - All-pass models
+KW  - Autoregressive processes
+KW  - Infinite variance
+KW  - Noncausal
+AB  - We consider model identification for infinite variance autoregressive time series processes. It is shown that a consistent estimate of autoregressive model order can be obtained by minimizing Akaike’s information criterion, and we use all-pass models to identify noncausal autoregressive processes and estimate the order of noncausality (the number of roots of the autoregressive polynomial inside the unit circle in the complex plane). We examine the performance of the order selection procedures for finite samples via simulation, and use the techniques to fit a noncausal autoregressive model to stock market trading volume data.
+ER  - 
+
+TY  - JOUR
+T1  - Fat tails, VaR and subadditivity
+AU  - Daníelsson, Jón
+AU  - Jorgensen, Bjørn N.
+AU  - Samorodnitsky, Gennady
+AU  - Sarma, Mandira
+AU  - de Vries, Casper G.
+JO  - Journal of Econometrics
+VL  - 172
+IS  - 2
+SP  - 283
+EP  - 291
+PY  - 2013
+DA  - 2013/02/01/
+T2  - Latest Developments on Heavy-Tailed Distributions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001959
+KW  - Value-at-Risk
+KW  - Subadditivity
+KW  - Fat tailed distribution
+KW  - Extreme value estimation
+AB  - Financial institutions rely heavily on Value-at-Risk (VaR) as a risk measure, even though it is not globally subadditive. First, we theoretically show that the VaR portfolio measure is subadditive in the relevant tail region if asset returns are multivariate regularly varying, thus allowing for dependent returns. Second, we note that VaR estimated from historical simulations may lead to violations of subadditivity. This upset of the theoretical VaR subadditivity in the tail arises because the coarseness of the empirical distribution can affect the apparent fatness of the tails. Finally, we document a dramatic reduction in the frequency of subadditivity violations, by using semi-parametric extreme value techniques for VaR estimation instead of historical simulations.
+ER  - 

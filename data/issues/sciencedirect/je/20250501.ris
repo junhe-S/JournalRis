@@ -1,0 +1,298 @@
+TY  - JOUR
+T1  - Estimating time-varying networks for high-dimensional time series
+AU  - Chen, Jia
+AU  - Li, Degui
+AU  - Li, Yu-Ning
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105941
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105941
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002926
+KW  - Factor model
+KW  - Granger causality
+KW  - Partial correlation
+KW  - Time-varying network
+KW  - VAR
+AB  - We explore time-varying networks for high-dimensional locally stationary time series, using the large VAR model framework with both the transition and (error) precision matrices evolving smoothly over time. Two types of time-varying graphs are investigated: one containing directed edges of Granger causality linkages, and the other containing undirected edges of partial correlation linkages. Under the sparse structural assumption, we propose a penalised local linear method with time-varying weighted group LASSO to jointly estimate the transition matrices and identify their significant entries, and a time-varying CLIME method to estimate the precision matrices. The estimated transition and precision matrices are then used to determine the time-varying network structures. Under some mild conditions, we derive the theoretical properties of the proposed estimates including the consistency and oracle properties. In addition, we extend the methodology and theory to cover highly-correlated large-scale time series, for which the sparsity assumption becomes invalid and we allow for common factors before estimating the factor-adjusted time-varying networks. We provide extensive simulation studies and an empirical application to a large U.S. macroeconomic dataset to illustrate the finite-sample performance of our methods.
+ER  - 
+
+TY  - JOUR
+T1  - Monitoring multi-country macroeconomic risk: A quantile factor-augmented vector autoregressive (QFAVAR) approach
+AU  - Korobilis, Dimitris
+AU  - Schröder, Maximilian
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105730
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105730
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000769
+KW  - Quantile VAR
+KW  - Multivariate quantiles
+KW  - MCMC
+KW  - Dynamic factor model
+AB  - A multi-country quantile factor-augmented vector autoregression is proposed to model heterogeneities both across countries and across characteristics of the distributions of macroeconomic time series. The presence of quantile factors enables a parsimonious summary of these two heterogeneities by accounting for dependencies in the cross-sectional dimension as well as across different quantiles of macroeconomic data. Using monthly euro area data, the strong empirical performance of the new model in gauging the impact of global shocks on country-level macroeconomic risks is demonstrated. The short-term tail forecasts of QFAVAR outperform those of FAVARs with symmetric Gaussian errors as well as univariate and multivariate specifications featuring stochastic volatility. Modeling individual quantiles enables scenario analysis of macroeconomic risks, a unique feature absent in FAVARs with stochastic volatility or flexible error distributions.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105988
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(25)00042-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000429
+ER  - 
+
+TY  - JOUR
+T1  - Machine Learning for Economic Policy
+AU  - Haghighi, Maryam
+AU  - Joseph, Andreas
+AU  - Kapetanios, George
+AU  - Kurz, Christopher
+AU  - Lenza, Michele
+AU  - Marcucci, Juri
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105970
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.105970
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000247
+KW  - Machine learning
+KW  - Nontraditional data
+KW  - Big data
+KW  - Text mining
+KW  - Text-as-data
+KW  - Text analysis
+KW  - Natural language processing
+KW  - Artificial intelligence
+KW  - Data science
+KW  - High-dimensional time series
+KW  - Networks
+AB  - The Themed Issue Machine Learning for Economic Policy consists of 12 papers at the intersection of machine learning, nontraditional data sources and economic policymaking. We will introduce the Themed Issue and review its contributions.
+ER  - 
+
+TY  - JOUR
+T1  - Central bank mandates and monetary policy stances: Through the lens of Federal Reserve speeches
+AU  - Bertsch, Christoph
+AU  - Hull, Isaiah
+AU  - Lumsdaine, Robin L.
+AU  - Zhang, Xin
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105948
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.105948
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000028
+KW  - Large language models
+KW  - Machine learning
+KW  - Central bank communication
+KW  - Financial stability
+AB  - The Federal Reserve System has an institutional mandate to pursue price stability and maximum sustainable employment; however, it remains unclear whether it can also pursue secondary objectives. The academic literature has largely argued that it should not. We characterize the Fed’s interpretation of its mandate using state-of-the-art methods from natural language processing, including a collection of large language models (LLMs) that we modify for enhanced performance on central bank texts. We apply these methods and models to a comprehensive corpus of Fed speeches delivered between 1960 and 2022. We find that the Fed perceives financial stability to be the most important policy concern that is not directly enumerated in its mandate, especially in times when the debt-to-GDP ratio is high, but does not generally treat it as a separate policy objective. In its policy discourse, it has frequently discussed the use of monetary policy to achieve financial stability, which we demonstrate generates movements in asset prices, even after rigorously controlling for macroeconomic and financial variables.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian neural networks for macroeconomic analysis
+AU  - Hauzenberger, Niko
+AU  - Huber, Florian
+AU  - Klieber, Karin
+AU  - Marcellino, Massimiliano
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105843
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105843
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400188X
+KW  - Bayesian neural networks
+KW  - Model selection
+KW  - Shrinkage priors
+KW  - Macroeconomic forecasting
+AB  - Macroeconomic data is characterized by a limited number of observations (small T), many time series (big K) but also by featuring temporal dependence. Neural networks, by contrast, are designed for datasets with millions of observations and covariates. In this paper, we develop Bayesian neural networks (BNNs) that are well-suited for handling datasets commonly used for macroeconomic analysis in policy institutions. Our approach avoids extensive specification searches through a novel mixture specification for the activation function that appropriately selects the form of nonlinearities. Shrinkage priors are used to prune the network and force irrelevant neurons to zero. To cope with heteroskedasticity, the BNN is augmented with a stochastic volatility model for the error term. We illustrate how the model can be used in a policy institution through simulations and by showing that BNNs produce more accurate point and density forecasts compared to other machine learning methods.
+ER  - 
+
+TY  - JOUR
+T1  - Refining public policies with machine learning: The case of tax auditing
+AU  - Battaglini, Marco
+AU  - Guiso, Luigi
+AU  - Lacava, Chiara
+AU  - Miller, Douglas L.
+AU  - Patacchini, Eleonora
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105847
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105847
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001921
+KW  - Tax enforcement
+KW  - Tax evasion
+KW  - Policy prediction problems
+AB  - We study how machine learning techniques can be used to improve tax auditing efficiency using administrative data without the need of randomized audits. Using Italy’s population data on sole proprietorship tax returns and audits, our new approach addresses the challenge that predictions must be trained on human-selected data. There are substantial margins for raising revenue from audits by improving the selection of taxpayers to audit with machine learning. Replacing the 10% least promising audits with an equal number selected by our algorithm raises detected tax evasion by as much as 39%, and evasion that is actually paid back by 29%.
+ER  - 
+
+TY  - JOUR
+T1  - How do firms’ financial conditions influence the transmission of monetary policy? A non-parametric local projection approach
+AU  - Paranhos, Livia
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105886
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105886
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002318
+KW  - Local projection
+KW  - Impulse response estimation
+KW  - Nonlinearity
+KW  - Heterogeneity
+KW  - Firm investment
+AB  - How do monetary policy shocks affect firm investment? This paper provides new evidence on US non-financial firms and a novel non-parametric framework based on random forests. The key advantage of the methodology is that it does not impose any assumptions on how the effect of shocks varies across firms thereby allowing for general forms of heterogeneity in the transmission of shocks. My estimates suggest that there exists a threshold in the level of firm risk above which monetary policy is much less effective. Additionally, there is no evidence that the effect of policy varies with firm risk for the 75% of firms in the sample with higher risk. The proposed methodology is a generalization of local projections and nests several common local projection specifications, including linear and nonlinear.
+ER  - 
+
+TY  - JOUR
+T1  - Paying over the odds at the end of the fiscal year. Evidence from Ukraine
+AU  - Klymak, Margaryta
+AU  - Baumann, Stuart
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105903
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105903
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002549
+KW  - Government spending
+KW  - Procurement
+KW  - Fiscal year distortions
+KW  - Year-end spending spikes
+KW  - Neural networks
+KW  - Ukraine
+AB  - Governments are the largest buyers in most countries. They tend to operate annually expiring budgets and spend disproportionately large amounts at year-end. This paper is the first to investigate whether supplier firms increase prices at year-end to benefit from this behaviour. We develop a novel method using neural networks to estimate firms margins from the bidding behaviour of other firms in procurement auctions. We use a dataset of Ukrainian government procurement between 2017 and 2021 to document significantly higher prices and supplier profit margins at year-end. We demonstrate how results change depending on the type of good, the length of the buyer–supplier relationship, and the impact of Covid-19. Finally, we provide policy suggestions on how funds could be saved.
+ER  - 
+
+TY  - JOUR
+T1  - Inequality and the zero lower bound
+AU  - Fernández-Villaverde, Jesús
+AU  - Marbet, Joël
+AU  - Nuño, Galo
+AU  - Rachedi, Omar
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105819
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105819
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001647
+KW  - Heterogeneous agents
+KW  - HANK models
+KW  - Neural networks
+KW  - Nonlinear dynamics
+AB  - This paper studies how household inequality shapes the effects of the zero lower bound (ZLB) on nominal interest rates on aggregate dynamics. To do so, we consider a heterogeneous agent New Keynesian (HANK) model with an occasionally binding ZLB and solve for its fully nonlinear stochastic equilibrium using a novel neural network algorithm. In this setting, changes in the monetary policy stance influence households’ precautionary savings by altering the frequency of ZLB events. As a result, the model features monetary policy non-neutrality in the long run. The degree of long-run non-neutrality, i.e., by how much monetary policy shifts real rates in the ergodic distribution of the model, can be substantial when we combine low inflation targets and high levels of wealth inequality.
+ER  - 
+
+TY  - JOUR
+T1  - Satellites turn “concrete”: Tracking cement with satellite data and neural networks
+AU  - d'Aspremont, Alexandre
+AU  - Ben Arous, Simon
+AU  - Bricongne, Jean-Charles
+AU  - Lietti, Benjamin
+AU  - Meunier, Baptiste
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105923
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105923
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002744
+KW  - Big data
+KW  - Data science
+KW  - Machine learning
+KW  - Construction
+KW  - High-frequency data
+AB  - This paper exploits daily infrared images taken from satellites to track economic activity in advanced and emerging countries. We first develop a framework to read, clean, and exploit satellite images. Our algorithm uses the laws of physics (Planck's law) and machine learning to detect the heat produced by cement plants in activity. This allows us to monitor in real-time whether a cement plant is working. Using this on around 1,000 plants, we construct a satellite-based index. We show that using this satellite index outperforms benchmark models and alternative indicators for nowcasting the production of the cement industry as well as the activity in the construction sector. Comparing across methods, neural networks appear to yield more accurate predictions as they allow to exploit the granularity of our dataset. Overall, combining satellite images and machine learning can help policymakers to take informed and swift economic policy decisions by nowcasting accurately and in real-time economic activity.
+ER  - 
+
+TY  - JOUR
+T1  - Central bank communication on social media: What, to whom, and how?
+AU  - Gorodnichenko, Yuriy
+AU  - Pham, Tho
+AU  - Talavera, Oleksandr
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105869
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105869
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002148
+KW  - Central bank communication
+KW  - Social media
+KW  - Public engagement
+KW  - Inflation expectations
+KW  - Natural language processing
+AB  - This study answers three questions about central bank communication on Twitter
+: what was communicated, who were listeners, and how they reacted. Using various natural language processing techniques, we identify the main topics discussed by the Fed and major audiences. While the Fed tweets talking about central banking topics attract greater attention from Twitter users, only the extensive margin is economically meaningful. Among all groups of users, the media accounts and economists are most active in engaging with the Fed, especially when discussing central banking-related issues. We also show that information extracted from the tweets can provide a real-time, qualitative diagnostic for inflation expectations and some reaction of these Twitter-based inflation expectations to policy action and communication.
+ER  - 
+
+TY  - JOUR
+T1  - Machine learning who to nudge: Causal vs predictive targeting in a field experiment on student financial aid renewal
+AU  - Athey, Susan
+AU  - Keleher, Niall
+AU  - Spiess, Jann
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105945
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105945
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002963
+KW  - Policy targeting
+KW  - Heterogeneous treatment effects
+KW  - Machine learning
+KW  - Causal inference
+KW  - Nudges
+KW  - Field experiment
+AB  - In many settings, interventions may be more effective for some individuals than for others, so that targeting interventions may be beneficial. We analyze the value of targeting in the context of a large-scale field experiment with over 53,000 college students, where the goal was to use “nudges” to encourage students to renew their financial-aid applications before a non-binding deadline. We begin with baseline approaches to targeting. First, we target based on a causal forest that assigns students to treatment according to those estimated to have the highest treatment effects. Next, we evaluate two alternative targeting policies, one targeting students with low predicted probability of renewing financial aid in the absence of the treatment, the other targeting those with high probability. The predicted baseline outcome is not the ideal criterion for targeting, nor is it a priori clear whether to prioritize low, high, or intermediate predicted probability. Nonetheless, targeting on low baseline outcomes is common in practice, for example when treatment effects are difficult to estimate. We propose hybrid approaches that incorporate the strengths of predictive approaches (accurate estimation) and causal approaches (correct criterion). We show that targeting intermediate baseline outcomes is most effective in our application, while targeting based on low baseline outcomes is detrimental. In one year of the experiment, nudging all students improved early filing by an average of 6.4 percentage points over a baseline average of 37%, and we estimate that targeting half of the students using our preferred policy attains around 75% of this benefit.
+ER  - 
+
+TY  - JOUR
+T1  - Mind your language: Market responses to central bank speeches
+AU  - Ahrens, Maximilian
+AU  - Erdemlioglu, Deniz
+AU  - McMahon, Michael
+AU  - Neely, Christopher J.
+AU  - Yang, Xiye
+JO  - Journal of Econometrics
+VL  - 249
+SP  - 105921
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105921
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002720
+KW  - Central bank communication
+KW  - Multimodal machine learning
+KW  - Natural language processing
+KW  - Speech analysis
+KW  - High-frequency data
+KW  - Volatility
+KW  - Tail risk
+AB  - Central bank communication between meetings often moves markets, but researchers have traditionally paid less attention to it. Using a dataset of U.S. Federal Reserve speeches, we develop supervised multimodal natural language processing methods to identify how monetary policy news affect bond and stock market volatility and tail risk through implied changes in forecasts of GDP, inflation, and unemployment. We find that forecast revisions derived from FOMC-member speech can help explain volatility and tail risk in both equity and bond markets. Speeches from Chairs tend to produce larger forecast revisions and unconditionally raise volatility and tail risk, but their economic signals can calm markets (reduce volatility and tail risk). There is some evidence that a speaker’s monetary policy views may affect the impact of implied forecast revisions after conditioning on GDP growth.
+ER  - 

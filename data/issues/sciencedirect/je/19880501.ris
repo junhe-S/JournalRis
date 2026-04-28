@@ -1,0 +1,227 @@
+TY  - JOUR
+T1  - Conditioning in models with logs
+AU  - Belsley, David A.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 127
+EP  - 143
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90030-9
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900309
+AB  - The conditioning diagnostics of Belsley, Kuh and Welsch (1980) are applicable to models that are linear in parameters and (structurally interpretable) variates. Different diagnostics are required when models contain different types of non-linearities. It is shown here, however, that the BKW diagnostics are also applicable to models containing logarithmic terms once the variates are first e-scaled, i.e., scaled to have a geometric mean equal to the base e of the natural logarithms.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial board
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - IFC
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90022-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440768890022X
+ER  - 
+
+TY  - JOUR
+T1  - Object-oriented software representations for statistical data
+AU  - Oldford, R.Wayne
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 227
+EP  - 246
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90034-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900346
+AB  - This paper presents new software designs for statistical data. These are implemented using an object-oriented programming paradigm. The implementations are built in a layered fashion from independent representations for the individual, variate, and datum components of a statistical observation to representations for univariate samples and multivariate observations. These in turn are combined according to a software model for an entire data set. This model is quite general and is shown to easily accomodate rather complex data sets. Statistical data-descriptive methods also separate according to the data representations and are therefore incorporated in their definition. How these data representations could be used in a new kind of statistical analysis system is also discussed. In particular, there are some strong implications for interactive statistical graphics.
+ER  - 
+
+TY  - JOUR
+T1  - Data analysis as search
+AU  - Lubinsky, David
+AU  - Pregibon, Daryl
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 247
+EP  - 268
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90035-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900358
+AB  - Like a detective, a data analyst will experience many dead ends, retrace his steps, and explore many alternatives before settling on a single description of the evidence in front of him. The process of searching for this description can be as unpredictable as the data themselves. Instead of mimicking this behavior, we propose a computer system for performing an orderly search, replacing intuition and hunches (which people are good at) with extensive computation (which computers are good at). We describe a formalization of the space of descriptions used by data analysts and describe heuristics for searching through this space. The search space is characterized as an hierarchical tree, with most accurate but least parsimonious descriptions at the root of the hierarchy, and the least accurate but most parsimonious descriptions at its leaves. Using this formalization we have implemented a Tree-based Environment for developing Statistical Strategy (TESS). The system includes a development environment for implementing and evaluating statistical strategies, as well as flexible mechanisms for applying the strategies to data. We discuss this implementation and give details of a particular strategy for the task of simple regression.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian specification analysis and estimation of simultaneous equation models using Monte Carlo methods
+AU  - Zellner, Arnold
+AU  - Bauwens, Luc
+AU  - Van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 39
+EP  - 72
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90026-7
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900267
+AB  - Bayesian procedures for specification analysis or diagnostic checking of modeling assumptions for structural equations of econometric models are developed and applied using Monte Carlo numerical methods. Checks on the validity of identifying restrictions, exogeneity assumptions and other specifying assumptions are performed using posterior distributions for discrepancy vectors and functions representing departures from specifying assumptions. Several mappings or functions of reduced form coefficients are defined and their posterior distributions are computed. A restricted reduced form approach is used to compute posterior distributions for structural parameters. These procedures are applied in analyses of two econometric models.
+ER  - 
+
+TY  - JOUR
+T1  - A computational examination of orthogonal distance regression
+AU  - Boggs, Paul T.
+AU  - Spiegelman, Clifford H.
+AU  - Donaldson, Janet R.
+AU  - Schnabel, Robert B.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 169
+EP  - 201
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90032-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900322
+AB  - Ordinary least squares (OLS) is one of the most commonly used criteria for fitting data to models and for estimating parameters. Orthogonal distance regression (ODR) extends least squares data fitting to problems with independent variables that are not known exactly. In this paper, we present the results of an empirical study designed to compare OLS to ODR for fitting both linear and non-linear models when there are errors in the independent variables. The results indicate that, for the data and performance criteria considered, ODR never performs appreciably worse than OLS and often performs considerably better.
+ER  - 
+
+TY  - JOUR
+T1  - Antithetic acceleration of Monte Carlo integration in Bayesian inference
+AU  - Geweke, John
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 73
+EP  - 89
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90027-9
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900279
+AB  - It is proposed to sample antithetically rather than randomly from the posterior density in Bayesian inference using Monte Carlo integration. Conditions are established under which the number of replications required with antithetic sampling relative to the number required with random sampling is inversely proportional to sample size, as sample size increases. The result is illustrated in an experiment using a bivariate vector autoregression.
+ER  - 
+
+TY  - JOUR
+T1  - Econometric analysis of small linear systems using PC-FIML
+AU  - Hendry, David F.
+AU  - Neale, Adrian J.
+AU  - Srba, Frank
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 203
+EP  - 226
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90033-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900334
+AB  - The framework for econometric analysis of small linear dynamic systems embodied in the micro-computer program PC-FIML is described in terms of ten themes which provide a structured approach to teaching, program operation, and empirical modelling. The themes are illustrated by a small consumption-income model and comprise: the concept of a system; the status of its variables; the formulation of the lag structure; system estimation and evaluation using recursive procedures; the econometric model of that system; its identification conditions; evaluation by system encompassing; estimation via the estimator generating equation; numerical optimization; and model evaluation from derived statistics and ancillary computations.
+ER  - 
+
+TY  - JOUR
+T1  - Editor's introduction
+AU  - Belsley, David A.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 3
+EP  - 5
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90024-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900243
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian analysis of systems of seemingly unrelated regression equations under a recursive extended natural conjugate prior density
+AU  - Richard, J.F.
+AU  - Steel, M.F.J.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 7
+EP  - 37
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90025-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900255
+AB  - A ‘Recursive Extended Natural Conjugate’ prior density is proposed for systems of seemingly unrelated regression equations. Compared to other classes of Extended Natural Conjugate prior densities it offers the advantage that analytical expressions are available for the prior covariance matrix of the regression coefficients. The posterior analysis combines analytical and numerical techniques. Numerical integration is based on Monte Carlo importance sampling. An application to a system of four wage equations for EEC countries serves to evaluate different techniques discussed in the paper.
+ER  - 
+
+TY  - JOUR
+T1  - A comparison of algorithms for maximum likelihood estimation of choice models
+AU  - Bunch, David S.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 145
+EP  - 167
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90031-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900310
+AB  - Maximum likelihood estimation (MLE) is often avoided in econometric and other statistical applications due to computational considerations despite its strong theoretical appeal. Recent advances in non-linear optimization provide feasible alternative methods for calculating MLE's, especially when special structure may be exploited, as for example in probabilistic choice models. This paper examines a range of quasi-Newton methods and gives numerical comparisons based on the multinomial logit model and a non-independence of irrelevant alternative model. Among the issues considered are step determination and methods of approximating the Hessian. These include standard secant updates (DFP and BFGS), statistical approximations (BHHH), and recently developed approaches which use model switching.
+ER  - 
+
+TY  - JOUR
+T1  - Dedication
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 1
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90023-1
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900231
+ER  - 
+
+TY  - JOUR
+T1  - Econometric illustrations of novel numerical integration strategies for Bayesian inference
+AU  - Naylor, J.C.
+AU  - Smith, A.F.M.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 103
+EP  - 125
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90029-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900292
+AB  - Recent progress with numerical techniques for implementing Bayesian methods for irregular, multi-parameter likelihoods is reviewed and illustrated with two econometric examples. The numerical integration strategies involve novel iterative, adaptive uses of Cartesian product and spherical rule quadrature formulae, together with importance sampling techniques.
+ER  - 
+
+TY  - JOUR
+T1  - A stationary stochastic approximation method
+AU  - Liddle, Roger F.
+AU  - Monahan, John F.
+JO  - Journal of Econometrics
+VL  - 38
+IS  - 1
+SP  - 91
+EP  - 102
+PY  - 1988
+DA  - 1988/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(88)90028-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407688900280
+AB  - A problem occuring in statistics and econometrics is the minimization (or root-finding) of a function of several parameters expressed as an integral. If the integral cannot be evaluated analytically and numerical integration is required, evaluation can be prohibitively costly when the dimension of integration exceeds two. Since Monte Carlo techniques are natural in such a case, stochastic approximation can be viewed as combining integration and optimization. While these methods require minimal conditions for convergence, implementation as a practical problem solver faces difficulties in verification and stopping. A stationary stochastic approximation method is proposed, which is less sophisticated mathematically. This method is applied to two types of problems: a Bayesian decision problem and the computation of minimum Hellinger distance estimators.
+ER  - 

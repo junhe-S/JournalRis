@@ -1,0 +1,161 @@
+TY  - JOUR
+T1  - Varying-coefficient spatial dynamic panel data models with fixed effects: Theory and application
+AU  - Hong, Han
+AU  - Ju, Gaosheng
+AU  - Li, Qi
+AU  - Yan, Karen X.
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105883
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105883
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002288
+KW  - Spatial model
+KW  - Dynamic panel data model
+KW  - Fixed effects
+KW  - Varying coefficients
+AB  - This paper considers a varying-coefficient spatial dynamic panel data model with fixed effects. We show that a two-point approximation method poses a potential weak identification problem. We propose a robust modified estimator to address this issue. Our two-step estimation procedure incorporates both linear and quadratic moment conditions. We also extend our analysis to a partially linear varying-coefficient model and develop a consistent test for this specification. We establish the asymptotic properties of the proposed estimators. Simulations indicate that our estimators and the test statistic perform well in finite samples. We apply the partially linear varying-coefficient model to study how the sales of liquor producers respond to those of neighboring competitors in China. We find spatial dependence among liquor producers and show that the spatial effects vary with competition intensity.
+ER  - 
+
+TY  - JOUR
+T1  - On the spectral density of fractional Ornstein–Uhlenbeck processes
+AU  - Shi, Shuping
+AU  - Yu, Jun
+AU  - Zhang, Chen
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105872
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105872
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002173
+KW  - Fractional Brownian motion
+KW  - Fractional Ornstein–Uhlenbeck process
+KW  - Spectral density
+KW  - Paxson approximation
+KW  - Whittle maximum likelihood
+KW  - Trading volume
+KW  - Realized volatility
+AB  - This paper introduces a novel and easy-to-implement method for accurately approximating the spectral density of discretely sampled fractional Ornstein–Uhlenbeck (fOU) processes. The method offers a substantial reduction in approximation error, particularly within the rough region of the fractional parameter H∈(0,0.5). This approximate spectral density has the potential to enhance the performance of estimation methods and hypothesis testing that make use of spectral densities. We introduce the approximate Whittle maximum likelihood (AWML) method for discretely sampled fOU processes, utilizing the approximate spectral density, and demonstrate that the AWML estimator exhibits properties of consistency and asymptotic normality when H∈(0,1), akin to the conventional Whittle maximum likelihood method. Through extensive simulation studies, we show that AWML outperforms existing methods in terms of estimation accuracy in finite samples. We then apply the AWML method to the trading volume of 40 financial assets. Our empirical findings reveal that the estimated Hurst parameters for these assets fall within the range of 0.10 to 0.21, indicating a rough dynamic.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in cluster randomized trials with matched pairs
+AU  - Bai, Yuehao
+AU  - Liu, Jizhou
+AU  - Shaikh, Azeem M.
+AU  - Tabord-Meehan, Max
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105873
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105873
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002185
+KW  - Experiment
+KW  - Matched pairs
+KW  - Cluster-level randomization
+KW  - Randomized controlled trial
+KW  - Treatment assignment
+AB  - This paper studies inference in cluster randomized trials where treatment status is determined according to a “matched pairs” design. Here, by a cluster randomized experiment, we mean one in which treatment is assigned at the level of the cluster; by a “matched pairs” design, we mean that a sample of clusters is paired according to baseline, cluster-level covariates and, within each pair, one cluster is selected at random for treatment. We study the large-sample behavior of a weighted difference-in-means estimator and derive two distinct sets of results depending on if the matching procedure does or does not match on cluster size. We then propose a single variance estimator which is consistent in either regime. Combining these results establishes the asymptotic exactness of tests based on these estimators. Next, we consider the properties of two common testing procedures based on t-tests constructed from linear regressions, and argue that both are generally conservative in our framework. We additionally study the behavior of a randomization test which permutes the treatment status for clusters within pairs, and establish its finite-sample and asymptotic validity for testing specific null hypotheses. Finally, we propose a covariate-adjusted estimator which adjusts for additional baseline covariates not used for treatment assignment, and establish conditions under which such an estimator leads to strict improvements in precision. A simulation study confirms the practical relevance of our theoretical results.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105911
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00262-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002628
+ER  - 
+
+TY  - JOUR
+T1  - Polar amplification in a moist energy balance model: A structural econometric approach to estimation and testing
+AU  - Brock, William A.
+AU  - Miller, J. Isaac
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105885
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105885
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002306
+KW  - Climate change
+KW  - Polar amplification
+KW  - Moist energy balance model
+KW  - Error-correction model
+KW  - Cointegration
+AB  - Poleward transport of atmospheric moisture and heat play major roles in the magnification of warming in poleward latitudes per degree of global warming, a phenomenon known as polar amplification (PA). We derive a time series econometric framework using a system of equations that have error-correction mechanisms restricted across equations to estimate and an identification strategy to recover the parameters of a moist energy balance model (MEBM) similar to those in the recent climate science literature. This framework enables the climate econometrician to estimate and forecast temperature rise in latitude belts as cumulative emissions continue to grow as well as account for effects of increases in atmospheric moisture suggested by the Clausius–Clapeyron equation, a driver of spatial non-uniformity in climate change. Non-uniformity is important for two reasons: climate change has unequal economic consequences that need to be better understood and amplification of temperatures in polar latitudes may trigger irreversible climate tipping points, which are disproportionately located in those regions.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for strong exogeneity in Proxy-VARs
+AU  - Bruns, Martin
+AU  - Keweloh, Sascha A.
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105876
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105876
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002215
+KW  - Structural vector autoregression
+KW  - Proxy VAR
+KW  - Exogeneity test
+AB  - Proxy variables have gained widespread prominence as indispensable tools for identifying structural VAR models. Analogous to instrumental variables, proxies need to be exogenous, i.e. uncorrelated with all non-target shocks. Assessing the exogeneity of proxies has traditionally relied on economic arguments rather than statistical tests. We argue that the economic rationale underlying the construction of commonly used proxy variables aligns with a stronger form of exogeneity. Specifically, proxies are typically constructed as variables not containing any information on the expected value of non-target shocks. We show conditions under which this enhanced concept of proxy exogeneity is testable without additional identifying assumptions.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in predictive quantile regressions
+AU  - Maynard, Alex
+AU  - Shimotsu, Katsumi
+AU  - Kuriyama, Nina
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105875
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105875
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002203
+KW  - Local-to-unity
+KW  - Quantile regression
+KW  - Bonferroni method
+KW  - Predictability
+KW  - Stock return
+AB  - This paper studies inference in predictive quantile regressions when the predictive regressor has a near-unit root. We derive asymptotic distributions for the quantile regression estimator and its heteroskedasticity and autocorrelation consistent (HAC) t-statistic in terms of functionals of Ornstein–Uhlenbeck processes. We then propose a switching-fully modified (FM) predictive test for quantile predictability. The proposed test employs an FM style correction with a Bonferroni bound for the local-to-unity parameter when the predictor has a near unit root. It switches to a standard predictive quantile regression test with a slightly conservative critical value when the largest root of the predictor lies in the stationary range. Simulations indicate that the test has a reliable size in small samples and good power. We employ this new methodology to test the ability of three commonly employed, highly persistent and endogenous lagged valuation regressors – the dividend price ratio, earnings price ratio, and book-to-market ratio – to predict the median, shoulders, and tails of the stock return distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Why are replication rates so low?
+AU  - Vu, Patrick
+JO  - Journal of Econometrics
+VL  - 245
+IS  - 1
+SP  - 105868
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105868
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002136
+KW  - Replications
+KW  - Statistical power
+KW  - Experiments
+AB  - Many explanations have been offered for why replication rates are low in the social sciences, including selective publication, p-hacking, and treatment effect heterogeneity. This article emphasizes that issues with the most commonly used approach for setting sample sizes in replication studies may also play an important role. Theoretically, I show in a simple model of the publication process that we should expect the replication rate to fall below its nominal target, even when original studies are unbiased. The main mechanism is that the most commonly used approach for setting the replication sample size does not properly account for the fact that original effect sizes are estimated. Specifically, it sets the replication sample size to achieve a nominal power target under the assumption that estimated effect sizes correspond to fixed true effects. However, since there are non-linearities in the replication power function linking original effect sizes to power, ignoring the fact that effect sizes are estimated leads to systematically lower replication rates than intended. Empirically, I find that a parsimonious model accounting only for these issues can fully explain observed replication rates in experimental economics and social science, and two-thirds of the replication gap in psychology. I conclude with practical recommendations for replicators.
+ER  - 

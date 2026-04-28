@@ -1,0 +1,123 @@
+TY  - JOUR
+T1  - Hermite polynomial based expansion of European option prices
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 179
+IS  - 2
+SP  - 158
+EP  - 177
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000153
+KW  - Option valuation
+KW  - Closed-form expansion
+KW  - Mean-reversion
+KW  - Self-exciting jumps
+KW  - Double exponential jumps
+AB  - We seek a closed-form series approximation of European option prices under a variety of diffusion models. The proposed convergent series are derived using the Hermite polynomial approach. Departing from the usual option pricing routine in the literature, our model assumptions have no requirements for affine dynamics or explicit characteristic functions. Moreover, convergent expansions provide a distinct insight into how and on which order the model parameters affect option prices, in contrast with small-time asymptotic expansions in the literature. With closed-form expansions, we explicitly translate model features into option prices, such as mean-reverting drift and self-exciting or skewed jumps. Numerical examples illustrate the accuracy of this approach and its advantage over alternative expansion methods.
+ER  - 
+
+TY  - JOUR
+T1  - A nonlinear panel data model of cross-sectional dependence
+AU  - Kapetanios, George
+AU  - Mitchell, James
+AU  - Shin, Yongcheol
+JO  - Journal of Econometrics
+VL  - 179
+IS  - 2
+SP  - 134
+EP  - 157
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000037
+KW  - Nonlinear panel data model
+KW  - Clustering
+KW  - Cross-section dependence
+KW  - Factor models
+KW  - Monte Carlo simulations
+KW  - Application to stock returns and inflation
+AB  - This paper proposes a nonlinear panel data model which can endogenously generate both ‘weak’ and ‘strong’ cross-sectional dependence. The model’s distinguishing characteristic is that a given agent’s behaviour is influenced by an aggregation of the views or actions of those around them. The model allows for considerable flexibility in terms of the genesis of this herding or clustering type behaviour. At an econometric level, the model is shown to nest various extant dynamic panel data models. These include panel AR models, spatial models, which accommodate weak dependence only, and panel models where cross-sectional averages or factors exogenously generate strong, but not weak, cross sectional dependence. An important implication is that the appropriate model for the aggregate series becomes intrinsically nonlinear, due to the clustering behaviour, and thus requires the disaggregates to be simultaneously considered with the aggregate. We provide the associated asymptotic theory for estimation and inference. This is supplemented with Monte Carlo studies and two empirical applications which indicate the utility of our proposed model as a vehicle to model different types of cross-sectional dependence.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian inference for nonlinear structural time series models
+AU  - Hall, Jamie
+AU  - Pitt, Michael K.
+AU  - Kohn, Robert
+JO  - Journal of Econometrics
+VL  - 179
+IS  - 2
+SP  - 99
+EP  - 111
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.10.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613002819
+KW  - Auxiliary particle filter
+KW  - DSGE model
+KW  - Multi-modal
+KW  - State space model
+AB  - We consider efficient methods for likelihood inference applied to structural models. In particular, we introduce a particle filter method which concentrates upon disturbances in the Markov state of the approximating solution to the structural model. A particular feature of such models is that the conditional distribution of interest for the disturbances is often multimodal. We provide a fast and effective method for approximating such distributions. We estimate a neoclassical growth model using this approach. An asset pricing model with persistent habits is also considered. The methodology we employ allows many fewer particles to be used than alternative procedures for a given precision.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 179
+IS  - 2
+SP  - IFC
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(14)00022-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000220
+ER  - 
+
+TY  - JOUR
+T1  - Bounding quantile demand functions using revealed preference inequalities
+AU  - Blundell, Richard
+AU  - Kristensen, Dennis
+AU  - Matzkin, Rosa
+JO  - Journal of Econometrics
+VL  - 179
+IS  - 2
+SP  - 112
+EP  - 127
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000177
+KW  - Consumer behavior
+KW  - Revealed preference
+KW  - Bounds
+KW  - Quantile regression
+AB  - This paper develops a new approach to the estimation of consumer demand models with unobserved heterogeneity subject to revealed preference inequality restrictions. Particular attention is given to nonseparable heterogeneity. The inequality restrictions are used to identify bounds on counterfactual demand. A nonparametric estimator for these bounds is developed and asymptotic properties are derived. An empirical application using data from the UK Family Expenditure Survey illustrates the usefulness of the methods.
+ER  - 
+
+TY  - JOUR
+T1  - A fast resample method for parametric and semiparametric models
+AU  - Armstrong, Timothy B.
+AU  - Bertanha, Marinho
+AU  - Hong, Han
+JO  - Journal of Econometrics
+VL  - 179
+IS  - 2
+SP  - 128
+EP  - 133
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000025
+KW  - Score function
+KW  - Bootstrap
+KW  - Subsampling
+KW  - Nonlinear models
+AB  - We propose a fast resample method for two step nonlinear parametric and semiparametric models, which does not require recomputation of the second stage estimator during each resample iteration. The fast resample method directly exploits the score function representations computed on each bootstrap sample, thereby reducing computational time considerably. This method is used to approximate the limit distribution of parametric and semiparametric estimators, possibly simulation based, that admit an asymptotic linear representation. Monte Carlo experiments demonstrate the desirable performance and vast improvement in the numerical speed of the fast bootstrap method.
+ER  - 

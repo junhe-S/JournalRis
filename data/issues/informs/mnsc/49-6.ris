@@ -1,0 +1,254 @@
+
+
+
+
+
+TY  - JOUR
+T1  - A Threshold Inventory Rationing Policy for Service-Differentiated Demand Classes
+AU  - Deshpande, Vinayak
+AU  - Cohen, Morris A.
+AU  - Donohue, Karen
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.683.16022
+DO  - 10.1287/mnsc.49.6.683.16022
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 683
+EP  - 703
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - Motivated by a study of the logistics systems used to manage consumable service parts for the U.S. military, we consider a static threshold-based rationing policy that is useful when pooling inventory across two demand classes characterized by different arrival rates and shortage (stockout and delay) costs. The scheme operates as a (Q, r) policy with the following feature. Demands from both classes are filled on a first-come-first-serve basis as long as on-hand inventory lies above a threshold levelK. Once on-hand inventory falls below this level, low-priority (i.e., low shortage cost) demand is backordered while high-priority demand continues to be filled. We analyze this static policy first under the assumption that backorders are filled according to a special threshold clearing mechanism. Structural results for the key performance measures are established to enable an efficient solution algorithm for computing stock control and rationing parameters (i.e.,Q, r, andK). Numerical results confirm that the solution under this special threshold clearing mechanism closely approximates that of the priority clearing policy. We next highlight conditions where our policy offers significant savings over traditional ?round-up? and ?separate stock? policies encountered in the military and elsewhere. Finally, we develop a lower bound on the cost of the optimal rationing policy. Numerical results show that the performance gap between our static threshold policy and the optimal policy is small in environments typical of the military and high-technology industries.
+AB  - Motivated by a study of the logistics systems used to manage consumable service parts for the U.S. military, we consider a static threshold-based rationing policy that is useful when pooling inventory across two demand classes characterized by different arrival rates and shortage (stockout and delay) costs. The scheme operates as a (Q, r) policy with the following feature. Demands from both classes are filled on a first-come-first-serve basis as long as on-hand inventory lies above a threshold levelK. Once on-hand inventory falls below this level, low-priority (i.e., low shortage cost) demand is backordered while high-priority demand continues to be filled. We analyze this static policy first under the assumption that backorders are filled according to a special threshold clearing mechanism. Structural results for the key performance measures are established to enable an efficient solution algorithm for computing stock control and rationing parameters (i.e.,Q, r, andK). Numerical results confirm that the solution under this special threshold clearing mechanism closely approximates that of the priority clearing policy. We next highlight conditions where our policy offers significant savings over traditional ?round-up? and ?separate stock? policies encountered in the military and elsewhere. Finally, we develop a lower bound on the cost of the optimal rationing policy. Numerical results show that the performance gap between our static threshold policy and the optimal policy is small in environments typical of the military and high-technology industries.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.683.16022
+UR  - https://doi.org/10.1287/mnsc.49.6.683.16022
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Capturing the Risk-Pooling Effect Through Demand Reshape
+AU  - Eynan, Amit
+AU  - Fouque, Thierry
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.704.16020
+DO  - 10.1287/mnsc.49.6.704.16020
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 704
+EP  - 717
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - The risk-pooling effect has been documented to benefit inventory systems by reducing the need for safety stock and consequently lowering costs such as inventory holding and shortage penalty. In this paper, we propose a new approach, called ?demand reshape,? to take advantage of the risk-pooling effect. It is demonstrated that a company can improve its profit by encouraging some of its customers, who intended to purchase one product to switch to another. The effectiveness of this approach is evaluated in various scenarios and found to be very promising.
+AB  - The risk-pooling effect has been documented to benefit inventory systems by reducing the need for safety stock and consequently lowering costs such as inventory holding and shortage penalty. In this paper, we propose a new approach, called ?demand reshape,? to take advantage of the risk-pooling effect. It is demonstrated that a company can improve its profit by encouraging some of its customers, who intended to purchase one product to switch to another. The effectiveness of this approach is evaluated in various scenarios and found to be very promising.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.704.16020
+UR  - https://doi.org/10.1287/mnsc.49.6.704.16020
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Value of Resource Flexibility in the Resource-Constrained Job Assignment Problem
+AU  - Vairaktarakis, George L.
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.718.16027
+DO  - 10.1287/mnsc.49.6.718.16027
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 718
+EP  - 732
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - We consider the problem of minimizing project duration in an environment where each project activity can be executed by a number of different flexible resources. The capabilities of the flexible resources are modeled using a binary activity-resource matrixAcalled theavailabilitymatrix. Activity durations are known deterministically. We develop tight lower bounds and a variety of heuristics accompanied with extensive computational tests regarding their performance. It is shown that our algorithms consistently perform near optimally. Using these heuristics, we perform experiments on the effect of operating flexibility on project duration, where resource flexibility is measured by the number of resources available per activity, and the form of the availability matrixA. Our experiments lead to important managerial guidelines regarding the role of resource flexibility on project duration. For instance, it is found that when the flexible capabilities of the resources are evenly distributed across the activities, small improvements in resource flexibilities provide nearly the same benefits in project duration as a system of fully flexible resources.
+AB  - We consider the problem of minimizing project duration in an environment where each project activity can be executed by a number of different flexible resources. The capabilities of the flexible resources are modeled using a binary activity-resource matrixAcalled theavailabilitymatrix. Activity durations are known deterministically. We develop tight lower bounds and a variety of heuristics accompanied with extensive computational tests regarding their performance. It is shown that our algorithms consistently perform near optimally. Using these heuristics, we perform experiments on the effect of operating flexibility on project duration, where resource flexibility is measured by the number of resources available per activity, and the form of the availability matrixA. Our experiments lead to important managerial guidelines regarding the role of resource flexibility on project duration. For instance, it is found that when the flexible capabilities of the resources are evenly distributed across the activities, small improvements in resource flexibilities provide nearly the same benefits in project duration as a system of fully flexible resources.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.718.16027
+UR  - https://doi.org/10.1287/mnsc.49.6.718.16027
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Problem–Solving Oscillations in Complex Engineering Projects
+AU  - Mihm, Jürgen
+AU  - Loch, Christoph
+AU  - Huchzermeier, Arnd
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.733.16021
+DO  - 10.1287/mnsc.49.6.733.16021
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 733
+EP  - 750
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - Coordination among many interdependent actors in complex product development projects is recognized as a key activity in organizational theory. It is well known that this coordination becomes progressively more difficult with project size, but we do not yet sufficiently understand whether this effect can be controlled with frequent and rich communication among project members, or whether it is inevitable. Recent work in complexity theory suggests that a project might form a ?rugged landscape,? for which performance deterioration with system size is inevitable. This paper builds a mathematical model of a complex design project that is divided into components (subproblems) and integrated back to the system. The model explicitly represents local component decisions, as well as component interactions in determining system performance. The model shows, first, how a rugged performance landscape arises even from simple components with simple performance functions, if the components are interdependent. Second, we characterize the dynamic behavior of the system analytically and with simulations. We show under which circumstances it exhibits performance oscillations or divergence to design solutions with low performance. Third, we derive classes of managerial actions available to improve performance dynamics, such as modularization, immediate communication, and exchanging preliminary information. Some of these have not yet received adequate attention in literature and practice.
+AB  - Coordination among many interdependent actors in complex product development projects is recognized as a key activity in organizational theory. It is well known that this coordination becomes progressively more difficult with project size, but we do not yet sufficiently understand whether this effect can be controlled with frequent and rich communication among project members, or whether it is inevitable. Recent work in complexity theory suggests that a project might form a ?rugged landscape,? for which performance deterioration with system size is inevitable. This paper builds a mathematical model of a complex design project that is divided into components (subproblems) and integrated back to the system. The model explicitly represents local component decisions, as well as component interactions in determining system performance. The model shows, first, how a rugged performance landscape arises even from simple components with simple performance functions, if the components are interdependent. Second, we characterize the dynamic behavior of the system analytically and with simulations. We show under which circumstances it exhibits performance oscillations or divergence to design solutions with low performance. Third, we derive classes of managerial actions available to improve performance dynamics, such as modularization, immediate communication, and exchanging preliminary information. Some of these have not yet received adequate attention in literature and practice.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.733.16021
+UR  - https://doi.org/10.1287/mnsc.49.6.733.16021
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Overcoming Local Search Through Alliances and Mobility
+AU  - Rosenkopf, Lori
+AU  - Almeida, Paul
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.751.16026
+DO  - 10.1287/mnsc.49.6.751.16026
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 751
+EP  - 766
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - Recent research suggests that, due to organizational and relational constraints, firms are limited contextually?both geographically and technologically?in their search for new knowledge. But distant contexts may offer ideas and insights that can be extremely useful to innovation through knowledge recombination. So how can firms reach beyond their existing contexts in their search for new knowledge? In this paper, we suggest that two mechanisms?alliances and the mobility of inventors?can serve as bridges to distant contexts and, thus, enable firms to overcome the constraints of contextually localized search. Through the analysis of patent citation patterns in the semiconductor industry, we first demonstrate both the geographic and technological localization of knowledge. We then explore if the formation of alliances and mobility of active inventors facilitate interfirm knowledge flows across contexts. We find that mobility is associated with interfirm knowledge flows regardless of geographic proximity and, in fact, the usefulness of alliances and mobility increases with technological distance. These findings suggest that firms can employ knowledge acquisition mechanisms to fill in the holes of their existing technological and geographic context.
+AB  - Recent research suggests that, due to organizational and relational constraints, firms are limited contextually?both geographically and technologically?in their search for new knowledge. But distant contexts may offer ideas and insights that can be extremely useful to innovation through knowledge recombination. So how can firms reach beyond their existing contexts in their search for new knowledge? In this paper, we suggest that two mechanisms?alliances and the mobility of inventors?can serve as bridges to distant contexts and, thus, enable firms to overcome the constraints of contextually localized search. Through the analysis of patent citation patterns in the semiconductor industry, we first demonstrate both the geographic and technological localization of knowledge. We then explore if the formation of alliances and mobility of active inventors facilitate interfirm knowledge flows across contexts. We find that mobility is associated with interfirm knowledge flows regardless of geographic proximity and, in fact, the usefulness of alliances and mobility increases with technological distance. These findings suggest that firms can employ knowledge acquisition mechanisms to fill in the holes of their existing technological and geographic context.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.751.16026
+UR  - https://doi.org/10.1287/mnsc.49.6.751.16026
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Investment Implications of Information Acquisition and Leakage
+AU  - Dye, Ronald A.
+AU  - Sridhar, Sri S.
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.767.16029
+DO  - 10.1287/mnsc.49.6.767.16029
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 767
+EP  - 783
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - This paper studies when a firm will acquire additional information about a potential new project by consulting outsiders, when doing so runs the risk of reducing the value of implementing the project as a consequence of information leakage. The analysis evaluates the firm's information acquisition activities in both the presence and absence of moral hazard in project production.
+AB  - This paper studies when a firm will acquire additional information about a potential new project by consulting outsiders, when doing so runs the risk of reducing the value of implementing the project as a consequence of information leakage. The analysis evaluates the firm's information acquisition activities in both the presence and absence of moral hazard in project production.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.767.16029
+UR  - https://doi.org/10.1287/mnsc.49.6.767.16029
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Quality Improvement and Infrastructure Activity Costs in Software Development: A Longitudinal Analysis
+AU  - Harter, Donald E.
+AU  - Slaughter, Sandra A.
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.784.16023
+DO  - 10.1287/mnsc.49.6.784.16023
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 784
+EP  - 800
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - This study draws upon theories of task interdependence and organizational inertia to analyze the effect of quality improvement on infrastructure activity costs in software development. Although increasing evidence indicates that quality improvement reduces software development costs, the impact on infrastructure activities is not known. Infrastructure activities include services like computer operations, data integration, and configuration management that support software development. Because infrastructure costs represent a substantial portion of firms' information technology budgets, it is important to identify innovations that yield significant cost savings in infrastructure activities. We evaluate quality and cost data collected in nine infrastructure activity centers over 10 years of product development in a major software firm undergoing a quality transformation. Findings indicate that infrastructure activities do benefit from quality improvement. The greatest marginal cost savings are realized in infrastructure activities that are highly interdependent with development and that occur later in the software development life cycle. Organizational inertia influences the rapidity with which the infrastructure activities benefit from higher product quality, especially for the more specialized activities. Finally, our findings suggest that although the savings in infrastructure from quality improvement are substantial, there are diminishing returns to quality improvement in infrastructure activities.
+AB  - This study draws upon theories of task interdependence and organizational inertia to analyze the effect of quality improvement on infrastructure activity costs in software development. Although increasing evidence indicates that quality improvement reduces software development costs, the impact on infrastructure activities is not known. Infrastructure activities include services like computer operations, data integration, and configuration management that support software development. Because infrastructure costs represent a substantial portion of firms' information technology budgets, it is important to identify innovations that yield significant cost savings in infrastructure activities. We evaluate quality and cost data collected in nine infrastructure activity centers over 10 years of product development in a major software firm undergoing a quality transformation. Findings indicate that infrastructure activities do benefit from quality improvement. The greatest marginal cost savings are realized in infrastructure activities that are highly interdependent with development and that occur later in the software development life cycle. Organizational inertia influences the rapidity with which the infrastructure activities benefit from higher product quality, especially for the more specialized activities. Finally, our findings suggest that although the savings in infrastructure from quality improvement are substantial, there are diminishing returns to quality improvement in infrastructure activities.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.784.16023
+UR  - https://doi.org/10.1287/mnsc.49.6.784.16023
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - When Private Beliefs Shape Collective Reality: The Effects of Beliefs About Coworkers on Group Discussion and Performance
+AU  - Kim, Peter H.
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.801.16025
+DO  - 10.1287/mnsc.49.6.801.16025
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 801
+EP  - 815
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - The study presented in this paper examines how beliefs about coworkers affect group discussion and performance. Two beliefs are considered: (1) Perceptions of coworker task competence, and (2) achievement motivation. This study investigates whether these perceptions can actually hinder group discussion and performance, and considers the contexts in which these detrimental effects are more or less likely to arise. Results indicate that although perceptions of higher achievement motivation in coworkers lowered performance when task information was partially shared, they raised performance when task information was fully shared. A content analysis of group discussions reveals that the discussion behaviors examined by this study, rather than the more frequently examined bias toward discussing common information, mediated these results.
+AB  - The study presented in this paper examines how beliefs about coworkers affect group discussion and performance. Two beliefs are considered: (1) Perceptions of coworker task competence, and (2) achievement motivation. This study investigates whether these perceptions can actually hinder group discussion and performance, and considers the contexts in which these detrimental effects are more or less likely to arise. Results indicate that although perceptions of higher achievement motivation in coworkers lowered performance when task information was partially shared, they raised performance when task information was fully shared. A content analysis of group discussions reveals that the discussion behaviors examined by this study, rather than the more frequently examined bias toward discussing common information, mediated these results.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.801.16025
+UR  - https://doi.org/10.1287/mnsc.49.6.801.16025
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Mode Locking and Chaos in a Deterministic Queueing Model with Feedback
+AU  - Haxholdt, Christian
+AU  - Larsen, Erik R.
+AU  - van Ackere, Ann
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.816.16028
+DO  - 10.1287/mnsc.49.6.816.16028
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 816
+EP  - 830
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - We consider a simple, deterministic queueing system with feedback, which exhibits the phenomena of sustained oscillation, mode locking, quasi-periodic behaviour, and chaos. This implies that a fully deterministic queueing system can exhibit seemingly unpredictable behaviour. We ignore variability, and focus on two forms of feedback: (i) the service rate increases as queue length increases, and (ii) the arrival rate depends on customers' perception of past waiting times. We model a customer's decision to seek service as a two stage process: (i) deciding whether or not to use a facility, and (ii) deciding the frequency of visit (daily, weekly, monthly, etc.). This frequency is initially constant, and later on replaced by a deterministic, time-dependent pattern. Although highly stylised, this model captures the essential features of many real-life systems whose average arrival rate varies over time. Reducing the amplitude of cycles in demand makes the system more predictable and thus easier to manage. Although we represent this model as a queue of customers waiting for service, the model can be interpreted more generally as any situation where an increase in demand lowers the quality of service.
+AB  - We consider a simple, deterministic queueing system with feedback, which exhibits the phenomena of sustained oscillation, mode locking, quasi-periodic behaviour, and chaos. This implies that a fully deterministic queueing system can exhibit seemingly unpredictable behaviour. We ignore variability, and focus on two forms of feedback: (i) the service rate increases as queue length increases, and (ii) the arrival rate depends on customers' perception of past waiting times. We model a customer's decision to seek service as a two stage process: (i) deciding whether or not to use a facility, and (ii) deciding the frequency of visit (daily, weekly, monthly, etc.). This frequency is initially constant, and later on replaced by a deterministic, time-dependent pattern. Although highly stylised, this model captures the essential features of many real-life systems whose average arrival rate varies over time. Reducing the amplitude of cycles in demand makes the system more predictable and thus easier to manage. Although we represent this model as a queue of customers waiting for service, the model can be interpreted more generally as any situation where an increase in demand lowers the quality of service.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.816.16028
+UR  - https://doi.org/10.1287/mnsc.49.6.816.16028
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Computing Power Indices for Large Voting Games
+AU  - Leech, Dennis
+Y1  - 2003/06/01
+PY  - 2003
+DA  - 2003/06/01
+N1  - doi: 10.1287/mnsc.49.6.831.16024
+DO  - 10.1287/mnsc.49.6.831.16024
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 831
+EP  - 837
+VL  - 49
+IS  - 6
+PB  - INFORMS
+N2  - Voting power indices enable the analysis of the distribution of power in a legislature or voting body in which different members have different numbers of votes. Although this approach to the measurement of power has been known for a long time, its application to large games has been limited by the difficulty of computing these indices. This paper presents a new method for computing power indices that combines exact methods with an approximate method due to Owen. This method is of most utility in situations where the number of players is large and the voting weights are concentrated in the hands of a small number of members.
+AB  - Voting power indices enable the analysis of the distribution of power in a legislature or voting body in which different members have different numbers of votes. Although this approach to the measurement of power has been known for a long time, its application to large games has been limited by the difficulty of computing these indices. This paper presents a new method for computing power indices that combines exact methods with an approximate method due to Owen. This method is of most utility in situations where the number of players is large and the voting weights are concentrated in the hands of a small number of members.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.49.6.831.16024
+UR  - https://doi.org/10.1287/mnsc.49.6.831.16024
+Y2  - 2024/03/28
+ER  - 

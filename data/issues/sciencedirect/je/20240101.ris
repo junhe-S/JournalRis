@@ -1,0 +1,657 @@
+TY  - JOUR
+T1  - An information–Theoretic approach to partially identified auction models
+AU  - Jun, Sung Jae
+AU  - Pinkse, Joris
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105566
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105566
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002828
+KW  - English auctions
+KW  - partial identification
+KW  - maximum entropy
+KW  - inequality constraints
+KW  - nonparametric inference
+AB  - We consider a situation in which we have data from ascending auctions with symmetric bidders, independent private values, and exogenous entry in which the bidders’ value distribution is partially identified. Focusing on the case in which the seller intends to use a second price auction, we discuss how to determine an optimal reserve price. We justify the use of maximum entropy, explore the properties of the estimand, determine the asymptotic properties of our maximum entropy estimator, evaluate its behavior in a simulation study, and demonstrate its use in a modest application. As an extension, we propose a maxmin decision rule with entropy regularization, which includes Aryal and Kim (2013) and the maximum entropy solution as extreme cases.
+ER  - 
+
+TY  - JOUR
+T1  - Bellman filtering and smoothing for state–space models
+AU  - Lange, Rutger-Jan
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105632
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105632
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003482
+KW  - Dynamic programming
+KW  - Posterior mode
+KW  - Kalman filter
+KW  - Particle filter
+AB  - This paper presents a new filter for state–space models based on Bellman’s dynamic-programming principle, allowing for nonlinearity, non-Gaussianity and degeneracy in the observation and/or state-transition equations. The resulting Bellman filter is a direct generalisation of the (iterated and extended) Kalman filter, enabling scalability to higher dimensions while remaining computationally inexpensive. It can also be extended to enable smoothing. Under suitable conditions, the Bellman-filtered states are stable over time and contractive towards a region around the true state at every time step. Static (hyper)parameters are estimated by maximising a filter-implied pseudo log-likelihood decomposition. In univariate simulation studies, the Bellman filter performs on par with state-of-the-art simulation-based techniques at a fraction of the computational cost. In two empirical applications, involving up to 150 spatial dimensions or highly degenerate/nonlinear state dynamics, the Bellman filter outperforms competing methods in both accuracy and speed.
+ER  - 
+
+TY  - JOUR
+T1  - A conditional linear combination test with many weak instruments
+AU  - Lim, Dennis
+AU  - Wang, Wenjie
+AU  - Zhang, Yichong
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105602
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105602
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003184
+KW  - Many instruments
+KW  - Power
+KW  - Size
+KW  - Weak identification
+AB  - We consider a linear combination of jackknife Anderson-Rubin (AR), jackknife Lagrangian multiplier (LM), and orthogonalized jackknife LM tests for inference in IV regressions with many weak instruments and heteroskedasticity. Following I.Andrews (2016), we choose the weights in the linear combination based on a decision-theoretic rule that is adaptive to the identification strength. Under both weak and strong identifications, the proposed test controls asymptotic size and is admissible among certain class of tests. Under strong identification, our linear combination test has optimal power against local alternatives among the class of invariant or unbiased tests which are constructed based on jackknife AR and LM tests. Simulations and an empirical application to Angrist and Krueger’s (1991) dataset confirm the good power properties of our test.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric Bayesian estimation of dynamic discrete choice models
+AU  - Norets, Andriy
+AU  - Shimizu, Kenichi
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105642
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105642
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003585
+KW  - Dynamic discrete choice
+KW  - Bayesian nonparametrics
+KW  - Set identification
+KW  - Location-scale mixtures
+KW  - Hamiltonian Monte Carlo
+KW  - Reversible jump
+AB  - We propose a tractable semiparametric estimation method for structural dynamic discrete choice models. The distribution of additive utility shocks in the proposed framework is modeled by location-scale mixtures of extreme value distributions with varying numbers of mixture components. Our approach exploits the analytical tractability of extreme value distributions in the multinomial choice settings and the flexibility of the location-scale mixtures. We implement the Bayesian approach to inference using Hamiltonian Monte Carlo and an approximately optimal reversible jump algorithm. In our simulation experiments, we show that the standard dynamic logit model can deliver misleading results, especially about counterfactuals, when the shocks are not extreme value distributed. Our semiparametric approach delivers reliable inference in these settings. We develop theoretical results on approximations by location-scale mixtures in an appropriate distance and posterior concentration of the set identified utility parameters and the distribution of shocks in the model.
+ER  - 
+
+TY  - JOUR
+T1  - An identification and testing strategy for proxy-SVARs with weak proxies
+AU  - Angelini, Giovanni
+AU  - Cavaliere, Giuseppe
+AU  - Fanelli, Luca
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105604
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105604
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003202
+KW  - Proxy-SVAR
+KW  - Bootstrap inference
+KW  - External instruments
+KW  - Identification
+KW  - Oil supply shock
+AB  - When proxies (external instruments) used to identify target structural shocks are weak, inference in proxy-SVARs (SVAR-IVs) is nonstandard and the construction of asymptotically valid confidence sets for the impulse responses of interest requires weak-instrument robust methods. In the presence of multiple target shocks, test inversion techniques require extra restrictions on the proxy-SVAR parameters other than those implied by the proxies that may be difficult to interpret and test. We show that frequentist asymptotic inference in these situations can be conducted through Minimum Distance estimation and standard asymptotic methods if the proxy-SVAR can be identified by using ‘strong’ instruments for the non-target shocks; i.e., the shocks which are not of primary interest in the analysis. The suggested identification strategy hinges on a novel pre-test for the null of instrument relevance, based on bootstrap resampling, which is not subject to pre-testing issues. Specifically, the validity of post-test asymptotic inferences remains unaffected by the test outcomes due to an asymptotic independence result between the bootstrap and non-bootstrap statistics. The test is robust to conditionally heteroskedastic and/or zero-censored proxies, is computationally straightforward and applicable regardless of the number of shocks being instrumented. Some illustrative examples show the empirical usefulness of the suggested identification and testing strategy.
+ER  - 
+
+TY  - JOUR
+T1  - Robust testing for explosive behavior with strongly dependent errors
+AU  - Lui, Yiu Lim
+AU  - Phillips, Peter C.B.
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105626
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105626
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003421
+KW  - HAR test
+KW  - Long memory
+KW  - Explosiveness
+KW  - Unit root test
+KW  - S&P 500
+AB  - A heteroskedasticity-autocorrelation robust (HAR) test statistic is proposed to test for the presence of explosive roots in financial or real asset prices when the equation errors are strongly dependent. Limit theory for the test statistic is developed and extended to heteroskedastic models. The new test has stable size properties unlike conventional test statistics that typically lead to size distortion and inconsistency in the presence of strongly dependent equation errors. The new procedure can be used to consistently time-stamp the origination and termination of an explosive episode under similar conditions of long memory errors. Simulations are conducted to assess the finite sample performance of the proposed test and estimators. An empirical application to the S&P 500 index highlights the usefulness of the proposed procedures in practical work.
+ER  - 
+
+TY  - JOUR
+T1  - Sharp bounds in the latent index selection model
+AU  - Marx, Philip
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105561
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105561
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002774
+KW  - Instrumental variables
+KW  - Latent index selection model
+KW  - Marginal treatment effects
+KW  - Partial identification
+KW  - Sharp bounds
+KW  - Counterfactuals
+KW  - Extrapolation
+KW  - Second-order stochastic dominance
+KW  - Stochastic ordering
+KW  - Majorization
+KW  - Oregon Health Insurance Experiment
+AB  - A fundamental question underlying the literature on partial identification is: what can we learn about parameters that are relevant for policy but not necessarily point-identified by the exogenous variation we observe? This paper provides an answer in terms of sharp, analytic characterizations and bounds for an important class of policy-relevant treatment effects, consisting of marginal treatment effects and linear functionals thereof, in the latent index selection model as formalized in Vytlacil (2002). The sharp bounds use the full content of identified marginal distributions, and analytic derivations rely on the theory of stochastic orders. The proposed methods also make it possible to sharply incorporate new auxiliary assumptions on distributions into the latent index selection framework. Empirically, I apply the methods to study the effects of Medicaid on emergency room utilization in the Oregon Health Insurance Experiment, showing that the predictions from extrapolations based on a distribution assumption (rank similarity) differ substantively and consistently from existing extrapolations based on a parametric mean assumption (linearity). This underscores the value of utilizing the model’s full empirical content in combination with auxiliary assumptions.
+ER  - 
+
+TY  - JOUR
+T1  - Introduction to the Themed Issue on Climate Econometrics
+AU  - Miller, J. Isaac
+AU  - Pretis, Felix
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105628
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105628
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003445
+ER  - 
+
+TY  - JOUR
+T1  - Advances in nowcasting economic activity: The role of heterogeneous dynamics and fat tails
+AU  - Antolín-Díaz, Juan
+AU  - Drechsel, Thomas
+AU  - Petrella, Ivan
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105634
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105634
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003500
+KW  - Nowcasting
+KW  - Dynamic factor models
+KW  - Real-time data
+KW  - Bayesian methods
+KW  - Fat tails
+AB  - A key question for households, firms, and policy makers is: how is the economy doing now? This paper develops a Bayesian dynamic factor model that allows for nonlinearities, heterogeneous lead–lag patterns and fat tails in macroeconomic data. Explicitly modeling these features changes the way that different indicators contribute to the real-time assessment of the state of the economy, and substantially improves the out-of-sample performance of this class of models. In a formal evaluation, our nowcasting framework beats benchmark econometric models and professional forecasters at predicting US GDP growth in real time.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of sequential games of incomplete information with multiple equilibria
+AU  - Yoon, Jangsu
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105569
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105569
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002853
+KW  - Sequential game
+KW  - Incomplete information game
+KW  - Perfect Bayesian Nash equilibria
+KW  - Multiple equilibria
+KW  - Sieve minimum distance estimator
+AB  - This paper discusses the identification and estimation of game-theoretic models, mainly focusing on sequential games of incomplete information. In most empirical games, researchers cannot observe the exact order of actions played in the game and rely on the assumption of simultaneous actions. My structural modeling generalizes an empirical game to encompass simultaneous and sequential actions as special cases. I specify a sequential game allowing for multiple players in each stage and multiple Perfect Bayesian Nash Equilibria, showing that the structural parameters, including the payoff function parameters, the order of actions, and the equilibrium selection mechanism, are separately identified. The various exclusion restrictions in the finite mixture literature help attain point identification of structural parameters and provide a testable method to verify identification conditions. Next, I consider a Sieve Minimum Distance (SMD) estimator of Ai and Chen (2003) for the structural parameters and verify its asymptotic properties. The Monte Carlo simulations evaluate the performance of the proposed estimator and provide numerical evidence of potential bias under the misspecified order of actions. The empirical application of Walmart and Kmart’s entry game demonstrates that retailers compete sequentially in a significant portion of markets.
+ER  - 
+
+TY  - JOUR
+T1  - Autoregressive conditional betas
+AU  - Blasques, F.
+AU  - Francq, Christian
+AU  - Laurent, Sébastien
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105630
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105630
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003469
+KW  - Score driven model
+KW  - Time-varying parameters
+KW  - GARCH model
+KW  - Betas
+AB  - This paper introduces an autoregressive conditional beta (ACB) model that allows regressions with dynamic betas (or slope coefficients) and residuals with GARCH conditional volatility. The model fits in the (quasi) score-driven approach recently proposed in the literature, and it is semi-parametric in the sense that the distributions of the innovations are not necessarily specified. The time-varying betas are allowed to depend on past shocks and exogenous variables. We establish the existence of a stationary solution for the ACB model, the invertibility of the score-driven filter for the time-varying betas, and the asymptotic properties of one-step and multistep QMLEs for the new ACB model. The finite sample properties of these estimators are studied by means of an extensive Monte Carlo study. Finally, we also propose a strategy to test for the constancy of the conditional betas. In a financial application, we find evidence for time-varying conditional betas and highlight the empirical relevance of the ACB model in a portfolio and risk management empirical exercise.
+ER  - 
+
+TY  - JOUR
+T1  - Role models and revealed gender-specific costs of STEM in an extended Roy model of major choice
+AU  - Henry, Marc
+AU  - Méango, Romuald
+AU  - Mourifié, Ismaël
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105571
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105571
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002877
+KW  - Roy model
+KW  - Partial identification
+KW  - Stochastic monotonicity
+KW  - Sharp bounds
+KW  - Sharp testable implications
+KW  - Education sector choice
+KW  - Role models
+KW  - Women in STEM
+AB  - We derive sharp bounds on the non consumption utility component in an extended Roy model of sector selection. We interpret this non consumption utility component as a compensating wage differential. The bounds are derived under the assumption that potential utilities in each sector are (jointly) stochastically monotone with respect to an observed selection shifter. The research is motivated by the analysis of women’s choice of university major, their under representation in mathematics intensive fields, and the impact of role models on choices and outcomes. To illustrate our methodology, we investigate the cost of STEM fields with data from a German graduate survey, and using the mother’s education level and the proportion of women on the STEM faculty at the time of major choice as selection shifters.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference by stochastic optimization
+AU  - Forneron, Jean-Jacques
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105638
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105638
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003548
+KW  - Stochastic gradient descent
+KW  - M-estimation
+KW  -  out of  and multiplier bootstrap
+AB  - In non-linear estimations, it is common to assess sampling uncertainty by bootstrap inference. For complex models, this can be computationally intensive. This paper combines optimization with resampling: turning stochastic optimization into a fast resampling device. Two methods are introduced: a resampled Newton–Raphson (rnr) and a resampled quasi-Newton (rqn) algorithm. Both produce draws that can be used to compute consistent estimates, confidence intervals, and standard errors in a single run. The draws are generated by a gradient and Hessian (or an approximation) computed from batches of data that are resampled at each iteration. The proposed methods transition quickly from optimization to resampling when the objective is smooth and strictly convex. Simulated and empirical applications illustrate the properties of the methods on large scale and computationally intensive problems. Comparisons with frequentist and Bayesian methods highlight the features of the algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Profiling the plight of disconnected youth in America
+AU  - MaCurdy, Thomas
+AU  - Glick, David
+AU  - Sherpa, Sonam
+AU  - Nagavarapu, Sriniketh
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105557
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105557
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002737
+KW  - Disconnection
+KW  - Enrollment
+KW  - Youth employment
+KW  - NLSY
+KW  - Duration model
+KW  - Survival analysis
+AB  - In a successful transition from youth to adulthood, individuals pass through a sequence of roles involving school, work, and family formation that culminate in their becoming self-sufficient adults. However, some “disconnected” youth spend extended periods of time outside of any role that constitutes an element of the pathway towards adult independence. Assisting these youth requires a systematic understanding of what “disconnection” means, how many disconnected youth there are, who these youth are, and how the scale of the problem has evolved over time. Using the National Longitudinal Surveys of Youth for 1997 and 1979, we address these issues by creating concrete definitions of “disconnection spells” using rich data on youths’ enrollment, work, and personal histories. We estimate a multi-state duration model to account for right censoring and to understand differences across salient sub-groups. Our estimates imply that in the early 2000s, almost 19% and 25% of young men and young women, respectively, experienced a disconnection spell by age 23 using our basic definition. These rates are substantially higher for certain sub-groups defined by race/ethnicity, parental education, and government aid receipt, rising as high as 30+% by age 23. Approximately 60% of youth with a disconnection spell have it last longer than a year, and close to 10% have it last longer than 4 years. However, once reconnected, a majority of youth go at least three years without a re-disconnection spell. Patterns of initial disconnection changed markedly from the 1980s to the 2000s, as young women saw a 12 percentage point decline over time. Moreover, the Black-White gap in disconnection has fallen for women, but increased for men. Our profile of disconnection experiences provides a starting point for government agencies aiming to understand where, how, and with whom to intervene to prevent lengthy disconnection spells.
+ER  - 
+
+TY  - JOUR
+T1  - The fixed-b limiting distribution and the ERP of HAR tests under nonstationarity
+AU  - Casini, Alessandro
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105625
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105625
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300341X
+KW  - Asymptotic expansion
+KW  - Fixed-
+KW  - HAC standard errors
+KW  - HAR inference
+KW  - Long-run variance
+KW  - Nonstationarity
+AB  - We show that the limiting distribution of HAR test statistics under fixed-b asymptotics is not pivotal when the data are nonstationary (i.e., time-varying autocovariance structure). It takes the form of a complicated function of Gaussian processes and depends on the second moments of the relevant series (e.g., of the regressors and errors for the case of the linear regression model). Hence, fixed-b inference methods based on stationarity are not theoretically valid in general. The nuisance parameters entering the fixed-b limiting distribution can be consistently estimated under small-b asymptotics but only with nonparametric rate of convergence. We show that the error in rejection probability (ERP) is an order of magnitude larger than that under stationarity and can be also larger than that of HAR tests based on HAC estimators under conventional asymptotics. These theoretical results reconcile with recent finite-sample evidence showing that existing fixed-b HAR tests can perform poorly when the data are nonstationary. They can be conservative under the null hypothesis and have non-monotonic power under the alternative hypothesis irrespective of how large the sample size is. Based on the new nonstationary fixed-b distribution, we propose a feasible method that controls the null rejection rates well regardless of whether the data are stationary or not and of the strength of the serial dependence as verified for some representative data-generating processes in a simple location model.
+ER  - 
+
+TY  - JOUR
+T1  - Kolmogorov–Smirnov type testing for structural breaks: A new adjusted-range based self-normalization approach
+AU  - Hong, Yongmiao
+AU  - Linton, Oliver
+AU  - McCabe, Brendan
+AU  - Sun, Jiajing
+AU  - Wang, Shouyang
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105603
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105603
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003196
+KW  - Change-point testing
+KW  - CUSUM process
+KW  - Parameter constancy
+KW  - Studentization
+AB  - A popular self-normalization (SN) approach in time series analysis uses the variance of a partial sum as a self-normalizer. This is known to be sensitive to irregularities such as persistent autocorrelation, heteroskedasticity, unit roots and outliers. We propose a novel SN approach based on the adjusted-range of a partial sum, which is robust to these aforementioned irregularities. We develop an adjusted-range based Kolmogorov–Smirnov type test for structural breaks for both univariate and multivariate time series, and consider testing parameter constancy in a time series regression setting. Our approach can rectify the well-known power decrease issue associated with existing self-normalized KS tests without having to use backward and forward summations as in Shao and Zhang (2010), and can alleviate the “better size but less power” phenomenon when the existing SN approaches (Shao, 2010; Zhang et al., 2011; Wang and Shao, 2022) are used. Moreover, our proposed tests can cater for more general alternatives. Monte Carlo simulations and empirical studies demonstrate the merits of our approach.
+ER  - 
+
+TY  - JOUR
+T1  - The likelihood ratio test for structural changes in factor models
+AU  - Bai, Jushan
+AU  - Duan, Jiangtao
+AU  - Han, Xu
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105631
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105631
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003470
+KW  - High-dimensional factor models
+KW  - Structural breaks
+KW  - LR test
+AB  - A factor model with a break in its factor loadings is observationally equivalent to a model without changes in the loadings but with a change in the variance of its factors. This approach effectively transforms a high-dimensional structural change problem into a low-dimensional problem. This paper considers the likelihood ratio (LR) test for a variance change in the estimated factors. The LR test implicitly explores a special feature of the estimated factors: the pre-break and post-break variances can be a singular matrix under the alternative hypothesis, making the LR test diverging faster and thus more powerful than Wald-type tests. The better power property of the LR test is also confirmed by simulations. We also consider mean changes and multiple breaks. We apply this procedure to the factor modeling of the US employment and study the structural change problem using monthly industry-level data.
+ER  - 
+
+TY  - JOUR
+T1  - Tail behavior of ACD models and consequences for likelihood-based estimation
+AU  - Cavaliere, Giuseppe
+AU  - Mikosch, Thomas
+AU  - Rahbek, Anders
+AU  - Vilandt, Frederik
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105613
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105613
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003299
+KW  - Financial durations
+KW  - Autoregressive conditional duration (ACD)
+KW  - Tail index
+KW  - Quasi maximum likelihood
+KW  - Mixed normality
+AB  - We establish new results for estimation and inference in financial durations models, where events are observed over a given time span, such as a trading day, or a week. For the classical autoregressive conditional duration (ACD) models by Engle and Russell (1998), we show that the large sample behavior of likelihood estimators is highly sensitive to the tail behavior of the financial durations. In particular, even under stationarity, asymptotic normality breaks down for tail indices smaller than one or, equivalently, when the clustering behavior of the observed events is such that the unconditional distribution of the durations has no finite mean. Instead, we find that estimators are mixed Gaussian and have non-standard rates of convergence. The results are based on exploiting the crucial fact that for duration data the number of observations within any given time span is random. Our results apply to general econometric models where the number of observed events is random.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of stochastic frontier models with weak separability
+AU  - Centorrino, Samuele
+AU  - Parmeter, Christopher F.
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105641
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105641
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003573
+KW  - Stochastic frontier
+KW  - Weak separability
+KW  - Monotonicity
+KW  - Bandwidth selection
+KW  - Marginal integration
+AB  - We propose a robust and versatile approach to estimate the stochastic frontier model which avoids parametric assumptions. Our approach requires a single continuous covariate which monotonically influences the conditional mean of inefficiency. Subject to these conditions, the frontier and the conditional mean of inefficiency can be estimated nonparametrically. The estimator we propose uses local least squares and marginal integration making it easy to implement across statistical software. A range of Monte Carlo simulations suggests that when our main identification condition holds, our proposed estimator outperforms other proposals that currently exist. Finally, we provide an application to the study of undercounting COVID-19 cases across the United States. Whereas our method indicates significant undercounting, consistent with existing evidence, other nonparametric methods suggest far less undercounting.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile analysis of “hazard-rate” game models
+AU  - Enache, Andreea
+AU  - Florens, Jean-Pierre
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105582
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105582
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002981
+KW  - asymmetric information
+KW  - quantile estimation
+KW  - well-posed inverse problems
+KW  - games of incomplete information
+KW  - differential equation
+AB  - This paper consists of an econometric analysis of a broad class of games of incomplete information. In these games, a player’s action depends both on her unobservable characteristic (the private information), as well as on the ratio of the distribution of the unobservable characteristic and its density function (which we call the ”hazard-rate”). The goal is to use data on players’ actions to recover the distribution of private information. We show that the structural parameter (the quantile of the unobservable characteristic, denoted by L) can be related to the reduced form parameter (the quantile of the data, denoted by Q) through a differential equation Q(α)=a(L(α),αL′(α)). We analyse the local and global identification of this equation in L. At the same time, under suitable assumptions, we establish the local and global well-posedness of the inverse problem Q=T(L). We solve the differential equation and, as a consequence of the well-posedness, we estimate nonparametrically the quantile and the c.d.f. function of the unobserved variables at a root-n speed of convergence (conditional on the quantile of the data being estimated at root-n). Moreover as the transformation of Q in L is continuous with respect to a topology that implies also the derivatives, we estimate nonparametrically the quantile density and the density the unobserved variables (that are continuous functions with respect to Q) at root-n speed of convergence. We provide also several generalisations of the model accounting for exogenuous variables, implicit expression of the strategy function and integral expression of the strategy function. Our results have several policy applications, including better design of auctions, regulation models, estimation of war of attrition in patent races, and public good contracts.
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional IV cointegration estimation and inference
+AU  - Phillips, Peter C.B.
+AU  - Kheifets, Igor L.
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105622
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105622
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300338X
+KW  - Cointegration
+KW  - HAR inference
+KW  - High-dimensional IV
+KW  - Long run variance matrix
+KW  - Multicointegration
+KW  - Singularity
+KW  - Trend IV estimation
+AB  - A semiparametric triangular systems approach shows how multicointegrating linkages occur naturally in an I(1) cointegrated regression model when the long run error variance matrix in the system is singular. Under such singularity, cointegrated I(1) systems embody a multicointegrated structure that makes them useful in many empirical settings. Earlier work shows that such systems may be analyzed and estimated without appealing to the associated I(2) system but with suboptimal convergence rates and potential asymptotic bias. The present paper develops a robust approach to estimation and inference of such systems using high dimensional IV methods that have appealing asymptotic properties like those known to apply in the optimal estimation of cointegrated systems (Phillips, 1991). The approach uses an extended version of high-dimensional trend IV (Phillips, 2006, 2014) estimation with deterministic orthonormal instruments. The methods and derivations involve new results on high-dimensional IV techniques and matrix normalization in the limit theory that are of independent interest. Wald tests of general linear restrictions are constructed using a fixed-b long run variance estimator that leads to robust pivotal HAR inference in both cointegrated and multicointegrated cases. Simulations show good properties of the estimation and inferential procedures in finite samples. An empirical illustration to housing stocks, starts and completions is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Distributed estimation and inference for spatial autoregression model with large scale networks
+AU  - Ren, Yimeng
+AU  - Li, Zhe
+AU  - Zhu, Xuening
+AU  - Gao, Yuan
+AU  - Wang, Hansheng
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105629
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105629
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003457
+KW  - Spatial autoregression
+KW  - Large-scale network data
+KW  - Distributed system
+KW  - Least squares approximation
+KW  - Random projection
+AB  - The rapid growth of online network platforms generates large-scale network data and it poses great challenges for statistical analysis using the spatial autoregression (SAR) model. In this work, we develop a novel distributed estimation and statistical inference framework for the SAR model on a distributed system. We first propose a distributed network least squares approximation (DNLSA) method. This enables us to obtain a one-step estimator by taking a weighted average of local estimators on each worker. Afterwards, a refined two-step estimation is designed to further reduce the estimation bias. For statistical inference, we utilize a random projection method to reduce the expensive communication cost. Theoretically, we show the consistency and asymptotic normality of both the one-step and two-step estimators. In addition, we provide theoretical guarantee of the distributed statistical inference procedure. The theoretical findings and computational advantages are validated by several numerical simulations implemented on the Spark system. Lastly, an experiment on the Yelp dataset further illustrates the usefulness of the proposed methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Observation-driven filtering of time-varying parameters using moment conditions
+AU  - Creal, Drew
+AU  - Koopman, Siem Jan
+AU  - Lucas, André
+AU  - Zamojski, Marcin
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105635
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105635
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003512
+KW  - Dynamic models
+KW  - Non-linearity
+KW  - Influence function
+KW  - GMM
+KW  - Stable distribution
+AB  - We develop a new and flexible semi-parametric approach for time-varying parameter models when the true dynamics are unknown. The time-varying parameters are estimated using a recursive updating scheme that is driven by the influence function of a conditional moments-based criterion. We show that the updates ensure local improvements of the conditional criterion function in expectation. The dynamics are observation driven, which yields a computationally efficient methodology that does not require advanced simulation techniques for estimation. We illustrate the new approach using both simulated and real empirical data and derive new, robust filters for time-varying scales based on characteristic functions.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and variable selection for high-dimensional spatial dynamic panel data models
+AU  - Hou, Li
+AU  - Jin, Baisuo
+AU  - Wu, Yuehua
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105605
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105605
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003214
+KW  - Spatial dynamic panel data model
+KW  - Network structure
+KW  - Eigendecomposition
+KW  - Complex linear least square
+KW  - Consistency
+AB  - Spatiotemporal modeling of networks is of great practical importance, with modern applications in epidemiology and social network analysis. Despite rapid methodological advances, how to effectively and efficiently estimate the parameters of spatial dynamic panel models remains a challenging problem. To tackle this problem, we construct consistent complex least-squares estimators by the eigendecomposition of a spatial weight matrix method originally proposed for undirected networks. We no longer require all eigenvalues and eigenvectors to be real, which is a remarkable achievement as it implies that the proposed method is now applicable to spatiotemporal data modeling of directed networks. Under mild, interpretable conditions, we show that the proposed parameter estimators are consistent and asymptotically normally distributed. We also present a complex orthogonal greedy algorithm for variable selection and rigorously investigate its convergence properties. Moreover, we incorporate fixed effects into the spatial dynamic panel models and provide a model transformation so that the proposed method can also be applied to the transformed model. Extensive simulation studies and data examples demonstrate the effectiveness of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of heterogeneous elasticities in gross-output production functions
+AU  - Li, Tong
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105637
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105637
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003536
+KW  - Gross-output production function
+KW  - Heterogeneous elasticity
+KW  - Identification
+AB  - This paper presents the identification of heterogeneous elasticities in gross-output production functions with non-separable unobserved productivity. We propose that the ex-ante flexible input cost shares identify the heterogeneous output elasticities with respect to flexible inputs for each firm. Applying the proposed method to a panel of firms in the food production industry in Chile, we find that the extent of heterogeneity in the output elasticities with respect to intermediate inputs has significantly declined from 1985 to 1995, with its distribution tending to concentrate toward zero as time progresses.
+ER  - 
+
+TY  - JOUR
+T1  - Unconditional effects of general policy interventions
+AU  - Martínez-Iriarte, Julián
+AU  - Montes-Rojas, Gabriel
+AU  - Sun, Yixiao
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105570
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105570
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002865
+KW  - Location-scale shift
+KW  - Quantile regression
+KW  - Simultaneous shift
+KW  - Unconditional policy effect
+KW  - Unconditional regression
+AB  - This paper studies the unconditional effects of a general policy intervention, which includes location-scale shifts and simultaneous shifts as special cases. The location-scale shift is intended to study a counterfactual policy aimed at changing not only the mean or location of a covariate but also its dispersion or scale. The simultaneous shift refers to the situation where shifts in two or more covariates take place simultaneously. For example, a shift in one covariate is compensated at a certain rate by a shift in another covariate. Not accounting for these possible scale or simultaneous shifts will result in an incorrect assessment of the potential policy effects on an outcome variable of interest. The unconditional policy parameters are estimated with simple semiparametric estimators, for which asymptotic properties are studied. Monte Carlo simulations are implemented to study their finite sample performances. The proposed approach is applied to a Mincer equation to study the effects of changing years of education on wages and to study the effect of smoking during pregnancy on birth weight.
+ER  - 
+
+TY  - JOUR
+T1  - Nested Pseudo likelihood estimation of continuous-time dynamic discrete games
+AU  - Blevins, Jason R.
+AU  - Kim, Minhae
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105576
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105576
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002920
+KW  - continuous time
+KW  - dynamic discrete games
+KW  - dynamic discrete choice
+KW  - nested pseudo likelihood
+KW  - entry games
+AB  - We introduce a sequential estimator for continuous time dynamic discrete choice models (single-agent models and games) by adapting the nested pseudo likelihood (NPL) estimator of Aguirregabiria and Mira (2002, 2007), developed for discrete time models with discrete time data, to the continuous time case with data sampled either discretely (i.e., uniformly-spaced snapshot data) or continuously. We establish conditions for consistency and asymptotic normality of the estimator, a local convergence condition, and, for single agent models, a zero Jacobian property assuring local convergence. We carry out a series of Monte Carlo experiments using an entry-exit game with five heterogeneous firms to confirm the large-sample properties and demonstrate finite-sample bias reduction via iteration. In our simulations we show that the convergence issues documented for the NPL estimator in discrete time models are less likely to affect comparable continuous-time models. We also show that there can be large bias in economically-relevant parameters, such as the competitive effect and entry cost, from estimating a misspecified discrete time model when in fact the data generating process is a continuous time model.
+ER  - 
+
+TY  - JOUR
+T1  - A residual bootstrap for conditional Value-at-Risk
+AU  - Beutner, Eric
+AU  - Heinemann, Alexander
+AU  - Smeekes, Stephan
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105554
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105554
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002701
+KW  - Residual bootstrap
+KW  - Value-at-Risk
+KW  - GARCH
+AB  - A fixed-design residual bootstrap method is proposed for the two-step estimator of Francq and Zakoïan(2015) associated with the conditional Value-at-Risk. The bootstrap’s consistency is proven for a general class of volatility models and intervals are constructed for the conditional Value-at-Risk. A simulation study reveals that the equal-tailed percentile bootstrap interval tends to fall short of its nominal value. In contrast, the reversed-tails bootstrap interval yields accurate coverage. We also compare the theoretically analyzed fixed-design bootstrap with the recursive-design bootstrap. It turns out that the fixed-design bootstrap performs equally well in terms of average coverage, yet leads on average to shorter intervals in smaller samples. An empirical application illustrates the interval estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105659
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00005-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000058
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of complier expected shortfall treatment effects with a binary instrumental variable
+AU  - Wei, Bo
+AU  - Tan, Kean Ming
+AU  - He, Xuming
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105572
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105572
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002889
+KW  - Quantile regression
+KW  - Instrumental variable
+KW  - Expected shortfall
+KW  - Data heterogeneity
+KW  - Complier expected shortfall effects
+AB  - Estimating the causal effect of a treatment or exposure for a subpopulation is of great interest in many biomedical and economical studies. Expected shortfall, also referred to as the super-quantile, is an attractive effect-size measure that can accommodate data heterogeneity and aggregate local information of effect over a certain region of interest of the outcome distribution. In this article, we propose the ComplieR Expected Shortfall Treatment Effect (CRESTE) model under an instrumental variable framework to quantity the CRESTE for a binary endogenous treatment variable. By utilizing the special characteristics of a binary instrumental variable and a specific formulation of Neyman-orthogonalization, we propose a two-step estimation procedure, which can be implemented by simply solving weighted least-squares regression and weighted quantile regression with estimated weights. We develop the asymptotic properties for the proposed estimator and use numerical simulations to confirm its validity and robust finite-sample performance. An illustrative analysis of a National Job Training Partnership Act study is presented to show the practical utility of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - What leads to measurement errors? Evidence from reports of program participation in three surveys
+AU  - Celhay, Pablo
+AU  - Meyer, Bruce D.
+AU  - Mittag, Nikolas
+JO  - Journal of Econometrics
+VL  - 238
+IS  - 2
+SP  - 105581
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105581
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300297X
+KW  - Measurement error
+KW  - Welfare programs
+KW  - Survey methods
+KW  - Validation
+KW  - Misreporting
+AB  - Measurement errors are often a large source of bias in survey data. Lack of knowledge of the determinants of such errors makes it difficult to reduce the extent of errors when collecting data and to assess the validity of analyses using the data. We study the determinants of reporting error using high quality administrative data on government transfers linked to three major U.S. surveys. Our results support several theories of misreporting: Errors are related to event recall, forward and backward telescoping, salience of receipt, the stigma of reporting participation in welfare programs and respondent's degree of cooperation with the survey overall. We provide evidence on how survey design choices affect reporting errors. Our findings help survey users to gauge the reliability of their data and to devise estimation strategies that can correct for systematic errors, such as instrumental variable approaches. Understanding survey errors allows researchers collecting survey data to reduce them by improving survey design. Our results indicate that survey design should take into account that higher response rates as well as collecting more detailed information may have negative effects on survey accuracy.
+ER  - 

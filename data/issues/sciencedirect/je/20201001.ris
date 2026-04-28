@@ -1,0 +1,529 @@
+TY  - JOUR
+T1  - Inference of local regression in the presence of nuisance parameters
+AU  - Xu, Ke-Li
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 532
+EP  - 560
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301482
+KW  - Bias correction
+KW  - Empirical likelihood
+KW  - Laplace-type estimator
+KW  - Local estimating equations
+KW  - Non-smooth criterion function
+KW  - Nonparametric and semiparametric inference
+KW  - Nuisance parameter
+KW  - Quantile regression discontinuity
+KW  - Weak identification
+AB  - We consider inference based on local estimating equations in the presence of nuisance parameters. The framework is useful for a number of applications including those in economic policy evaluation based on discontinuities or kinks and in real-time financial risk management. We focus on the criterion-function-based (in particular, empirical likelihood-based) inference, and establish conditions under which the test statistic has a pivotal asymptotic distribution. In the key step of eliminating nuisance parameters in the (possibly non-smooth) criterion function, we consider two different approaches based on either concentration or Laplace-type plug-in estimation. The former is natural, and the latter does not require optimization and can be computationally attractive in applications. Our framework can easily incorporate bias correction induced by localization, and the inference is robust to the identification strength of the parameter of interest. The high-level assumptions are illustrated with several examples. We also conduct Monte Carlo simulations and provide an empirical application which assesses heterogeneous effects of academic probation in college and gender differences under the quantile regression discontinuity design.
+ER  - 
+
+TY  - JOUR
+T1  - A Simple R-estimation method for semiparametric duration models
+AU  - Hallin, Marc
+AU  - La Vecchia, Davide
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 736
+EP  - 749
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.036
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301561
+KW  - Efficiency
+KW  - Local asymptotic normality
+KW  - Quasi-likelihood
+KW  - Ranks
+KW  - Unevenly spaced data
+AB  - Modeling nonnegative financial variables (e.g. durations between trades or volatilities) is central to a number of studies across econometrics, and still poses several statistical challenges. Among them, the efficiency aspects of semiparametric estimation remain pivotal. In this paper, we concentrate on estimation problems in autoregressive conditional duration models with unspecified innovation densities. Exponential quasi-likelihood estimators (QMLE) are the usual practice in that context, since they are easy-to-implement and preserve Fisher-consistency. However, the efficiency of the QMLE rapidly deteriorates away from the reference exponential density. To cope with the QMLE’s lack of accuracy, semiparametrically efficient procedures have been introduced. These procedures are obtained using the classical tangent space approach; they require kernel estimation and quite large sample sizes. We propose rank-based estimators (R-estimators) as a substitute. Just as the QMLE, R-estimators remain root-n consistent, irrespective of the underlying density, and rely on the choice of a reference density (which, however, needs not be the exponential one), under which they achieve semiparametric efficiency. Moreover, R-estimators neither require tangent space calculations nor kernel estimation. Numerical results illustrate that R-estimators based on the exponential reference density outperform the QMLE under a large class of actual innovation densities, such as the Weibull or Burr densities. A real-data example about modeling the price range of the Swiss stock market index concludes the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility regressions with fat tails
+AU  - Kim, Jihyun
+AU  - Meddahi, Nour
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 690
+EP  - 713
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.034
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301548
+KW  - Volatility
+KW  - Autoregression
+KW  - Fat tails
+KW  - Random limits
+AB  - Nowadays, a common method to forecast integrated variance is to use the fitted value of a simple OLS autoregression of the realized variance. However, non-parametric estimates of the tail index of this realized variance process reveal that its second moment is possibly unbounded. In this case, the behavior of the OLS estimators and the corresponding statistics are unclear. We prove that when the second moment of the spot variance is unbounded, the slope of the spot variance’s autoregression converges to a random variable as the sample size diverges. The same result holds when one uses the integrated or realized variance instead of the spot variance. We then consider the class of diffusion variance models with an affine drift, a class which includes GARCH and CEV processes, and we prove that IV estimation with adequate instruments provide consistent estimators of the drift parameters as long as the variance process has a finite first moment regardless of the existence of the second moment. In particular, for the GARCH diffusion model with fat tails, an IV estimation where the instrument equals the sign of the centered lagged value of the variable of interest provides consistent estimators. Simulation results corroborate the theoretical findings of the paper.
+ER  - 
+
+TY  - JOUR
+T1  - A geometric approach to inference in set-identified entry games
+AU  - Bontemps, Christian
+AU  - Kumar, Rohit
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 373
+EP  - 389
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.021
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030141X
+KW  - Set-identification
+KW  - Entry games
+KW  - Convex set
+KW  - Support function
+AB  - In this paper, we consider inference procedures for entry games with complete information. Due to the presence of multiple equilibria, we know that such a model may be set-identified without imposing further restrictions. We complete the model with the unknown selection mechanism and characterize geometrically the set of predicted choice probabilities, in our case, a convex polytope with many facets. Testing whether a parameter belongs to the identified set is equivalent to testing whether the true choice probability vector belongs to this convex set. Using tools from the convex analysis, we calculate the support function and the extreme points. The calculation yields a finite number of inequalities, when the explanatory variables are discrete, and we characterized them once for all. We also propose a procedure that selects the moment inequalities without having to evaluate all of them. This procedure is computationally feasible for any number of players and is based on the geometry of the set. Furthermore, we exploit the specific structure of the test statistic used to test whether a point belongs to a convex set to propose the calculation of critical values that are computed once and independent of the value of the parameter tested, which drastically improves the calculation time. Simulations in a separate section suggest that our procedure performs well compared with existing methods.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in second-order identified models
+AU  - Dovonon, Prosper
+AU  - Hall, Alastair R.
+AU  - Kleibergen, Frank
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 346
+EP  - 372
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301408
+KW  - Generalized Method of Moments estimation
+KW  - First-order identification failure
+KW  - Identification-robust inference
+AB  - We explore the local power properties of different test statistics for conducting inference in moment condition models that only identify the parameters locally to second order. We consider the conventional Wald and LM statistics, and also the Generalized Anderson–Rubin (GAR) statistic (Anderson and Rubin, 1949; Dufour, 1997; Staiger and Stock, 1997; Stock and Wright, 2000), KLM statistic (Kleibergen, 2002; Kleibergen, 2005) and the GMM extension of Moreira (2003) (GMM-M) conditional likelihood ratio statistic. The GAR, KLM and GMM-M statistics are so-called “identification robust” since their (conditional) limiting distribution is the same under first-order, weak and therefore also second order identification. For inference about the model specification, we consider the identification-robust J statistic (Kleibergen, 2005), and the GAR statistic. Interestingly, we find that the limiting distribution of the Wald statistic under local alternatives not only depends on the distance to the null hypothesis but also on the convergence rate of the Jacobian. We specifically analyse two empirically relevant models with second order identification. In the panel autoregressive model of order one, our analysis indicates that the Wald test of a unit root value of the autoregressive parameter has better power compared to the corresponding GAR test which, in turn, dominates the KLM, GMM-M and LM tests. For the conditionally heteroskedastic factor model, we compare Kleibergen (2005) J and the GAR statistics to Hansen (1982) overidentifying restrictions test (previously analysed in this context by Dovonon and Renault, 2013) and find the power ranking depends on the sample size. Collectively, our results suggest that tests with meaningful power can be conducted in second-order identified models.
+ER  - 
+
+TY  - JOUR
+T1  - Randomization inference for difference-in-differences with few treated clusters
+AU  - MacKinnon, James G.
+AU  - Webb, Matthew D.
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 435
+EP  - 450
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301445
+KW  - Cluster-robust inference
+KW  - CRVE
+KW  - Grouped data
+KW  - Clustered data
+KW  - Wild cluster bootstrap
+KW  - Randomization inference
+KW  - Difference-in-differences
+KW  - DiD
+AB  - Inference using difference-in-differences with clustered data requires care. Previous research has shown that, when there are few treated clusters, t-tests based on cluster-robust variance estimators (CRVEs) severely overreject, and different variants of the wild cluster bootstrap can either overreject or underreject dramatically. We study two randomization inference (RI) procedures. A procedure based on estimated coefficients may be unreliable when clusters are heterogeneous. A procedure based on t-statistics typically performs better (although by no means perfectly) under the null, but at the cost of some power loss. An empirical example demonstrates that RI procedures can yield inferences that differ dramatically from those of other methods.
+ER  - 
+
+TY  - JOUR
+T1  - Regression discontinuity designs, white noise models, and minimax
+AU  - Tuvaandorj, Purevdorj
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 587
+EP  - 608
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.030
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301500
+KW  - Asymptotic equivalence
+KW  - Minimax estimation
+KW  - Regression discontinuity design
+KW  - White noise model
+AB  - This paper studies an approximation of sharp regression discontinuity (RD) designs with normal homoskedastic errors by ideal Gaussian white noise models with discontinuous drifts. After establishing an asymptotic equivalence of the two models, we first provide a simple derivation of a lower bound on the minimax optimal convergence rate for estimating the discontinuity size in a derivative (of an arbitrary order) of the regression function. We show that the optimal convergence rate is attained by the local polynomial estimator. We also establish an analogous correspondence between the RD designs with an unknown threshold and a convolution white noise model, and derive the minimax optimal rate for estimating the discontinuity location in a derivative of the regression function.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrapping factor models with cross sectional dependence
+AU  - Gonçalves, Sílvia
+AU  - Perron, Benoit
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 476
+EP  - 495
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301469
+KW  - Factor model
+KW  - Bootstrap
+KW  - Asymptotic bias
+KW  - Cross-sectional dependence
+KW  - Thresholding
+AB  - We consider bootstrap methods for factor-augmented regressions with cross sectional dependence among idiosyncratic errors. This is important to capture the bias of the OLS estimator derived recently by Gonçalves and Perron (2014). We first show that a common approach of resampling cross sectional vectors over time is invalid in this context because it induces a zero bias. We then propose the cross-sectional dependent (CSD) bootstrap where bootstrap samples are obtained by taking a random vector and multiplying it by the square root of a consistent estimator of the covariance matrix of the idiosyncratic errors. We show that if the covariance matrix estimator is consistent in the spectral norm, then the CSD bootstrap is consistent, and we verify this condition for the thresholding estimator of Bickel and Levina (2008). Finally, we apply our new bootstrap procedure to forecasting inflation using convenience yields as recently explored by Gospodinov and Ng (2013).
+ER  - 
+
+TY  - JOUR
+T1  - Testing a large set of zero restrictions in regression models, with an application to mixed frequency Granger causality
+AU  - Ghysels, Eric
+AU  - Hill, Jonathan B.
+AU  - Motegi, Kaiji
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 633
+EP  - 654
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301524
+KW  - Dimension reduction
+KW  - Granger causality test
+KW  - Max test
+KW  - Mixed Data Sampling (MIDAS)
+KW  - Parsimonious regression models
+AB  - This paper proposes a new test for a large set of zero restrictions in regression models based on a seemingly overlooked, but simple, dimension reduction technique. The procedure involves multiple parsimonious regression models where key regressors are split across simple regressions. Each parsimonious regression model has one key regressor and other regressors not associated with the null hypothesis. The test is based on the maximum of the squared parameters of the key regressors. Parsimony ensures sharper estimates and therefore improves power in small sample. We present the general theory of our test and focus on mixed frequency Granger causality as a prominent application involving many zero restrictions.
+ER  - 
+
+TY  - JOUR
+T1  - Stationary bubble equilibria in rational expectation models
+AU  - Gourieroux, C.
+AU  - Jasiak, J.
+AU  - Monfort, A.
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 714
+EP  - 735
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.035
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030155X
+KW  - Rational expectation
+KW  - Dynamic equilibrium
+KW  - Identification
+KW  - Stationary martingale
+KW  - Speculative bubble
+KW  - Volatility induced mean-reversion,
+KW  - Transversality condition
+AB  - A linear rational expectation model with current expectations admits a unique linear stationary dynamic equilibrium only under specific restrictions on the parameter values. This paper shows that, in general, there is a multiplicity of stationary dynamic equilibria due to the existence of nonlinear stationary equilibria. These nonlinear stationary equilibria are consistent with the self-fulfilling prophecies that characterize the rational expectation equilibria, and can display speculative bubbles, volatility induced mean reversion and/or stochastic autoregressive patterns. They are also compatible with the transversality conditions when the model involves intertemporal optimization. The stationary nonlinear dynamic equilibria are economically relevant. Their analysis requires revised methods of identification for the stationary equilibrium, impulse response analysis, and estimation techniques, which are presented in this paper. Standard econometric and economic methods, which ignore the nonlinear stationary solutions provide misleading outcomes, which may affect the validity of an economic policy or portfolio strategy.
+ER  - 
+
+TY  - JOUR
+T1  - Impossible inference in econometrics: Theory and applications
+AU  - Bertanha, Marinho
+AU  - Moreira, Marcelo J.
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 247
+EP  - 270
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301366
+KW  - Hypothesis tests
+KW  - Confidence intervals
+KW  - Weak identification
+KW  - Regression discontinuity
+AB  - This paper studies models in which hypothesis tests have trivial power, that is, power smaller than size. This testing impossibility, or impossibility type A, arises when any alternative is not distinguishable from the null. We also study settings in which it is impossible to have almost surely bounded confidence sets for a parameter of interest. This second type of impossibility (type B) occurs under a condition weaker than the condition for type A impossibility: the parameter of interest must be nearly unidentified. Our theoretical framework connects many existing publications on impossible inference that rely on different notions of topologies to show models are not distinguishable or nearly unidentified. We also derive both types of impossibility using the weak topology induced by convergence in distribution. Impossibility in the weak topology is often easier to prove, it is applicable for many widely-used tests, and it is useful for robust hypothesis testing. We conclude by demonstrating impossible inference in multiple economic applications of models with discontinuity and time-series models.
+ER  - 
+
+TY  - JOUR
+T1  - Exogeneity tests, incomplete models, weak identification and non-Gaussian distributions: Invariance and finite-sample distributional theory
+AU  - Doko Tchatoka, Firmin
+AU  - Dufour, Jean-Marie
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 390
+EP  - 418
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301421
+KW  - Exogeneity
+KW  - Durbin–Wu–Hausman test
+KW  - Weak instrument
+KW  - Incomplete model
+KW  - Non-Gaussian
+KW  - Weak identification
+KW  - Identification robust
+KW  - Finite-sample theory
+KW  - Pivotal
+KW  - Invariance
+KW  - Monte Carlo test
+KW  - Power
+AB  - We study the distribution of Durbin–Wu–Hausman (DWH) and Revankar–Hartley (RH) tests for exogeneity from a finite-sample viewpoint, under the null and alternative hypotheses. We consider linear structural models with possibly non-Gaussian errors, where structural parameters may not be identified and where reduced forms can be incompletely specified (or nonparametric). On level control, we characterize the null distributions of all the test statistics. Through conditioning and invariance arguments, we show that these distributions do not involve nuisance parameters. In particular, this applies to several test statistics for which no finite-sample distributional theory is yet available, such as the standard statistic proposed by Hausman (1978). The distributions of the test statistics may be non-standard – so corrections to usual asymptotic critical values are needed – but the characterizations are sufficiently explicit to yield finite-sample (Monte-Carlo) tests of the exogeneity hypothesis. The procedures so obtained are robust to weak identification, missing instruments or misspecified reduced forms, and can easily be adapted to allow for parametric non-Gaussian error distributions. We give a general invariance result (block triangular invariance) for exogeneity test statistics. This property yields a convenient exogeneity canonical form and a parsimonious reduction of the parameters on which power depends. In the extreme case where no structural parameter is identified, the distributions under the alternative hypothesis and the null hypothesis are identical, so the power function is flat, for all the exogeneity statistics. However, as soon as identification does not fail completely, this phenomenon typically disappears. We present simulation experiments which confirm the finite-sample theory. The theoretical results are illustrated with an empirical example : the relation between trade and economic growth.
+ER  - 
+
+TY  - JOUR
+T1  - Generic results for establishing the asymptotic size of confidence sets and tests
+AU  - Andrews, Donald W.K.
+AU  - Cheng, Xu
+AU  - Guggenberger, Patrik
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 496
+EP  - 531
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301470
+KW  - Asymptotic size
+KW  - Autoregressive model
+KW  - Confidence set
+KW  - Grid bootstrap
+KW  - Identification
+KW  - Inference
+KW  - Test
+KW  - Uniform
+KW  - Weak instruments
+KW  - Weak identification
+AB  - This paper provides a set of results that can be used to establish the asymptotic size and/or similarity in a uniform sense of confidence sets and tests. The results are generic in that they can be applied to a broad range of problems. They are most useful in scenarios where the pointwise asymptotic distribution of a test statistic is a discontinuous function of a parameter. The results are illustrated in several examples. These are: (i) the conditional likelihood ratio test of Moreira (2003) for linear instrumental variables models with instruments that may be weak, extended to the case of heteroskedastic errors; (ii) the grid bootstrap confidence interval of Hansen (1999) for the sum of the AR coefficients in a kth order autoregressive model with unknown innovation distribution, and (iii) the standard quasi-likelihood ratio test in a nonlinear regression model where identification is lost when the coefficient on the nonlinear regressor is zero. In addition, as a simple running example, we consider a two-sided equal-tailed CI for the AR coefficient in an AR(1) model, which is a simplified version of the CI in Andrews and Guggenberger (2014).
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood ratio testing in linear state space models: An application to dynamic stochastic general equilibrium models
+AU  - Komunjer, Ivana
+AU  - Zhu, Yinchu
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 561
+EP  - 586
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.029
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301494
+KW  - Linear Gaussian state space models
+KW  - Likelihood ratio test
+KW  - Bartlett adjustment
+AB  - This paper considers the problem of hypothesis testing in linear Gaussian state space models. We consider two hypotheses of interest: a simple null and a hypothesis of explicit parameter restrictions. We derive the asymptotic distributions of the corresponding likelihood ratio test statistics and compute the Bartlett adjustments. The results are non-trivial because the unrestricted state space model is not (even locally) identified. We apply our analysis to test the validity of the Dynamic Stochastic General Equilibrium (DSGE) models. A Monte Carlo exercise illustrates our findings and confirms the importance of Bartlett corrections at sample sizes typically encountered in macroeconomics.
+ER  - 
+
+TY  - JOUR
+T1  - Inference in partially identified heteroskedastic simultaneous equations models
+AU  - Lütkepohl, Helmut
+AU  - Milunovich, George
+AU  - Yang, Minxian
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 317
+EP  - 345
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301391
+KW  - Heteroskedasticity
+KW  - Simultaneous equations models
+KW  - Testing for identification
+KW  - Davies’ problem
+AB  - Identification through heteroskedasticity in heteroskedastic simultaneous equations models (HSEMs) is considered. The possibility that heteroskedasticity identifies structural parameters only partially is explicitly allowed for. The asymptotic properties of the identified parameters are derived. Moreover, tests for identification through heteroskedasticity are developed and their asymptotic distributions are provided. Monte Carlo simulations are used to explore the small sample properties of the asymptotically valid methods. Finally, the approach is applied to investigate the relation between the degree of economic openness and inflation.
+ER  - 
+
+TY  - JOUR
+T1  - The fast iterated bootstrap
+AU  - Davidson, Russell
+AU  - Trokić, Mirza
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 451
+EP  - 475
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301457
+KW  - Bootstrap iteration
+KW  - Fast iterated bootstrap
+AB  - The standard forms of bootstrap iteration are very computationally demanding. As a result, there have been several attempts to alleviate the computational burden by use of approximations. In this paper, we extend the fast double bootstrap of Davidson and MacKinnon (2007) to higher orders of iteration, and provide algorithms for their implementation. The new methods make computational demands that increase only linearly with the level of iteration, unlike standard procedures, whose demands increase exponentially. In a series of simulation experiments, we show that the fast triple bootstrap improves on both the standard and fast double bootstraps, in the sense that it suffers from less size distortion under the null with no accompanying loss of power.
+ER  - 
+
+TY  - JOUR
+T1  - Simple and reliable estimators of coefficients of interest in a model with high-dimensional confounding effects
+AU  - Galbraith, John W.
+AU  - Zinde-Walsh, Victoria
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 609
+EP  - 632
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301512
+KW  - Confounding
+KW  - High-dimensional data
+KW  - Principal components
+KW  - Subspace consistency
+KW  - Treatment effect
+KW  - Wide data
+AB  - Often an investigator is interested in a single parameter or low-dimensional parameter vector (e.g. a treatment effect) in a regression model, rather than in the full set of regression coefficients. There may also be a relatively high-dimensional set of potential explanatory variables other than the effect of interest which, if omitted, could bias the estimate of the parameter of interest. However there may be too many such variables to include all of them without substantial efficiency loss. We suggest a simple, easily computed estimator for this case, using principal components to compute auxiliary regressors from the set of potential controls, and establish the limit properties of the estimator allowing for dependence and heterogeneity as well as increasing dimension of the set of controls. We also provide finite-sample evidence on the performance of the estimator where principal components are selected in a one-dimensional search using an appropriate information criterion as stopping rule for the number of components. The results suggest that the estimator has practical usefulness in small samples.
+ER  - 
+
+TY  - JOUR
+T1  - Editors’ Introduction: Special issue in Honor of Jean-Marie Dufour on Identification, Inference, and Causality
+AU  - Carrasco, Marine
+AU  - Moreira, Marcelo
+AU  - Perron, Benoit
+AU  - Zinde-Walsh, Victoria
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 243
+EP  - 246
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.040
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302645
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - ii
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30289-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030289X
+ER  - 
+
+TY  - JOUR
+T1  - Testing distributional assumptions using a continuum of moments
+AU  - Amengual, Dante
+AU  - Carrasco, Marine
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 655
+EP  - 689
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301536
+KW  - Characteristic function
+KW  - Complex Gaussian process
+KW  - Consistent tests
+KW  - Continuum of moment conditions
+KW  - Goodness-of-fit
+KW  - GMM
+KW  - Tikhonov regularization
+AB  - We propose specification tests for parametric distributions that compare the potentially complex theoretical and empirical characteristic functions using the continuum of moment conditions analogue to an overidentifying restrictions test, which takes into account the correlation between influence functions for different argument values. We derive its asymptotic distribution for fixed regularization parameter and when this vanishes with the sample size. We show its consistency against any deviation from the null, study its local power and compare it with existing tests. An extensive Monte Carlo exercise confirms that our proposed tests display good power in finite samples against a variety of alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - Small-sample tests for stock return predictability with possibly non-stationary regressors and GARCH-type effects
+AU  - Gungor, Sermin
+AU  - Luger, Richard
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 750
+EP  - 770
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301573
+KW  - Stock returns
+KW  - Predictive regression
+KW  - Multiple predictors
+KW  - Unit roots
+KW  - Conditional heteroskedasticity
+KW  - Robust inference
+AB  - We develop a simulation-based procedure to test for stock return predictability with multiple regressors. The process governing the regressors is left completely free and the test procedure remains valid in small samples even in the presence of non-normalities and GARCH-type effects in the stock returns. The usefulness of the new procedure is demonstrated in a simulation study and by examining the ability of a group of financial variables to predict excess stock returns. We find some evidence of predictability during the period 1948–2014, driven entirely by the term spread. This empirical evidence, however, is much weaker over subsamples.
+ER  - 
+
+TY  - JOUR
+T1  - Testing the impossible: Identifying exclusion restrictions
+AU  - Kiviet, Jan F.
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 294
+EP  - 316
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.018
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030138X
+KW  - Endogeneity robust inference
+KW  - Exclusion restrictions test
+KW  - Identification analysis
+KW  - Invalid instruments
+KW  - Sensitivity analysis
+AB  - Method of moments estimation usually implies exploiting presumed uncorrelatedness of model disturbances and identifying instrumental variables. Here, utilizing non-orthogonality conditions is examined for linear multiple cross-section simultaneous regression models. Employing flexible bounds on the correlations between disturbances and regressors one avoids: (i) adoption of often incredible and unverifiable strictly zero correlation assumptions, and (ii) imprecise inference due to possibly weak or invalid external instruments. The suggested alternative form of inference is within constraints endogeneity robust; its asymptotic validity is proved and its accuracy in finite samples demonstrated by simulation. Next to offering an attractive alternative as such, it permits a sensitivity analysis of inference based on orthogonality conditions. Moreover, it yields statistical inference on the validity of exclusion restrictions regarding candidate external instruments, whereas these unavoidable restrictions were always supposed to be non-testable. The practical relevance is illustrated in a few applications borrowed from the textbook literature.
+ER  - 
+
+TY  - JOUR
+T1  - Testing identification strength
+AU  - Antoine, Bertille
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 271
+EP  - 293
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301378
+KW  - GMM
+KW  - Weak IV
+KW  - Test
+KW  - Subvector
+AB  - We consider models defined by a set of moment restrictions that may be subject to weak identification. We propose a testing procedure to assess whether instruments are “too weak” for standard (Gaussian) asymptotic theory to be reliable. Since the validity of standard asymptotics for GMM rests upon a Taylor expansion of the first order conditions, we distinguish two cases: (i) models that are either linear or separable in the parameters of interest; (ii) general models that are neither linear nor separable. Our testing procedure is similar in both cases, but our null hypothesis of weak identification for a nonlinear model is broader than the popular one. Our test is straightforward to apply and allows to test the null hypothesis of weak identification of specific subvectors without assuming identification of the components not under test. In the linear case, it can be seen as a generalization of the popular first-stage F-test but allows us to fix its shortcomings in case of heteroskedasticity. In simulations, our test is well behaved when compared to contenders, both in terms of size and power. In particular, the focus on subvectors allows us to have power to reject the null of weak identification on some components of interest. This observation may explain why, when applied to the estimation of the Elasticity of Intertemporal Substitution, our test is the only one to find matching results for every country under the two symmetric popular specifications: the intercept parameter is always found strongly identified, whereas the slope parameter is always found weakly identified.
+ER  - 
+
+TY  - JOUR
+T1  - Monte Carlo two-stage indirect inference (2SIF) for autoregressive panels
+AU  - Khalaf, Lynda
+AU  - Saunders, Charles J.
+JO  - Journal of Econometrics
+VL  - 218
+IS  - 2
+SP  - 419
+EP  - 434
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301433
+KW  - Dynamic panel model
+KW  - Mean-nonstationary
+KW  - Indirect inference
+KW  - Monte Carlo tests
+KW  - Test inversion
+AB  - Persistence and mean-nonstationarity often undermine reliability of asymptotically justified inference in dynamic panels. We combine the Monte Carlo test (MCT) and the indirect inference estimation (IIE) principles to construct confidence regions for autoregressive panel parameters with valid coverage whether mean-stationarity is imposed or relaxed and whether autoregressive roots are at or close to the unit boundary or far from unity. Procedures are based on the standard least squares dummy variables (LSDV) estimator and an augmented counterpart which we introduce to restore finite sample exactness in mean-nonstationary settings. We also put forth a ‘Durbin–Wu–Hausman-type’ test for mean-stationarity given a tested autoregressive parameter, based on the distance between the LSDV and its augmented counterpart. Location-scale invariance is shown analytically, and the MCT methods involve multiple stages that preserve exchangeability. The above are formally shown to control size exactly for finite N and T, and provide a new perspective to a literature that is primarily asymptotic. The advantages of the proposed approaches are also illustrated via comparative simulation studies. The identification problems arising from relaxing mean-stationarity are assessed and addressed; we also consider heteroskedastic directions. Results show concrete promise even with very small sample sizes and more broadly, underscore the usefulness of combining MCT and IIE principles.
+ER  - 

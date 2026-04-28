@@ -1,0 +1,227 @@
+TY  - JOUR
+T1  - Moments, shocks and spillovers in Markov-switching VAR models
+AU  - Kole, Erik
+AU  - van Dijk, Dick
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105474
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105474
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001902
+KW  - Markov-switching VAR
+KW  - Moments
+KW  - Impulse response analysis
+KW  - Bull and bear markets
+AB  - To investigate how economies, financial markets or institutions can deal with stress, we often analyze the effects of shocks conditional on being in a recession or a bear market. MSVAR models are perfectly suited for such analyses because they combine gradual movements with sudden regime switches. In this paper, we develop a comprehensive methodology to conduct these analyses. We derive first and second moments conditional only on the regime distribution and propose impulse response functions for both moments. By formulating the MSVAR as an extended linear non-Gaussian VAR, all results are available in closed-form. We illustrate our methods with an application to stock and bond return predictability. We show how forecasts of means, volatilities and (auto-)correlations depend on the regimes. The effect of shocks becomes highly nonlinear, and they propagate via different channels. During bear markets, shocks have stronger effects on means and volatilities and die out more slowly.
+ER  - 
+
+TY  - JOUR
+T1  - Out-of-sample tests for conditional quantile coverage an application to Growth-at-Risk
+AU  - Corradi, Valentina
+AU  - Fosten, Jack
+AU  - Gutknecht, Daniel
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105490
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105490
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002063
+KW  - Interval prediction
+KW  - Quantile regression
+KW  - Multiple hypothesis testing
+KW  - Weak moment inequalities
+KW  - Wild bootstrap
+KW  - Growth-at-Risk
+AB  - This paper proposes tests for out-of-sample comparisons of interval forecasts based on parametric conditional quantile models. The tests rank the distance between actual and nominal conditional coverage with respect to the set of conditioning variables from all models, for a given loss function. We propose a pairwise test to compare two models for a single predictive interval. The set-up is then extended to a comparison across multiple models and/or intervals. The limiting distribution varies depending on whether models are strictly non-nested or overlapping. In the latter case, degeneracy may occur. We establish the asymptotic validity of wild bootstrap based critical values across all cases. An empirical application to Growth-at-Risk (GaR) uncovers situations in which a richer set of financial indicators are found to outperform a commonly-used benchmark model when predicting downside risk to economic activity.
+ER  - 
+
+TY  - JOUR
+T1  - Inference and forecasting for continuous-time integer-valued trawl processes
+AU  - Bennedsen, Mikkel
+AU  - Lunde, Asger
+AU  - Shephard, Neil
+AU  - Veraart, Almut E.D.
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105476
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105476
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001926
+KW  - Count data
+KW  - Lévy basis
+KW  - Pairwise likelihood
+KW  - Estimation
+KW  - Model selection
+KW  - Forecasting
+AB  - This paper develops likelihood-based methods for estimation, inference, model selection, and forecasting of continuous-time integer-valued trawl processes. The full likelihood of integer-valued trawl processes is, in general, highly intractable, motivating the use of composite likelihood methods, where we consider the pairwise likelihood in lieu of the full likelihood. Maximizing the pairwise likelihood of the data yields an estimator of the parameter vector of the model, and we prove consistency and, in the short memory case, asymptotic normality of this estimator. When the underlying trawl process has long memory, the asymptotic behaviour of the estimator is more involved; we present some partial results for this case. The pairwise approach further allows us to develop probabilistic forecasting methods, which can be used to construct the predictive distribution of integer-valued time series. In a simulation study, we document the good finite sample performance of the likelihood-based estimator and the associated model selection procedure. Lastly, the methods are illustrated in an application to modelling and forecasting financial bid–ask spread data, where we find that it is beneficial to carefully model both the marginal distribution and the autocorrelation structure of the data.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized linear models with structured sparsity estimators
+AU  - Caner, Mehmet
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105478
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105478
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300194X
+KW  - Uniformity
+KW  - Size and power of the test
+KW  - Restrictions
+AB  - In this paper, we introduce structured sparsity estimators for use in Generalized Linear Models. Structured sparsity estimators in the least squares loss are introduced by Stucky and van de Geer (2018). Their proofs exclusively depend on their use of fixed design and normal errors. We extend their results to debiased structured sparsity estimators with Generalized Linear Model based loss through incorporating random design and non-sub Gaussian data. Structured sparsity estimation means that penalized loss functions with a possible sparsity structure in a norm. These norms include norms generated from convex cones. Our contributions are threefold: (1) We generalize the existing oracle inequality results in penalized Generalized Linear Models; (2) We provide a feasible weighted nodewise regression proof which generalizes the results in the literature; (3) We realize that norms used in feasible nodewise regression proofs should be weaker or equal to the norms in penalized Generalized Linear Model loss.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian Artificial Neural Networks for frontier efficiency analysis
+AU  - Tsionas, Mike
+AU  - Parmeter, Christopher F.
+AU  - Zelenyuk, Valentin
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105491
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105491
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002075
+KW  - Machine learning
+KW  - Simulation
+KW  - Flexible functional forms
+KW  - Bayesian Artificial Neural Networks
+KW  - Banking
+KW  - Efficiency analysis
+AB  - Artificial neural networks have offered their share of econometric insights, given their power to model complex relationships. One area where they have not been readily deployed is the estimation of frontiers. The literature on frontier estimation has seen its share of research comparing and contrasting data envelopment analysis (DEA) and stochastic frontier analysis (SFA), the two workhorse estimators. These studies rely on both Monte Carlo experiments and actual data sets to examine a range of performance issues which can be used to elucidate insights on the benefits or weaknesses of one method over the other. As can be imagined, neither method is universally better than the other. The present paper proposes an alternative approach that is quite flexible in terms of functional form and distributional assumptions and it amalgamates the benefits of both DEA and SFA. Specifically, we bridge these two popular approaches via Bayesian artificial neural networks while accounting for possible endogeneity of inputs. We examine the performance of this new machine learning approach using Monte Carlo experiments which is found to be very good, comparable to, or often better than, the current standards in the literature. To illustrate the new techniques, we provide an application of this approach to a data set of large US banks.
+ER  - 
+
+TY  - JOUR
+T1  - A solution to the global identification problem in DSGE models
+AU  - Kocięcki, Andrzej
+AU  - Kolasa, Marcin
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105477
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105477
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001938
+KW  - Global identification
+KW  - State space systems
+KW  - DSGE models
+KW  - Gröbner basis
+AB  - We develop an analytical framework to study global identification in structural models with forward-looking expectations. Our identification condition combines the similarity transformation linking the observationally equivalent state space systems with the constraints imposed on them by the model parameters. The key step of solving the identification problem then reduces to finding all roots of a system of polynomial equations. We show how it can be done using the concept of a Gröbner basis and recently developed algorithms to compute it analytically. In contrast to frameworks relying on numerical search, our approach can prove whether a model is identified or not at a given parameter point, explicitly delivering the complete set of observationally equivalent parameter vectors. We present the solution to the global identification problem for several popular dynamic stochastic general equilibrium (DSGE) models.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105506
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(23)00222-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002221
+ER  - 
+
+TY  - JOUR
+T1  - When will Arctic sea ice disappear? Projections of area, extent, thickness, and volume
+AU  - Diebold, Francis X.
+AU  - Rudebusch, Glenn D.
+AU  - Göbel, Maximilian
+AU  - Goulet Coulombe, Philippe
+AU  - Zhang, Boyuan
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105479
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105479
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001951
+KW  - Climate change
+KW  - Cryosphere
+KW  - Climate prediction
+KW  - Climate forecasting
+KW  - Carbon dioxide concentration
+KW  - Carbon emissions
+AB  - Rapidly diminishing Arctic summer sea ice is a strong signal of the pace of global climate change. We provide point, interval, and density forecasts for four measures of Arctic sea ice: area, extent, thickness, and volume. Importantly, we enforce the joint constraint that these measures must simultaneously arrive at an ice-free Arctic. We apply this constrained joint forecast procedure to models relating sea ice to atmospheric carbon dioxide concentration and models relating sea ice directly to time. The resulting “carbon-trend” and “time-trend” projections are mutually consistent and predict a nearly ice-free summer Arctic Ocean by the mid-2030s with an 80% probability. Moreover, the carbon-trend projections show that global adoption of a lower carbon path would likely delay the arrival of a seasonally ice-free Arctic by only a few years.
+ER  - 
+
+TY  - JOUR
+T1  - A structural analysis of simple contracts
+AU  - An, Yonghong
+AU  - Hong, Shengjie
+AU  - Zhang, Daiqiang
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105456
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001501
+KW  - Simple contracts
+KW  - Two-period
+KW  - Measurement error
+KW  - Nonparametric identification
+AB  - This paper provides an econometric framework for analyzing two-period simple contracts where an agent chooses between a fixed-price option and a cost-reimbursement option provided by a principal in each contracting period. First, we propose a consistent procedure for testing the null hypothesis of a corresponding cost function being linear, which is widely assumed for tractability in the literature. Motivated by the rejection of such a null based on our empirical data, next we establish nonparametric identification, without restricting the cost function to be linear, for all model primitives conditioned on the agent exerting nonzero effort. These primitives include agent’s cost and disutility functions, distribution of agent efficiency type, and parameters that characterize agent’s bargaining power and intertemporal preference. Moreover, we propose a consistent procedure to implement the identification results for estimation. In our empirical study, we find strong evidence against linearity of the cost function. The importance of this empirical finding is further evidenced by a welfare analysis, which shows the welfare assessment to be sensitive to the specification of cost function.
+ER  - 
+
+TY  - JOUR
+T1  - Two-way fixed effects and differences-in-differences estimators with several treatments
+AU  - de Chaisemartin, Clément
+AU  - D’Haultfœuille, Xavier
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105480
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105480
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001963
+KW  - Differences-in-differences
+KW  - Two-way-fixed-effects regressions
+KW  - Multiple treatments
+KW  - Heterogeneous treatment effects
+AB  - We study two-way-fixed-effects regressions (TWFE) with several treatment variables. Under a parallel trends assumption, we show that the coefficient on each treatment identifies a weighted sum of that treatment’s effect, with possibly negative weights, plus a weighted sum of the effects of the other treatments. Thus, those estimators are not robust to heterogeneous effects and may be contaminated by other treatments’ effects. We further show that omitting a treatment from the regression can actually reduce the estimator’s bias, unlike what would happen under constant treatment effects. We propose an alternative difference-in-differences estimator, robust to heterogeneous effects and immune to the contamination problem. In the application we consider, the TWFE regression identifies a highly non-convex combination of effects, with large contamination weights, and one of its coefficients significantly differs from our heterogeneity-robust estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Treatment effect models with strategic interaction in treatment decisions
+AU  - Hoshino, Tadao
+AU  - Yanagi, Takahide
+JO  - Journal of Econometrics
+VL  - 236
+IS  - 2
+SP  - 105495
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105495
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002117
+KW  - Binary games
+KW  - Latent index models
+KW  - Marginal treatment effects
+KW  - Series estimation
+KW  - Strategic interaction
+AB  - This study considers treatment effect models in which others’ treatment decisions can affect both one’s own treatment and outcome. Focusing on the case of two-player interactions, we formulate treatment decision behavior as a complete information game with multiple equilibria. Using a latent index framework and assuming a stochastic equilibrium selection, we prove that the marginal treatment effect from one’s own treatment and that from the partner are identifiable on the conditional supports of certain threshold variables determined through the game model. Based on our constructive identification results, we propose a two-step semiparametric procedure for estimating the marginal treatment effects using series approximation. We show that the proposed estimator is uniformly consistent and asymptotically normally distributed. As an empirical illustration, we investigate the impacts of risky behaviors on adolescents’ academic performance.
+ER  - 

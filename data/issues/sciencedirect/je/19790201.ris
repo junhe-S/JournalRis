@@ -1,0 +1,185 @@
+TY  - JOUR
+T1  - On the computational competitiveness of full-information maximum-likelihood and three-stage least-squares in the estimation of nonlinear, simultaneous-equations models
+AU  - Besley, David A.
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 315
+EP  - 342
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90077-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900770
+AB  - While full-information maximum-likehood (FIML) estimation has long been considered an important theoretical econometric estimation technique, computational considerations have greatly restricted its use in practice. Recent advances in numerical analysis and in computational software, however, have combined to provide algorithms capable of carrying out the FIML calculations quite efficiently relative to past standards. This paper compares the computational competitiveness of FIML with its most popular competitor, 3SLS, in the estimation of a variety of linear and non-linear (in parameters and variables) models. The nonlinear full-information maximum-likelihood (NLFIML) estimator is described and a computatíonally efficient approximation, TRUNFIML, is defined. Nonlinear three-stage least-squares (NL3SLS) is accomplished by the method of Jorgenson-Laffont. Comparisons are made on the basis of numbers of iterations to convergence, number of function evaluations, and total computer CPU time required, this latter figure being most relevant to a comparison of computational effort and cost.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal instruments when the disturbances are small
+AU  - Klein, Roger W.
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 368
+EP  - 377
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90079-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900794
+AB  - Single-equation instrumental variable estimators (e.g., the k-class) are frequently employed to estimate econometric equations. This paper employs Kadane's (1971) small-σ method and a squared-error matrix loss function to characterize a single-equation class of optimal instruments, A. A is optimal (asymptotically for a small scalar multiple, σ, of the model's disturbance) in that all of its members are preferred to all non-members. From this characterization it is shown all k-class estimators and certain iterative estimators belong to A. However, non-iterative principal component estimators [e.g., Kloek and Mennes (1960)] are unlikely to belong to A. These latter instrumental variable estimators have been advocated [see Amemiya (1966) and Kloek and Mennes (1960)] for estimating ‘large’ econometric models.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating technical and allocative inefficiency relative to stochastic production and cost frontiers
+AU  - Schmidt, Peter
+AU  - Knox Lovell, C.A.
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 343
+EP  - 366
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90078-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900782
+AB  - Earlier papers by Aiger, Lovell and Schmidt and by Meeusen and van den Broeck have considered stochastic frontier production functions. this paper extends that work by considering the duality between stochastic frontier production and cost funstions, under the assumtions of exact cost minimization (tecchnical inefficiency only) and of inexact cost minimization (technical and allocative inefficiency). We show how to measure both types of inefficiency, and the associated cost of inefficiency. The techniques are illustrated using data on steam-electric generating plants.
+ER  - 
+
+TY  - JOUR
+T1  - FIML estimation of the dynamic simultaneous equations model with ARMA disturbances
+AU  - Reinsel, Greg
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 263
+EP  - 281
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90074-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900745
+AB  - A method is presented for the estimation of the parameters in the dynamic simultaneous equations model with vector autoregressive moving average disturbances. The estimation procedure is derived from the full information maximum likelihood approach and is based on Newton-Raphson techniques applied to the likelihood equations. The resulting two-step Newton-Raphson procedure involves only generalized instrumental variables estimation in the second step. This procedure also serves as the basis for an iterative scheme to solve the normal equations and obtain the maximum likelihood estimates of the conditional likelihood function. A nine-equation variant of the quarterly forecasting model of the US economy developed by Fair is then used as a realistic example to illustrate the estimation procedure described in the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Omitted variables, variability of estimated parameters and the appearance of autocorrelated disturbances
+AU  - Gupta, Yash Pal
+AU  - Maasoumi, Esfandiar
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 379
+EP  - 385
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90080-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900800
+AB  - This paper shows that in a standard regression model with omitted variables, the OLS formula for the estimated variance matrix of the regression coefficients is more likely to underestimate the appropriate criterion of estimator reliability which is the Mean Square Errors matrix. Using examples of two and three regressor models, we show that overestimation, though possible, occurs in rather special cases. Throughout, our analysis is contrasted with that of Chaudhuri (1977) and clarifies some ambiguities of that paper. Finally, we disagree with Chaudhuri who distinguishes between the corresponding coefficients in the correct and the misspecified models. This distinction is inappropriate and leads to a misplaced criticism of some GLS variants when errors are serially correlated. A first-order Markov process is an inexact representation of serial correlation which is due to omitted regressors.
+ER  - 
+
+TY  - JOUR
+T1  - The sampling distribution of forecasts from a first-order autoregression
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 241
+EP  - 261
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90073-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900733
+AB  - Previous work on characterising the distribution of forecast errors in time series models by statistics such as the asymptotic mean square error has assumed that observations used in estimating parameters are statistically independent of those used to construct the forecasts themselves. This assumption is quite unrealistic in practical situations and the present paper is intended to tackle the question of how the statistical dependence between the parameter estimates and the final period observations used to generate forecasts affects the sampling distribution of the forecast errors. We concentrate on the first-order autoregression and, for this model, show that the conditional distribution of forecast errors given the final period observation is skewed towards the origin and that this skewness is accentuated in the majority of cases by the statistical dependence between the parameter estimates and the final period observation.
+ER  - 
+
+TY  - JOUR
+T1  - Index
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 395
+EP  - 396
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90084-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900848
+ER  - 
+
+TY  - JOUR
+T1  - European doctoral program in quantitative economics
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 393
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90083-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900836
+ER  - 
+
+TY  - JOUR
+T1  - The behaviour of inconsistent instrumental variables estimators in dynamic systems with autocorrelated errors
+AU  - Hendry, David F.
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 295
+EP  - 314
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90076-9
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900769
+AB  - To appropriately interpret time-series evidence when empirical relationships are incorrectly formulated, a general mis-specification framework is required. A linear, stationary, dynamic, simultaneous system with autoregressive errors is postulated to investigate instrumental variables ables estimators when the instruments are unknowingly correlated with the equation errors. The approach uses control variates (Hendry and Harrison, Journal of Econometrics, July 1974) to develop asymptotic distributions and exact moments for approximations to the econometric estimators. The accuracy of the asymptotic results for finite sample moments is corroborated by simulation. The analysis highlights the need for care in interpreting estimated equations and tests for predictive failure.
+ER  - 
+
+TY  - JOUR
+T1  - Erratum
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 391
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90082-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900824
+ER  - 
+
+TY  - JOUR
+T1  - Testing price taking behavior
+AU  - Appelbaum, Elie
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 283
+EP  - 294
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90075-7
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900757
+AB  - The purpose of this paper is to present an empirically implementable technique for the analysis of non-competitive behavior in production. We provide a statistical test for the price taking behavior hypothesis which can be used to distinguish among different market structures. We apply this approach to the U.S. crude petroleum and natural gas industry and find that the price taking behavior hypothesis is not appropriate for this industry.
+ER  - 
+
+TY  - JOUR
+T1  - Prediction from binary choice models: A note
+AU  - Lancaster, Tony
+JO  - Journal of Econometrics
+VL  - 9
+IS  - 3
+SP  - 387
+EP  - 389
+PY  - 1979
+DA  - 1979/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(79)90081-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407679900812
+AB  - The results of Westin (1974) can be obtained, to a satisfactory approximation, without recourse to numerical integration. We also show how to attach a standard error to his point estimates.
+ER  - 

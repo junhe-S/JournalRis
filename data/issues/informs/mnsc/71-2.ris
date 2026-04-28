@@ -1,0 +1,1084 @@
+
+TY  - JOUR
+T1  - Rise of the Machines: The Impact of Automated Underwriting
+AU  - Jansen, Mark
+AU  - Nguyen, Hieu Quang
+AU  - Shams, Amin
+Y1  - 2024/04/30
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2024.4986
+DO  - 10.1287/mnsc.2024.4986
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 955
+EP  - 975
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Using a randomized experiment in auto lending, we find that algorithmic underwriting outperforms the human underwriting process, resulting in 10.2% higher loan profits and 6.8% lower default rates. The human and machine underwriters show similar performance for low-risk, less complex loans. However, the performance of human underwritten loans largely declines for riskier and more complex loans, whereas the machine performance stays relatively stable across various risk dimensions and loan characteristics. The performance difference is more pronounced at underwriting thresholds with a high potential for agency conflict. These results are consistent with algorithmic underwriting mitigating agency conflicts and humans? limited capacity for analyzing complex problems.This paper was accepted by Will Cong, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4986.
+AB  - Using a randomized experiment in auto lending, we find that algorithmic underwriting outperforms the human underwriting process, resulting in 10.2% higher loan profits and 6.8% lower default rates. The human and machine underwriters show similar performance for low-risk, less complex loans. However, the performance of human underwritten loans largely declines for riskier and more complex loans, whereas the machine performance stays relatively stable across various risk dimensions and loan characteristics. The performance difference is more pronounced at underwriting thresholds with a high potential for agency conflict. These results are consistent with algorithmic underwriting mitigating agency conflicts and humans? limited capacity for analyzing complex problems.This paper was accepted by Will Cong, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4986.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2024.4986
+UR  - https://doi.org/10.1287/mnsc.2024.4986
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Risk Taking Under Limited Liability and Moral Hazard: Quantifying the Role of Motivated Beliefs
+AU  - Bosch-Rosa, Ciril
+AU  - Gietl, Daniel
+AU  - Heinemann, Frank
+Y1  - 2024/04/26
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.03947
+DO  - 10.1287/mnsc.2021.03947
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 976
+EP  - 991
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - This paper investigates whether limited liability and moral hazard affect risk taking through motivated beliefs. On the one hand, limited liability encourages investors to take excessive risks. On the other, excessive risk taking makes it hard for investors to maintain a positive self-image when moral hazard is present. Using a novel experimental design, we show that subjects form motivated beliefs to self-justify their excessive risk taking. For the same investment opportunity, subjects invest more and are significantly more optimistic about the success of the investment if its failure can harm others. We show that more than one third of the investment increases under limited liability, and moral hazard can be explained through motivated beliefs. Moreover, through a treatment with limited liability but no moral hazard, we show that motivated beliefs are formed subconsciously and can lead to the paradoxical result of investors taking larger risks when their investment can harm a third party compared with when it cannot. These results underscore the importance of motivated beliefs in regulatory policy, emphasizing that policymakers must not only address bad incentives, but also address the role of bad beliefs.This paper was accepted by Bruno Biais, finance.Funding: Financial support by Deutsche Forschungsgemeinschaft [Grant CRC TRR 190, project number 280092119] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03947.
+AB  - This paper investigates whether limited liability and moral hazard affect risk taking through motivated beliefs. On the one hand, limited liability encourages investors to take excessive risks. On the other, excessive risk taking makes it hard for investors to maintain a positive self-image when moral hazard is present. Using a novel experimental design, we show that subjects form motivated beliefs to self-justify their excessive risk taking. For the same investment opportunity, subjects invest more and are significantly more optimistic about the success of the investment if its failure can harm others. We show that more than one third of the investment increases under limited liability, and moral hazard can be explained through motivated beliefs. Moreover, through a treatment with limited liability but no moral hazard, we show that motivated beliefs are formed subconsciously and can lead to the paradoxical result of investors taking larger risks when their investment can harm a third party compared with when it cannot. These results underscore the importance of motivated beliefs in regulatory policy, emphasizing that policymakers must not only address bad incentives, but also address the role of bad beliefs.This paper was accepted by Bruno Biais, finance.Funding: Financial support by Deutsche Forschungsgemeinschaft [Grant CRC TRR 190, project number 280092119] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03947.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03947
+UR  - https://doi.org/10.1287/mnsc.2021.03947
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Modeling the Impact of Community First Responders
+AU  - van den Berg, Pieter L.
+AU  - Henderson, Shane G.
+AU  - Jagtenberg, Caroline J.
+AU  - Li, Hemeng
+Y1  - 2024/04/26
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.04024
+DO  - 10.1287/mnsc.2022.04024
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 992
+EP  - 1008
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - In community first responder (CFR) systems, traditional emergency service response is augmented by a network of trained volunteers who are dispatched via an app. A central application of such systems is out-of-hospital cardiac arrest (OHCA), where a very fast response is crucial. For a target performance level, how many volunteers are needed, and from which locations should they be recruited? We model the presence of volunteers throughout a region as a Poisson point process, which permits the computation of the response-time distribution of the first-arriving volunteer. Combining this with known survival-rate functions, we deduce survival probabilities in the cardiac arrest setting. We then use convex optimization to compute a location distribution of volunteers across the region that optimizes either the fraction of incidents with a fast response (a common measure in the industry) or patient survival in the case of OHCA. The optimal location distribution provides a bound on the best possible performance with a given number of volunteers. This can be used to determine whether introducing a CFR system in a new region is worthwhile or can serve as a guide for additional recruitment in existing systems. Effective target areas for recruitment are not always obvious because volunteers recruited from one area may be found in various areas across the city depending on the time of day; we explicitly capture this issue. We demonstrate these methods through an extended case study of Auckland, New Zealand.This paper was accepted by Carri Chan, healthcare management.Funding: This research was financed in part by the Netherlands Organization for Scientific Research (NWO) in the form of a Rubicon grant (019.172EN.016) to C. J. Jagtenberg and a Veni grant (VI.Veni.191E.005) to P. L. van den Berg. S. G. Henderson and H. Li were supported in part by National Science Foundation [Grant CMMI-2035086]. Vrije Universiteit Amsterdam and Erasmus University received funding from TKI Dinalog [Grant 2023-1-307TKI]. Some of this work has been executed under the TKI Dinalog [Grant 2023-1-307TKI]. Part of this work was completed during a research visit made possible by a [Distinguished Visitor Award] from the University of Auckland.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04024.
+AB  - In community first responder (CFR) systems, traditional emergency service response is augmented by a network of trained volunteers who are dispatched via an app. A central application of such systems is out-of-hospital cardiac arrest (OHCA), where a very fast response is crucial. For a target performance level, how many volunteers are needed, and from which locations should they be recruited? We model the presence of volunteers throughout a region as a Poisson point process, which permits the computation of the response-time distribution of the first-arriving volunteer. Combining this with known survival-rate functions, we deduce survival probabilities in the cardiac arrest setting. We then use convex optimization to compute a location distribution of volunteers across the region that optimizes either the fraction of incidents with a fast response (a common measure in the industry) or patient survival in the case of OHCA. The optimal location distribution provides a bound on the best possible performance with a given number of volunteers. This can be used to determine whether introducing a CFR system in a new region is worthwhile or can serve as a guide for additional recruitment in existing systems. Effective target areas for recruitment are not always obvious because volunteers recruited from one area may be found in various areas across the city depending on the time of day; we explicitly capture this issue. We demonstrate these methods through an extended case study of Auckland, New Zealand.This paper was accepted by Carri Chan, healthcare management.Funding: This research was financed in part by the Netherlands Organization for Scientific Research (NWO) in the form of a Rubicon grant (019.172EN.016) to C. J. Jagtenberg and a Veni grant (VI.Veni.191E.005) to P. L. van den Berg. S. G. Henderson and H. Li were supported in part by National Science Foundation [Grant CMMI-2035086]. Vrije Universiteit Amsterdam and Erasmus University received funding from TKI Dinalog [Grant 2023-1-307TKI]. Some of this work has been executed under the TKI Dinalog [Grant 2023-1-307TKI]. Part of this work was completed during a research visit made possible by a [Distinguished Visitor Award] from the University of Auckland.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04024.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.04024
+UR  - https://doi.org/10.1287/mnsc.2022.04024
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Adwords with Unknown Budgets and Beyond
+AU  - Udwani, Rajan
+Y1  - 2024/04/26
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.03243
+DO  - 10.1287/mnsc.2021.03243
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1009
+EP  - 1026
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - In the classic Adwords problem introduced by [Mehta A, Saberi A, Vazirani U, Vazirani V (2007) Adwords and generalized online matching. J. ACM 54(5):22-es.], we have a bipartite graph between advertisers and queries. Each advertiser has a maximum budget that is known a priori. Queries are unknown a priori and arrive sequentially. When a query arrives, advertisers make bids, and we (immediately and irrevocably) decide which (if any) Ad to display based on the bids and advertiser budgets. The winning advertiser for each query pays their bid up to their remaining budget. Our goal is to maximize total budget used without any foreknowledge of the arrival sequence (which could be adversarial). We consider the setting where the online algorithm does not know the advertisers? budgets a priori and the budget of an advertiser is revealed to the algorithm only when it is exceeded. A naïve greedy algorithm is 0.5 competitive for this setting, and finding an algorithm with better performance remained an open problem. We show that no deterministic algorithm has competitive ratio better than 0.5 and give the first (randomized) algorithm with strictly better performance guarantee. We show that the competitive ratio of our algorithm is at least 0.522 but also strictly less than (1?1/e). We present novel applications of budget oblivious algorithms in search ads and beyond. In particular, we show that our algorithm achieves the best possible performance guarantee for deterministic online matching in the presence of multichannel traffic [Manshadi V, Rodilitz S, Saban D, Suresh A (2022) Online algorithms for matching platforms with multi-channel traffic. Proc. 23rd ACMConf. Econom. Comput. (ACM, NewYork), 986?987.].This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: NSF Division of Civil, Mechanical, and Manufacturing Innovation [Grant 2340306], and Google Research Scholar Program.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2021.03243.
+AB  - In the classic Adwords problem introduced by [Mehta A, Saberi A, Vazirani U, Vazirani V (2007) Adwords and generalized online matching. J. ACM 54(5):22-es.], we have a bipartite graph between advertisers and queries. Each advertiser has a maximum budget that is known a priori. Queries are unknown a priori and arrive sequentially. When a query arrives, advertisers make bids, and we (immediately and irrevocably) decide which (if any) Ad to display based on the bids and advertiser budgets. The winning advertiser for each query pays their bid up to their remaining budget. Our goal is to maximize total budget used without any foreknowledge of the arrival sequence (which could be adversarial). We consider the setting where the online algorithm does not know the advertisers? budgets a priori and the budget of an advertiser is revealed to the algorithm only when it is exceeded. A naïve greedy algorithm is 0.5 competitive for this setting, and finding an algorithm with better performance remained an open problem. We show that no deterministic algorithm has competitive ratio better than 0.5 and give the first (randomized) algorithm with strictly better performance guarantee. We show that the competitive ratio of our algorithm is at least 0.522 but also strictly less than (1?1/e). We present novel applications of budget oblivious algorithms in search ads and beyond. In particular, we show that our algorithm achieves the best possible performance guarantee for deterministic online matching in the presence of multichannel traffic [Manshadi V, Rodilitz S, Saban D, Suresh A (2022) Online algorithms for matching platforms with multi-channel traffic. Proc. 23rd ACMConf. Econom. Comput. (ACM, NewYork), 986?987.].This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: NSF Division of Civil, Mechanical, and Manufacturing Innovation [Grant 2340306], and Google Research Scholar Program.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2021.03243.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03243
+UR  - https://doi.org/10.1287/mnsc.2021.03243
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Production Chain Organization in the Digital Age: Information Technology Use and Vertical Integration in U.S. Manufacturing
+AU  - Forman, Chris
+AU  - McElheran, Kristina
+Y1  - 2024/04/30
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2019.01586
+DO  - 10.1287/mnsc.2019.01586
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1027
+EP  - 1049
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Advances in information technology (IT) may affect the organizational design of production. Exploiting the rapid diffusion of the internet in the United States, we assess the sensitivity of production chain organization to this innovation in IT access and use. Extending theories of the firm that recognize the importance of downstream transfers (selling as opposed to sourcing) and plural governance in organizational design, we predict IT-driven shifts in downstream vertical integration. In a detailed panel of Census Bureau data for over 5,600 manufacturing plants, we observe the extent of a production unit?s downstream transactions within the firm alongside concurrent sales to external customers?a mix we refer to as plural selling. Our main finding is that the use of the internet for external coordination precipitated a significant decline in downstream vertical integration across the manufacturing sector. Instrumental variables estimation points to a causal relationship but also heterogeneous treatment effects. Key drivers of plural organization, such as complementarities and constraints across differently governed transactions, help explain such heterogeneity, as does concurrent use of internal production management IT. Our study is the first study to leverage a plural governance framework and large-scale microdata to understand how U.S. production chain organization shifted in response to this rapid and far-reaching technological change.This paper was accepted by David Simchi-Levi, information systems.Funding: This research was performed at the Atlanta, Boston, and Cornell (supported by the Cornell Center for the Social Sciences) Federal Statistical Research Data Centers [Project 1069 (CBDRB-FY22-279)]. Support for the Research Data Centers network from the National Science Foundation [Grant ITR-0427889] is gratefully acknowledged, as is support from the Social Sciences and Humanities Research Council of Canada.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2019.01586.
+AB  - Advances in information technology (IT) may affect the organizational design of production. Exploiting the rapid diffusion of the internet in the United States, we assess the sensitivity of production chain organization to this innovation in IT access and use. Extending theories of the firm that recognize the importance of downstream transfers (selling as opposed to sourcing) and plural governance in organizational design, we predict IT-driven shifts in downstream vertical integration. In a detailed panel of Census Bureau data for over 5,600 manufacturing plants, we observe the extent of a production unit?s downstream transactions within the firm alongside concurrent sales to external customers?a mix we refer to as plural selling. Our main finding is that the use of the internet for external coordination precipitated a significant decline in downstream vertical integration across the manufacturing sector. Instrumental variables estimation points to a causal relationship but also heterogeneous treatment effects. Key drivers of plural organization, such as complementarities and constraints across differently governed transactions, help explain such heterogeneity, as does concurrent use of internal production management IT. Our study is the first study to leverage a plural governance framework and large-scale microdata to understand how U.S. production chain organization shifted in response to this rapid and far-reaching technological change.This paper was accepted by David Simchi-Levi, information systems.Funding: This research was performed at the Atlanta, Boston, and Cornell (supported by the Cornell Center for the Social Sciences) Federal Statistical Research Data Centers [Project 1069 (CBDRB-FY22-279)]. Support for the Research Data Centers network from the National Science Foundation [Grant ITR-0427889] is gratefully acknowledged, as is support from the Social Sciences and Humanities Research Council of Canada.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2019.01586.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.01586
+UR  - https://doi.org/10.1287/mnsc.2019.01586
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Online Advertising as Passive Search
+AU  - Ursu, Raluca Mihaela
+AU  - Simonov, Andrey
+AU  - An, Eunkyung
+Y1  - 2024/04/30
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.02154
+DO  - 10.1287/mnsc.2022.02154
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1050
+EP  - 1073
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Standard search models assume that consumers actively decide on the order, identity, and number of products they search. We document that online, a large fraction of searches happen in a more passive manner, with consumers merely reacting to online advertisements that do not allow them to choose the timing or the identity of products to which they will be exposed. Using a clickstream panel data set capturing full URL addresses of websites that consumers visit, we show how to detect whether a click is ad initiated. We then report that in the apparel category, ad-initiated clicks account for more than half of all website arrivals, are more concentrated early on in the consumer search process, and lead to less in-depth searches and fewer transactions, consistent with the passive nature of these searches. To account for these systematic differences between active and passive searches, we propose and estimate a simple model that accommodates both types of searches. Our results show that incorrectly treating all searches as active inflates the estimated value of brands that advertise frequently. Our model can more accurately recover data patterns, especially for advertising brands. We finish with model extensions and a discussion of the managerial implications.This paper was accepted by Dmitry Kuksov, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02154.
+AB  - Standard search models assume that consumers actively decide on the order, identity, and number of products they search. We document that online, a large fraction of searches happen in a more passive manner, with consumers merely reacting to online advertisements that do not allow them to choose the timing or the identity of products to which they will be exposed. Using a clickstream panel data set capturing full URL addresses of websites that consumers visit, we show how to detect whether a click is ad initiated. We then report that in the apparel category, ad-initiated clicks account for more than half of all website arrivals, are more concentrated early on in the consumer search process, and lead to less in-depth searches and fewer transactions, consistent with the passive nature of these searches. To account for these systematic differences between active and passive searches, we propose and estimate a simple model that accommodates both types of searches. Our results show that incorrectly treating all searches as active inflates the estimated value of brands that advertise frequently. Our model can more accurately recover data patterns, especially for advertising brands. We finish with model extensions and a discussion of the managerial implications.This paper was accepted by Dmitry Kuksov, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02154.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02154
+UR  - https://doi.org/10.1287/mnsc.2022.02154
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Politically Affiliated Analysts
+AU  - Kong, Dongmin
+AU  - Lin, Chen
+AU  - Liu, Shasha
+AU  - Xuan, Yuhai
+Y1  - 2024/04/30
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.00579
+DO  - 10.1287/mnsc.2022.00579
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1074
+EP  - 1101
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Government ownership of financial intermediaries is pervasive around the world. In this study, we examine the impact of common government ownership between the brokerage and listed firms on the information production role of brokerage firms. We show that affiliated analysts tend to issue more optimistic recommendations for stocks of firms controlled by the same government entity that controls their brokerage firms. This optimistic bias is particularly pronounced during periods of economic shocks. Our study demonstrates this by utilizing additional tariff impositions and tariff exemptions during the U.S.?China trade war as exogenous negative and positive shocks, respectively. Additionally, our study indicates that stocks recommended by politically affiliated analysts tend to underperform those recommended by independent analysts, implying that the optimism stems from conflicts of interest rather than superior information. Furthermore, our research highlights that sophisticated investors perceive the potential bias and incorporate it into their trading. Consistent with an exchange of favors story, politically affiliated brokerage firms receive a larger allocation during the issuance of local government debt, whereas governments subscribe for more shares during seasoned equity offerings by these affiliated brokerage firms.This paper was accepted by Kay Giesecke, finance.Funding: The authors gratefully acknowledge the financial support from the National Natural Science Foundation of China [Grants 71972088, 72132002, and 71991473], the National Social Science Foundation of China [Grants 21ZDA010 and 22VRC145], and the Innovation and Talent Base for Digital Technology and Finance [Grant B21038].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00579.
+AB  - Government ownership of financial intermediaries is pervasive around the world. In this study, we examine the impact of common government ownership between the brokerage and listed firms on the information production role of brokerage firms. We show that affiliated analysts tend to issue more optimistic recommendations for stocks of firms controlled by the same government entity that controls their brokerage firms. This optimistic bias is particularly pronounced during periods of economic shocks. Our study demonstrates this by utilizing additional tariff impositions and tariff exemptions during the U.S.?China trade war as exogenous negative and positive shocks, respectively. Additionally, our study indicates that stocks recommended by politically affiliated analysts tend to underperform those recommended by independent analysts, implying that the optimism stems from conflicts of interest rather than superior information. Furthermore, our research highlights that sophisticated investors perceive the potential bias and incorporate it into their trading. Consistent with an exchange of favors story, politically affiliated brokerage firms receive a larger allocation during the issuance of local government debt, whereas governments subscribe for more shares during seasoned equity offerings by these affiliated brokerage firms.This paper was accepted by Kay Giesecke, finance.Funding: The authors gratefully acknowledge the financial support from the National Natural Science Foundation of China [Grants 71972088, 72132002, and 71991473], the National Social Science Foundation of China [Grants 21ZDA010 and 22VRC145], and the Innovation and Talent Base for Digital Technology and Finance [Grant B21038].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00579.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00579
+UR  - https://doi.org/10.1287/mnsc.2022.00579
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Bargaining with Voluntary Disclosure and Endogenous Matching
+AU  - Davis, Andrew M.
+AU  - Hyndman, Kyle
+Y1  - 2024/04/30
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.03566
+DO  - 10.1287/mnsc.2022.03566
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1102
+EP  - 1119
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We investigate a bargaining setting between an ?informed? player, who has private information, and an ?uninformed? player. The informed player has the option to truthfully disclose private information in two unique environments. In the first environment, the informed player is randomly matched with an uninformed player and, after matching, can voluntarily disclose private information prior to a negotiation taking place. In the second environment, the informed player can voluntarily disclose private information before any endogenous matching between players (and subsequent negotiation) takes place. We begin by examining these environments theoretically. When disclosure occurs after matching, we show that low informed types should disclose more often than high informed types to avoid disagreement. However, when disclosure occurs before matching, for a range of parameter values, we show that high informed types should disclose more than low informed types to secure a better match. We test these predictions in a controlled human-subjects experiment and verify many of the theoretical predictions. Among other results, we find that low informed types do indeed disclose their private information to avoid disagreement and that, when it is in their interest to do so, high informed types disclose their private information to secure a better match. Another key insight is that high uninformed types benefit from disclosure regardless of whether it occurs before or after matching.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03566.
+AB  - We investigate a bargaining setting between an ?informed? player, who has private information, and an ?uninformed? player. The informed player has the option to truthfully disclose private information in two unique environments. In the first environment, the informed player is randomly matched with an uninformed player and, after matching, can voluntarily disclose private information prior to a negotiation taking place. In the second environment, the informed player can voluntarily disclose private information before any endogenous matching between players (and subsequent negotiation) takes place. We begin by examining these environments theoretically. When disclosure occurs after matching, we show that low informed types should disclose more often than high informed types to avoid disagreement. However, when disclosure occurs before matching, for a range of parameter values, we show that high informed types should disclose more than low informed types to secure a better match. We test these predictions in a controlled human-subjects experiment and verify many of the theoretical predictions. Among other results, we find that low informed types do indeed disclose their private information to avoid disagreement and that, when it is in their interest to do so, high informed types disclose their private information to secure a better match. Another key insight is that high uninformed types benefit from disclosure regardless of whether it occurs before or after matching.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03566.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03566
+UR  - https://doi.org/10.1287/mnsc.2022.03566
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Sensitivity Analysis of the Cost Coefficients in Multiobjective Integer Linear Optimization
+AU  - Andersen, Kim Allan
+AU  - Boomsma, Trine Krogh
+AU  - Efkes, Britta
+AU  - Forget, Nicolas
+Y1  - 2024/05/02
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.01406
+DO  - 10.1287/mnsc.2021.01406
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1120
+EP  - 1137
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - This paper considers sensitivity analysis of the cost coefficients in multiobjective integer linear programming problems. We define the sensitivity region as the set of simultaneous changes to the coefficients for which the efficient set and its structure remain the same. In particular, we require that the component-wise relation between efficient solutions is preserved and that inefficient solutions remain inefficient, and we show that this is sufficient for the efficient set to be the same upon changes. For a single coefficient, we show that a subset of the inefficient solutions can be excluded from consideration. More specifically, we prove that it suffices to inspect the inefficient solutions of a q-objective problem that are efficient in one of two related q?+?1-objective problems. Finally, we show that the sensitivity region is a convex set (an interval). Our approach generalizes to simultaneous changes in multiple coefficients. For illustration, we consider mean-variance capital budgeting and determine the region for which the set of efficient portfolios remains the same, despite a misspecification or a change in the net present values of the projects. Further computational experience with multiobjective binary and integer knapsack problems demonstrates the general applicability of our technique. For instance, we obtain all sensitivity intervals for changes to single coefficients of biobjective problems with 500 binary variables in less than half an hour of CPU time by excluding a large number of inefficient solutions. In fact, the number of excluded solutions is above 100 orders of magnitude larger than the number of remaining solutions.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.01406.
+AB  - This paper considers sensitivity analysis of the cost coefficients in multiobjective integer linear programming problems. We define the sensitivity region as the set of simultaneous changes to the coefficients for which the efficient set and its structure remain the same. In particular, we require that the component-wise relation between efficient solutions is preserved and that inefficient solutions remain inefficient, and we show that this is sufficient for the efficient set to be the same upon changes. For a single coefficient, we show that a subset of the inefficient solutions can be excluded from consideration. More specifically, we prove that it suffices to inspect the inefficient solutions of a q-objective problem that are efficient in one of two related q?+?1-objective problems. Finally, we show that the sensitivity region is a convex set (an interval). Our approach generalizes to simultaneous changes in multiple coefficients. For illustration, we consider mean-variance capital budgeting and determine the region for which the set of efficient portfolios remains the same, despite a misspecification or a change in the net present values of the projects. Further computational experience with multiobjective binary and integer knapsack problems demonstrates the general applicability of our technique. For instance, we obtain all sensitivity intervals for changes to single coefficients of biobjective problems with 500 binary variables in less than half an hour of CPU time by excluding a large number of inefficient solutions. In fact, the number of excluded solutions is above 100 orders of magnitude larger than the number of remaining solutions.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.01406.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01406
+UR  - https://doi.org/10.1287/mnsc.2021.01406
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Cost Structure and the Usefulness of Earnings
+AU  - Cadman, Brian
+AU  - Ferracuti, Elia
+Y1  - 2024/05/03
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.03023
+DO  - 10.1287/mnsc.2021.03023
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1138
+EP  - 1164
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We investigate the relation between the usefulness of earnings and firm cost structure. We document that the usefulness of earnings to external users decreases in the degree of operating leverage, which measures the proportion of fixed to variable costs, and that this decline extends at least partially from the relation between the degree of operating leverage and two earnings properties: aggressive revenue recognition to meet an earnings target and earnings volatility. Our results illustrate how firm fundamentals influence a firm?s information environment and thereby the usefulness of earnings to external users.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.03023.
+AB  - We investigate the relation between the usefulness of earnings and firm cost structure. We document that the usefulness of earnings to external users decreases in the degree of operating leverage, which measures the proportion of fixed to variable costs, and that this decline extends at least partially from the relation between the degree of operating leverage and two earnings properties: aggressive revenue recognition to meet an earnings target and earnings volatility. Our results illustrate how firm fundamentals influence a firm?s information environment and thereby the usefulness of earnings to external users.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.03023.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03023
+UR  - https://doi.org/10.1287/mnsc.2021.03023
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Learning to Optimize Contextually Constrained Problems for Real-Time Decision Generation
+AU  - Babier, Aaron
+AU  - Chan, Timothy C. Y.
+AU  - Diamant, Adam
+AU  - Mahmood, Rafid
+Y1  - 2024/05/03
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2020.03565
+DO  - 10.1287/mnsc.2020.03565
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1165
+EP  - 1186
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - The topic of learning to solve optimization problems has received interest from both the operations research and machine learning communities. In this paper, we combine ideas from both fields to address the problem of learning to generate decisions to instances of optimization problems with potentially nonlinear or nonconvex constraints where the feasible set varies with contextual features. We propose a novel framework for training a generative model to produce provably optimal decisions by combining interior point methods and adversarial learning, which we further embed within an iterative data generation algorithm. To this end, we first train a classifier to learn feasibility and then train the generative model to produce optimal decisions to an optimization problem using the classifier as a regularizer. We prove that decisions generated by our model satisfy in-sample and out-of-sample optimality guarantees. Furthermore, the learning models are embedded in an active learning loop in which synthetic instances are iteratively added to the training data; this allows us to progressively generate provably tighter optimal decisions. We investigate case studies in portfolio optimization and personalized treatment design, demonstrating that our approach yields advantages over predict-then-optimize and supervised deep learning techniques, respectively. In particular, our framework is more robust to parameter estimation error compared with the predict-then-optimize paradigm and can better adapt to domain shift as compared with supervised learning models.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was supported in part by the Natural Sciences and Engineering Research Council of Canada.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.03565.
+AB  - The topic of learning to solve optimization problems has received interest from both the operations research and machine learning communities. In this paper, we combine ideas from both fields to address the problem of learning to generate decisions to instances of optimization problems with potentially nonlinear or nonconvex constraints where the feasible set varies with contextual features. We propose a novel framework for training a generative model to produce provably optimal decisions by combining interior point methods and adversarial learning, which we further embed within an iterative data generation algorithm. To this end, we first train a classifier to learn feasibility and then train the generative model to produce optimal decisions to an optimization problem using the classifier as a regularizer. We prove that decisions generated by our model satisfy in-sample and out-of-sample optimality guarantees. Furthermore, the learning models are embedded in an active learning loop in which synthetic instances are iteratively added to the training data; this allows us to progressively generate provably tighter optimal decisions. We investigate case studies in portfolio optimization and personalized treatment design, demonstrating that our approach yields advantages over predict-then-optimize and supervised deep learning techniques, respectively. In particular, our framework is more robust to parameter estimation error compared with the predict-then-optimize paradigm and can better adapt to domain shift as compared with supervised learning models.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was supported in part by the Natural Sciences and Engineering Research Council of Canada.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.03565.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.03565
+UR  - https://doi.org/10.1287/mnsc.2020.03565
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Unconventional Monetary Policy Transmission and Bank Lending Relationships
+AU  - Cahn, Christophe
+AU  - Duquerroy, Anne
+AU  - Mullins, William
+Y1  - 2024/05/06
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01871
+DO  - 10.1287/mnsc.2022.01871
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1187
+EP  - 1212
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Firms with only one bank relationship make up the majority of firms in many economies. This paper explores whether policy-driven lending is differentially transmitted to single-bank firms in comparison with the multibank firms that are the focus of the literature. Using unique variation in the ECB?s very long-term refinancing operations (VLTROs), which affected lending to firms discontinuously across credit ratings but within banks, we find selective transmission of VLTRO liquidity to single-bank firms. Banks apply higher lending standards to single-bank firms, with banking relationships determining both new lending and lending maturity. By contrast, banks appear to transmit policy lending near-uniformly across multibank firms.This paper was accepted by David Sraer, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01871.
+AB  - Firms with only one bank relationship make up the majority of firms in many economies. This paper explores whether policy-driven lending is differentially transmitted to single-bank firms in comparison with the multibank firms that are the focus of the literature. Using unique variation in the ECB?s very long-term refinancing operations (VLTROs), which affected lending to firms discontinuously across credit ratings but within banks, we find selective transmission of VLTRO liquidity to single-bank firms. Banks apply higher lending standards to single-bank firms, with banking relationships determining both new lending and lending maturity. By contrast, banks appear to transmit policy lending near-uniformly across multibank firms.This paper was accepted by David Sraer, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01871.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01871
+UR  - https://doi.org/10.1287/mnsc.2022.01871
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Trade Secret Protection and the Integration of Information Within Firms
+AU  - Andreicovici, Ionela
+AU  - Bormann, Sara
+AU  - Hombach, Katharina
+Y1  - 2024/05/07
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.03484
+DO  - 10.1287/mnsc.2021.03484
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1213
+EP  - 1237
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We examine the effect of trade secret protection laws on internal information integration (i.e., the extent to which economic agents are provided with access to decision-relevant information from other economic agents within a firm). We argue that stronger trade secret protection laws increase firms? internal information integration because they reduce the proprietary costs of information leakage. To test our prediction, we measure a firm?s internal information integration by the share of its sites integrated into its enterprise management system. Exploiting the staggered adoption of trade secret protection laws via the Uniform Trade Secrets Act (UTSA), we find that these laws increase firms? internal information integration. This effect is stronger (weaker) for firms with higher proprietary costs (coordination benefits). Further, we provide evidence that the UTSA-induced increase in internal information integration translates into improvements of firms? internal information quality and decision-making quality. Taken together, our results enhance the understanding of the economic trade-offs shaping firms? internal information environment.This paper was accepted by Ranjani Krishnan, accounting.Funding: S. Bormann and K. Hombach gratefully acknowledge funding from Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) [Grant Project-ID 403041268?TRR 266 Accounting for Transparency].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03484.
+AB  - We examine the effect of trade secret protection laws on internal information integration (i.e., the extent to which economic agents are provided with access to decision-relevant information from other economic agents within a firm). We argue that stronger trade secret protection laws increase firms? internal information integration because they reduce the proprietary costs of information leakage. To test our prediction, we measure a firm?s internal information integration by the share of its sites integrated into its enterprise management system. Exploiting the staggered adoption of trade secret protection laws via the Uniform Trade Secrets Act (UTSA), we find that these laws increase firms? internal information integration. This effect is stronger (weaker) for firms with higher proprietary costs (coordination benefits). Further, we provide evidence that the UTSA-induced increase in internal information integration translates into improvements of firms? internal information quality and decision-making quality. Taken together, our results enhance the understanding of the economic trade-offs shaping firms? internal information environment.This paper was accepted by Ranjani Krishnan, accounting.Funding: S. Bormann and K. Hombach gratefully acknowledge funding from Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) [Grant Project-ID 403041268?TRR 266 Accounting for Transparency].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03484.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03484
+UR  - https://doi.org/10.1287/mnsc.2021.03484
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The (Surprising) Sample Optimality of Greedy Procedures for Large-Scale Ranking and Selection
+AU  - Li, Zaile
+AU  - Fan, Weiwei
+AU  - Hong, L. Jeff
+Y1  - 2024/05/07
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2023.00694
+DO  - 10.1287/mnsc.2023.00694
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1238
+EP  - 1259
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Ranking and selection (R that is, the total sample size required to deliver an asymptotically nonzero probability of correct selection (PCS) grows at the minimal order (linear order) in the number of alternatives, k. Surprisingly, we discover that the naïve greedy procedure, which keeps sampling the alternative with the largest running average, performs strikingly well and appears sample optimal. To understand this discovery, we develop a new boundary-crossing perspective and prove that the greedy procedure is sample optimal for the scenarios where the best mean maintains at least a positive constant away from all other means as k increases. We further show that the derived PCS lower bound is asymptotically tight for the slippage configuration of means with a common variance. For other scenarios, we consider the probability of good selection and find that the result depends on the growth behavior of the number of good alternatives: if it remains bounded as k increases, the sample optimality still holds; otherwise, the result may change. Moreover, we propose the explore-first greedy procedures by adding an exploration phase to the greedy procedure. The procedures are proven to be sample optimal and consistent under the same assumptions. Last, we numerically investigate the performance of our greedy procedures in solving large-scale R&S problems.This paper was accepted by Baris Ata, stochastic models and simulation.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72091211, 72071146, 72161160340].Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2023.00694.
+AB  - Ranking and selection (R that is, the total sample size required to deliver an asymptotically nonzero probability of correct selection (PCS) grows at the minimal order (linear order) in the number of alternatives, k. Surprisingly, we discover that the naïve greedy procedure, which keeps sampling the alternative with the largest running average, performs strikingly well and appears sample optimal. To understand this discovery, we develop a new boundary-crossing perspective and prove that the greedy procedure is sample optimal for the scenarios where the best mean maintains at least a positive constant away from all other means as k increases. We further show that the derived PCS lower bound is asymptotically tight for the slippage configuration of means with a common variance. For other scenarios, we consider the probability of good selection and find that the result depends on the growth behavior of the number of good alternatives: if it remains bounded as k increases, the sample optimality still holds; otherwise, the result may change. Moreover, we propose the explore-first greedy procedures by adding an exploration phase to the greedy procedure. The procedures are proven to be sample optimal and consistent under the same assumptions. Last, we numerically investigate the performance of our greedy procedures in solving large-scale R&S problems.This paper was accepted by Baris Ata, stochastic models and simulation.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72091211, 72071146, 72161160340].Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2023.00694.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00694
+UR  - https://doi.org/10.1287/mnsc.2023.00694
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Bank Specialization and Zombie Lending
+AU  - De Jonghe, Olivier
+AU  - Mulier, Klaas
+AU  - Samarin, Ilia
+Y1  - 2024/05/07
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2023.01437
+DO  - 10.1287/mnsc.2023.01437
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1260
+EP  - 1286
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We study whether banks internalize congestion externalities when lending to zombie firms. We conjecture that banks should be better informed about the presence of zombie firms and the congestion externalities that such firms exert on healthy borrowers in industries where banks are specialized and show that banks? credit supply to zombie firms relates negatively to their industry specialization. This relation is stronger when congestion externalities are likely to have stronger adverse effects, namely when zombie firms take a higher fraction of resources in the industry or when the industry is geographically more concentrated. Additionally, this relation is weaker in industries with higher asset specificity as zombie firms? default (and potential asset fire sales) could reduce healthy borrowers? collateral value.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01437.
+AB  - We study whether banks internalize congestion externalities when lending to zombie firms. We conjecture that banks should be better informed about the presence of zombie firms and the congestion externalities that such firms exert on healthy borrowers in industries where banks are specialized and show that banks? credit supply to zombie firms relates negatively to their industry specialization. This relation is stronger when congestion externalities are likely to have stronger adverse effects, namely when zombie firms take a higher fraction of resources in the industry or when the industry is geographically more concentrated. Additionally, this relation is weaker in industries with higher asset specificity as zombie firms? default (and potential asset fire sales) could reduce healthy borrowers? collateral value.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01437.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01437
+UR  - https://doi.org/10.1287/mnsc.2023.01437
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Workplace Automation and Corporate Liquidity Policy
+AU  - Bates, Thomas W.
+AU  - Du, Fangfang
+AU  - Wang, Jessie Jiaxu
+Y1  - 2024/05/07
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.03902
+DO  - 10.1287/mnsc.2021.03902
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1287
+EP  - 1314
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Using an occupational probability of computerization, we measure a firm?s ability to replace labor with automated capital. Our evidence suggests that the potential to automate a workforce enhances operating flexibility, allowing firms to hold less precautionary cash. To provide evidence for this mechanism, we exploit the 2011?2012 Thailand hard drive crisis as an exogenous shock to the cost of automation. In addition, the negative relation between prospective automation and cash holdings is greater for firms with a lower expected cost of worker displacement and greater labor-induced operating leverage.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03902.
+AB  - Using an occupational probability of computerization, we measure a firm?s ability to replace labor with automated capital. Our evidence suggests that the potential to automate a workforce enhances operating flexibility, allowing firms to hold less precautionary cash. To provide evidence for this mechanism, we exploit the 2011?2012 Thailand hard drive crisis as an exogenous shock to the cost of automation. In addition, the negative relation between prospective automation and cash holdings is greater for firms with a lower expected cost of worker displacement and greater labor-induced operating leverage.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03902.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03902
+UR  - https://doi.org/10.1287/mnsc.2021.03902
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Patents, Freedom to Operate, and Follow-on Innovation: Evidence from Post-Grant Opposition
+AU  - Gaessler, Fabian
+AU  - Harhoff, Dietmar
+AU  - Sorg, Stefan
+AU  - von Graevenitz, Georg
+Y1  - 2024/05/08
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2019.02294
+DO  - 10.1287/mnsc.2019.02294
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1315
+EP  - 1334
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We study the blocking effect of patents on follow-on innovation by others. We posit that follow-on innovation requires freedom to operate (FTO), which firms typically obtain through a license from the patentee holding the original innovation. Where licensing fails, follow-on innovation is blocked unless firms gain FTO through patent invalidation. Using large-scale data from post-grant oppositions at the European Patent Office, we find that patent invalidation increases follow-on innovation, measured in citations, by 16% on average. This effect exhibits a U-shape in the value of the original innovation. For patents on low-value original innovations, invalidation predominantly increases low-value follow-on innovation outside the patentee?s product market. Here, transaction costs likely exceed the joint surplus of licensing, causing licensing failure. In contrast, for patents on high-value original innovations, invalidation mainly increases high-value follow-on innovation in the patentee?s product market. We attribute this latter result to rent dissipation, which renders patentees unwilling to license out valuable technologies to (potential) competitors.This paper was accepted by Ashish Arora, entrepreneurship and innovation.Funding: This work was supported by the Deutsche Forschungsgemeinschaft [Collaborative Research Center TRR 190]. F. Gaessler acknowledges financial support from the Spanish Agencia Estatal de Investigación through the Severo Ochoa Programme for Centres of Excellence in R&D [Barcelona School of Economics CEX2019-000915-S].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2019.02294.
+AB  - We study the blocking effect of patents on follow-on innovation by others. We posit that follow-on innovation requires freedom to operate (FTO), which firms typically obtain through a license from the patentee holding the original innovation. Where licensing fails, follow-on innovation is blocked unless firms gain FTO through patent invalidation. Using large-scale data from post-grant oppositions at the European Patent Office, we find that patent invalidation increases follow-on innovation, measured in citations, by 16% on average. This effect exhibits a U-shape in the value of the original innovation. For patents on low-value original innovations, invalidation predominantly increases low-value follow-on innovation outside the patentee?s product market. Here, transaction costs likely exceed the joint surplus of licensing, causing licensing failure. In contrast, for patents on high-value original innovations, invalidation mainly increases high-value follow-on innovation in the patentee?s product market. We attribute this latter result to rent dissipation, which renders patentees unwilling to license out valuable technologies to (potential) competitors.This paper was accepted by Ashish Arora, entrepreneurship and innovation.Funding: This work was supported by the Deutsche Forschungsgemeinschaft [Collaborative Research Center TRR 190]. F. Gaessler acknowledges financial support from the Spanish Agencia Estatal de Investigación through the Severo Ochoa Programme for Centres of Excellence in R&D [Barcelona School of Economics CEX2019-000915-S].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2019.02294.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.02294
+UR  - https://doi.org/10.1287/mnsc.2019.02294
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Improving Customer Compatibility with Tradeoff Transparency
+AU  - Buell, Ryan W.
+AU  - Choi, MoonSoo
+Y1  - 2024/05/08
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2024.4985
+DO  - 10.1287/mnsc.2024.4985
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1335
+EP  - 1355
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Through a large-scale field experiment with 393,036 customers considering opening a credit card account with a nationwide retail bank, we investigate how providing transparency into an offering?s tradeoffs affects subsequent rates of customer acquisition and long-run engagement. Although we find tradeoff transparency to have an insignificant effect on acquisition rates, customers who were shown each offering?s tradeoffs selected different products than those who were not. Moreover, prospective customers who experienced transparency and subsequently chose to open an account went on to exhibit higher-quality service relationships over time. Monthly spending was 9.9% higher and cancellation rates were 20.5% lower among those who experienced transparency into each offering?s tradeoffs. Increased product use and retention accrued disproportionately to customers with prior category experience: more-experienced customers who were provided transparency spent 19.2% more on a monthly basis and were 33.7% less likely to defect after nine months. Importantly, we find that these gains in engagement and retention do not come at the expense of customers? financial well-being: the probability of making late payments was reduced among customers who experienced transparency. We further find that the positive effects of tradeoff transparency on engagement and retention were attenuated in the presence of a promotion that provided financial incentives to choose particular offerings. Taken together, these results suggest that providing transparency into an offering?s tradeoffs may be an effective strategy for informing customer choices, leading to better outcomes for customers and firms alike.This paper was accepted by Vishal Gaur, operations management.Funding: Funding for this research, apart from the costs Commonwealth Bank of Australia internally incurred to support the experiment, was provided by Harvard Business School. R. W. Buell has received compensation from Commonwealth Bank of Australia in the past for executive education teaching.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4985.
+AB  - Through a large-scale field experiment with 393,036 customers considering opening a credit card account with a nationwide retail bank, we investigate how providing transparency into an offering?s tradeoffs affects subsequent rates of customer acquisition and long-run engagement. Although we find tradeoff transparency to have an insignificant effect on acquisition rates, customers who were shown each offering?s tradeoffs selected different products than those who were not. Moreover, prospective customers who experienced transparency and subsequently chose to open an account went on to exhibit higher-quality service relationships over time. Monthly spending was 9.9% higher and cancellation rates were 20.5% lower among those who experienced transparency into each offering?s tradeoffs. Increased product use and retention accrued disproportionately to customers with prior category experience: more-experienced customers who were provided transparency spent 19.2% more on a monthly basis and were 33.7% less likely to defect after nine months. Importantly, we find that these gains in engagement and retention do not come at the expense of customers? financial well-being: the probability of making late payments was reduced among customers who experienced transparency. We further find that the positive effects of tradeoff transparency on engagement and retention were attenuated in the presence of a promotion that provided financial incentives to choose particular offerings. Taken together, these results suggest that providing transparency into an offering?s tradeoffs may be an effective strategy for informing customer choices, leading to better outcomes for customers and firms alike.This paper was accepted by Vishal Gaur, operations management.Funding: Funding for this research, apart from the costs Commonwealth Bank of Australia internally incurred to support the experiment, was provided by Harvard Business School. R. W. Buell has received compensation from Commonwealth Bank of Australia in the past for executive education teaching.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4985.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2024.4985
+UR  - https://doi.org/10.1287/mnsc.2024.4985
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Is Blockholder Diversity Detrimental?
+AU  - Schwartz-Ziv, Miriam
+AU  - Volkova, Ekaterina
+Y1  - 2024/05/08
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2023.00528
+DO  - 10.1287/mnsc.2023.00528
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1356
+EP  - 1390
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We find that, overall, blockholder diversity, i.e., the firm shareholder base including several different types of blocks, is detrimental to firm performance. We show that lagged disclosure, on exogenous predetermined dates, that reveals an increase in block diversity is followed by a negative market reaction. Firms held by heterogeneous blockholders consistently perform worse than firms held by homogeneous blockholders. Block diversity is particularly detrimental when uncertainty is high. Disagreement among shareholders (e.g., as reflected in the frequency of lawsuits being filed) increases when the blockholder base is diverse. We make our blockholder data set public for the benefit of other researchers.This paper was accepted by Victoria Ivashina, finance.Funding: This work was supported by the Israel Science Foundation [Grant 264/20], the Faculty of Business and Economics, University of Melbourne [Grant ECR00009FNL], and the Accounting and Finance Association of Australia and New Zealand [Grant 2020-033].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00528.
+AB  - We find that, overall, blockholder diversity, i.e., the firm shareholder base including several different types of blocks, is detrimental to firm performance. We show that lagged disclosure, on exogenous predetermined dates, that reveals an increase in block diversity is followed by a negative market reaction. Firms held by heterogeneous blockholders consistently perform worse than firms held by homogeneous blockholders. Block diversity is particularly detrimental when uncertainty is high. Disagreement among shareholders (e.g., as reflected in the frequency of lawsuits being filed) increases when the blockholder base is diverse. We make our blockholder data set public for the benefit of other researchers.This paper was accepted by Victoria Ivashina, finance.Funding: This work was supported by the Israel Science Foundation [Grant 264/20], the Faculty of Business and Economics, University of Melbourne [Grant ECR00009FNL], and the Accounting and Finance Association of Australia and New Zealand [Grant 2020-033].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00528.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00528
+UR  - https://doi.org/10.1287/mnsc.2023.00528
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Bidder-Specific Synergies and the Evolution of Acquirer Returns
+AU  - Dessaint, Olivier
+AU  - Eckbo, B. Espen
+AU  - Golubov, Andrey
+Y1  - 2024/05/08
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.02208
+DO  - 10.1287/mnsc.2022.02208
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1391
+EP  - 1417
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Largely constant average acquirer returns over the past four decades mask fundamental changes in the takeover market. Controlling for bidder composition, the common component of acquirer returns has increased by five percentage points relative to the 1980s. Offsetting this increase, the average bidder-specific component has declined. We propose a theory of bidder-specific synergies to help interpret these opposing trends. In our theory and in the data, acquirer returns increase with the extent to which synergies are unique to that bidder. The composition effect reflects bidder uniqueness. Overall, the evidence is consistent with rising merger synergies that have become less bidder specific.This paper was accepted by Victoria Ivashina, finance.Funding: A. Golubov acknowledges financial support from the Bank of Canada [Governor?s Award].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02208.
+AB  - Largely constant average acquirer returns over the past four decades mask fundamental changes in the takeover market. Controlling for bidder composition, the common component of acquirer returns has increased by five percentage points relative to the 1980s. Offsetting this increase, the average bidder-specific component has declined. We propose a theory of bidder-specific synergies to help interpret these opposing trends. In our theory and in the data, acquirer returns increase with the extent to which synergies are unique to that bidder. The composition effect reflects bidder uniqueness. Overall, the evidence is consistent with rising merger synergies that have become less bidder specific.This paper was accepted by Victoria Ivashina, finance.Funding: A. Golubov acknowledges financial support from the Bank of Canada [Governor?s Award].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02208.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02208
+UR  - https://doi.org/10.1287/mnsc.2022.02208
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Incentivizing Organ Donation Under Different Priority Rules: The Role of Information
+AU  - Li, Mengling
+AU  - Riyanto, Yohanes E.
+Y1  - 2024/05/08
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01530
+DO  - 10.1287/mnsc.2022.01530
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1418
+EP  - 1437
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - This paper examines the incentive to register for deceased organ donation under alternative organ allocation priority rules, which may prioritize registered donors and/or patients with higher valuations for organ transplantation. Specifically, the donor priority rule grants higher priority on the organ waiting list to those who have previously registered as donors. The dual-incentive priority rules allocate organs based on donor status, followed by individual valuations within the same donor status, or vice versa. Both theoretical and experimental results suggest that the efficacy of the donor priority rule and the dual-incentive priority rules critically depends on the information environment. When organ transplantation valuations are unobservable prior to making donation decisions, the hybrid dual-incentive rules generate higher donation rates. In contrast, if valuations are observable, the dual-incentive priority rules create unbalanced incentives between high- and low-value agents, potentially undermining the efficacy of the hybrid dual-incentive rules in increasing overall donation rates.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: This research is supported by the National Natural Science Foundation of China [Grants 72173103, 72373127, and 71988101], the Singapore Ministry of Education (MOE) Academic Research Fund Tier 1 [RG57/20], and the Open Foundation of Key Laboratory of Interdisciplinary Research of Computation and Economics (Shanghai University of Finance and Economics), Ministry of Education of China.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.01530.
+AB  - This paper examines the incentive to register for deceased organ donation under alternative organ allocation priority rules, which may prioritize registered donors and/or patients with higher valuations for organ transplantation. Specifically, the donor priority rule grants higher priority on the organ waiting list to those who have previously registered as donors. The dual-incentive priority rules allocate organs based on donor status, followed by individual valuations within the same donor status, or vice versa. Both theoretical and experimental results suggest that the efficacy of the donor priority rule and the dual-incentive priority rules critically depends on the information environment. When organ transplantation valuations are unobservable prior to making donation decisions, the hybrid dual-incentive rules generate higher donation rates. In contrast, if valuations are observable, the dual-incentive priority rules create unbalanced incentives between high- and low-value agents, potentially undermining the efficacy of the hybrid dual-incentive rules in increasing overall donation rates.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: This research is supported by the National Natural Science Foundation of China [Grants 72173103, 72373127, and 71988101], the Singapore Ministry of Education (MOE) Academic Research Fund Tier 1 [RG57/20], and the Open Foundation of Key Laboratory of Interdisciplinary Research of Computation and Economics (Shanghai University of Finance and Economics), Ministry of Education of China.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.01530.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01530
+UR  - https://doi.org/10.1287/mnsc.2022.01530
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Target Firm Advertising and Firm Value
+AU  - Fich, Eliezer M.
+AU  - Starks, Laura T.
+AU  - Tran, Anh L.
+Y1  - 2024/05/10
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01534
+DO  - 10.1287/mnsc.2022.01534
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1438
+EP  - 1463
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Consistent with hypotheses underlying firm advertising, we find that targets with pretakeover advertising obtain higher premiums, whereas their acquirers earn lower announcement returns. These economically significant effects suggest that through advertising, targets increase their profile and negotiating power. Further, targets that advertise are more likely to initiate their takeovers, attract multiple bidders, receive enhanced bids, capture more merger rents, and even in failed acquisitions, experience a 1% permanent revaluation. The latter result differentiates between information asymmetry and behavioral explanations for the target advertising. Overall, the results support the hypothesis that management advertises to transmit information to investors and potential acquirers.This paper was accepted by Victoria Ivashina, finance.Funding: A. L. Tran acknowledges financial support from the Mergers and Acquisitions Research Centre at Bayes Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01534.
+AB  - Consistent with hypotheses underlying firm advertising, we find that targets with pretakeover advertising obtain higher premiums, whereas their acquirers earn lower announcement returns. These economically significant effects suggest that through advertising, targets increase their profile and negotiating power. Further, targets that advertise are more likely to initiate their takeovers, attract multiple bidders, receive enhanced bids, capture more merger rents, and even in failed acquisitions, experience a 1% permanent revaluation. The latter result differentiates between information asymmetry and behavioral explanations for the target advertising. Overall, the results support the hypothesis that management advertises to transmit information to investors and potential acquirers.This paper was accepted by Victoria Ivashina, finance.Funding: A. L. Tran acknowledges financial support from the Mergers and Acquisitions Research Centre at Bayes Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01534.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01534
+UR  - https://doi.org/10.1287/mnsc.2022.01534
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Congressional Apportionment: A Multiobjective Optimization Approach
+AU  - Shechter, Steven M.
+Y1  - 2024/05/10
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2023.02472
+DO  - 10.1287/mnsc.2023.02472
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1464
+EP  - 1487
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Two events, with major implications for U.S. voters, occur after each decennial census. First, congressional ?apportionment? takes place, followed by congressional ?districting.? Apportionment determines how to allocate the 435 seats in the House of Representatives across the 50 states, whereas districting determines the geographic boundaries assigned to representatives within each state. Although districting and the practice of gerrymandering often receive great attention in the media and courts, the best way to apportion representatives across states has been debated for nearly 250?years. Historical methods (including the current method) each satisfy some desirable optimality criteria that the others are not guaranteed to satisfy. Moreover, none are guaranteed to optimize certain reasonable fairness measures (e.g., minimum range, minimum bias). To our knowledge, we are the first to formulate and analyze a multiobjective optimization approach to apportionment, allowing policymakers to identify Pareto-optimal allocations and quantify their trade-offs between several competing criteria. Some of these models can be formulated and solved as mixed-integer linear programs, whereas others require the solution of mixed-integer, nonconvex, quadratically constrained quadratic programs. We take advantage of recent software advances that allow one to solve these problems with optimality guarantees. Policy implications of our work include Pareto curves from historical censuses and simulations, which suggest opportunities for improvement in some objectives at little sacrifice to others.This paper was accepted by David Simchi-Levi, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02472.
+AB  - Two events, with major implications for U.S. voters, occur after each decennial census. First, congressional ?apportionment? takes place, followed by congressional ?districting.? Apportionment determines how to allocate the 435 seats in the House of Representatives across the 50 states, whereas districting determines the geographic boundaries assigned to representatives within each state. Although districting and the practice of gerrymandering often receive great attention in the media and courts, the best way to apportion representatives across states has been debated for nearly 250?years. Historical methods (including the current method) each satisfy some desirable optimality criteria that the others are not guaranteed to satisfy. Moreover, none are guaranteed to optimize certain reasonable fairness measures (e.g., minimum range, minimum bias). To our knowledge, we are the first to formulate and analyze a multiobjective optimization approach to apportionment, allowing policymakers to identify Pareto-optimal allocations and quantify their trade-offs between several competing criteria. Some of these models can be formulated and solved as mixed-integer linear programs, whereas others require the solution of mixed-integer, nonconvex, quadratically constrained quadratic programs. We take advantage of recent software advances that allow one to solve these problems with optimality guarantees. Policy implications of our work include Pareto curves from historical censuses and simulations, which suggest opportunities for improvement in some objectives at little sacrifice to others.This paper was accepted by David Simchi-Levi, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02472.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.02472
+UR  - https://doi.org/10.1287/mnsc.2023.02472
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Dueling Contests and Platform’s Coordinating Role
+AU  - Stouras, Konstantinos I.
+AU  - Erat, Sanjiv
+AU  - Lichtendahl, Kenneth C.
+Y1  - 2024/05/10
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.03973
+DO  - 10.1287/mnsc.2021.03973
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1488
+EP  - 1503
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Crowdsourcing platforms typically take a passive approach, and they let the competing firms freely design their own contests and allow every solver to self-select and join any of the concurrently running contests. In a model of competing noise-driven contests, we show that the duopoly prize allocation has fewer (but larger) prizes compared with a monopolist contest designer. We also find that contests with firm-chosen budgets and solvers? endogenous participation create coordination inefficiencies. Thus, platform policies that constrain the competing firms from freely choosing their budgets and offer solvers non-enforceable recommendations toward specific noise-driven contests strictly enhance total welfare. Extending our framework to include arbitrarily correlated ability-driven contests, we highlight the critical role of inter-contest dependence on the efficacy of a platform?s interventions. Specifically, platform nudges to improve solver-contest (mis)matches are welfare enhancing only when the contests are sufficiently related, and allowing solvers to self-sort is appropriate otherwise.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.03973.
+AB  - Crowdsourcing platforms typically take a passive approach, and they let the competing firms freely design their own contests and allow every solver to self-select and join any of the concurrently running contests. In a model of competing noise-driven contests, we show that the duopoly prize allocation has fewer (but larger) prizes compared with a monopolist contest designer. We also find that contests with firm-chosen budgets and solvers? endogenous participation create coordination inefficiencies. Thus, platform policies that constrain the competing firms from freely choosing their budgets and offer solvers non-enforceable recommendations toward specific noise-driven contests strictly enhance total welfare. Extending our framework to include arbitrarily correlated ability-driven contests, we highlight the critical role of inter-contest dependence on the efficacy of a platform?s interventions. Specifically, platform nudges to improve solver-contest (mis)matches are welfare enhancing only when the contests are sufficiently related, and allowing solvers to self-sort is appropriate otherwise.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.03973.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03973
+UR  - https://doi.org/10.1287/mnsc.2021.03973
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Using Machine Learning to Measure Conservatism
+AU  - Bertomeu, Jeremy
+AU  - Cheynel, Edwige
+AU  - Liao, Yifei
+AU  - Milone, Mario
+Y1  - 2024/05/13
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2024.4983
+DO  - 10.1287/mnsc.2024.4983
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1504
+EP  - 1522
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - This study proposes an approach to measure conservatism using machine learning techniques that are not constrained by functional form restrictions. We extend the differential timeliness model to allow for observable characteristics related to conservatism to follow nonlinear relationships. By developing machine learning measures of conservatism, we draw attention to potential benefits and drawbacks and show how its insights complement conventional measures. Our broader goal is to investigate the effectiveness of machine learning algorithms for filtering noise in traditional archival studies and uncovering more complex empirical patterns.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4983.
+AB  - This study proposes an approach to measure conservatism using machine learning techniques that are not constrained by functional form restrictions. We extend the differential timeliness model to allow for observable characteristics related to conservatism to follow nonlinear relationships. By developing machine learning measures of conservatism, we draw attention to potential benefits and drawbacks and show how its insights complement conventional measures. Our broader goal is to investigate the effectiveness of machine learning algorithms for filtering noise in traditional archival studies and uncovering more complex empirical patterns.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4983.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2024.4983
+UR  - https://doi.org/10.1287/mnsc.2024.4983
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Employment Protection and Venture Capital Investment: The Impact of Wrongful Discharge Laws
+AU  - Wang, Wei
+AU  - Yung, Chris
+Y1  - 2024/05/22
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2023.01936
+DO  - 10.1287/mnsc.2023.01936
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1523
+EP  - 1545
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Wrongful discharge laws (WDLs) provide limits to the employment-at-will doctrine, and thus impair operating flexibility, increasing expected financial distress costs by making it costly to fire employees. This impairment is detrimental to start-ups, leading to a decline in venture capital (VC) investment. Using a difference-in-differences framework enabled by the staggered adoption of WDLs across the U.S. states, we show VC investment declines after a state adopts the good faith exception (the strongest form of WDL). This decline is most pronounced in sectors with high labor dependency.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01936.
+AB  - Wrongful discharge laws (WDLs) provide limits to the employment-at-will doctrine, and thus impair operating flexibility, increasing expected financial distress costs by making it costly to fire employees. This impairment is detrimental to start-ups, leading to a decline in venture capital (VC) investment. Using a difference-in-differences framework enabled by the staggered adoption of WDLs across the U.S. states, we show VC investment declines after a state adopts the good faith exception (the strongest form of WDL). This decline is most pronounced in sectors with high labor dependency.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01936.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01936
+UR  - https://doi.org/10.1287/mnsc.2023.01936
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Algorithmic Assignment of Incentive Schemes
+AU  - Opitz, Saskia
+AU  - Sliwka, Dirk
+AU  - Vogelsang, Timo
+AU  - Zimmermann, Tom
+Y1  - 2024/05/13
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.03362
+DO  - 10.1287/mnsc.2022.03362
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1546
+EP  - 1563
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - The assignment of individuals with different observable characteristics to different treatments is a central question in designing optimal policies. We study this question in the context of increasing workers? performance via targeted incentives using machine learning algorithms with worker demographics, personality traits, and preferences as input. Running two large-scale experiments, we show that (i) performance can be predicted by accurately measured worker characteristics, (ii) a machine learning algorithm can detect heterogeneity in responses to different schemes, (iii) a targeted assignment of schemes to individuals increases performance significantly above the level of the single best scheme, and (iv) algorithmic assignment is more effective for workers who have a high likelihood to repeatedly interact with the employer or who provide more consistent survey answers.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany?s Excellence Strategy [Grant EXC 2126/1-390838866].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03362.
+AB  - The assignment of individuals with different observable characteristics to different treatments is a central question in designing optimal policies. We study this question in the context of increasing workers? performance via targeted incentives using machine learning algorithms with worker demographics, personality traits, and preferences as input. Running two large-scale experiments, we show that (i) performance can be predicted by accurately measured worker characteristics, (ii) a machine learning algorithm can detect heterogeneity in responses to different schemes, (iii) a targeted assignment of schemes to individuals increases performance significantly above the level of the single best scheme, and (iv) algorithmic assignment is more effective for workers who have a high likelihood to repeatedly interact with the employer or who provide more consistent survey answers.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany?s Excellence Strategy [Grant EXC 2126/1-390838866].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03362.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03362
+UR  - https://doi.org/10.1287/mnsc.2022.03362
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Model-Free Nonstationary Reinforcement Learning: Near-Optimal Regret and Applications in Multiagent Reinforcement Learning and Inventory Control
+AU  - Mao, Weichao
+AU  - Zhang, Kaiqing
+AU  - Zhu, Ruihao
+AU  - Simchi-Levi, David
+AU  - Başar, Tamer
+Y1  - 2024/05/14
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.02533
+DO  - 10.1287/mnsc.2022.02533
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1564
+EP  - 1580
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We consider model-free reinforcement learning (RL) in nonstationary Markov decision processes. Both the reward functions and the state transition functions are allowed to vary arbitrarily over time as long as their cumulative variations do not exceed certain variation budgets. We propose Restarted Q-Learning with Upper Confidence Bounds (RestartQ-UCB), the first model-free algorithm for nonstationary RL, and show that it outperforms existing solutions in terms of dynamic regret. Specifically, RestartQ-UCB with Freedman-type bonus terms achieves a dynamic regret bound of O?(S13A13?13HT23), where S and A are the numbers of states and actions, respectively, ?>0 is the variation budget, H is the number of time steps per episode, and T is the total number of time steps. We further present a parameter-free algorithm named Double-Restart Q-UCB that does not require prior knowledge of the variation budget. We show that our algorithms are nearly optimal by establishing an information-theoretical lower bound of Ω(S13A13?13H23T23), the first lower bound in nonstationary RL. Numerical experiments validate the advantages of RestartQ-UCB in terms of both cumulative rewards and computational efficiency. We demonstrate the power of our results in examples of multiagent RL and inventory control across related products.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: The research of D. Simchi-Levi and R. Zhu was supported by the MIT Data Science Laboratory. The research of W. Mao, K. Zhang, and T. Ba?ar was supported in part by the U.S. Army Research Laboratory (ARL) Cooperative Agreement W911NF-17-2-0196, in part by the Office of Naval Research (ONR) [MURI Grant N00014-16-1-2710], and in part by the Air Force Office of Scientific Research (AFOSR) [Grant FA9550-19-1-0353]. K. Zhang also acknowledges support from U.S. Army Research Laboratory (ARL) [Grant W911NF-24-1-0085].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02533.
+AB  - We consider model-free reinforcement learning (RL) in nonstationary Markov decision processes. Both the reward functions and the state transition functions are allowed to vary arbitrarily over time as long as their cumulative variations do not exceed certain variation budgets. We propose Restarted Q-Learning with Upper Confidence Bounds (RestartQ-UCB), the first model-free algorithm for nonstationary RL, and show that it outperforms existing solutions in terms of dynamic regret. Specifically, RestartQ-UCB with Freedman-type bonus terms achieves a dynamic regret bound of O?(S13A13?13HT23), where S and A are the numbers of states and actions, respectively, ?>0 is the variation budget, H is the number of time steps per episode, and T is the total number of time steps. We further present a parameter-free algorithm named Double-Restart Q-UCB that does not require prior knowledge of the variation budget. We show that our algorithms are nearly optimal by establishing an information-theoretical lower bound of Ω(S13A13?13H23T23), the first lower bound in nonstationary RL. Numerical experiments validate the advantages of RestartQ-UCB in terms of both cumulative rewards and computational efficiency. We demonstrate the power of our results in examples of multiagent RL and inventory control across related products.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: The research of D. Simchi-Levi and R. Zhu was supported by the MIT Data Science Laboratory. The research of W. Mao, K. Zhang, and T. Ba?ar was supported in part by the U.S. Army Research Laboratory (ARL) Cooperative Agreement W911NF-17-2-0196, in part by the Office of Naval Research (ONR) [MURI Grant N00014-16-1-2710], and in part by the Air Force Office of Scientific Research (AFOSR) [Grant FA9550-19-1-0353]. K. Zhang also acknowledges support from U.S. Army Research Laboratory (ARL) [Grant W911NF-24-1-0085].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02533.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02533
+UR  - https://doi.org/10.1287/mnsc.2022.02533
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Coordinated Inattention and Disclosure Complexity
+AU  - Qu, Hong
+AU  - Williams, Jared
+AU  - Zhao, Ran
+AU  - Kwasnica, Anthony
+Y1  - 2024/05/14
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.01029
+DO  - 10.1287/mnsc.2021.01029
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1581
+EP  - 1599
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We examine a beauty contest game with an option to analyze an additional disclosure. We analytically prove that in some scenarios, coordination incentives cause sophisticated players who can comprehend disclosures to choose not to analyze them to match unsophisticated players? actions, a phenomenon we call ?coordinated inattention.? Laboratory experiments provide support for the coordinated inattention mechanism: Coordination incentives reduce sophisticated subjects? propensity to analyze disclosures, especially when they believe others are unlikely to comprehend them. We further find that psychological biases help reduce coordinated inattention. Subjects are overconfident, sophisticated subjects overestimate others? ability to comprehend disclosures, and both biases are associated with a higher tendency to analyze disclosures. Our analysis suggests that unsophisticated decision makers? inability to comprehend complex disclosures has a negative spillover effect by reducing sophisticated decision makers? attention to disclosures. Our results highlight the importance of the recent efforts of the Securities and Exchange Commission (SEC) and the Financial Accounting Standards Board (FASB) to make disclosures easier to comprehend.This paper was accepted by Brian Bushee, accounting.Funding: This study involved no funding except the payments made to the experimental subjects; these funds were provided by Penn State University.Supplemental Material: The online appendix and electronic companion are available at https://doi.org/10.1287/mnsc.2021.01029.
+AB  - We examine a beauty contest game with an option to analyze an additional disclosure. We analytically prove that in some scenarios, coordination incentives cause sophisticated players who can comprehend disclosures to choose not to analyze them to match unsophisticated players? actions, a phenomenon we call ?coordinated inattention.? Laboratory experiments provide support for the coordinated inattention mechanism: Coordination incentives reduce sophisticated subjects? propensity to analyze disclosures, especially when they believe others are unlikely to comprehend them. We further find that psychological biases help reduce coordinated inattention. Subjects are overconfident, sophisticated subjects overestimate others? ability to comprehend disclosures, and both biases are associated with a higher tendency to analyze disclosures. Our analysis suggests that unsophisticated decision makers? inability to comprehend complex disclosures has a negative spillover effect by reducing sophisticated decision makers? attention to disclosures. Our results highlight the importance of the recent efforts of the Securities and Exchange Commission (SEC) and the Financial Accounting Standards Board (FASB) to make disclosures easier to comprehend.This paper was accepted by Brian Bushee, accounting.Funding: This study involved no funding except the payments made to the experimental subjects; these funds were provided by Penn State University.Supplemental Material: The online appendix and electronic companion are available at https://doi.org/10.1287/mnsc.2021.01029.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01029
+UR  - https://doi.org/10.1287/mnsc.2021.01029
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Explicit and Implicit Belief-Based Gender Discrimination: A Hiring Experiment
+AU  - Barron, Kai
+AU  - Ditlmann, Ruth
+AU  - Gehrig, Stefan
+AU  - Schweighofer-Kodritsch, Sebastian
+Y1  - 2024/05/14
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01229
+DO  - 10.1287/mnsc.2022.01229
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1600
+EP  - 1622
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - This paper studies a key element of discrimination, namely, when stereotypes translate into discriminatory actions. Using a hiring experiment, we rule out taste-based discrimination by design and test for the presence of two types of belief-based gender discrimination. We document evidence of explicit discriminators?individuals who are willing to discriminate even when their hiring choices are highly revealing of their gender-biased beliefs. Crucially, we also identify implicit discriminators?individuals who do not discriminate against women when taking a discriminatory action is highly revealing of their biased beliefs, but do discriminate against women when their biased motive is obscured. Our analysis highlights the central role played by features of the choice environment in determining whether and how discrimination will manifest. We conclude by discussing the implications for policy design.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: K. Barron and S. Schweighofer-Kodritsch gratefully acknowledge financial support from the Deutsche Forschungsgemeinschaft through CRC TRR 190 [Grant 280092119].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01229.
+AB  - This paper studies a key element of discrimination, namely, when stereotypes translate into discriminatory actions. Using a hiring experiment, we rule out taste-based discrimination by design and test for the presence of two types of belief-based gender discrimination. We document evidence of explicit discriminators?individuals who are willing to discriminate even when their hiring choices are highly revealing of their gender-biased beliefs. Crucially, we also identify implicit discriminators?individuals who do not discriminate against women when taking a discriminatory action is highly revealing of their biased beliefs, but do discriminate against women when their biased motive is obscured. Our analysis highlights the central role played by features of the choice environment in determining whether and how discrimination will manifest. We conclude by discussing the implications for policy design.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: K. Barron and S. Schweighofer-Kodritsch gratefully acknowledge financial support from the Deutsche Forschungsgemeinschaft through CRC TRR 190 [Grant 280092119].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01229.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01229
+UR  - https://doi.org/10.1287/mnsc.2022.01229
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Investor Sentiment and the Pricing of Macro Risks for Hedge Funds
+AU  - Chen, Zhuo
+AU  - Lu, Andrea
+AU  - Zhu, Xiaoquan
+Y1  - 2024/05/14
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.02792
+DO  - 10.1287/mnsc.2022.02792
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1623
+EP  - 1645
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Hedge funds with larger macroeconomic-risk betas do not earn higher returns, in contrast to the theoretically predicted risk-return trade-off. Meanwhile, high macro-beta funds deliver higher returns than low macro-beta funds following a low-sentiment period, whereas the risk-return relation is flat following a high-sentiment period. We show that the sophisticated management of hedge funds explains this pattern. The relation between funds? macro-risk betas and the timing abilities/investor flows is sentiment dependent, and such variation likely drives the contrasting beta-return trade-offs after high- and low-sentiment periods. A similar pattern is also observed in mutual funds.This paper was accepted by Lin William Cong, finance.Funding: X. Zhu acknowledges financial support from the National Natural Science Foundation of China [Grant 72203035] and the Ministry of Education Project of Humanities and Social Sciences [Grant 22YJC790194]. Z. Chen acknowledges financial support from the National Natural Science Foundation of China [Grant 72222004] and Tsinghua University [Grant 20225080020].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02792.
+AB  - Hedge funds with larger macroeconomic-risk betas do not earn higher returns, in contrast to the theoretically predicted risk-return trade-off. Meanwhile, high macro-beta funds deliver higher returns than low macro-beta funds following a low-sentiment period, whereas the risk-return relation is flat following a high-sentiment period. We show that the sophisticated management of hedge funds explains this pattern. The relation between funds? macro-risk betas and the timing abilities/investor flows is sentiment dependent, and such variation likely drives the contrasting beta-return trade-offs after high- and low-sentiment periods. A similar pattern is also observed in mutual funds.This paper was accepted by Lin William Cong, finance.Funding: X. Zhu acknowledges financial support from the National Natural Science Foundation of China [Grant 72203035] and the Ministry of Education Project of Humanities and Social Sciences [Grant 22YJC790194]. Z. Chen acknowledges financial support from the National Natural Science Foundation of China [Grant 72222004] and Tsinghua University [Grant 20225080020].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02792.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02792
+UR  - https://doi.org/10.1287/mnsc.2022.02792
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Tech-Enabled Financial Data Access, Retail Investors, and Gambling-Like Behavior in the Stock Market
+AU  - Havakhor, Taha
+AU  - Rahman, Mohammad Saifur
+AU  - Zhang, Tianjian
+AU  - Zhu, Chenqi
+Y1  - 2024/05/16
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2021.01379
+DO  - 10.1287/mnsc.2021.01379
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1646
+EP  - 1670
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Advancements in technology have reduced information acquisition costs, creating an improved information environment for retail investors. Specifically, new technologies, such as application programming interface (API), deliver high-volume, institutional-like raw data directly to Main Street investors. Although greater availability of information can be beneficial, it may also exacerbate retail investors? existing trading deficiencies. Exploiting the sudden shutdown of Yahoo! Finance API, the largest free API for retail investors, this study examines how access to tech-enabled raw financial data affects retail investment. We find that retail trading volumes in stocks favored by active retail investors dropped by 8.6%?10.5% within one month of the API shutdown. The remaining retail trades collectively became more predictive of future returns, suggesting less gambling-like behavior after the API shutdown. Moreover, our randomized controlled experiment affirms the underlying mechanism: tech-enabled access to high-volume historical price data increases individuals? overconfidence, which further leads them to engage in excessive trading. The study reveals an unintended consequence of technology-led, wider data access for retail investors.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.01379.
+AB  - Advancements in technology have reduced information acquisition costs, creating an improved information environment for retail investors. Specifically, new technologies, such as application programming interface (API), deliver high-volume, institutional-like raw data directly to Main Street investors. Although greater availability of information can be beneficial, it may also exacerbate retail investors? existing trading deficiencies. Exploiting the sudden shutdown of Yahoo! Finance API, the largest free API for retail investors, this study examines how access to tech-enabled raw financial data affects retail investment. We find that retail trading volumes in stocks favored by active retail investors dropped by 8.6%?10.5% within one month of the API shutdown. The remaining retail trades collectively became more predictive of future returns, suggesting less gambling-like behavior after the API shutdown. Moreover, our randomized controlled experiment affirms the underlying mechanism: tech-enabled access to high-volume historical price data increases individuals? overconfidence, which further leads them to engage in excessive trading. The study reveals an unintended consequence of technology-led, wider data access for retail investors.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.01379.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01379
+UR  - https://doi.org/10.1287/mnsc.2021.01379
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Pitfalls of Review Solicitation: Evidence from a Natural Experiment on TripAdvisor
+AU  - Gao, Baojun
+AU  - Wang, Jing
+AU  - Ding, Xiaojie
+AU  - Guo, Yue
+Y1  - 2024/05/16
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2023.01006
+DO  - 10.1287/mnsc.2023.01006
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1671
+EP  - 1691
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - This study examines the effect of firms? participation in platform-endorsed review solicitation programs on consumers? online review generation. We leverage a natural experiment on TripAdvisor, which launched a review solicitation program that allows hotels to collect reviews directly from guests after their stays with the aid of certified connectivity partners. Applying a two-stage difference-in-differences approach to a panel data set of online reviews for a matched set of hotels across TripAdvisor and Expedia, we find that hotels? participation in the review solicitation program results in a 34.3% increase in review volume, a 0.151 increase in review rating, but a 16.9% decrease in review length. Review solicitation, however, generates a notable negative spillover effect on the volume of organic reviews. Specifically, the volume of organic reviews is reduced by 15.5% after hotels start soliciting reviews. We provide evidence that the motivational crowding-out effect plays an important role in driving this negative spillover. Further analyses reveal that the effects of review solicitation are heterogeneous with respect to hotels of different types and consumers with different demographic and behavioral characteristics. Finally, using a novel structural topic model, we detect a significant shift in review content from specific and concrete topics to general and abstract topics. Our findings suggest that review platforms and firms should be cautious about the unintended negative consequences of review solicitation on consumers? review generation.This paper was accepted by Hemant Bhargava, information systems.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72371192, 72132008, 71872061, and 72061127002] and the Humanities and Social Science Fund of Ministry of Education of China [Grant 22YJA630021].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01006.
+AB  - This study examines the effect of firms? participation in platform-endorsed review solicitation programs on consumers? online review generation. We leverage a natural experiment on TripAdvisor, which launched a review solicitation program that allows hotels to collect reviews directly from guests after their stays with the aid of certified connectivity partners. Applying a two-stage difference-in-differences approach to a panel data set of online reviews for a matched set of hotels across TripAdvisor and Expedia, we find that hotels? participation in the review solicitation program results in a 34.3% increase in review volume, a 0.151 increase in review rating, but a 16.9% decrease in review length. Review solicitation, however, generates a notable negative spillover effect on the volume of organic reviews. Specifically, the volume of organic reviews is reduced by 15.5% after hotels start soliciting reviews. We provide evidence that the motivational crowding-out effect plays an important role in driving this negative spillover. Further analyses reveal that the effects of review solicitation are heterogeneous with respect to hotels of different types and consumers with different demographic and behavioral characteristics. Finally, using a novel structural topic model, we detect a significant shift in review content from specific and concrete topics to general and abstract topics. Our findings suggest that review platforms and firms should be cautious about the unintended negative consequences of review solicitation on consumers? review generation.This paper was accepted by Hemant Bhargava, information systems.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72371192, 72132008, 71872061, and 72061127002] and the Humanities and Social Science Fund of Ministry of Education of China [Grant 22YJA630021].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01006.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.01006
+UR  - https://doi.org/10.1287/mnsc.2023.01006
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Industry Peer Information and the Equity Valuation Accuracy of Firms Emerging from Chapter 11
+AU  - Fang, Bingxu
+AU  - Saiy, Sasan
+AU  - Vyas, Dushyantkumar
+Y1  - 2024/05/17
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01233
+DO  - 10.1287/mnsc.2022.01233
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1692
+EP  - 1715
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Valuation plays a central role in determining Chapter 11 reorganization outcomes. However, obtaining accurate valuation estimates of reorganized firms is challenging because of limited firm-specific market-based information and the oft-conflicting incentives of claimholders. We examine the role of industry peer information in reducing misvaluations and its implications for unintended interclaimant wealth transfers and postreorganization performance. First, we find that the availability of relevant industry peer information is negatively associated with equity valuation errors for firms emerging from Chapter 11. Cross-sectional results suggest that the relation between industry peer information and valuation errors varies substantially with debtors? information environment and case characteristics. Second, we find that industry peer information quality is associated with better ex post financial performance of emerged firms because of lower overvaluation. Finally, we document the role of industry peer information in substantially reducing the frequency and magnitude of unintended wealth transfers between claimants arising from equity valuation errors.This paper was accepted by Suraj Srinivasan, accounting.Funding: The authors appreciate financial support from the Social Sciences and Humanities Research Council of Canada [Grant 435-2020-0583] and the Canadian Academic Accounting Association. B. Fang acknowledges financial support from the Della Suantio Fellowship.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01233.
+AB  - Valuation plays a central role in determining Chapter 11 reorganization outcomes. However, obtaining accurate valuation estimates of reorganized firms is challenging because of limited firm-specific market-based information and the oft-conflicting incentives of claimholders. We examine the role of industry peer information in reducing misvaluations and its implications for unintended interclaimant wealth transfers and postreorganization performance. First, we find that the availability of relevant industry peer information is negatively associated with equity valuation errors for firms emerging from Chapter 11. Cross-sectional results suggest that the relation between industry peer information and valuation errors varies substantially with debtors? information environment and case characteristics. Second, we find that industry peer information quality is associated with better ex post financial performance of emerged firms because of lower overvaluation. Finally, we document the role of industry peer information in substantially reducing the frequency and magnitude of unintended wealth transfers between claimants arising from equity valuation errors.This paper was accepted by Suraj Srinivasan, accounting.Funding: The authors appreciate financial support from the Social Sciences and Humanities Research Council of Canada [Grant 435-2020-0583] and the Canadian Academic Accounting Association. B. Fang acknowledges financial support from the Della Suantio Fellowship.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01233.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01233
+UR  - https://doi.org/10.1287/mnsc.2022.01233
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Detours in Shared Rides
+AU  - Lobel, Ilan
+AU  - Martin, Sébastien
+Y1  - 2024/05/17
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2020.03125
+DO  - 10.1287/mnsc.2020.03125
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1716
+EP  - 1736
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - Detours are considered key for the efficient operation of a shared rides service, but they are also a major pain point for consumers of such services. This paper studies the relationship between the value generated by shared rides and the detours they create for riders. We establish a limit on the sum of value and detour, and we prove that this leads to a tight bound on the Pareto frontier of values and detours in a general setting with an arbitrary number of requests. We explicitly compute the Pareto frontier for one family of city topologies and construct it via simulation for several more networks, including one based on ride-sharing data from commute hours in Manhattan. We find that average detours are usually small, even in low-demand-density settings. We also find that by carefully choosing the match objective, detours can be reduced with a relatively small impact on values and that the density of ride requests is far more important than detours for the effective operations of a shared rides service. In response, we propose that platforms implement a two-product version of shared rides and limit the worst-case detours of its users.This paper was accepted by Hamid Nazerzadeh, data science.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.03125.
+AB  - Detours are considered key for the efficient operation of a shared rides service, but they are also a major pain point for consumers of such services. This paper studies the relationship between the value generated by shared rides and the detours they create for riders. We establish a limit on the sum of value and detour, and we prove that this leads to a tight bound on the Pareto frontier of values and detours in a general setting with an arbitrary number of requests. We explicitly compute the Pareto frontier for one family of city topologies and construct it via simulation for several more networks, including one based on ride-sharing data from commute hours in Manhattan. We find that average detours are usually small, even in low-demand-density settings. We also find that by carefully choosing the match objective, detours can be reduced with a relatively small impact on values and that the density of ride requests is far more important than detours for the effective operations of a shared rides service. In response, we propose that platforms implement a two-product version of shared rides and limit the worst-case detours of its users.This paper was accepted by Hamid Nazerzadeh, data science.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.03125.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.03125
+UR  - https://doi.org/10.1287/mnsc.2020.03125
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - A Procedure for Revising Data-Based Priors in a Group
+AU  - Alon, Shiri
+AU  - Gayer, Gabrielle
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.02912
+DO  - 10.1287/mnsc.2022.02912
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1737
+EP  - 1755
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - A group of individuals is interested in predicting the outcome of a current problem. Each individual has access to private data that are used to form a prior probability over possible outcomes. While individuals may be reluctant or unable to disclose their private data, they are willing to publish their priors. We characterize a procedure for revising the individuals? prior probabilities based on the published priors of others and discuss its implications regarding the formation of a common prior in the group, both in the short and long run.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: G. Gayer gratefully acknowledges support from ISF [Grant 1443/20].
+AB  - A group of individuals is interested in predicting the outcome of a current problem. Each individual has access to private data that are used to form a prior probability over possible outcomes. While individuals may be reluctant or unable to disclose their private data, they are willing to publish their priors. We characterize a procedure for revising the individuals? prior probabilities based on the published priors of others and discuss its implications regarding the formation of a common prior in the group, both in the short and long run.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: G. Gayer gratefully acknowledges support from ISF [Grant 1443/20].
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02912
+UR  - https://doi.org/10.1287/mnsc.2022.02912
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Intangible Capital in Factor Models
+AU  - Gulen, Huseyin
+AU  - Li, Dongmei
+AU  - Peters, Ryan H.
+AU  - Zekhnini, Morad
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01261
+DO  - 10.1287/mnsc.2022.01261
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1756
+EP  - 1778
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - The transition from a traditional manufacturing-based economy to a knowledge- and service-based economy over recent decades resulted in a considerable rise in intangible capital, most of which is not reported on companies? balance sheets. As a result, balance sheet-based valuation ratios, investment measures, and other firm characteristics that do not incorporate off-balance sheet (OBS) intangible capital suffer from significant measurement error problems. We incorporate a new measure of OBS intangible capital into firm characteristics, such as book to market, investment, and profitability, to address these measurement errors. These OBS intangible adjustments improve the performance of the Fama?French three- and five-factor models and the q-factor model, especially during recent decades. We further find that the value factor is no longer redundant in these empirical factor models.This paper was accepted by Lukas Schmid, finance.Funding: The authors are grateful for financial support from the 2019 EDHEC Scientific Beta ?Advanced ESG & Factor Investing? Research Chair.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01261.
+AB  - The transition from a traditional manufacturing-based economy to a knowledge- and service-based economy over recent decades resulted in a considerable rise in intangible capital, most of which is not reported on companies? balance sheets. As a result, balance sheet-based valuation ratios, investment measures, and other firm characteristics that do not incorporate off-balance sheet (OBS) intangible capital suffer from significant measurement error problems. We incorporate a new measure of OBS intangible capital into firm characteristics, such as book to market, investment, and profitability, to address these measurement errors. These OBS intangible adjustments improve the performance of the Fama?French three- and five-factor models and the q-factor model, especially during recent decades. We further find that the value factor is no longer redundant in these empirical factor models.This paper was accepted by Lukas Schmid, finance.Funding: The authors are grateful for financial support from the 2019 EDHEC Scientific Beta ?Advanced ESG & Factor Investing? Research Chair.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01261.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01261
+UR  - https://doi.org/10.1287/mnsc.2022.01261
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Self-Adapting Network Relaxations for Weakly Coupled Markov Decision Processes
+AU  - Nadarajah, Selvaprabu
+AU  - Cire, Andre A.
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01108
+DO  - 10.1287/mnsc.2022.01108
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1779
+EP  - 1802
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - High-dimensional weakly coupled Markov decision processes (WDPs) arise in dynamic decision making and reinforcement learning, decomposing into smaller Markov decision processes (MDPs) when linking constraints are relaxed. The Lagrangian relaxation of WDPs (LAG) exploits this property to compute policies and (optimistic) bounds efficiently; however, dualizing linking constraints averages away combinatorial information. We introduce feasibility network relaxations (FNRs), a new class of linear programming relaxations that exactly represents the linking constraints. We develop a procedure to obtain the unique minimally sized relaxation, which we refer to as self-adapting FNR, as its size automatically adjusts to the structure of the linking constraints. Our analysis informs model selection: (i) the self-adapting FNR provides (weakly) stronger bounds than LAG, is polynomially sized when linking constraints admit a tractable network representation, and can even be smaller than LAG, and (ii) self-adapting FNR provides bounds and policies that match the approximate linear programming (ALP) approach but is substantially smaller in size than the ALP formulation and a recent alternative Lagrangian that is equivalent to ALP. We perform numerical experiments on constrained dynamic assortment and preemptive maintenance applications. Our results show that self-adapting FNR significantly improves upon LAG in terms of policy performance and/or bounds, while being an order of magnitude faster than an alternative Lagrangian and ALP, which are unsolvable in several instances.This paper was accepted by Baris Ata, stochastic models and simulation.Supplemental Material: The electronic companion and data files are available at https://doi.org/10.1287/mnsc.2022.01108.
+AB  - High-dimensional weakly coupled Markov decision processes (WDPs) arise in dynamic decision making and reinforcement learning, decomposing into smaller Markov decision processes (MDPs) when linking constraints are relaxed. The Lagrangian relaxation of WDPs (LAG) exploits this property to compute policies and (optimistic) bounds efficiently; however, dualizing linking constraints averages away combinatorial information. We introduce feasibility network relaxations (FNRs), a new class of linear programming relaxations that exactly represents the linking constraints. We develop a procedure to obtain the unique minimally sized relaxation, which we refer to as self-adapting FNR, as its size automatically adjusts to the structure of the linking constraints. Our analysis informs model selection: (i) the self-adapting FNR provides (weakly) stronger bounds than LAG, is polynomially sized when linking constraints admit a tractable network representation, and can even be smaller than LAG, and (ii) self-adapting FNR provides bounds and policies that match the approximate linear programming (ALP) approach but is substantially smaller in size than the ALP formulation and a recent alternative Lagrangian that is equivalent to ALP. We perform numerical experiments on constrained dynamic assortment and preemptive maintenance applications. Our results show that self-adapting FNR significantly improves upon LAG in terms of policy performance and/or bounds, while being an order of magnitude faster than an alternative Lagrangian and ALP, which are unsolvable in several instances.This paper was accepted by Baris Ata, stochastic models and simulation.Supplemental Material: The electronic companion and data files are available at https://doi.org/10.1287/mnsc.2022.01108.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01108
+UR  - https://doi.org/10.1287/mnsc.2022.01108
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Risk Management with Variable Capital Utilization and Time-Varying Collateral Capacity
+AU  - Chen, Guojun
+AU  - Lu, Zhongjin
+AU  - Vij, Siddharth
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.00415
+DO  - 10.1287/mnsc.2022.00415
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1803
+EP  - 1823
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We build a risk management model that incorporates variable capital utilization and time-varying collateral capacity. The former lets firms optimally choose capital utilization, and hence production, which affects capital depreciation and risk exposure. The latter means firms? ability to borrow and hedge increases with expected earnings and thus utilization. Calibrated solutions show both ingredients matter for firm value. We test the novel model predictions using a new data set of oil and gas producers. Consistent with model predictions, we find utilization is negatively correlated with firm liquidity, while hedging is positively correlated with liquidity and expected profitability.This paper was accepted by Lukas Schmid, finance.Funding: Lu and Vij acknowledge financial support from the Terry-Sanford Research Award, University of Georgia.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.00415.
+AB  - We build a risk management model that incorporates variable capital utilization and time-varying collateral capacity. The former lets firms optimally choose capital utilization, and hence production, which affects capital depreciation and risk exposure. The latter means firms? ability to borrow and hedge increases with expected earnings and thus utilization. Calibrated solutions show both ingredients matter for firm value. We test the novel model predictions using a new data set of oil and gas producers. Consistent with model predictions, we find utilization is negatively correlated with firm liquidity, while hedging is positively correlated with liquidity and expected profitability.This paper was accepted by Lukas Schmid, finance.Funding: Lu and Vij acknowledge financial support from the Terry-Sanford Research Award, University of Georgia.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.00415.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00415
+UR  - https://doi.org/10.1287/mnsc.2022.00415
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - The Early Exercise Risk Premium
+AU  - Aretz, Kevin
+AU  - Gazi, Adnan
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2023.00440
+DO  - 10.1287/mnsc.2023.00440
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1824
+EP  - 1845
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - We study the asset pricing implications of being able to optimally early exercise plain vanilla puts, contrasting expected raw and delta-hedged returns across equivalent American and European puts. Our theory suggests that American puts yield less negative raw but more negative delta-hedged expected returns than equivalent European puts. The raw (delta-hedged) spread widens with a higher early exercise probability as induced through, for example, moneyness, time to maturity, and underlying asset volatility (variance and jump risk premiums). An empirical comparison of single-stock American puts with equivalent synthetic European puts formed from put?call parity supports our theory if and only if we allow for optimal early exercises in our return calculations. More strikingly, allowing for optimal early exercises significantly alters the profitability of 14 out of 15 well-known option anomalies with the average absolute change equal to 33% and five anomalies becoming insignificant.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00440.
+AB  - We study the asset pricing implications of being able to optimally early exercise plain vanilla puts, contrasting expected raw and delta-hedged returns across equivalent American and European puts. Our theory suggests that American puts yield less negative raw but more negative delta-hedged expected returns than equivalent European puts. The raw (delta-hedged) spread widens with a higher early exercise probability as induced through, for example, moneyness, time to maturity, and underlying asset volatility (variance and jump risk premiums). An empirical comparison of single-stock American puts with equivalent synthetic European puts formed from put?call parity supports our theory if and only if we allow for optimal early exercises in our return calculations. More strikingly, allowing for optimal early exercises significantly alters the profitability of 14 out of 15 well-known option anomalies with the average absolute change equal to 33% and five anomalies becoming insignificant.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00440.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00440
+UR  - https://doi.org/10.1287/mnsc.2023.00440
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Publicly Traded Debt Restructuring Methods, Corporate Investment, and Debt Contracting
+AU  - Fan, Xin
+Y1  - 2024/05/21
+PY  - 2024
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2022.01831
+DO  - 10.1287/mnsc.2022.01831
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1846
+EP  - 1863
+VL  - 71
+IS  - 2
+PB  - INFORMS
+N2  - I use an important ruling, Marblegate Asset Management v. Education Management Corporation (EMC), to study the economic role of two publicly traded debt restructuring methods: coercive bond exchange offers and Chapter 11. This ruling restricted firms from employing coercive bond exchange offers to facilitate out-of-court restructurings, thereby increasing the likelihood of restructuring publicly traded debt under Chapter 11. Following the ruling, investment in affected distressed firms decreased substantially, but investment efficiency improved. The changes in covenant, maturity, and offering yield of newly issued bonds suggested that existing bondholders with covenants gained more bargaining power than shareholders and new bondholders. The paper provides causal evidence from a large sample analysis, demonstrating the divergent effects of these two publicly traded debt restructuring methods on investment policies.This paper was accepted by Victoria Ivashina, finance.Funding: Funding for this research was provided by University of Pittsburgh (Doctoral Fellowship) and Vanderbilt University (standard research funds).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01831.
+AB  - I use an important ruling, Marblegate Asset Management v. Education Management Corporation (EMC), to study the economic role of two publicly traded debt restructuring methods: coercive bond exchange offers and Chapter 11. This ruling restricted firms from employing coercive bond exchange offers to facilitate out-of-court restructurings, thereby increasing the likelihood of restructuring publicly traded debt under Chapter 11. Following the ruling, investment in affected distressed firms decreased substantially, but investment efficiency improved. The changes in covenant, maturity, and offering yield of newly issued bonds suggested that existing bondholders with covenants gained more bargaining power than shareholders and new bondholders. The paper provides causal evidence from a large sample analysis, demonstrating the divergent effects of these two publicly traded debt restructuring methods on investment policies.This paper was accepted by Victoria Ivashina, finance.Funding: Funding for this research was provided by University of Pittsburgh (Doctoral Fellowship) and Vanderbilt University (standard research funds).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01831.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01831
+UR  - https://doi.org/10.1287/mnsc.2022.01831
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2025/02/01
+PY  - 2025
+DA  - 2025/02/01
+N1  - doi: 10.1287/mnsc.2025.eb.v71n2
+DO  - 10.1287/mnsc.2025.eb.v71n2
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - vi
+VL  - 71
+IS  - 2
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2025.eb.v71n2
+UR  - https://doi.org/10.1287/mnsc.2025.eb.v71n2
+Y2  - 2026/04/24
+ER  - 

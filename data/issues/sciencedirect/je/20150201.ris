@@ -1,0 +1,336 @@
+TY  - JOUR
+T1  - Inference in semiparametric binary response models with interval data
+AU  - Wan, Yuanyuan
+AU  - Xu, Haiqing
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 347
+EP  - 360
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001948
+KW  - Interval data
+KW  - Semiparametric binary response model
+KW  - Density weights
+KW  - -process
+AB  - This paper studies the semiparametric binary response model with interval data investigated by Manski and Tamer (2002). In this partially identified model, we propose a new estimator based on MT’s modified maximum score (MMS) method by introducing density weights to the objective function, which allows us to develop asymptotic properties of the proposed set estimator for inference. We show that the density-weighted MMS estimator converges at a nearly cube-root-n rate. We propose an asymptotically valid inference procedure for the identified region based on subsampling. Monte Carlo experiments provide supports to our inference procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Goodness-of-fit tests based on series estimators in nonparametric instrumental regression
+AU  - Breunig, Christoph
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 328
+EP  - 346
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001912
+KW  - Nonparametric regression
+KW  - Instrument
+KW  - Linear operator
+KW  - Orthogonal series estimation
+KW  - Hypothesis testing
+KW  - Local alternative
+KW  - Uniform consistency
+AB  - This paper proposes several tests of restricted specification in nonparametric instrumental regression. Based on series estimators, test statistics are established that allow for tests of the general model against a parametric or nonparametric specification as well as a test of exogeneity of the vector of regressors. The tests’ asymptotic distributions under correct specification are derived and their consistency against any alternative model is shown. Under a sequence of local alternative hypotheses, the asymptotic distributions of the tests are derived. Moreover, uniform consistency is established over a class of alternatives whose distance to the null hypothesis shrinks appropriately as the sample size increases. A Monte Carlo study examines finite sample performance of the test statistics.
+ER  - 
+
+TY  - JOUR
+T1  - Semi-nonparametric estimation of the call-option price surface under strike and time-to-expiry no-arbitrage constraints
+AU  - Fengler, Matthias R.
+AU  - Hin, Lin-Yee
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 242
+EP  - 261
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001845
+KW  - B-splines
+KW  - No-arbitrage constraints
+KW  - Option pricing function
+KW  - Semi-nonparametric estimation
+KW  - Shape-constrained regression
+KW  - State-price density
+AB  - We suggest a semi-nonparametric estimator for the call-option price surface. The estimator is a bivariate tensor-product B-spline. To enforce no-arbitrage constraints across strikes and expiry dates, we establish sufficient no-arbitrage conditions on the control net of the B-spline surface. The conditions are linear and therefore allow for an implementation of the estimator by means of standard quadratic programming techniques. The consistency of the estimator is proved. By means of simulations, we explore the statistical efficiency benefits that are associated with estimating option price surfaces and state-price densities under the full set of no-arbitrage constraints. We estimate a call-option price surface, families of first-order strike derivatives, and state-price densities for S&P 500 option data.
+ER  - 
+
+TY  - JOUR
+T1  - On the bootstrap for Moran’s I test for spatial dependence
+AU  - Jin, Fei
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 295
+EP  - 314
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001900
+KW  - Bootstrap
+KW  - Spatial
+KW  - Moran’s 
+KW  - Consistency
+KW  - Asymptotic refinement
+KW  - Linear–quadratic form
+AB  - This paper is concerned with the use of the bootstrap for statistics in spatial econometric models, with a focus on the test statistic for Moran’s I test for spatial dependence. We show that, for many statistics in spatial econometric models, the bootstrap can be studied based on linear–quadratic (LQ) forms of disturbances. By proving the uniform convergence of the cumulative distribution function for LQ forms to that of a normal distribution, we show that the bootstrap is generally consistent for test statistics that can be approximated by LQ forms, including Moran’s I. Possible asymptotic refinements of the bootstrap are most commonly studied using Edgeworth expansions. For spatial econometric models, we may establish asymptotic refinements of the bootstrap based on asymptotic expansions of LQ forms. When the disturbances are normal, we prove the existence of the usual Edgeworth expansions for LQ forms; when the disturbances are not normal, we establish an asymptotic expansion of LQ forms based on martingales. These results are applied to show the second order correctness of the bootstrap for Moran’s I test.
+ER  - 
+
+TY  - JOUR
+T1  - Gradient-based smoothing parameter selection for nonparametric regression estimation
+AU  - Henderson, Daniel J.
+AU  - Li, Qi
+AU  - Parmeter, Christopher F.
+AU  - Yao, Shuang
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 233
+EP  - 241
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001924
+KW  - Gradient estimation
+KW  - Kernel smoothing
+KW  - Least squares cross validation
+AB  - Estimating gradients is of crucial importance across a broad range of applied economic domains. Here we consider data-driven bandwidth selection based on the gradient of an unknown regression function. This is a difficult problem given that direct observation of the value of the gradient is typically not observed. The procedure developed here delivers bandwidths which behave asymptotically as though they were selected knowing the true gradient. Simulated examples showcase the finite sample attraction of this new mechanism and confirm the theoretical predictions.
+ER  - 
+
+TY  - JOUR
+T1  - Multiplicative-error models with sample selection
+AU  - Jochmans, Koen
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 315
+EP  - 327
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002152
+KW  - Count data
+KW  - Fixed-effect model
+KW  - Nonlinear model
+KW  - Sample selection
+KW  - Semiparametric inference
+KW  - Two-stage estimation
+AB  - This paper presents a simple approach to deal with sample selection in models with multiplicative errors. Models for non-negative limited dependent variables such as counts fit this framework. The approach builds on a specification of the conditional mean of the outcome only and is, therefore, semiparametric in nature. GMM estimators are constructed for both cross-section data and for panel data. We derive distribution theory and present Monte Carlo evidence on the finite-sample performance of the estimators.
+ER  - 
+
+TY  - JOUR
+T1  - The SR approach: A new estimation procedure for non-linear and non-Gaussian dynamic term structure models
+AU  - Andreasen, Martin M.
+AU  - Christensen, Bent Jesper
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 420
+EP  - 451
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002292
+KW  - Bond data
+KW  - GMM
+KW  - Non-linear filtering
+KW  - Non-linear least squares
+KW  - SMM
+AB  - This paper suggests a new approach for estimating linear and non-linear dynamic term structure models with latent factors. We impose no distributional assumptions on the factors which therefore may be non-Gaussian. The novelty of our approach is to use many observables (yields or bond prices) in the cross-section dimension. This implies that the latent factors can be determined quite accurately by a sequence of cross-section regressions. We also show how output from these regressions can be used to obtain model parameters by a two- or three-step moment-based estimation procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Tests for overidentifying restrictions in Factor-Augmented VAR models
+AU  - Han, Xu
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 394
+EP  - 419
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002425
+KW  - Factor model
+KW  - Identification
+KW  - Structural impulse responses
+KW  - Monetary policy shock
+AB  - This paper develops tests for overidentifying restrictions in Factor-Augmented Vector Autoregressive (FAVAR) models. The identification of structural shocks in FAVAR can involve infinitely many restrictions as the number of cross sections goes to infinity. Our focus is to test the joint null hypothesis that all the restrictions are satisfied. Conventional tests cannot be used due to the large dimension. We transform the infinite-dimensional problem into a finite-dimensional one by combining the individual statistics across the cross section dimension. We find the limit distribution of our joint test statistic under the null hypothesis and prove that it is consistent against the alternative that a fraction of or all identifying restrictions are violated. The Monte Carlo results show that the joint test statistic has good finite-sample size and power. We implement our tests to an updated version of Stock and Watson’s (2005) data set. Our test result is further confirmed by the impulse responses of major macroeconomic variables to the monetary policy shock: the impulse responses based on the specification selected by our test are generally more plausible than those based on the specifications rejected by our test.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - IFC
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(14)00271-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002711
+ER  - 
+
+TY  - JOUR
+T1  - Zellner Award
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - v
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(14)00288-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002887
+ER  - 
+
+TY  - JOUR
+T1  - Model averaging estimation of generalized linear models with imputed covariates
+AU  - Dardanoni, Valentino
+AU  - De Luca, Giuseppe
+AU  - Modica, Salvatore
+AU  - Peracchi, Franco
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 452
+EP  - 463
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001420
+KW  - Model averaging
+KW  - Bayesian averaging of maximum likelihood estimators
+KW  - Generalized linear models
+KW  - Missing covariates
+KW  - Generalized missing-indicator method
+KW  - SHARE
+AB  - We address the problem of estimating generalized linear models when some covariate values are missing but imputations are available to fill-in the missing values. This situation generates a bias-precision trade-off in the estimation of the model parameters. Extending the generalized missing-indicator method proposed by Dardanoni et al. (2011) for linear regression, we handle this trade-off as a problem of model uncertainty using Bayesian averaging of classical maximum likelihood estimators (BAML). We also propose a block model averaging strategy that incorporates information on the missing-data patterns and is computationally simple. An empirical application illustrates our approach.
+ER  - 
+
+TY  - JOUR
+T1  - A residual-based ADF test for stationary cointegration in I(2) settings
+AU  - Gomez-Biscarri, Javier
+AU  - Hualde, Javier
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 280
+EP  - 294
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001882
+KW  - (2) systems
+KW  - Stationary cointegration
+KW  - Multicointegration
+KW  - Residual-based tests
+AB  - We propose a residual-based augmented Dickey–Fuller (ADF) test statistic that allows for detection of stationary cointegration within a system that may contain both I(2) and I(1) observables. The test is also consistent under the alternative of multicointegration, where first differences of the I(2) observables enter the cointegrating relationships. We find the null limiting distribution of this statistic and justify why our proposal improves over related approaches. Critical values are computed for a variety of situations. Additionally, building on this ADF test statistic, we propose a procedure to test the null of no stationary cointegration which overcomes the drawback, suffered by any residual-based method, of the lack of power with respect to some relevant alternatives. Finally, a Monte Carlo experiment is carried out and an empirical application is provided as an illustrative example.
+ER  - 
+
+TY  - JOUR
+T1  - Econometrics of co-jumps in high-frequency data with noise
+AU  - Bibinger, Markus
+AU  - Winkelmann, Lars
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 361
+EP  - 378
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002322
+KW  - Co-jumps
+KW  - Covolatility estimation
+KW  - Microstructure noise
+KW  - Non-synchronous observations
+KW  - Truncation
+AB  - We establish estimation methods to determine co-jumps in multivariate high-frequency data with non-synchronous observations and market microstructure. A rate-optimal estimator of the entire quadratic covariation of an Itô-semimartingale is constructed by a locally adaptive spectral approach. Thresholding allows to disentangle the co-jump from the continuous part. We derive a feasible limit theorem for a truncated estimator of integrated covolatility which facilitates asymptotically efficient (co-)volatility estimation in the presence of jumps. A test for common jumps is presented. Simulations and an empirical application to intra-day tick-data from EUREX futures demonstrate the practical value of the approach.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating a spatial autoregressive model with an endogenous spatial weight matrix
+AU  - Qu, Xi
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 209
+EP  - 232
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001870
+KW  - Spatial autoregressive model
+KW  - Endogenous spatial weight matrix
+KW  - 2SIV
+KW  - QMLE
+KW  - GMM
+AB  - The spatial autoregressive (SAR) model is a standard tool for analyzing data with spatial correlation. Conventional estimation methods rely on the key assumption that the spatial weight matrix is strictly exogenous, which would likely be violated in some empirical applications where spatial weights are determined by economic factors. This paper presents model specification and estimation of the SAR model with an endogenous spatial weight matrix. We provide three estimation methods: two-stage instrumental variable (2SIV) method, quasi-maximum likelihood estimation (QMLE) approach, and generalized method of moments (GMM). We establish the consistency and asymptotic normality of these estimators and investigate their finite sample properties by a Monte Carlo study.
+ER  - 
+
+TY  - JOUR
+T1  - Confidence sets for the date of a break in level and trend when the order of integration is unknown
+AU  - Harvey, David I.
+AU  - Leybourne, Stephen J.
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 262
+EP  - 279
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001894
+KW  - Level break
+KW  - Trend break
+KW  - Stationary
+KW  - Unit root
+KW  - Locally best invariant test
+KW  - Confidence sets
+AB  - We propose methods for constructing confidence sets for the timing of a break in level and/or trend that have asymptotically correct coverage for both I(0) and I(1) processes. These are based on inverting a sequence of tests for the break location, evaluated across all possible break dates. We separately derive locally best invariant tests for the I(0) and I(1) cases; under their respective assumptions, the resulting confidence sets provide correct asymptotic coverage regardless of the magnitude of the break. We suggest use of a pre-test procedure to select between the I(0)- and I(1)-based confidence sets, and Monte Carlo evidence demonstrates that our recommended procedure achieves good finite sample properties in terms of coverage and length across both I(0) and I(1) environments. An application using US macroeconomic data is provided which further evinces the value of these procedures.
+ER  - 
+
+TY  - JOUR
+T1  - Frontier estimation in the presence of measurement error with unknown variance
+AU  - Kneip, Alois
+AU  - Simar, Léopold
+AU  - Van Keilegom, Ingrid
+JO  - Journal of Econometrics
+VL  - 184
+IS  - 2
+SP  - 379
+EP  - 393
+PY  - 2015
+DA  - 2015/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002279
+KW  - Deconvolution
+KW  - Stochastic frontier estimation
+KW  - Nonparametric estimation
+KW  - Penalized likelihood
+AB  - Frontier estimation appears in productivity analysis. Firm’s performance is measured by the distance between its output and an optimal production frontier. Frontier estimation becomes difficult if outputs are measured with noise and most approaches rely on restrictive parametric assumptions. This paper contributes to nonparametric approaches, with unknown frontier and unknown variance of a normally distributed error. We propose a nonparametric method identifying and estimating both quantities simultaneously. Consistency and rate of convergence of our estimators are established, and simulations verify the performance of the estimators for small samples. We illustrate our method with data on American electricity companies.
+ER  - 

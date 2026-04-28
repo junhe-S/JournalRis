@@ -1,0 +1,223 @@
+TY  - JOUR
+T1  - From measure changes to time changes in asset pricing
+AU  - Geman, Hélyette
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2701
+EP  - 2722
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000336
+KW  - Numéraire change
+KW  - Martingale representation
+KW  - Stochastic clock
+KW  - Stochastic volatility
+KW  - Market activity
+AB  - The goal of the paper is to review the last 35years of continuous-time finance by focusing on two major advances:(i)The powerful elegance of the martingale representation for primitive assets and attainable contingent claims in more and more general settings, thanks to the probabilistic tool of probability change and the economic flexibility in the choice of the numéraire relative to which prices are expressed. This numéraire evolved over time from the money market account to a zero-coupon bond or a stock price, lastly to strictly positive quantities involved in the Libor or swap market models and making the pricing of caps or swaptions quite efficient.(ii)The persistent central role of Brownian motion in finance across the 20th century: even when the underlying asset price is a very general semi-martingale, the no-arbitrage assumption and Monroe theorem [Monroe, I., 1978. Processes that can be embedded in Brownian motion. Annals of Probability 6, 42–56] allow us to write it as Brownian motion as long as we are willing to change the time. The appropriate stochastic clock can be shown empirically to be driven by the cumulative number of trades, hence by market activity. Consequently, starting with a general multidimensional stochastic process S defined on a probability space (Ω,F,Ft,P) and representing the prices of primitive securities, the no-arbitrage assumption allows, for any chosen numéraire, to obtain a martingale representation for S under a probability measure QS equivalent to P. This route will be particularly beneficiary for the pricing of complex contingent claims. Alternatively, changing the clock, i.e., changing the filtration (Ft), we can recover the Brownian motion and normality of returns. In all cases martingales appear as the central representation of asset prices, either through a measure change or through a time change.
+ER  - 
+
+TY  - JOUR
+T1  - Credit risk modeling with affine processes
+AU  - Duffie, Darrell
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2751
+EP  - 2802
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S037842660500035X
+KW  - Credit risk
+KW  - Affine processes
+KW  - Default correlation
+KW  - First to default
+AB  - This article combines an orientation to credit risk modeling with an introduction to affine Markov processes, which are particularly useful for financial modeling. We emphasize corporate credit risk and the pricing of credit derivatives. Applications of affine processes that are mentioned include survival analysis, dynamic term-structure models, and option pricing with stochastic volatility and jumps. The default-risk applications include default correlation, particularly in first-to-default settings. The reader is assumed to have some background in financial modeling and stochastic calculus.
+ER  - 
+
+TY  - JOUR
+T1  - Unspanned stochastic volatility and fixed income derivatives pricing
+AU  - Casassus, Jaime
+AU  - Collin-Dufresne, Pierre
+AU  - Goldstein, Bob
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2723
+EP  - 2749
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000348
+KW  - Stochastic volatility
+KW  - HJM
+KW  - Term structure
+AB  - We propose a parsimonious ‘unspanned stochastic volatility’ model of the term structure and study its implications for fixed-income option prices. The drift and quadratic variation of the short rate are affine in three state variables (the short rate, its long-term mean and variance) which follow a joint Markov (vector) process. Yet, bond prices are exponential affine functions of only two state variables, independent of the current interest rate volatility level. Because this result holds for an arbitrary volatility process, such a process can be calibrated to match fixed income derivative prices. Furthermore, this model can be ‘extended’ (by relaxing the time-homogeneity) to fit any arbitrary term structure. In its ‘HJM’ form, this model nests the analogous stochastic equity volatility model of Heston (1993) [Heston, S.L., 1993. A closed form solution for options with stochastic volatility. Review of Financial Studies 6, 327–343]. In particular, if the volatility process is specified to be affine, closed-form solutions for interest rate options obtain. We propose an efficient algorithm to compute these prices. An application using data on caps and floors shows that the model can capture very well the implied Black spot volatility surface, while simultaneously fitting the observed term structure.
+ER  - 
+
+TY  - JOUR
+T1  - The saga of the American put
+AU  - Barone-Adesi, Giovanni
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2909
+EP  - 2918
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000403
+KW  - American put option
+KW  - Optimal stopping
+KW  - Monte Carlo simulation
+KW  - Differential inequality
+AB  - The American put is one of the oldest problems in mathematical finance. We review the development of the relevant literature over the last 40years. Today the mainstream computational problems have been solved satisfactorily and the target of research is shifting towards the development of further insights into the value of timing investment decisions.
+ER  - 
+
+TY  - JOUR
+T1  - Thirty years of continuous-time finance
+AU  - Barone-Adesi, Giovanni
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2699
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000324
+ER  - 
+
+TY  - JOUR
+T1  - Iddo Sarnat Award 2005
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - iii
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(05)00173-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605001731
+ER  - 
+
+TY  - JOUR
+T1  - Asset pricing with heterogeneous beliefs
+AU  - Basak, Suleyman
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2849
+EP  - 2881
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000385
+KW  - Heterogeneous beliefs
+KW  - Asset pricing
+KW  - Equilibrium
+KW  - Market price of risk
+KW  - Survey
+AB  - This paper studies the dynamic behavior of security prices in the presence of investors’ heterogeneous beliefs. We provide a tractable continuous-time pure-exchange model and highlight the mechanism through which investors’ differences of opinion enter into security prices. In the determination of equilibrium, we employ a representative investor with stochastic weights and solve for all economic quantities in closed form, including the perceived market prices of risk and interest rate. The basic analysis is generalized to incorporate multiple sources of risk, disagreement about nonfundamentals, and multiple investors. Other applications involving multiple goods and nominal asset pricing within monetary economies are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial board
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - CO2
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(05)00158-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605001585
+ER  - 
+
+TY  - JOUR
+T1  - Risk management implications of time-inconsistency: Model updating and recalibration of no-arbitrage models
+AU  - Buraschi, Andrea
+AU  - Corielli, Francesco
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2883
+EP  - 2907
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000397
+KW  - Time-consistency
+KW  - No-arbitrage
+KW  - Term structure
+KW  - Options
+KW  - Bonds
+KW  - Risk management
+AB  - A widespread approach in the implementation of asset pricing models is based on the periodic recalibration of its parameters and initial conditions to eliminate any conflict between model-implied and market prices. Modern no-arbitrage market models facilitate this procedure since their solution can usually be written in terms of the entire initial yield curve. As a result, the model fits (by construction) the interest rate term structure. This procedure is, however, generally time inconsistent since the model at time t=0 completely specifies the set of possible term structures for any t>0. In this paper, we analyze the pros and cons of this widespread approach in pricing and hedging, both theoretically and empirically. The theoretical section of the paper shows (a) under which conditions recalibration improves the hedging errors by limiting the propagation of an initial error, (b) that recalibration introduces time-inconsistent errors that violate the self-financing argument of the standard replication strategy. The empirical section of the paper quantifies the trade-off between (a) and (b) under several scenarios. First, we compare this trade-off for two economies with and without model specification error. Then, we discuss the trade-off when the underlying economy is not Markovian.
+ER  - 
+
+TY  - JOUR
+T1  - Large traders, hidden arbitrage, and complete markets
+AU  - Jarrow, Robert
+AU  - Protter, Philip
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2803
+EP  - 2820
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000361
+KW  - Arbitrage
+KW  - Bear run
+KW  - Black-Scholes
+KW  - Complete markets
+KW  - Hidden arbitrage
+KW  - Immediate arbitrage
+KW  - Initial Public Offering (IPO)
+KW  - Local time
+AB  - This paper studies hidden arbitrage opportunities in markets where large traders affect the price process, and where the market is complete (in the classical sense). The arbitrage opportunities are “hidden” because they occur on a small set of times (typically of Lebesgue measure zero). These arbitrage opportunities occur naturally in markets where a large trader supports the price of some asset or commodity, for example corporate stock repurchase plans, government interest rate or foreign currency intervention, and price support by investment banks in IPOs. We also illustrate immediate arbitrage opportunities generated by usual market activity at specific points in time, for example the issuance date of an IPO or the inclusion date of a new stock in the S&P 500 index.
+ER  - 
+
+TY  - JOUR
+T1  - Intertemporal asset allocation: A comparison of methods
+AU  - Detemple, Jérôme
+AU  - Garcia, René
+AU  - Rindisbacher, Marcel
+JO  - Journal of Banking & Finance
+VL  - 29
+IS  - 11
+SP  - 2821
+EP  - 2848
+PY  - 2005
+DA  - 2005/11/01/
+T2  - Thirty Years of Continuous-Time Finance
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/j.jbankfin.2005.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426605000373
+KW  - Asset allocation
+KW  - Monte Carlo methods
+KW  - Malliavin derivatives
+KW  - Regression method
+AB  - This paper compares two recent Monte Carlo methods advocated for the computation of optimal portfolio rules. The candidate methods are the approach based on Monte Carlo with Malliavin Derivatives (MCMD) proposed by Detemple, Garcia and Rindisbacher [Detemple et al., 2003. A Monte-Carlo method for optimal portfolios. Journal of Finance 58, 401–406] and the approach based on Monte Carlo with regression (MCR) of Brandt, Goyal, Santa-Clara and Stroud [Brandt et al., 2003. A simulation approach to dynamic portfolio choice with an application to learning about return predictability. Working paper, Wharton School]. Our comparisons are carried out in the context of various intertemporal portfolio choice problems with two assets, a risky asset and a riskless asset, and different configurations of the state variables. The specifications studied include a linear model with a single state variable admitting an exact solution and a non-linear model with two state variables that requires a purely numerical resolution. The accuracies of the candidate methods are compared. We provide, in particular, efficiency plots displaying the speed–accuracy trade-off for various selections of the relevant simulation and discretization parameters. MCMD is shown to dominate in all the settings considered.
+ER  - 

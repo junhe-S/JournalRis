@@ -1,0 +1,416 @@
+TY  - JOUR
+T1  - Nonlinear models for strongly dependent processes with financial applications
+AU  - Baillie, Richard T.
+AU  - Kapetanios, George
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 60
+EP  - 71
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.034
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001243
+KW  - Nonlinearity
+KW  -  models
+KW  - Strong dependence
+KW  - Forward premium
+KW  - Real exchange rates
+AB  - This paper is motivated by recent evidence that many univariate economic and financial time series have both nonlinear and long memory characteristics. Hence, this paper considers a general nonlinear, smooth transition regime autoregression which is embedded within a strongly dependent, long memory process. A time domain MLE with simultaneous estimation of the long memory, linear AR and nonlinear parameters is shown to have desirable asymptotic properties. The Bayesian and Hannan–Quinn information criteria are shown to provide consistent model selection procedures. The paper also considers an alternative two step estimator where the original time series is fractionally filtered from an initial semi-parametric estimate of the long memory parameter. Simulation evidence indicates that the time domain MLE is generally superior to the two step estimator. The paper also includes some applications of the methodology and estimation of a fractionally integrated, nonlinear autoregressive-ESTAR model to forward premium and real exchange rates.
+ER  - 
+
+TY  - JOUR
+T1  - Econometric modelling in finance and risk management: An overview
+AU  - Gao, Jiti
+AU  - McAleer, Michael
+AU  - Allen, David E.
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 1
+EP  - 4
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.025
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800119X
+KW  - Continuous-time model
+KW  - Correlation test
+KW  - Dynamic additive model
+KW  - Estimation of realized volatility
+KW  - Factor model
+KW  - Long-range dependence
+AB  - This paper gives an overview about the sixteen papers included in this special issue. The papers in this special issue cover a wide range of topics. Such topics include discussing a class of tests for correlation, estimation of realized volatility, modeling time series and continuous-time models with long-range dependence, estimation and specification testing of time series models, estimation in a factor model with high-dimensional problems, finite-sample examination of quasi-maximum likelihood estimation in an autoregressive conditional duration model, and estimation in a dynamic additive quantile model.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating quadratic variation consistently in the presence of endogenous and diurnal measurement error
+AU  - Kalnina, Ilze
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 47
+EP  - 59
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001231
+KW  - Endogenous noise
+KW  - Market microstructure
+KW  - Realised volatility
+KW  - Semimartingale
+AB  - We propose an econometric model that captures the effects of market microstructure on a latent price process. In particular, we allow for correlation between the measurement error and the return process and we allow the measurement error process to have a diurnal heteroskedasticity. We propose a modification of the TSRV estimator of quadratic variation. We show that this estimator is consistent, with a rate of convergence that depends on the size of the measurement error, but is no worse than n−1/6. We investigate in simulation experiments the finite sample performance of various proposed implementations.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for a change in persistence in the presence of non-stationary volatility
+AU  - Cavaliere, Giuseppe
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 84
+EP  - 98
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001267
+KW  - Persistence change
+KW  - Non-stationary volatility
+KW  - Wild bootstrap
+AB  - In this paper we consider tests for the null of (trend-) stationarity against the alternative of a change in persistence at some (known or unknown) point in the observed sample, either from I(0) to I(1) behaviour or vice versa, of, inter alia, [Kim, J., 2000. Detection of change in persistence of a linear time series. Journal of Econometrics 95, 97–116]. We show that in circumstances where the innovation process displays non-stationary unconditional volatility of a very general form, which includes single and multiple volatility breaks as special cases, the ratio-based statistics used to test for persistence change do not have pivotal limiting null distributions. Numerical evidence suggests that this can cause severe over-sizing in the tests. In practice it may therefore be hard to discriminate between persistence change processes and processes with constant persistence but which display time-varying unconditional volatility. We solve the identified inference problem by proposing wild bootstrap-based implementations of the tests. Monte Carlo evidence suggests that the bootstrap tests perform well in finite samples. An empirical illustration using US price inflation data is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for multivariate volatility functions using minimum volume sets and inverse regression
+AU  - Polonik, Wolfgang
+AU  - Yao, Qiwei
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 151
+EP  - 162
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001322
+KW  - Brownian bridge
+KW  - Empirical process
+KW  - ARCH models
+KW  - Heteroscedasticity
+KW  - Integral stochastic order
+KW  - Level set
+KW  - Smiling effect
+AB  - We propose two new types of nonparametric tests for investigating multivariate regression functions. The tests are based on cumulative sums coupled with either minimum volume sets or inverse regression ideas; involving no multivariate nonparametric regression estimation. The methods proposed facilitate the investigation for different features such as if a multivariate regression function is (i) constant, (ii) of a bathtub shape, and (iii) in a given parametric form. The inference based on those tests may be further enhanced through associated diagnostic plots. Although the potential use of those ideas is much wider, we focus on the inference for multivariate volatility functions in this paper, i.e. we test for (i) heteroscedasticity, (ii) the so-called ‘smiling effect’, and (iii) some parametric volatility models. The asymptotic behavior of the proposed tests is investigated, and practical feasibility is shown via simulation studies. We further illustrate our methods with real financial data.
+ER  - 
+
+TY  - JOUR
+T1  - Econometric estimation in long-range dependent volatility models: Theory and practice
+AU  - Casas, Isabel
+AU  - Gao, Jiti
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 72
+EP  - 83
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001255
+KW  - Continuous-time model
+KW  - Diffusion process
+KW  - Long-range dependence
+KW  - Stochastic volatility
+AB  - It is commonly accepted that some financial data may exhibit long-range dependence, while other financial data exhibit intermediate-range dependence or short-range dependence. These behaviours may be fitted to a continuous-time fractional stochastic model. The estimation procedure proposed in this paper is based on a continuous-time version of the Gauss–Whittle objective function to find the parameter estimates that minimize the discrepancy between the spectral density and the data periodogram. As a special case, the proposed estimation procedure is applied to a class of fractional stochastic volatility models to estimate the drift, standard deviation and memory parameters of the volatility process under consideration. As an application, the volatility of the Dow Jones, S&P 500, CAC 40, DAX 30, FTSE 100 and NIKKEI 225 is estimated.
+ER  - 
+
+TY  - JOUR
+T1  - Fiscal policy and asset markets: A semiparametric analysis
+AU  - Jansen, Dennis W.
+AU  - Li, Qi
+AU  - Wang, Zijun
+AU  - Yang, Jian
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 141
+EP  - 150
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001310
+KW  - Fiscal deficits
+KW  - Monetary policy
+KW  - Stock market
+KW  - Semiparametric estimation
+AB  - Using a flexible semiparametric varying coefficient model specification, this paper examines the role of fiscal policy on the US asset markets (stocks, corporate and treasury bonds). We consider two possible roles of fiscal deficits (or surpluses): as a separate direct information variable and as a (indirect) conditioning information variable indicating binding constraints on monetary policy actions. The results show that the impact of monetary policy on the stock market varies, depending on fiscal expansion or contraction. The impact of fiscal policy on corporate and treasury bond yields follow similar patterns as in the equity market. The results are consistent with the notion of strong interdependence between monetary and fiscal policies.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of conditional VaR and expected shortfall
+AU  - Cai, Zongwu
+AU  - Wang, Xian
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 120
+EP  - 130
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001292
+KW  - Boundary effects
+KW  - Empirical likelihood
+KW  - Expected shortfall
+KW  - Local linear estimation
+KW  - Nonparametric smoothing
+KW  - Value-at-risk
+KW  - Weighted double kernel
+AB  - This paper considers a new nonparametric estimation of conditional value-at-risk and expected shortfall functions. Conditional value-at-risk is estimated by inverting the weighted double kernel local linear estimate of the conditional distribution function. The nonparametric estimator of conditional expected shortfall is constructed by a plugging-in method. Both the asymptotic normality and consistency of the proposed nonparametric estimators are established at both boundary and interior points for time series data. We show that the weighted double kernel local linear conditional distribution estimator has the advantages of always being a distribution, continuous, and differentiable, besides the good properties from both the double kernel local linear and weighted Nadaraya–Watson estimators. Moreover, an ad hoc data-driven fashion bandwidth selection method is proposed, based on the nonparametric version of the Akaike information criterion. Finally, an empirical study is carried out to illustrate the finite sample performance of the proposed estimators.
+ER  - 
+
+TY  - JOUR
+T1  - A multiple regime smooth transition Heterogeneous Autoregressive model for long memory and asymmetries
+AU  - McAleer, Michael
+AU  - Medeiros, Marcelo C.
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 104
+EP  - 119
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001280
+KW  - Realized volatility
+KW  - Smooth transition
+KW  - Heterogeneous autoregression
+KW  - Financial econometrics
+KW  - Leverage
+KW  - Sign and size asymmetries
+KW  - Forecasting
+KW  - Risk management
+KW  - Model combination
+AB  - In this paper we propose a flexible model to describe nonlinearities and long-range dependence in time series dynamics. The new model is a multiple regime smooth transition extension of the Heterogeneous Autoregressive (HAR) model, which is specifically designed to model the behavior of the volatility inherent in financial time series. The model is able to simultaneously approximate long memory behavior, as well as describe sign and size asymmetries. A sequence of tests is developed to determine the number of regimes, and an estimation and testing procedure is presented. Monte Carlo simulations evaluate the finite-sample properties of the proposed tests and estimation procedures. We apply the model to several Dow Jones Industrial Average index stocks using transaction level data from the Trades and Quotes database that covers ten years of data. We find strong support for long memory and both sign and size asymmetries. Furthermore, the new model, when combined with the linear HAR model, is viable and flexible for purposes of forecasting volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Specification testing in discretized diffusion models: Theory and practice
+AU  - Gao, Jiti
+AU  - Casas, Isabel
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 131
+EP  - 140
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001309
+KW  - Continuous-time diffusion process
+KW  - Kernel method
+KW  - Nonparametric testing
+KW  - Power function
+KW  - Size function
+KW  - Time series econometrics
+AB  - We propose two new tests for the specification of both the drift and the diffusion functions in a discretized version of a semiparametric continuous-time financial econometric model. Theoretically, we establish some asymptotic consistency results for the proposed tests. Practically, a simple selection procedure for the bandwidth parameter involved in each of the proposed tests is established based on the assessment of the power function of the test under study. To the best of our knowledge, this is the first approach of this kind in specification of continuous-time financial econometrics. The proposed theory is supported by good small and medium-sample studies.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - IFC
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(08)00184-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800184X
+ER  - 
+
+TY  - JOUR
+T1  - Out of sample forecasts of quadratic variation
+AU  - Aït-Sahalia, Yacine
+AU  - Mancini, Loriano
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 17
+EP  - 33
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001218
+KW  - Market microstructure noise
+KW  - High frequency data
+KW  - Measurement error
+KW  - Realized volatility
+KW  - Two scales realized volatility
+KW  - Out of sample forecasts
+AB  - We compare the forecasts of Quadratic Variation given by the Realized Volatility (RV) and the Two Scales Realized Volatility (TSRV) computed from high frequency data in the presence of market microstructure noise, under several different dynamics for the volatility process and assumptions on the noise. We show that TSRV largely outperforms RV, whether looking at bias, variance, RMSE or out-of-sample forecasting ability. An empirical application to all DJIA stocks confirms the simulation results.
+ER  - 
+
+TY  - JOUR
+T1  - Correlation testing in time series, spatial and cross-sectional data
+AU  - Robinson, P.M.
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 5
+EP  - 16
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001206
+KW  - Correlation
+KW  - Heteroscedasticity
+KW  - Lagrange multiplier tests
+AB  - We provide a general class of tests for correlation in time series, spatial, spatio-temporal and cross-sectional data. We motivate our focus by reviewing how computational and theoretical difficulties of point estimation mount, as one moves from regularly-spaced time series data, through forms of irregular spacing, and to spatial data of various kinds. A broad class of computationally simple tests is justified. These specialize to Lagrange multiplier tests against parametric departures of various kinds. Their forms are illustrated in case of several models for describing correlation in various kinds of data. The initial focus assumes homoscedasticity, but we also robustify the tests to nonparametric heteroscedasticity.
+ER  - 
+
+TY  - JOUR
+T1  - Realized volatility forecasting and option pricing
+AU  - Bandi, Federico M.
+AU  - Russell, Jeffrey R.
+AU  - Yang, Chen
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 34
+EP  - 46
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760800122X
+KW  - Option pricing
+KW  - Microstructure noise
+KW  - Volatility forecasting
+KW  - Economic metrics
+KW  - Realized variance
+KW  - Two-scale estimator
+KW  - Realized kernels
+AB  - A growing literature advocates the use of microstructure noise-contaminated high-frequency data for the purpose of volatility estimation. This paper evaluates and compares the quality of several recently-proposed estimators in the context of a relevant economic metric, i.e., profits from option pricing and trading. Using forecasts obtained by virtue of alternative volatility estimates, agents price short-term options on the S&P 500 index before trading with each other at average prices. The agents’ average profits and the Sharpe ratios of the profits constitute the criteria used to evaluate alternative volatility estimates and the corresponding forecasts. For our data, we find that estimators with superior finite sample Mean-squared-error properties generate higher average profits and higher Sharpe ratios, in general. We confirm that, even from a forecasting standpoint, there is scope for optimizing the finite sample properties of alternative volatility estimators as advocated by Bandi and Russell [Bandi, F.M., Russell, J.R., 2005. Market microstructure noise, integrated variance estimators, and the accuracy of asymptotic approximations. Working Paper; Bandi, F.M., Russell, J.R., 2008b. Microstructure noise, realized variance, and optimal sampling. Review of Economic Studies 75, 339–369] in recent work.
+ER  - 
+
+TY  - JOUR
+T1  - High dimensional covariance matrix estimation using a factor model
+AU  - Fan, Jianqing
+AU  - Fan, Yingying
+AU  - Lv, Jinchi
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 186
+EP  - 197
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001346
+KW  - Factor model
+KW  - Diverging dimensionality
+KW  - Covariance matrix estimation
+KW  - Asymptotic properties
+KW  - Portfolio management
+AB  - High dimensionality comparable to sample size is common in many statistical problems. We examine covariance matrix estimation in the asymptotic framework that the dimensionality p tends to ∞ as the sample size n increases. Motivated by the Arbitrage Pricing Theory in finance, a multi-factor model is employed to reduce dimensionality and to estimate the covariance matrix. The factors are observable and the number of factors K is allowed to grow with p. We investigate the impact of p and K on the performance of the model-based covariance matrix estimator. Under mild assumptions, we have established convergence rates and asymptotic normality of the model-based estimator. Its performance is compared with that of the sample covariance matrix. We identify situations under which the factor approach increases performance substantially or marginally. The impacts of covariance matrix estimation on optimal portfolio allocation and portfolio risk assessment are studied. The asymptotic results are supported by a thorough simulation study.
+ER  - 
+
+TY  - JOUR
+T1  - A complete asymptotic series for the autocovariance function of a long memory process
+AU  - Lieberman, Offer
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 99
+EP  - 103
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001279
+KW  - Autocovariance
+KW  - Asymptotic expansion
+KW  - Critical point
+KW  - Fourier integral
+KW  - Long memory
+AB  - An infinite-order asymptotic expansion is given for the autocovariance function of a general stationary long-memory process with memory parameter d∈(−1/2,1/2). The class of spectral densities considered includes as a special case the stationary and invertible ARFIMA(p,d,q) model. The leading term of the expansion is of the order O(1/k1−2d), where k is the autocovariance order, consistent with the well known power law decay for such processes, and is shown to be accurate to an error of O(1/k3−2d). The derivation uses Erdélyi’s [Erdélyi, A., 1956. Asymptotic Expansions. Dover Publications, Inc, New York] expansion for Fourier-type integrals when there are critical points at the boundaries of the range of integration - here the frequencies {0,2π}. Numerical evaluations show that the expansion is accurate even for small k in cases where the autocovariance sequence decays monotonically, and in other cases for moderate to large k. The approximations are easy to compute across a variety of parameter values and models.
+ER  - 
+
+TY  - JOUR
+T1  - Finite sample properties of the QMLE for the Log-ACD model: Application to Australian stocks
+AU  - Allen, David
+AU  - Chan, Felix
+AU  - McAleer, Michael
+AU  - Peiris, Shelton
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 163
+EP  - 185
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001334
+KW  - Conditional duration
+KW  - Asymmetry
+KW  - ACD
+KW  - Log-ACD
+KW  - Monte Carlo simulation
+AB  - This paper concerns the properties of the Quasi Maximum Likelihood Estimator (QMLE) of the Logarithmic Autoregressive Conditional Duration (Log-ACD) model. Proofs of consistency and asymptotic normality of QMLE for the Log-ACD model with log-normal density are presented. This is an important issue as the Log-ACD is used widely for testing various market microstructure models and effects. Knowledge of the distribution of the QMLE is crucial for purposes of valid inference and diagnostic checking. The theoretical results developed in the paper are evaluated using Monte Carlo experiments. The experimental results also provide insights into the finite sample properties of the Log-ACD model under different distributional assumptions. Finally, this paper presents two extensions to the Log-ACD model to accommodate asymmetric effects. The usefulness of these novel models will be evaluated empirically using data from Australian stocks.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic quantile models
+AU  - Gourieroux, C.
+AU  - Jasiak, J.
+JO  - Journal of Econometrics
+VL  - 147
+IS  - 1
+SP  - 198
+EP  - 205
+PY  - 2008
+DA  - 2008/11/01/
+T2  - Econometric modelling in finance and risk management: An overview
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2008.09.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407608001358
+KW  - Dynamic Quantile Model
+KW  - Value-at-Risk
+KW  - KLIC criterion
+KW  - L-Moments
+KW  - Method of L-Moments
+AB  - This paper introduces the Dynamic Additive Quantile (DAQ) model that ensures the monotonicity of conditional quantile estimates. The DAQ model is easily estimable and can be used for computation and updating of the Value-at-Risk. An asymptotically efficient estimator of the DAQ is obtained by maximizing an objective function based on the inverse KLIC measure. An alternative estimator proposed in the paper is the Method of L-Moments estimator (MLM). The MLM estimator is consistent, but generally not fully efficient. Goodness-of-fit tests and diagnostic tools for the assessment of the model are also provided. For illustration, the DAQ model is estimated from a series of returns on the Toronto Stock Exchange (TSX) market index.
+ER  - 

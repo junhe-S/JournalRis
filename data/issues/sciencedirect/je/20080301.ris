@@ -1,0 +1,306 @@
+TY  - JOUR
+T1  - Joint and marginal specification tests for conditional mean and variance models
+AU  - Carlos Escanciano, J.
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 74
+EP  - 87
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001674
+KW  - Diagnostic tests
+KW  - Model checks
+KW  - Generalized spectral analysis
+KW  - Nonlinear time series
+KW  - Wild bootstrap
+KW  - Volatility model
+AB  - This article proposes a class of joint and marginal spectral diagnostic tests for parametric conditional means and variances of linear and nonlinear time series models. The use of joint and marginal tests is motivated from the fact that marginal tests for the conditional variance may lead to misleading conclusions when the conditional mean is misspecified. The new tests are based on a generalized spectral approach and do not need to choose a lag order depending on the sample size or to smooth the data. Moreover, the proposed tests are robust to higher order dependence of unknown form, in particular to conditional skewness and kurtosis. It turns out that the asymptotic null distributions of the new tests depend on the data generating process. Hence, we implement the tests with the assistance of a wild bootstrap procedure. A simulation study compares the finite sample performance of the proposed and competing tests, and shows that our tests can play a valuable role in time series modeling. Finally, an application to the S&P 500 highlights the merits of our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric simultaneous testing for structural breaks
+AU  - Gao, Jiti
+AU  - Gijbels, Irène
+AU  - Van Bellegem, Sébastien
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 123
+EP  - 142
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001686
+KW  - Conditional mean and variance function
+KW  - Nonparametric testing
+KW  - Structural break
+KW  - Threshold model
+KW  - Time series analysis
+AB  - In this paper we consider a regression model with errors that are martingale differences. This modeling includes the regression of both independent and time series data. The aim is to study the appearance of structural breaks in both the mean and the variance functions, assuming that such breaks may occur simultaneously in both the functions. We develop nonparametric testing procedures that simultaneously test for structural breaks in the conditional mean and the conditional variance. The asymptotic distribution of an adaptive test statistic is established, as well as its asymptotic consistency and efficiency. Simulations illustrate the performance of the adaptive testing procedure. An application to the analysis of financial time series also demonstrates the usefulness of the proposed adaptive test in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Testing the parametric form of the volatility in continuous time diffusion models—a stochastic process approach
+AU  - Dette, Holger
+AU  - Podolskij, Mark
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 56
+EP  - 73
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001595
+KW  - Specification tests
+KW  - Integrated volatility
+KW  - Bootstrap
+KW  - Heteroscedasticity
+KW  - Stable convergence
+AB  - We present new tests for the form of the volatility function which are based on stochastic processes of the integrated volatility. We prove weak convergence of these processes to centered processes whose conditional distributions are Gaussian. In the case of testing for a constant volatility the limiting process are standard Brownian bridges. As a consequence an asymptotic distribution free test and bootstrap tests (for testing of a general parametric form) can easily be implemented. It is demonstrated that the new tests are more than the currently available procedures. The new approach is also demonstrated by means of a simulation study.
+ER  - 
+
+TY  - JOUR
+T1  - Testing multivariate distributions in GARCH models
+AU  - Bai, Jushan
+AU  - Chen, Zhihong
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 19
+EP  - 36
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001650
+KW  - K-transformation
+KW  - Brownian motion
+KW  - Distribution-free tests
+KW  - Multivariate normality
+KW  - Multivariate 
+KW  - GARCH
+AB  - In this paper, we consider testing distributional assumptions in multivariate GARCH models based on empirical processes. Using the fact that joint distribution carries the same amount of information as the marginal together with conditional distributions, we first transform the multivariate data into univariate independent data based on the marginal and conditional cumulative distribution functions. We then apply the Khmaladze's martingale transformation (K-transformation) to the empirical process in the presence of estimated parameters. The K-transformation eliminates the effect of parameter estimation, allowing a distribution-free test statistic to be constructed. We show that the K-transformation takes a very simple form for testing multivariate normal and multivariate t-distributions. The procedure is applied to a multivariate financial time series data set.
+ER  - 
+
+TY  - JOUR
+T1  - Goodness-of-fit tests for conditional models under censoring and truncation
+AU  - Cao, Ricardo
+AU  - González-Manteiga, Wenceslao
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 166
+EP  - 190
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001662
+KW  - Additive risks model
+KW  - Duration data
+KW  - Kernel method
+KW  - Polynomial regression
+KW  - Proportional hazards model
+KW  - Proportional odds
+KW  - Survival analysis
+AB  - The problem of specification tests for conditional models is studied when the data are subject to left truncation and right censoring. A general method is applied to derive tests for the polynomial regression, the proportional hazards, the additive risks and the proportional odds models. Bootstrap versions to approximate the critical values of the test are introduced and proved to work both from a theoretical viewpoint as well as in a small simulation study.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - IFC
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(07)00246-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607002461
+ER  - 
+
+TY  - JOUR
+T1  - Specification testing for regression models with dependent data
+AU  - Hidalgo, J.
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 143
+EP  - 165
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001649
+KW  - Functional specification
+KW  - Variable selection
+KW  - Nonparametric kernel regression
+KW  - Frequency domain bootstrap
+AB  - We examine a consistent test for the correct specification of a regression function with dependent data. The test is based on the supremum of the difference between the parametric and nonparametric estimates of the regression model. Rather surprisingly, the behaviour of the test depends on whether the regressors are deterministic or stochastic. In the former situation, the normalization constants necessary to obtain the limiting Gumbel distribution are data dependent and difficult to estimate, so it may be difficult to obtain valid critical values, whereas, in the latter, the asymptotic distribution may not be even known. Because of that, under very mild regularity conditions, we describe a bootstrap analogue for the test, showing its asymptotic validity and finite sample behaviour in a small Monte-Carlo experiment.
+ER  - 
+
+TY  - JOUR
+T1  - Specification tests in nonparametric regression
+AU  - Einmahl, John H.J.
+AU  - Van Keilegom, Ingrid
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 88
+EP  - 102
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001704
+KW  - Bootstrap
+KW  - Empirical process
+KW  - Location-scale regression
+KW  - Model diagnostics
+KW  - Nonparametric regression
+KW  - Test for independence
+KW  - Weak convergence
+AB  - Consider the location-scale regression model Y=m(X)+σ(X)ɛ, where the error ɛ is independent of the covariate X, and m and σ are smooth but unknown functions. We construct tests for the validity of this model and show that the asymptotic limits of the proposed test statistics are distribution free. We also investigate the finite sample properties of the tests through a simulation study, and we apply the tests in the analysis of data on food expenditures.
+ER  - 
+
+TY  - JOUR
+T1  - Specification testing
+AU  - Delgado, Miguel A.
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 1
+EP  - 4
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001716
+ER  - 
+
+TY  - JOUR
+T1  - Distribution-free specification tests of conditional models
+AU  - Delgado, Miguel A.
+AU  - Stute, Winfried
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 37
+EP  - 55
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001625
+KW  - Conditional models
+KW  - Martingale transformation
+KW  - Sequential empirical process
+KW  - Specification tests
+AB  - This article proposes a class of asymptotically distribution-free specification tests for parametric conditional distributions. These tests are based on a martingale transform of a proper sequential empirical process of conditionally transformed data. Standard continuous functionals of this martingale provide omnibus tests while linear combinations of the orthogonal components in its spectral representation form a basis for directional tests. Finally, Neyman-type smooth tests, a compromise between directional and omnibus tests, are discussed. As a special example we study in detail the construction of directional tests for the null hypothesis of conditional normality versus heteroskedastic contiguous alternatives. A small Monte Carlo study shows that our tests attain the nominal level already for small sample sizes.
+ER  - 
+
+TY  - JOUR
+T1  - On specification testing of ordered discrete choice models
+AU  - Mora, Juan
+AU  - Moro-Egido, Ana I.
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 191
+EP  - 205
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001637
+KW  - Specification tests
+KW  - Ordered discrete choice models
+KW  - Simulation
+AB  - We discuss how to test the specification of an ordered discrete choice model against a general alternative. Two main approaches can be followed: tests based on moment conditions and tests based on comparisons between parametric and nonparametric estimations. Following these approaches, various statistics are proposed and their asymptotic properties are discussed. The performance of the statistics is compared by means of simulations. An easy-to-compute variant of the standard moment-based statistic yields the best results in models with a single explanatory variable. In models with various explanatory variables the results are less conclusive, since the relative performance of the statistics depends on both the fit of the model and the type of misspecification that is considered.
+ER  - 
+
+TY  - JOUR
+T1  - Breaking the curse of dimensionality in nonparametric testing
+AU  - Lavergne, Pascal
+AU  - Patilea, Valentin
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 103
+EP  - 122
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001601
+KW  - Curse of dimensionality
+KW  - Testing
+KW  - Nonparametric methods
+AB  - For tests based on nonparametric methods, power crucially depends on the dimension of the conditioning variables, and specifically decreases with this dimension. This is known as the “curse of dimensionality”. We propose a new general approach to nonparametric testing in high dimensional settings and we show how to implement it when testing for a parametric regression. The resulting test behaves against directional local alternatives almost as if the dimension of the regressors was one. It is also almost optimal against classes of one-dimensional alternatives for a suitable choice of the smoothing parameter. The test performs well in small samples compared to several other tests.
+ER  - 
+
+TY  - JOUR
+T1  - On distribution-free goodness-of-fit testing of exponentiality
+AU  - Haywood, John
+AU  - Khmaladze, Estate
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 5
+EP  - 18
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001613
+KW  - Asymptotically linear statistics
+KW  - Brownian motion
+KW  - Contiguous alternatives
+KW  - Distribution free statistics
+KW  - Goodness-of-fit statistics
+KW  - Local alternatives
+KW  - Rate of convergence to Brownian motion
+KW  - Transformed empirical process
+AB  - There is a need to test the hypothesis of exponentiality against a wide variety of alternative hypotheses, across many areas of economics and finance. Local or contiguous alternatives are the closest alternatives against which it is still possible to have some power. Hence goodness-of-fit tests should have some power against all, or a huge majority, of local alternatives. Such tests are often based on nonlinear statistics, with a complicated asymptotic null distribution. Thus a second desirable property of a goodness-of-fit test is that its statistic will be asymptotically distribution free. We suggest a whole class of goodness-of-fit tests with both of these properties, by constructing a new version of empirical process that weakly converges to a standard Brownian motion under the hypothesis of exponentiality. All statistics based on this process will asymptotically behave as statistics from a standard Brownian motion and so will be asymptotically distribution free. We show the form of transformation is especially simple in the case of exponentiality. Surprisingly there are only two asymptotically distribution free versions of empirical process for this problem, and only this one has a convenient limit distribution. Many tests of exponentiality have been suggested based on asymptotically linear functionals from the empirical process. We illustrate none of these can be used as goodness-of-fit tests, contrary to some previous recommendations. Of considerable interest is that a selection of well-known statistics all lead to the same test asymptotically, with negligible asymptotic power against a great majority of local alternatives. Finally, we present an extension of our approach that solves the problem of multiple testing, both for exponentiality and for other, more general hypotheses.
+ER  - 
+
+TY  - JOUR
+T1  - Diagnostic testing for cointegration
+AU  - Robinson, P.M.
+JO  - Journal of Econometrics
+VL  - 143
+IS  - 1
+SP  - 206
+EP  - 225
+PY  - 2008
+DA  - 2008/03/01/
+T2  - Specification testing
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2007.08.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607001698
+KW  - Fractional cointegration
+KW  - Diagnostic testing
+KW  - Specification testing
+KW  - Cointegrating rank
+KW  - Semiparametric estimation
+AB  - We develop a sequence of tests for specifying the cointegrating rank of, possibly fractional, multiple time series. Memory parameters of observables are treated as unknown, as are those of possible cointegrating errors. The individual test statistics have standard null asymptotics and are related to Hausman specification test statistics: when the memory parameter is common to several series, an estimate of this parameter based on the assumption of no cointegration achieves an efficiency improvement over estimates based on individual series, whereas if the series are cointegrated the former estimate is generally inconsistent. However, a computationally simpler but asymptotically equivalent approach, which avoids explicit computation of the “efficient” estimate, is instead pursued here. Two versions of it are initially proposed, followed by one that robustifies to possible inequality between memory parameters of observables. Throughout, a semiparametric approach is pursued, modelling serial dependence only at frequencies near the origin, with the goal of validity under broad circumstances and computational convenience. The main development is in terms of stationary series, but an extension to non-stationary ones is also described. The algorithm for estimating cointegrating rank entails carrying out such tests based on potentially all subsets of two or more of the series, though outcomes of previous tests may render some or all subsequent ones unnecessary. A Monte Carlo study of finite sample performance is included.
+ER  - 

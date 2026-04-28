@@ -1,0 +1,250 @@
+TY  - JOUR
+T1  - Announcement: 2016 Arnold Zellner Award
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - iv
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(16)30227-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302275
+ER  - 
+
+TY  - JOUR
+T1  - Inference and testing breaks in large dynamic panels with strong cross sectional dependence
+AU  - Hidalgo, Javier
+AU  - Schafgans, Marcia
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 259
+EP  - 274
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.09.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301750
+KW  - Large dynamic panel data models
+KW  - Cross-sectional strong-dependence
+KW  - Central limit theorems
+KW  - Homogeneity
+KW  - Bootstrap algorithms
+AB  - In this paper we provide a new Central Limit Theorem for estimators of the slope papers in large dynamic panel data models (where both n and T increase without bound) in the presence of, possibly, strong cross-sectional dependence. We proceed by providing two related tests for breaks/homogeneity in the time dimension. The first test is based on the CUSUM principle; the second test is based on a Hausman–Durbin–Wu approach. Some of the key features of the tests are that they have nontrivial power when the number of individuals, for which the slope parameters may differ, is a “negligible” fraction or when the break happens to be towards the end of the sample, and do not suffer from the incidental parameter problem. We provide a simple bootstrap algorithm to obtain (asymptotic) valid critical values for our statistics. An important feature of the bootstrap is that there is no need to know the underlying model of the cross-sectional dependence. A Monte-Carlo simulation analysis sheds some light on the small sample behaviour of the tests and their bootstrap analogues. We implement our test to some real economic data.
+ER  - 
+
+TY  - JOUR
+T1  - Inference based on many conditional moment inequalities
+AU  - Andrews, Donald W.K.
+AU  - Shi, Xiaoxia
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 275
+EP  - 287
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301774
+KW  - Asymptotic size
+KW  - Asymptotic power
+KW  - Conditional moment inequalities
+KW  - Confidence set
+KW  - Cramér–von Mises
+KW  - Kolmogorov–Smirnov
+KW  - Moment inequalities
+AB  - We construct confidence sets for models defined by many conditional moment inequalities/equalities. The number of conditional moment restrictions can be up to infinitely many. To deal with the vast number of moment restrictions, we exploit the manageability (Pollard (1990)) of the class of moment functions. We verify this condition in five examples from the recent partial identification literature. The confidence sets are shown to have correct uniform asymptotic size and to exclude parameter values outside the identified set with probability approaching one. Monte Carlo experiments for a conditional stochastic dominance example and a random-coefficient binary-outcome example support the theoretical results.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - IFC
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(16)30221-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302214
+ER  - 
+
+TY  - JOUR
+T1  - Tests for conditional ellipticity in multivariate GARCH models
+AU  - Francq, C.
+AU  - Jiménez-Gamero, M.D.
+AU  - Meintanis, S.G.
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 305
+EP  - 319
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301920
+KW  - MGARCH
+KW  - Spherical symmetry
+KW  - Empirical characteristic function
+KW  - Conditional Monte Carlo test
+KW  - Extended CCC-GARCH
+AB  - Tests are proposed for the assumption that the conditional distribution of a multivariate GARCH process is elliptic. These tests are of Kolmogorov–Smirnov and Cramér–von Mises-type and make use of the common geometry underlying the characteristic function of any spherically symmetric distribution. The asymptotic null distribution of the test statistics as well as the consistency of the tests is investigated under general conditions. It is shown that both the finite sample and the asymptotic null distribution depend on the unknown distribution of the Euclidean norm of the innovations. Therefore a conditional Monte Carlo procedure is used to actually carry out the tests. The validity of this resampling scheme is formally justified. Results on the behavior of the new tests in finite-samples are included along with comparisons with other tests.
+ER  - 
+
+TY  - JOUR
+T1  - Unequal spacing in dynamic panel data: Identification and estimation
+AU  - Sasaki, Yuya
+AU  - Xin, Yi
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 320
+EP  - 330
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301932
+KW  - Dynamic panel data
+KW  - Earnings dynamics
+KW  - Unequal spacing
+AB  - We propose conditions under which parameters of fixed-effect dynamic models are identified with unequally spaced panel data. Under predeterminedness, weak stationarity, and empirically testable rank conditions, AR(1) parameters are identified given the availability of “two pairs of two consecutive time gaps”, which generalizes “two pairs of two consecutive time periods”. This result extends to models with multiple covariates, higher-order autoregressions, and partial linearity. Applying our method to the NLS Original Cohorts: Older Men, where personal interviews took place in 1966, 67, and 69, we analyze the earnings dynamics in the old time, and compare the results with more recent ones.
+ER  - 
+
+TY  - JOUR
+T1  - Fractional order statistic approximation for nonparametric conditional quantile inference
+AU  - Goldman, Matt
+AU  - Kaplan, David M.
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 331
+EP  - 346
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301944
+KW  - Dirichlet
+KW  - High-order accuracy
+KW  - Inference-optimal bandwidth
+KW  - Kernel smoothing
+AB  - Using and extending fractional order statistic theory, we characterize the O(n−1) coverage probability error of the previously proposed (Hutson, 1999) confidence intervals for population quantiles using L-statistics as endpoints. We derive an analytic expression for the n−1 term, which may be used to calibrate the nominal coverage level to get O(n−3/2[log(n)]3) coverage error. Asymptotic power is shown to be optimal. Using kernel smoothing, we propose a related method for nonparametric inference on conditional quantiles. This new method compares favorably with asymptotic normality and bootstrap methods in theory and in simulations. Code is provided for both unconditional and conditional inference.
+ER  - 
+
+TY  - JOUR
+T1  - R-estimation in semiparametric dynamic location-scale models
+AU  - Hallin, Marc
+AU  - La Vecchia, Davide
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 233
+EP  - 247
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301725
+KW  - Conditional heteroskedasticity
+KW  - Distribution-freeness
+KW  - Discretely observed Lévy processes
+KW  - Forecasting
+KW  - R-estimation
+KW  - Realized volatility
+KW  - Skew-t family
+AB  - We propose rank-based estimation (R-estimators) as an alternative to Gaussian quasi-likelihood and standard semiparametric estimation in time series models, where conditional location and/or scale depend on a Euclidean parameter of interest, while the unspecified innovation density is a nuisance. We show how to construct R-estimators achieving semiparametric efficiency at some predetermined reference density while preserving root-n consistency and asymptotic normality irrespective of the actual density. Contrary to the standard semiparametric estimators, our R-estimators neither require tangent space calculations nor innovation density estimation. Numerical examples illustrate their good performances on simulated and real data.
+ER  - 
+
+TY  - JOUR
+T1  - Positive semidefinite integrated covariance estimation, factorizations and asynchronicity
+AU  - Boudt, Kris
+AU  - Laurent, Sébastien
+AU  - Lunde, Asger
+AU  - Quaedvlieg, Rogier
+AU  - Sauri, Orimar
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 347
+EP  - 367
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.09.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301956
+KW  - Cholesky decomposition
+KW  - Integrated covariance
+KW  - Non-synchronous trading
+KW  - Positive semidefinite
+KW  - Realized covariance
+AB  - An estimator of the ex-post covariation of log-prices under asynchronicity and microstructure noise is proposed. It uses the Cholesky factorization of the covariance matrix in order to exploit the heterogeneity in trading intensities to estimate the different parameters sequentially with as many observations as possible. The estimator is positive semidefinite by construction. We derive asymptotic results and confirm their good finite sample properties by means of a Monte Carlo simulation. In the application we forecast portfolio Value-at-Risk and sector risk exposures for a portfolio of 52 stocks. We find that the dynamic models utilizing the proposed high-frequency estimator provide statistically and economically superior forecasts.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of fractionally integrated panels with fixed effects and cross-section dependence
+AU  - Ergemen, Yunus Emre
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 248
+EP  - 258
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.05.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301737
+KW  - Fractional cointegration
+KW  - Factor models
+KW  - Long memory
+KW  - Realized volatility
+AB  - We consider a large N,T heterogeneous panel data model with fixed effects, common factors allowing for cross-section dependence, and persistent data and errors, which are assumed fractionally integrated. We propose individual and common-correlation estimates for the slope parameters while error memory parameters are estimated from regression residuals. The individual parameter estimates are all T consistent, asymptotically normal and mutually uncorrelated, irrespective of cointegration between defactored observables. A study of small-sample performance and an empirical application to realized volatility persistence are included.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for central dominance: Method and application
+AU  - Chuang, O-Chia
+AU  - Kuan, Chung-Ming
+AU  - Tzeng, Larry Y.
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 368
+EP  - 378
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.07.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301968
+KW  - Central dominance
+KW  - Contact set
+KW  - Functional inequality
+KW  - Stochastic dominance
+KW  - Portfolio selection
+AB  - Central dominance (CD) introduced in Gollier (1995, Journal of Economic Theory) is a risk concept that differs from stochastic dominance (SD) in an important way. In particular, CD implies a deterministic comparative static of a change in decision when risk changes, but SD does not have such an implication. In this paper, we propose the first test of central dominance, which amounts to checking a functional inequality. We derive the asymptotic distribution of a lower bound of the proposed test and suggest a bootstrap procedure to compute the critical values. We also conduct simulations to evaluate the performance of this test. Our empirical study finds clear evidence of CD relations between the S&P 500 index return distributions during 2001–2013 and results in unambiguous implications for investment decisions.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of non-Gaussian structural vector autoregressions
+AU  - Lanne, Markku
+AU  - Meitz, Mika
+AU  - Saikkonen, Pentti
+JO  - Journal of Econometrics
+VL  - 196
+IS  - 2
+SP  - 288
+EP  - 304
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301828
+KW  - Structural vector autoregressive model
+KW  - Identification
+KW  - Impulse responses
+KW  - Non-Gaussianity
+AB  - Conventional structural vector autoregressive (SVAR) models with Gaussian errors are not identified, and additional identifying restrictions are needed in applied work. We show that the Gaussian case is an exception in that a SVAR model whose error vector consists of independent non-Gaussian components is, without any additional restrictions, identified and leads to essentially unique impulse responses. Building upon this result, we introduce an identification scheme under which the maximum likelihood estimator of the parameters of the non-Gaussian SVAR model is consistent and asymptotically normally distributed. As a consequence, additional economic identifying restrictions can be tested. In an empirical application, we find a negative impact of a contractionary monetary policy shock on financial markets, and clearly reject the commonly employed recursive identifying restrictions.
+ER  - 

@@ -1,0 +1,232 @@
+TY  - JOUR
+T1  - Sufficient statistics for unobserved heterogeneity in structural dynamic logit models
+AU  - Aguirregabiria, Victor
+AU  - Gu, Jiaying
+AU  - Luo, Yao
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 280
+EP  - 311
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303286
+KW  - Panel data discrete choice models
+KW  - Dynamic structural models
+KW  - Fixed effects
+KW  - Unobserved heterogeneity
+KW  - Structural state dependence
+KW  - Identification
+KW  - Sufficient statistic
+AB  - We study the identification and estimation of structural parameters in dynamic panel data logit models where decisions are forward-looking and the joint distribution of unobserved heterogeneity and observable state variables is nonparametric, i.e., fixed-effects model. We consider models with two endogenous state variables: the lagged decision variable, and the time duration in the last choice. This class of models includes as particular cases important economic applications such as models of market entry–exit, occupational choice, machine replacement, inventory and investment decisions, or dynamic demand of differentiated products. We prove the identification of the structural parameters using a conditional likelihood approach. The structure of the model implies that there is a sufficient statistic such that the likelihood function conditional on this statistic no longer depends on the unobserved heterogeneity – neither through the current utility nor through the continuation value of the forward-looking decision problem – but still depends on the structural parameters. We apply this estimator to a machine replacement model.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation of dynamic discrete choice models
+AU  - Buchholz, Nicholas
+AU  - Shum, Matthew
+AU  - Xu, Haiqing
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 312
+EP  - 327
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303274
+KW  - Semiparametric estimation
+KW  - Dynamic discrete choice model
+KW  - Average derivative estimation
+KW  - Fredholm integral operators
+AB  - We consider the estimation of dynamic binary choice models in a semiparametric setting, in which the per-period utility functions are known up to a finite number of parameters, but the distribution of utility shocks is left unspecified. This semiparametric setup differs from most of the existing identification and estimation literature for dynamic discrete choice models. To show identification we derive and exploit a new recursive representation for the unknown quantile function of the utility shocks. Our estimators are straightforward to compute, and resemble classic closed-form estimators from the literature on semiparametric regression and average derivative estimation. Monte Carlo simulations demonstrate that our estimator performs well in small samples.
+ER  - 
+
+TY  - JOUR
+T1  - Solving dynamic discrete choice models using smoothing and sieve methods
+AU  - Kristensen, Dennis
+AU  - Mogensen, Patrick K.
+AU  - Moon, Jong Myun
+AU  - Schjerning, Bertel
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 328
+EP  - 360
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303298
+KW  - Dynamic discrete choice
+KW  - Numerical solution
+KW  - Monte Carlo
+KW  - Sieves
+AB  - We propose to combine smoothing, simulations and sieve approximations to solve for either the integrated or expected value function in a general class of dynamic discrete choice (DDC) models. We use importance sampling to approximate the Bellman operators defining the two functions. The random Bellman operators, and therefore also the corresponding solutions, are generally non-smooth which is undesirable. To circumvent this issue, we introduce smoothed versions of the random Bellman operators and solve for the corresponding smoothed value functions using sieve methods. We also show that one can avoid using sieves by generalizing and adapting the “self-approximating” method of Rust (1997b) to our setting. We provide an asymptotic theory for both approximate solution methods and show that they converge with N-rate, where N is number of Monte Carlo draws, towards Gaussian processes. We examine their performance in practice through a set of numerical experiments and find that both methods perform well with the sieve method being particularly attractive in terms of computational speed and accuracy.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - ii
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00138-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100138X
+ER  - 
+
+TY  - JOUR
+T1  - Effects of taxes and safety net pensions on life-cycle labor supply, savings and human capital: The case of Australia
+AU  - Iskhakov, Fedor
+AU  - Keane, Michael
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 401
+EP  - 432
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.01.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303262
+KW  - Labor supply
+KW  - Human capital
+KW  - Retirement
+KW  - Pensions
+KW  - Income taxes
+KW  - Dynamic structural model
+KW  - Superannuation
+KW  - Age Pension
+KW  - Means tests
+AB  - We structurally estimate a life-cycle model of consumption, labor supply and retirement, using data from the Australian HILDA panel. We use the model to evaluate effects of Australia’s Age Pension system and income tax policy on labor supply, consumption and retirement. Our model accounts for human capital, savings, uninsurable wage risk and credit constraints. We account for “bunching” of hours by assuming a discrete set of hours levels, and we investigate labor supply on both the intensive and extensive margins. Our model allows us to quantify the effects of anticipated and unanticipated tax and pension policy changes at different points of the life-cycle. Our results imply that Australia’s Age Pension system as currently designed is poorly targeted. Our simulations suggest that a doubling of taper rates, combined with a 5.9% reduction of income tax rates, would be budget neutral and Pareto improving.
+ER  - 
+
+TY  - JOUR
+T1  - Bidding frictions in ascending auctions
+AU  - Barkley, Aaron
+AU  - Groeger, Joachim R.
+AU  - Miller, Robert A.
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 376
+EP  - 400
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303250
+KW  - Dynamic games
+KW  - Auctions
+KW  - Jump bids
+KW  - Dominance
+KW  - Inference
+AB  - This paper develops an approach for identifying and estimating the distribution of valuations in ascending auctions where an indeterminate number of bidders have an unknown number of bidding opportunities. To finesse the complications for identification and estimation due to multiple equilibria, our empirical analysis is based on the fact that bidders play undominated strategies in every equilibrium. We apply the model to a monthly financial market in which local banks compete for deposit securities. This market features frequent jump bidding and winning bids well above the highest losing bid, suggesting standard empirical approaches for ascending auctions may not be suitable. We find that frictions are costly both for revenue and allocative efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Illegal drugs, education, and labor market outcomes
+AU  - Mezza, Alvaro
+AU  - Buchinsky, Moshe
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 454
+EP  - 484
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303316
+KW  - Illegal drugs
+KW  - Educational attainment
+KW  - Employment
+KW  - Wages
+KW  - Structural estimation
+AB  - In this paper we investigate the causal effects of consuming illegal drugs on educational attainment, employment, and wages. To identify these effects we develop and estimate a dynamic structural model to jointly consider decisions of whether to consume drugs, attend school, participate in the labor force, and save. Using data from the National Longitudinal Survey of Youth 1997 (NLSY97), we focus our analysis on males; the period of analysis begins at age 13, when they are young enough to have had no experience with drugs. Contrary to findings in the literature, non-drug users have higher wages than marijuana and/or hard drug users. This effect is small for individuals who consume marijuana in low doses but increases with the frequency of drug use. Results from a counterfactual experiment suggest that a 30 percent increase in the price of marijuana each period would reduce the number of marijuana consumers among the 13- to 30-year-olds by 16 percent. Individuals who are dissuaded from consuming marijuana due to the higher price would increase their level of education, their annual income, and work more.
+ER  - 
+
+TY  - JOUR
+T1  - Overview: Implementation of structural dynamic models: Methodology and applications
+AU  - Keane, Michael
+AU  - Kristensen, Dennis
+AU  - Iskhakov, Fedor
+AU  - Schjerning, Bertel
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 277
+EP  - 279
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001019
+ER  - 
+
+TY  - JOUR
+T1  - Labor market search, informality, and on-the-job human capital accumulation
+AU  - Bobba, Matteo
+AU  - Flabbi, Luca
+AU  - Levy, Santiago
+AU  - Tejada, Mauricio
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 433
+EP  - 453
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303304
+KW  - Labor market frictions
+KW  - Search and matching
+KW  - Nash bargaining
+KW  - Informality
+KW  - On-the-job human capital accumulation
+AB  - We develop a search and matching model where firms and workers produce output that depends both on match-specific productivity and worker-specific human capital. The human capital is accumulated while working but depreciates while searching for a job. Jobs can be formal or informal. The model is estimated on labor market data for Mexico. Human capital accumulation is responsible for more than half of the overall value of production, and upgrades more quickly while working formally than informally. Policy experiments reveal that human capital accumulation magnifies the negative impact on productivity of the labor market institutions that give rise to informality.
+ER  - 
+
+TY  - JOUR
+T1  - The likelihood of mixed hitting times
+AU  - Abbring, Jaap H.
+AU  - Salimans, Tim
+JO  - Journal of Econometrics
+VL  - 223
+IS  - 2
+SP  - 361
+EP  - 375
+PY  - 2021
+DA  - 2021/08/01/
+T2  - Annals issue: Implementation of Structural Dynamic Models
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001093
+KW  - Duration analysis
+KW  - First passage time
+KW  - Identification
+KW  - Laplace transform
+KW  - Lévy process
+KW  - Maximum likelihood
+KW  - Mellin’s inverse formula
+KW  - Mixture
+KW  - Optimal stopping
+KW  - Strike duration
+AB  - We present a method for computing the likelihood of a mixed hitting-time model that specifies durations as the first time a latent Lévy process crosses a heterogeneous threshold. This likelihood is not generally known in closed form, but its Laplace transform is. Our approach to its computation relies on numerical methods for inverting Laplace transforms that exploit special properties of the first passage times of Lévy processes. We use our method to implement a maximum likelihood estimator of the mixed hitting-time model in MATLAB. We illustrate the application of this estimator with an analysis of Kennan’s (1985) strike data.
+ER  - 

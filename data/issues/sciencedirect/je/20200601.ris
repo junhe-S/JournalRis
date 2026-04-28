@@ -1,0 +1,199 @@
+TY  - JOUR
+T1  - Survey weighted estimating equation inference with nuisance functionals
+AU  - Zhao, Puying
+AU  - Haziza, David
+AU  - Wu, Changbao
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 516
+EP  - 536
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302404
+KW  - Complex survey
+KW  - Design-based inference
+KW  - Empirical likelihood
+KW  - Generalized method of moments
+KW  - Inequality measure
+KW  - Multiplier bootstrap
+KW  - Non-smooth estimating function
+KW  - Unequal probability sampling
+AB  - This paper provides a rigorous treatment on design-based estimating equation inference using complex survey data in the presence of nuisance functionals. The proposed design-based framework covers parameters from inequality measures and measures on performance evaluation in economic, business and financial studies but the scope of the paper is more broad. Unlike nuisance parameters in other settings where profile analysis is commonly used, the nuisance functionals are typically handled by using a “plug-in” estimator. We establish root-n consistency and asymptotic normality for parameters defined through survey weighted smooth or non-differentiable estimating functions even if the “plug-in” estimator for the nuisance functional has a convergence rate slower than root-n. A multiplier bootstrap procedure is proposed for three types of commonly used survey designs to tackle the challenge task of variance estimation. Results from a simulation study and an application to a real survey data set demonstrate the effectiveness of the proposed design-based inference on the Lorenz curve.
+ER  - 
+
+TY  - JOUR
+T1  - Deviance information criterion for latent variable models and misspecified models
+AU  - Li, Yong
+AU  - Yu, Jun
+AU  - Zeng, Tao
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 450
+EP  - 493
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302271
+KW  - AIC
+KW  - TIC
+KW  - DIC
+KW  - Latent variable models
+KW  - Misspecified models
+KW  - Markov chain Monte Carlo
+AB  - Deviance information criterion (DIC) has been widely used for Bayesian model comparison, especially after Markov chain Monte Carlo (MCMC) is used to estimate candidate models. This paper first studies the problem of using DIC to compare latent variable models when DIC is calculated from the conditional likelihood. In particular, it is shown that the conditional likelihood approach undermines theoretical underpinnings of DIC. A new version of DIC, namely DICL, is proposed to compare latent variable models. The large sample properties of DICL are studied. A frequentist justification of DICL is provided. Like AIC, DICL provides an asymptotically unbiased estimator to the expected Kullback–Leibler (KL) divergence between the DGP and a predictive distribution. Some popular algorithms, such as the EM, Kalman and particle filtering algorithms, are introduced to compute DICL for latent variable models. Moreover, this paper studies the problem of using DIC to compare misspecified models. A new version of DIC, namely DICM, is proposed and it can be regarded as a Bayesian version of TIC. A frequentist justification of DICM is provided under misspecification. DICL and DICM are illustrated using asset pricing models and stochastic volatility models.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive inference on pure spatial models
+AU  - Lee, Jungyoon
+AU  - Robinson, Peter M.
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 375
+EP  - 393
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302234
+KW  - Efficient test
+KW  - Adaptive estimation
+KW  - Spatial models
+AB  - In a general class of semiparametric pure spatial models (having no explanatory variables) allowing nonlinearity in the parameter and the weight matrix, we propose adaptive tests and estimates which are asymptotically efficient in the presence of unknown, nonparametric distributional form. Feasibility of adaptive estimation is verified and its efficiency improvement over Gaussian pseudo maximum likelihood is shown to be either less than, or more than, for models with explanatory variables, depending on properties of the spatial weight matrix. An adaptive Lagrange Multiplier testing procedure for lack of spatial dependence is proposed and this, and our adaptive parameter estimate, are extended to cover regression with spatially correlated errors.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation of heterogeneous coefficients in panel data models with common shocks
+AU  - Li, Kunpeng
+AU  - Cui, Guowei
+AU  - Lu, Lina
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 327
+EP  - 353
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302222
+KW  - Factor analysis
+KW  - Block diagonal covariance
+KW  - Panel data models
+KW  - Common shocks
+KW  - Maximum likelihood estimation
+KW  - Heterogeneous coefficients
+KW  - Inferential theory
+KW  - Extreme value theory
+AB  - This paper investigates the estimation and inference issues of heterogeneous coefficients in panel data models with common shocks. We propose a novel two-step method to estimate the heterogeneous coefficients. We establish the asymptotic theory of our estimators, including consistency, asymptotic representation, and limiting distribution. Our two-step method can effectively address the limitations of the existing methods, such as the common correlated effects method proposed by Pesaran (2006) and the iterated principal components method proposed by Song (2013). The two-step estimator is as efficient as the two existing competitors in the basic model, and more efficient in the model with zero restrictions. Intensive Monte Carlo simulations show that the proposed estimator performs robustly in a variety of data setups.
+ER  - 
+
+TY  - JOUR
+T1  - The dynamic factor network model with an application to international trade
+AU  - Bräuning, Falk
+AU  - Koopman, Siem Jan
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 494
+EP  - 515
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302398
+KW  - Network analysis
+KW  - Dynamic factor models
+KW  - Blockmodels
+KW  - International trade
+AB  - We introduce a dynamic network model with probabilistic link functions that depend on stochastically time-varying parameters. We adopt a blockmodel framework and allow the high-dimensional vector of link probabilities to be a function of a low-dimensional set of dynamic factors. The resulting dynamic factor network model has a basic and transparent structure. However, parameter estimation, signal extraction of stochastic loadings and dynamic factors, and the econometric analysis generally are intricate tasks for which simulation-based methods are needed. We provide feasible and practical solutions to these challenging tasks, based on a computationally efficient importance sampling procedure to evaluate the likelihood function. An extensive Monte Carlo study demonstrates the performance of our method in finite samples, both under correct and incorrect model specifications. In an empirical study, we use the novel framework to analyze global patterns of banana exports and imports. We identify groups of heavy and light traders in this highly active commodity market and their time-varying trade probabilities.
+ER  - 
+
+TY  - JOUR
+T1  - Counterfactual prediction in complete information games: Point prediction under partial identification
+AU  - Jun, Sung Jae
+AU  - Pinkse, Joris
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 394
+EP  - 429
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302258
+KW  - Complete information games
+KW  - Counterfactual prediction
+KW  - Partial identification
+KW  - Maximum entropy
+KW  - Dirichlet process
+KW  - Minmax decisions
+AB  - We study the problem of counterfactual prediction in discrete decision games with complete information, pure strategies, and Nash equilibria: the presence of multiple equilibria poses unique challenges. We introduce multiple types of counterfactuals to establish sharp identified bounds for their prediction probabilities. We propose and compare various point prediction methods, namely midpoint prediction, an approach using a Dirichlet-based prior, a maximum entropy method, and minmax with an entropy constraint. On balance, we conclude that the maximum-entropy approach is the least of several evils. Our results have implications for counterfactual prediction in other models with partial identification.
+ER  - 
+
+TY  - JOUR
+T1  - Unobserved heterogeneity in auctions under restricted stochastic dominance
+AU  - Luo, Yao
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 354
+EP  - 374
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302246
+KW  - Misclassification
+KW  - Finite mixture
+KW  - Eigenvalue decomposition
+KW  - Multidimensional unobserved heterogeneity
+KW  - Risk aversion
+AB  - We study the identification of first-price auctions with nonseparable unobserved heterogeneity. In particular, we extend Hu et al. (2013) by relaxing the first-order stochastic dominance condition. Instead, we assume restricted stochastic dominance relations among value quantile functions and show that the same relations pass to bid quantile functions. An ordered tree summarizes these relations and provides a total ordering. Relying on the proposed restricted stochastic dominance ordering, we extend a list of identification results in the empirical auction literature.
+ER  - 
+
+TY  - JOUR
+T1  - Option market trading activity and the estimation of the pricing kernel: A Bayesian approach
+AU  - Barone-Adesi, Giovanni
+AU  - Fusari, Nicola
+AU  - Mira, Antonietta
+AU  - Sala, Carlo
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - 430
+EP  - 449
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930226X
+KW  - Pricing kernel
+KW  - Pricing kernel puzzle
+KW  - Physical measure
+KW  - Dirichlet process
+KW  - Bayesian nonparametric estimation
+KW  - Options
+KW  - S&P 500 index
+AB  - We propose a nonparametric Bayesian approach for the estimation of the pricing kernel. Historical stock returns and option market data are combined through the Dirichlet Process (DP) to construct an option-adjusted physical measure. The precision parameter of the DP process is calibrated to the amount of trading activity in deep-out-of-the-money options. We use the option-adjusted physical measure to construct an option-adjusted pricing kernel. An empirical investigation on the S&P 500 Index from 2002 to 2015 shows that the option-adjusted pricing kernel is consistently monotonically decreasing, regardless of the level of volatility, thus providing an explanation to the well known U-shaped pricing kernel puzzle.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 216
+IS  - 2
+SP  - ii
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30114-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301147
+ER  - 

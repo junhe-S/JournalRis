@@ -1,0 +1,247 @@
+
+
+
+
+
+TY  - JOUR
+T1  - An Allocation Model for Catalog Space Planning
+AU  - Johnson, Miki
+AU  - Zoltners, Andris A.
+AU  - Sinha, Prabhakant
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.117
+DO  - 10.1287/mnsc.25.2.117
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 117
+EP  - 129
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - Deciding which items to include in a sales catalog and how much space should be allocated to each item is a major planning problem facing many large retailers and catalog firms. The steps in the catalog planning process include compiling a list of candidate items, developing one or several ad size ?strategies? for each item, estimating the sales and contribution which would be realized as a result of each strategy, and then selecting a set of strategies which effectively allocate the space available in the catalog to some subset of items. This paper describes the planning process in detail. An integer programming model is presented which incorporates merchandising policy constraints in optimally choosing the items and ad strategies to be included in the catalog. The organizational implications of using such a model are also explored. A simple example of the application of the model to planning the tennis equipment lines of a major mass merchandiser appears as an appendix.
+AB  - Deciding which items to include in a sales catalog and how much space should be allocated to each item is a major planning problem facing many large retailers and catalog firms. The steps in the catalog planning process include compiling a list of candidate items, developing one or several ad size ?strategies? for each item, estimating the sales and contribution which would be realized as a result of each strategy, and then selecting a set of strategies which effectively allocate the space available in the catalog to some subset of items. This paper describes the planning process in detail. An integer programming model is presented which incorporates merchandising policy constraints in optimally choosing the items and ad strategies to be included in the catalog. The organizational implications of using such a model are also explored. A simple example of the application of the model to planning the tennis equipment lines of a major mass merchandiser appears as an appendix.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.117
+UR  - https://doi.org/10.1287/mnsc.25.2.117
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Mathematical Models of Road Travel Distances
+AU  - Love, Robert F.
+AU  - Morris, James G.
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.130
+DO  - 10.1287/mnsc.25.2.130
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 130
+EP  - 139
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - Some management science models require estimates of distances between points in a road network based on the point coordinates. This paper evaluates the accuracy of a range of reasonable forms for distance estimating functions using samples of urban and rural road distances. The intent is to derive better distance estimating functions for analyzing systems with distance related performance measures. Contrary to a standard assumption, the rectangular distance function is inferior to the simple Euclidean metric in the urban samples. More general functions provide still greater improvement over the rectangular metric. Statistical significance accompanies these conclusions. One of the more general functions appears particularly suited to rural distances.
+AB  - Some management science models require estimates of distances between points in a road network based on the point coordinates. This paper evaluates the accuracy of a range of reasonable forms for distance estimating functions using samples of urban and rural road distances. The intent is to derive better distance estimating functions for analyzing systems with distance related performance measures. Contrary to a standard assumption, the rectangular distance function is inferior to the simple Euclidean metric in the urban samples. More general functions provide still greater improvement over the rectangular metric. Statistical significance accompanies these conclusions. One of the more general functions appears particularly suited to rural distances.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.130
+UR  - https://doi.org/10.1287/mnsc.25.2.130
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Planning Horizon Procedures for Machine Replacement Models
+AU  - Sethi, Suresh
+AU  - Chand, Suresh
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.140
+DO  - 10.1287/mnsc.25.2.140
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 140
+EP  - 151
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - This paper develops efficient forward algorithms and planning horizon results for several machine replacement models under an improving technological environment over time. The models are that of cost minimization, profit maximization, and cost minimization with probabilistic breakdowns. The conditions of the improving technological environment are stated in terms of operating costs, incremental profits, and expected operating costs, respectively, for these models. The state of technology can be assumed to improve every period or every so many periods. The conditions are fairly general and are likely to be satisfied by most improving technologies. What is shown, specifically, is that there exists a forecast horizon T such mat the optimal replacement decision for the first machine (new or existing) based on the forecast of machine technology until period T remains optimal for any longer (than T) horizon, and for that matter, the infinite horizon problem. In particular, it is possible to decide whether it is optimal to replace an existing machine at the beginning of a period or keep it at least one more period with much less information than the entire future forecast of technology. It should be noted that the forecasts become less precise farther into the future and that requiring an infinite horizon forecast for decision-making would be unrealistic. Because the planning horizon results obtained in this paper free the solution from an arbitrary horizon and ascertain the optimality of the first period decision or the first few periods decisions based on the forecast of technology only up to some finite period T, these results represent a major advance in the machine replacement literature. These planning horizon results also enable us to develop a computationally highly efficient forward algorithm for the models under consideration. The algorithm is illustrated with a numerical example. Another important corollary of the planning horizon results is that the optimal number of machine replacements cannot decrease as the length of the horizon (planning period) increases. Planning horizon procedures are shown to be easily extendable to the existing machine case as well as the case when machine lives are constrained within a prespecified finite interval. The paper concludes with various suggestions for future research efforts.
+AB  - This paper develops efficient forward algorithms and planning horizon results for several machine replacement models under an improving technological environment over time. The models are that of cost minimization, profit maximization, and cost minimization with probabilistic breakdowns. The conditions of the improving technological environment are stated in terms of operating costs, incremental profits, and expected operating costs, respectively, for these models. The state of technology can be assumed to improve every period or every so many periods. The conditions are fairly general and are likely to be satisfied by most improving technologies. What is shown, specifically, is that there exists a forecast horizon T such mat the optimal replacement decision for the first machine (new or existing) based on the forecast of machine technology until period T remains optimal for any longer (than T) horizon, and for that matter, the infinite horizon problem. In particular, it is possible to decide whether it is optimal to replace an existing machine at the beginning of a period or keep it at least one more period with much less information than the entire future forecast of technology. It should be noted that the forecasts become less precise farther into the future and that requiring an infinite horizon forecast for decision-making would be unrealistic. Because the planning horizon results obtained in this paper free the solution from an arbitrary horizon and ascertain the optimality of the first period decision or the first few periods decisions based on the forecast of technology only up to some finite period T, these results represent a major advance in the machine replacement literature. These planning horizon results also enable us to develop a computationally highly efficient forward algorithm for the models under consideration. The algorithm is illustrated with a numerical example. Another important corollary of the planning horizon results is that the optimal number of machine replacements cannot decrease as the length of the horizon (planning period) increases. Planning horizon procedures are shown to be easily extendable to the existing machine case as well as the case when machine lives are constrained within a prespecified finite interval. The paper concludes with various suggestions for future research efforts.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.140
+UR  - https://doi.org/10.1287/mnsc.25.2.140
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Reversibility Property of Production Lines
+AU  - Muth, Eginhard J.
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.152
+DO  - 10.1287/mnsc.25.2.152
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 152
+EP  - 158
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - A production line is treated as a series arrangement of k work stations. An unlimited supply of raw production items is available at the first station, and each item passes through all of die stations in sequence. The service time for a single item at station j is assumed to be a random variable with a probability distribution peculiar to that station. In this mode of operation any station will at any time be either busy, or idle, or blocked. A measure of the productivity of such a line is its mean production rate r. It has been conjectured that the production rate remains invariant under reversal of the production line. Line reversal means that every item passes through the stations in the reverse order, that is, beginning with station k and ending with station 1. A general proof of the reversibility property is given. First it is shown that with predetermined service times the total time required to process n dissimilar items through k dissimilar stations does not change when the order of the stations and the order of the items is reversed. Then it is shown for the stochastic case that the order of the items does not affect the production rate.
+AB  - A production line is treated as a series arrangement of k work stations. An unlimited supply of raw production items is available at the first station, and each item passes through all of die stations in sequence. The service time for a single item at station j is assumed to be a random variable with a probability distribution peculiar to that station. In this mode of operation any station will at any time be either busy, or idle, or blocked. A measure of the productivity of such a line is its mean production rate r. It has been conjectured that the production rate remains invariant under reversal of the production line. Line reversal means that every item passes through the stations in the reverse order, that is, beginning with station k and ending with station 1. A general proof of the reversibility property is given. First it is shown that with predetermined service times the total time required to process n dissimilar items through k dissimilar stations does not change when the order of the stations and the order of the items is reversed. Then it is shown for the stochastic case that the order of the items does not affect the production rate.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.152
+UR  - https://doi.org/10.1287/mnsc.25.2.152
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Application of the Blin-Whinston Algorithm for Resolving Fuzzy Group Preferences
+AU  - Steinberg, Earle
+AU  - Rinks, Dan
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.159
+DO  - 10.1287/mnsc.25.2.159
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 159
+EP  - 170
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - Important decisions regarding governmental expenditures for the public welfare require accurate assessment of preferences of the citizenry as one input. Often, strong disagreement exists regarding relative merit of various projects competing for limited resources. This paper proposes a procedure for establishing a complete social preference ordering on the set of alternative projects when the group preference is fuzzy because of individual differences. An extension of current algorithms is developed-and applied to a problem concerning public preferences for expenditures on civic projects in Houston, Texas. One thousand male and female heads-of-household were interviewed in depth to determine their preferences for investment among forty-one projects in the areas of social services, business and job development, public transportation, arts and leisure, and education. A complete preference order for group decision was obtained for a situation in which significant disagreement exists among group members and where funding is limited.
+AB  - Important decisions regarding governmental expenditures for the public welfare require accurate assessment of preferences of the citizenry as one input. Often, strong disagreement exists regarding relative merit of various projects competing for limited resources. This paper proposes a procedure for establishing a complete social preference ordering on the set of alternative projects when the group preference is fuzzy because of individual differences. An extension of current algorithms is developed-and applied to a problem concerning public preferences for expenditures on civic projects in Houston, Texas. One thousand male and female heads-of-household were interviewed in depth to determine their preferences for investment among forty-one projects in the areas of social services, business and job development, public transportation, arts and leisure, and education. A complete preference order for group decision was obtained for a situation in which significant disagreement exists among group members and where funding is limited.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.159
+UR  - https://doi.org/10.1287/mnsc.25.2.159
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Simulation of Multiple Selection Using Nominal Group Procedures
+AU  - Willis, Raymond E.
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.171
+DO  - 10.1287/mnsc.25.2.171
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 171
+EP  - 181
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - A common decision problem involves the selection of k alternatives from a larger but finite set. Examples are the selection of personnel for a training program or the funding of research proposals. A related problem is that of screening where a large but finite group of initial candidates is reduced prior to final selection. Choices of this type frequently are made on judgmental grounds by group processes; because of the subjectivity it is difficult to develop objective criteria for choosing one group process over another. In this paper, the comparative effectiveness of three procedures for group opinion summarization: standardized scores, sum of ranks, and zero-one scoring, are studied by means of a simulated nominal group process. The analysis leads to several simple ?rules of thumb? which should prove useful to the practicing manager.
+AB  - A common decision problem involves the selection of k alternatives from a larger but finite set. Examples are the selection of personnel for a training program or the funding of research proposals. A related problem is that of screening where a large but finite group of initial candidates is reduced prior to final selection. Choices of this type frequently are made on judgmental grounds by group processes; because of the subjectivity it is difficult to develop objective criteria for choosing one group process over another. In this paper, the comparative effectiveness of three procedures for group opinion summarization: standardized scores, sum of ranks, and zero-one scoring, are studied by means of a simulated nominal group process. The analysis leads to several simple ?rules of thumb? which should prove useful to the practicing manager.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.171
+UR  - https://doi.org/10.1287/mnsc.25.2.171
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Construction of Experimental Clusters
+AU  - Murphy, Richard A.
+AU  - Tatham, Ronald L.
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.182
+DO  - 10.1287/mnsc.25.2.182
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 182
+EP  - 190
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - A critical issue in many marketing research studies is the creation of experimental clusters for the purpose of testing new products, advertising campaigns and other marketing decisions prior to widespread introduction in the marketplace. These experimental clusters are often called ?test markets,? ?panels,? and other such names, but regardless of the name, their central purpose is to allow controlled testing leading to inference to a population. Very often management wishes the experimental clusters to be ?matched? on ratios reflecting change over time, comparative competitive position, etc. This paper examines Has problem of constructing such experimental clusters when cluster composition is measured by several ratios and the optimal construction would yield clusters with ratios as close as possible to those of the population. This paper demonstrates that it is possible to obtain optimal solutions through the solution of a mixed-integer linear programming problem which serves as a surrogate for the nonlinear formulation of the problem. An illustration of the successful application of this procedure is shown.
+AB  - A critical issue in many marketing research studies is the creation of experimental clusters for the purpose of testing new products, advertising campaigns and other marketing decisions prior to widespread introduction in the marketplace. These experimental clusters are often called ?test markets,? ?panels,? and other such names, but regardless of the name, their central purpose is to allow controlled testing leading to inference to a population. Very often management wishes the experimental clusters to be ?matched? on ratios reflecting change over time, comparative competitive position, etc. This paper examines Has problem of constructing such experimental clusters when cluster composition is measured by several ratios and the optimal construction would yield clusters with ratios as close as possible to those of the population. This paper demonstrates that it is possible to obtain optimal solutions through the solution of a mixed-integer linear programming problem which serves as a surrogate for the nonlinear formulation of the problem. An illustration of the successful application of this procedure is shown.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.182
+UR  - https://doi.org/10.1287/mnsc.25.2.182
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Exceptional Paper—ADVISOR 2: Modeling the Marketing Mix Decision for Industrial Products
+AU  - Lilien, Gary L.
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.191
+DO  - 10.1287/mnsc.25.2.191
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 191
+EP  - 204
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - This paper reports the results of the ADVISOR 2 study, aimed at providing an understanding of and guidance for marketing mix decisions for industrial products. The study involved 22 companies and 131 products. Although cross-sectional in nature, justification is presented for using the descriptive results as guidelines for marketing mix decisions. Models are presented for advertising expenditures, marketing expenditures, marketing budget allocations, year-to-year changes in advertising spending and for selection of distribution channels. The level of marketing expenditures and the split of marketing into advertising and personal setting are shown to be affected by a few, general product and market characteristics of which product sales and the number of customers are key. It is shown that it is fruitful to study the advertising budget as advertising = (advertising/marketing) ? marketing; i.e., a marketing budget is set and then a split of that budget into personal and impersonal communications is made. This two-stage view clarifies the role of different product and market characteristics in the models. The change in advertising spending is related to changes in market share, changes in product plans and changes in the number of competitors modified by the number of customers, their concentration and the size of the advertising budget. The decision to use a direct channel of distribution (primarily salesforce) is affected by the size of the firm, the size of an average order, the stage in the product's life cycle, the complexity of the product, the fraction of the product's sales made-to-order and the purchase frequency of the product. A discussion of the use of the ADVISOR models both for marketing decision making and for marketing researchers and model builders is included.
+AB  - This paper reports the results of the ADVISOR 2 study, aimed at providing an understanding of and guidance for marketing mix decisions for industrial products. The study involved 22 companies and 131 products. Although cross-sectional in nature, justification is presented for using the descriptive results as guidelines for marketing mix decisions. Models are presented for advertising expenditures, marketing expenditures, marketing budget allocations, year-to-year changes in advertising spending and for selection of distribution channels. The level of marketing expenditures and the split of marketing into advertising and personal setting are shown to be affected by a few, general product and market characteristics of which product sales and the number of customers are key. It is shown that it is fruitful to study the advertising budget as advertising = (advertising/marketing) ? marketing; i.e., a marketing budget is set and then a split of that budget into personal and impersonal communications is made. This two-stage view clarifies the role of different product and market characteristics in the models. The change in advertising spending is related to changes in market share, changes in product plans and changes in the number of competitors modified by the number of customers, their concentration and the size of the advertising budget. The decision to use a direct channel of distribution (primarily salesforce) is affected by the size of the firm, the size of an average order, the stage in the product's life cycle, the complexity of the product, the fraction of the product's sales made-to-order and the purchase frequency of the product. A discussion of the use of the ADVISOR models both for marketing decision making and for marketing researchers and model builders is included.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.191
+UR  - https://doi.org/10.1287/mnsc.25.2.191
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Note—A Single Server Queue with Constant Service Time and Restricted Accessibility
+AU  - Hokstad, Per
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.205
+DO  - 10.1287/mnsc.25.2.205
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 205
+EP  - 208
+VL  - 25
+IS  - 2
+PB  - INFORMS
+N2  - A queuing system has restricted accessibility if not every customer is admitted to the system. In this paper a single server queuing system is studied, where the arriving customers are rejected if their waiting plus service times would exceed a fixed amount K. The arrivals follow a Poisson process. In this case an equation for the stationary waiting time distribution is given. The explicit solution of this equation is obtained, when the service time is assumed to be constant. For this model the queue length distribution is also easily derived. It is observed that the queue with finite waiting room is a special case of this model.
+AB  - A queuing system has restricted accessibility if not every customer is admitted to the system. In this paper a single server queuing system is studied, where the arriving customers are rejected if their waiting plus service times would exceed a fixed amount K. The arrivals follow a Poisson process. In this case an equation for the stationary waiting time distribution is given. The explicit solution of this equation is obtained, when the service time is assumed to be constant. For this model the queue length distribution is also easily derived. It is observed that the queue with finite waiting room is a special case of this model.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.205
+UR  - https://doi.org/10.1287/mnsc.25.2.205
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - About Authors
+Y1  - 1979/02/01
+PY  - 1979
+DA  - 1979/02/01
+N1  - doi: 10.1287/mnsc.25.2.209
+DO  - 10.1287/mnsc.25.2.209
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 209
+EP  - 210
+VL  - 25
+IS  - 2
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.2.209
+UR  - https://doi.org/10.1287/mnsc.25.2.209
+Y2  - 2024/03/27
+ER  - 

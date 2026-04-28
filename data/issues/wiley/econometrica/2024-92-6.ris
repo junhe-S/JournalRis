@@ -1,0 +1,331 @@
+
+TY  - JOUR
+T1  - Adaptive, Rate-Optimal Hypothesis Testing in Nonparametric IV Models
+AU  - Breunig, Christoph
+AU  - Chen, Xiaohong
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA18602
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 2027
+EP  - 2067
+VL  - 92
+IS  - 6
+KW  - Sieve two-stage least squares
+KW  - shape restrictions
+KW  - Hilbert projection onto closed convex sets
+KW  - composite hypothesis
+KW  - nonparametric alternatives
+KW  - minimax rate of testing
+KW  - adaptive hypothesis testing
+KW  - power
+KW  - random exponential scan
+KW  - sieve U-statistics
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA18602
+Y2  - 2026/04/24
+N2  - We propose a new adaptive hypothesis test for inequality (e.g., monotonicity, convexity) and equality (e.g., parametric, semiparametric) restrictions on a structural function in a nonparametric instrumental variables (NPIV) model. Our test statistic is based on a modified leave-one-out sample analog of a quadratic distance between the restricted and unrestricted sieve two-stage least squares estimators. We provide computationally simple, data-driven choices of sieve tuning parameters and Bonferroni adjusted chi-squared critical values. Our test adapts to the unknown smoothness of alternative functions in the presence of unknown degree of endogeneity and unknown strength of the instruments. It attains the adaptive minimax rate of testing in L2. That is, the sum of the supremum of type I error over the composite null and the supremum of type II error over nonparametric alternative models cannot be minimized by any other tests for NPIV models of unknown regularities. Confidence sets in L2 are obtained by inverting the adaptive test. Simulations confirm that, across different strength of instruments and sample sizes, our adaptive test controls size and its finite-sample power greatly exceeds existing non-adaptive tests for monotonicity and parametric restrictions in NPIV models. Empirical applications to test for shape restrictions of differentiated products demand and of Engel curves are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Sparse Network Asymptotics for Logistic Regression Under Possible Misspecification
+AU  - Graham, Bryan S.
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA19051
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1837
+EP  - 1868
+VL  - 92
+IS  - 6
+KW  - Networks
+KW  - exchangeable random arrays
+KW  - dyadic clustering
+KW  - dyadic regression
+KW  - sparse networks
+KW  - logistic regression
+KW  - rare events
+KW  - bipartite network
+KW  - alternative asymptotics
+KW  - sparse network asymptotics
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19051
+Y2  - 2026/04/24
+N2  - Consider a bipartite network where N consumers choose to buy or not to buy M different products. This paper considers the properties of the logit fit of the N???M array of ?i-buys-j? purchase decisions, Y=[Yij]1≤i≤N,1≤j≤M, onto a vector of known functions of consumer and product attributes under asymptotic sequences where (i) both N and M grow large, (ii) the average number of products purchased per consumer is finite in the limit, (iii) there exists dependence across elements in the same row or same column of Y (i.e., dyadic dependence), and (iv) the true conditional probability of making a purchase may, or may not, take the assumed logit form. Condition (ii) implies that the limiting network of purchases is sparse: only a vanishing fraction of all possible purchases are actually made. Under sparse network asymptotics, I show that the parameter indexing the logit approximation solves a particular Kullback?Leibler Information Criterion (KLIC) minimization problem (defined with respect to a certain Poisson population). This finding provides a simple characterization of the logit pseudo-true parameter under general misspecification (analogous to a (mean squared error (MSE) minimizing) linear predictor approximation of a general conditional expectation function (CEF)). With respect to sampling theory, sparseness implies that the first and last terms in an extended Hoeffding-type variance decomposition of the score of the logit pseudo composite log-likelihood are of equal order. In contrast, under dense network asymptotics, the last term is asymptotically negligible. Asymptotic normality of the logistic regression coefficients is shown using a martingale central limit theorem (CLT) for triangular arrays. Unlike in the dense case, the normality result derived here also holds under degeneracy of the network graphon. Relatedly, when there ?happens to be? no dyadic dependence in the data set in hand, it specializes to recently derived results on the behavior of logistic regression with rare events and i.i.d. data. Simulation results suggest that sparse network asymptotics better approximate the finite network distribution of the logit estimator. A short empirical illustration, and additional calibrated Monte Carlo experiments, further illustrate the main theoretical ideas.
+ER  - 
+
+TY  - JOUR
+T1  - Matching and Agglomeration: Theory and Evidence From Japanese Firm-to-Firm Trade
+AU  - Miyauchi, Yuhei
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA19697
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1869
+EP  - 1905
+VL  - 92
+IS  - 6
+KW  - Agglomeration
+KW  - production networks
+KW  - thick market externality
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19697
+Y2  - 2026/04/24
+N2  - This paper shows that matching frictions and a thick market externality in firm-to-firm trade shape the agglomeration of economic activity. Using panel data of firm-to-firm trade in Japan, I demonstrate that firms gradually match with alternative suppliers following an unanticipated supplier bankruptcy, and that the rate of rematching increases in the geographic density of alternative suppliers. Motivated by these empirical findings, I develop a general equilibrium model of firm-to-firm matching in input trade across space. The model reveals that the thick market externality gives rise to an agglomeration externality affecting regional production and welfare. Using the calibrated model to the reduced-form patterns of firm-to-firm matching, I estimate that the elasticity of a region's real wage with respect to population density due to the thick market externality is approximately 0.02. This finding highlights the substantial impact of the thick market externality on the overall agglomeration benefit.
+ER  - 
+
+TY  - JOUR
+T1  - The Impacts of Managerial Autonomy on Firm Outcomes
+AU  - Kala, Namrata
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA19872
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1777
+EP  - 1800
+VL  - 92
+IS  - 6
+KW  - Delegation
+KW  - managerial autonomy
+KW  - state-owned enterprise
+KW  - productivity
+KW  - decision rights
+KW  - India
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19872
+Y2  - 2026/04/24
+N2  - The allocation of decision-making power is a critical choice that organizations make to mitigate agency problems and information frictions. This paper investigates the role of delegation for organizations where the agency problem is both pervasive and has potentially high welfare consequences: state-owned enterprises (SOEs). I use a natural experiment in India to uncover the causal effects of granting SOE managers more autonomy over strategic decisions. Managers meaningfully exercise this autonomy, which results in greater value added, but also a reduced emphasis on outcomes valued by the government, such as a reduction in worker amenities (employee housing), and an increase in markups. Returns to autonomy are higher for firms with higher baseline incentive conflict.
+ER  - 
+
+TY  - JOUR
+T1  - Social Media and Collective Action in China
+AU  - Qin, Bei
+AU  - Strömberg, David
+AU  - Wu, Yanhui
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA20146
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1993
+EP  - 2026
+VL  - 92
+IS  - 6
+KW  - Social media
+KW  - protests
+KW  - strikes
+KW  - China
+KW  - media control
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA20146
+Y2  - 2026/04/24
+N2  - This paper studies how social media affects the dynamics of protests and strikes in China during 2009?2017. Based on 13.2 billion microblog posts, we use tweets and retweets to measure social media communication across cities and exploit its rapid expansion for identification. We find that, despite strict government censorship, Chinese social media has a sizeable effect on the geographical spread of protests and strikes. Furthermore, social media communication considerably expands the scope of protests by spreading events across different causes (e.g., from anticorruption protests to environmental protests) and dramatically increases the probability of far-reaching protest waves with simultaneous events occurring in many cities. These effects arise even though Chinese social media barely circulates content that explicitly helps organize protests.
+ER  - 
+
+TY  - JOUR
+T1  - Aggregate Implications of Barriers to Female Entrepreneurship
+AU  - Chiplunkar, Gaurav
+AU  - Goldberg, Pinelopi Koujianou
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA20396
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1801
+EP  - 1835
+VL  - 92
+IS  - 6
+KW  - Female entrepreneurship
+KW  - gender discrimination
+KW  - misallocation
+KW  - economic development
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA20396
+Y2  - 2026/04/24
+N2  - We develop a framework for quantifying barriers to labor force participation (LFP) and entrepreneurship faced by women in India. We find substantial barriers to LFP, and higher costs of expanding businesses through hiring workers for women entrepreneurs. However, there is one area where female entrepreneurs have an advantage: the hiring of female workers. We show that this is not driven by the sectoral composition of female employment. Consistent with this pattern, policies promoting female entrepreneurship can significantly increase female LFP even without explicitly targeting female LFP. Counterfactual simulations indicate that removing all excess barriers faced by women entrepreneurs would substantially increase the fraction of female-owned firms, female LFP, earnings, and generate substantial gains for the economy. These gains are due to higher LFP, higher real wages and profits, and reallocation: low productivity male-owned firms previously sheltered from female competition are replaced by higher productivity female-owned firms previously excluded from the economy.
+ER  - 
+
+TY  - JOUR
+T1  - Stationary Social Learning in a Changing Environment
+AU  - Levy, Raphaël
+AU  - Pęski, Marcin
+AU  - Vieille, Nicolas
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA20475
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1939
+EP  - 1966
+VL  - 92
+IS  - 6
+KW  - Social learning
+KW  - herding
+KW  - changing states
+KW  - social consensus
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA20475
+Y2  - 2026/04/24
+N2  - We consider social learning in a changing world. With changing states, societies can be responsive only if agents regularly act upon fresh information, which significantly limits the value of observational learning. When the state is close to persistent, a consensus whereby most agents choose the same action typically emerges. However, the consensus action is not perfectly correlated with the state, because societies exhibit inertia following state changes. When signals are precise enough, learning is incomplete, even if agents draw large samples of past actions, as actions then become too correlated within samples, thereby reducing informativeness and welfare.
+ER  - 
+
+TY  - JOUR
+T1  - Caution and Reference Effects
+AU  - Cerreia-Vioglio, Simone
+AU  - Dillenberger, David
+AU  - Ortoleva, Pietro
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA21748
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 2069
+EP  - 2103
+VL  - 92
+IS  - 6
+KW  - Cautious Utility
+KW  - endowment effect
+KW  - loss aversion
+KW  - certainty effect
+KW  - Non-Expected Utility
+KW  - cumulative prospect theory
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA21748
+Y2  - 2026/04/24
+N2  - We introduce Cautious Utility, a new model based on the idea that individuals are unsure of trade-offs between goods and apply caution. The model yields an endowment effect, even when gains and losses are treated symmetrically. Moreover, it implies either loss aversion or loss neutrality for risk, but in a way unrelated to the endowment effect, and it captures the certainty effect, providing a novel unified explanation of all three phenomena. Cautious Utility can help organize empirical evidence, including some that directly contradicts leading alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy-Preserving Signals
+AU  - Strack, Philipp
+AU  - Yang, Kai Hao
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA22017
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1907
+EP  - 1938
+VL  - 92
+IS  - 6
+KW  - Privacy-preserving signal
+KW  - privacy sets
+KW  - independence
+KW  - reordered quantile signal
+KW  - protected characteristics
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA22017
+Y2  - 2026/04/24
+N2  - A signal is privacy-preserving with respect to a collection of privacy sets if the posterior probability assigned to every privacy set remains unchanged conditional on any signal realization. We characterize the privacy-preserving signals for arbitrary state space and arbitrary privacy sets. A signal is privacy-preserving if and only if it is a garbling of a reordered quantile signal. Furthermore, distributions of posterior means induced by privacy-preserving signals are exactly mean-preserving contractions of that induced by the quantile signal. We discuss the economic implications of our characterization for statistical discrimination, the revelation of sensitive information in auctions and price discrimination.
+ER  - 
+
+TY  - JOUR
+T1  - Ambiguous Contracts
+AU  - Dütting, Paul
+AU  - Feldman, Michal
+AU  - Peretz, Daniel
+AU  - Samuelson, Larry
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA22687
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1967
+EP  - 1992
+VL  - 92
+IS  - 6
+KW  - Ambiguous contract
+KW  - contract design
+KW  - moral hazard
+KW  - hidden action
+KW  - principal-agent model
+KW  - ambiguity aversion
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA22687
+Y2  - 2026/04/24
+N2  - We explore the deliberate infusion of ambiguity into the design of contracts. We show that when the agent is ambiguity-averse and hence chooses an action that maximizes their minimum utility, the principal can strictly gain from using an ambiguous contract, and this gain can be arbitrarily high. We characterize the structure of optimal ambiguous contracts, showing that ambiguity drives optimal contracts toward simplicity. We also provide a characterization of ambiguity-proof classes of contracts, where the principal cannot gain by infusing ambiguity. Finally, we show that when the agent can engage in mixed actions, the advantages of ambiguous contracts disappear.
+ER  - 
+
+TY  - JOUR
+T1  - Backmatter of Econometrica Vol. 92 Iss. 6
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA926BM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - iii
+EP  - v
+VL  - 92
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA926BM
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Frontmatter of Econometrica Vol. 92 Iss. 6
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+DO  - https://doi.org/10.3982/ECTA926FM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - i
+EP  - ii
+VL  - 92
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA926FM
+Y2  - 2026/04/24
+ER  - 

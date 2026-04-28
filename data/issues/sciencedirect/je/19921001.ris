@@ -1,0 +1,313 @@
+TY  - JOUR
+T1  - Regression-based methods for using control variates in Monte Carlo experiments
+AU  - Davidson, Russell
+AU  - MacKinnon, James G.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 203
+EP  - 222
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90106-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901062
+AB  - Methods based on linear regression provide an easy way to use the information in control variates to improve the efficiency with which certain features of the distributions of estimators and test statistics are estimated in Monte Carlo experiments. We propose a new technique that allows these methods to be used when the quantities of interest are quantiles. We also propose new ways to obtain approximately optimal control variates in many cases of interest. These methods seem to work well in practice, and can greatly reduce the number of replications required to obtain a given level of accuracy.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for a unit root in time series using instrumental variable estimators with pretest data based model selection
+AU  - Hall, Alastair
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 223
+EP  - 250
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90107-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901073
+AB  - Pantula and Hall (1991) proposed instrumental variable based tests for a unit root in an ARMA(p+1, q) time series under the assumption that (p,q) are known. In this paper we derive conditions under which the Pantula-Hall tests still converge to the Dickey-Fuller distributions when (p, q) are chosen from the data. We propose a simple residual based statistic which can be used to estimate (p, q) and derive conditions under which the asymptotic distribution of the ensuing unit root tests are unaffected by this method of choosing (p, q). We also compare the local power properties of a number of unit root tests.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive estimation in time series regression models
+AU  - Steigerwald, Douglas G.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 251
+EP  - 275
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90108-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901084
+AB  - This work develops adaptive estimators for a linear regression model with serially correlated errors. We show that these results continue to hold when the order of the ARMA process characterizing the errors is unknown. The finite sample results are promising, indicating that substantial efficiency gains may be possible for samples as small as 50 observations. We use these estimators to investigate the behavior of the forward foreign exchange market.
+ER  - 
+
+TY  - JOUR
+T1  - Computing p-values for the generalized Durbin-Watson and other invariant test statistics
+AU  - Ansley, Craig F.
+AU  - Kohn, Robert
+AU  - Shively, Thomas S.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 277
+EP  - 300
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90109-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901095
+AB  - Shively, Ansley, and Kohn (1990) give an O(n) algorithm for computing the p-values of the Durbin-Watson and other invariant test statistics in time series regression. They do so by evaluating the characteristic function of a quadratic form in standard normal random variables and then numerically inverting it. In this paper we obtain a new expression for the characteristic function which simplifies the handling of the independent regressors and so is easier to evaluate. We also obtain general, easily computable bounds on the integration and truncation errors which arise in the numerical inversion of the characteristic function. Empirical results are presented on the speed and accuracy of our algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - ii
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90097-B
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290097B
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood inference on cointegration and seasonal cointegration
+AU  - Lee, Hahn Shik
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 1
+EP  - 47
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90098-C
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290098C
+AB  - Testing procedures for cointegration and seasonal cointegration are developed for nonstationary time series which have unit roots at seasonal frequencies as well as at the zero frequency. Using maximum likelihood inference, we estimate and test the hypothesis for the existence of cointegrating vectors at each frequency in the presence of unit roots at other seasonal frequencies. The basic finding is that several null hypotheses can be tested separately for each case of interest without any prior knowledge about the existence of cointegration relations at other frequencies. The asymptotic distribution theory is derived, and the critical values are generated by Monte Carlo simulations. The problems on the use of seasonally adjusted data are discussed, and an empirical example is illustrated by using Canadian data on unemployment and immigration rates.
+ER  - 
+
+TY  - JOUR
+T1  - Tests of overidentification and predeterminedness in simultaneous equation models
+AU  - Anderson, T.W.
+AU  - Kunitomo, Naoto
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 49
+EP  - 78
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90099-D
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290099D
+AB  - A set of simultaneous equations that is a part of a larger complete system is considered. One hypothesis concerning this set of equations is that it is overidentified as a block by a block of zero restrictions. Another hypothesis is that a subset of the current endogenous variables is uncorrelated with the disturbances in the set of simultaneous equations (‘econometric predeterminedness’). Likelihood ratio, Lagrange multiplier, and Wald tests are derived for the overidentification hypothesis against unrestricted alternatives, for the predeterminedness hypothesis against unrestricted alternatives, and for the predeterminedness hypothesis against overidentified alternatives. The tests are derived on the basis of normality but are asymptotically valid under very general conditions. This study generalizes and unifies many test procedures proposed previously. Some new tests are developed.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of noninvertible non-Gaussian MA(q) processes
+AU  - Ramsey, James B.
+AU  - Montenegro, Alvaro
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 301
+EP  - 320
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90110-D
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290110D
+AB  - Traditional estimation procedures, such as OLS or Box-Jenkins ARIMA modelling, which are based on second-order properties, are incapable of distinguishing among autocorrelation-equivalent MA model specifications; this ambiguity is usually resolved by imposing therestriction of invertibility. This paper presents an estimation procedure based on higher-order moments which is capable of distinguishing between these alternative specifications without recourse to the invertibility assumption. The true sequence of innovations that drives the MA process can be estimated once the correct model is determined. Also discussed is the finding that the application of OLS to a noninvertible MA process may generate residuals with an ARCH structure. Monte Carlo simulations are run to assess the statistical properties of the estimator. Some evidence of noninvertibility is presented for the prime rate and expenditure for new plant and equipment series.
+ER  - 
+
+TY  - JOUR
+T1  - Monte Carlo results on several new and existing tests for the error component model
+AU  - Baltagi, Badi H.
+AU  - Chang, Young-Jae
+AU  - Li, Qi
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 95
+EP  - 120
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90101-V
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290101V
+AB  - The Breusch-Pagan test is a popular test for testing zero variances in a random error component model. Realizing the one-sided nature of this problem, Honda (1985) derived the one-sided LM test for the one-way error component model, and suggested a ‘handy’ one-sided candidate for the two-way error component model. In this paper, we derive a new one-sided test for testing the two-way error component model based upon the results of Gourieroux, Holly, and Monfort (1982). Next, we derive a LM test for testing zero individual (time-specific) effects assuming that the other time period (individual) effects are present. This is in contrast to the usual LM test which assumes that, under the null hypothesis, both effects are absent. Exact power comparisons (whenever possible) as well as Monte Carlo experiments are employed to compare the performance of these tests with the corresponding likelihood ratio and ANOVA F tests.
+ER  - 
+
+TY  - JOUR
+T1  - Testing and estimating location vectors when the error covariance matrix is unknown
+AU  - Griffiths, William
+AU  - Judge, George
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 121
+EP  - 138
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90102-W
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290102W
+AB  - An exact test proposed by Weerahandi (1987) for testing the equality of location vectors under heteroskedasticity is compared with a commonly-used computationally simple asymptotic test. The results from a variety of sampling experiments indicate that in most instances the nominal size of Weerahandi's test (FW) overstates the probability of a Type I error and the nominal size of the asymptotic test (FA) understates the probability of a Type I error. Consequently, without size correction, the probability of a Type II error is less for FA than it is for FW. With size correction the powers of the two tests are virtually identical. Within an estimation context the risk properties of the pre-test estimators generated by FA and FW are compared, and an empirical Bayes estimator is developed within the framework of the more general seemingly unrelated regressions model. Under a squared error loss measure the empirical Bayes estimator is shown to behave in a minimax way.
+ER  - 
+
+TY  - JOUR
+T1  - Heteroskedastic cointegration
+AU  - Hansen, Bruce E.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 139
+EP  - 158
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90103-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290103X
+AB  - This paper develops an asymptotic theory of estimation and inference in ‘cointegrated’ regression models with errors displaying nonstationary variances. Least squares estimates are shown to be consistent at a T12 rate. Hypothesis testing requires the use of a robust covariance matrix estimate, in contrast to earlier work on cointegrated regressions. The inference theory is not nuisance-free, but preliminary investigations indicate that approximation by the normal distribution may be adequate in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Testing the null hypothesis of stationarity against the alternative of a unit root: How sure are we that economic time series have a unit root?
+AU  - Kwiatkowski, Denis
+AU  - Phillips, Peter C.B.
+AU  - Schmidt, Peter
+AU  - Shin, Yongcheol
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 159
+EP  - 178
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90104-Y
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290104Y
+AB  - We propose a test of the null hypothesis that an observable series is stationary around a deterministic trend. The series is expressed as the sum of deterministic trend, random walk, and stationary error, and the test is the LM test of the hypothesis that the random walk has zero variance. The asymptotic distribution of the statistic is derived under the null and under the alternative that the series is difference-stationary. Finite sample size and power are considered in a Monte Carlo experiment. The test is applied to the Nelson-Plosser data, and for many of these series the hypothesis of trend stationarity cannot be rejected.
+ER  - 
+
+TY  - JOUR
+T1  - Quasi-Aitken estimation for heteroskedasticity of unknown form
+AU  - Cragg, John G.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 179
+EP  - 201
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90105-Z
+UR  - https://www.sciencedirect.com/science/article/pii/030440769290105Z
+AB  - Two modifications to standard Aitken estimation of heteroskedastic linear regressions are suggested: (1) different criteria for calculating unknown parameters to yield more efficient estimates to the coefficients when the form of heteroskedasticity is misspecified and (2) a different way of estimating the covariance matrix of the feasible Aitken estimator. A sampling experiment provides evidence that the first adjustment could provide more efficient estimates, though not clearly more so than alternatives. The second adjustment is crucial for reliable inference, even when the form of heteroskedasticity is correctly specified.
+ER  - 
+
+TY  - JOUR
+T1  - Discrete/continuous models of consumer demand with binding nonnegativity constraints
+AU  - Chiang, Jeongwen
+AU  - Lee, Lung-Fei
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 79
+EP  - 93
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90100-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901006
+AB  - Consumers in this model are assumed to maximize utility with respect to two goods, one of which is available in several alternative forms. Decision rules of consumers are derived for two cases concerning this good: (a) either the individual chooses one of the available alternatives or (b) the individual chooses to altogether forgo its consumption. Choice probabilities, the demand equations, and the zero-consumption probability are derived and reflect the interrelatedness of the discrete/continuous choices and the binding nonnegativity constraint. We show that the traditional discrete/continuous choice models yield estimates of demand which are biased and choice probabilities which are also biased, except in a special circumstance.
+ER  - 
+
+TY  - JOUR
+T1  - Properties of ordinary least squares estimators in regression models with nonspherical disturbances
+AU  - Fiebig, Denzil G.
+AU  - McAleer, Michael
+AU  - Bartels, Robert
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 321
+EP  - 334
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90111-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901114
+AB  - A general discussion is presented of the properties of the OLS estimator in regression models where the disturbances do not have a scalar identity covariance matrix. Several new and interesting characterizations are provided together with a synthesis of existing results. A distinguishing feature of the paper is the unified treatment of the issues of efficiency and inference. The theoretical material is illustrated by examples covering a wide range of models of interest to applied econometricians.
+ER  - 
+
+TY  - JOUR
+T1  - An econometric approach to the construction of generalized Theil-Tornqvist indices for multilateral comparisons
+AU  - Selvanathan, E.A.
+AU  - Prasada Rao, D.S.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 335
+EP  - 346
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90112-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901125
+AB  - The Theil-Tornqvist (TT) index is a well-known index for binary comparisons of cost-of-living and for comparisons of prices, real output and productivity. Caves, Christensen, and Diewert (CCD) propose a multilateral method based on a simple averaging procedure that is consistent and base-invariant. The aim of this paper is to derive the TT, CCD, and a generalized CCD multilateral index (which takes into account a measure of economic distance between the different price and quantity vectors) using an econometric model. The problem of bias in the estimation of the TT index in its multiplicative form is considered and a class of UMVUEs of the indices and their standard errors are derived. A numerical illustration using the price and quantity data for sixty countries from the Phase IV of the International Comparisons Project is also included.
+ER  - 
+
+TY  - JOUR
+T1  - Overdispersion tests for truncated Poisson regression models
+AU  - Gurmu, Shiferaw
+AU  - Trivedi, Pravin K.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 347
+EP  - 370
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90113-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901136
+AB  - Score tests of extra-Poisson variation in left- or right-truncated Poisson regression models are derived for alternatives in the left- or right-truncated negative binomial family and for arbitrary truncation points. Using asymptotic expansions of the score function, adjustment factors are derived for the tests which are expected to improve their small sample properties. Overdispersion tests for the untruncated Poisson model in the econometric and statistical literature are special cases of the tests derived in this paper. A Monte Carlo investigation of the new tests when data are truncated at zero show that the effect of truncation produces a significant size distortion and power reduction, especially in small samples, but also that the corrections suggested by asymptotic expansions improve the performance of the tests.
+ER  - 
+
+TY  - JOUR
+T1  - On the finite sample behavior of adaptive estimators
+AU  - Steigerwald, Douglas G.
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 371
+EP  - 400
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90114-7
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901147
+AB  - We explore the finite sample performance of adaptive estimators in linear time series regression models. Our results show that for samples of only 50 observations, the 90 percent confidence interval of the adaptive estimator is 20 to 50 percent smaller than the corresponding interval for its GLS counterpart across a range of symmetrical distributions. When the assumption of symmetry is relaxed smaller gains are observed. These results are sensitive to the degree of departure from normality and the precision of the measurement exercise. We further observe that the estimated standard errors are biased downward.
+ER  - 
+
+TY  - JOUR
+T1  - Index
+JO  - Journal of Econometrics
+VL  - 54
+IS  - 1
+SP  - 401
+PY  - 1992
+DA  - 1992/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(92)90115-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407692901158
+ER  - 

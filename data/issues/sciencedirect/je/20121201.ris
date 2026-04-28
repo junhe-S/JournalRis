@@ -1,0 +1,286 @@
+TY  - JOUR
+T1  - On some properties of Markov chain Monte Carlo simulation methods based on the particle filter
+AU  - Pitt, Michael K.
+AU  - Silva, Ralph dos Santos
+AU  - Giordani, Paolo
+AU  - Kohn, Robert
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 134
+EP  - 151
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001510
+KW  - Auxiliary variables
+KW  - Adapted filtering
+KW  - Bayesian inference
+KW  - Simulated likelihood
+AB  - Andrieu et al. (2010) prove that Markov chain Monte Carlo samplers still converge to the correct posterior distribution of the model parameters when the likelihood estimated by the particle filter (with a finite number of particles) is used instead of the likelihood. A critical issue for performance is the choice of the number of particles. We add the following contributions. First, we provide analytically derived, practical guidelines on the optimal number of particles to use. Second, we show that a fully adapted auxiliary particle filter is unbiased and can drastically decrease computing time compared to a standard particle filter. Third, we introduce a new estimator of the likelihood based on the output of the auxiliary particle filter and use the framework of Del Moral (2004) to provide a direct proof of the unbiasedness of the estimator. Fourth, we show that the results in the article apply more generally to Markov chain Monte Carlo sampling schemes with the likelihood estimated in an unbiased manner.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian model averaging in the instrumental variable regression model
+AU  - Koop, Gary
+AU  - Leon-Gonzalez, Roberto
+AU  - Strachan, Rodney
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 237
+EP  - 250
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001522
+KW  - Bayesian
+KW  - Endogeneity
+KW  - Simultaneous equations
+KW  - Reversible jump Markov chain Monte Carlo
+AB  - This paper considers the instrumental variable regression model when there is uncertainty about the set of instruments, exogeneity restrictions, the validity of identifying restrictions and the set of exogenous regressors. This uncertainty can result in a huge number of models. To avoid statistical problems associated with standard model selection procedures, we develop a reversible jump Markov chain Monte Carlo algorithm that allows us to do Bayesian model averaging. The algorithm is very flexible and can be easily adapted to analyze any of the different priors that have been proposed in the Bayesian instrumental variables literature. We show how to calculate the probability of any relevant restriction such as exogeneity or over-identification. We illustrate our methods in a returns-to-schooling application.
+ER  - 
+
+TY  - JOUR
+T1  - Probabilistic forecasts of volatility and its risk premia
+AU  - Maneesoonthorn, Worapree
+AU  - Martin, Gael M.
+AU  - Forbes, Catherine S.
+AU  - Grose, Simone D.
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 217
+EP  - 236
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001534
+AB  - The object of this paper is to produce distributional forecasts of asset price volatility and its associated risk premia using a non-linear state space approach. Option and spot market information on the latent variance process is captured by using dual ‘model-free’ variance measures to define a bivariate observation equation in the state space model. The premium for variance diffusive risk is defined as linear in the latent variance (in the usual fashion) whilst the premium for variance jump risk is specified as a conditionally deterministic dynamic process, driven by a function of past measurements. The inferential approach adopted is Bayesian, implemented via a Markov chain Monte Carlo algorithm that caters for the multiple sources of non-linearity in the model and for the bivariate measure. The method is applied to spot and option price data on the S&P500 index from 1999 to 2008, with conclusions drawn about investors’ required compensation for variance risk during the recent financial turmoil. The accuracy of the probabilistic forecasts of the observable variance measures is demonstrated, and compared with that of forecasts yielded by alternative methods. To illustrate the benefits of the approach, it is used to produce forecasts of prices of derivatives on volatility itself. In addition, the posterior distribution is augmented by information on daily returns to produce value at risk predictions. Linking the variance risk premia to the risk aversion parameter in a representative agent model, probabilistic forecasts of (approximate) relative risk aversion are also produced.
+ER  - 
+
+TY  - JOUR
+T1  - Variable selection and functional form uncertainty in cross-country growth regressions
+AU  - Salimans, Tim
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 267
+EP  - 280
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001546
+KW  - Growth regression
+KW  - Variable selection
+KW  - Model uncertainty
+KW  - Model averaging
+KW  - Semi-parametric Bayes
+KW  - Gaussian process prior
+KW  - MCMC
+AB  - Regression analyses of cross-country economic growth data are complicated by two main forms of model uncertainty: the uncertainty in selecting explanatory variables and the uncertainty in specifying the functional form of the regression function. Most discussions in the literature address these problems independently, yet a joint treatment is essential. We present a new framework that makes such a joint treatment possible, using flexible nonlinear models specified by Gaussian process priors and addressing the variable selection problem by means of Bayesian model averaging. Using this framework, we extend the linear model to allow for parameter heterogeneity of the type suggested by new growth theory, while taking into account the uncertainty in selecting explanatory variables. Controlling for variable selection uncertainty, we confirm the evidence in favor of parameter heterogeneity presented in several earlier studies. However, controlling for functional form uncertainty, we find that the effects of many of the explanatory variables identified in the literature are not robust across countries and variable selections.
+ER  - 
+
+TY  - JOUR
+T1  - Mixtures of g-priors for Bayesian model averaging with economic applications
+AU  - Ley, Eduardo
+AU  - Steel, Mark F.J.
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 251
+EP  - 266
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761200156X
+KW  - Complexity penalty
+KW  - Consistency
+KW  - Model uncertainty
+KW  - Posterior odds
+KW  - Prediction
+KW  - Robustness
+AB  - We examine the issue of variable selection in linear regression modelling, where we have a potentially large amount of possible covariates and economic theory offers insufficient guidance on how to select the appropriate subset. In this context, Bayesian Model Averaging presents a formal Bayesian solution to dealing with model uncertainty. Our main interest here is the effect of the prior on the results, such as posterior inclusion probabilities of regressors and predictive performance. We combine a Binomial-Beta prior on model size with a g-prior on the coefficients of each model. In addition, we assign a hyperprior to g, as the choice of g has been found to have a large impact on the results. For the prior on g, we examine the Zellner-Siow prior and a class of Beta shrinkage priors, which covers most choices in the recent literature. We propose a benchmark Beta prior, inspired by earlier findings with fixed g, and show it leads to consistent model selection. The effect of this prior structure on penalties for complexity and lack of fit is described in some detail. Inference is conducted through a Markov chain Monte Carlo sampler over model space and g. We examine the performance of the various priors in the context of simulated and real data. For the latter, we consider two important applications in economics, namely cross-country growth regression and returns to schooling. Recommendations to applied users are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Confronting model misspecification in macroeconomics
+AU  - Waggoner, Daniel F.
+AU  - Zha, Tao
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 167
+EP  - 184
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001601
+KW  - Markov-switching mixture
+KW  - Heterogenous models
+KW  - Regime-dependent weights
+KW  - Model uncertainty
+KW  - Parameter uncertainty
+KW  - Impulse responses
+KW  - Policy analysis
+AB  - We estimate a Markov-switching mixture of two familiar macroeconomic models: A richly parameterized DSGE model and a corresponding BVAR model. We show that the Markov-switching mixture model dominates both individual models and improves the fit considerably. Our estimation indicates that the DSGE model plays an important role only in the late 1970s and the early 1980s. We show how to use the mixture model as a data filter for estimation of the DSGE model when the BVAR model is not identified. Moreover, we show how to compute the impulse responses to the same type of shock shared by the DSGE and BVAR models when the shock is identified in the BVAR model. Our exercises demonstrate the importance of integrating model uncertainty and parameter uncertainty to address potential model misspecification in macroeconomics.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating DSGE model forecasts of comovements
+AU  - Herbst, Edward
+AU  - Schorfheide, Frank
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 152
+EP  - 166
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001558
+KW  - Bayesian methods
+KW  - DSGE models
+KW  - Forecast evaluation
+KW  - Macroeconomic forecasting
+AB  - This paper develops and applies tools to assess multivariate aspects of Bayesian Dynamic Stochastic General Equilibrium (DSGE) model forecasts and their ability to predict comovements among key macroeconomic variables. We construct posterior predictive checks to evaluate conditional and unconditional density forecasts, in addition to checks for root-mean-squared errors and event probabilities associated with these forecasts. The checks are implemented on a three-equation DSGE model as well as the Smets and Wouters (2007) model using real-time data. We find that the additional features incorporated into the Smets–Wouters model do not lead to a uniform improvement in the quality of density forecasts and prediction of comovements of output, inflation, and interest rates.
+ER  - 
+
+TY  - JOUR
+T1  - Introduction for the annals issue of the Journal of Econometrics on “Bayesian Models, Methods and Applications”
+AU  - Geweke, John
+AU  - Koop, Gary
+AU  - Paap, Richard
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 99
+EP  - 100
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001492
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - IFC
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00223-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612002230
+ER  - 
+
+TY  - JOUR
+T1  - A Bayesian analysis of payday loans and their regulation
+AU  - Li, Mingliang
+AU  - Mumford, Kevin J.
+AU  - Tobias, Justin L.
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 205
+EP  - 216
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001571
+AB  - Payday loans are small short-term loans that a borrower must repay or renew on his/her next payday. In states where payday lending is legal, many terms of these loans are regulated, ostensibly to protect the consumer from excessively burdensome lending practices. The existing literature on payday loans has primarily focused on estimating causal effects of access to those loans, including work by Morse (2011), Skiba and Tobacman (2009) and Melzer (2011). Using individual-level administrative records on borrowers in 38 states from an online payday lender, this paper departs from past work by estimating how payday loan regulation affects borrower behavior, specifically how much they choose to borrow, how many times they choose to renew the loan, and whether or not they choose to default. State-level variation in maximum loan sizes and renewal caps are used as exclusion restrictions for identification purposes. We pay particular attention to the calculation of posterior predictive distributions that summarize the sensitivities of borrower behavior to various changes in state-level policies.
+ER  - 
+
+TY  - JOUR
+T1  - A class of adaptive importance sampling weighted EM algorithms for efficient and robust posterior and predictive simulation
+AU  - Hoogerheide, Lennart
+AU  - Opschoor, Anne
+AU  - van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 101
+EP  - 120
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001583
+KW  - Mixture of Student- distributions
+KW  - Importance sampling
+KW  - Kullback–Leibler divergence
+KW  - Expectation Maximization
+KW  - Metropolis–Hastings algorithm
+KW  - Predictive likelihood
+KW  - DCC GARCH
+KW  - Mixture GARCH
+KW  - Instrumental variables
+AB  - A class of adaptive sampling methods is introduced for efficient posterior and predictive simulation. The proposed methods are robust in the sense that they can handle target distributions that exhibit non-elliptical shapes such as multimodality and skewness. The basic method makes use of sequences of importance weighted Expectation Maximization steps in order to efficiently construct a mixture of Student-t densities that approximates accurately the target distribution–typically a posterior distribution, of which we only require a kernel–in the sense that the Kullback–Leibler divergence between target and mixture is minimized. We label this approach Mixture of t by Importance Sampling weighted Expectation Maximization (MitISEM). The constructed mixture is used as a candidate density for quick and reliable application of either Importance Sampling (IS) or the Metropolis–Hastings (MH) method. We also introduce three extensions of the basic MitISEM approach. First, we propose a method for applying MitISEM in a sequential manner, so that the candidate distribution for posterior simulation is cleverly updated when new data become available. Our results show that the computational effort reduces enormously, while the quality of the approximation remains almost unchanged. This sequential approach can be combined with a tempering approach, which facilitates the simulation from densities with multiple modes that are far apart. Second, we introduce a permutation-augmented MitISEM approach. This is useful for importance or Metropolis–Hastings sampling from posterior distributions in mixture models without the requirement of imposing identification restrictions on the model’s mixture regimes’ parameters. Third, we propose a partial MitISEM approach, which aims at approximating the joint distribution by estimating a product of marginal and conditional distributions. This division can substantially reduce the dimension of the approximation problem, which facilitates the application of adaptive importance sampling for posterior simulation in more complex models with larger numbers of parameters. Our results indicate that the proposed methods can substantially reduce the computational burden in econometric models like DCC or mixture GARCH models and a mixture instrumental variables model.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized smooth finite mixtures
+AU  - Villani, Mattias
+AU  - Kohn, Robert
+AU  - Nott, David J.
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 121
+EP  - 133
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001595
+KW  - Bayesian inference
+KW  - Conditional distribution
+KW  - GLM
+KW  - Markov chain Monte Carlo
+KW  - Mixture of experts
+KW  - Variable selection
+AB  - We propose a general class of models and a unified Bayesian inference methodology for flexibly estimating the density of a response variable conditional on a possibly high-dimensional set of covariates. Our model is a finite mixture of component models with covariate-dependent mixing weights. The component densities can belong to any parametric family, with each model parameter being a deterministic function of covariates through a link function. Our MCMC methodology allows for Bayesian variable selection among the covariates in the mixture components and in the mixing weights. The model’s parameterization and variable selection prior are chosen to prevent overfitting. We use simulated and real data sets to illustrate the methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric Bayesian modelling of monotone preferences for discrete choice experiments
+AU  - Geweke, John
+JO  - Journal of Econometrics
+VL  - 171
+IS  - 2
+SP  - 185
+EP  - 204
+PY  - 2012
+DA  - 2012/12/01/
+T2  - Bayesian Models, Methods and Applications
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612001509
+KW  - Demand
+KW  - Dirichlet prior distribution
+KW  - Markov chain Monte Carlo simulation
+KW  - Willingness to pay
+AB  - Discrete choice experiments are widely used to learn about the distribution of individual preferences for product attributes. Such experiments are often designed and conducted deliberately for the purpose of designing new products. There is a long-standing literature on nonparametric and Bayesian modelling of preferences for the study of consumer choice when there is a market for each product, but this work does not apply when such markets fail to exist as is the case with most product attributes. This paper takes up the common case in which attributes can be quantified and preferences over these attributes are monotone. It shows that monotonicity is the only shape constraint appropriate for a utility function in these circumstances. The paper models components of utility using a Dirichlet prior distribution and demonstrates that all monotone nondecreasing utility functions are supported by the prior. It develops a Markov chain Monte Carlo algorithm for posterior simulation that is reliable and practical given the number of attributes, choices and sample sizes characteristic of discrete choice experiments. The paper uses the algorithm to demonstrate the flexibility of the model in capturing heterogeneous preferences and applies it to a discrete choice experiment that elicits preferences for different auto insurance policies.
+ER  - 

@@ -1,0 +1,158 @@
+TY  - JOUR
+T1  - A specification test for the propensity score using its distribution conditional on participation
+AU  - Shaikh, Azeem M.
+AU  - Simonsen, Marianne
+AU  - Vytlacil, Edward J.
+AU  - Yildiz, Nese
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - 33
+EP  - 46
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.01.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000499
+KW  - Propensity score matching
+KW  - Specification test
+KW  - Nonparametric alternative
+AB  - Propensity score matching has become a popular method for the estimation of average treatment effects. In empirical applications, researchers almost always impose a parametric model for the propensity score. This practice raises the possibility that the model for the propensity score is misspecified and therefore the propensity score matching estimator of the average treatment effect may be inconsistent. We show that the common practice of calculating estimates of the densities of the propensity score conditional on the participation decision provides a means for examining whether the propensity score is misspecified. In particular, we derive a restriction between the density of the propensity score among participants and the density among nonparticipants. We show that this restriction between the two conditional densities is equivalent to a particular orthogonality restriction and derive a formal test based upon it. The resulting test is shown via a simulation study to have dramatically greater power than competing tests for many alternatives. The principal disadvantage of this approach is loss of power against some alternatives.
+ER  - 
+
+TY  - JOUR
+T1  - Optimally combining censored and uncensored datasets
+AU  - Devereux, Paul J.
+AU  - Tripathi, Gautam
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - 17
+EP  - 32
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000852
+KW  - Censoring
+KW  - Combining datasets
+KW  - Generalized method of moments
+AB  - We develop a simple semiparametric framework for combining censored and uncensored samples so that the resulting estimators are consistent, asymptotically normal, and use all information optimally. No nonparametric smoothing is required to implement our estimators. To illustrate our results in an empirical setting, we show how to estimate the effect of changes in compulsory schooling laws on age at first marriage, a variable that is censored for younger individuals. Results from a small simulation experiment suggest that the estimator proposed in this paper can work very well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating deterministic trends with an integrated or stationary noise component
+AU  - Perron, Pierre
+AU  - Yabu, Tomoyoshi
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - 56
+EP  - 69
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000712
+KW  - Linear trend
+KW  - Unit root
+KW  - Median-unbiased estimates
+KW  - GLS procedure
+KW  - Super efficient estimates
+AB  - We propose a test for the slope of a trend function when it is a priori unknown whether the series is trend-stationary or contains an autoregressive unit root. The procedure is based on a Feasible Quasi Generalized Least Squares method from an AR(1) specification with parameter α, the sum of the autoregressive coefficients. The estimate of α is the OLS estimate obtained from an autoregression applied to detrended data and is truncated to take a value 1 whenever the estimate is in a T−δ neighborhood of 1. This makes the estimate “super-efficient” when α=1 and implies that inference on the slope parameter can be performed using the standard Normal distribution whether α=1 or |α|<1. Theoretical arguments and simulation evidence show that δ=1/2 is the appropriate choice. Simulations show that our procedure has better size and power properties than the tests proposed by [Bunzel, H., Vogelsang, T.J., 2005. Powerful trend function tests that are robust to strong serial correlation with an application to the Prebish–Singer hypothesis. Journal of Business and Economic Statistics 23, 381–394] and [Harvey, D.I., Leybourne, S.J., Taylor, A.M.R., 2007. A simple, robust and powerful test of the trend hypothesis. Journal of Econometrics 141, 1302–1330].
+ER  - 
+
+TY  - JOUR
+T1  - The optimal choice of moments in dynamic panel data models
+AU  - Okui, Ryo
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - 1
+EP  - 16
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001109
+KW  - GMM
+KW  - Dynamic panel data model
+KW  - Higher-order expansion
+KW  - Moment selection
+AB  - This paper derives an approximation of the mean square error (MSE) of the GMM estimator in dynamic panel data models. The approximation is based on higher-order asymptotic theory under double asymptotics. While first-order theory under double asymptotics provides information about the bias, it does not provide enough information about the variance of the estimator. Higher-order theory enables us to obtain information about the variance. From this result, a procedure for choosing the number of instruments is proposed. The simulations confirm that the proposed procedure improves the precision of the estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Minimax regret treatment choice with finite samples
+AU  - Stoye, Jörg
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - 70
+EP  - 81
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.02.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000724
+KW  - Finite sample theory
+KW  - Statistical decision theory
+KW  - Minimax regret
+KW  - Treatment response
+KW  - Treatment choice
+AB  - This paper applies the minimax regret criterion to choice between two treatments conditional on observation of a finite sample. The analysis is based on exact small sample regret and does not use asymptotic approximations or finite-sample bounds. Core results are: (i) Minimax regret treatment rules are well approximated by empirical success rules in many cases, but differ from them significantly–both in terms of how the rules look and in terms of maximal regret incurred–for small sample sizes and certain sample designs. (ii) Absent prior cross-covariate restrictions on treatment outcomes, they prescribe inference that is completely separate across covariates, leading to no-data rules as the support of a covariate grows. I conclude by offering an assessment of these results.
+ER  - 
+
+TY  - JOUR
+T1  - GMM redundancy results for general missing data problems
+AU  - Prokhorov, Artem
+AU  - Schmidt, Peter
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - 47
+EP  - 55
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000700
+KW  - Generalized method of moments
+KW  - Inverse probability weighting
+KW  - Missing at random
+KW  - Selectivity
+AB  - We consider questions of efficiency and redundancy in the GMM estimation problem in which we have two sets of moment conditions, where two sets of parameters enter into one set of moment conditions, while only one set of parameters enters into the other. We then apply these results to a selectivity problem in which the first set of moment conditions is for the model of interest, and the second set of moment conditions is for the selection process. We use these results to explain the counterintuitive result in the literature that, under an ignorability assumption that justifies GMM with weighted moment conditions, weighting using estimated probabilities of selection is better than weighting using the true probabilities. We also consider estimation under an exogeneity of selection assumption such that both the unweighted and the weighted moment conditions are valid, and we show that when weighting is not needed for consistency, it is also not useful for efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - IFC
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(09)00130-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001304
+ER  - 
+
+TY  - JOUR
+T1  - Local structural quantile effects in a model with a nonseparable control variable
+AU  - Jun, Sung Jae
+JO  - Journal of Econometrics
+VL  - 151
+IS  - 1
+SP  - 82
+EP  - 97
+PY  - 2009
+DA  - 2009/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.02.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609000736
+KW  - Triangular models
+KW  - Local instruments
+KW  - Control variables
+KW  - Quantile regression
+AB  - I consider a semiparametric version of the nonseparable triangular model of Chesher [Chesher, A., 2003. Identification in nonseparable models. Econometrica 71, 1405–1441]. The proposed model is linear in coefficients, where the coefficients are unknown functions of unobserved latent variables. Using a control variable idea and quantile regression methods, I propose a simple two-step estimator for the coefficients evaluated at particular values of the latent variables. Under the condition that the instruments are locally relevant (i.e. they affect a particular conditional quantile of interest of the endogenous variable) I establish consistency and asymptotic normality. Simulation experiments confirm the theoretical results.
+ER  - 

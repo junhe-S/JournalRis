@@ -1,0 +1,174 @@
+TY  - JOUR
+T1  - Identification and estimation with contaminated data: When do covariate data sharpen inference?
+AU  - Mullin, Charles H.
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 253
+EP  - 272
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000540
+KW  - Robust estimation
+KW  - Contaminated sampling
+KW  - Corrupted sampling
+KW  - Bounds
+KW  - Identification
+AB  - Contaminated or corrupted data typically require strong assumptions to identify parameters of interest. However, weaker assumptions often identify bounds on these parameters. This paper addresses when covariate data—variables in addition to the one of interest—tighten these bounds. First, we construct the identification region for the distribution of the variable of interest. This region demonstrates that covariate data are useless without knowledge about the distribution of erroneous data conditional on the covariates. Then, we develop bounds both on probabilities and on parameters of this distribution that respect stochastic dominance.
+ER  - 
+
+TY  - JOUR
+T1  - On the selection of forecasting models
+AU  - Inoue, Atsushi
+AU  - Kilian, Lutz
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 273
+EP  - 306
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000771
+KW  - Model selection
+KW  - Forecast accuracy
+KW  - Information criteria
+KW  - Simulated out-of-sample method
+KW  - Predictive least squares
+AB  - It is standard in applied work to select forecasting models by ranking candidate models by their prediction mean squared error (PMSE) in simulated out-of-sample (SOOS) forecasts. Alternatively, forecast models may be selected using information criteria (IC). We compare the asymptotic and finite-sample properties of these methods in terms of their ability to mimimize the true out-of-sample PMSE, allowing for possible misspecification of the forecast models under consideration. We show that under suitable conditions the IC method will be consistent for the best approximating model among the candidate models. In contrast, under standard assumptions the SOOS method, whether based on recursive or rolling regressions, will select overparameterized models with positive probability, resulting in excessive finite-sample PMSEs.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of copula-based semiparametric time series models
+AU  - Chen, Xiaohong
+AU  - Fan, Yanqin
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 307
+EP  - 335
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000783
+KW  - Copula
+KW  - Nonlinear Markov models
+KW  - Semiparametric estimation
+KW  - Conditional moment
+KW  - Conditional quantile
+AB  - This paper studies the estimation of a class of copula-based semiparametric stationary Markov models. These models are characterized by nonparametric marginal distributions and parametric copula functions, while the copulas capture all the scale-free temporal dependence of the processes. Simple estimators of the marginal distribution and the copula parameter are provided, and their asymptotic properties are established under easily verifiable conditions. These results are used to obtain root-n consistent and asymptotically normal estimators of important features of the transition distribution such as the (nonlinear) conditional moments and conditional quantiles. The semiparametric conditional quantile estimators are automatically monotonic across quantiles, which is attractive for portfolio conditional value-at-risk calculations.
+ER  - 
+
+TY  - JOUR
+T1  - Forecasting the term structure of government bond yields
+AU  - Diebold, Francis X.
+AU  - Li, Canlin
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 337
+EP  - 364
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000795
+KW  - Term structure
+KW  - Yield curve
+KW  - Factor model
+KW  - Nelson–Siegel curve
+AB  - Despite powerful advances in yield curve modeling in the last 20 years, comparatively little attention has been paid to the key practical problem of forecasting the yield curve. In this paper we do so. We use neither the no-arbitrage approach nor the equilibrium approach. Instead, we use variations on the Nelson–Siegel exponential components framework to model the entire yield curve, period-by-period, as a three-dimensional parameter evolving dynamically. We show that the three time-varying parameters may be interpreted as factors corresponding to level, slope and curvature, and that they may be estimated with high efficiency. We propose and estimate autoregressive models for the factors, and we show that our models are consistent with a variety of stylized facts regarding the yield curve. We use our models to produce term-structure forecasts at both short and long horizons, with encouraging results. In particular, our forecasts appear much more accurate at long horizons than various standard benchmark forecasts.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - CO2
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(06)00003-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000030
+ER  - 
+
+TY  - JOUR
+T1  - A semiparametric GARCH model for foreign exchange volatility
+AU  - Yang, Lijian
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 365
+EP  - 384
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2005.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000801
+KW  - Equivalent kernel
+KW  - Geometric mixing
+KW  - Goodness-of-fit
+KW  - Local polynomial
+AB  - A semiparametric extension of the GJR model (Glosten et al., 1993. Journal of Finance 48, 1779–1801) is proposed for the volatility of foreign exchange returns. Under reasonable assumptions, asymptotic normal distributions are established for the estimators of the model, corroborated by simulation results. When applied to the Deutsche Mark/US Dollar and the Deutsche Mark/British Pound daily returns data, the semiparametric volatility model outperforms the GJR model as well as the more commonly used GARCH(1,1) model in terms of goodness-of-fit, and forecasting, by correcting overgrowth in volatility.
+ER  - 
+
+TY  - JOUR
+T1  - Author index to volume 130
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 385
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(06)00006-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000066
+ER  - 
+
+TY  - JOUR
+T1  - Local Whittle estimation of fractional integration and some of its variants
+AU  - Shimotsu, Katsumi
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 209
+EP  - 233
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000527
+KW  - Discrete Fourier transform
+KW  - Fractional integration
+KW  - Long memory
+KW  - Semiparametric estimation
+KW  - Whittle likelihood
+AB  - Asymptotic properties of the local Whittle estimator are studied under a model of fractional integration that provides a uniform representation of the data for any value of d. For d∈(-12,12), the estimator is shown to be consistent and asymptotically normally distributed. For d∈[-1,-12), the estimator converges either to the true parameter value or to zero, depending on the number of frequencies used in estimation. This behavior manifests itself as a positive bias in finite samples and the inconsistency affects the asymptotic properties of the ‘differencing/adding-one-back’ estimator that has been suggested for use. The relationship between several variants of the LW estimator are discussed. It is shown that the LW estimator, the ‘differencing/adding-one-back’ estimator and the modified LW estimator (Cowles Foundation Discussion Paper no. 1265, Yale University, 2000) can all be viewed as approximations to an exact LW estimator (Cowles Foundation Discussion Paper no. 1367, Yale University, 2003) that uses an exact expression for the model in frequency domain form. The approximations are valid over specific domains of d, like the stationary region (-12,12) and the nonstationary region (12,32), whereas the exact LW estimator is consistent and asymptotically N(0,14) for all values of d.
+ER  - 
+
+TY  - JOUR
+T1  - A semi-parametric estimator for censored selection models with endogeneity
+AU  - Lee, Myoung-jae
+AU  - Vella, Francis
+JO  - Journal of Econometrics
+VL  - 130
+IS  - 2
+SP  - 235
+EP  - 252
+PY  - 2006
+DA  - 2006/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605000539
+KW  - Censored model
+KW  - Selection problem
+KW  - Type 3 tobit
+KW  - Panel data
+AB  - We propose a semi-parametric least-squares estimator for a censored-selection (type 3 tobit) model under the mean independence of the outcome equation error u from the regressors given the selection indicator and its error term ɛ. This assumption is relatively weak in comparison to alternative estimators for this model and allows certain unknown forms of heteroskedasticity, an asymmetric error distribution, and an arbitrary relationship between the u and ɛ. The estimator requires only one-dimensional smoothing on the estimate of ɛ. We generalize the estimator to allow for an endogenous regressor whose equation contains an error ω related to u and discuss how this latter procedure can be adapted to two-wave panel censored-selection models with double selection indicators. In general, each additional endogeneity problem can be controlled for with an extra dimensional smoothing on the residual for the “endogeneity-origin” error term. Our proposed estimators are N-consistent and asymptotically normal. An empirical example based on estimating a wage equation for Australian female youth is provided to illustrate our approach.
+ER  - 

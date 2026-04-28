@@ -1,0 +1,202 @@
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105798
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00144-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001441
+ER  - 
+
+TY  - JOUR
+T1  - Better the devil you know: Improved forecasts from imperfect models
+AU  - Oh, Dong Hwan
+AU  - Patton, Andrew J.
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105767
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105767
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001131
+KW  - Model misspecification
+KW  - Local maximum likelihood
+KW  - Volatility forecasting
+AB  - Many important economic decisions are based on a parametric forecasting model that is known to be good but imperfect. We propose methods to improve out-of-sample forecasts from a misspecified model by estimating its parameters using a form of local M estimation (thereby nesting local OLS and local MLE), drawing on information from a state variable that is correlated with the misspecification of the model. We theoretically consider the forecast environments in which our approach is likely to offer improvements over standard methods, and we find significant forecast improvements from applying the proposed method across four distinct empirical analyses including volatility forecasting, risk management, and yield curve forecasting.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation of a spatial autoregressive model for origin–destination flow variables
+AU  - Jeong, Hanbat
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105790
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105790
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001362
+KW  - Origin–destination flow
+KW  - Spatial dependence
+KW  - Hurdle structure
+KW  - Fixed effects
+KW  - Maximum likelihood estimation
+KW  - U.S. migration flow
+AB  - We introduce a spatial autoregressive hurdle model for nonnegative origin–destination flows yN,ij. The model incorporates a hurdle formulation to elucidate the different data-generating processes for zero and positive flows. Our model specifies three types of spatial influences on flow yN,ij that quantify the impact of third-party characteristics on the flow yN,ij: (i) the effect of outflows from origin j, (ii) the effect of inflows to destination i, and (iii) the effect of flows among third-party units. We account for two-way fixed effects in the model to capture the inherent characteristics of both origins and destinations. We employ maximum likelihood estimation to estimate the model parameters. To address statistical inference issues, we analyze the asymptotic properties of the ML estimator using the spatial near-epoch dependence concept. We confirm the presence of an asymptotic bias that arises from the fixed effects, whose dimensions grow with the sample size. Applying our model to migration flows among U.S. states, we estimate significant spatial influences, particularly from inflows to destinations and outflows from origins. Our findings support the notion that zero and positive flow formations are distinct. Consequently, our proposed model outperforms the spatial autoregressive Tobit specification for origin–destination flows, thus providing a better fit to the data.
+ER  - 
+
+TY  - JOUR
+T1  - A simple specification test for models with many conditional moment inequalities
+AU  - Marcoux, Mathieu
+AU  - Russell, Thomas M.
+AU  - Wan, Yuanyuan
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105788
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105788
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001349
+KW  - Misspecification
+KW  - Moment inequality
+KW  - Partial identification
+KW  - Specification testing
+AB  - This paper proposes a simple specification test for partially identified models with a large or possibly uncountably infinite number of conditional moment (in)equalities. The approach is valid under weak assumptions, allowing for both weak identification and non-differentiable moment conditions. Computational simplifications are obtained by reusing certain expensive-to-compute components of the test statistic when constructing the critical values. Because of the weak assumptions, the procedure faces a new set of interesting theoretical issues which we show can be addressed by an unconventional sample-splitting procedure that runs multiple tests of the same null hypothesis. The resulting specification test controls size uniformly over a large class of data generating processes, has power tending to 1 for fixed alternatives, and has power against certain local alternatives which we characterize. Finally, the testing procedure is demonstrated in three simulation exercises.
+ER  - 
+
+TY  - JOUR
+T1  - Prewhitened long-run variance estimation robust to nonstationarity
+AU  - Casini, Alessandro
+AU  - Perron, Pierre
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105794
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105794
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001404
+KW  - Asymptotic minimax MSE
+KW  - Data-dependent bandwidths
+KW  - HAC
+KW  - HAR
+KW  - Long-run variance
+KW  - Nonstationarity
+KW  - Prewhitening
+KW  - Spectral density
+AB  - We introduce a nonparametric nonlinear VAR prewhitened long-run variance (LRV) estimator for the construction of standard errors robust to autocorrelation and heteroskedasticity that can be used for hypothesis testing in a variety of contexts including the linear regression model. Existing methods either are theoretically valid only under stationarity and have poor finite-sample properties under nonstationarity (i.e., fixed-b methods), or are theoretically valid under the null hypothesis but lead to tests that are not consistent under nonstationary alternative hypothesis (i.e., both fixed-b and traditional HAC estimators). The proposed estimator accounts explicitly for nonstationarity, unlike previous prewhitened procedures which are known to be unreliable, and leads to tests with accurate null rejection rates and good monotonic power. We also establish MSE bounds for LRV estimation that are sharper than previously established and use them to determine the data-dependent bandwidths.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling long cycles
+AU  - Natasha Kang, Da
+AU  - Marmer, Vadim
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105751
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105751
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000976
+KW  - Stochastic cycles
+KW  - Autoregressive processes
+KW  - Local-to-unity asymptotics
+KW  - Confidence sets
+KW  - Business cycle
+KW  - Financial cycle
+AB  - Recurrent boom-and-bust cycles are a salient feature of economic and financial history. Cycles found in the data are stochastic, often highly persistent, and span substantial fractions of the sample size. We refer to such cycles as “long”. In this paper, we develop a novel approach to modeling cyclical behavior specifically designed to capture long cycles. We show that existing inferential procedures may produce misleading results in the presence of long cycles and propose a new econometric procedure for the inference on the cycle length. Our procedure is asymptotically valid regardless of the cycle length. We apply our methodology to a set of macroeconomic and financial variables for the U.S. We find evidence of long stochastic cycles in the standard business cycle variables, as well as in credit and house prices. However, we rule out the presence of stochastic cycles in asset market data. Moreover, according to our result, financial cycles, as characterized by credit and house prices, tend to be twice as long as business cycles.
+ER  - 
+
+TY  - JOUR
+T1  - Bridging the Covid-19 data and the epidemiological model using the time-varying parameter SIRD model
+AU  - Çakmaklı, Cem
+AU  - Şimşek, Yasin
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105787
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105787
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001337
+KW  - Covid-19
+KW  - SIRD
+KW  - Observation driven models
+KW  - Score models
+KW  - Count data
+KW  - Time-varying parameters
+AB  - This paper extends the canonical model of epidemiology, the SIRD model, to allow for time-varying parameters for real-time measurement and prediction of the trajectory of the Covid-19 pandemic. Time variation in model parameters is captured using the score-driven modeling structure designed for the typical daily count data related to the pandemic. The resulting specification permits a flexible yet parsimonious model with a low computational cost. The model is extended to allow for unreported cases using a mixed-frequency setting. Results suggest that these cases’ effects on the parameter estimates might be sizeable. Full sample results show that the flexible framework accurately captures the successive waves of the pandemic. A real-time exercise indicates that the proposed structure delivers timely and precise information on the pandemic’s current stance. This superior performance, in turn, transforms into accurate predictions of the death cases and cases treated in Intensive Care Units (ICUs).
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinear and nonseparable structural functions in regression discontinuity designs with a continuous treatment
+AU  - Xie, Haitian
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105784
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105784
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001301
+KW  - Causal inference
+KW  - Continuous treatment
+KW  - Dual monotonicity
+KW  - Nonparametric identification
+KW  - Semiparametric estimation
+KW  - Asymptotic normality
+AB  - Many empirical examples of regression discontinuity (RD) designs concern a continuous treatment variable, but the theoretical aspects of such models are less studied. This study examines the identification and estimation of the structural function in fuzzy RD designs with a continuous treatment variable. The structural function fully describes the causal impact of the treatment on the outcome. We show that the nonlinear and nonseparable structural function can be nonparametrically identified at the RD cutoff under shape restrictions, including monotonicity and smoothness conditions. Based on the nonparametric identification equation, we propose a three-step semiparametric estimation procedure and establish the asymptotic normality of the estimator. The semiparametric estimator achieves the same convergence rate as in the case of a binary treatment variable. As an application of the method, we estimate the causal effect of sleep time on health status by using the discontinuity in natural light timing at time zone boundaries.
+ER  - 
+
+TY  - JOUR
+T1  - 2SLS with multiple treatments
+AU  - Bhuller, Manudeep
+AU  - Sigstad, Henrik
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105785
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105785
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001313
+KW  - Multiple treatments
+KW  - Monotonicity
+KW  - Instrumental variables
+KW  - Two-stage least squares
+AB  - We study what two-stage least squares (2SLS) identifies in models with multiple treatments under treatment effect heterogeneity. Two conditions are shown to be necessary and sufficient for the 2SLS to identify positively weighted sums of agent-specific effects of each treatment: average conditional monotonicity and no cross effects. Our identification analysis allows for any number of treatments, any number of continuous or discrete instruments, and the inclusion of covariates. We provide testable implications and present characterizations of choice behavior implied by our identification conditions.
+ER  - 
+
+TY  - JOUR
+T1  - On the performance of the Neyman Allocation with small pilots
+AU  - Cai, Yong
+AU  - Rafi, Ahnaf
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 1
+SP  - 105793
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105793
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001398
+KW  - Experiment design
+KW  - Treatment effect estimation
+KW  - Alternative asymptotics
+AB  - The Neyman Allocation is used in many papers on experimental design, which typically assume that researchers have access to large pilot studies. This may be unrealistic. To understand the properties of the Neyman Allocation with small pilots, we study its behavior in an asymptotic framework that takes pilot size to be fixed even as the size of the main wave tends to infinity. Our analysis shows that the Neyman Allocation can lead to estimates of the ATE with higher asymptotic variance than with (non-adaptive) balanced randomization. In particular, this happens when the outcome variable is relatively homoskedastic with respect to treatment status or when it exhibits high kurtosis. We provide a series of empirical examples showing that such situations can arise in practice. Our results suggest that researchers with small pilots should not use the Neyman Allocation if they believe that outcomes are homoskedastic or heavy-tailed. Finally, we examine some potential methods for improving the finite sample performance of the FNA via simulations.
+ER  - 

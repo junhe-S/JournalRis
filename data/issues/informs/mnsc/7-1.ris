@@ -1,0 +1,174 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Quadratic Programming as an Extension of Classical Quadratic Maximization
+AU  - Theil, H.
+AU  - Van De Panne, C.
+Y1  - 1960/10/01
+PY  - 1960
+DA  - 1960/10/01
+N1  - doi: 10.1287/mnsc.7.1.1
+DO  - 10.1287/mnsc.7.1.1
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1
+EP  - 20
+VL  - 7
+IS  - 1
+PB  - INFORMS
+N2  - The article describes a procedure to maximize a strictly concave quadratic function subject to linear constraints in the form of inequalities. First the unconstrained maximum is considered; when certain constraints are violated, maximization takes place subject to each of these in equational (rather than inequality) form. The constraints which are then violated are added in a similar way to the constraints already imposed. It is shown that under certain general conditions this procedure leads to the required optimum in a finite number of steps. The procedure is illustrated by an example while also a directory of computations is given.
+AB  - The article describes a procedure to maximize a strictly concave quadratic function subject to linear constraints in the form of inequalities. First the unconstrained maximum is considered; when certain constraints are violated, maximization takes place subject to each of these in equational (rather than inequality) form. The constraints which are then violated are added in a similar way to the constraints already imposed. It is shown that under certain general conditions this procedure leads to the required optimum in a finite number of steps. The procedure is illustrated by an example while also a directory of computations is given.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.7.1.1
+UR  - https://doi.org/10.1287/mnsc.7.1.1
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Summary of a Heuristic Line Balancing Procedure
+AU  - Tonge, Fred M.
+Y1  - 1960/10/01
+PY  - 1960
+DA  - 1960/10/01
+N1  - doi: 10.1287/mnsc.7.1.21
+DO  - 10.1287/mnsc.7.1.21
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 21
+EP  - 42
+VL  - 7
+IS  - 1
+PB  - INFORMS
+N2  - This paper presents a heuristic procedure for balancing production assembly lines and a computer program for carrying out that procedure. This research was undertaken to investigate the application of complex information processing techniques (as used in producing the Chess Machine and Logic Theorist) to a typical industrial problem. The assembly line balancing problem is stated as: Given an assembly process made up of elemental tasks, each with a time required per unit of product and an ordering with other tasks, what is the least number of work stations needed to attain a desired production rate? The heuristic procedure for assembly line balancing consists of three phases: repeated simplification of the initial problem by grouping adjacent elemental tasks into compound tasks; solution of the simpler problems thus created by assigning tasks to work stations at the least complex level possible, breaking up the compound tasks into their elements only when necessary for a solution; smoothing the resulting balance by transferring tasks among work stations until the distribution of assigned time is as even as possible. The heuristics used in each phase are considered in some detail. Appropriate means for mechanizing such a procedure are discussed, and operating results of the program on actual problems are presented.
+AB  - This paper presents a heuristic procedure for balancing production assembly lines and a computer program for carrying out that procedure. This research was undertaken to investigate the application of complex information processing techniques (as used in producing the Chess Machine and Logic Theorist) to a typical industrial problem. The assembly line balancing problem is stated as: Given an assembly process made up of elemental tasks, each with a time required per unit of product and an ordering with other tasks, what is the least number of work stations needed to attain a desired production rate? The heuristic procedure for assembly line balancing consists of three phases: repeated simplification of the initial problem by grouping adjacent elemental tasks into compound tasks; solution of the simpler problems thus created by assigning tasks to work stations at the least complex level possible, breaking up the compound tasks into their elements only when necessary for a solution; smoothing the resulting balance by transferring tasks among work stations until the distribution of assigned time is as even as possible. The heuristics used in each phase are considered in some detail. Appropriate means for mechanizing such a procedure are discussed, and operating results of the program on actual problems are presented.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.7.1.21
+UR  - https://doi.org/10.1287/mnsc.7.1.21
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Non-Linear Extension of the Simplex Method
+AU  - Wegner, Peter
+Y1  - 1960/10/01
+PY  - 1960
+DA  - 1960/10/01
+N1  - doi: 10.1287/mnsc.7.1.43
+DO  - 10.1287/mnsc.7.1.43
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 43
+EP  - 55
+VL  - 7
+IS  - 1
+PB  - INFORMS
+N2  - This paper describes an algorithm for the solution of mathematical programming problems having a linear objective function and non-linear constraints. The algorithm is basically an adaptation of the simplex method to the case of non-linear constraints. Certain complications are, however, introduced through non-linearity in the constraints, and it is shown how these can be overcome.
+AB  - This paper describes an algorithm for the solution of mathematical programming problems having a linear objective function and non-linear constraints. The algorithm is basically an adaptation of the simplex method to the case of non-linear constraints. Certain complications are, however, introduced through non-linearity in the constraints, and it is shown how these can be overcome.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.7.1.43
+UR  - https://doi.org/10.1287/mnsc.7.1.43
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Note on the Optimal Range
+AU  - Eilon, Samuel
+Y1  - 1960/10/01
+PY  - 1960
+DA  - 1960/10/01
+N1  - doi: 10.1287/mnsc.7.1.56
+DO  - 10.1287/mnsc.7.1.56
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 56
+EP  - 61
+VL  - 7
+IS  - 1
+PB  - INFORMS
+N2  - With reference to previous publications on the advisability of defining an economic production range in case of batch production, it is pointed out that many industrial problems which involve optimization, may be characteristically similar. It is therefore desirable to study the sesitivity of the function to be optimized by computing an optimal range, for which a general approximation is suggested.
+AB  - With reference to previous publications on the advisability of defining an economic production range in case of batch production, it is pointed out that many industrial problems which involve optimization, may be characteristically similar. It is therefore desirable to study the sesitivity of the function to be optimized by computing an optimal range, for which a general approximation is suggested.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.7.1.56
+UR  - https://doi.org/10.1287/mnsc.7.1.56
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On the Interaction of Purchasing Motives and the Optimal Programming of Their Activation—A New Approach to the Evaluation of Advertising Themes
+AU  - Emanuel, H.
+AU  - Klaassen, L. H.
+AU  - Theil, H.
+Y1  - 1960/10/01
+PY  - 1960
+DA  - 1960/10/01
+N1  - doi: 10.1287/mnsc.7.1.62
+DO  - 10.1287/mnsc.7.1.62
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 62
+EP  - 79
+VL  - 7
+IS  - 1
+PB  - INFORMS
+N2  - In recent years considerable attention has been paid by marketing theorists to the role of advertising and other promotional activities within the marketing policy of the firm and to their optimal setting in the combined operation of the various instruments available to such a policy. These authors have generally assumed efficient spending of money on advertising as far as choice of media and of purchase motivating themes are concerned. It is the object of the present paper to consider in some detail the second of these two problems?the efficient selection of purchase motivating themes for activation through advertising.
+AB  - In recent years considerable attention has been paid by marketing theorists to the role of advertising and other promotional activities within the marketing policy of the firm and to their optimal setting in the combined operation of the various instruments available to such a policy. These authors have generally assumed efficient spending of money on advertising as far as choice of media and of purchase motivating themes are concerned. It is the object of the present paper to consider in some detail the second of these two problems?the efficient selection of purchase motivating themes for activation through advertising.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.7.1.62
+UR  - https://doi.org/10.1287/mnsc.7.1.62
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Relationships Between Organization Size and Efficiency
+AU  - Adler, F. P.
+Y1  - 1960/10/01
+PY  - 1960
+DA  - 1960/10/01
+N1  - doi: 10.1287/mnsc.7.1.80
+DO  - 10.1287/mnsc.7.1.80
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 80
+EP  - 84
+VL  - 7
+IS  - 1
+PB  - INFORMS
+N2  - The relation between productivity, efficiency and size of a technical organization as affected by internally generated and circulated paperwork is analyzed. It is shown that there exists an upper bound to total productive output which is independent of the number of employees; and that as the organization size is increased the efficiency generally first rises and then falls off inversely proportionally to the number of employees.
+AB  - The relation between productivity, efficiency and size of a technical organization as affected by internally generated and circulated paperwork is analyzed. It is shown that there exists an upper bound to total productive output which is independent of the number of employees; and that as the organization size is increased the efficiency generally first rises and then falls off inversely proportionally to the number of employees.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.7.1.80
+UR  - https://doi.org/10.1287/mnsc.7.1.80
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Book Reviews
+Y1  - 1960/10/01
+PY  - 1960
+DA  - 1960/10/01
+N1  - doi: 10.1287/mnsc.7.1.85
+DO  - 10.1287/mnsc.7.1.85
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 85
+EP  - 100
+VL  - 7
+IS  - 1
+PB  - INFORMS
+N2  - Book Reviews ?Quality Control and Applied Statistics, Volume II. Edited by R. S. Titchen, et al. (1957) Issue 2, pp. 49?144. Interscience Publishers, Inc., 250 Fifth Ave., New York 1, N. Y. (An Abstract Service; $60.00 for 12 monthly issues.)?reviewed by Paul Peach; ?Allgemeine Methodenlehre der Statistik, by Prof. Dr. Johann Ppanzagl, Walter de Gruyter  ?Creativity and Its Cultivation, Harold H. Anderson, Editor, New York: Harper  ?Theorie des Graphes et ses Applications (Theory and Applications Of Graphs) by C. Berge, Dunod Editeurs. Paris, 1958, 277 pp?reviewed by E. J. Gumbel; ?The Management of Corporate Capital. Ezra Solomon, editor. Glencoe, Illinois. The Free Press, 1959, 321 pp. ($7.50)?reviewed by Sidney M. Robbins; ?Elementary Decision Theory by Herman Chernoff and Lincoln E. Moses. New York: John Wiley and Sons, 1959, 364 pp?reviewed by Jean Mathes; ?Management Dictionary, by Werner Sommer and Hanns-Martin Schönfeld, Berlin: Walter de Gruyter and Co., 1960, 176 pages, DM 12?reviewed by S. B. L.; ?Logistics in the National Defense, by Henry E. Eccles. Harrisburg: The Stackpole Company, 1959. Pp. 347. $5.00?reviewed by Nathan Brodsky; ?Executive Decisions and Operations Research by David W. Miller and Martin K. Starr. Englewood Cliffs, New Jersey: Prentice-Hall, Inc. Pp. 446?reviewed by Nathan Brodsky; ?Operations Research and Systems Engineering. Edited by Charles D. Flagle, William H. Huggins and Robert H. Roy. Baltimore: The Johns Hopkins Press, x + 889 pp. $14.50?reviewed by S. Sherman. Books Received
+AB  - Book Reviews ?Quality Control and Applied Statistics, Volume II. Edited by R. S. Titchen, et al. (1957) Issue 2, pp. 49?144. Interscience Publishers, Inc., 250 Fifth Ave., New York 1, N. Y. (An Abstract Service; $60.00 for 12 monthly issues.)?reviewed by Paul Peach; ?Allgemeine Methodenlehre der Statistik, by Prof. Dr. Johann Ppanzagl, Walter de Gruyter  ?Creativity and Its Cultivation, Harold H. Anderson, Editor, New York: Harper  ?Theorie des Graphes et ses Applications (Theory and Applications Of Graphs) by C. Berge, Dunod Editeurs. Paris, 1958, 277 pp?reviewed by E. J. Gumbel; ?The Management of Corporate Capital. Ezra Solomon, editor. Glencoe, Illinois. The Free Press, 1959, 321 pp. ($7.50)?reviewed by Sidney M. Robbins; ?Elementary Decision Theory by Herman Chernoff and Lincoln E. Moses. New York: John Wiley and Sons, 1959, 364 pp?reviewed by Jean Mathes; ?Management Dictionary, by Werner Sommer and Hanns-Martin Schönfeld, Berlin: Walter de Gruyter and Co., 1960, 176 pages, DM 12?reviewed by S. B. L.; ?Logistics in the National Defense, by Henry E. Eccles. Harrisburg: The Stackpole Company, 1959. Pp. 347. $5.00?reviewed by Nathan Brodsky; ?Executive Decisions and Operations Research by David W. Miller and Martin K. Starr. Englewood Cliffs, New Jersey: Prentice-Hall, Inc. Pp. 446?reviewed by Nathan Brodsky; ?Operations Research and Systems Engineering. Edited by Charles D. Flagle, William H. Huggins and Robert H. Roy. Baltimore: The Johns Hopkins Press, x + 889 pp. $14.50?reviewed by S. Sherman. Books Received
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.7.1.85
+UR  - https://doi.org/10.1287/mnsc.7.1.85
+Y2  - 2024/03/27
+ER  - 

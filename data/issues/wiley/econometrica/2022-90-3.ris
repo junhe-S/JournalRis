@@ -1,0 +1,488 @@
+
+TY  - JOUR
+T1  - Frontmatter of Econometrica Vol. 90 Iss. 3
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA903FM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - i
+EP  - ii
+VL  - 90
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA903FM
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Automatic Debiased Machine Learning of Causal and Structural Effects
+AU  - Chernozhukov, Victor
+AU  - Newey, Whitney K.
+AU  - Singh, Rahul
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA18515
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 967
+EP  - 1027
+VL  - 90
+IS  - 3
+KW  - Debiased machine learning
+KW  - causal parameters
+KW  - structural parameters
+KW  - regression effects
+KW  - Lasso
+KW  - Riesz representation
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA18515
+Y2  - 2024/03/26
+N2  - Many causal and structural effects depend on regressions. Examples include policy effects, average derivatives, regression decompositions, average treatment effects, causal mediation, and parameters of economic structural models. The regressions may be high-dimensional, making machine learning useful. Plugging machine learners into identifying equations can lead to poor inference due to bias from regularization and/or model selection. This paper gives automatic debiasing for linear and nonlinear functions of regressions. The debiasing is automatic in using Lasso and the function of interest without the full form of the bias correction. The debiasing can be applied to any regression learner, including neural nets, random forests, Lasso, boosting, and other high-dimensional methods. In addition to providing the bias correction, we give standard errors that are robust to misspecification, convergence rates for the bias correction, and primitive conditions for asymptotic inference for estimators of a variety of estimators of structural and causal effects. The automatic debiased machine learning is used to estimate the average treatment effect on the treated for the NSW job training data and to estimate demand elasticities from Nielsen scanner data while allowing preferences to be correlated with prices and income.
+ER  - 
+
+TY  - JOUR
+T1  - Dual-Self Representations of Ambiguity Preferences
+AU  - Chandrasekher, Madhav
+AU  - Frick, Mira
+AU  - Iijima, Ryota
+AU  - Le Yaouanq, Yves
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA17502
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1029
+EP  - 1061
+VL  - 90
+IS  - 3
+KW  - Ambiguity
+KW  - multiple priors
+KW  - dual-self models
+KW  - belief updating
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA17502
+Y2  - 2024/03/26
+N2  - We propose a class of multiple-prior representations of preferences under ambiguity, where the belief the decision-maker (DM) uses to evaluate an uncertain prospect is the outcome of a game played by two conflicting forces, Pessimism and Optimism. The model does not restrict the sign of the DM's ambiguity attitude, and we show that it provides a unified framework through which to characterize different degrees of ambiguity aversion, and to represent the co-existence of negative and positive ambiguity attitudes within individuals as documented in experiments. We prove that our baseline representation, dual-self expected utility (DSEU), yields a novel representation of the class of invariant biseparable preferences (Ghirardato, Maccheroni, and Marinacci (2004)), which drops uncertainty aversion from maxmin expected utility (Gilboa and Schmeidler (1989)), while extensions of DSEU allow for more general departures from independence. We also provide foundations for a generalization of prior-by-prior belief updating to our model.
+ER  - 
+
+TY  - JOUR
+T1  - Managers and Productivity in the Public Sector
+AU  - Fenizia, Alessandra
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA19244
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1063
+EP  - 1084
+VL  - 90
+IS  - 3
+KW  - Productivity
+KW  - managers
+KW  - public sector
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19244
+Y2  - 2024/03/26
+N2  - This paper studies the impacts of managers in the administrative public sector using novel Italian administrative data containing an output-based measure of productivity. Exploiting the rotation of managers across sites, I find that a one standard deviation increase in managerial talent raises office productivity by 10%. These gains are driven primarily by the exit of older workers who retire when more productive managers take over. I use these estimates to evaluate the optimal allocation of managers to offices. I find that assigning better managers to the largest and most productive offices would increase output by at least 6.9%.
+ER  - 
+
+TY  - JOUR
+T1  - Randomize at Your Own Risk: On the Observability of Ambiguity Aversion
+AU  - Baillon, Aurélien
+AU  - Halevy, Yoram
+AU  - Li, Chen
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA18137
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1085
+EP  - 1107
+VL  - 90
+IS  - 3
+KW  - Hedging
+KW  - random incentives
+KW  - Ellsberg
+KW  - ambiguity aversion
+KW  - design of experiments
+KW  - integration
+KW  - isolation
+KW  - narrow bracketing
+KW  - narrow framing
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA18137
+Y2  - 2024/03/26
+N2  - Facing several decisions, people may consider each one in isolation or integrate them into a single optimization problem. Isolation and integration may yield different choices, for instance, if uncertainty is involved, and only one randomly selected decision is implemented. We investigate whether the random incentive system in experiments that measure ambiguity aversion provides a hedge against ambiguity, making ambiguity-averse subjects who integrate behave as if they were ambiguity neutral. Our results suggest that about half of the ambiguity averse subjects integrated their choices in the experiment into a single problem, whereas the other half isolated. Our design further enables us to disentangle properties of the integrating subjects' preferences over compound objects induced by the random incentive system and the choice problems in the experiment.
+ER  - 
+
+TY  - JOUR
+T1  - Test Design Under Falsification
+AU  - Perez-Richet, Eduardo
+AU  - Skreta, Vasiliki
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA16346
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1109
+EP  - 1142
+VL  - 90
+IS  - 3
+KW  - Information design
+KW  - falsification
+KW  - tests
+KW  - manipulation
+KW  - cheating
+KW  - persuasion
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA16346
+Y2  - 2024/03/26
+N2  - We study the optimal design of tests with manipulable inputs. Tests take a unidimensional state of the world as input and output, an informative signal to guide a receiver's approve or reject decision. The receiver wishes to only approve states that comply with her baseline standard. An agent with a preference for approval can covertly falsify the state of the world at a cost. We characterize receiver-optimal tests and show they rely on productive falsification by compliant states. They work by setting a more stringent operational standard, and granting noncompliant states a positive approval probability to deter them from falsifying to the standard. We also study how falsification-detection technologies improve optimal tests. They allow the designer to build an implicit cost of falsification into the test, in the form of signal devaluations. Exploiting this channel requires enriching the signal space.
+ER  - 
+
+TY  - JOUR
+T1  - Affirmative Action in India via Vertical, Horizontal, and Overlapping Reservations
+AU  - Sönmez, Tayfun
+AU  - Yenmez, M. Bumin
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA17788
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1143
+EP  - 1176
+VL  - 90
+IS  - 3
+KW  - Market design
+KW  - matching
+KW  - affirmative action
+KW  - vertical reservation
+KW  - horizontal reservation
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA17788
+Y2  - 2024/03/26
+N2  - Sanctioned by its constitution, India is home to the world's most comprehensive affirmative action program, where historically discriminated groups are protected with vertical reservations implemented as ?set asides,? and other disadvantaged groups are protected with horizontal reservations implemented as ?minimum guarantees.? A mechanism mandated by the Supreme Court in 1995 suffers from important anomalies, triggering countless litigations in India. Foretelling a recent reform correcting the flawed mechanism, we propose the 2SMG mechanism that resolves all anomalies, and characterize it with desiderata reflecting laws of India. Subsequently rediscovered with a high court judgment and enforced in Gujarat, 2SMG is also endorsed by Saurav Yadav v. State of UP (2020), in a Supreme Court ruling that rescinded the flawed mechanism. While not explicitly enforced, 2SMG is indirectly enforced for an important subclass of applications in India, because no other mechanism satisfies the new mandates of the Supreme Court.
+ER  - 
+
+TY  - JOUR
+T1  - The Limits of ONETARY ECONOMICS: On Money as a Constraint on Market Power
+AU  - Lagos, Ricardo
+AU  - Zhang, Shengxing
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA17319
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1177
+EP  - 1204
+VL  - 90
+IS  - 3
+KW  - Cashless
+KW  - credit
+KW  - liquidity
+KW  - money
+KW  - monetary policy
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA17319
+Y2  - 2024/03/26
+N2  - We formulate a generalization of the traditional medium-of-exchange function of money in contexts where there is imperfect competition in the intermediation of credit, settlement, or payment services used to conduct transactions. We find that the option to settle transactions with money strengthens the stance of sellers of goods and services in relation to intermediaries, and show this mechanism is operative even for sellers who never exercise the option to sell for money. These latent money demand considerations imply that in general, in contrast to current conventional wisdom in policy-oriented research in monetary economics, monetary policy can remain effective through medium-of-exchange transmission channels?even in highly developed credit economies where the share of monetary transactions is negligible.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for Differences in Stochastic Network Structure
+AU  - Auerbach, Eric
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA18093
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1205
+EP  - 1223
+VL  - 90
+IS  - 3
+KW  - Networks
+KW  - panel data
+KW  - heterogeneous treatment effects
+KW  - endogenous link formation
+KW  - network externalities
+KW  - matrix norms
+KW  - randomization inference
+KW  - semidefinite programming
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA18093
+Y2  - 2024/03/26
+N2  - How can one determine whether a treatment, such as the introduction of a social program or trade shock, alters agents' incentives to form links in a network? This paper proposes analogs of a two-sample Kolmogorov?Smirnov test, widely used in the literature to test the null hypothesis of no treatment effects, for network data. It first specifies a testing problem in which the null hypothesis is that two networks are drawn from the same random graph model. It then describes two randomization tests based on the magnitude of the difference between the networks' adjacency matrices as measured by the 2???2 and ∞???1 operator norms. Power properties of the tests are examined analytically, in simulation, and through two real-world applications. A key finding is that the test based on the ∞???1 norm can be much more powerful for the kinds of sparse and degree-heterogeneous networks common in economics.
+ER  - 
+
+TY  - JOUR
+T1  - Signaling Under Double-Crossing Preferences
+AU  - Chen, Chia-Hui
+AU  - Ishida, Junichiro
+AU  - Suen, Wing
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA19210
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1225
+EP  - 1260
+VL  - 90
+IS  - 3
+KW  - Single-crossing property
+KW  - countersignaling
+KW  - local incentive compatibility
+KW  - global incentive compatibility
+KW  - pairwise-pooling
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19210
+Y2  - 2024/03/26
+N2  - This paper provides a general analysis of signaling under double-crossing preferences with a continuum of types. There are natural economic environments where the indifference curves of two types cross twice, such that the celebrated single-crossing property fails to hold. Equilibrium exhibits a threshold type below which types choose actions that are fully revealing and above which they pool in a pairwise fashion, with a gap separating the actions chosen by these two sets of types. The resulting signaling action is quasi-concave in type. We also provide an algorithm to establish equilibrium existence by construction.
+ER  - 
+
+TY  - JOUR
+T1  - Misallocation, Selection, and Productivity: A Quantitative Analysis With Panel Data From China
+AU  - Adamopoulos, Tasso
+AU  - Brandt, Loren
+AU  - Leight, Jessica
+AU  - Restuccia, Diego
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA16598
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1261
+EP  - 1282
+VL  - 90
+IS  - 3
+KW  - Agriculture
+KW  - misallocation
+KW  - selection
+KW  - productivity
+KW  - China
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA16598
+Y2  - 2024/03/26
+N2  - We use household-level panel data from China and a quantitative framework to document the extent and consequences of factor misallocation in agriculture. We find that there are substantial within-village frictions in both the land and capital markets linked to land institutions in rural China that disproportionately constrain the more productive farmers. These frictions reduce aggregate agricultural productivity by affecting two key margins: (1) the allocation of resources across farmers (misallocation) and (2) the allocation of workers across sectors, in particular the type of farmers who operate in agriculture (selection). Selection substantially amplifies the productivity effect of distortionary policies by affecting occupational choices that worsen average ability in agriculture.
+ER  - 
+
+TY  - JOUR
+T1  - A Modern Gauss–Markov Theorem
+AU  - Hansen, Bruce E.
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA19255
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1283
+EP  - 1294
+VL  - 90
+IS  - 3
+KW  - Gauss-Markov
+KW  - BLUE
+KW  - efficient estimation
+KW  - least squares
+KW  - linear estimators
+KW  - unbiasedness
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19255
+Y2  - 2024/03/26
+N2  - This paper presents finite-sample efficiency bounds for the core econometric problem of estimation of linear regression coefficients. We show that the classical Gauss?Markov theorem can be restated omitting the unnatural restriction to linear estimators, without adding any extra conditions. Our results are lower bounds on the variances of unbiased estimators. These lower bounds correspond to the variances of the the least squares estimator and the generalized least squares estimator, depending on the assumption on the error covariances. These results show that we can drop the label ?linear estimator? from the pedagogy of the Gauss?Markov theorem. Instead of referring to these estimators as BLUE, they can legitimately be called BUE (best unbiased estimators).
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Monetary Policy in Production Networks
+AU  - La'O, Jennifer
+AU  - Tahbaz-Salehi, Alireza
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA18627
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1295
+EP  - 1336
+VL  - 90
+IS  - 3
+KW  - Monetary policy
+KW  - production networks
+KW  - nominal rigidities
+KW  - misallocation
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA18627
+Y2  - 2024/03/26
+N2  - This paper studies the optimal conduct of monetary policy in a multisector economy in which firms buy and sell intermediate goods over a production network. We first provide a necessary and sufficient condition for the monetary policy's ability to implement flexible-price equilibria in the presence of nominal rigidities and show that, generically, no monetary policy can implement the first-best allocation. We then characterize the optimal policy in terms of the economy's production network and the extent and nature of nominal rigidities. Our characterization result yields general principles for the optimal conduct of monetary policy in the presence of input-output linkages: it establishes that optimal policy stabilizes a price index with greater weights assigned to larger, stickier, and more upstream industries, as well as industries with less sticky upstream suppliers but stickier downstream customers. In a calibrated version of the model, we find that implementing the optimal policy can result in quantitatively meaningful welfare gains.
+ER  - 
+
+TY  - JOUR
+T1  - Long-Run Effects of Dynamically Assigned Treatments: A New Methodology and an Evaluation of Training Effects on Earnings
+AU  - van den Berg, Gerard J.
+AU  - Vikström, Johan
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA17522
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1337
+EP  - 1354
+VL  - 90
+IS  - 3
+KW  - Treatment effects
+KW  - dynamic treatment evaluation
+KW  - program evaluation
+KW  - unconfoundedness
+KW  - unemployment
+KW  - wage
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA17522
+Y2  - 2024/03/26
+N2  - We propose and implement a new method to estimate treatment effects in settings where individuals need to be in a certain state (e.g., unemployment) to be eligible for a treatment, treatments may commence at different points in time, and the outcome of interest is realized after the individual left the initial state. An example concerns the effect of training on earnings in subsequent employment. Any evaluation needs to take into account that some of those who are not trained at a certain time in unemployment will leave unemployment before training while others will be trained later. We are interested in effects of the treatment at a certain elapsed duration compared to ?no treatment at any subsequent duration.? We prove identification under unconfoundedness and propose inverse probability weighting estimators. A key feature is that weights given to outcome observations of nontreated depend on the remaining time in the initial state. We study effects of a training program for unemployed workers in Sweden. Estimates are positive and sizeable, exceeding those obtained with common static methods. This calls for a reappraisal of training as a tool to bring unemployed back to work.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive Bayesian Estimation of Discrete-Continuous Distributions Under Smoothness and Sparsity
+AU  - Norets, Andriy
+AU  - Pelenis, Justinas
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA17884
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1355
+EP  - 1377
+VL  - 90
+IS  - 3
+KW  - Bayesian nonparametrics
+KW  - adaptive rates
+KW  - minimax rates
+KW  - anisotropic smoothness
+KW  - posterior contraction
+KW  - discrete-continuous distribution
+KW  - mixed scale
+KW  - mixtures of normal distributions
+KW  - latent variables
+KW  - discrete choice models
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA17884
+Y2  - 2024/03/26
+N2  - We consider nonparametric estimation of a mixed discrete-continuous distribution under anisotropic smoothness conditions and a possibly increasing number of support points for the discrete part of the distribution. For these settings, we derive lower bounds on the estimation rates. Next, we consider a nonparametric mixture of normals model that uses continuous latent variables for the discrete part of the observations. We show that the posterior in this model contracts at rates that are equal to the derived lower bounds up to a log factor. Thus, Bayesian mixture of normals models can be used for (up to a log factor) optimal adaptive estimation of mixed discrete-continuous distributions. The proposed model demonstrates excellent performance in simulations mimicking the first stage in the estimation of structural discrete choice models.
+ER  - 
+
+TY  - JOUR
+T1  - Forthcoming Papers
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA903FORTH
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1379
+EP  - 1379
+VL  - 90
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA903FORTH
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - The Econometric Society 2021 Annual Report of the President
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA903PRES
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1381
+EP  - 1391
+VL  - 90
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA903PRES
+Y2  - 2024/03/26
+ER  - 
+
+TY  - JOUR
+T1  - Backmatter of Econometrica Vol. 90 Iss. 3
+Y1  - 2022/05/01
+PY  - 2022
+DA  - 2022/05/01
+DO  - https://doi.org/10.3982/ECTA903BM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - iii
+EP  - v
+VL  - 90
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA903BM
+Y2  - 2024/03/26
+ER  - 

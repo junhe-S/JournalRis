@@ -1,0 +1,638 @@
+TY  - JOUR
+T1  - A generalized knockoff procedure for FDR control in structural change detection
+AU  - Liu, Jingyuan
+AU  - Sun, Ao
+AU  - Ke, Yuan
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105331
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001567
+KW  - structural change detection
+KW  - False discovery rate control
+KW  - Knockoffs
+KW  - High dimensional data
+KW  - Screening
+AB  - Controlling false discovery rate (FDR) is crucial for variable selection, multiple testing, among other signal detection problems. In literature, there is certainly no shortage of FDR control strategies when selecting individual features, but the relevant works for structural change detection, such as profile analysis for piecewise constant coefficients and integration analysis with multiple data sources, are limited. In this paper, we propose a generalized knockoff procedure (GKnockoff) for FDR control under such problem settings. We prove that the GKnockoff possesses pairwise exchangeability, and is capable of controlling the exact FDR under finite sample sizes. We further explore GKnockoff under high dimensionality, by first introducing a new screening method to filter the high-dimensional potential structural changes. We adopt a data splitting technique to first reduce the dimensionality via screening and then conduct GKnockoff on the refined selection set. Furthermore, the powers of proposed methods are systematically studied. Numerical comparisons with other methods show the superior performance of GKnockoff, in terms of both FDR control and power. We also implement the proposed methods to analyze a macroeconomic dataset for detecting changes of driven effects of economic development on the secondary industry.
+ER  - 
+
+TY  - JOUR
+T1  - Testing specification of distribution in stochastic frontier analysis
+AU  - Cheng, Ming-Yen
+AU  - Wang, Shouxia
+AU  - Xia, Lucy
+AU  - Zhang, Xibin
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105280
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000677
+KW  - Local polynomial regression
+KW  - Nonparametric smoothing
+KW  - Varying-coefficient models
+KW  - Semiparametric models
+KW  - Undersmoothing
+AB  - Stochastic frontier analysis is regularly used in empirical studies to evaluate the productivity and efficiency of companies. A typical stochastic frontier model involves a parametric frontier subject to a composite error term consisting of an inefficiency and a random error. We develop new tests for specification of distribution of the inefficiency. We focus on simultaneous relaxation of two common assumptions: (1) parametric frontier which may lead to false conclusions when misspecified, and (2) homoscedasticity which can be easily violated when working with real data. While these two issues have been extensively studied in prior research exploring the estimation of a stochastic frontier and inefficiencies, they have not been properly addressed in the considered testing problem. We propose novel bootstrap and asymptotic distribution-free tests with neither parametric frontier nor homoscedasticity assumptions, in both cross-sectional and panel settings. Our tests are asymptotically consistent, simple to implement and widely applicable. Their powers against general fixed alternatives tend to one as sample size increases, and they can detect root-n order local alternatives. We demonstrate their efficacies through extensive simulation studies. When applied to a banking panel dataset, our tests provide sound justification for the commonly used exponential specification for banking data. The findings also show that a new parametric frontier model is more plausible than the conventional translog frontier.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal covariance matrix estimation for high-dimensional noise in high-frequency data
+AU  - Chang, Jinyuan
+AU  - Hu, Qiao
+AU  - Liu, Cheng
+AU  - Tang, Cheng Yong
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105329
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001543
+KW  - High-dimensional covariance matrix
+KW  - High-frequency data analysis
+KW  - Measurement error
+KW  - Minimax optimality
+KW  - Thresholding
+AB  - We consider high-dimensional measurement errors with high-frequency data. Our objective is on recovering the high-dimensional cross-sectional covariance matrix of the random errors with optimality. In this problem, not all components of the random vector are observed at the same time and the measurement errors are latent variables, leading to major challenges besides high data dimensionality. We propose a new covariance matrix estimator in this context with appropriate localization and thresholding, and then conduct a series of comprehensive theoretical investigations of the proposed estimator. By developing a new technical device integrating the high-frequency data feature with the conventional notion of α-mixing, our analysis successfully accommodates the challenging serial dependence in the measurement errors. Our theoretical analysis establishes the minimax optimal convergence rates associated with two commonly used loss functions; and we demonstrate with concrete cases when the proposed localized estimator with thresholding achieves the minimax optimal convergence rates. Considering that the variances and covariances can be small in reality, we conduct a second-order theoretical analysis that further disentangles the dominating bias in the estimator. A bias-corrected estimator is then proposed to ensure its practical finite sample performance. We also extensively analyze our estimator in the setting with jumps, and show that its performance is reasonably robust. We illustrate the promising empirical performance of the proposed estimator with extensive simulation studies and a real data analysis.
+ER  - 
+
+TY  - JOUR
+T1  - The nonparametric Box–Cox model for high-dimensional regression analysis
+AU  - Zhou, He
+AU  - Zou, Hui
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105419
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000568
+KW  - Box–Cox model
+KW  - Composite estimation
+KW  - High-dimensional regression
+KW  - Nonparametric transformation
+KW  - Strong oracle property
+AB  - The mainstream theory for high-dimensional regression assumes that the underlying true model is a low-dimensional linear regression model. On the other hand, a standard technique in regression analysis, even in the traditional low-dimensional setting, is to employ the Box–Cox transformation for reducing anomalies such as non-additivity and heteroscedasticity in linear regression. In this paper, we propose a new high-dimensional regression method based on a nonparametric Box–Cox model with an unspecified monotone transformation function. Model fitting and computation become much more challenging than the usual penalized regression method, and a two-step method is proposed for the estimation of this model in high-dimensional settings. First, we propose a novel technique called composite probit regression (CPR) and use the folded concave penalized CPR for estimating the regression parameters. The strong oracle property of the estimator is established without knowing the nonparametric transformation function. Next, the nonparametric function is estimated by conducting univariate monotone regression. The computation is done efficiently by using a coordinate-majorization-descent algorithm. Extensive simulation studies show that the proposed method performs well in various settings. Our analysis of the supermarket data demonstrates the superior performance of the proposed method over the standard high-dimensional regression method.
+ER  - 
+
+TY  - JOUR
+T1  - A latent class Cox model for heterogeneous time-to-event data
+AU  - Pei, Youquan
+AU  - Peng, Heng
+AU  - Xu, Jinfeng
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105351
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001841
+KW  - Default risk
+KW  - EM algorithm
+KW  - Heterogeneous covariate effects
+KW  - Latent class model
+KW  - Penalized likelihood
+KW  - Survival data
+AB  - Credit risk plays a vital role in the era of digital finance and it is one of primary interests to identify customers with similar types of risk categories so that personalized financial services can be offered accordingly. Motivated by the bourgeoning need for default risk modeling in finance, we propose herein a latent class Cox model for heterogeneous time-to-event data. The proposed model naturally extends the Cox proportional hazards model to flexibly take into account the heterogeneity of covariate effects as often manifested in real data. Without a priori specification of the number of latent classes, it simultaneously incorporates the commonalities and disparities of individual customers’ risk behaviors and provides a more refined modeling technique than existing approaches. We further propose a penalized maximum likelihood approach to identify the number of latent classes and estimate the model parameters. A modified expectation–maximization algorithm is then developed for its numerical implementation. Simulation studies are conducted to assess the finite-sample performance of the proposed approach. Its illustration with a real credit card data set is also provided.
+ER  - 
+
+TY  - JOUR
+T1  - Stock co-jump networks
+AU  - Ding, Yi
+AU  - Li, Yingying
+AU  - Liu, Guoli
+AU  - Zheng, Xinghua
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105420
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.026
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300057X
+KW  - Network
+KW  - Community detection
+KW  - Jumps
+KW  - Co-jumps
+KW  - Stock dependence
+KW  - High-frequency data
+AB  - We propose a Degree-Corrected Block Model with Dependent Multivariate Poisson edges (DCBM-DMP) to study stock co-jump dependence. To estimate the community structure, we extend the SCORE algorithm in Jin (2015) and develop a Spectral Clustering On Ratios-of-Eigenvectors for networks with Dependent Multivariate Poisson edges (SCORE-DMP) algorithm. We prove that SCORE-DMP enjoys strong consistency in community detection. Empirically, using high-frequency data of S&P 500 constituents, we construct two co-jump networks according to whether the market jumps and find that they exhibit different community features than GICS. We further show that the co-jump networks help in stock return prediction.
+ER  - 
+
+TY  - JOUR
+T1  - Time-varying minimum variance portfolio
+AU  - Fan, Qingliang
+AU  - Wu, Ruike
+AU  - Yang, Yanrong
+AU  - Zhong, Wei
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105339
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001646
+KW  - Minimum variance portfolio
+KW  - Dynamic covariance
+KW  - Large portfolio
+KW  - Shrinkage estimation
+KW  - Sharp risk consistency
+KW  - Flexible rebalancing
+AB  - This paper proposes a new time-varying minimum variance portfolio (TV-MVP) in a large investment universe of assets. Our method extends the existing literature on minimum variance portfolios by allowing for time-varying factor loadings, which facilitates the capture of the dynamics of the covariance structure of asset returns (and hence, the optimal investment strategy in a dynamic setting). We also use a shrinkage estimation method based on a quasi-likelihood function to regularize the residual covariances further. We establish the desired theoretical properties of proposed time-varying covariance and the optimal portfolio estimators under a more realistic heavy-tailed distribution. Specifically, we provide consistency of the optimal Sharpe ratio of the TV-MVP and the sharp risk consistency. Moreover, we offer a test of constant covariance structure and show the asymptotic distribution of the test statistic. Simulation and empirical studies suggest that the performance of the proposed TV-MVP is superior, in terms of estimation accuracy and out-of-sample Sharpe ratio, compared with that of other popular contemporary methods.
+ER  - 
+
+TY  - JOUR
+T1  - An autocovariance-based learning framework for high-dimensional functional time series
+AU  - Chang, Jinyuan
+AU  - Chen, Cheng
+AU  - Qiao, Xinghao
+AU  - Yao, Qiwei
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105385
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.01.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000167
+KW  - Block regularized minimum distance estimation
+KW  - Dimension reduction
+KW  - Functional time series
+KW  - High-dimensional data
+KW  - Non-asymptotics
+KW  - Sparsity
+AB  - Many scientific and economic applications involve the statistical learning of high-dimensional functional time series, where the number of functional variables is comparable to, or even greater than, the number of serially dependent functional observations. In this paper, we model observed functional time series, which are subject to errors in the sense that each functional datum arises as the sum of two uncorrelated components, one dynamic and one white noise. Motivated from the fact that the autocovariance function of observed functional time series automatically filters out the noise term, we propose a three-step framework by first performing autocovariance-based dimension reduction, then formulating a novel autocovariance-based block regularized minimum distance estimation to produce block sparse estimates, and based on which obtaining the final functional sparse estimates. We investigate theoretical properties of the proposed estimators, and illustrate the proposed estimation procedure with the corresponding convergence analysis via three sparse high-dimensional functional time series models. We demonstrate via both simulated and real datasets that our proposed estimators significantly outperform their competitors.
+ER  - 
+
+TY  - JOUR
+T1  - High frequency market making: The role of speed
+AU  - Aït-Sahalia, Yacine
+AU  - Sağlam, Mehmet
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105421
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000581
+KW  - High frequency trading
+KW  - Market making
+KW  - Inventory control
+KW  - Liquidity
+KW  - Market quality
+KW  - Stochastic optimal control
+KW  - Speed bump
+AB  - We propose a model where a strategic high frequency market maker exploits his speed and informational advantages to place quotes that interact with the market orders of low frequency traders. We characterize the optimal market making policy and the equilibrium that results. The model has testable implications regarding the impact of speed on the provision of liquidity. We test these implications by taking advantage of a natural experiment on the NYSE American stock exchange, which implemented an intentional delay in 2017 then removed it in 2019. We find broad agreement between the empirical evidence and the implications of the model.
+ER  - 
+
+TY  - JOUR
+T1  - Robustifying Markowitz
+AU  - Petukhina, Alla
+AU  - Klochkov, Yegor
+AU  - Härdle, Wolfgang Karl
+AU  - Zhivotovskiy, Nikita
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105387
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000180
+AB  - Markowitz mean–variance portfolios with sample mean and covariance as input parameters feature numerous issues in practice. They perform poorly out of sample due to estimation error, they experience extreme weights together with high sensitivity to change in input parameters. The heavy-tail characteristics of financial time series are in fact the cause for these erratic fluctuations of weights that consequently create substantial transaction costs. In robustifying the weights we present a toolbox for stabilizing costs and weights for global minimum Markowitz portfolios. Utilizing a projected gradient descent (PGD) technique, we avoid the estimation and inversion of the covariance operator as a whole and concentrate on robust estimation of the gradient descent increment. Using modern tools of robust statistics we construct a computationally efficient estimator with almost Gaussian properties based on median-of-means uniformly over weights. This robustified Markowitz approach is confirmed by empirical studies on equity markets. We demonstrate that robustified portfolios reach the lowest turnover compared to shrinkage-based and constrained portfolios while preserving or slightly improving out-of-sample performance.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic modeling for multivariate functional and longitudinal data
+AU  - Hao, Siteng
+AU  - Lin, Shu-Chin
+AU  - Wang, Jane-Ling
+AU  - Zhong, Qixian
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105573
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105573
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002890
+KW  - Concurrent regression
+KW  - Derivatives
+KW  - Functional data
+KW  - Local polynomial regression
+KW  - Varying-coefficient model
+AB  - Dynamic interactions among several stochastic processes are common in many scientific fields. It is crucial to model these interactions to understand the dynamic relationship of the corresponding multivariate processes with their derivatives and to improve predictions. In reality, full observations of the multivariate processes are not feasible as measurements can only be taken at discrete locations or time points, and often only sparingly and intermittently in longitudinal studies. This results in multivariate longitudinal data that are measured at different times for different subjects. We propose a time-dynamic model to handle multivariate longitudinal data by modeling the derivatives of multivariate processes using the values of these processes. Starting with a linear concurrent model, we develop methods to estimate the regression coefficient functions, which can accommodate irregularly measured longitudinal data that are possibly contaminated with noise. Our approach can also be applied to settings when the observational times are the same for all subjects. We establish the convergence rates of our estimators with phase transitions and further illustrate our model through a simulation study and a real data application.
+ER  - 
+
+TY  - JOUR
+T1  - Reprint: Statistical inference for linear mediation models with high-dimensional mediators and application to studying stock reaction to COVID-19 pandemic
+AU  - Guo, Xu
+AU  - Li, Runze
+AU  - Liu, Jingyuan
+AU  - Zeng, Mudong
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105650
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105650
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003664
+KW  - Mediation analysis
+KW  - Penalized least squares
+KW  - Sparsity
+KW  - Wald test
+AB  - Mediation analysis draws increasing attention in many research areas such as economics, finance and social sciences. In this paper, we propose new statistical inference procedures for high dimensional mediation models, in which both the outcome model and the mediator model are linear with high dimensional mediators. Traditional procedures for mediation analysis cannot be used to make statistical inference for high dimensional linear mediation models due to high-dimensionality of the mediators. We propose an estimation procedure for the indirect effects of the models via a partially penalized least squares method, and further establish its theoretical properties. We further develop a partially penalized Wald test on the indirect effects, and prove that the proposed test has a χ2 limiting null distribution. We also propose an F-type test for direct effects and show that the proposed test asymptotically follows a χ2-distribution under null hypothesis and a noncentral χ2-distribution under local alternatives. Monte Carlo simulations are conducted to examine the finite sample performance of the proposed tests and compare their performance with existing ones. We further apply the newly proposed statistical inference procedures to study stock reaction to COVID-19 pandemic via an empirical analysis of studying the mediation effects of financial metrics that bridge company’s sector and stock return.
+ER  - 
+
+TY  - JOUR
+T1  - Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property
+AU  - Cai, Zhanrui
+AU  - Li, Changcheng
+AU  - Wen, Jiawei
+AU  - Yang, Songshan
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105291
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000902
+KW  - ADMM
+KW  - High dimensional portfolio selection
+KW  - Parallel computing
+AB  - The presence of a huge number of assets poses challenges to classical portfolio selection algorithms. Constrained l1 minimization approaches have been proposed to directly estimate effective parameters in the optimal portfolio. Linear programming method and alternating direction method of multiplier (ADMM) algorithm is used to solve the corresponding minimization problems. However, these two algorithms may fail due to the limitations of computing time and computing memory when a huge number of assets are considered in the portfolio optimization. This article proposes an asset splitting ADMM (AS-ADMM for short), a parallel computing algorithm, to tackle such challenges, and establishes the convergence property of the new algorithm. Furthermore, we develop a new regularization method for estimating the effective parameters with the folded-concave penalty and establish its oracle property. The local linear approximation (LLA) algorithm is used to redirect the new method to a weighted l1 regularization method. We conduct simulation studies to investigate the advantage of the proposed algorithm and regularized model in solving the high dimensional portfolio selection problems. A real data example is also included to demonstrate the applicability of the proposed algorithms and regularization methods.
+ER  - 
+
+TY  - JOUR
+T1  - Power enhancement for testing multi-factor asset pricing models via Fisher’s method
+AU  - Yu, Xiufan
+AU  - Yao, Jiawei
+AU  - Xue, Lingzhou
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105458
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001525
+KW  - High-dimensional hypothesis testing
+KW  - Multi-factor pricing models
+KW  - Sparse alternatives
+KW  - Fisher’s method
+KW  - Power enhancement
+KW  - Bahadur efficiency
+AB  - Testing multi-factor asset pricing models is instrumental for asset pricing theory and practice. However, due to the accumulation of errors in estimating high-dimensional parameters, traditional quadratic-form tests such as the Wald test perform poorly against the sparse alternative hypothesis, i.e., a few mispriced assets. Fan et al. (2015b) introduced a powerful testing procedure by adding a power enhancement component to the Wald test statistic and proved power enhancement properties. To provide an alternative to their methodology, we first instantiate the power enhancement component by introducing a new maximum-form test statistic and then study the asymptotic joint distribution of the Wald test statistic and the maximum test statistic. We prove that these two test statistics are asymptotically independent. Given their asymptotic independence, we propose a new power-enhanced testing procedure to combine their respective power based on Fisher’s method (Fisher, 1925). Theoretically, we prove that the new power-enhanced test retains the desired nominal significance level and achieves asymptotically consistent power against more general alternatives. Furthermore, we demonstrate the finite-sample performance of our proposed power-enhanced test in both simulation studies and an empirical study of testing market efficiency using asset returns of the Russel-2000 portfolio.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on the best policies with many covariates
+AU  - Wei, Waverly
+AU  - Zhou, Yuqing
+AU  - Zheng, Zeyu
+AU  - Wang, Jingshen
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105460
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001549
+KW  - Winner’s curse
+KW  - High dimensional data
+KW  - Linear regression
+KW  - Order statistics
+AB  - Understanding the impact of the most effective policies or treatments on a response variable of interest is desirable in many empirical works in economics, statistics and other disciplines. Due to the widespread winner’s curse phenomenon, conventional statistical inference assuming that the top policies are chosen independent of the random sample may lead to overly optimistic evaluations of the best policies. In recent years, given the increased availability of large datasets, such an issue can be further complicated when researchers include many covariates to estimate the policy or treatment effects in an attempt to control for potential confounders. In this manuscript, to simultaneously address the above-mentioned issues, we propose a resampling-based procedure that not only lifts the winner’s curse in evaluating the best policies observed in a random sample, but also is robust to the presence of many covariates. The proposed inference procedure yields accurate point estimates and valid frequentist confidence intervals that achieve the exact nominal level as the sample size goes to infinity for multiple best policy effect sizes. We illustrate the finite-sample performance of our approach through Monte Carlo experiments and two empirical studies, evaluating the most effective policies in charitable giving and the most beneficial group of workers in the National Supported Work program.
+ER  - 
+
+TY  - JOUR
+T1  - A post-screening diagnostic study for ultrahigh dimensional data
+AU  - Zhang, Yaowu
+AU  - Zhou, Yeqing
+AU  - Zhu, Liping
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105354
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001877
+KW  - Conditional independence
+KW  - Lack-of-fit test
+KW  - Sufficient dimension reduction
+KW  - Sure screening property
+KW  - Ultrahigh dimensionality
+AB  - We propose a consistent lack-of-fit test to assess whether replacing the original ultrahigh dimensional covariates with a given number of linear combinations results in a loss of regression information. To attenuate the spurious correlations that may inflate type-I error rates in high dimensions, we suggest to randomly split the observations into two parts. In the first part, we screen out as many irrelevant covariates as possible. This screening step helps to reduce the ultrahigh dimensionality to a moderate scale. In the second part, we perform a lack-of-fit test for conditional independence in the context of sufficient dimension reduction. In case that some important covariates are missed with a non-ignorable probability in the first screening stage, we introduce a multiple splitting procedure. We further propose a new statistic to test for conditional independence, which is shown to be n-consistent under the null and root-n-consistent under the alternative. We develop a consistent bootstrap procedure to approximate the asymptotic null distribution. The performances of our proposal are evaluated through comprehensive simulations and an empirical analysis of GDP data.
+ER  - 
+
+TY  - JOUR
+T1  - Mining the factor zoo: Estimation of latent factor models with sufficient proxies
+AU  - Wan, Runzhe
+AU  - Li, Yingying
+AU  - Lu, Wenbin
+AU  - Song, Rui
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105386
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.08.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000179
+KW  - Low rank
+KW  - Heavy tails
+KW  - High dimensionality
+KW  - Reduced-rank regression
+AB  - Latent factor model estimation typically relies on either using domain knowledge to manually pick several observed covariates as factor proxies, or purely conducting multivariate analysis such as principal component analysis. However, the former approach may suffer from the bias while the latter cannot incorporate additional information. We propose to bridge these two approaches while allowing the number of factor proxies to diverge, and hence make the latent factor model estimation robust, flexible, and statistically more accurate. As a bonus, the number of factors is also allowed to grow. At the heart of our method is a penalized reduced rank regression to combine information. To further deal with heavy-tailed data, a computationally attractive penalized robust reduced rank regression method is proposed. We establish faster rates of convergence compared with the benchmark. Extensive simulations and real examples are used to illustrate the advantages.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105706
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00052-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000526
+ER  - 
+
+TY  - JOUR
+T1  - Inferential theory for generalized dynamic factor models
+AU  - Barigozzi, Matteo
+AU  - Hallin, Marc
+AU  - Luciani, Matteo
+AU  - Zaffaroni, Paolo
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105422
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000593
+KW  - High-dimensional time series
+KW  - Generalized dynamic factor models
+KW  - One-sided representations of dynamic factor models
+KW  - Asymptotic distribution
+KW  - Confidence intervals
+AB  - We provide the asymptotic distributional theory for the so-called General or Generalized Dynamic Factor Model (GDFM), laying the foundations for an inferential approach in the GDFM analysis of high-dimensional time series. By exploiting the duality between common shocks and dynamic loadings, we derive the asymptotic distribution and associated standard errors for a class of estimators for common shocks, dynamic loadings, common components, and impulse response functions. We present an empirical application aimed at constructing a “core” inflation indicator for the U.S. economy, which demonstrates the superiority of the GDFM-based indicator over the most common approaches, particularly the one based on Principal Components.
+ER  - 
+
+TY  - JOUR
+T1  - A Multi-Kink quantile regression model with common structure for panel data analysis
+AU  - Sun, Yan
+AU  - Wan, Chuang
+AU  - Zhang, Wenyang
+AU  - Zhong, Wei
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105304
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001178
+KW  - Binary segmentation
+KW  - Common structure
+KW  - Homogeneity pursuit
+KW  - Multi-kink quantile regression
+KW  - Panel data analysis
+AB  - Stimulated by the analysis of a data set on financial portfolio returns, we propose a multi-kink quantile regression (MKQR) model with latent homogeneous structure for panel data analysis. The proposed model accounts for both homogeneity and heterogeneity among individuals and parameters in panel data analysis. From statistical modeling point of view, it well balances the risk of misspecification and the model parsimony. From practical point of view, it is able to reveal not only the impacts of covariates in the global sense, but also individual attributes. An estimation procedure is presented to estimate both the unknown parameters and the latent homogeneous structure in the proposed model. Computational issues with the implementation of the estimation procedure are also discussed. Asymptotic theory of the estimators is established. It shows the necessity of taking into account both homogeneity and heterogeneity in panel data analysis. Monte Carlo simulation studies are conducted to demonstrate the finite sample performance of the proposed estimation and the risk of ignoring the homogeneity or heterogeneity among individuals. Finally, we apply the proposed model and the estimation procedure to the data set which stimulates this work and reveal some interesting findings.
+ER  - 
+
+TY  - JOUR
+T1  - Volatility prediction comparison via robust volatility proxies: An empirical deviation perspective
+AU  - Wang, Weichen
+AU  - An, Ran
+AU  - Zhu, Ziwei
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105633
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105633
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003494
+KW  - Volatility forecasting
+KW  - Robust loss function
+KW  - Huber minimization
+KW  - Risk management
+KW  - Crypto market
+AB  - Volatility forecasting is crucial to risk management and portfolio construction. One particular challenge of assessing volatility forecasts is how to construct a robust proxy for the unknown true volatility. In this work, we show that the empirical loss comparison between two volatility predictors hinges on the deviation of the volatility proxy from the true volatility. We then establish non-asymptotic deviation bounds for three robust volatility proxies, two of which are based on clipped data, and the third of which is based on exponentially weighted Huber loss minimization. In particular, in order for the Huber approach to adapt to non-stationary financial returns, we propose to solve a tuning-free weighted Huber loss minimization problem to jointly estimate the volatility and the optimal robustification parameter at each time point. We then inflate this robustification parameter and use it to update the volatility proxy to achieve optimal balance between the bias and variance of the global empirical loss. We also extend this Huber method to construct volatility predictors. Finally, we exploit the proposed robust volatility proxy to compare different volatility predictors on the Bitcoin market data and calibrated synthetic data. It turns out that when the sample size is limited, applying the robust volatility proxy gives more consistent and stable evaluation of volatility forecasts.
+ER  - 
+
+TY  - JOUR
+T1  - Mixed membership estimation for social networks
+AU  - Jin, Jiashun
+AU  - Ke, Zheng Tracy
+AU  - Luo, Shengming
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105369
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622002081
+KW  - Citee network
+KW  - Coauthorship network
+KW  - Communities
+KW  - Node embedding
+KW  - Political blogs
+KW  - SCORE
+KW  - Simplex
+KW  - Spectral clustering
+KW  - Trade network
+AB  - In economics and social science, network data are regularly observed, and a thorough understanding of the network community structure facilitates the comprehension of economic patterns and activities. Consider an undirected network with n nodes and K communities. We model the network using the Degree-Corrected Mixed-Membership (DCMM) model, where for each node i=1,2,…,n, there exists a membership vector πi=(πi(1),πi(2),…,πi(K))′, where πi(k) is the weight that node i puts on community k, 1≤k≤K. In comparison to the well-known stochastic block model (SBM), the DCMM permits both severe degree heterogeneity and mixed memberships, making it more realistic and general. We present an efficient approach, Mixed-SCORE, for estimating the mixed membership vectors of all nodes and the other DCMM parameters. This approach is inspired by the discovery of a delicate simplex structure in the spectral domain. We derive explicit error rates for the Mixed-SCORE algorithm and demonstrate that it is rate-optimal over a broad parameter space. Our findings provide a novel statistical tool for network community analysis, which can be used to understand network formations, extract nodal features, identify unobserved covariates in dyadic regressions, and estimate peer effects. We applied Mixed-SCORE to a political blog network, two trade networks, a co-authorship network, and a citee network, and obtained interpretable results.
+ER  - 
+
+TY  - JOUR
+T1  - Data science in economics and finance: Introduction
+AU  - Cattaneo, Matias D.
+AU  - Fan, Yingying
+AU  - Li, Runze
+AU  - Song, Rui
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105627
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105627
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003433
+ER  - 
+
+TY  - JOUR
+T1  - Testing equality of several distributions in separable metric spaces: A maximum mean discrepancy based approach
+AU  - Zhang, Jin-Ting
+AU  - Guo, Jia
+AU  - Zhou, Bu
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105286
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000859
+KW  - Data heterogeneity
+KW  - Multi-sample test for equal distributions
+KW  - Maximum mean discrepancy
+KW  - Three-cumulant matched chi-square-approximation
+KW  - Gaussian kernel
+AB  - A new test for equal distributions of several high-dimensional samples in separable metric spaces, with its test statistic constructed based on maximum mean discrepancy, is proposed and studied. The asymptotic null and alternative distributions of the test statistic are established under some mild conditions. The new test is implemented via a three-cumulant matched chi-square approximation with the associated approximation parameters consistently estimated from the data. A new data-adaptive Gaussian kernel width selection method is also suggested. Good performance of the new test is illustrated by intensive simulation studies and a real data example of Gini index curves.
+ER  - 
+
+TY  - JOUR
+T1  - Bipartite network influence analysis of a two-mode network
+AU  - Wu, Yujia
+AU  - Lan, Wei
+AU  - Fan, Xinyan
+AU  - Fang, Kuangnan
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105562
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105562
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002786
+KW  - Bipartite network influence model
+KW  - Quasi-maximum likelihood estimation
+KW  - Score test
+KW  - Link function selection
+AB  - A two-mode network contains two types of nodes, and edges exist only between any two nodes that are associated with different entities. Owing to the network connections (i.e., edges) between the two types of network nodes, nodal responses are unlikely to be independently and identically distributed, resulting in possible nodal heterogeneity across the two types of nodes. This study proposes a novel bipartite network influence model (BNIM) to evaluate nodal heterogeneity from the perspective of nodal influence. To make the model estimable, we parameterize the influence indices with a set of nodal attributes through a prespecified link function, and employ the quasi-maximum likelihood approach to estimate the unknown parameters. Score tests are presented to examine the heterogeneity of nodal influences across the two types of nodes. To assess the adequacy of the link function, we carry out a quasi-likelihood ratio test and establish its asymptotic properties under the appropriate conditions. Simulation studies and the real data analysis of a fund-stock network are studied to assess the finite-sample performance of BNIM.
+ER  - 
+
+TY  - JOUR
+T1  - Reprint: Hypothesis testing on high dimensional quantile regression
+AU  - Chen, Zhao
+AU  - Cheng, Vivian Xinyi
+AU  - Liu, Xu
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105651
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105651
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003676
+KW  - Heavy-tailed distribution
+KW  - High dimensional test
+KW  - Nuisance parameter
+KW  - Significance of variables
+AB  - Quantile regression has been an important analytical tool in econometrics since it was proposed in 1970s. Many advantages make it still popular in the era of big data. This paper focuses on the testing problems of high-dimensional quantile regression, supplementing to robust methods in the literature of high-dimensional hypothesis testing. We first construct a new test statistic based on the quantile regression score function. The new test statistic avoids the inverse operation of the covariance matrix, and hence becomes applicable to high-dimensional or even ultrahigh-dimensional settings. The proposed method retains robustness for non-Gaussian and heavy-tailed distributions. We then derive the limiting distributions of the proposed test statistic under both the null and the alternative hypotheses. We further investigate the case where the design matrix follows an elliptical distribution. We examined the finite sample performance of our proposed method through Monte Carlo simulations. The numerical comparisons exhibit that our proposed tests outperform some existing methods in terms of controlling Type I error rate and power, when the data deviate from the Gaussian assumptions or are heavy-tailed. We illustrate our proposed high-dimensional quantile testing in financial econometrics, through an empirical analysis of Chinese stock market data.
+ER  - 
+
+TY  - JOUR
+T1  - Spherical autoregressive models, with application to distributional and compositional time series
+AU  - Zhu, Changbo
+AU  - Müller, Hans-Georg
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105389
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000209
+KW  - Time series analysis
+KW  - Fisher–Rao metric
+KW  - Skew-symmetric operators
+KW  - Rotation
+KW  - Random objects
+AB  - We introduce a new class of autoregressive models for spherical time series. The dimension of the spheres on which the observations of the time series are situated may be finite-dimensional or infinite-dimensional, where in the latter case we consider the Hilbert sphere. Spherical time series arise in various settings. We focus here on distributional and compositional time series. Applying a square root transformation to the densities of the observations of a distributional time series maps the distributional observations to the Hilbert sphere, equipped with the Fisher–Rao metric. Likewise, applying a square root transformation to the components of the observations of a compositional time series maps the compositional observations to a finite-dimensional sphere, equipped with the geodesic metric on spheres. The challenge in modeling such time series lies in the intrinsic non-linearity of spheres and Hilbert spheres, where conventional arithmetic operations such as addition or scalar multiplication are no longer available. To address this difficulty, we consider rotation operators to map observations on the sphere. Specifically, we introduce a class of skew-symmetric operators such that the associated exponential operators are rotation operators that for each given pair of points on the sphere map the first point of the pair to the second point of the pair. We exploit the fact that the space of skew-symmetric operators is Hilbertian to develop autoregressive modeling of geometric differences that correspond to rotations of spherical and distributional time series. Differences expressed in terms of rotations can be taken between the Fréchet mean and the observations or between consecutive observations of the time series. We derive theoretical properties of the ensuing autoregressive models and showcase these approaches with several motivating data. These include a time series of yearly observations of bivariate distributions of the minimum/maximum temperatures for a period of 120 days during each summer for the years 1990-2018 at Los Angeles (LAX) and John F. Kennedy (JFK) international airports. A second data application concerns a compositional time series with annual observations of compositions of energy sources for power generation in the U.S..
+ER  - 
+
+TY  - JOUR
+T1  - Realized regression with asynchronous and noisy high frequency and high dimensional data
+AU  - Chen, Dachuan
+AU  - Mykland, Per A.
+AU  - Zhang, Lan
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105446
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.015
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300132X
+KW  - Asynchronous sampling times
+KW  - Factor model
+KW  - High dimensionality
+KW  - High frequency
+KW  - Market microstructure noise
+KW  - Realized regression
+KW  - Spot beta
+KW  - Integrated beta
+KW  - Spot covariance and precision matrices
+AB  - We develop regression for high frequency data. This regression is novel in that it can be for both fixed and increasing dimension. Also, the data may have microstructure noise, and observations (trades, or quotes) can be asynchronous, (i.e., the observations do not need to be synchronized across dimensions). As is customary for high-frequency inference methods, we refer to our method as “realized” regression. In our methodology, spot beta becomes a key quantity in the nonparametric framework of high frequency econometrics. The central contribution of this paper is a feasible estimator of spot beta, which is robust to noise and asynchronicity. With the help of the spot-version of the Smoothed TSRV estimator, spot beta can be consistently estimated. There are two direct applications of the spot beta estimates in the current paper. In the first application, the integrated beta can be consistently estimated by aggregating the spot beta estimates. After a bias-correction procedure, a fixed dimension central limit theorem is established for the bias-corrected estimator, with convergence rate which may be arbitrarily close to Op(n−1/4). In the second application we assume time-varying factor structure and conditional sparsity. The spot beta matrix estimator enables the estimation of high dimensional spot covariance and precision matrices. The latter is obtained by thresholding the spot residual covariance estimates, and convergence rates derived. As an empirical application, this paper explores the hourly change in beta around earnings announcements of the S&P 100 constituents.
+ER  - 
+
+TY  - JOUR
+T1  - Retire: Robust expectile regression in high dimensions
+AU  - Man, Rebeka
+AU  - Tan, Kean Ming
+AU  - Wang, Zian
+AU  - Zhou, Wen-Xin
+JO  - Journal of Econometrics
+VL  - 239
+IS  - 2
+SP  - 105459
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001537
+KW  - Expectile regression
+KW  - Heavy-tailed error
+KW  - Quantile regression
+KW  - Robustness
+KW  - Concave regularization
+AB  - High-dimensional data can often display heterogeneity due to heteroscedastic variance or inhomogeneous covariate effects. Penalized quantile and expectile regression methods offer useful tools to detect heteroscedasticity in high-dimensional data. The former is computationally challenging due to the non-smooth nature of the check loss, and the latter is sensitive to heavy-tailed error distributions. In this paper, we propose and study (penalized) robust expectile regression (retire), with a focus on iteratively reweighted ℓ1-penalization which reduces the estimation bias from ℓ1-penalization and leads to oracle properties. Theoretically, we establish the statistical properties of the retire estimator under two regimes: (i) low-dimensional regime in which d≪n; (ii) high-dimensional regime in which s≪n≪d with s denoting the number of significant predictors. In the high-dimensional setting, we thoroughly analyze the statistical properties of the solution path of iteratively reweighted ℓ1-penalized retire estimation, adapted from the local linear approximation algorithm for folded-concave regularization. Under a mild minimum signal strength condition, we demonstrate that with as few as log(logd) iterations, the final iterate of our proposed approach achieves the oracle convergence rate. At each iteration, we solve the weighted ℓ1-penalized convex program using a semismooth Newton coordinate descent algorithm. Numerical studies demonstrate the promising performance of the proposed procedure in comparison to both non-robust and quantile regression based alternatives.
+ER  - 

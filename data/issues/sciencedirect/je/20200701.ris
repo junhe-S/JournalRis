@@ -1,0 +1,185 @@
+TY  - JOUR
+T1  - High frequency traders and the price process
+AU  - Aït-Sahalia, Yacine
+AU  - Brunetti, Celso
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 20
+EP  - 45
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302428
+KW  - High frequency trading
+KW  - Liquidity
+KW  - Market impact
+KW  - Price process
+KW  - Volatility
+KW  - Jumps
+KW  - Market microstructure noise
+AB  - Using a dataset that uniquely identifies counterparties to each S&P500 eMini transaction, we classify each market participant as high or low frequency, and each transaction, by the speed of the traders involved. We investigate empirically the comparative influence of high and low frequency traders on the price process, and conversely the influence of the price process on the trading of high and low frequency traders. We find that high frequency traders have a particularly high success rate on each transaction, measured by the likelihood that the following price change will go in their direction as well as by the amount of time they have to wait to realize their gain, when trading against low frequency traders. Contrary to common wisdom, we find that high frequency traders’ activity does not induce volatility or jumps. In fact, it is their absence that is problematic: volatility and jumps are more prevalent in periods when they trade less intensely. Conversely, we find that spikes in volatility and jumps cause high frequency traders to trade less intensely, decreasing their provision of liquidity. Finally, looking at the market microstructure noise component to the price model, we find that higher level of noise generates trading opportunities for high frequency traders and lead them to increase their trading activity.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating derivatives of function-valued parameters in a class of moment condition models
+AU  - Rothe, Christoph
+AU  - Wied, Dominik
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 1
+EP  - 19
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302416
+KW  - Quantile regression
+KW  - Distribution regression
+KW  - Local linear smoothing
+KW  - Conditional density estimation
+KW  - Quantile partial effects
+AB  - We develop a general approach to estimating the derivative of a function-valued parameter θo(u) that is identified for every value of u as the solution to a moment condition. This setup in particular covers interesting models for conditional distributions, such as quantile regression or distribution regression. Exploiting that θo(u) solves a moment condition, we obtain an explicit expression for its derivative from the Implicit Function Theorem, and then estimate the components of this expression by suitable sample analogues. The last step generally involves (local linear) smoothing of the empirical moment condition. Our estimators can then be used for a variety of purposes, including the estimation of conditional density functions, quantile partial effects, and the distribution of bidders’ valuations in structural auction models.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric analysis of a duration model with stochastic unobserved heterogeneity
+AU  - Botosaru, Irene
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 112
+EP  - 139
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930243X
+KW  - Duration model
+KW  - Lévy process
+KW  - Nonlinear Volterra integral equation of the first kind
+KW  - Shape restricted estimation
+AB  - This paper develops nonparametric identification and estimation results for a single-spell hazard model, where the unobserved heterogeneity is specified as a Lévy subordinator. The identification approach solves a nonlinear Volterra integral equation of the first kind with an unknown kernel function. Both the kernel of the integral operator, which models the distribution of the unobserved heterogeneity, and the functions that enter it are identified given regularity conditions and minimal variation in the observed covariates. The paper proposes a shape-constrained nonparametric two-step sieve minimum distance estimator. Rates of convergence are derived and Monte Carlo experiments show the finite sample performance of the estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - ii
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30162-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301627
+ER  - 
+
+TY  - JOUR
+T1  - Posterior distribution of nondifferentiable functions
+AU  - Kitagawa, Toru
+AU  - Montiel Olea, José Luis
+AU  - Payne, Jonathan
+AU  - Velez, Amilcar
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 161
+EP  - 175
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300014
+KW  - Bootstrap
+KW  - Bernstein–von Mises theorem
+KW  - Directional differentiability
+KW  - Posterior inference
+AB  - This paper examines the asymptotic behavior of the posterior distribution of a possibly nondifferentiable function g(θ), where θ is a finite-dimensional parameter of either a parametric or semiparametric model. The main assumption is that the distribution of a suitable estimator θ̂n, its bootstrap approximation, and the Bayesian posterior for θ all agree asymptotically. It is shown that whenever g is locally Lipschitz, though not necessarily differentiable, the posterior distribution of g(θ) and the bootstrap distribution of g(θ̂n) coincide asymptotically. One implication is that Bayesians can interpret bootstrap inference for g(θ) as approximately valid posterior inference in a large sample. Another implication—built on known results about bootstrap inconsistency—is that credible intervals for a nondifferentiable parameter g(θ) cannot be presumed to be approximately valid confidence intervals (even when this relation holds true for θ).
+ER  - 
+
+TY  - JOUR
+T1  - Inference for high-dimensional instrumental variables regression
+AU  - Gold, David
+AU  - Lederer, Johannes
+AU  - Tao, Jing
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 79
+EP  - 111
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302386
+KW  - High-dimensional inference
+KW  - Instrumental variables
+KW  - De-biasing
+AB  - This paper concerns statistical inference for the components of a high-dimensional regression parameter despite possible endogeneity of each regressor. Given a first-stage linear model for the endogenous regressors and a second-stage linear model for the dependent variable, we develop a novel adaptation of the parametric one-step update to a generic second-stage estimator. We provide conditions under which the scaled update is asymptotically normal. We then introduce a two-stage Lasso procedure and show that the second-stage Lasso estimator satisfies the aforementioned conditions. Using these results, we construct asymptotically valid confidence intervals for the components of the second-stage regression coefficients. We complement our asymptotic theory with simulation studies, which demonstrate the performance of our method in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Relevant parameter changes in structural break models
+AU  - Dufays, Arnaud
+AU  - Rombouts, Jeroen V.K.
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 46
+EP  - 78
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302441
+KW  - Shrinkage prior
+KW  - Structural break model
+KW  - Relevant parameter change
+KW  - Bayesian inference
+AB  - Structural break time series models, which are commonly used in macroeconomics and finance, capture unknown structural changes by allowing for abrupt changes to model parameters. However, many specifications suffer from an over-parametrization issue, since typically all parameters have to change when a break occurs. We introduce a sparse change-point model to detect which parameters change over time. We propose a shrinkage prior distribution, which controls model parsimony by limiting the number of parameters that change from one structural break to another. We develop a Bayesian sampler for inference on the sparse change-point model. An extensive simulation study based on AR, ARMA and GARCH processes highlights the excellent performance of the sampler. We provide several empirical applications including an out-of-sample forecasting exercise showing that the Sparse change-point framework compares favorably with other recent time-varying parameter processes.
+ER  - 
+
+TY  - JOUR
+T1  - A coupled component DCS-EGARCH model for intraday and overnight volatility
+AU  - Linton, Oliver
+AU  - Wu, Jianbin
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 176
+EP  - 201
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300038
+KW  - DCS
+KW  - GAS
+KW  - GARCH
+KW  - Size-based portfolios
+KW  - Testing
+AB  - We propose a semi-parametric coupled component exponential GARCH model for intraday and overnight returns that allows the two series to have different dynamical properties. We adopt a dynamic conditional score model with t-distributed innovations that captures the very heavy tails of overnight returns. We propose a several-step estimation procedure that captures the nonparametric slowly moving components by kernel estimation and the dynamic parameters by maximum likelihood. We establish the consistency, asymptotic normality, and semiparametric efficiency of our semiparametric estimation procedures. We extend the modelling to the multivariate case where we allow time varying correlation between stocks. We apply our model to the study of Dow Jones industrial average component stocks and CRSP size-based portfolios over the period 1993–2017. We show that the ratio of overnight to intraday volatility has actually increased in importance for Dow Jones stocks during the last two decades. This ratio has also increased for large stocks in the CRSP database, but decreased for small stocks in CRSP.
+ER  - 
+
+TY  - JOUR
+T1  - Frequency domain estimation of cointegrating vectors with mixed frequency and mixed sample data
+AU  - Chambers, Marcus J.
+JO  - Journal of Econometrics
+VL  - 217
+IS  - 1
+SP  - 140
+EP  - 160
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030004X
+KW  - Mixed frequency data
+KW  - Mixed sample data
+KW  - Cointegration
+KW  - Spectral regression
+AB  - This paper proposes a simple method for exploiting the information contained in mixed frequency and mixed sample data in the estimation of cointegrating vectors. The asymptotic properties of easy-to-compute spectral regression estimators of the cointegrating vectors are derived and these estimators are shown to belong to the class of optimal cointegration estimators. Furthermore, Wald statistics based on these estimators have asymptotic chi-square distributions which enable inferences to be made straightforwardly. Simulation experiments suggest that the spectral regression estimators considered perform well in finite samples and are at least as good as time domain fully modified estimators. The finite sample size and power properties of the spectral regression-based Wald statistic are also found to be good.
+ER  - 

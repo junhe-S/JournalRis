@@ -1,0 +1,150 @@
+TY  - JOUR
+T1  - Long memory, fractional integration, and cross-sectional aggregation
+AU  - Haldrup, Niels
+AU  - Vera Valdés, J. Eduardo
+JO  - Journal of Econometrics
+VL  - 199
+IS  - 1
+SP  - 1
+EP  - 11
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300428
+KW  - Long memory
+KW  - Fractional integration
+KW  - Aggregation
+AB  - It is commonly argued that observed long memory in time series variables can result from cross-sectional aggregation of dynamic heterogeneous micro units. In this paper we demonstrate that the aggregation argument is consistent with a range of different long memory definitions. A simulation study shows that the cross-section dimension needs to be rather large to reflect the theoretical memory when using commonly used methods to estimate the memory parameter, especially when the theoretical memory is not too high. We show that the aggregated process will converge to a generalized fractional process in the limit. The coefficients of the moving average representation of the series decay hyperbolically but they differ from the coefficients arising from inversion of the fractional difference filter. It appears that the fractionally differenced series will have an autocorrelation function that still exhibits hyperbolic decay, but at a rate that ensures summability. The fractionally differenced series is thus I(0) but standard ARFIMA modeling is invalid when the long memory is caused by aggregation. It is shown that standard methods for estimating and selecting ARFIMA specifications fail in properly fitting the dynamics of the series.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation and testing of smooth coefficient spatial autoregressive models
+AU  - Malikov, Emir
+AU  - Sun, Yiguo
+JO  - Journal of Econometrics
+VL  - 199
+IS  - 1
+SP  - 12
+EP  - 34
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730043X
+KW  - Consistent test
+KW  - Constrained estimation
+KW  - Local linear fitting
+KW  - Nonparametric GMM
+KW  - Partially linear
+KW  - Quadratic moments
+KW  - SAR
+KW  - Spatial lag
+AB  - This paper considers a flexible semiparametric spatial autoregressive (mixed-regressive) model in which unknown coefficients are permitted to be nonparametric functions of some contextual variables to allow for potential nonlinearities and parameter heterogeneity in the spatial relationship. Unlike other semiparametric spatial dependence models, ours permits the spatial autoregressive parameter to meaningfully vary across units and thus allows the identification of a neighborhood-specific spatial dependence measure conditional on the vector of contextual variables. We propose several (locally) nonparametric GMM estimators for our model. The developed two-stage estimators incorporate both the linear and quadratic orthogonality conditions and are capable of accommodating a variety of data generating processes, including the instance of a pure spatially autoregressive semiparametric model with no relevant regressors as well as multiple partially linear specifications. All proposed estimators are shown to be consistent and asymptotically normal. We also contribute to the literature by putting forward two test statistics to test for parameter constancy in our model. Both tests are consistent.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 199
+IS  - 1
+SP  - IFC
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30057-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730057X
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic factor models with infinite-dimensional factor space: Asymptotic analysis
+AU  - Forni, Mario
+AU  - Hallin, Marc
+AU  - Lippi, Marco
+AU  - Zaffaroni, Paolo
+JO  - Journal of Econometrics
+VL  - 199
+IS  - 1
+SP  - 74
+EP  - 92
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300477
+KW  - High-dimensional time series
+KW  - Generalized dynamic factor models
+KW  - Vector processes with singular spectral density
+KW  - One-sided representations of dynamic factor models
+KW  - Consistency and rates
+AB  - Factor models, all particular cases of the Generalized Dynamic Factor Model (GDFM) introduced in Forni et al., (2000), have become extremely popular in the theory and practice of large panels of time series data. The asymptotic properties (consistency and rates) of the corresponding estimators have been studied in Forni et al. (2004). Those estimators, however, rely on Brillinger’s concept of dynamic principal components, and thus involve two-sided filters, which leads to rather poor forecasting performances. No such problem arises with estimators based on standard (static) principal components, which have been dominant in this literature. On the other hand, the consistency of those static estimators requires the assumption that the space spanned by the factors has finite dimension, which severely restricts their generality—prohibiting, for instance, autoregressive factor loadings. This paper derives the asymptotic properties of a semiparametric estimator of the loadings and common shocks based on one-sided filters recently proposed by Forni et al., (2015). Consistency and exact rates of convergence are obtained for this estimator, under a general class of GDFMs that does not require a finite-dimensional factor space. A Monte Carlo experiment and an empirical exercise on US macroeconomic data corroborate those theoretical results and demonstrate the excellent performance of those estimators in out-of-sample forecasting.
+ER  - 
+
+TY  - JOUR
+T1  - A unifying theory of tests of rank
+AU  - Al-Sadoon, Majid M.
+JO  - Journal of Econometrics
+VL  - 199
+IS  - 1
+SP  - 49
+EP  - 62
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300453
+KW  - Tests of rank
+KW  - Cointegration
+KW  - Plug-in principle
+KW  - Null space estimation
+KW  - Reduced-rank approximation
+KW  - Local power
+KW  - Misspecification
+AB  - The general principles underlying tests of matrix rank are investigated. It is demonstrated that statistics for such tests can be seen as implicit functions of null space estimators. In turn, the asymptotic behaviour of the null space estimators is shown to determine the asymptotic behaviour of the statistics through a plug-in principle. The theory simplifies the asymptotics under a variety of alternatives of empirical relevance as well as misspecification, clarifies the relationships between the various existing tests, makes use of important results in the numerical analysis literature, and motivates numerous new tests. A brief Monte Carlo study illustrates the results.
+ER  - 
+
+TY  - JOUR
+T1  - Identification in a generalization of bivariate probit models with dummy endogenous regressors
+AU  - Han, Sukjin
+AU  - Vytlacil, Edward J.
+JO  - Journal of Econometrics
+VL  - 199
+IS  - 1
+SP  - 63
+EP  - 73
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300465
+KW  - Identification
+KW  - Triangular threshold crossing model
+KW  - Bivariate probit model
+KW  - Dummy endogenous regressors
+KW  - Binary response
+KW  - Copula
+KW  - Exclusion restriction
+AB  - This paper provides identification results for a class of models specified by a triangular system of two equations with binary endogenous variables. The joint distribution of the latent error terms is specified through a parametric copula structure that satisfies a particular dependence ordering, while the marginal distributions are allowed to be arbitrary but known. This class of models is broad and includes bivariate probit models as a special case. The paper demonstrates that having an exclusion restriction is necessary and sufficient for global identification in a model without common exogenous covariates, where the excluded variable is allowed to be binary. Having an exclusion restriction is sufficient in models with common exogenous covariates that are present in both equations. The paper then extends the identification analyses to a model where the marginal distributions of the error terms are unknown.
+ER  - 
+
+TY  - JOUR
+T1  - Minimum distance from independence estimation of nonseparable instrumental variables models
+AU  - Torgovitsky, Alexander
+JO  - Journal of Econometrics
+VL  - 199
+IS  - 1
+SP  - 35
+EP  - 48
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300441
+KW  - Nonseparable models
+KW  - Instrumental variables
+KW  - Quantile regression
+KW  - Two-step estimation
+KW  - Minimum distance from independence
+KW  - Unobserved heterogeneity
+AB  - I develop a semiparametric minimum distance from independence estimator for a nonseparable instrumental variables model. An independence condition identifies the model for many types of discrete and continuous instruments. The estimator is taken as the parameter value that most closely satisfies this independence condition. Implementing the estimator requires a quantile regression of the endogenous variables on the instrument, so the procedure is two-step, with a finite or infinite-dimensional nuisance parameter in the first step. I prove consistency and establish asymptotic normality for a parametric, but flexibly nonlinear outcome equation. The consistency of the nonparametric bootstrap is also shown. I illustrate the use of the estimator by estimating the returns to schooling using data from the 1979 National Longitudinal Survey.
+ER  - 

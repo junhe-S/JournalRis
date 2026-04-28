@@ -1,0 +1,334 @@
+TY  - JOUR
+T1  - On the estimation of treatment effects with endogenous misreporting
+AU  - Nguimkeu, Pierre
+AU  - Denteh, Augustine
+AU  - Tchernis, Rusty
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 487
+EP  - 506
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301994
+KW  - Treatment effect
+KW  - Misclassification
+KW  - Endogeneity
+KW  - Binary regressor
+KW  - Partial observability
+KW  - Bias
+AB  - Participation in social programs is often misreported in survey data, complicating the estimation of treatment effects. We propose a model to estimate treatment effects under endogenous participation and endogenous misreporting. We present an expression for the asymptotic bias of both OLS and IV estimators and discuss the conditions under which sign reversal may occur. We provide a method for eliminating this bias when researchers have access to information regarding participation and misreporting. We establish the consistency and asymptotic normality of our proposed estimator and assess its small sample performance through Monte Carlo simulations. An empirical example illustrates the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for structural breaks in factor copula models
+AU  - Manner, Hans
+AU  - Stark, Florian
+AU  - Wied, Dominik
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 324
+EP  - 345
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301842
+KW  - Factor copula model
+KW  - Fluctuation test
+KW  - Simulated method of moments
+AB  - We propose new fluctuation tests for detecting structural breaks in factor copula models and analyse the behaviour under the null hypothesis of no change. In the model, the joint copula is given by the copula of random variables which arise from a factor model. This is particularly useful for analysing data with high dimensions. Parameters are estimated with the simulated method of moments (SMM). The discontinuity of the SMM objective function complicates the derivation of a functional limit theorem for the parameters. We analyse the behaviour of the tests in Monte Carlo simulations and a real data application. It turns out that our test is more powerful than nonparametric tests for copula constancy in high dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - A multiple testing approach to the regularisation of large sample correlation matrices
+AU  - Bailey, Natalia
+AU  - Pesaran, M. Hashem
+AU  - Smith, L. Vanessa
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 507
+EP  - 534
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302008
+KW  - High-dimensional data
+KW  - Multiple testing
+KW  - Non-Gaussian observations
+KW  - Sparsity
+KW  - Thresholding
+KW  - Shrinkage
+AB  - This paper proposes a regularisation method for the estimation of large covariance matrices that uses insights from the multiple testing (MT) literature. The approach tests the statistical significance of individual pair-wise correlations and sets to zero those elements that are not statistically significant, taking account of the multiple testing nature of the problem. The effective p-values of the tests are set as a decreasing function of N (the cross section dimension), the rate of which is governed by the nature of dependence of the underlying observations, and the relative expansion rates of N and T (the time dimension). In this respect, the method specifies the appropriate thresholding parameter to be used under Gaussian and non-Gaussian settings. The MT estimator of the sample correlation matrix is shown to be consistent in the spectral and Frobenius norms, and in terms of support recovery, so long as the true covariance matrix is sparse. The performance of the proposed MT estimator is compared to a number of other estimators in the literature using Monte Carlo experiments. It is shown that the MT estimator performs well and tends to outperform the other estimators, particularly when N is larger than T.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of a triangular model with multiple endogenous variables and insufficiently many instrumental variables
+AU  - Huang, Liquan
+AU  - Khalil, Umair
+AU  - Yıldız, Neşe
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 346
+EP  - 366
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301854
+KW  - Identification
+KW  - Multiple endogenous variables
+KW  - Control function approach
+AB  - We develop a novel identification method for a partially linear model with multiple endogenous variables of interest but a single instrumental variable, which could even be binary. We present an easy-to-implement consistent estimator for the parametric part. This estimator retains n-convergence rate and asymptotic normality even though we have a generated regressor in our setup. The nonparametric part of the model is also identified. We also outline how our identification strategy can be extended to a fully non-parametric model. Finally, we use our methods to assess the impact of smoking during pregnancy on birth weight.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic properties of the maximum likelihood estimator in regime switching econometric models
+AU  - Kasahara, Hiroyuki
+AU  - Shimotsu, Katsumi
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 442
+EP  - 467
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301970
+KW  - Asymptotic distribution
+KW  - Autoregressive conditional heteroscedasticity
+KW  - Maximum likelihood estimator
+KW  - Markov regime switching
+AB  - Markov regime switching models have been widely used in numerous empirical applications in economics and finance. However, the asymptotic distribution of the maximum likelihood estimator (MLE) has not been proven for some empirically popular Markov regime switching models. In particular, the asymptotic distribution of the MLE has been unknown for models in which some elements of the transition probability matrix have the value of zero, as is commonly assumed in empirical applications with models with more than two regimes. This also includes models in which the regime-specific density depends on both the current and the lagged regimes such as the seminal model of Hamilton (1989) and switching ARCH model of Hamilton and Susmel (1994). This paper shows the asymptotic normality of the MLE and consistency of the asymptotic covariance matrix estimate of these models.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent estimation of time-varying loadings in high-dimensional factor models
+AU  - Mikkelsen, Jakob Guldbæk
+AU  - Hillebrand, Eric
+AU  - Urga, Giovanni
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 535
+EP  - 562
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.020
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761830215X
+KW  - Factor models
+KW  - Time-varying loadings
+KW  - Consistent estimation
+KW  - Maximum likelihood estimation
+KW  - Two-step estimation
+KW  - Principal components
+AB  - In this paper, we develop a two-step maximum likelihood estimator of time-varying loadings in high-dimensional factor models. We specify the loadings to evolve as stationary vector autoregressions (VAR) and show that consistent estimates of the loadings parameters can be obtained. In the first step, principal components are extracted from the data to form factor estimates. In the second step, the parameters of the loadings VARs are estimated as a set of linear regression models with time-varying coefficients. We document the finite-sample properties of the maximum likelihood estimator through an extensive simulation study and illustrate the empirical relevance of the time-varying loadings structure using a large quarterly dataset for the US economy.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - ii
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30265-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302653
+ER  - 
+
+TY  - JOUR
+T1  - Testing treatment effect heterogeneity in regression discontinuity designs
+AU  - Hsu, Yu-Chin
+AU  - Shen, Shu
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 468
+EP  - 486
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301982
+KW  - Sharp regression discontinuity
+KW  - Fuzzy regression discontinuity
+KW  - Treatment effect heterogeneity
+AB  - Treatment effect heterogeneity is frequently studied in regression discontinuity (RD) applications. This paper proposes, under the RD setup, formal tests for treatment effect heterogeneity among individuals with different observed pre-treatment characteristics. The proposed tests study whether a policy treatment (1) is beneficial for at least some subpopulations defined by pre-treatment covariate values, (2) has any impact on at least some subpopulations, and (3) has a heterogeneous impact across subpopulations. The empirical section applies the tests to study the impact of attending a better high school and discovers interesting patterns of treatment effect heterogeneity neglected by previous studies.
+ER  - 
+
+TY  - JOUR
+T1  - Identification by Laplace transforms in nonlinear time series and panel models with unobserved stochastic dynamic effects
+AU  - Gagliardini, Patrick
+AU  - Gouriéroux, Christian
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 613
+EP  - 637
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.01.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302185
+KW  - Semi-parametric identification
+KW  - Nonlinear factor model
+KW  - Conditional moment restrictions
+KW  - Cross-differencing
+KW  - Count panel data
+AB  - We consider nonlinear parametric and semi-parametric models for time series and panel data including unobserved dynamic effects. These regression models have an affine specification with respect to lagged endogenous variables and unobserved dynamic effects. We derive conditional moment restrictions based on suitable Laplace transforms. We show how to deploy these nonlinear moment restrictions to identify the parameters of the affine regression model, and the parametric or nonparametric distribution of the unobserved effects. This approach is appropriate for studying identification in (nonlinear) latent factor models encountered in macroeconomic and financial applications as well as in panel models with stochastic time effects.
+ER  - 
+
+TY  - JOUR
+T1  - GEL estimation and tests of spatial autoregressive models
+AU  - Jin, Fei
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 585
+EP  - 612
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302173
+KW  - Spatial autoregressive model
+KW  - Empirical likelihood
+KW  - Higher order asymptotic bias
+KW  - Unknown heteroskedasticity
+KW  - Non-normality
+KW  - EL ratio test
+AB  - This paper considers the generalized empirical likelihood (GEL) estimation and tests of high order spatial autoregressive (SAR) models by exploring an inherent martingale structure. The GEL estimator has the same asymptotic distribution as the generalized method of moments estimator explored with same moment conditions for estimation, but circumvents a first step estimation of the optimal weighting matrix with a preliminary estimator, and thus can be robust to unknown heteroskedasticity and non-normality. While the GEL removes the asymptotic bias from the preliminary estimator and partially removes the bias due to the correlation between the moment conditions and their Jacobian, the empirical likelihood as a special member of GELs further partially removes the bias from estimating the second moment matrix. We also formulate the GEL overidentification test, Moran’s I test, and GEL ratio tests for parameter restrictions and non-nested hypotheses. While some of the conventional tests might not be robust to non-normality and/or unknown heteroskedasticity, the corresponding GEL tests can be robust.
+ER  - 
+
+TY  - JOUR
+T1  - Alternative tests for correct specification of conditional predictive densities
+AU  - Rossi, Barbara
+AU  - Sekhposyan, Tatevik
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 638
+EP  - 657
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.07.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302197
+KW  - Predictive density
+KW  - Probability integral transform
+KW  - Kolmogorov–Smirnov test
+KW  - Cramér–von Mises test
+KW  - Forecast evaluation
+AB  - We propose a new framework for evaluating predictive densities in an environment where the estimation error of the parameters used to construct the densities is preserved asymptotically under the null hypothesis. The tests offer a simple way to evaluate the correct specification of predictive densities, where both the model specification and its estimation technique are evaluated jointly. Monte Carlo simulation results indicate that our tests are well sized and have good power in detecting misspecification. An empirical application to density forecasts of the Survey of Professional Forecasters shows the usefulness of our methodology.
+ER  - 
+
+TY  - JOUR
+T1  - A computationally efficient fixed point approach to dynamic structural demand estimation
+AU  - Sun, Yutec
+AU  - Ishihara, Masakazu
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 563
+EP  - 584
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302161
+KW  - Nested fixed point
+KW  - BLP
+KW  - Dynamic
+KW  - MCMC
+KW  - Random coefficients logit
+AB  - This paper develops a computationally efficient approach to the estimation of dynamic structural demand with product panel data. The conventional GMM approach relies on two nested fixed point (NFP) algorithms, each developed by Rust (1987) and Berry, Levinsohn, and Pakes (1995). We transform the GMM into a quasi-Bayesian (Laplace type) estimator and develop a new MCMC method that efficiently solves the fixed point problems. Our approach requires no stronger assumptions than the GMM and can thus avoid bias from misspecified models. In Monte Carlo analysis, the new method outperforms both NFP and MPEC, particularly in large-scale estimations.
+ER  - 
+
+TY  - JOUR
+T1  - Determination of vector error correction models in high dimensions
+AU  - Liang, Chong
+AU  - Schienle, Melanie
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 418
+EP  - 441
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.09.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301969
+KW  - High-dimensional time series
+KW  - VECM
+KW  - Cointegration rank and lag selection
+KW  - Lasso
+KW  - Credit default swap
+AB  - We provide a shrinkage type methodology which allows for simultaneous model selection and estimation of vector error correction models (VECM) when the dimension is large and can increase with sample size. Model determination is treated as a joint selection problem of cointegrating rank and autoregressive lags under respective practically valid sparsity assumptions. We show consistency of the selection mechanism by the resulting Lasso-VECM estimator under very general assumptions on dimension, rank and error terms. Moreover, with computational complexity of a linear programming problem only, the procedure remains computationally tractable in high dimensions. We demonstrate the effectiveness of the proposed approach by a simulation study and an empirical application to recent CDS data after the financial crisis.
+ER  - 
+
+TY  - JOUR
+T1  - Residual bootstrap tests in linear models with many regressors
+AU  - Richard, Patrick
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 367
+EP  - 394
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301921
+KW  - Bootstrap
+KW  - Linear regressions
+KW  - Many restrictions
+KW  - Asymptotic refinements
+AB  - This paper is concerned with bootstrap hypothesis testing in linear regression models with many regressors. I show that bootstrap F, LR and LM tests are asymptotically valid even when the numbers of estimated parameters and tested restrictions are not asymptotically negligible fractions of the sample size. One of the conditions for these results is that the regressors come from an asymptotically balanced design. Depending on the number of restrictions tested and on the errors’ distribution, violation of that condition might render the bootstrap tests asymptotically invalid. In that case, I propose bootstrapping Calhoun’s (2011) G statistic or modified versions of the LR and LM statistics, and show that these procedures remain asymptotically valid. Monte Carlo simulations indicate that the bootstrap tests often outperform asymptotic ones. However, analyzing the approximate third cumulant of the F statistic reveals that the bootstrap test does not generally provide the usual higher order asymptotic refinements. Nevertheless, it is found that the bootstrap third cumulant partially matches the population third cumulant, which might explain the bootstrap’s good finite sample performances, especially when the errors come from a symmetric distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Factor GARCH-Itô models for high-frequency data with application to large volatility matrix prediction
+AU  - Kim, Donggyu
+AU  - Fan, Jianqing
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 395
+EP  - 417
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618301957
+KW  - Factor model
+KW  - GARCH
+KW  - Low-rank
+KW  - POET
+KW  - Quasi-maximum likelihood estimator
+KW  - Sparsity
+AB  - Several novel large volatility matrix estimation methods have been developed based on the high-frequency financial data. They often employ the approximate factor model that leads to a low-rank plus sparse structure for the integrated volatility matrix and facilitates estimation of large volatility matrices. However, for predicting future volatility matrices, these nonparametric estimators do not have a dynamic structure to implement. In this paper, we introduce a novel Itô diffusion process based on the approximate factor models and call it a factor GARCH-Itô model. We then investigate its properties and propose a quasi-maximum likelihood estimation method for the parameter of the factor GARCH-Itô model. We also apply it to estimating conditional expected large volatility matrices and establish their asymptotic properties. Simulation studies are conducted to validate the finite sample performance of the proposed estimation methods. The proposed method is also illustrated by using data from the constituents of the S&P 500 index and an application to constructing the minimum variance portfolio with gross exposure constraints.
+ER  - 
+
+TY  - JOUR
+T1  - Announcement
+JO  - Journal of Econometrics
+VL  - 208
+IS  - 2
+SP  - 323
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618302616
+ER  - 

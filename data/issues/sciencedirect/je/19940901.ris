@@ -1,0 +1,377 @@
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - IFC
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90053-1
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900531
+ER  - 
+
+TY  - JOUR
+T1  - Subsample instability and asymmetries in money-income causality
+AU  - Thoma, Mark A
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 279
+EP  - 306
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90066-3
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900663
+KW  - Causality
+KW  - Money
+KW  - Asymmetries
+KW  - Subsample instability
+AB  - One puzzle in the money-income causality literature is the variability in results across sample periods, particularly with regard to the 1980's. This paper shows that the p-values of money-income causality tests across sample periods are highly correlated with the level of real activity. When real activity declines, money-income causalitybecomes stronger, and when real activity increases, the relationship becomes weaker. The investigation proceeds in three stages. First, rolling regressions are used to document the subsample instability and the correlation with real activity as well as the variability of the results across model specifications, trend specifications, and over the business cycle. The second stage uses bootstrap simulations to show that the variability across sample periods and the correlation with real activity is significant, and the third stage builds a combination dummy variable and varying coefficients VAR model that captures the asymmetries in the relationship between money and income.
+ER  - 
+
+TY  - JOUR
+T1  - Specification tests in simultaneous equations systems
+AU  - Dhrymes, Phoebus J
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 45
+EP  - 76
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90057-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900574
+KW  - Specification/identification tests
+KW  - Conformity
+KW  - Lagrange multiplier
+KW  - Hausman
+KW  - Simultaneous equations
+KW  - 2SLS/3SLS
+AB  - This paper makes two contributions: (a) it provides a new derivation of 2SLS and 3SLS estimators in which they are represented as restricted least squares and restricted generalized least squares, respectively; (b) in the convext thus created it provides a perfectly routine and flexible vehicle for carrying out ‘identifiability’ and specification tests utilizing 2SLS or 3SLS estimators. The tests in question are simple Lagrange multiplier tests (LMT) carried out directly on the prior restrictions, in contrast to the current literature which approaches the problem indirectly through tests on the implications of such prior restrictions on the reduced form. In addition, it provides a limited Monte Carlo study comparing the performance of the newly created tests to that of the Hausman test (HT).
+ER  - 
+
+TY  - JOUR
+T1  - Autoregressive conditional heteroskedasticity and changes in regime
+AU  - Hamilton, James D
+AU  - Susmel, Raul
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 307
+EP  - 333
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90067-1
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900671
+KW  - ARCH models
+KW  - Stock prices
+KW  - Regime-switching models
+KW  - Volatility
+AB  - ARCH models often impute a lot of persistence to stock volatility and yet give relatively poor forecasts. One explanation is that extremely large shocks, such as the October 1987 crash, arise from quite different causes and have different consequences for subsequent volatility than do small shocks. We explore this possibility with U.S. weekly stock returns, allowing the parameters of an ARCH process to come from one of several different regimes, with transitions between regimes governed by an unobserved Markov chain. We estimate models with two to four regimes in which the latent innovations come from Gaussian and Student t distributions.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for linearity in a semiparametric regression model
+AU  - Shively, Thomas S
+AU  - Kohn, Robert
+AU  - Ansley, Craig F
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 77
+EP  - 96
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90058-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900582
+KW  - Computationally efficient
+KW  - Kalman filter
+KW  - Locally most powerful invariant test
+KW  - Point optimal invariant test
+KW  - Robustness
+KW  - State space model
+AB  - We propose a new exact test for nonlinearity in a regression model with one possibly nonlinear component. The test is based on the stochastic interpretation of spline smoothing given in Wahba (1978) and is a point optimal invariant test (as defined in King, 1988) based on this stochastic model. We show that the power of the exact test compares favourably with several other exact tests for nonlinearity proposed in the literature, and that its level and power are robust to long- and short-tailed symmetric error distributions. We also present an O(n) algorithm based on a state space approach to compute exact p-values for the point optimal invariant test, whereas previous implementations required O(n3) operations. An example is presented to illustrate the theory.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring and comparing smoothness in time series the production smoothing hypothesis
+AU  - Froeb, Luke
+AU  - Koyak, Robert
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 97
+EP  - 122
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90059-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900590
+KW  - Spectral analysis
+KW  - Production smoothing
+KW  - Difference estimator
+AB  - Long-run variance divided by short-run variance is proposed as a measure of smoothness for a univariate time series. Limiting distributions are derived for the measure. A test is derived to compare the smoothness measure of one time series to that of another. For Gaussian processes, the asymptotic distribution of the test statistic is normal. Simulations suggest that the test statistic performs well in small samples and for non-Gaussian processes. We use the methodology to test the long-versus short-run implications of the production smoothing hypothesis: in the long run, sales and production move together, but in the short run, inventories act as a buffer between sales and production. When combined with variance ratio tests, smoothness tests offer a viable alternative to structural estimation for identifying production smoothing behavior.
+ER  - 
+
+TY  - JOUR
+T1  - Partially adaptive estimation via a normal mixture
+AU  - Phillips, Robert F
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 123
+EP  - 144
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90060-4
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900604
+KW  - Regression
+KW  - Robust estimation
+KW  - EM algorithm
+AB  - This paper proposes a new partially adaptive regression estimator. The estimator is derived by modeling the disturbance distribution as a variance mixture of normal distributions, yet the true disturbance distribution need not be a variance mixture in order for the proposed estimator to be consistent and asymptotically normal. Moreover, the partially adaptive estimator is shown to be less sensitive to extreme values than the ordinary least-squares estimator, a point that is illustrated with some Monte Carlo experiments. The paper also provides some easily programmed EM algorithms for computing estimates.
+ER  - 
+
+TY  - JOUR
+T1  - Announcement
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 1
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90054-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440769490054X
+ER  - 
+
+TY  - JOUR
+T1  - An exact likelihood analysis of the multinomial probit model
+AU  - McCulloch, Robert
+AU  - Rossi, Peter E
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 207
+EP  - 240
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90064-7
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900647
+KW  - Multinomial probit model
+KW  - Gibbs sampling
+KW  - Bayesian analysis
+AB  - We develop new methods for conducting a finite sample, likelihood-based analysis of the multinomial probit model. Using a variant of the Gibbs sampler, an algorithm is developed to draw from the exact posterior of the multinomial probit model with correlated errors. This approach avoids direct evaluation of the likelihood and, thus, avoids the problems associated with calculating choice probabilities which affect both the standard likelihood and method of simulated moments approaches. Both simulated and actual consumer panel data are used to fit six-dimensional choice models. We also develop methods for analyzing random coefficient and multiperiod probit models.
+ER  - 
+
+TY  - JOUR
+T1  - Comparison of Box—Tiao and Johansen canonical estimators of cointegrating vectors in VEC(1) models
+AU  - Bewley, Ronald
+AU  - Orden, David
+AU  - Yang, Minxian
+AU  - Fisher, Lance A
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 3
+EP  - 27
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90055-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900558
+KW  - Cointegration
+KW  - Canonical analysis
+KW  - Error-correction models
+KW  - Multiple time series
+KW  - Monte Carlo
+AB  - The Box—Tiao (1977) and Johansen (1988) approaches to estimating cointegrating vectors are compared and small-sample properties of the estimators are evaluated in Monte Carlo experiments for bivariate first-order models. In models without drift, the distributions of the Box—Tiao estimator are found to be less dispersed and leptokurtic in a variety of interesting cases. The presence of drift induces asymptotic normality in both estimators and again the distributions of the Box—Tiao estimator are often less dispersed in small samples.
+ER  - 
+
+TY  - JOUR
+T1  - Stochastic volatility in asset prices estimation with simulated maximum likelihood
+AU  - Danielsson, Jon
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 375
+EP  - 400
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90070-1
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900701
+KW  - Stochastic volatility
+KW  - Simulated maximum likelihood
+KW  - ARCH
+KW  - Monte Carlo integration
+KW  - Acceleration
+AB  - The stochastic volatility model is used to estimate daily asset price dynamics. The model is estimated by integrating latent volatility out of the joint density of prices and volatility to obtain the marginal density of prices. Due to high number of dimensions of the integral, no conventional integration technique is applicable. A Monte Carlo method, called simulated maximum likelihood, is used to obtain the marginal density, where the latent variable is simulated conditional on available information. The model is estimated by 2022 observations from the S & P 500 index. For comparison ARCH type models are estimated with the same data.
+ER  - 
+
+TY  - JOUR
+T1  - Parameter estimation in regression models with errors in the variables and autocorrelated disturbances
+AU  - Dagenais, Marcel G
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 145
+EP  - 163
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90061-2
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900612
+KW  - Errors-in-variables
+KW  - Regression
+KW  - Autocorrelation
+KW  - Bias
+KW  - Mean-squared error
+AB  - For regression models with first-order autocorrelated disturbances, the traditional prescription of econometricians is to correct for serial correlation by using appropriate estimation techniques such as the Cochrane-Orcutt, Hildreth-Lu, or Prais-Winsten procedures. This suggestion, however, does not take into account the fact that in most economic applications the independent variables contain measurement errors. When there are errors in the variables, ordinary least squares, without any attempt to correct for serial correlation, may, in several cases, yield less unreliable and misleading results (in terms of biases and mean squared errors of the estimators). This paradoxical finding is demonstrated analytically for the asymptotic case and illustrated for finite samples by Monte Carlo experiments, for the regression model with a single stationary explanatory variable. The Monte Carlo experiments also suggest that the same conclusion holds if the independent variable follows a random walk, at least for medium-size samples.
+ER  - 
+
+TY  - JOUR
+T1  - Pairwise difference estimators of censored and truncated regression models
+AU  - Honoré, Bo E
+AU  - Powell, James L
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 241
+EP  - 278
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90065-5
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900655
+KW  - Censored and truncated regression
+KW  - Rank regression
+KW  - Semiparametric estimation
+KW  - U-statistics
+KW  - Pairwise differencing
+AB  - This paper proposes a class of estimators of the semiparametric censored regression model under the assumption that the error terms are i.i.d. and independent of the covariates. The estimators exploit the fact that, for a pair of observations, a particular transformation of the censored variables (depending upon the parameter vector and both covariate vectors) will be identically distributed. Therefore, the difference in the transformed dependent variables will be symmetrically distributed around zero when the transformation is evaluated at the true parameter vector. An analogous class of estimators for the truncated regression model includes the Bhattacharya, Chernoff, and Yang (1983) estimator as a special case. The estimators are defined as minimizers of U-processes, so the large-sample theory for classical M-estimators is extended to this case. Conditions are given to ensure root-n-consistency and asymptotic normality of the estimators, and a small-scale simulation study for the censored regression estimator suggest that it will be well-behaved in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation from time series with long-range dependence
+AU  - Cheng, Bing
+AU  - Robinson, P.M
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 335
+EP  - 353
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90068-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440769490068X
+KW  - Averaged derivative statistics
+KW  - Long memory
+AB  - This paper studies the behaviour, in the presence of long-memory time-series dependence, of semaparametric averaged derivative statistics, which are useful in statistical inference on index models. They were shown to be asomptotically normal under weak dependence conditions by Robinson (1989) and under serial independence by Powell et al. (1989). We find that an element of long-range dependence can lead either to a nonnormal limiting distribution, or else to a normal one with a limiting variance which differs from that which obtains in case of weak dependence, implying that inferences incorrectly based on weak-dependence assumptions will be invalid.
+ER  - 
+
+TY  - JOUR
+T1  - Exact finite-sample relative efficiency of suboptimally weighted least squares estimators in models with ordered heteroscedasticity
+AU  - Szroeter, Jerzy
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 29
+EP  - 43
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90056-6
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900566
+KW  - Regression
+KW  - Ordered heteroscedasticity
+KW  - Weighting
+KW  - Efficiency
+AB  - This paper is concerned with regression models having heteroscedastic errors whose variances are not precisely known but can be ordered by size. The object is to use this limited information to devise regression coefficient estimators which are more efficient in finite samples than the ordinary least squares (OLS) estimator. Three common relative efficiency measures (determinant, trace, and extreme eigenvalue) are considered. A class of weighted least squares (WLS) estimators is proved to be efficient relative to the OLS estimator on the determinant (generalized variance) measure. Only a partial result can be obtained for the trace measure. A counterexample shows that no similar results are possible for the eigenvalue measure under the weak conditions of this paper. The efficiency value of additional prior information on variance is also investigated.
+ER  - 
+
+TY  - JOUR
+T1  - Coherency and estimation in simultaneous models with censored or qualitative dependent variables
+AU  - Blundell, Richard
+AU  - Smith, Richard J
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 355
+EP  - 373
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90069-8
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900698
+KW  - Microeconomics
+KW  - Censored models
+KW  - Discrete models
+AB  - This paper concerns estimation and inference in simultaneous limited dependent variable or simultaneous qualitative dependent variable models. We discuss the implications of the coherency condition which is required to ensure a unique implicit reduced form in such nonlinear models. A number of model specifications are examined, including the Simultaneous Probit, Simultaneous Tobit, and Simultaneous Generalised Selectivity models, and we consider the usefulness of a conditional maximum likelihood (CML) methodology. We obtain a simple consistent estimator which is a natural counterpart to the CML estimator for standard simultaneous models. An application to a structural model of household labour supply is presented.
+ER  - 
+
+TY  - JOUR
+T1  - A two-stage estimator for probit models with structural group effects
+AU  - Borjas, George J
+AU  - Sueyoshi, Glenn T
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 165
+EP  - 182
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90062-0
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900620
+KW  - Random effects
+KW  - Fixed effects
+KW  - Panel data
+KW  - Probit
+KW  - Nonlinear regression
+AB  - This paper outlines a two-stage technique for estimation and inference in probit models with structural group effects. The structural group specification belongs to a broader class of random components models. In particular, individuals in a given group share a common component in the specification of the conditional mean of a latent variable. For a number of computational reasons, existing random effects models are impractical for estimation and inference in this type of problem. Our two-stage estimator provides an easily estimable alternative to the random effects specification. In addition, we conduct a Monte Carlo simulation comparing the performance of alternative estimators, and find that the two-stage estimator is superior - both in terms of estimation and inference - to traditional estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Index
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 401
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90071-X
+UR  - https://www.sciencedirect.com/science/article/pii/030440769490071X
+ER  - 
+
+TY  - JOUR
+T1  - Bayes inference in regression models with ARMA (p, q) errors
+AU  - Chib, Siddhartha
+AU  - Greenberg, Edward
+JO  - Journal of Econometrics
+VL  - 64
+IS  - 1
+SP  - 183
+EP  - 206
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/0304-4076(94)90063-9
+UR  - https://www.sciencedirect.com/science/article/pii/0304407694900639
+KW  - Gibbs sampling
+KW  - Metropolis-Hastings algorithm
+KW  - Data augmentation
+KW  - Time series
+KW  - ARMA processes
+KW  - Markov chain
+KW  - Bayesian statistics
+AB  - We develop practical and exact methods of analyzing ARMA (p, q) regression error models in a Bayesian framework by using the Gibbs sampling and Metropolis-Hastings algorithms, and we prove that the kernel of the proposed Markov chain sampler converges to the true density. The procedures can be applied to pure ARMA time series models and to determine features of the likelihood function by choosing appropriate diffuse priors. Our results are unconditional on the initial observations. We also show how the algorithm can be further simplified for the important special cases of stationary AR(p) and invertible MA(q) models. Recursive transformations developed in this paper to diagonalized the covariance matrix of the errors should prove useful in frequentist estimation. Examples with simulated and actual economic data are presented.
+ER  - 

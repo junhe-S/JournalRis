@@ -1,0 +1,275 @@
+TY  - JOUR
+T1  - Saddlepoint approximations for short and long memory time series: A frequency domain approach
+AU  - La Vecchia, Davide
+AU  - Ronchetti, Elvezio
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 578
+EP  - 592
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301629
+KW  - Periodogram
+KW  - Tilted edgeworth expansion
+KW  - Macroeconomic time series
+KW  - Relative error
+KW  - Whittle’s estimator
+AB  - Saddlepoint techniques provide numerically accurate, small sample approximations to the distribution of estimators and test statistics. Except for a few simple models, these approximations are not available in the framework of stationary time series. We contribute to fill this gap. Under short or long range serial dependence, for Gaussian and non Gaussian processes, we show how to derive and implement saddlepoint approximations for two relevant classes of frequency domain statistics: ratio statistics and Whittle’s estimator. We compare our new approximations to the ones obtained by the standard asymptotic theory and by two widely-applied bootstrap methods. The numerical exercises for Whittle’s estimator show that our approximations yield accuracy’s improvements, while preserving analytical tractability. A real data example concludes the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform confidence bands for nonparametric errors-in-variables regression
+AU  - Kato, Kengo
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 516
+EP  - 555
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301605
+KW  - Confidence band
+KW  - Deconvolution
+KW  - Errors-in-variables regression
+KW  - Multiplier bootstrap
+AB  - This paper develops a method to construct uniform confidence bands for a nonparametric regression function where a predictor variable is subject to a measurement error. We allow for the distribution of the measurement error to be unknown, but assume the availability of validation data or repeated measurements on the latent predictor variable. The proposed confidence band builds on the deconvolution kernel estimation and a novel application of the multiplier bootstrap method. We establish asymptotic validity of the proposed confidence band. To our knowledge, this is the first paper to derive asymptotically valid uniform confidence bands for nonparametric errors-in-variables regression.
+ER  - 
+
+TY  - JOUR
+T1  - Simulated likelihood estimators for discretely observed jump–diffusions
+AU  - Giesecke, K.
+AU  - Schwenkler, G.
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 297
+EP  - 320
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.01.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301460
+KW  - Unbiased density estimator
+KW  - Jump–diffusions
+KW  - Likelihood inference
+KW  - Asymptotic efficiency
+KW  - Computational efficiency
+AB  - This paper develops an unbiased Monte Carlo approximation to the transition density of a jump–diffusion process with state-dependent drift, volatility, jump intensity, and jump magnitude. The approximation is used to construct a likelihood estimator of the parameters of a jump–diffusion observed at fixed time intervals that need not be short. The estimator is asymptotically unbiased for any sample size. It has the same large-sample asymptotic properties as the true but uncomputable likelihood estimator. Numerical results illustrate its properties.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal two-sided tests for instrumental variables regression with heteroskedastic and autocorrelated errors
+AU  - Moreira, Humberto
+AU  - Moreira, Marcelo J.
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 398
+EP  - 433
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.038
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301393
+KW  - Instrumental variables regression
+KW  - Invariant tests
+KW  - Optimal tests
+KW  - Similar tests
+KW  - Unbiased tests
+KW  - Weak instruments
+AB  - This paper considers two-sided tests for the parameter of an endogenous variable in an instrumental variable (IV) model with heteroskedastic and autocorrelated errors. We develop the finite-sample theory of weighted-average power (WAP) tests with normal errors and a known long-run variance. A typical weight choice yields tests with power near zero for parts of the parameter space. We propose two boundary conditions that yield two-sided tests with HAC errors. The locally unbiased (LU) condition is related to the power around the null hypothesis and is a weaker requirement than unbiasedness. The strongly unbiased (SU) condition is more restrictive than LU, but the associated WAP tests are easier to implement. The WAP-SU tests can outperform several tests under the weak IV asymptotics, as they make use of the data beyond the Anderson–Rubin and score statistics.
+ER  - 
+
+TY  - JOUR
+T1  - Regime switching dynamic correlations for asymmetric and fat-tailed conditional returns
+AU  - Paolella, Marc S.
+AU  - Polak, Paweł
+AU  - Walker, Patrick S.
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 493
+EP  - 515
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301563
+KW  - GARCH
+KW  - Markov switching
+KW  - Multivariate generalized hyperbolic distribution
+KW  - Portfolio optimization
+KW  - Value-at-risk
+AB  - A non-Gaussian multivariate regime switching dynamic correlation model for financial asset returns is proposed. It incorporates the multivariate generalized hyperbolic law for the conditional distribution of returns. All model parameters are estimated consistently using a new two-stage expectation–maximization algorithm that also allows for incorporation of shrinkage estimation via quasi-Bayesian priors. It is shown that use of Markov switching correlation dynamics not only leads to highly accurate risk forecasts, but also potentially reduces the regulatory capital requirements during periods of distress. In terms of portfolio performance, the new regime switching model delivers consistently higher Sharpe ratios and smaller losses than the equally weighted portfolio and all competing models. Finally, the regime forecasts are employed in a new dynamic risk control strategy that avoids most losses during the financial crisis and vastly improves risk-adjusted returns.
+ER  - 
+
+TY  - JOUR
+T1  - A likelihood ratio test for spatial model selection
+AU  - Liu, Tuo
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 434
+EP  - 458
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301496
+KW  - Likelihood ratio
+KW  - Near-epoch dependence
+KW  - Spatial autoregressive model
+KW  - Matrix exponential spatial specification
+KW  - Model selection
+AB  - This paper develops a nondegenerate likelihood-ratio test for model selection between two competitive spatial econometrics models. It generalizes the test of Vuong (1989) to models with spatial near-epoch dependent (NED) data. We do not make any structural assumption on the true model specification and allow for the cases where both or one of the two competing models are mis-specified. The test is valid whether two models are nested or non-nested. As a prerequisite of the test, we first show that quasi-maximum likelihood estimators (QMLE) of spatial econometrics models are consistent estimators of their pseudo-true values and are asymptotically normal under regularity conditions. In particular, we study spatial autoregressive models with spatial autoregressive errors (SARAR) and matrix exponential spatial specification (MESS) models. We derive the limiting null distribution of the test statistic. A spatial heteroskedastic and autoregressive consistent estimator of asymptotic variance of the test statistic under the null, which is necessary to implement the test, is constructed. Monte Carlo experiments are designed to investigate finite sample performance of QMLEs for SARAR and MESS models, as well as the size and power of the proposed test.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - ii
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30216-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302167
+ER  - 
+
+TY  - JOUR
+T1  - Bias reduction in nonlinear and dynamic panels in the presence of cross-section dependence
+AU  - Pakel, Cavit
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 459
+EP  - 492
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301484
+KW  - Nonlinear dynamic panels
+KW  - Incidental parameter bias
+KW  - Integrated likelihood method
+KW  - Profile likelihood method
+KW  - Female labour force participation
+AB  - Fixed effects estimation of nonlinear dynamic panel models is subject to the incidental parameter issue, leading to a biased asymptotic distribution. While this problem has been studied extensively in the literature, a general analysis allowing for both serial and cross-sectional dependence is missing. In this paper we investigate the large-N,T theory of the profile and integrated likelihood estimators, allowing for dependence across both dimensions. We show that under stronger dependence types the asymptotic bias disappears, but a Op(1∕T) small-sample bias remains. We provide bias correction and inference methods, and also obtain primitive conditions for asymptotic normality under various dependence settings.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrapping structural change tests
+AU  - Boldea, Otilia
+AU  - Cornea-Madeira, Adriana
+AU  - Hall, Alastair R.
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 359
+EP  - 397
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301472
+KW  - Multiple break points
+KW  - Instrumental variables estimation
+KW  - Two-Stage Least Squares
+KW  - Wild bootstrap
+KW  - Heteroskedasticity
+AB  - This paper demonstrates the asymptotic validity of methods based on the wild recursive and wild fixed bootstraps for testing hypotheses about discrete parameter change in linear models estimated via Two Stage Least Squares. The framework allows for the errors to exhibit conditional and/or unconditional heteroscedasticity, and for the reduced form to be unstable. Simulation evidence indicates the bootstrap tests yield reliable inferences in the sample sizes often encountered in macroeconomics. If the errors exhibit unconditional heteroscedasticity and/or the reduced form is unstable then the bootstrap methods are particularly attractive because the limiting distributions of the test statistics are not pivotal.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation of nonparametric regression in the presence of dynamic heteroskedasticity
+AU  - Linton, Oliver
+AU  - Xiao, Zhijie
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 608
+EP  - 631
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.01.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301666
+KW  - Efficiency
+KW  - Heteroskedasticity
+KW  - Local polynomial estimation
+KW  - Nonparametric regression
+AB  - We study the efficient estimation of nonparametric regression in the presence of heteroskedasticity. We focus our analysis on local polynomial estimation of nonparametric regressions with conditional heteroskedasticity in a time series setting. We introduce a weighted local polynomial regression smoother that takes account of the dynamic heteroskedasticity. We show that, although traditionally it is advised that one should not weight for heteroskedasticity in nonparametric regressions, in many popular nonparametric regression models our method has lower asymptotic variance than the usual unweighted procedures. We conduct a Monte Carlo investigation that confirms the efficiency gain over conventional nonparametric regression estimators in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent non-Gaussian pseudo maximum likelihood estimators
+AU  - Fiorentini, Gabriele
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 321
+EP  - 358
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301423
+KW  - Consistency
+KW  - Efficiency
+KW  - Misspecification
+AB  - We characterise the mean and variance parameters that distributionally misspecified maximum likelihood estimators can consistently estimate in location-scale models, and provide simple closed-form consistent estimators for the rest. Including means and a multivariate coverage make our procedures useful for Garch-M models and empirically relevant macro and finance applications involving Vars and multivariate regressions. We study the statistical properties of our proposed consistent estimators, as well as their efficiency relative to Gaussian pseudo maximum likelihood and semiparametric procedures. We provide finite sample results through Monte Carlo simulations. Finally, we discuss two practical applications to individual stock returns and mean–variance efficiency/spanning tests.
+ER  - 
+
+TY  - JOUR
+T1  - A new stochastic frontier model with cross-sectional effects in both noise and inefficiency terms
+AU  - Orea, Luis
+AU  - Álvarez, Inmaculada C.
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 556
+EP  - 577
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301599
+KW  - Stochastic frontier models
+KW  - Spatial econometrics
+KW  - Electricity distribution
+AB  - This paper develops a new stochastic frontier model that allows for cross-sectional (spatial) correlation in both the noise and inefficiency terms, which are likely to be of a different nature. The main econometric novelty of the proposed model is that it can be estimated in a straightforward manner by maximum likelihood and non-linear least squares. The proposed model is useful when there are omitted but spatially correlated variables, the firms benefit from best practices implemented by other firms, or common factors prevent the firms to improve their performance. An application to the Norwegian electricity distribution sector is also provided.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation and computation of parameters and nonparametric functions in generalized semi/non-parametric regression models
+AU  - Zhou, Ling
+AU  - Lin, Huazhen
+AU  - Chen, Kani
+AU  - Liang, Hua
+JO  - Journal of Econometrics
+VL  - 213
+IS  - 2
+SP  - 593
+EP  - 607
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301642
+KW  - Local linear method
+KW  - Maximum likelihood function
+KW  - Profile likelihood
+KW  - Semiparametric efficiency
+KW  - Semi/non-parametric regression models
+KW  - Undersmoothing
+AB  - The efficiency of estimation for the parameters in semiparametric models has been widely studied in the literature (Bickel et al., 1993). In this paper, we study efficient estimators for both parameters and nonparametric functions in a class of generalized semi/non-parametric regression models, which cover commonly used semiparametric models such as partially linear models, partially linear single index models, and two-sample semiparametric models. We propose a maximum likelihood principle combined with the local linear technique for estimating the parameters and nonparametric functions. The proposed estimators of the parameters and a linear functional of the nonparametric functions are consistent and asymptotically normal and are further shown to be semiparametrically efficient. An efficient computational algorithm to achieve the maximization is proposed. Extensive simulation experiments show the superiority of the proposed methods. Three real data examples are analyzed and presented as an illustration.
+ER  - 

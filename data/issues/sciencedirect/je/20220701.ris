@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Factor models with local factors — Determining the number of relevant factors
+AU  - Freyaldenhoven, Simon
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 80
+EP  - 102
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001275
+KW  - High-dimensional data
+KW  - Factor models
+KW  - Weak factors
+KW  - Local factors
+KW  - Sparsity
+AB  - We extend the theory on factor models by incorporating “local” factors into the model. Local factors affect only an unknown subset of the observed variables. This implies a continuum of eigenvalues of the covariance matrix, as is commonly observed in applications. We derive which factors are pervasive enough to be economically important and which factors are pervasive enough to be estimable using the common principal component estimator. We then introduce a new class of estimators to determine the number of those relevant factors. Unlike existing estimators, our estimators use not only the eigenvalues of the covariance matrix, but also its eigenvectors. We find that incorporating partial sums of the eigenvectors into our estimators leads to significant gains in performance in simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Factor models with many assets: Strong factors, weak factors, and the two-pass procedure
+AU  - Anatolyev, Stanislav
+AU  - Mikusheva, Anna
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 103
+EP  - 126
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000130
+KW  - Factor models
+KW  - Risk premium
+KW  - Two-pass procedure
+KW  - Strong and weak factors
+KW  - Dimension asymptotics
+AB  - This paper re-examines the problem of estimating risk premia in unconditional linear factor pricing models. Typically, the data used in the empirical literature are characterized by weakness of some pricing factors, strong cross-sectional dependence in the errors, and (moderately) high cross-sectional dimensionality. Using an asymptotic framework where the number of assets/portfolios grows with the time span of the data while the risk exposures of weak factors are local-to-zero, we show that the conventional two-pass estimation procedure delivers inconsistent estimates of the risk premia. We propose a new estimation procedure based on sample-splitting instrumental variables regression. The proposed estimator of risk premia is robust to weak included factors and to the presence of strong unaccounted cross-sectional error dependence. We prove the consistency of the new estimator, establish asymptotically valid inferences using Wald statistics, verify performance of the new procedure in simulations, and revisit some empirical studies.
+ER  - 
+
+TY  - JOUR
+T1  - Functional time series approach to analyzing asset returns co-movements
+AU  - Saart, Patrick W.
+AU  - Xia, Yingcun
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 127
+EP  - 151
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000804
+KW  - Function data analysis
+KW  - Functional time series
+KW  - Dimension reduction
+KW  - Eigenanalysis
+KW  - Model selection
+AB  - We introduce a new approach for modeling the time varying behavior and time series evolution of asset returns co-movements. Here, the co-movement in each period is captured by a trajectory of returns correlation, then a sequence of this over time and the time series evolution are studied. We rely on functional principal components to achieve dimension reduction and to construct the dynamic space of interest, while introducing a new class of information criteria in order to identify the finite dimensionality of the curve time series. Our method is able to combine two of the most applied ideas in the literature, namely economics (or finance) based and time-series based time-varying correlation models. This offers a general specification that is able to model processes of time-varying time-series correlations generated under many existing models that have dominated the financial literature for several decades. To illustrate its empirical relevance, we apply our method to model the time varying co-movement of exchange rate returns for a group of small open economies with large financial sectors. Our empirical results indicate that concepts of time varying correlation enabled by existing methods are too restrictive to accommodate fully the time varying behavior and time series evolution of the returns correlation. On the other hand, our method gives a more complete picture and is able to provide more accurate correlation forecasts.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference in heterogeneous spatial panels with a multifactor error structure
+AU  - Chen, Jia
+AU  - Shin, Yongcheol
+AU  - Zheng, Chaowen
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 55
+EP  - 79
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001433
+KW  - Spatial dependence and heterogeneity
+KW  - Unobserved common factors
+KW  - CCEX-IV estimation
+KW  - The UK house price growth
+KW  - GCM analysis
+AB  - We develop a unifying econometric framework for the analysis of heterogeneous panel data models that can account for both spatial dependence and common factors. To tackle the challenging issues of endogeneity due to the spatial lagged term and the correlation between the regressors and factors, we propose the CCEX-IV estimation procedure that approximates factors by the cross-section averages of regressors and deals with the spatial endogeneity using the internal instrumental variables. We develop the individual and Mean Group estimators, and establish their consistency and asymptotic normality. By contrast, the Pooled estimator is shown to be inconsistent in the presence of parameter heterogeneity. Monte Carlo simulations confirm that the finite sample performance of the proposed estimators is quite satisfactory. We demonstrate the usefulness of our approach with an application to the house price growth for Local Authority Districts in the UK over 1997Q1–2016Q4.
+ER  - 
+
+TY  - JOUR
+T1  - An incidental parameters free inference approach for panels with common shocks
+AU  - Juodis, Artūras
+AU  - Sarafidis, Vasilis
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 19
+EP  - 54
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001135
+KW  - Common factors
+KW  - GMM
+KW  - Incidental parameter problem
+KW  - Endogenous regressors
+KW  - U-statistic
+AB  - This paper develops a novel Method of Moments approach for panel data models with endogenous regressors and unobserved common factors. The proposed approach does not require estimating explicitly a large number of parameters in either time-series or cross-sectional dimension, T and N respectively. Hence, it is free from the incidental parameter problem. In particular, the proposed approach does not suffer from “Nickell bias” of order O(T−1), nor from bias terms that are of order O(N−1). Therefore, it can operate under substantially weaker restrictions compared to existing large T procedures. Two alternative GMM estimators are analyzed; one makes use of a fixed number of “averaged estimating equations” à la Anderson and Hsiao (1982), whereas the other one makes use of “stacked estimating equations”, the total number of which increases at the rate of O(T). It is demonstrated that both estimators are consistent and asymptotically mixed-normal as N→∞ for any value of T. Low-level conditions that ensure local and global identification in this setup are examined using several examples.
+ER  - 
+
+TY  - JOUR
+T1  - Projected estimation for large-dimensional matrix factor models
+AU  - Yu, Long
+AU  - He, Yong
+AU  - Kong, Xinbing
+AU  - Zhang, Xinsheng
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 201
+EP  - 217
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001123
+KW  - Matrix factor model
+KW  - Vector factor model
+KW  - Column covariance matrix
+KW  - Row covariance matrix
+AB  - In this study, we propose a projection estimation method for large-dimensional matrix factor models with cross-sectionally spiked eigenvalues. By projecting the observation matrix onto the row or column factor space, we simplify factor analysis for matrix series to that of a lower-dimensional tensor. This method also reduces the magnitudes of the idiosyncratic error components, thereby increasing the signal-to-noise ratio, because the projection matrix linearly filters the idiosyncratic error matrix. We theoretically prove that the projected estimators of the factor loading matrices achieve faster convergence rates than existing estimators under similar conditions. Asymptotic distributions of the projected estimators are also presented. A novel iterative procedure is given to specify the pair of row and column factor numbers. Extensive numerical studies verify the empirical performance of the projection method. Two real examples in finance and macroeconomics reveal factor patterns across rows and columns, which coincide with financial, economic, or geographical interpretations.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - ii
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(22)00082-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000823
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic properties of correlation-based principal component analysis
+AU  - Choi, Jungjun
+AU  - Yang, Xiye
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 1
+EP  - 18
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002050
+KW  - Correlation matrix
+KW  - Eigenvalue
+KW  - Eigenvector
+KW  - High frequency
+KW  - Principal component
+KW  - Standardized data
+AB  - It is a common practice to conduct principal component analysis (PCA) using standardized data, which is equivalent to applying PCA to the correlation matrix rather than the covariance matrix. Yet little research has been done about such differences in the context of high frequency data. This paper bridges this gap. We derive the analytical forms of the asymptotic biases and variances for the estimators of the integrated eigenvalues and eigenvectors. Furthermore, we propose a novel jackknife-type estimator of the asymptotic variance of the integrated volatility functional estimator. This new variance estimator shows much better finite sample performances compared to other existing ones. This paper also proposes several statistical tests for some commonly tested hypotheses in the literature. Simulation results show that one will get misleading results if one uses the analytical results of the covariance case when applying PCA on the correlation matrix.
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional test for alpha in linear factor pricing models with sparse alternatives
+AU  - Feng, Long
+AU  - Lan, Wei
+AU  - Liu, Binghui
+AU  - Ma, Yanyuan
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 152
+EP  - 175
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001962
+KW  - High dimensionality
+KW  - Linear factor pricing model
+KW  - Securities in stock markets
+KW  - Sparse alternatives
+KW  - Tests for alpha
+AB  - We consider the problem of testing for the presence of alpha in Linear Factor Pricing Models. We propose a novel test of the max-of-squares type, which is designed to deal with the high dimensionality of the securities and the sparse alternatives. We rigorously show that the proposed test has attractive theoretical properties and demonstrate its superior performance via Monte Carlo experiments. These results are established when the number of securities is larger than the time dimension of the return series, and the alternative hypothesis is sparse, i.e. the alpha vector is sparse. As a general alternative, we suggest to combine the max-of-squares type test and a sum-of-squares type test, to benefit from the power advantages of both tests. We apply the two proposed tests to the monthly returns on securities in the Chinese and the U.S. stock markets, respectively under the Fama–French three-factor model, and confirm the usefulness of the proposed tests in detecting the presence of alpha.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation and inference for high dimensional generalized factor models with application to factor-augmented regressions
+AU  - Wang, Fa
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 180
+EP  - 200
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303894
+KW  - Factor model
+KW  - Mixed measurement
+KW  - Maximum likelihood
+KW  - High dimension
+KW  - Factor-augmented regression
+KW  - Forecasting
+AB  - This paper reestablishes the main results in Bai (2003) and Bai and Ng (2006) for generalized factor models, with slightly stronger conditions on the relative magnitude of N (number of subjects) and T (number of time periods). Convergence rates of the estimated factor space and loading space and asymptotic normality of the estimated factors and loadings are established under mild conditions that allow for linear, Logit, Probit, Tobit, Poisson and some other single-index nonlinear models. The probability density/mass function is allowed to vary across subjects and time, thus mixed models are also allowed for. For factor-augmented regressions, this paper establishes the limit distributions of the parameter estimates, the conditional mean, and the forecast when factors estimated from nonlinear/mixed data are used as proxies for the true factors.
+ER  - 
+
+TY  - JOUR
+T1  - Kotlarski with a factor loading
+AU  - Lewbel, Arthur
+JO  - Journal of Econometrics
+VL  - 229
+IS  - 1
+SP  - 176
+EP  - 179
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001603
+KW  - Kotlarski
+KW  - Deconvolution
+KW  - Factor models
+KW  - Measurement error
+AB  - This note extends the Kotlarski (1967) Lemma to show exactly what is identified when we allow for an unknown factor loading on the common unobserved factor. That is, this note completely characterizes identification of the model Y = cV + U and X = V + W, where the joint distribution of Y and X is known, while the constant c and the mutually independent random variables V, U, and W are unobserved. Potential applications include measurement error models and panel data factor models.
+ER  - 

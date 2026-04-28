@@ -1,0 +1,279 @@
+TY  - JOUR
+T1  - Does modeling a structural break improve forecast accuracy?
+AU  - Boot, Tom
+AU  - Pick, Andreas
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 35
+EP  - 59
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301824
+KW  - Structural break test
+KW  - Forecasting
+KW  - Squared error loss
+AB  - Mean square forecast error loss implies a bias–variance trade-off that suggests that structural breaks of small magnitude should be ignored. In this paper, we provide a test to determine whether modeling a structural break improves forecast accuracy. The test is near optimal even when the date of a local-to-zero break is not consistently estimable. The results extend to forecast combinations that weight the post-break sample and the full sample forecasts by our test statistic. In a large number of macroeconomic time series, we find that structural breaks that are relevant for forecasting occur much less frequently than existing tests indicate.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification of discrete choice models with lagged dependent variables
+AU  - Williams, Benjamin
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 286
+EP  - 304
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301812
+KW  - Discrete choice
+KW  - Binary choice
+KW  - Nonparametric panel data
+KW  - Lagged dependent variable
+KW  - Special regressor
+AB  - Variation in covariates can be used to nonparametrically identify a discrete choice model with a lagged dependent variable and discrete unobserved heterogeneity (Kasahara and Shimotsu, 2009; Browning and Carro, 2014). In some cases the number of support points of the unobserved heterogeneity distribution is restricted only by the number of points of support in the distribution of the covariates. This paper provides conditions under which these models can be identified with continuous heterogeneity using continuous variation in the covariates. The identification argument is related to that of Honore and Lewbel (2002) in that it requires a “special regressor” (Lewbel, 1998), but it does not assume an additively separable latent index. Identification requires only 3 time periods, neither stationarity nor time homogeneity is imposed, and the distribution of the initial condition is not restricted apart from conditions required for the special regressor. I demonstrate the result through a Monte Carlo simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on distribution functions under measurement error
+AU  - Adusumilli, Karun
+AU  - Kurisu, Daisuke
+AU  - Otsu, Taisuke
+AU  - Whang, Yoon-Jae
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 131
+EP  - 164
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930199X
+KW  - Measurement error
+KW  - Deconvolution
+KW  - Confidence band
+KW  - Stochastic dominance
+AB  - This paper is concerned with inference on the cumulative distribution function (cdf) FX∗ in the classical measurement error model X=X∗+ϵ. We consider the case where the density of the measurement error ϵ is unknown and estimated by repeated measurements, and show validity of a bootstrap approximation for the distribution of the deviation in the sup-norm between the deconvolution cdf estimator and FX∗. We allow the density of ϵ to be ordinary or super smooth. We also provide several theoretical results on the bootstrap and asymptotic Gumbel approximations of the sup-norm deviation for the case where the density of ϵ is known. Our approximation results are applicable to various contexts, such as confidence bands for FX∗ and its quantiles, and for performing various cdf-based tests such as goodness-of-fit tests for parametric models of X∗, two sample homogeneity tests, and tests for stochastic dominance. Simulation and real data examples illustrate satisfactory performance of the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - Sequential monitoring for changes from stationarity to mild non-stationarity
+AU  - Horváth, Lajos
+AU  - Liu, Zhenya
+AU  - Rice, Gregory
+AU  - Wang, Shixuan
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 209
+EP  - 238
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301964
+KW  - Change point detection
+KW  - Stationarity testing
+KW  - Normal approximation
+KW  - Non-stationary ARMA time series
+KW  - Non-stationary GARCH time series
+AB  - We develop and study sequential testing procedures á la Chu et al. (1996) for on-line detection of changes in a time series from stationarity to mild forms of non-stationarity. The proposed tests are based on sequential CUSUM and KPSS-type detector processes, and are shown to provide consistent detection under a wide range of change point models, including changes in the parameters of ARMA and GARCH series from values within the model’s stationarity parameter region to values close (converging) to the stationarity boundary. Local asymptotic results are established giving precise descriptions of the time to detection under several of these models, which show that such procedures are powerful to detect a wide range of non-stationary characteristics, including changes in mean, volatility, and unit root behaviour. The proposed methods are investigated by means of a simulation study and in applications to monitoring for changes in trend and unit root behaviour in macroeconomic production series, and to detect changes in volatility of the S&P-500 stock market index.
+ER  - 
+
+TY  - JOUR
+T1  - Ultrahigh dimensional precision matrix estimation via refitted cross validation
+AU  - Wang, Luheng
+AU  - Chen, Zhao
+AU  - Wang, Christina Dan
+AU  - Li, Runze
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 118
+EP  - 130
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930171X
+KW  - Covariance matrix estimation
+KW  - Precision matrix
+KW  - Refitted cross validation
+KW  - Sample splitting
+KW  - Spurious correlation
+AB  - This paper develops a new estimation procedure for ultrahigh dimensional sparse precision matrix, the inverse of covariance matrix. Regularization methods have been proposed for sparse precision matrix estimation, but they may not perform well with ultrahigh dimensional data due to the spurious correlation. We propose a refitted cross validation (RCV) method for sparse precision matrix estimation based on its Cholesky decomposition, which does not require the Gaussian assumption. The proposed RCV procedure can be easily implemented with existing software for ultrahigh dimensional linear regression. We establish the consistency of the proposed RCV estimation and show that the rate of convergence of the RCV estimation without assuming banded structure is the same as that of those assuming the banded structure in Bickel and Levina (2008b). Monte Carlo studies were conducted to access the finite sample performance of the RCV estimation. Our numerical comparison shows that the RCV estimation outperforms the existing ones in various scenarios. We further apply the RCV estimation for an empirical analysis of asset allocation.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation of a censored regression model with endogeneity
+AU  - Chen, Songnian
+AU  - Wang, Qian
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 239
+EP  - 256
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301848
+KW  - Censored regression
+KW  - Endogeneity
+KW  - Semiparametric estimation
+AB  - Censoring and endogeneity are common in empirical applications. However, the existing semiparametric estimation methods for the censored regression model with endogeneity under an independence restriction are associated with some drawbacks. In this paper we propose a new semiparametric estimator that overcomes these drawbacks. We derive conditional quantile moment conditions for all the conditional quantiles and propose a moment-based estimator. In particular, we construct two types of moment conditions and develop a computationally attractive estimator. We show that our estimator is consistent and asymptotic normal. A Monte Carlo study indicates that our estimator performs well in finite samples and compares favorably with existing methods.
+ER  - 
+
+TY  - JOUR
+T1  - Inference for local distributions at high sampling frequencies: A bootstrap approach
+AU  - Hounyo, Ulrich
+AU  - Varneskov, Rasmus T.
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 1
+EP  - 34
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301836
+KW  - Bootstrap inference
+KW  - High-frequency data
+KW  - Itô semimartingales
+KW  - Kolmogorov–Smirnov test
+KW  - Stable processes
+KW  - von-Mises statistics
+AB  - We study inference for the local innovations of Itô semimartingales. Specifically, we construct a resampling procedure for the empirical CDF of high-frequency innovations that have been standardized using a nonparametric estimate of its stochastic scale (volatility) and truncated to rid the effect of “large” jumps. Our locally dependent wild bootstrap (LDWB) accommodate issues related to the stochastic scale and jumps as well as account for a special block-wise dependence structure induced by sampling errors. We show that the LDWB replicates first and second-order limit theory from the usual empirical process and the stochastic scale estimate, respectively, in addition to an asymptotic bias. Moreover, we design the LDWB sufficiently general to establish asymptotic equivalence between it and a nonparametric local block bootstrap, also introduced here, up to second-order distribution theory. Finally, we introduce LDWB-aided Kolmogorov–Smirnov tests for local Gaussianity as well as local von-Mises statistics, with and without bootstrap inference, and establish their asymptotic validity using the second-order distribution theory. The finite sample performance of CLT and LDWB-aided local Gaussianity tests is assessed in a simulation study and an empirical application. Whereas the CLT test is oversized, even in large samples, the size of the LDWB tests is accurate, even in small samples. The empirical analysis verifies this pattern, in addition to providing new insights about the fine scale distributional properties of innovations to equity indices, commodities and exchange rates.
+ER  - 
+
+TY  - JOUR
+T1  - A goodness-of-fit test for copulas based on martingale transformation
+AU  - Lu, Xiaohui
+AU  - Zheng, Xu
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 84
+EP  - 117
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930185X
+KW  - Copula
+KW  - Goodness-of-fit test
+KW  - Martingale transformation
+KW  - Distribution-free test
+AB  - This paper proposes an asymptotically distribution-free test for copulas with dynamic marginal distributions, such as GARCH and ARMA processes. The test is based on the empirical copula process with parametrically estimated marginal distributions. By applying the Khmaladze (1982, 1988, 1993) martingale transformation method, the transformed empirical process converges to a standard Gaussian process, so the resulting test statistics are asymptotically distribution-free. Monte Carlo simulations show that the test performs well in finite samples. An empirical application to test copulas between EUR/USD and GBP/USD exchange rates is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid stochastic local unit roots
+AU  - Lieberman, Offer
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 257
+EP  - 285
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301897
+KW  - Autoregression
+KW  - Local unit root
+KW  - Nonlinear diffusion
+KW  - Stochastic unit root
+KW  - Time-varying coefficient
+AB  - Two approaches have dominated formulations designed to capture small departures from unit root autoregressions. The first involves deterministic departures that include local-to-unity (LUR) and mildly (or moderately) integrated (MI) specifications where departures shrink to zero as the sample size n→∞. The second approach allows for stochastic departures from unity, leading to stochastic unit root (STUR) specifications. This paper introduces a hybrid local stochastic unit root (LSTUR) specification that has both LUR and STUR components and allows for endogeneity in the time varying coefficient that introduces structural elements to the autoregression. This hybrid model generates trajectories that, upon normalization, have non-linear diffusion limit processes that link closely to models that have been studied in mathematical finance, particularly with respect to option pricing. It is shown that some LSTUR parameterizations have a mean and variance which are the same as a random walk process but with a kurtosis exceeding 3, a feature which is consistent with much financial data. We develop limit theory and asymptotic expansions for the process and document how inference in LUR and STUR autoregressions is affected asymptotically by ignoring one or the other component in the more general hybrid generating mechanism. In particular, we show how confidence belts constructed from the LUR model are affected by the presence of a STUR component in the generating mechanism. The import of these findings for empirical research is explored in an application to the spreads on US investment grade corporate debt.
+ER  - 
+
+TY  - JOUR
+T1  - Non-standard inference for augmented double autoregressive models with null volatility coefficients
+AU  - Jiang, Feiyu
+AU  - Li, Dong
+AU  - Zhu, Ke
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 165
+EP  - 183
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301885
+KW  - Augmented DAR model
+KW  - DAR model
+KW  - Heavy-tailedness
+KW  - Non-standard asymptotics
+KW  - Parameter on the boundary
+KW  - Portmanteau test
+KW  - Self-weighted QMLE
+AB  - This paper considers an augmented double autoregressive (DAR) model, which allows null volatility coefficients to circumvent the over-parameterization problem in the DAR model. Since the volatility coefficients might be on the boundary, the statistical inference methods based on the Gaussian quasi-maximum likelihood estimation (GQMLE) become non-standard, and their asymptotics require the data to have a finite sixth moment, which narrows the applicable scope in studying heavy-tailed data. To overcome this deficiency, this paper develops a systematic statistical inference procedure based on the self-weighted GQMLE for the augmented DAR model. Except for the Lagrange multiplier test statistic, the Wald, quasi-likelihood ratio and portmanteau test statistics are all shown to have non-standard asymptotics. The entire procedure is valid as long as the data are stationary, and its usefulness is illustrated by simulation studies and one real example.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of time-varying nonseparable panel data models without stayers
+AU  - Ishihara, Takuya
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 184
+EP  - 208
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301873
+KW  - Nonseparable models
+KW  - Nonparametric identification
+KW  - Panel data
+KW  - Unobserved heterogeneity
+AB  - This paper explores the identification and estimation of nonseparable panel data models. We show that the structural function is nonparametrically identified when it is strictly increasing in a scalar unobservable variable, the conditional distributions of unobservable variables do not change over time, and the joint support of explanatory variables satisfies some weak assumptions. To identify the target parameters, existing studies assume that the structural function does not change over time, and that there are “stayers”, namely individuals with the same regressor values in two time periods. Our approach, by contrast, allows the structural function to depend on the time period in an arbitrary manner and does not require the existence of stayers. In estimation part of the paper, we propose parametric and nonparametric estimators that implement our identification results. Monte Carlo studies indicate that our parametric estimator performs well in finite samples. Finally, we extend our identification results to models with discrete outcomes, and show that the structural function is partially identified.
+ER  - 
+
+TY  - JOUR
+T1  - Determining individual or time effects in panel data models
+AU  - Lu, Xun
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - 60
+EP  - 83
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.07.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301861
+KW  - Consistency
+KW  - Cross-validation
+KW  - Dynamic panel
+KW  - Information criterion
+KW  - Jackknife
+KW  - Individual effect
+KW  - Time effect
+AB  - In this paper we propose a jackknife method to determine individual and time effects in linear panel data models. We first show that when both the serial and cross-sectional correlations among the idiosyncratic error terms are weak, our jackknife method can pick up the correct model with probability approaching one (w.p.a.1). In the presence of moderate or strong degree of serial correlation, we modify our jackknife criterion function and show that the modified jackknife method can also select the correct model w.p.a.1. We conduct Monte Carlo simulations to show that our new methods perform remarkably well in finite samples. We apply our methods to study i the crime rates in North Carolina, ii the determinants of saving rates across countries, and iii the relationship between guns and crime rates in the U.S.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 1
+SP  - ii
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30031-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620300312
+ER  - 

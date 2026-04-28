@@ -1,0 +1,266 @@
+TY  - JOUR
+T1  - Default risk in a market model
+AU  - Lotz, Christopher
+AU  - Schlögl, Lutz
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 301
+EP  - 327
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00061-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000618
+KW  - Market model
+KW  - Forward rate agreements
+KW  - Swaps
+KW  - Credit risk
+AB  - This paper presents a theoretical model of default risk in the context of the “market” model approach to interest rate dynamics. We propose a model for finite-interval interest rates (such as LIBOR) which explicitly takes into account the possibility of default through the influence of a point process with deterministic intensity. We relate the defaultable interest rate to the non-defaultable interest rate and to the credit risk characteristics default intensity and recovery rate. We find that the spread between defaultable and non-defaultable rate depends on the non-defaultable rate even when the default intensity is deterministic. Prices of a cap on the defaultable rate and of a credit spread option are derived. We consider swaps with unilateral and bilateral default risk and derive the fair fixed swap rate in both cases. Under the condition that both counterparties are of the same risk class, we show that for a monotonously increasing term structure the swap rate for a defaultable swap will lie below the swap rate for a swap without default risk.
+ER  - 
+
+TY  - JOUR
+T1  - A comparative analysis of current credit risk models
+AU  - Crouhy, Michel
+AU  - Galai, Dan
+AU  - Mark, Robert
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 59
+EP  - 117
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00053-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000539
+KW  - Risk management
+KW  - Credit risk
+KW  - Default risk
+KW  - Migration risk
+KW  - Spread risk
+KW  - Regulatory capital
+KW  - Banking
+AB  - The new BIS 1998 capital requirements for market risks allows banks to use internal models to assess regulatory capital related to both general market risk and credit risk for their trading book. This paper reviews the current proposed industry sponsored Credit Value-at-Risk methodologies. First, the credit migration approach, as proposed by JP Morgan with CreditMetrics, is based on the probability of moving from one credit quality to another, including default, within a given time horizon. Second, the option pricing, or structural approach, as initiated by KMV and which is based on the asset value model originally proposed by Merton (Merton, R., 1974. Journal of Finance 28, 449–470). In this model the default process is endogenous, and relates to the capital structure of the firm. Default occurs when the value of the firm’s assets falls below some critical level. Third, the actuarial approach as proposed by Credit Suisse Financial Products (CSFP) with CreditRisk+ and which only focuses on default. Default for individual bonds or loans is assumed to follow an exogenous Poisson process. Finally, McKinsey proposes CreditPortfolioView which is a discrete time multi-period model where default probabilities are conditional on the macro-variables like unemployment, the level of interest rates, the growth rate in the economy, … which to a large extent drive the credit cycle in the economy.
+ER  - 
+
+TY  - JOUR
+T1  - The intersection of market and credit risk
+AU  - Jarrow, Robert A.
+AU  - Turnbull, Stuart M.
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 271
+EP  - 299
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00060-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000606
+KW  - Credit risk modeling
+KW  - Pricing
+KW  - Default probabilities
+AB  - Economic theory tells us that market and credit risks are intrinsically related to each other and not separable. We describe the two main approaches to pricing credit risky instruments: the structural approach and the reduced form approach. It is argued that the standard approaches to credit risk management – CreditMetrics, CreditRisk+ and KMV – are of limited value when applied to portfolios of interest rate sensitive instruments and in measuring market and credit risk. Empirically returns on high yield bonds have a higher correlation with equity index returns and a lower correlation with Treasury bond index returns than do low yield bonds. Also, macro economic variables appear to influence the aggregate rate of business failures. The CreditMetrics, CreditRisk+ and KMV methodologies cannot reproduce these empirical observations given their constant interest rate assumption. However, we can incorporate these empirical observations into the reduced form of Jarrow and Turnbull (1995b). Drawing the analogy. Risk 5, 63–70 model. Here default probabilities are correlated due to their dependence on common economic factors. Default risk and recovery rate uncertainty may not be the sole determinants of the credit spread. We show how to incorporate a convenience yield as one of the determinants of the credit spread. For credit risk management, the time horizon is typically one year or longer. This has two important implications, since the standard approximations do not apply over a one year horizon. First, we must use pricing models for risk management. Some practitioners have taken a different approach than academics in the pricing of credit risky bonds. In the event of default, a bond holder is legally entitled to accrued interest plus principal. We discuss the implications of this fact for pricing. Second, it is necessary to keep track of two probability measures: the martingale probability for pricing and the natural probability for value-at-risk. We discuss the benefits of keeping track of these two measures.
+ER  - 
+
+TY  - JOUR
+T1  - Determination of the adequate capital for default protection under the one-factor Gaussian term structure model
+AU  - Nakazato, Daisuke
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 329
+EP  - 352
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00062-X
+UR  - https://www.sciencedirect.com/science/article/pii/S037842669900062X
+KW  - Capital adequacy
+KW  - Credit
+KW  - Term-structure
+KW  - Risk-management
+AB  - In practice, credit risk is measured by one of the two different methodologies. One measures the prices and sensitivities of the credit linked instruments. Another measures the required collateral or capital needed to cover a potential default loss. This paper introduces a pricing methodology, which also determines the required capital. Conventionally the value-at-risk method is used to determine collateral requirements. Artzner et al. demonstrated that the resulting adequate capital measures may fail to capture the credit diversification effect, which is critical in credit risk management. (cf. Artzner, P., Delbaen, F., Eber, J.-M., Heath, D. 1997. Definition of coherent measures of risk. Paper presented at the Symposium on Risk Management, European Finance Association, Vienna, August 27–30). In order to overcome this problem, this paper introduces a new approach, which combines closed form solutions and the Hull–White trinomial tree. This combined approach is computationally faster than a naively implemented Monte-Carlo-based VAR methodology. The pricing model is based on the rating-based Gaussian term structure model developed by Nakazato. This approach is applicable to a wide variety of credit derivatives and their portfolios in a coherent fashion. In this paper, however, attention is concentrated on determining the collateral requirement for the counter party risk when there is the risk of credit rating change on an issue and also risk of default on that issue or on any protection already written on the issue.
+ER  - 
+
+TY  - JOUR
+T1  - Default rates in the syndicated bank loan market: A mortality analysis
+AU  - Altman, Edward I.
+AU  - Suggitt, Heather J.
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 229
+EP  - 253
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00058-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000588
+KW  - Defaults
+KW  - Bank loans
+KW  - Mortality rates
+KW  - Credit risk
+AB  - The most fundamental aspect of credit risk models is the rating of the underlying assets and the associated expected and unexpected migration patterns. The most important migration is to default. While default rate empirical studies of corporate bonds are now commonplace, there has never been a study on the default rate in the corporate bank loan market. This paper assesses, for the first time, the default rate experience on large, syndicated bank loans. The results are stratified by original loan rating using a mortality rate framework for the 1991–1996 period. We find that the mortality rates on bank loans are remarkably similar to that of corporate bonds when measured cumulatively over the five-year period after issuance, but loan default rates appear to be considerably higher than bonds for the first two years after issuance. Since loans have an average effective maturity of under two years, this shorter maturity difference is of considerable relevance, especially if confirmed when our database will cover a longer sample period and more actual defaults. We do attempt to estimate the impact and bias on our results of the study's sample period which only covers the recent benign credit cycle in the US. Our results provide important new information for assessing the risk of corporate loans not only for bankers but also mutual fund investors and analysts of structured financial products, credit derivatives and credit insurance.
+ER  - 
+
+TY  - JOUR
+T1  - Credit risk rating systems at large US banks
+AU  - Treacy, William F
+AU  - Carey, Mark
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 167
+EP  - 201
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00056-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000564
+KW  - Ratings
+KW  - Credit risk
+KW  - Risk management
+KW  - Bank risk
+AB  - Internal credit risk rating systems are becoming an increasingly important element of large commercial banks’ measurement and management of the credit risk of both individual exposures and portfolios. This article describes the internal rating systems presently in use at the 50 largest US banking organizations. We use the diversity of current practice to illuminate the relationships between uses of ratings, different options for rating system design, and the effectiveness of internal rating systems. Growing stresses on rating systems make an understanding of such relationships important for both banks and regulators.
+ER  - 
+
+TY  - JOUR
+T1  - Stability of rating transitions
+AU  - Nickell, Pamela
+AU  - Perraudin, William
+AU  - Varotto, Simone
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 203
+EP  - 227
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00057-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000576
+KW  - Bond rating
+KW  - Credit risk
+KW  - Markov chain
+AB  - The distribution of ratings changes plays a crucial role in many credit risk models. As is well-known, these distributions vary across time and different issuer types. Ignoring such dependencies may lead to inaccurate assessments of credit risk. In this paper, we quantify the dependence of rating transition probabilities on the industry and domicile of the obligor, and on the stage of the business cycle. Employing ordered probit models, we identify the incremental impact of these factors. Our approach gives a clearer picture of which conditioning factors are important than comparing transition matrices estimated from different sub-samples.
+ER  - 
+
+TY  - JOUR
+T1  - A comparative study of structural models of corporate bond yields: An exploratory investigation
+AU  - Anderson, Ronald
+AU  - Sundaresan, Suresh
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 255
+EP  - 269
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00059-X
+UR  - https://www.sciencedirect.com/science/article/pii/S037842669900059X
+KW  - Structural models
+KW  - Default probabilities
+KW  - Bond yields
+AB  - This paper empirically compares a variety of firm-value-based models of contingent claims. We formulate a general model which nests versions of the models introduced by Merton, 1974, Leland, 1994, Anderson and Sundaresan, 1996, and Mella-Barral and Perraudin (1997). We estimate these using aggregate time series data for the US corporate bond market, monthly, from August 1970 through December 1996. We find that models fit reasonably well, indicating that variations of leverage and asset volatility account for much of the time-series variations of observed corporate yields. The performance of the recently developed models which incorporate endogenous bankruptcy barriers is somewhat superior to the original Merton model. We find that the models produce default probabilties which are in line with the historical experience reported by Moodys.
+ER  - 
+
+TY  - JOUR
+T1  - Policy implications of the Federal Reserve study of credit risk models at major US banking institutions
+AU  - Mingo, John J
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 15
+EP  - 33
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00051-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000515
+KW  - Banks
+KW  - Capital
+KW  - Regulation
+KW  - Credit risk
+AB  - The current regulatory capital standard for banks – the Basle Accord – is a lose/lose proposition. Regulators cannot conclude that a bank with a nominally high regulatory capital ratio has a correspondingly low probability of insolvency. On the other hand, because the Accord often levies a capital charge out of proportion to the true economic risk of a position, banks must engage in “regulatory capital arbitrage” (or exit their low risk business lines). Since such arbitrage is costly, the capital regulations keep banks from maximizing the value of the financial firm. Regulators need to answer three questions: (1) What are the goals of prudential regulation and supervision? (2) How should bank “soundness” be defined and quantified? (3) At what level should a minimum “soundness” standard be set in order to meet the (perhaps conflicting) goals of prudential regulation and supervision? Possible answers to these questions are attempted, then the paper analyzes the two leading proposals for rationalizing the Accord – a “modified-Basle” (or ratings-based) approach and a “full-models” approach.
+ER  - 
+
+TY  - JOUR
+T1  - Emerging problems with the Basel Capital Accord: Regulatory capital arbitrage and related issues
+AU  - Jones, David
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 35
+EP  - 58
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00052-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000527
+KW  - Securitization
+KW  - Capital regulation
+KW  - Bank regulation.
+AB  - In recent years, securitization and other financial innovations have provided unprecedented opportunities for banks to reduce substantially their regulatory capital requirements with little or no corresponding reduction in their overall economic risks – a process termed “regulatory capital arbitrage”. These methods are used routinely to lower the effective risk-based capital requirements against certain portfolios to levels well below the Basel Capital Accord’s nominal 8% total risk-based capital standard. This paper discusses the principal techniques used to undertake capital arbitrage and the difficulties faced by bank supervisors in attempting to deal with these activities under the current capital framework.
+ER  - 
+
+TY  - JOUR
+T1  - Regulatory implications of credit risk modelling
+AU  - Jackson, Patricia
+AU  - Perraudin, William
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 1
+EP  - 14
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00050-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000503
+KW  - Credit risk modelling
+KW  - Bank regulation
+KW  - Capital requirements
+AB  - This introduction places in context the papers on credit risk modelling contained in the special issue. We explain why credit risk modelling has become such a focus of interest for practitioners and financial supervisors. Even though, as we explain, the current modelling technologies have significant weaknesses, they offer the possibility of major changes in the ways banks are managed and regulated. The main impediment to greater use of these models, especially by regulators, is the difficulty involved in back-testing the risk measures they produce. We suggest some thoughts on how back-testing and other types of model assessment might be performed.
+ER  - 
+
+TY  - JOUR
+T1  - A comparative anatomy of credit risk models
+AU  - Gordy, Michael B.
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 119
+EP  - 149
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00054-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000540
+KW  - Credit risk
+KW  - Comparative analysis
+KW  - Financial products
+AB  - Within the past two years, important advances have been made in modeling credit risk at the portfolio level. Practitioners and policy makers have invested in implementing and exploring a variety of new models individually. Less progress has been made, however, with comparative analyses. Direct comparison often is not straightforward, because the different models may be presented within rather different mathematical frameworks. This paper offers a comparative anatomy of two especially influential benchmarks for credit risk models, the RiskMetrics Group's CreditMetrics and Credit Suisse Financial Product's CreditRisk+. We show that, despite differences on the surface, the underlying mathematical structures are similar. The structural parallels provide intuition for the relationship between the two models and allow us to describe quite precisely where the models differ in functional form, distributional assumptions, and reliance on approximation formulae. We then design simulation exercises which evaluate the effect of each of these differences individually.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating credit risk models
+AU  - Lopez, Jose A.
+AU  - Saidenberg, Marc R.
+JO  - Journal of Banking & Finance
+VL  - 24
+IS  - 1
+SP  - 151
+EP  - 165
+PY  - 2000
+DA  - 2000/01/01/
+SN  - 0378-4266
+DO  - https://doi.org/10.1016/S0378-4266(99)00055-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0378426699000552
+KW  - Credit risk models
+KW  - Bank regulation
+KW  - Forecast evaluation
+AB  - Over the past decade, commercial banks have devoted many resources to developing internal models to better quantify their financial risks and assign economic capital. These efforts have been recognized and encouraged by bank regulators. Recently, banks have extended these efforts into the field of credit risk modeling. However, an important question for both banks and their regulators is evaluating the accuracy of a model’s forecasts of credit losses, especially given the small number of available forecasts due to their typically long planning horizons. Using a panel data approach, we propose evaluation methods for credit risk models based on cross-sectional simulation. Specifically, models are evaluated not only on their forecasts over time, but also on their forecasts at a given point in time for simulated credit portfolios. Once the forecasts corresponding to these portfolios are generated, they can be evaluated using various statistical methods.
+ER  - 

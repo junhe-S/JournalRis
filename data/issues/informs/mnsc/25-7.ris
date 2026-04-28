@@ -1,0 +1,247 @@
+
+
+
+
+
+TY  - JOUR
+T1  - An Efficient Algorithm to Determine Stochastic Dominance Admissible Sets
+AU  - Bawa, Vijay S.
+AU  - Lindenberg, Eric B.
+AU  - Rafsky, Lawrence C.
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.609
+DO  - 10.1287/mnsc.25.7.609
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 609
+EP  - 622
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - Stochastic Dominance (SD) rules are playing an increasingly prominent role in the theory of choice under uncertainty. Its application areas include stock selection, capital budgeting, etc. The theory is important because it generates decision rules which are more generally applicable to these problems than are the traditional two parameter (mean-variance) rules employed in much of financial decision making. While they are theoretically sound, the SD rules are, until now, hard to implement because they require comparisons of probability distributions over their entire ranges. In this paper, we develop an algorithm that should remedy this situation. It exploits recent theoretical results from the Stochastic Dominance literature as well as several computational techniques to efficiently determine the SD admissible set of alternatives, which contains the optimal choices for all decision makers whose preferences satisfy reasonable economic criteria. As compared with the fastest code currently available, an implementation of our algorithm significantly reduces the computational time required to solve a problem of considerable size. These results indicate that, as a management tool, this algorithm can be applied to choice problems not previously thought solvable. For example, in the portfolio choice problem, which has an infinite choice set, the algorithm can provide reasonable approximations to the true set of optimal choices via the use of a suitably fine enough grid on the space of portfolios.
+AB  - Stochastic Dominance (SD) rules are playing an increasingly prominent role in the theory of choice under uncertainty. Its application areas include stock selection, capital budgeting, etc. The theory is important because it generates decision rules which are more generally applicable to these problems than are the traditional two parameter (mean-variance) rules employed in much of financial decision making. While they are theoretically sound, the SD rules are, until now, hard to implement because they require comparisons of probability distributions over their entire ranges. In this paper, we develop an algorithm that should remedy this situation. It exploits recent theoretical results from the Stochastic Dominance literature as well as several computational techniques to efficiently determine the SD admissible set of alternatives, which contains the optimal choices for all decision makers whose preferences satisfy reasonable economic criteria. As compared with the fastest code currently available, an implementation of our algorithm significantly reduces the computational time required to solve a problem of considerable size. These results indicate that, as a management tool, this algorithm can be applied to choice problems not previously thought solvable. For example, in the portfolio choice problem, which has an infinite choice set, the algorithm can provide reasonable approximations to the true set of optimal choices via the use of a suitably fine enough grid on the space of portfolios.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.609
+UR  - https://doi.org/10.1287/mnsc.25.7.609
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Case Study of Encoder Shift Scheduling under Uncertainty
+AU  - Mabert, Vincent A.
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.623
+DO  - 10.1287/mnsc.25.7.623
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 623
+EP  - 631
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - This paper illustrates a shift scheduling procedure for a commercial bank's encoder work force for check processing in the presence of daily work load uncertainty. The author presents a chance constraint model for determining the appropriate safety capacity, analogous to safety stock in inventory theory, to meet varying volume demands when forecast errors are present. A series of tests are conducted to evaluate the model's performance under different operating costs, forecast errors, and volume arrival rates, which are based on data collected at Chemical Bank. The results indicate this model provides low cost solutions. This study provides two contributions to managers and management scientists. First, even though the paper illustrates the encoder work force shift scheduling decision, the methodology presented can be extended to other service oriented organizations. The main elements that need to be present are: varying between day work loads, varying within day work loads, uncertainty in estimating work loads, and critical deadlines at specific times during the day. And second, a classification scheme is developed which indicates how the general shift scheduling problem in service organizations can be viewed. This classification system helps to structure this complex problem and indicates how this proposed procedure contributes to this important area.
+AB  - This paper illustrates a shift scheduling procedure for a commercial bank's encoder work force for check processing in the presence of daily work load uncertainty. The author presents a chance constraint model for determining the appropriate safety capacity, analogous to safety stock in inventory theory, to meet varying volume demands when forecast errors are present. A series of tests are conducted to evaluate the model's performance under different operating costs, forecast errors, and volume arrival rates, which are based on data collected at Chemical Bank. The results indicate this model provides low cost solutions. This study provides two contributions to managers and management scientists. First, even though the paper illustrates the encoder work force shift scheduling decision, the methodology presented can be extended to other service oriented organizations. The main elements that need to be present are: varying between day work loads, varying within day work loads, uncertainty in estimating work loads, and critical deadlines at specific times during the day. And second, a classification scheme is developed which indicates how the general shift scheduling problem in service organizations can be viewed. This classification system helps to structure this complex problem and indicates how this proposed procedure contributes to this important area.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.623
+UR  - https://doi.org/10.1287/mnsc.25.7.623
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Advertising Agency Compensation: A Model for Incentive and Control
+AU  - Calantone, Roger J.
+AU  - Drury, Donald H.
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.632
+DO  - 10.1287/mnsc.25.7.632
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 632
+EP  - 642
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - This paper describes a theoretical model for incentive and control within the framework of the advertising agency-client relationship. This particular interorganizational relationship has been characterized by frequent disagreements, discontent and resignation of accounts by both sides. For many years simple commission schemes were the rule. Recently many alternative schemes have been instituted but have either had no effect or overly favored one party or the other and thus exacerbated the historical discontent in the industry. The problem is identified through an examination of the major client-agency compensation methods currently in use. The article deals first with the effects and drawbacks of making the simple commission rate method more complex by introducing an increasing number of numerical statements of the variables with which the advertisers and agencies must deal. Then four simple compensation methods?the commission basis, the fixed fee method, time-charges and a results incentive program?are analyzed and compared to introduce an alternative, three-stage approach to compensation. In the first or preliminary stage, the agency proposes to the advertiser a tentative target and a tentative compensation which as been determined by means of an equation which guarantees the agency a normal return. In the second or planning phase, the agency has the option of selecting according to a formula a larger or smaller plan target with a correspondingly larger or smaller compensation payment. In the third or implementation phase, when the agency acutally provides the service negotiated in stage two, it actually receives the corresponding agreed-upon compensation appropriate to its inputs and performance. Thus the model presented provides output performance incentives to both agency and client while providing controls on inputs for both sides. It also explicitly recognizes the planning and negotiation facets of compensation schemes through which the accommodation of each set of organization goals may be achieved.
+AB  - This paper describes a theoretical model for incentive and control within the framework of the advertising agency-client relationship. This particular interorganizational relationship has been characterized by frequent disagreements, discontent and resignation of accounts by both sides. For many years simple commission schemes were the rule. Recently many alternative schemes have been instituted but have either had no effect or overly favored one party or the other and thus exacerbated the historical discontent in the industry. The problem is identified through an examination of the major client-agency compensation methods currently in use. The article deals first with the effects and drawbacks of making the simple commission rate method more complex by introducing an increasing number of numerical statements of the variables with which the advertisers and agencies must deal. Then four simple compensation methods?the commission basis, the fixed fee method, time-charges and a results incentive program?are analyzed and compared to introduce an alternative, three-stage approach to compensation. In the first or preliminary stage, the agency proposes to the advertiser a tentative target and a tentative compensation which as been determined by means of an equation which guarantees the agency a normal return. In the second or planning phase, the agency has the option of selecting according to a formula a larger or smaller plan target with a correspondingly larger or smaller compensation payment. In the third or implementation phase, when the agency acutally provides the service negotiated in stage two, it actually receives the corresponding agreed-upon compensation appropriate to its inputs and performance. Thus the model presented provides output performance incentives to both agency and client while providing controls on inputs for both sides. It also explicitly recognizes the planning and negotiation facets of compensation schemes through which the accommodation of each set of organization goals may be achieved.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.632
+UR  - https://doi.org/10.1287/mnsc.25.7.632
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Chinese Postman Problem for Mixed Networks
+AU  - Minieka, Edward
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.643
+DO  - 10.1287/mnsc.25.7.643
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 643
+EP  - 648
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - The Chinese postman problem is to find a least cost way to traverse each arc of a network at least once and to return to the vertex from which you started. Diverse problems such as the routing of road crews, police patrol scheduling, garbage collection and the programming of computer map printers can be modelled as Chinese postman problems. This paper surveys available solution techniques for the Chinese postman problem for totally undirected networks (when all streets are two-way streets) and for totally directed networks (when all streets are one-way streets). A known solution technique for networks with both directed and undirected arcs (both one-way and two-way streets) in which the degree of each vertex is an even number is also reviewed. A solution technique for these mixed networks in which some vertices have odd degree is presented. This technique is based on the before mentioned technique and requires the solution of a minimum cost flow problem on a network that is an extension of the original network. Some of the additional arcs in this network have gain factors (i.e., the flow leaving these arcs equals the flow entering times the gain factor) and the flows are required to be integer valued.
+AB  - The Chinese postman problem is to find a least cost way to traverse each arc of a network at least once and to return to the vertex from which you started. Diverse problems such as the routing of road crews, police patrol scheduling, garbage collection and the programming of computer map printers can be modelled as Chinese postman problems. This paper surveys available solution techniques for the Chinese postman problem for totally undirected networks (when all streets are two-way streets) and for totally directed networks (when all streets are one-way streets). A known solution technique for networks with both directed and undirected arcs (both one-way and two-way streets) in which the degree of each vertex is an even number is also reviewed. A solution technique for these mixed networks in which some vertices have odd degree is presented. This technique is based on the before mentioned technique and requires the solution of a minimum cost flow problem on a network that is an extension of the original network. Some of the additional arcs in this network have gain factors (i.e., the flow leaving these arcs equals the flow entering times the gain factor) and the flows are required to be integer valued.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.643
+UR  - https://doi.org/10.1287/mnsc.25.7.643
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On the Effectiveness of Common Random Numbers
+AU  - Wright, R. D.
+AU  - Ramsay, T. E.
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.649
+DO  - 10.1287/mnsc.25.7.649
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 649
+EP  - 656
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - The common random number (CRN) simulation technique is a variance reduction method in which policy alternatives are tested against the same random input streams. The CRN literature suggests that positively correlated input streams will generate positively correlated policy responses and, therefore, that the variance of CRN estimators of response differences will be smaller than the variance of independent sample estimators. This paper reports simulation experiments with a typical inventory model for which the CRN technique induces negative correlation and thus augments variance. The experiments also show that CRN designs which assign separate random streams to each stochastic input and hold all streams common across policy tests usually, but not necessarily, yield maximum variance reduction.
+AB  - The common random number (CRN) simulation technique is a variance reduction method in which policy alternatives are tested against the same random input streams. The CRN literature suggests that positively correlated input streams will generate positively correlated policy responses and, therefore, that the variance of CRN estimators of response differences will be smaller than the variance of independent sample estimators. This paper reports simulation experiments with a typical inventory model for which the CRN technique induces negative correlation and thus augments variance. The experiments also show that CRN designs which assign separate random streams to each stochastic input and hold all streams common across policy tests usually, but not necessarily, yield maximum variance reduction.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.649
+UR  - https://doi.org/10.1287/mnsc.25.7.649
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Management System: Its Functions and Processes
+AU  - Cunningham, J. Barton
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.657
+DO  - 10.1287/mnsc.25.7.657
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 657
+EP  - 670
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - What is management? In recent years, a number of schools or approaches to management have evolved. What is rather upsetting to the manager is that there are a variety of unrelated approaches without any suggestion of their relationship to each other. Even more upsetting is that some of these approaches seem to be based on the disciplines of particular researchers rather than their ability to help managers. The study explores the rationale underlying two predominant orientations. One is concerned with the process of management, while the other emphasizes the function of management. The managerial process involves such intuitive principles as planning, organizing, and staffing. The managerial function involves arranging equipment to perform functions such as procurement, production, and adaptation. The goal is to illustrate the relationship of these approaches to each other and to specific managerial needs. The study was conducted among top managers in six municipal organizations. The research utilized a questionnaire and decision-making simulation for gathering data on the relationship of each managerial orientation. The results indicate that each orientation deals with different areas of managerial action. Key managerial processes focus on integrating, making decisions, recording information, motivating, and negotiating. The managerial functions, in this study, are part of three subsystem efforts which are administrative, adaptive, and technical. When management is defined as a process, it has no relationship to functions; when it is defined as functions of specific subsystems, there is no positive relationship to the process.
+AB  - What is management? In recent years, a number of schools or approaches to management have evolved. What is rather upsetting to the manager is that there are a variety of unrelated approaches without any suggestion of their relationship to each other. Even more upsetting is that some of these approaches seem to be based on the disciplines of particular researchers rather than their ability to help managers. The study explores the rationale underlying two predominant orientations. One is concerned with the process of management, while the other emphasizes the function of management. The managerial process involves such intuitive principles as planning, organizing, and staffing. The managerial function involves arranging equipment to perform functions such as procurement, production, and adaptation. The goal is to illustrate the relationship of these approaches to each other and to specific managerial needs. The study was conducted among top managers in six municipal organizations. The research utilized a questionnaire and decision-making simulation for gathering data on the relationship of each managerial orientation. The results indicate that each orientation deals with different areas of managerial action. Key managerial processes focus on integrating, making decisions, recording information, motivating, and negotiating. The managerial functions, in this study, are part of three subsystem efforts which are administrative, adaptive, and technical. When management is defined as a process, it has no relationship to functions; when it is defined as functions of specific subsystems, there is no positive relationship to the process.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.657
+UR  - https://doi.org/10.1287/mnsc.25.7.657
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Brand Choice Inertia as One Aspect of the Notion of Brand Loyalty
+AU  - Jeuland, Abel P.
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.671
+DO  - 10.1287/mnsc.25.7.671
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 671
+EP  - 682
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - A very parsimonious first-order multibrand model of the individual consumer for frequently purchased consumer goods is developed, generalizing the zero-order multinomial model. The model incorporates the notion of brand choice inertia, which is a form of short-term loyalty. Besides the equilibrium marginal choice probabilities of the multinomial model, a single additional parameter of choice inertia is defined. A maximum likelihood estimation procedure is derived and used on individual data from a subsample of the Secodip Consumer Panel, France: 2,401 purchases of cooking oil from eighty-nine of the consumers who were in the panel for the entire 1971?1972 period are used. Through the likelihood ratio test procedure, the model is shown to significantly improve on the multinomial model. An aggregate version of the model is also developed and estimated by a minimum chi-square procedure on four independent data sets. It is compared with the linear learning model which has been preferred over other probabilistic models of brand choice in most empirical studies in the past fifteen years. On the criterion of the p-level corresponding to the chi-square procedure, the model is superior for data set one, basically equivalent for data set two and its special case of the multinomial model being best for data sets three and four. The model operationalizes in a simple way the notion of carryover effect of marketing actions: a short-term perturbation from equilibrium?due to marketing mix actions, for example?has some residual effect on future purchase occasions. Moreover, in the context of new product modeling, the inertia model is in accord with the empirical observation by Parfitt and Collins of leveling-off of repeat-buying.
+AB  - A very parsimonious first-order multibrand model of the individual consumer for frequently purchased consumer goods is developed, generalizing the zero-order multinomial model. The model incorporates the notion of brand choice inertia, which is a form of short-term loyalty. Besides the equilibrium marginal choice probabilities of the multinomial model, a single additional parameter of choice inertia is defined. A maximum likelihood estimation procedure is derived and used on individual data from a subsample of the Secodip Consumer Panel, France: 2,401 purchases of cooking oil from eighty-nine of the consumers who were in the panel for the entire 1971?1972 period are used. Through the likelihood ratio test procedure, the model is shown to significantly improve on the multinomial model. An aggregate version of the model is also developed and estimated by a minimum chi-square procedure on four independent data sets. It is compared with the linear learning model which has been preferred over other probabilistic models of brand choice in most empirical studies in the past fifteen years. On the criterion of the p-level corresponding to the chi-square procedure, the model is superior for data set one, basically equivalent for data set two and its special case of the multinomial model being best for data sets three and four. The model operationalizes in a simple way the notion of carryover effect of marketing actions: a short-term perturbation from equilibrium?due to marketing mix actions, for example?has some residual effect on future purchase occasions. Moreover, in the context of new product modeling, the inertia model is in accord with the empirical observation by Parfitt and Collins of leveling-off of repeat-buying.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.671
+UR  - https://doi.org/10.1287/mnsc.25.7.671
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Weighted Assignment Models and Their Application
+AU  - Ross, G. Terry
+AU  - Zoltners, Andris A.
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.683
+DO  - 10.1287/mnsc.25.7.683
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 683
+EP  - 696
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - This paper defines the components and characteristics of an important class of models called weighted assignment models and identifies these elements in a number of existing and potential applications. The weighted assignment model represents problems with the following characteristics: A set of tasks must be divided among a set of agents, and each task must be completed by only one agent. Tasks may be completed at one of several predetermined levels. When an agent completes a task at some level, a resource possessed by the agent is consumed and a system disutility is incurred. The weighted assignment model may be used to determine the best assignment of tasks to agents and the task completion levels so as to minimize total system disutility while satisfying the agent resource constraints. In the first part of the paper, a general formulation is presented, and its relationship to assignment models, transportation models, knapsack models and various fixed charge models is established. In the second part of the paper, a number of applications are described which demonstrate the usefulness of weighted assignment models. These applications include machine loading problems, personnel assignment problems and districting problems. Computational results for several of the applications are presented to document the tractability of the models.
+AB  - This paper defines the components and characteristics of an important class of models called weighted assignment models and identifies these elements in a number of existing and potential applications. The weighted assignment model represents problems with the following characteristics: A set of tasks must be divided among a set of agents, and each task must be completed by only one agent. Tasks may be completed at one of several predetermined levels. When an agent completes a task at some level, a resource possessed by the agent is consumed and a system disutility is incurred. The weighted assignment model may be used to determine the best assignment of tasks to agents and the task completion levels so as to minimize total system disutility while satisfying the agent resource constraints. In the first part of the paper, a general formulation is presented, and its relationship to assignment models, transportation models, knapsack models and various fixed charge models is established. In the second part of the paper, a number of applications are described which demonstrate the usefulness of weighted assignment models. These applications include machine loading problems, personnel assignment problems and districting problems. Computational results for several of the applications are presented to document the tractability of the models.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.683
+UR  - https://doi.org/10.1287/mnsc.25.7.683
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Note—Computation of Particular Economic Equilibria
+AU  - Bracken, Jerome
+AU  - Falk, James E.
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.697
+DO  - 10.1287/mnsc.25.7.697
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 697
+EP  - 705
+VL  - 25
+IS  - 7
+PB  - INFORMS
+N2  - The computation of economic equilibria, given specific supply and demand functions, is a well-established problem normally treated by fixed point methods or other iterative schemes which converge to a point satisfying the equilibrium criteria. In cases where there are several points which satisfy the equilibrium criteria, these methods will produce a solution distinguished only by the characteristics of the method itself and the starting point used. For some applications, it is desirable to characterize a particular equilibrium point in the presence of multiple equilibria. We consider here economies with demand and supply characteristics which can be described in terms of separable functions (i.e., functions which are sums of functions, each of a single variable) or in terms of functions which can be made separable by introducing new variables and equations. We apply a recently developed branch and bound algorithm to the problem of maximizing any one of several separable objective functions subject to the equilibrium criteria, thus producing a particular equilibrium point. If there is more than one equilibrium point solution for a particular objective function, the branch and bound procedure will produce all such solutions. We present an example with three commodities to show that economic equilibrium models can have different solutions depending on which objective function is used. We briefly discuss other examples with up to 30 commodities.
+AB  - The computation of economic equilibria, given specific supply and demand functions, is a well-established problem normally treated by fixed point methods or other iterative schemes which converge to a point satisfying the equilibrium criteria. In cases where there are several points which satisfy the equilibrium criteria, these methods will produce a solution distinguished only by the characteristics of the method itself and the starting point used. For some applications, it is desirable to characterize a particular equilibrium point in the presence of multiple equilibria. We consider here economies with demand and supply characteristics which can be described in terms of separable functions (i.e., functions which are sums of functions, each of a single variable) or in terms of functions which can be made separable by introducing new variables and equations. We apply a recently developed branch and bound algorithm to the problem of maximizing any one of several separable objective functions subject to the equilibrium criteria, thus producing a particular equilibrium point. If there is more than one equilibrium point solution for a particular objective function, the branch and bound procedure will produce all such solutions. We present an example with three commodities to show that economic equilibrium models can have different solutions depending on which objective function is used. We briefly discuss other examples with up to 30 commodities.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.697
+UR  - https://doi.org/10.1287/mnsc.25.7.697
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Notes About Authors
+Y1  - 1979/07/01
+PY  - 1979
+DA  - 1979/07/01
+N1  - doi: 10.1287/mnsc.25.7.706
+DO  - 10.1287/mnsc.25.7.706
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 706
+EP  - 707
+VL  - 25
+IS  - 7
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.25.7.706
+UR  - https://doi.org/10.1287/mnsc.25.7.706
+Y2  - 2024/03/27
+ER  - 

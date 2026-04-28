@@ -1,0 +1,178 @@
+TY  - JOUR
+T1  - Validating approximate slope homogeneity in large panels
+AU  - Kutta, Tim
+AU  - Dette, Holger
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105898
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105898
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002495
+KW  - Large intersections
+KW  - Panel data
+KW  - Self-normalization
+KW  - Slope homogeneity
+AB  - In this paper, we introduce new inference methods for slope homogeneity in large regression panels. While most existing tests are developed for the hypothesis of slope homogeneity (equality of all individual slopes), we propose to test the more realistic relaxation of approximate slope homogeneity (similarity of all slopes). We present new test statistics for dense and sparse alternatives to approximate homogeneity. In the dense setting, the main focus of this paper, we develop statistics that converge to pivotal limits even under simultaneous temporal and intersectional dependence. We also demonstrate uniform consistency of these statistics against large classes of local alternatives. As a complementary diagnostic tool, we propose tests against sparse alternatives that are sensitive to excessive heterogeneity in a minority of slopes. Such tests can play an important role in the analysis of populations with diverse but small subgroups. A simulation study and a data example underline the usefulness of our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Multivariate spatiotemporal models with low rank coefficient matrix
+AU  - Pu, Dan
+AU  - Fang, Kuangnan
+AU  - Lan, Wei
+AU  - Yu, Jihai
+AU  - Zhang, Qingzhao
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105897
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105897
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002483
+KW  - Multivariate spatiotemporal model
+KW  - Reduced-rank regression
+KW  - Quasi-maximum likelihood estimation
+KW  - Ridge-type ratio estimator
+AB  - Multivariate spatiotemporal data arise frequently in practical applications, often involving complex dependencies across cross-sectional units, time points and multivariate variables. In the literature, few studies jointly model the dependence in three dimensions. To simultaneously model the cross-sectional, dynamic and cross-variable dependence, we propose a multivariate reduced-rank spatiotemporal model. By imposing the low-rank assumption on the spatial influence matrix, the proposed model achieves substantial dimension reduction and has a nice interpretation, especially for financial data. Due to the innate endogeneity, we propose the quasi-maximum likelihood estimator (QMLE) to estimate the unknown parameters. A ridge-type ratio estimator is also developed to determine the rank of the spatial influence matrix. We establish the asymptotic distribution of the QMLE and the rank selection consistency of the ridge-type ratio estimator. The proposed methodology is further illustrated via extensive simulation studies and two applications to a stock market dataset and an air pollution dataset.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating and testing for smooth structural changes in moment condition models
+AU  - Li, Haiqi
+AU  - Zhou, Jin
+AU  - Hong, Yongmiao
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105896
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105896
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002471
+KW  - Boundary correction
+KW  - Local GMM
+KW  - Local stationarity
+KW  - Nonparametric tests
+KW  - Smooth structural changes
+AB  - Numerous studies have been devoted to estimating and testing for moment condition models. Most existing studies assume that structural parameters are either fixed or change abruptly over time. This study considers estimating and testing for smooth structural changes in moment condition models where the data-generating process is locally stationary. A novel local generalized method of moments estimator and its boundary-corrected counterpart are proposed to estimate the smoothly changing parameters. Consistency and asymptotic normality are established, and an optimal weighting matrix and its consistent estimator are obtained. Moreover, we propose a consistent test to detect both smooth changes and abrupt breaks, as well as a consistent test for a parametric functional form of time-varying parameters. The tests are asymptotically pivotal and do not require prior information about the alternatives. Monte Carlo simulation studies show that the proposed estimators and tests have superior finite-sample performance. In an empirical application, we document the time-varying features of the risk aversion parameter in an asset pricing model, indicating that investors’ risk aversion is counter-cyclical.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent causal inference for high-dimensional time series
+AU  - Cordoni, Francesco
+AU  - Sancetta, Alessio
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105902
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105902
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002537
+KW  - High-dimensional model
+KW  - Identification
+KW  - Nonlinear model
+KW  - Structural model
+KW  - Vector autoregressive process
+AB  - A methodology for high-dimensional causal inference in a time series context is introduced. Time series dynamics are captured by a Gaussian copula, and estimation of the marginal distribution of the data is not required. The procedure can consistently identify the parameters that describe the dynamics of the process and the conditional causal relations among the possibly high-dimensional variables, under sparsity conditions. Identification of the causal relations is in the form of a directed acyclic graph, which is equivalent to identifying the structural VAR model for the transformed variables. As illustrative applications, we consider the impact of supply-side oil shocks on the economy and the causal relations between aggregated variables constructed from the limit order book for four stock constituents of the S&P500.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105931
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00282-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002823
+ER  - 
+
+TY  - JOUR
+T1  - Pseudo-variance quasi-maximum likelihood estimation of semi-parametric time series models
+AU  - Armillotta, Mirko
+AU  - Gorgi, Paolo
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105894
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105894
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002458
+KW  - Double-bounded time series
+KW  - Integer-valued autoregressions
+KW  - Quasi-maximum likelihood
+AB  - We propose a novel estimation approach for a general class of semi-parametric time series models where the conditional expectation is modeled through a parametric function. The proposed class of estimators is based on a Gaussian quasi-likelihood function and it relies on the specification of a parametric pseudo-variance that can contain parametric restrictions with respect to the conditional expectation. The specification of the pseudo-variance and the parametric restrictions follow naturally in observation-driven models with bounds in the support of the observable process, such as count processes and double-bounded time series. We derive the asymptotic properties of the estimators and a validity test for the parameter restrictions. We show that the results remain valid irrespective of the correct specification of the pseudo-variance. The key advantage of the restricted estimators is that they can achieve higher efficiency compared to alternative quasi-likelihood methods that are available in the literature. Furthermore, the testing approach can be used to build specification tests for parametric time series models. We illustrate the practical use of the methodology in a simulation study and two empirical applications featuring integer-valued autoregressive processes, where assumptions on the dispersion of the thinning operator are formally tested, and autoregressions for double-bounded data with application to a realized correlation time series.
+ER  - 
+
+TY  - JOUR
+T1  - Variable selection in high dimensional linear regressions with parameter instability
+AU  - Chudik, Alexander
+AU  - Pesaran, M. Hashem
+AU  - Sharifvaghefi, Mahrad
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105900
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105900
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002513
+KW  - Lasso
+KW  - One Covariate at a Time Multiple Testing
+KW  - OCMT
+KW  - Parameter instability
+KW  - Variable selection
+KW  - Forecasting
+AB  - This paper considers the problem of variable selection allowing for parameter instability. It distinguishes between signal and pseudo-signal variables that are correlated with the target variable, and noise variables that are not, and investigate the asymptotic properties of the One Covariate at a Time Multiple Testing (OCMT) method proposed by Chudik et al. (2018) under parameter insatiability. It is established that OCMT continues to asymptotically select an approximating model that includes all the signals and none of the noise variables. Properties of post selection regressions are also investigated, and in-sample fit of the selected regression is shown to have the oracle property. The theoretical results support the use of unweighted observations at the selection stage of OCMT, whilst applying down-weighting of observations only at the forecasting stage. Monte Carlo and empirical applications show that OCMT without down-weighting at the selection stage yields smaller mean squared forecast errors compared to Lasso, Adaptive Lasso, and boosting.
+ER  - 
+
+TY  - JOUR
+T1  - From LATE to ATE: A Bayesian approach
+AU  - Opper, Isaac M.
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105895
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105895
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400246X
+KW  - Marginal treatment effects
+KW  - Bayesian models
+KW  - Instrumental variables
+KW  - Compliers
+KW  - Gaussian process
+KW  - RCTs
+AB  - We develop a Bayesian model that produces a posterior distribution of the marginal treatment effect (MTE) function. The method provides researchers with a principled way to extrapolate from the observed moments using flexible assumptions, thereby allowing researchers to generate plausible ranges of important and potentially policy-relevant quantities of interest. We then use the model to propose a natural decomposition of the posterior variance into “statistical uncertainty,” i.e., variance that stems from the imprecise estimation of the observed moments, and “extrapolation uncertainty,” i.e., variance that stems from uncertainty in how to extrapolate away from the observed moments. We conclude by showing that under our preferred priors, even in an experiment as large as the Oregon Health Insurance Experiment, the main source of uncertainty in the ATE comes from uncertainty in the true values of the observed moments.
+ER  - 
+
+TY  - JOUR
+T1  - GLS under monotone heteroskedasticity
+AU  - Arai, Yoichi
+AU  - Otsu, Taisuke
+AU  - Xu, Mengshan
+JO  - Journal of Econometrics
+VL  - 246
+IS  - 1
+SP  - 105899
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105899
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002501
+AB  - The generalized least square (GLS) is one of the most basic tools in regression analyses. A major issue in implementing the GLS is estimation of the conditional variance function of the error term, which typically requires a restrictive functional form assumption for parametric estimation or smoothing parameters for nonparametric estimation. In this paper, we propose an alternative approach to estimate the conditional variance function under nonparametric monotonicity constraints by utilizing the isotonic regression method. Our GLS estimator is shown to be asymptotically equivalent to the infeasible GLS estimator with knowledge of the conditional error variance, and involves only some tuning to trim boundary observations, not only for point estimation but also for interval estimation or hypothesis testing. Simulation studies and an empirical example illustrate excellent finite sample performances of the proposed method.
+ER  - 

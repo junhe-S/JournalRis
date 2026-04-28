@@ -1,0 +1,286 @@
+TY  - JOUR
+T1  - Robust uniform inference for quantile treatment effects in regression discontinuity designs
+AU  - Chiang, Harold D.
+AU  - Hsu, Yu-Chin
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 589
+EP  - 618
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300569
+KW  - Bias correction
+KW  - Local Wald estimator
+KW  - Multiplier bootstrap
+KW  - Quantile
+KW  - Regression discontinuity design
+KW  - Regression kink design
+KW  - Robustness
+AB  - The practical importance of inference with robustness against large bandwidths for causal effects in regression discontinuity and kink designs is widely recognized. Existing robust methods cover many cases, but do not handle uniform inference for CDF and quantile processes in fuzzy designs. In this light, this paper extends the literature by developing a unified framework of inference with robustness against large bandwidths that applies to uniform inference for quantile treatment effects in fuzzy designs, as well as all the other cases. We present Monte Carlo simulation studies and an empirical application for evaluations of the Oklahoma pre-K program.
+ER  - 
+
+TY  - JOUR
+T1  - A time-varying true individual effects model with endogenous regressors
+AU  - Kutlu, Levent
+AU  - Tran, Kien C.
+AU  - Tsionas, Mike G.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 539
+EP  - 559
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.01.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300922
+KW  - Endogeneity
+KW  - Panel data
+KW  - Stochastic frontier
+KW  - True fixed effects
+KW  - Time-varying heterogeneity
+AB  - We propose a fairly general individual effects stochastic frontier model, which allows both heterogeneity and inefficiency to change over time. Moreover, our model handles the endogeneity problems if either at least one of the regressors or one-sided error term is correlated with the two-sided error term. Our Monte Carlo experiments show that our estimator performs well. We employed our methodology to the US banking data and found a negative relationship between return on revenue and cost efficiency. Estimators ignoring time-varying heterogeneity or endogeneity did not perform well and gave very different estimates compared to our estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Inference on Difference-in-Differences average treatment effects: A fixed-b approach
+AU  - Sun, Yu
+AU  - Yan, Karen X.
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 560
+EP  - 588
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300545
+KW  - Difference-in-Differences
+KW  - HAC estimator
+KW  - Fixed- asymptotics
+KW  - Panel data
+AB  - This paper provides an analysis of the standard errors proposed by Driscoll and Kraay (1998) (DK) in linear Difference-in-Differences (DD) models with fixed effects and individual-specific time trends. The analysis is accomplished within the fixed-b asymptotic framework developed by Kiefer and Vogelsang (2005) for heteroskedasticity and autocorrelation consistent (HAC) covariance matrix estimator based tests. For both the fixed-N, large-T, and large-N, large-T cases, it is shown that fixed-b asymptotic distributions of test statistics constructed using the DD estimator and the DK standard errors are different from the results found by Kiefer and Vogelsang (2005) and Vogelsang (2012). The newly derived fixed-b asymptotic distributions depend on the date of policy change, individual-specific trend functions as well as the choice of kernel and bandwidth. Monte Carlo simulations illustrate the performance of the fixed-b approximations in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Combining p-values to test for multiple structural breaks in cointegrated regressions
+AU  - Bergamelli, Michele
+AU  - Bianchi, Annamaria
+AU  - Khalaf, Lynda
+AU  - Urga, Giovanni
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 461
+EP  - 482
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.01.013
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930051X
+KW  - Structural stability
+KW  - Vector error correction model
+KW  - Multiple hypotheses test
+KW  - Simulation based test
+AB  - We propose a multiple hypothesis testing approach to assess structural stability in cointegrating regressions. Underlying tests are constructed via a Vector Error Correction Model and generalize the reduced rank regression procedures of Hansen (2003). We generalize the likelihood ratio test proposed in Hansen (2003) to accommodate unknown break dates through the specification of several scenarios regarding the number and the location of the breaks. We define a combined p-value adjustment, which proceeds by simulating the entire dataset imposing the relevant null hypothesis. This framework accounts for both correlation of underlying tests and the fact that empirically, parameters of interest often pertain to limited even though uncertain stylized-fact based change points. We prove asymptotic validity of the proposed procedure. Monte Carlo simulations show that proposed tests perform well in finite samples and circumvent Bonferroni-type adjustments. An application to the S&P 500 prices and dividends series illustrates the empirical validity of the proposed procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Applied welfare analysis for discrete choice with interval-data on income
+AU  - Lee, Ying-Ying
+AU  - Bhattacharya, Debopam
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 361
+EP  - 387
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300508
+KW  - Binary choice
+KW  - Equivalent variation
+KW  - Interval-data
+KW  - Slutsky restriction
+KW  - Set identified function
+KW  - Inference on functionals
+KW  - Directional differentiability
+AB  - This paper concerns empirical measurement of Hicksian consumer welfare under interval-reported income. Bhattacharya (2015, 2018a) has shown that for discrete choice, welfare distributions resulting from a hypothetical price-change can be expressed as closed-form transformations of choice probabilities. However, when income is interval-reported, as is the case in many surveys, the choice probabilities, and hence welfare distributions are not point-identified. We derive bounds on average welfare in such scenarios under the assumption of a normal good. A finding of independent interest is a set of Slutsky-like shape restrictions which are linear in average demand, unlike those for continuous choice. A parametric specification of choice probabilities facilitates imposition of these Slutsky conditions, and leads to computationally simple inference for the partially identified features of welfare. In particular, the estimand is shown to be directionally differentiable, so that recently developed bootstrap methods can be applied for inference. Under mis-specification, our results provide a ”best parametric approximation” to demand and welfare. These methods can be used for inference in more general settings where a class of set-identified functions satisfy linear inequality restrictions, and one wishes to conduct inference on functionals thereof. We illustrate our theoretical results using a simulation exercise based on a real dataset where actual income is observed. We artificially introduce interval-censoring of income, calculate bounds for the average welfare effects of a price-subsidy using our methods, and find that they perform favorably in comparison with estimates obtained using actual income.
+ER  - 
+
+TY  - JOUR
+T1  - Bounding counterfactual demand with unobserved heterogeneity and endogenous expenditures
+AU  - Cherchye, Laurens
+AU  - Demuynck, Thomas
+AU  - Rock, Bram De
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 483
+EP  - 506
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300491
+KW  - Unobserved heterogeneity
+KW  - WARP
+KW  - Endogenous expenditures
+KW  - Counterfactual demand
+AB  - We propose a method to predict rational counterfactual demand responses from repeated cross-sections. We derive bounds on the distribution of counterfactual demands that are consistent with the Weak Axiom of Revealed Preferences, without putting any restriction on the preference heterogeneity across consumers. In contrast to existing methods, we also allow for endogeneity of total expenditures. In addition, the method can readily incorporate restrictions on the income elasticities of the consumption goods, which further enhances its identifying power (i.e. tighter bounds). We illustrate our approach through an application to data drawn from the U.S. Consumer Expenditure Survey.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - ii
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(19)30132-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619301320
+ER  - 
+
+TY  - JOUR
+T1  - Strict stationarity testing and GLAD estimation of double autoregressive models
+AU  - Guo, Shaojun
+AU  - Li, Dong
+AU  - Li, Muyi
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 319
+EP  - 337
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.01.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300466
+KW  - DAR model
+KW  - GLAD estimation
+KW  - Nonstationarity
+KW  - Random weighting
+KW  - Strict stationarity testing
+AB  - In this article we develop a tractable procedure for testing strict stationarity in a double autoregressive model and formulate the problem as testing if the top Lyapunov exponent is negative. Without strict stationarity assumption, we construct a consistent estimator of the associated top Lyapunov exponent and employ a random weighting approach for its variance estimation, which in turn are used in a t-type test. We also propose a GLAD estimation for parameters of interest, relaxing key assumptions on the commonly used QMLE. All estimators, except for the intercept, are shown to be consistent and asymptotically normal in both stationary and explosive situations. The finite-sample performance of the proposed procedures is evaluated via Monte Carlo simulation studies and a real dataset of interest rates is analyzed.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic semiparametric models for expected shortfall (and Value-at-Risk)
+AU  - Patton, Andrew J.
+AU  - Ziegel, Johanna F.
+AU  - Chen, Rui
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 388
+EP  - 413
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930048X
+KW  - Risk management
+KW  - Tails
+KW  - Crashes
+KW  - Forecasting
+KW  - Generalized autoregressive score
+AB  - Expected Shortfall (ES) is the average return on a risky asset conditional on the return being below some quantile of its distribution, namely its Value-at-Risk (VaR). The Basel III Accord, which will be implemented in the years leading up to 2019, places new attention on ES, but unlike VaR, there is little existing work on modeling ES. We use recent results from statistical decision theory to overcome the problem of “elicitability” for ES by jointly modeling ES and VaR, and propose new dynamic models for these risk measures. We provide estimation and inference methods for the proposed models, and confirm via simulation studies that the methods have good finite-sample properties. We apply these models to daily returns on four international equity indices, and find the proposed new ES–VaR models outperform forecasts based on GARCH or rolling window models.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation of the random utility model with rank-ordered choice data
+AU  - Yan, Jin
+AU  - Yoo, Hong Il
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 414
+EP  - 438
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300521
+KW  - Random utility
+KW  - Rank-ordered
+KW  - Discrete choice
+KW  - Semiparametric estimation
+KW  - Smoothing
+AB  - We propose semiparametric methods for estimating random utility models using rank-ordered choice data. Our primary method is the generalized maximum score (GMS) estimator. With partially rank-ordered data, the GMS estimator allows for arbitrary forms of interpersonal heteroskedasticity. With fully rank-ordered data, the GMS estimator becomes considerably more flexible, allowing for random coefficients and alternative-specific heteroskedasticity and correlations. The GMS estimator has a non-standard asymptotic distribution and a convergence rate of N−1∕3. We proceed to construct its smoothed version which is asymptotically normal with a faster convergence rate of N−d∕(2d+1), where d≥2 increases in the strength of smoothness assumptions.
+ER  - 
+
+TY  - JOUR
+T1  - Inference for first-price auctions with Guerre, Perrigne, and Vuong’s estimator
+AU  - Ma, Jun
+AU  - Marmer, Vadim
+AU  - Shneyerov, Artyom
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 507
+EP  - 538
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.02.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300478
+KW  - Asymptotic normality
+KW  - Bootstrap
+KW  - First-price auctions
+KW  - Gaussian approximation
+KW  - Independent private values
+KW  - Two-step nonparametric estimators
+KW  - Uniform confidence bands
+AB  - We consider inference on the probability density of valuations in the first-price sealed-bid auctions model within the independent private value paradigm. We show the asymptotic normality of the two-step nonparametric estimator of Guerre et al. (2000) (GPV), and propose an easily implementable and consistent estimator of the asymptotic variance. We prove the validity of the pointwise percentile bootstrap confidence intervals based on the GPV estimator. Lastly, we use the intermediate Gaussian approximation approach to construct bootstrap-based asymptotically valid uniform confidence bands for the density of the valuations.
+ER  - 
+
+TY  - JOUR
+T1  - A rank test for the number of factors with high-frequency data
+AU  - Kong, Xin-Bing
+AU  - Liu, Zhi
+AU  - Zhou, Wang
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 439
+EP  - 460
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300533
+KW  - Continuous-time factor model
+KW  - High-dimensional Itô process
+KW  - Idiosyncratic process
+AB  - In the literature, consistency of the estimates of the number of factors for large-dimensional factor models had been extensively studied recently. But the second-order property of the estimator has long been unsolved due to lack of limiting distribution of the estimators. In this paper, we propose a rank test of the number of factors using large panel high-frequency data contaminated with microstructure noise. The rank test is realized by forming a fixed number of portfolios which reduce the dimension to a finite number. In the process of constructing portfolios, the number of factors is equal to the rank of the volatility matrix of the diversified portfolios asymptotically. Via estimating the volatility rank of a low-dimensional price dynamics of the portfolios, we establish a central limit theorem of the estimated factor number. We then apply the asymptotic normality to testing on the number of factors. Numerical experiments including the Monte-Carlo simulations and real data analysis justify our theory.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian inference for partially identified smooth convex models
+AU  - Liao, Yuan
+AU  - Simoni, Anna
+JO  - Journal of Econometrics
+VL  - 211
+IS  - 2
+SP  - 338
+EP  - 360
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619300399
+KW  - Partial identification
+KW  - Bayesian credible sets
+KW  - Bernstein–von Mises theorem
+KW  - Support function
+KW  - Moment inequality models
+AB  - This paper proposes novel Bayesian procedures for partially identified models when the identified set is convex with a smooth boundary, whose support function is locally smooth with respect to the data distribution. Using the posterior of the identified set, we construct Bayesian credible sets for the identified set, the partially identified parameter and their scalar transformations. These constructions, based on the support function, benefit from several computationally attractive algorithms when the identified set is convex, and are proved to have valid large sample frequentist coverages. These results are based on a local linear expansion of the support function of the identified set. We provide primitive conditions to verify such an expansion.
+ER  - 

@@ -1,0 +1,1027 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Bitcoin: A Natural Oligopoly
+AU  - Arnosti, Nick
+AU  - Weinberg, S. Matthew
+Y1  - 2022/01/20
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4095
+DO  - 10.1287/mnsc.2021.4095
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4755
+EP  - 4771
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We argue that the concentrated production and ownership of Bitcoin mining hardware arise naturally from the economic incentives of Bitcoin mining. We model Bitcoin mining as a two-stage competition; miners compete in prices to sell hardware while competing in quantities for mining rewards. We characterize equilibria in our model and show that small asymmetries in operational costs result in highly concentrated ownership of mining equipment. We further show that production of mining equipment will be dominated by the miner with the most efficient hardware, who will sell hardware to competitors while possibly also using it to mine.This paper was accepted by Kay Giesecke, finance.
+AB  - We argue that the concentrated production and ownership of Bitcoin mining hardware arise naturally from the economic incentives of Bitcoin mining. We model Bitcoin mining as a two-stage competition; miners compete in prices to sell hardware while competing in quantities for mining rewards. We characterize equilibria in our model and show that small asymmetries in operational costs result in highly concentrated ownership of mining equipment. We further show that production of mining equipment will be dominated by the miner with the most efficient hardware, who will sell hardware to competitors while possibly also using it to mine.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4095
+UR  - https://doi.org/10.1287/mnsc.2021.4095
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Online Assortment Optimization with Reusable Resources
+AU  - Gong, Xiao-Yue
+AU  - Goyal, Vineet
+AU  - Iyengar, Garud N.
+AU  - Simchi-Levi, David
+AU  - Udwani, Rajan
+AU  - Wang, Shuangyu
+Y1  - 2021/11/11
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4134
+DO  - 10.1287/mnsc.2021.4134
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4772
+EP  - 4785
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We consider an online assortment optimization problem where we have n substitutable products with fixed reusable capacities c1,?,cn. In each period t, a user with some preferences (potentially adversarially chosen) who offers a subset of products, St, from the set of available products arrives at the seller?s platform. The user selects product j?St with probability given by the preference model and uses it for a random number of periods, t?j, that is distributed i.i.d. according to some distribution that depends only on j generating a revenue rj(t?j) for the seller. The goal of the seller is to find a policy that maximizes the expected cumulative revenue over a finite horizon T. Our main contribution is to show that a simple myopic policy (where we offer the myopically optimal assortment from the available products to each user) provides a good approximation for the problem. In particular, we show that the myopic policy is 1/2-competitive, that is, the expected cumulative revenue of the myopic policy is at least half the expected revenue of the optimal policy with full information about the sequence of user preference models and the distribution of random usage times of all the products. In contrast, the myopic policy does not require any information about future arrivals or the distribution of random usage times. The analysis is based on a coupling argument that allows us to bound the expected revenue of the optimal algorithm in terms of the expected revenue of the myopic policy. We also consider the setting where usage time distributions can depend on the type of each user and show that in this more general case there is no online algorithm with a nontrivial competitive ratio guarantee. Finally, we perform numerical experiments to compare the robustness and performance of myopic policy with other natural policies.This paper was accepted by Gabriel Weintraub, revenue management and analytics.
+AB  - We consider an online assortment optimization problem where we have n substitutable products with fixed reusable capacities c1,?,cn. In each period t, a user with some preferences (potentially adversarially chosen) who offers a subset of products, St, from the set of available products arrives at the seller?s platform. The user selects product j?St with probability given by the preference model and uses it for a random number of periods, t?j, that is distributed i.i.d. according to some distribution that depends only on j generating a revenue rj(t?j) for the seller. The goal of the seller is to find a policy that maximizes the expected cumulative revenue over a finite horizon T. Our main contribution is to show that a simple myopic policy (where we offer the myopically optimal assortment from the available products to each user) provides a good approximation for the problem. In particular, we show that the myopic policy is 1/2-competitive, that is, the expected cumulative revenue of the myopic policy is at least half the expected revenue of the optimal policy with full information about the sequence of user preference models and the distribution of random usage times of all the products. In contrast, the myopic policy does not require any information about future arrivals or the distribution of random usage times. The analysis is based on a coupling argument that allows us to bound the expected revenue of the optimal algorithm in terms of the expected revenue of the myopic policy. We also consider the setting where usage time distributions can depend on the type of each user and show that in this more general case there is no online algorithm with a nontrivial competitive ratio guarantee. Finally, we perform numerical experiments to compare the robustness and performance of myopic policy with other natural policies.This paper was accepted by Gabriel Weintraub, revenue management and analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4134
+UR  - https://doi.org/10.1287/mnsc.2021.4134
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Designing Advance Market Commitments for New Vaccines
+AU  - Kremer, Michael
+AU  - Levin, Jonathan
+AU  - Snyder, Christopher M.
+Y1  - 2022/02/01
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4163
+DO  - 10.1287/mnsc.2021.4163
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4786
+EP  - 4814
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Advance market commitments (AMCs) provide a mechanism to stimulate investment by suppliers of products to low-income countries. In an AMC, donors commit to a fund from which a specified subsidy is paid per unit purchased by low-income countries until the fund is exhausted, strengthening suppliers? incentives to invest in research, development, and capacity. Last decade saw the launch of a $1.5 billion pilot AMC to distribute pneumococcal vaccine to the developing world; in the current pandemic, variations on AMCs are being used to fund COVID-19 vaccines. This paper undertakes the first formal analysis of AMCs. We construct a model in which an altruistic donor negotiates on behalf of a low-income country with a vaccine supplier after the supplier has sunk investments. We use this model to explain the logic of an AMC?as a solution to a hold-up problem?and to analyze alternative design features under various economic conditions (cost uncertainty, supplier competition). A key finding is that optimal AMC design differs markedly depending on where the product is in its development cycle.This paper was accepted by Joshua Gans, business strategy.
+AB  - Advance market commitments (AMCs) provide a mechanism to stimulate investment by suppliers of products to low-income countries. In an AMC, donors commit to a fund from which a specified subsidy is paid per unit purchased by low-income countries until the fund is exhausted, strengthening suppliers? incentives to invest in research, development, and capacity. Last decade saw the launch of a $1.5 billion pilot AMC to distribute pneumococcal vaccine to the developing world; in the current pandemic, variations on AMCs are being used to fund COVID-19 vaccines. This paper undertakes the first formal analysis of AMCs. We construct a model in which an altruistic donor negotiates on behalf of a low-income country with a vaccine supplier after the supplier has sunk investments. We use this model to explain the logic of an AMC?as a solution to a hold-up problem?and to analyze alternative design features under various economic conditions (cost uncertainty, supplier competition). A key finding is that optimal AMC design differs markedly depending on where the product is in its development cycle.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4163
+UR  - https://doi.org/10.1287/mnsc.2021.4163
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The (In)Elasticity of Moral Ignorance
+AU  - Serra-Garcia, Marta
+AU  - Szech, Nora
+Y1  - 2021/11/22
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4153
+DO  - 10.1287/mnsc.2021.4153
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4815
+EP  - 4834
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Ignorance enables individuals to act immorally. This is well known in policy circles, in which there is keen interest in lowering moral ignorance. In this paper, we study how the demand for moral ignorance responds to monetary incentives and how the demand curve for ignorance reacts to social norm messages. We propose a simple behavioral model in which individuals suffer moral costs when behaving selfishly in the face of moral information. In several experiments, we find that moral ignorance decreases by more than 30 percentage points with small monetary incentives, but we find no significant change with social norm messages, and we document strong persistence of ignorance across moral contexts. Our findings indicate that rather simple messaging interventions may have limited effects on ignorance. In contrast, changes in incentives could be highly effective.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - Ignorance enables individuals to act immorally. This is well known in policy circles, in which there is keen interest in lowering moral ignorance. In this paper, we study how the demand for moral ignorance responds to monetary incentives and how the demand curve for ignorance reacts to social norm messages. We propose a simple behavioral model in which individuals suffer moral costs when behaving selfishly in the face of moral information. In several experiments, we find that moral ignorance decreases by more than 30 percentage points with small monetary incentives, but we find no significant change with social norm messages, and we document strong persistence of ignorance across moral contexts. Our findings indicate that rather simple messaging interventions may have limited effects on ignorance. In contrast, changes in incentives could be highly effective.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4153
+UR  - https://doi.org/10.1287/mnsc.2021.4153
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Sound of Silence: What Do We Know When Insiders Do Not Trade?
+AU  - Gao, George P.
+AU  - Ma, Qingzhong
+AU  - Ng, David T.
+AU  - Wu, Ying
+Y1  - 2021/10/21
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4113
+DO  - 10.1287/mnsc.2021.4113
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4835
+EP  - 4857
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - This paper examines the information content of insider silence, periods of no insider trading. We hypothesize that, to avoid litigation risk, rational insiders do not sell own-company shares when they anticipate bad news; neither would they buy, given unfavorable prospects. Thus, they keep silent. By contrast, insiders sell shares when they do not anticipate significant bad news. Future stock returns are significantly lower following insider silence than following insider net selling, especially among firms with higher litigation risk. We examine two quasinatural experiments where new laws result in changes in shareholder litigation risks for insiders. In both cases, with higher shareholder litigation risks, stocks where insiders stay silent earn significantly lower returns than other stocks.This paper was accepted by Karl Diether, finance.
+AB  - This paper examines the information content of insider silence, periods of no insider trading. We hypothesize that, to avoid litigation risk, rational insiders do not sell own-company shares when they anticipate bad news; neither would they buy, given unfavorable prospects. Thus, they keep silent. By contrast, insiders sell shares when they do not anticipate significant bad news. Future stock returns are significantly lower following insider silence than following insider net selling, especially among firms with higher litigation risk. We examine two quasinatural experiments where new laws result in changes in shareholder litigation risks for insiders. In both cases, with higher shareholder litigation risks, stocks where insiders stay silent earn significantly lower returns than other stocks.This paper was accepted by Karl Diether, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4113
+UR  - https://doi.org/10.1287/mnsc.2021.4113
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Role of Feedback in Dynamic Crowdsourcing Contests: A Structural Empirical Analysis
+AU  - Jiang, Zhaohui (Zoey)
+AU  - Huang, Yan
+AU  - Beil, Damian R.
+Y1  - 2021/12/15
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4140
+DO  - 10.1287/mnsc.2021.4140
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4858
+EP  - 4877
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - In this paper, we empirically examine the impact of performance feedback on the outcome of crowdsourcing contests. We develop a dynamic structural model to capture the economic processes that drive contest participants? behavior and estimate the model using a detailed data set about real online logo design contests. Our rich model captures key features of the crowdsourcing context, including a large participant pool; entries by new participants throughout the contest; exploitation (revision of previous submissions) and exploration (radically novel submissions) behaviors by contest incumbents; and the participants? strategic choice among these entry, exploration, and exploitation decisions in a dynamic game. Using counterfactual simulations, we compare the outcome of crowdsourcing contests under alternative feedback disclosure policies and award levels. Our simulation results suggest that, despite its prevalence on many platforms, the full feedback policy (providing feedback throughout the contest) may not be optimal. The late feedback policy (providing feedback only in the second half of the contest) leads to a better overall contest outcome.This paper was accepted by Gabriel Weintraub, revenue management and market analytics department.
+AB  - In this paper, we empirically examine the impact of performance feedback on the outcome of crowdsourcing contests. We develop a dynamic structural model to capture the economic processes that drive contest participants? behavior and estimate the model using a detailed data set about real online logo design contests. Our rich model captures key features of the crowdsourcing context, including a large participant pool; entries by new participants throughout the contest; exploitation (revision of previous submissions) and exploration (radically novel submissions) behaviors by contest incumbents; and the participants? strategic choice among these entry, exploration, and exploitation decisions in a dynamic game. Using counterfactual simulations, we compare the outcome of crowdsourcing contests under alternative feedback disclosure policies and award levels. Our simulation results suggest that, despite its prevalence on many platforms, the full feedback policy (providing feedback throughout the contest) may not be optimal. The late feedback policy (providing feedback only in the second half of the contest) leads to a better overall contest outcome.This paper was accepted by Gabriel Weintraub, revenue management and market analytics department.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4140
+UR  - https://doi.org/10.1287/mnsc.2021.4140
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Privacy-Preserving Dynamic Personalized Pricing with Demand Learning
+AU  - Chen, Xi
+AU  - Simchi-Levi, David
+AU  - Wang, Yining
+Y1  - 2021/10/11
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4129
+DO  - 10.1287/mnsc.2021.4129
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4878
+EP  - 4898
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - The prevalence of e-commerce has made customers? detailed personal information readily accessible to retailers, and this information has been widely used in pricing decisions. When using personalized information, the question of how to protect the privacy of such information becomes a critical issue in practice. In this paper, we consider a dynamic pricing problem over T time periods with an unknown demand function of posted price and personalized information. At each time t, the retailer observes an arriving customer?s personal information and offers a price. The customer then makes the purchase decision, which will be utilized by the retailer to learn the underlying demand function. There is potentially a serious privacy concern during this process: a third-party agent might infer the personalized information and purchase decisions from price changes in the pricing system. Using the fundamental framework of differential privacy from computer science, we develop a privacy-preserving dynamic pricing policy, which tries to maximize the retailer revenue while avoiding information leakage of individual customer?s information and purchasing decisions. To this end, we first introduce a notion of anticipating (ε,δ)-differential privacy that is tailored to the dynamic pricing problem. Our policy achieves both the privacy guarantee and the performance guarantee in terms of regret. Roughly speaking, for d-dimensional personalized information, our algorithm achieves the expected regret at the order of O?(ε?1d3T) when the customers? information is adversarially chosen. For stochastic personalized information, the regret bound can be further improved to O?(d2T+ε?2d2).This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - The prevalence of e-commerce has made customers? detailed personal information readily accessible to retailers, and this information has been widely used in pricing decisions. When using personalized information, the question of how to protect the privacy of such information becomes a critical issue in practice. In this paper, we consider a dynamic pricing problem over T time periods with an unknown demand function of posted price and personalized information. At each time t, the retailer observes an arriving customer?s personal information and offers a price. The customer then makes the purchase decision, which will be utilized by the retailer to learn the underlying demand function. There is potentially a serious privacy concern during this process: a third-party agent might infer the personalized information and purchase decisions from price changes in the pricing system. Using the fundamental framework of differential privacy from computer science, we develop a privacy-preserving dynamic pricing policy, which tries to maximize the retailer revenue while avoiding information leakage of individual customer?s information and purchasing decisions. To this end, we first introduce a notion of anticipating (ε,δ)-differential privacy that is tailored to the dynamic pricing problem. Our policy achieves both the privacy guarantee and the performance guarantee in terms of regret. Roughly speaking, for d-dimensional personalized information, our algorithm achieves the expected regret at the order of O?(ε?1d3T) when the customers? information is adversarially chosen. For stochastic personalized information, the regret bound can be further improved to O?(d2T+ε?2d2).This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4129
+UR  - https://doi.org/10.1287/mnsc.2021.4129
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms
+AU  - Küçükgül, Can
+AU  - Özer, Özalp
+AU  - Wang, Shouqiang
+Y1  - 2021/11/19
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4151
+DO  - 10.1287/mnsc.2021.4151
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4899
+EP  - 4918
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Many online platforms offer time-locked sales campaigns, whereby products are sold at fixed prices for prespecified lengths of time. Platforms often display some information about previous customers? purchase decisions during campaigns. Using a dynamic Bayesian persuasion framework, we study how a revenue-maximizing platform should optimize its information policy for such a setting. We reformulate the platform?s problem equivalently by reducing the dimensionality of its message space and proprietary history. Specifically, three messages suffice: a neutral recommendation that induces a customer to make her purchase decision according to her private signal about the product and a positive (respectively (resp.), negative) recommendation that induces her to purchase (resp., not purchase) by ignoring her signal. The platform?s proprietary history can be represented by the net purchase position, a single-dimensional summary statistic that computes the cumulative difference between purchases and nonpurchases made by customers having received the neutral recommendation. Subsequently, we establish structural properties of the optimal policy and uncover the platform?s fundamental trade-off: long-term information (and revenue) generation versus short-term revenue extraction. Further, we propose and optimize over a class of heuristic policies. The optimal heuristic policy provides only neutral recommendations up to a cutoff customer and provides only positive or negative recommendations afterward, with the recommendation being positive if and only if the net purchase position after the cutoff customer exceeds a threshold. This policy is easy to implement and numerically shown to perform well. Finally, we demonstrate the generality of our methodology and the robustness of our findings by relaxing some informational assumptions.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - Many online platforms offer time-locked sales campaigns, whereby products are sold at fixed prices for prespecified lengths of time. Platforms often display some information about previous customers? purchase decisions during campaigns. Using a dynamic Bayesian persuasion framework, we study how a revenue-maximizing platform should optimize its information policy for such a setting. We reformulate the platform?s problem equivalently by reducing the dimensionality of its message space and proprietary history. Specifically, three messages suffice: a neutral recommendation that induces a customer to make her purchase decision according to her private signal about the product and a positive (respectively (resp.), negative) recommendation that induces her to purchase (resp., not purchase) by ignoring her signal. The platform?s proprietary history can be represented by the net purchase position, a single-dimensional summary statistic that computes the cumulative difference between purchases and nonpurchases made by customers having received the neutral recommendation. Subsequently, we establish structural properties of the optimal policy and uncover the platform?s fundamental trade-off: long-term information (and revenue) generation versus short-term revenue extraction. Further, we propose and optimize over a class of heuristic policies. The optimal heuristic policy provides only neutral recommendations up to a cutoff customer and provides only positive or negative recommendations afterward, with the recommendation being positive if and only if the net purchase position after the cutoff customer exceeds a threshold. This policy is easy to implement and numerically shown to perform well. Finally, we demonstrate the generality of our methodology and the robustness of our findings by relaxing some informational assumptions.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4151
+UR  - https://doi.org/10.1287/mnsc.2021.4151
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian Sequential Learning for Clinical Trials of Multiple Correlated Medical Interventions
+AU  - Chick, Stephen E.
+AU  - Gans, Noah
+AU  - Yapar, Özge
+Y1  - 2021/11/05
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4137
+DO  - 10.1287/mnsc.2021.4137
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4919
+EP  - 4938
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We propose and analyze the first model for clinical trial design that integrates each of three important trends intending to improve the effectiveness of clinical trials that inform health-technology adoption decisions: adaptive design, which dynamically adjusts the sample size and allocation of interventions to different patients; multiarm trial design, which compares multiple interventions simultaneously; and value-based design, which focuses on cost-benefit improvements of health interventions over a current standard of care. Example applications are to seamless phase II/III dose-finding trials and to trials that test multiple combinations of therapies. Our objective is to maximize the expected population health-economic benefit of health-technology adoption decisions less clinical trial costs. We show that unifying the adaptive, multiarm, and value-based approaches to trial design can reduce the cost and duration of multiarm trials with efficient adaptive look ahead policies that focus on value to patients and account for correlated rewards across arms. Features that differentiate our approach from much other work on stochastic optimization include stopping times that balance sampling costs and the expected value of information of those samples, performance guarantees offered by new asymptotic convergence proofs, and the modeling of arms? potentially different sampling costs. Our proposed solution can be computed feasibly and can randomize patients. The class of trials for the base model assumes that health-economic data are collected and observed quickly. Related work from Bayesian optimization can enable the further inclusion of trials with intermediate duration delays between the time of treatment initiation and observation of outcomes.This paper was accepted by Stefan Scholtes, healthcare management.
+AB  - We propose and analyze the first model for clinical trial design that integrates each of three important trends intending to improve the effectiveness of clinical trials that inform health-technology adoption decisions: adaptive design, which dynamically adjusts the sample size and allocation of interventions to different patients; multiarm trial design, which compares multiple interventions simultaneously; and value-based design, which focuses on cost-benefit improvements of health interventions over a current standard of care. Example applications are to seamless phase II/III dose-finding trials and to trials that test multiple combinations of therapies. Our objective is to maximize the expected population health-economic benefit of health-technology adoption decisions less clinical trial costs. We show that unifying the adaptive, multiarm, and value-based approaches to trial design can reduce the cost and duration of multiarm trials with efficient adaptive look ahead policies that focus on value to patients and account for correlated rewards across arms. Features that differentiate our approach from much other work on stochastic optimization include stopping times that balance sampling costs and the expected value of information of those samples, performance guarantees offered by new asymptotic convergence proofs, and the modeling of arms? potentially different sampling costs. Our proposed solution can be computed feasibly and can randomize patients. The class of trials for the base model assumes that health-economic data are collected and observed quickly. Related work from Bayesian optimization can enable the further inclusion of trials with intermediate duration delays between the time of treatment initiation and observation of outcomes.This paper was accepted by Stefan Scholtes, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4137
+UR  - https://doi.org/10.1287/mnsc.2021.4137
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Speculative Trading and Bubbles: Evidence from the Art Market
+AU  - Pénasse, Julien
+AU  - Renneboog, Luc
+Y1  - 2021/09/07
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4088
+DO  - 10.1287/mnsc.2021.4088
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4939
+EP  - 4963
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We argue that extrapolative expectations drive boom?bust cycles in the postwar art market. Price run-ups coincide with increases in demand fundamentals but are followed by predictable busts. Predictable changes account for about half of the variance of five-year price changes. High prices coincide with many attributes of speculative bubbles: trading volume, the share of short-term trades, the share of postwar art, and volatility are all higher during booms. In addition, short-term transactions underperform long-term transactions. Survey evidence further confirms the link between beliefs, prices, and volume dynamics as in models in which extrapolative beliefs fuel speculative bubbles.This paper was accepted by Tyler Shumway, finance.
+AB  - We argue that extrapolative expectations drive boom?bust cycles in the postwar art market. Price run-ups coincide with increases in demand fundamentals but are followed by predictable busts. Predictable changes account for about half of the variance of five-year price changes. High prices coincide with many attributes of speculative bubbles: trading volume, the share of short-term trades, the share of postwar art, and volatility are all higher during booms. In addition, short-term transactions underperform long-term transactions. Survey evidence further confirms the link between beliefs, prices, and volume dynamics as in models in which extrapolative beliefs fuel speculative bubbles.This paper was accepted by Tyler Shumway, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4088
+UR  - https://doi.org/10.1287/mnsc.2021.4088
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Product Selling vs. Pay-Per-Use Service: A Strategic Analysis of Competing Business Models
+AU  - Ladas, Konstantinos
+AU  - Kavadias, Stylianos
+AU  - Loch, Christoph
+Y1  - 2021/10/06
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4125
+DO  - 10.1287/mnsc.2021.4125
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4964
+EP  - 4982
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We present a model that suggests possible explanations for the observed proliferation of ?pay-per-use? (PPU) business models over the last two decades. Delivering ?fractions? of a product as a service offers a cost advantage to customers with lower usage but requires extra delivery costs. Previous research focused on information goods (with negligible production costs) and predicted that PPU, when arising as a differentiation to selling in equilibrium, would fundamentally achieve lower profits than selling. We extend the theory by covering goods with any production cost in duopolistic competition. We show that PPU business models can be more profitable than selling (especially at midrange production costs), as long as their delivery costs are not too high, a requirement that is more easily fulfilled as new technologies reduce these costs. Moreover, if firms are imperfectly informed about their customers? usage profiles, PPU?s effective pricing of customers? varying usage offers an additional advantage over selling. This requires companies to employ accounting methods that do not inappropriately allocate production costs over stochastic usage levels. If PPU service provision suffers from queueing inefficiencies, this does not fundamentally change the relative profitability of the PPU and selling models, provided that PPU providers can attract sufficiently high demand to benefit from pooling economies.This paper was accepted by Charles Corbett, operations management.
+AB  - We present a model that suggests possible explanations for the observed proliferation of ?pay-per-use? (PPU) business models over the last two decades. Delivering ?fractions? of a product as a service offers a cost advantage to customers with lower usage but requires extra delivery costs. Previous research focused on information goods (with negligible production costs) and predicted that PPU, when arising as a differentiation to selling in equilibrium, would fundamentally achieve lower profits than selling. We extend the theory by covering goods with any production cost in duopolistic competition. We show that PPU business models can be more profitable than selling (especially at midrange production costs), as long as their delivery costs are not too high, a requirement that is more easily fulfilled as new technologies reduce these costs. Moreover, if firms are imperfectly informed about their customers? usage profiles, PPU?s effective pricing of customers? varying usage offers an additional advantage over selling. This requires companies to employ accounting methods that do not inappropriately allocate production costs over stochastic usage levels. If PPU service provision suffers from queueing inefficiencies, this does not fundamentally change the relative profitability of the PPU and selling models, provided that PPU providers can attract sufficiently high demand to benefit from pooling economies.This paper was accepted by Charles Corbett, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4125
+UR  - https://doi.org/10.1287/mnsc.2021.4125
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Sharing Demand Information with Retailer Under Upstream Competition
+AU  - Jain, Aditya
+Y1  - 2021/10/04
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4116
+DO  - 10.1287/mnsc.2021.4116
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 4983
+EP  - 5001
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We analyze demand information sharing collaboration between two manufacturers and a retailer under upstream competition. The manufacturers produce partially substitutable products, which are stocked by the retailer that sells them in the market characterized by random demand. The manufacturers are privately informed about uncertain demand and decide on whether to share this information with the retailer. We show that by not sharing information, a manufacturer ends up distorting its wholesale price upward to signal its private information to the retailer, and under upstream competition, this distortion is propagated to the competing manufacturer. Thus, although a manufacturer?s decision to not share information may benefit or hurt its own profit, this always benefits the competing manufacturer. Under low intensity of competition, signaling-driven distortions exacerbate double marginalization and hurt all parties, whereas under more intense competition, these distortions help manufacturers offset downward pressure on wholesale prices. Thus, in equilibrium similarly informed manufacturers share information in the former case but not in the latter case. Additionally, when manufacturers differ in their information accuracies, only the better-informed manufacturer shares information. The retailer always benefits from both manufacturers sharing information, and its benefits are larger when the better-informed manufacturer shares information. We show existence of a contracting mechanism the retailer can employ to enable information sharing. Finally, we analyze manufacturers? information acquisition decisions and find that under competition, two manufacturers acquire minimal information so that they are better off not sharing information in the information sharing game.This paper was accepted by Vishal Gaur, operations management.
+AB  - We analyze demand information sharing collaboration between two manufacturers and a retailer under upstream competition. The manufacturers produce partially substitutable products, which are stocked by the retailer that sells them in the market characterized by random demand. The manufacturers are privately informed about uncertain demand and decide on whether to share this information with the retailer. We show that by not sharing information, a manufacturer ends up distorting its wholesale price upward to signal its private information to the retailer, and under upstream competition, this distortion is propagated to the competing manufacturer. Thus, although a manufacturer?s decision to not share information may benefit or hurt its own profit, this always benefits the competing manufacturer. Under low intensity of competition, signaling-driven distortions exacerbate double marginalization and hurt all parties, whereas under more intense competition, these distortions help manufacturers offset downward pressure on wholesale prices. Thus, in equilibrium similarly informed manufacturers share information in the former case but not in the latter case. Additionally, when manufacturers differ in their information accuracies, only the better-informed manufacturer shares information. The retailer always benefits from both manufacturers sharing information, and its benefits are larger when the better-informed manufacturer shares information. We show existence of a contracting mechanism the retailer can employ to enable information sharing. Finally, we analyze manufacturers? information acquisition decisions and find that under competition, two manufacturers acquire minimal information so that they are better off not sharing information in the information sharing game.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4116
+UR  - https://doi.org/10.1287/mnsc.2021.4116
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Estimating Substitution and Basket Effects in Retail Stores: Implications for Assortment Planning
+AU  - Mani, Vidya
+AU  - Thomas, Douglas J.
+AU  - Bansal, Saurabh
+Y1  - 2021/11/19
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4128
+DO  - 10.1287/mnsc.2021.4128
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5002
+EP  - 5024
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Many retailers are reducing store footprint and downsizing their assortments accordingly to improve store productivity. Some of the revenue for items removed from the assortment may be recouped by substitution, but also some of the revenue for items kept in the assortment may be lost due to basket abandonment. For a practical setting where baskets may contain any subset of items from thousands of products, estimating both substitution and basket effects is a challenge. To address this, we develop a demand model that combines a multinomial logit (MNL) model to estimate substitution within a subcategory and a purchase-incidence model to estimate basket retention. Using transaction and product availability data from 12 stores of an office supplies retail chain that were dramatically downsized from large- to small-format stores, we show that (i) storewide basket effects are substantial (our model with basket effects predicts out-of-sample transactions with mean absolute percent error (MAPE) of only 7% compared with 22% for a model with only substitution effects), (ii) poor service level can significantly exacerbate lost profit due to abandoned baskets at these stores, and (iii) consideration of the basket effect in assortment selection for the small stores can significantly improve basket retention and increase profits (by up to 16%) at these stores.This paper was accepted by Vishal Gaur, operations management.
+AB  - Many retailers are reducing store footprint and downsizing their assortments accordingly to improve store productivity. Some of the revenue for items removed from the assortment may be recouped by substitution, but also some of the revenue for items kept in the assortment may be lost due to basket abandonment. For a practical setting where baskets may contain any subset of items from thousands of products, estimating both substitution and basket effects is a challenge. To address this, we develop a demand model that combines a multinomial logit (MNL) model to estimate substitution within a subcategory and a purchase-incidence model to estimate basket retention. Using transaction and product availability data from 12 stores of an office supplies retail chain that were dramatically downsized from large- to small-format stores, we show that (i) storewide basket effects are substantial (our model with basket effects predicts out-of-sample transactions with mean absolute percent error (MAPE) of only 7% compared with 22% for a model with only substitution effects), (ii) poor service level can significantly exacerbate lost profit due to abandoned baskets at these stores, and (iii) consideration of the basket effect in assortment selection for the small stores can significantly improve basket retention and increase profits (by up to 16%) at these stores.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4128
+UR  - https://doi.org/10.1287/mnsc.2021.4128
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Customer Review Provision Policies with Heterogeneous Cluster Preferences
+AU  - Xiao, Shihong
+AU  - Chen, Ying-Ju
+AU  - Tang, Christopher S.
+Y1  - 2021/12/15
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4138
+DO  - 10.1287/mnsc.2021.4138
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5025
+EP  - 5048
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Companies often post user-generated reviews online so that potential buyers in different clusters (age, geographic region, occupation, etc.) can learn from existing customers about the quality of an experience good and cluster preferences before purchasing. In this paper, we evaluate two common user-generated review provision policies for selling experience goods to customers in different clusters with heterogeneous preferences. The first policy is called the association-based policy (AP) under which a customer in a cluster can only observe the aggregate review (i.e., average rating) generated by users within the same cluster. The second policy is called the global-based policy (GP) under which each customer is presented with the aggregate review generated by all users across clusters. We find that, in general, the firm benefits from a policy that provides a larger number of ?relevant reviews? to customers. When customers are more certain about the product quality and when clusters are more diverse, AP is more profitable than GP because it provides cluster-specific reviews to customers. Otherwise, GP is more profitable as it provides a larger number of less relevant reviews. Moreover, we propose a third provision policy that imparts the union of the information by AP and GP and show that it is more profitable for the firm. Although the third policy always renders a higher consumer welfare than GP, it may generate a lower consumer welfare than AP.This paper was accepted by Martínez-de-Albéniz Victor, operations management.
+AB  - Companies often post user-generated reviews online so that potential buyers in different clusters (age, geographic region, occupation, etc.) can learn from existing customers about the quality of an experience good and cluster preferences before purchasing. In this paper, we evaluate two common user-generated review provision policies for selling experience goods to customers in different clusters with heterogeneous preferences. The first policy is called the association-based policy (AP) under which a customer in a cluster can only observe the aggregate review (i.e., average rating) generated by users within the same cluster. The second policy is called the global-based policy (GP) under which each customer is presented with the aggregate review generated by all users across clusters. We find that, in general, the firm benefits from a policy that provides a larger number of ?relevant reviews? to customers. When customers are more certain about the product quality and when clusters are more diverse, AP is more profitable than GP because it provides cluster-specific reviews to customers. Otherwise, GP is more profitable as it provides a larger number of less relevant reviews. Moreover, we propose a third provision policy that imparts the union of the information by AP and GP and show that it is more profitable for the firm. Although the third policy always renders a higher consumer welfare than GP, it may generate a lower consumer welfare than AP.This paper was accepted by Martínez-de-Albéniz Victor, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4138
+UR  - https://doi.org/10.1287/mnsc.2021.4138
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Model for Integrated Inventory and Assortment Planning
+AU  - Martínez-de-Albéniz, Victor
+AU  - Kunnumkal, Sumit
+Y1  - 2021/12/14
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4149
+DO  - 10.1287/mnsc.2021.4149
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5049
+EP  - 5067
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Integrating inventory and assortment planning decisions is a challenging task that requires comparing the value of demand expansion through broader choice for consumers with the value of higher in-stock availability. We develop a stockout-based substitution model for trading off these values in a setting with inventory replenishment, a feature missing in the literature. Using the closed form solution for the single-product case, we develop an accurate approximation for the multiproduct case. This approximated formulation allows us to optimize inventory decisions by solving a fractional integer program with a fixed point equation constraint. When products have equal margins, we solve the integer program exactly by bisection over a one-dimensional parameter. In contrast, when products have different margins, we propose a fractional relaxation that we can also solve by bisection and that results in near-optimal solutions. Overall, our approach provides solutions within 0.1% of the optimal policy and finds the optimal solution in 80% of the random instances we generate.This paper was accepted by David Simchi-Levi, optimization.
+AB  - Integrating inventory and assortment planning decisions is a challenging task that requires comparing the value of demand expansion through broader choice for consumers with the value of higher in-stock availability. We develop a stockout-based substitution model for trading off these values in a setting with inventory replenishment, a feature missing in the literature. Using the closed form solution for the single-product case, we develop an accurate approximation for the multiproduct case. This approximated formulation allows us to optimize inventory decisions by solving a fractional integer program with a fixed point equation constraint. When products have equal margins, we solve the integer program exactly by bisection over a one-dimensional parameter. In contrast, when products have different margins, we propose a fractional relaxation that we can also solve by bisection and that results in near-optimal solutions. Overall, our approach provides solutions within 0.1% of the optimal policy and finds the optimal solution in 80% of the random instances we generate.This paper was accepted by David Simchi-Levi, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4149
+UR  - https://doi.org/10.1287/mnsc.2021.4149
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Effects of Stock-Based Incentives on Inventory Management
+AU  - Wu, Qi
+AU  - Lai, Guoming
+Y1  - 2021/09/09
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4087
+DO  - 10.1287/mnsc.2021.4087
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5068
+EP  - 5086
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Classic inventory theories typically focus on the operational trade-offs to optimize inventory decisions. However, managers of public firms who obtain stock-based incentives may alter inventory operations to influence the stock price. We develop a stylized model, which shows that, in the presence of an interest in the stock price, managers over-install inventory when it can either inflate sales or deflate the reported cost of goods sold even if the market anticipates such actions. We analyze the joint and marginal effects of the stock-based incentives and the cost of using inventory to manage earnings, which may provide useful implications for the detection of inventory distortion and the design of management incentive plans. We then conduct an empirical analysis based on the financial data of U.S. publicly listed retailers and manufacturers. We find positive (negative) correlation between firms? abnormal excess inventory and the stock-based incentives of their top executives (the inventory manipulation cost). Moreover, the marginal effect of the stock-based incentives on the abnormal excess inventory is the strongest when the inventory manipulation cost is intermediate. Our empirical analysis also shows that this effect becomes statistically weaker after the passage of the Sarbanes?Oxley Act. This is in line with the prediction of our analytical model about the effect of the accuracy of financial reporting.This paper was accepted by Vishal Gaur, operations management.
+AB  - Classic inventory theories typically focus on the operational trade-offs to optimize inventory decisions. However, managers of public firms who obtain stock-based incentives may alter inventory operations to influence the stock price. We develop a stylized model, which shows that, in the presence of an interest in the stock price, managers over-install inventory when it can either inflate sales or deflate the reported cost of goods sold even if the market anticipates such actions. We analyze the joint and marginal effects of the stock-based incentives and the cost of using inventory to manage earnings, which may provide useful implications for the detection of inventory distortion and the design of management incentive plans. We then conduct an empirical analysis based on the financial data of U.S. publicly listed retailers and manufacturers. We find positive (negative) correlation between firms? abnormal excess inventory and the stock-based incentives of their top executives (the inventory manipulation cost). Moreover, the marginal effect of the stock-based incentives on the abnormal excess inventory is the strongest when the inventory manipulation cost is intermediate. Our empirical analysis also shows that this effect becomes statistically weaker after the passage of the Sarbanes?Oxley Act. This is in line with the prediction of our analytical model about the effect of the accuracy of financial reporting.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4087
+UR  - https://doi.org/10.1287/mnsc.2021.4087
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Parallel Lotteries: Insights from Alaskan Hunting Permit Allocation
+AU  - Arnosti, Nick
+AU  - Randolph, Tim
+Y1  - 2021/11/23
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4120
+DO  - 10.1287/mnsc.2021.4120
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5087
+EP  - 5108
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We analyze the parallel lottery that is used to allocate hunting permits in the state of Alaska. Each participant is given tickets to distribute among lotteries for different types of items. Participants who win multiple items receive their favorite, and new winners are drawn from the lotteries with unclaimed items. When supply is scarce, equilibrium outcomes of parallel lotteries approximate a competitive equilibrium from equal incomes (CEEI), which is Pareto efficient. When supply is moderate, parallel lotteries exhibit two sources of inefficiency. First, some agents may benefit from trading probability shares. Second, outcomes may be ?wasteful?: agents may receive nothing even if acceptable items remain unallocated. We bound both sources of inefficiency and show that each is eliminated by giving applicants a suitable number of tickets k: trades are never beneficial when k = 1, and waste is eliminated as k?∞. In addition, we show that the wastefulness of the k-ticket parallel lottery has some benefits: agents with strong preferences may prefer parallel lottery outcomes to those of any nonwasteful envy-free mechanism. These agents prefer small values of k, while agents with weak preferences prefer large values of k. Together, these results suggest that the k-ticket parallel lottery performs well under most circumstances and may be suitable for other settings where items are rationed.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - We analyze the parallel lottery that is used to allocate hunting permits in the state of Alaska. Each participant is given tickets to distribute among lotteries for different types of items. Participants who win multiple items receive their favorite, and new winners are drawn from the lotteries with unclaimed items. When supply is scarce, equilibrium outcomes of parallel lotteries approximate a competitive equilibrium from equal incomes (CEEI), which is Pareto efficient. When supply is moderate, parallel lotteries exhibit two sources of inefficiency. First, some agents may benefit from trading probability shares. Second, outcomes may be ?wasteful?: agents may receive nothing even if acceptable items remain unallocated. We bound both sources of inefficiency and show that each is eliminated by giving applicants a suitable number of tickets k: trades are never beneficial when k = 1, and waste is eliminated as k?∞. In addition, we show that the wastefulness of the k-ticket parallel lottery has some benefits: agents with strong preferences may prefer parallel lottery outcomes to those of any nonwasteful envy-free mechanism. These agents prefer small values of k, while agents with weak preferences prefer large values of k. Together, these results suggest that the k-ticket parallel lottery performs well under most circumstances and may be suitable for other settings where items are rationed.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4120
+UR  - https://doi.org/10.1287/mnsc.2021.4120
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Sales Effort Management Under All-or-Nothing Constraint
+AU  - Du, Longyuan
+AU  - Hu, Ming
+AU  - Wu, Jiahua
+Y1  - 2021/10/06
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4142
+DO  - 10.1287/mnsc.2021.4142
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5109
+EP  - 5126
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We consider a sales effort management problem under an all-or-nothing constraint. The seller will receive no bonus/revenue if the sales volume fails to reach a predetermined target at the end of the sales horizon. Throughout the sales horizon, the sales process can be moderated by the seller through costly effort. We show that the optimal sales rate is nonmonotonic with respect to the remaining time or the outstanding sales volume required to reach the target. Generally, it has a watershed structure, such that for any needed sales volume, there exists a cutoff point on the remaining time above which the optimal sales rate decreases in the remaining time and below which it increases in the remaining time. We then study easy-to-compute heuristics that can be implemented efficiently. We start with a static heuristic derived from the deterministic analog of the stochastic problem. With an all-or-nothing constraint, we show that the performance of the static heuristic hinges on how the profit-maximizing rate fares against the target rate, which is defined as the sales target divided by the length of the sales horizon. When the profit-maximizing rate is higher than the target rate, the static heuristic adopting the optimal deterministic rate is asymptotically optimal with negligible loss. On the other hand, when the profit-maximizing rate is lower than the target rate, the performance loss of any asymptotically optimal static heuristic is of an order greater than the square root of the scale parameter. To address the poor performance of the static heuristic in the latter case, we propose a modified resolving heuristic and show that it is asymptotically optimal and achieves a logarithmic performance loss.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - We consider a sales effort management problem under an all-or-nothing constraint. The seller will receive no bonus/revenue if the sales volume fails to reach a predetermined target at the end of the sales horizon. Throughout the sales horizon, the sales process can be moderated by the seller through costly effort. We show that the optimal sales rate is nonmonotonic with respect to the remaining time or the outstanding sales volume required to reach the target. Generally, it has a watershed structure, such that for any needed sales volume, there exists a cutoff point on the remaining time above which the optimal sales rate decreases in the remaining time and below which it increases in the remaining time. We then study easy-to-compute heuristics that can be implemented efficiently. We start with a static heuristic derived from the deterministic analog of the stochastic problem. With an all-or-nothing constraint, we show that the performance of the static heuristic hinges on how the profit-maximizing rate fares against the target rate, which is defined as the sales target divided by the length of the sales horizon. When the profit-maximizing rate is higher than the target rate, the static heuristic adopting the optimal deterministic rate is asymptotically optimal with negligible loss. On the other hand, when the profit-maximizing rate is lower than the target rate, the performance loss of any asymptotically optimal static heuristic is of an order greater than the square root of the scale parameter. To address the poor performance of the static heuristic in the latter case, we propose a modified resolving heuristic and show that it is asymptotically optimal and achieves a logarithmic performance loss.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4142
+UR  - https://doi.org/10.1287/mnsc.2021.4142
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Does Nonprofit Ownership Matter for Firm Performance? Financial Distress and Ownership Conversion of Nursing Homes
+AU  - Lu, Lauren Xiaoyuan
+AU  - Lu, Susan Feng
+Y1  - 2021/11/17
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4159
+DO  - 10.1287/mnsc.2021.4159
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5127
+EP  - 5145
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - In the past two decades, many nursing homes converted their ownership status from nonprofit to for-profit (NP-to-FP). These conversions have drawn public scrutiny and triggered a debate about the implications of ownership conversions on nursing home performance. Exploring a nationwide panel data set of U.S. nursing homes from 2006 to 2017, we observe that nursing homes with higher financial distress are associated with higher likelihood of NP-to-FP conversions. The postconversion operating margins increased significantly. Converted nursing homes improved their financial performance by reducing operating costs while keeping net resident revenues unchanged. Both cutting registered nurse staffing and cutting overhead staffing contributed to reductions in operating costs; however, only the former cost-reduction measure had a negative impact on quality. On average, the postconversion quality of care declined. The effects of NP-to-FP conversions on nursing homes were moderated by preconversion financial distress: High-distress nursing homes aggressively cut registered nurse staffing and experienced severe quality decline, whereas low-distress ones kept registered nurse staffing unchanged and largely avoided quality decline. These findings lead to both policy and managerial insights. To nursing home regulators, we recommend increased oversight on NP-to-FP conversions of nursing homes with high preconversion financial distress. To managers of nursing homes undergoing NP-to-FP conversions, our findings suggest that although cost reduction is an effective strategy to improve financial performance, they need to avoid the pitfall of cutting registered nurse staffing and instead focus on streamlining overhead operations in order to increase operating efficiency without compromising quality.This paper was accepted by Stefan Scholtes, healthcare management.
+AB  - In the past two decades, many nursing homes converted their ownership status from nonprofit to for-profit (NP-to-FP). These conversions have drawn public scrutiny and triggered a debate about the implications of ownership conversions on nursing home performance. Exploring a nationwide panel data set of U.S. nursing homes from 2006 to 2017, we observe that nursing homes with higher financial distress are associated with higher likelihood of NP-to-FP conversions. The postconversion operating margins increased significantly. Converted nursing homes improved their financial performance by reducing operating costs while keeping net resident revenues unchanged. Both cutting registered nurse staffing and cutting overhead staffing contributed to reductions in operating costs; however, only the former cost-reduction measure had a negative impact on quality. On average, the postconversion quality of care declined. The effects of NP-to-FP conversions on nursing homes were moderated by preconversion financial distress: High-distress nursing homes aggressively cut registered nurse staffing and experienced severe quality decline, whereas low-distress ones kept registered nurse staffing unchanged and largely avoided quality decline. These findings lead to both policy and managerial insights. To nursing home regulators, we recommend increased oversight on NP-to-FP conversions of nursing homes with high preconversion financial distress. To managers of nursing homes undergoing NP-to-FP conversions, our findings suggest that although cost reduction is an effective strategy to improve financial performance, they need to avoid the pitfall of cutting registered nurse staffing and instead focus on streamlining overhead operations in order to increase operating efficiency without compromising quality.This paper was accepted by Stefan Scholtes, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4159
+UR  - https://doi.org/10.1287/mnsc.2021.4159
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Incomplete Contracts in Multi-period Procurement
+AU  - Gretschko, Vitali
+AU  - Pollrich, Martin
+Y1  - 2021/11/12
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4123
+DO  - 10.1287/mnsc.2021.4123
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5146
+EP  - 5161
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We analyze the problem of a buyer who purchases a long-term project from one of several suppliers. A changing state of the world influences the costs of the suppliers. We distinguish between complete contracts conditioning on all future realizations of the state of the world and incomplete contracts renegotiated whenever the state of the world changes. We provide conditions such that incomplete contracting does not pose a problem. If the changing state of the world is publicly observable and the buyer cannot switch between suppliers during the lifetime of the project, the buyer achieves the same surplus irrespective of whether contracts are complete or incomplete. An English auction followed by renegotiation whenever the state of the world changes is optimal. To identify conditions when buyers should consider drafting complete contracts, we extend the analysis by considering private information about the changing state of the world and supplier switching. In both cases, incomplete contracting poses a problem. In a survey of procurement consultants, we confirm that publicly observable states of the world via price indexes play an important role in procurement. Moreover, the consultants confirm that supplier switching is infrequent in procurement practice. Thus, incomplete contracting is less of a problem in a considerable share of procurement projects. However, complete contracts are useful and could be used more often.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - We analyze the problem of a buyer who purchases a long-term project from one of several suppliers. A changing state of the world influences the costs of the suppliers. We distinguish between complete contracts conditioning on all future realizations of the state of the world and incomplete contracts renegotiated whenever the state of the world changes. We provide conditions such that incomplete contracting does not pose a problem. If the changing state of the world is publicly observable and the buyer cannot switch between suppliers during the lifetime of the project, the buyer achieves the same surplus irrespective of whether contracts are complete or incomplete. An English auction followed by renegotiation whenever the state of the world changes is optimal. To identify conditions when buyers should consider drafting complete contracts, we extend the analysis by considering private information about the changing state of the world and supplier switching. In both cases, incomplete contracting poses a problem. In a survey of procurement consultants, we confirm that publicly observable states of the world via price indexes play an important role in procurement. Moreover, the consultants confirm that supplier switching is infrequent in procurement practice. Thus, incomplete contracting is less of a problem in a considerable share of procurement projects. However, complete contracts are useful and could be used more often.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4123
+UR  - https://doi.org/10.1287/mnsc.2021.4123
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Temporal Risk: Utility vs. Probability Weighting
+AU  - Abdellaoui, Mohammed
+AU  - Diecidue, Enrico
+AU  - Kemel, Emmanuel
+AU  - Onculer, Ayse
+Y1  - 2022/01/31
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4124
+DO  - 10.1287/mnsc.2021.4124
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5162
+EP  - 5186
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - This paper reports two experiments in which attitudes toward temporal risk resolution is elicited from choices between two-outcome lotteries that pay out at some future fixed date and can be resolved either now or later. We show that matching probabilities provides a simple method to measure attitudes toward temporal resolution?via the utility scale?under the recursive expected utility of Kreps and Porteus. We also analyze our data using a general recursive model that can reveal attitudes toward temporal risk resolution through the utility scale and/or the probability weighting scale. In terms of goodness of fit, as well as of prediction accuracy, our results point to a better performance of the probability weighting approach. More specifically, we show that individuals become less sensitive and more pessimistic with respect to winning probabilities when lotteries are resolved later rather than now.This paper was accepted by George Wu, decision analysis.
+AB  - This paper reports two experiments in which attitudes toward temporal risk resolution is elicited from choices between two-outcome lotteries that pay out at some future fixed date and can be resolved either now or later. We show that matching probabilities provides a simple method to measure attitudes toward temporal resolution?via the utility scale?under the recursive expected utility of Kreps and Porteus. We also analyze our data using a general recursive model that can reveal attitudes toward temporal risk resolution through the utility scale and/or the probability weighting scale. In terms of goodness of fit, as well as of prediction accuracy, our results point to a better performance of the probability weighting approach. More specifically, we show that individuals become less sensitive and more pessimistic with respect to winning probabilities when lotteries are resolved later rather than now.This paper was accepted by George Wu, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4124
+UR  - https://doi.org/10.1287/mnsc.2021.4124
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Talking Behind Your Back: Communication and Team Cooperation
+AU  - Abbink, Klaus
+AU  - Dong, Lu
+AU  - Huang, Lingbo
+Y1  - 2021/10/19
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4143
+DO  - 10.1287/mnsc.2021.4143
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5187
+EP  - 5200
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Communication is one of the most effective devices in promoting team cooperation. However, asymmetric communication sometimes breeds collusion and hurts team efficiency. Here, we present experimental evidence showing that excluding one member from team communication hurts team cooperation; the communicating partners collude in profit allocation against the excluded member, and the latter reacts by exerting less effort. Allowing the partners to reach out to the excluded member partially restores cooperation and fairness in profit allocation, but it does not stop the partners from talking behind that member?s back even when they could have talked publicly. The partners sometimes game the system by tricking the excluded member into contributing but then grabbing all profits for themselves.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+AB  - Communication is one of the most effective devices in promoting team cooperation. However, asymmetric communication sometimes breeds collusion and hurts team efficiency. Here, we present experimental evidence showing that excluding one member from team communication hurts team cooperation; the communicating partners collude in profit allocation against the excluded member, and the latter reacts by exerting less effort. Allowing the partners to reach out to the excluded member partially restores cooperation and fairness in profit allocation, but it does not stop the partners from talking behind that member?s back even when they could have talked publicly. The partners sometimes game the system by tricking the excluded member into contributing but then grabbing all profits for themselves.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4143
+UR  - https://doi.org/10.1287/mnsc.2021.4143
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Probability Weighting and Cognitive Ability
+AU  - Choi, Syngjoo
+AU  - Kim, Jeongbin
+AU  - Lee, Eungik
+AU  - Lee, Jungmin
+Y1  - 2022/02/01
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4146
+DO  - 10.1287/mnsc.2021.4146
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5201
+EP  - 5215
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Probability weighting is a major concept for accommodating systematic departures from expected utility theory. We examine the relation between probability weighting and cognitive ability with two experiments: one recruiting subjects with a large variation in cognitive ability and the other using the within-subject manipulation of time constraints in lottery choices and cognitive tests. We find a significant association between likelihood insensitivity?the cognitive component of probability weighting?and cognitive limitation such that subjects with a lower cognitive score or more interrupted cognition due to time pressure respond less discriminately to intermediate probabilities and more over-sensitively to extreme probabilities. Our findings shed light on the sources of anomalous choices against expected utility theory.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+AB  - Probability weighting is a major concept for accommodating systematic departures from expected utility theory. We examine the relation between probability weighting and cognitive ability with two experiments: one recruiting subjects with a large variation in cognitive ability and the other using the within-subject manipulation of time constraints in lottery choices and cognitive tests. We find a significant association between likelihood insensitivity?the cognitive component of probability weighting?and cognitive limitation such that subjects with a lower cognitive score or more interrupted cognition due to time pressure respond less discriminately to intermediate probabilities and more over-sensitively to extreme probabilities. Our findings shed light on the sources of anomalous choices against expected utility theory.This paper was accepted by Yan Chen, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4146
+UR  - https://doi.org/10.1287/mnsc.2021.4146
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Forecasting Skills in Experimental Markets: Illusion or Reality?
+AU  - Corgnet, Brice
+AU  - Deck, Cary
+AU  - DeSantis, Mark
+AU  - Porter, David
+Y1  - 2021/11/05
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4160
+DO  - 10.1287/mnsc.2021.4160
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5216
+EP  - 5232
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - There is an ongoing debate regarding the degree to which a forecaster?s ability to draw correct inferences from market signals is real or illusory. This paper attempts to shed light on the debate by examining how personal characteristics do or do not affect forecaster success. Specifically, we investigate the role of fluid intelligence, manipulativeness, and theory of mind on forecast accuracy in experimental asset markets. We find that intelligence improves forecaster performance when market mispricing is low, manipulativeness improves forecaster performance when mispricing is high, and the degree to which theory of mind skills matter depends on both the level of mispricing and how information is displayed. All three of these results are consistent with hypotheses derived from the previous literature. Additionally, we observe that male forecasters outperform female forecasters after controlling for intelligence, manipulativeness, and theory of mind skills as well as risk aversion. Interestingly, we do not find any evidence that forecaster performance improves with experience across markets or within markets.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+AB  - There is an ongoing debate regarding the degree to which a forecaster?s ability to draw correct inferences from market signals is real or illusory. This paper attempts to shed light on the debate by examining how personal characteristics do or do not affect forecaster success. Specifically, we investigate the role of fluid intelligence, manipulativeness, and theory of mind on forecast accuracy in experimental asset markets. We find that intelligence improves forecaster performance when market mispricing is low, manipulativeness improves forecaster performance when mispricing is high, and the degree to which theory of mind skills matter depends on both the level of mispricing and how information is displayed. All three of these results are consistent with hypotheses derived from the previous literature. Additionally, we observe that male forecasters outperform female forecasters after controlling for intelligence, manipulativeness, and theory of mind skills as well as risk aversion. Interestingly, we do not find any evidence that forecaster performance improves with experience across markets or within markets.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4160
+UR  - https://doi.org/10.1287/mnsc.2021.4160
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Creator Economy: Managing Ecosystem Supply, Revenue Sharing, and Platform Design
+AU  - Bhargava, Hemant K.
+Y1  - 2021/12/13
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4126
+DO  - 10.1287/mnsc.2021.4126
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5233
+EP  - 5251
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Many digital platforms give users a bundle of goods sourced from numerous creators, generate revenue through consumption of these goods, and motivate creators by sharing of revenue. This paper studies the platform?s design choices and creators? participation and supply decisions when users? (viewers?) consumption of goods (content) is financed by third-party advertisers. The model specifies the platform?s scale: number of creators and content supplied and magnitudes of viewers, advertisers, and revenues. I examine how the distribution of creator capabilities affects market concentration among creators and how it can be influenced by platform design. Tools for ad management and analytics are more impactful when the platform has sufficient content and viewers but has low ad demand. Conversely, reducing viewers? distaste for ads through better matching and timing?which can create win?win?win effects throughout the ecosystem?is important when the platform has strong demand from advertisers. Platform infrastructure improvements that motivate creators to supply more content (e.g., development toolkits) must be chosen carefully to avoid creating higher concentration among a few powerful creators. Investments in first-party content are most consequential when the platform scale is small and when it has greater urgency to attract more viewers. I show that revenue sharing is (only partly) a tug of war between the platform and creators because a moderate sharing formula strengthens the overall ecosystem and profits of all participants. However, revenue-sharing tensions indicate a need to extend the one-rate-for-all creators approach with richer revenue-sharing arrangements that can better accommodate heterogeneity among creators.This paper was accepted by David Simchi-Levi, information systems.
+AB  - Many digital platforms give users a bundle of goods sourced from numerous creators, generate revenue through consumption of these goods, and motivate creators by sharing of revenue. This paper studies the platform?s design choices and creators? participation and supply decisions when users? (viewers?) consumption of goods (content) is financed by third-party advertisers. The model specifies the platform?s scale: number of creators and content supplied and magnitudes of viewers, advertisers, and revenues. I examine how the distribution of creator capabilities affects market concentration among creators and how it can be influenced by platform design. Tools for ad management and analytics are more impactful when the platform has sufficient content and viewers but has low ad demand. Conversely, reducing viewers? distaste for ads through better matching and timing?which can create win?win?win effects throughout the ecosystem?is important when the platform has strong demand from advertisers. Platform infrastructure improvements that motivate creators to supply more content (e.g., development toolkits) must be chosen carefully to avoid creating higher concentration among a few powerful creators. Investments in first-party content are most consequential when the platform scale is small and when it has greater urgency to attract more viewers. I show that revenue sharing is (only partly) a tug of war between the platform and creators because a moderate sharing formula strengthens the overall ecosystem and profits of all participants. However, revenue-sharing tensions indicate a need to extend the one-rate-for-all creators approach with richer revenue-sharing arrangements that can better accommodate heterogeneity among creators.This paper was accepted by David Simchi-Levi, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4126
+UR  - https://doi.org/10.1287/mnsc.2021.4126
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Much Is Financial Advice Worth? The Transparency-Revenue Tension in Social Trading
+AU  - Yang, Mingwen
+AU  - Zheng, Zhiqiang (Eric)
+AU  - Mookerjee, Vijay
+Y1  - 2021/10/25
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4147
+DO  - 10.1287/mnsc.2021.4147
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5252
+EP  - 5268
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - In social trading, less experienced investors (followers) are allowed to copy the trades of experts (traders) in real time after paying a fee. Such a copy-trading mechanism often runs into a transparency-revenue tension. On the one hand, social trading platforms need to release traders? trades as transparently as possible to allow followers to evaluate traders accurately. On the other hand, complete transparency may undercut the platform?s revenue because followers can free ride. That is, followers can manually copy the trades of a trader to avoid paying the following fees. This study addresses this critical tension by optimizing the level of transparency through delaying the release of trading information pertaining to the trades executed by traders. We capture the economic impact of the delay using the notions of profit-gap and delayed-profit. We propose a mechanism that elucidates the economic effects of the profit-gap and delayed-profit on followers and, consequently, the amount of money following a trader: protection effect and evaluation effect. Empirical investigations find support for these two effects. We then develop a stochastic control formulation that optimizes platform revenue, where the control is the optimal delay customized at the trader level and calculated as a function of the current amount of money following a trader and the number of views on the trader?s profile page. The optimized revenue can be incorporated into an algorithm to provide a systematic way to infuse the platform?s goals into the ranking of the traders. A counterfactual study is conducted to demonstrate the performance of the optimal delay policy (versus a constant-delay policy) using data from a leading social trading platform operating in the foreign exchange market.This paper was accepted by Chris Forman, information systems.
+AB  - In social trading, less experienced investors (followers) are allowed to copy the trades of experts (traders) in real time after paying a fee. Such a copy-trading mechanism often runs into a transparency-revenue tension. On the one hand, social trading platforms need to release traders? trades as transparently as possible to allow followers to evaluate traders accurately. On the other hand, complete transparency may undercut the platform?s revenue because followers can free ride. That is, followers can manually copy the trades of a trader to avoid paying the following fees. This study addresses this critical tension by optimizing the level of transparency through delaying the release of trading information pertaining to the trades executed by traders. We capture the economic impact of the delay using the notions of profit-gap and delayed-profit. We propose a mechanism that elucidates the economic effects of the profit-gap and delayed-profit on followers and, consequently, the amount of money following a trader: protection effect and evaluation effect. Empirical investigations find support for these two effects. We then develop a stochastic control formulation that optimizes platform revenue, where the control is the optimal delay customized at the trader level and calculated as a function of the current amount of money following a trader and the number of views on the trader?s profile page. The optimized revenue can be incorporated into an algorithm to provide a systematic way to infuse the platform?s goals into the ranking of the traders. A counterfactual study is conducted to demonstrate the performance of the optimal delay policy (versus a constant-delay policy) using data from a leading social trading platform operating in the foreign exchange market.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4147
+UR  - https://doi.org/10.1287/mnsc.2021.4147
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Coping with Digital Extortion: An Experimental Study of Benefit Appeals and Normative Appeals
+AU  - Chen, Kay-Yut
+AU  - Wang, Jingguo
+AU  - Lang, Yan
+Y1  - 2021/11/22
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4154
+DO  - 10.1287/mnsc.2021.4154
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5269
+EP  - 5286
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Digital extortion has emerged as a significant threat to organizations that rely on information technologies for their operations. Using human subject experimentation, we study the effectiveness of message appeals in encouraging defenders to adopt two mitigation strategies, investment in security and refusal to pay ransoms, to digital extortion threats. We explore two types of appeals, benefit and normative, for this purpose. We find that the decisions of the defenders (representing any organization that can be a potential victim) deviate from the predictions of game theory. However, given the strategic interactions between the defenders and the attacker as well as noisy decision-making behaviors, it is challenging to untangle the influence of the appeals on the defenders. We develop a structural model based on the quantal response equilibrium framework to measure how message appeals change the defenders? utilities of investment and payment refusal. Although the interventions may be successful in increasing the utilities of investment and/or payment refusal, their impacts on investment rate and payment rate are mitigated by the attacker reducing ransoms. Thus, it is challenging for an intervention to significantly boost a community?s investment rate or to suppress the ransom payment rate. We characterize how security outcomes of a community (including expected ransom, attack rate, investment rate, and payment rate) vary with the defenders? utilities of investment and pay refusal.This paper was accepted by Chris Forman, information systems.
+AB  - Digital extortion has emerged as a significant threat to organizations that rely on information technologies for their operations. Using human subject experimentation, we study the effectiveness of message appeals in encouraging defenders to adopt two mitigation strategies, investment in security and refusal to pay ransoms, to digital extortion threats. We explore two types of appeals, benefit and normative, for this purpose. We find that the decisions of the defenders (representing any organization that can be a potential victim) deviate from the predictions of game theory. However, given the strategic interactions between the defenders and the attacker as well as noisy decision-making behaviors, it is challenging to untangle the influence of the appeals on the defenders. We develop a structural model based on the quantal response equilibrium framework to measure how message appeals change the defenders? utilities of investment and payment refusal. Although the interventions may be successful in increasing the utilities of investment and/or payment refusal, their impacts on investment rate and payment rate are mitigated by the attacker reducing ransoms. Thus, it is challenging for an intervention to significantly boost a community?s investment rate or to suppress the ransom payment rate. We characterize how security outcomes of a community (including expected ransom, attack rate, investment rate, and payment rate) vary with the defenders? utilities of investment and pay refusal.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4154
+UR  - https://doi.org/10.1287/mnsc.2021.4154
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Separated by a Common Language: How the Nature of Code Differences Shapes Communication Success and Code Convergence
+AU  - Koçak, Özgecan
+AU  - Puranam, Phanish
+Y1  - 2022/01/07
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4157
+DO  - 10.1287/mnsc.2021.4157
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5287
+EP  - 5310
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Coordinated action within and beween organizations is easier when individuals share communication codes?mappings between stimuli and labels. Because codes are specific to the groups within which they arise as conventions, collaboration across organizational units that have developed their own distinctive codes is often difficult. However, not all code differences are equal in their implications for communication difficulty and the capacity of individuals starting out with different codes to develop a shared code. Using computational models, we develop a theory about the nature of differences in initial communication codes and how they impact convergence on a common code. Our results show that the difficulty of code convergence lies not as much in learning new codes as in unlearning existing ones. The most severe challenges to communication stem from ?code clashes? where codes contain different mappings between the same labels and stimuli. Furthermore, clashes that arise when agents have developed their individual codes in different task environments but draw on a common set of labels are likely to be the hardest to recover from, reflecting the perils of being ?separated by a common language.?This paper was accepted by Lamar Pierce, organizations.
+AB  - Coordinated action within and beween organizations is easier when individuals share communication codes?mappings between stimuli and labels. Because codes are specific to the groups within which they arise as conventions, collaboration across organizational units that have developed their own distinctive codes is often difficult. However, not all code differences are equal in their implications for communication difficulty and the capacity of individuals starting out with different codes to develop a shared code. Using computational models, we develop a theory about the nature of differences in initial communication codes and how they impact convergence on a common code. Our results show that the difficulty of code convergence lies not as much in learning new codes as in unlearning existing ones. The most severe challenges to communication stem from ?code clashes? where codes contain different mappings between the same labels and stimuli. Furthermore, clashes that arise when agents have developed their individual codes in different task environments but draw on a common set of labels are likely to be the hardest to recover from, reflecting the perils of being ?separated by a common language.?This paper was accepted by Lamar Pierce, organizations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4157
+UR  - https://doi.org/10.1287/mnsc.2021.4157
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Disciplining Effect of Status: Evaluator Status Awards and Observed Gender Bias in Evaluations
+AU  - Botelho, Tristan L.
+AU  - Gertsberg, Marina
+Y1  - 2021/11/19
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4161
+DO  - 10.1287/mnsc.2021.4161
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5311
+EP  - 5329
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We theorize that status awards will have a disciplining effect on evaluators, changing how they evaluate. Specifically, status awards will lead evaluators to place less weight on unreliable indicators of candidate quality, such as gender. We test this theory using data from restaurant evaluations on Yelp, focusing on the relationship between an evaluator?s restaurant rating and their reporting of being served by a man or a woman in their review text. We use Yelp?s evaluator status award (?Elite?) to analyze whether observed gender bias in the star ratings given to restaurants decreases after an evaluator receives this status award. We find that evaluators rate restaurants more similarly after receiving the award, regardless of whether they report being served by a man or a woman. Status awards in our context close the gender gap in restaurant ratings by 56.5% (a 0.07 stars improvement out of an initial rating gap of ?0.13 stars). This reduction in gender bias is mostly due to a decrease in the number of extremely low (1 star) ratings in reviews that reference female servers. Research on status and evaluations has mostly focused on how evaluators react to increases in candidate status. We demonstrate the importance of evaluator status as a mechanism for decreasing observed gender differences in evaluations.This paper was accepted by Isabel Fernandez-Mateo, organizations.
+AB  - We theorize that status awards will have a disciplining effect on evaluators, changing how they evaluate. Specifically, status awards will lead evaluators to place less weight on unreliable indicators of candidate quality, such as gender. We test this theory using data from restaurant evaluations on Yelp, focusing on the relationship between an evaluator?s restaurant rating and their reporting of being served by a man or a woman in their review text. We use Yelp?s evaluator status award (?Elite?) to analyze whether observed gender bias in the star ratings given to restaurants decreases after an evaluator receives this status award. We find that evaluators rate restaurants more similarly after receiving the award, regardless of whether they report being served by a man or a woman. Status awards in our context close the gender gap in restaurant ratings by 56.5% (a 0.07 stars improvement out of an initial rating gap of ?0.13 stars). This reduction in gender bias is mostly due to a decrease in the number of extremely low (1 star) ratings in reviews that reference female servers. Research on status and evaluations has mostly focused on how evaluators react to increases in candidate status. We demonstrate the importance of evaluator status as a mechanism for decreasing observed gender differences in evaluations.This paper was accepted by Isabel Fernandez-Mateo, organizations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4161
+UR  - https://doi.org/10.1287/mnsc.2021.4161
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Regulation with Experimentation: Ex Ante Approval, Ex Post Withdrawal, and Liability
+AU  - Henry, Emeric
+AU  - Loseto, Marco
+AU  - Ottaviani, Marco
+Y1  - 2021/11/29
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4164
+DO  - 10.1287/mnsc.2021.4164
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5330
+EP  - 5347
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We analyze the optimal mix of ex ante experimentation and ex post learning for the dynamic adoption of activities with uncertain payoffs in a two-phase model of information diffusion. In a first preintroduction phase, costly experimentation is undertaken to decide whether to adopt an activity or abandon experimentation. In a second stage following adoption, learning can continue possibly at a different pace while the activity remains in place; the withdrawal option is exercised following the accumulation of sufficiently bad news. We compare from a law and economics perspective the performance of three regulatory frameworks commonly adopted to govern private experimentation and adoption incentives: liability, withdrawal, and authorization regulation. Liability should be preempted to avoid chilling of activities that generate large positive externalities consistent with the preemption doctrine. Liability should be used to discourage excessive experimentation for activities that generate small positive externalities. Authorization regulation should be lenient whenever it is used consistent with the organization of regulation in a number of areas, ranging from product safety to antitrust.This paper was accepted by Joshua Gans, business strategy.
+AB  - We analyze the optimal mix of ex ante experimentation and ex post learning for the dynamic adoption of activities with uncertain payoffs in a two-phase model of information diffusion. In a first preintroduction phase, costly experimentation is undertaken to decide whether to adopt an activity or abandon experimentation. In a second stage following adoption, learning can continue possibly at a different pace while the activity remains in place; the withdrawal option is exercised following the accumulation of sufficiently bad news. We compare from a law and economics perspective the performance of three regulatory frameworks commonly adopted to govern private experimentation and adoption incentives: liability, withdrawal, and authorization regulation. Liability should be preempted to avoid chilling of activities that generate large positive externalities consistent with the preemption doctrine. Liability should be used to discourage excessive experimentation for activities that generate small positive externalities. Authorization regulation should be lenient whenever it is used consistent with the organization of regulation in a number of areas, ranging from product safety to antitrust.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4164
+UR  - https://doi.org/10.1287/mnsc.2021.4164
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Brand Spillover as a Marketing Strategy
+AU  - Wu, Xiaole
+AU  - Zhang, Fuqiang
+AU  - Zhou, Yu
+Y1  - 2021/11/18
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4165
+DO  - 10.1287/mnsc.2021.4165
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5348
+EP  - 5363
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - When a weak-brand firm and a strong-brand firm source from a common contract manufacturer, the weak-brand firm may advertise this relationship to promote its own product. This paper investigates whether the weak-brand firm should use such brand spillover as a marketing strategy and how this decision depends on the firms? characteristics and market conditions. We develop a game theoretic model consisting of one contract manufacturer and two firms with asymmetric brand power. The contract manufacturer determines the wholesale prices for the two firms and then each firm decides whether to source from the contract manufacturer. If both firms outsource to the contract manufacturer, then the weak-brand firm may choose whether to promote its product through brand spillover. Although brand spillover improves the attractiveness of the weak-brand firm?s product at no cost, we find that the weak-brand firm should not use brand spillover if (1) its original brand power is sufficiently low or (2) the contract manufacturer does not have a significant cost advantage. Interestingly, the adoption of brand spillover by the weak-brand firm can benefit all three parties under certain circumstances. Nevertheless, when the contract manufacturer has a significant cost advantage, in equilibrium the strong-brand firm will be hurt by brand spillover and hence should take actions to prevent it.This paper was accepted by Dmitri Kuksov, marketing.
+AB  - When a weak-brand firm and a strong-brand firm source from a common contract manufacturer, the weak-brand firm may advertise this relationship to promote its own product. This paper investigates whether the weak-brand firm should use such brand spillover as a marketing strategy and how this decision depends on the firms? characteristics and market conditions. We develop a game theoretic model consisting of one contract manufacturer and two firms with asymmetric brand power. The contract manufacturer determines the wholesale prices for the two firms and then each firm decides whether to source from the contract manufacturer. If both firms outsource to the contract manufacturer, then the weak-brand firm may choose whether to promote its product through brand spillover. Although brand spillover improves the attractiveness of the weak-brand firm?s product at no cost, we find that the weak-brand firm should not use brand spillover if (1) its original brand power is sufficiently low or (2) the contract manufacturer does not have a significant cost advantage. Interestingly, the adoption of brand spillover by the weak-brand firm can benefit all three parties under certain circumstances. Nevertheless, when the contract manufacturer has a significant cost advantage, in equilibrium the strong-brand firm will be hurt by brand spillover and hence should take actions to prevent it.This paper was accepted by Dmitri Kuksov, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4165
+UR  - https://doi.org/10.1287/mnsc.2021.4165
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Does the Potential to Merge Reduce Competition?
+AU  - Hackbarth, Dirk
+AU  - Taub, Bart
+Y1  - 2021/10/28
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4089
+DO  - 10.1287/mnsc.2021.4089
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5364
+EP  - 5383
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We study anticompetitive horizontal mergers in a dynamic model with noisy collusion. At each instant, firms either privately choose output levels or merge to form a monopoly, trading off the benefits of avoiding price wars against the costs of merging. The potential to merge decreases pre-merger collusion, as punishments effected by price wars are weakened. We thus extend the result of Davidson and Deneckere [Davidson C, Deneckere R (1984) Horizontal mergers and collusive behavior. Internat. J. Indust. Organ. 2(2):117?132.], who analyzed the weakening of punishments post-merger, demonstrating that pre-merger collusion is weakened, in a fully stochastic model. Thus, although anticompetitive mergers harm competition ex post, the implication is that barriers and costs of merging due to regulation should be reduced to promote competition exante.This paper was accepted by Tomasz Piskorski, finance.
+AB  - We study anticompetitive horizontal mergers in a dynamic model with noisy collusion. At each instant, firms either privately choose output levels or merge to form a monopoly, trading off the benefits of avoiding price wars against the costs of merging. The potential to merge decreases pre-merger collusion, as punishments effected by price wars are weakened. We thus extend the result of Davidson and Deneckere [Davidson C, Deneckere R (1984) Horizontal mergers and collusive behavior. Internat. J. Indust. Organ. 2(2):117?132.], who analyzed the weakening of punishments post-merger, demonstrating that pre-merger collusion is weakened, in a fully stochastic model. Thus, although anticompetitive mergers harm competition ex post, the implication is that barriers and costs of merging due to regulation should be reduced to promote competition exante.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4089
+UR  - https://doi.org/10.1287/mnsc.2021.4089
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Saving with Group or Individual Personal Pension Schemes: How Much Difference Does It Make?
+AU  - Zalewska, Anna (Ania)
+Y1  - 2021/08/27
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4083
+DO  - 10.1287/mnsc.2021.4083
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5384
+EP  - 5402
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - The quality of services provided by institutional investors has attracted considerable attention. This paper adds to the debate by showing that institutional differences in setting up defined contribution personal schemes have an economically and statistically significant impact on the returns. Using a sample of 10,326 UK defined contribution personal pension funds over July 1990?June 2019, I show that pension funds that have a third party involved in contract setting and subsequent oversight deliver 0.96%?1.67% higher gross returns and charge 0.7% lower fees than pension funds offered directly to the public without any well-informed third party involved. I also show that the introduction of additional governance bodies in 2015 resulted in a widening of the performance gap, which further supports the notion that investment governance has a material impact on fund performance. The results highlight the importance of investment oversight and call for more protection for individual investors.This paper was accepted by Tomasz Piskorski, finance.
+AB  - The quality of services provided by institutional investors has attracted considerable attention. This paper adds to the debate by showing that institutional differences in setting up defined contribution personal schemes have an economically and statistically significant impact on the returns. Using a sample of 10,326 UK defined contribution personal pension funds over July 1990?June 2019, I show that pension funds that have a third party involved in contract setting and subsequent oversight deliver 0.96%?1.67% higher gross returns and charge 0.7% lower fees than pension funds offered directly to the public without any well-informed third party involved. I also show that the introduction of additional governance bodies in 2015 resulted in a widening of the performance gap, which further supports the notion that investment governance has a material impact on fund performance. The results highlight the importance of investment oversight and call for more protection for individual investors.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4083
+UR  - https://doi.org/10.1287/mnsc.2021.4083
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Labor Unions and Product Quality Failures
+AU  - Kini, Omesh
+AU  - Shen, Mo
+AU  - Shenoy, Jaideep
+AU  - Subramaniam, Venkat
+Y1  - 2021/08/27
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4082
+DO  - 10.1287/mnsc.2021.4082
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5403
+EP  - 5440
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - In this paper, we study the impact of labor unions on product quality failures. We use a product recall as our measure of quality failure because it is an objective metric that is applicable to a broad cross-section of industries. Our analysis employs a union panel setting and close union elections in a regression discontinuity design framework to overcome identification issues. In the panel regressions, we find that firms that are unionized and those that have higher unionization rates experience a greater frequency of quality failures. The results obtain even at a more granular establishment level in a subsample in which we can identify the manufacturing establishment associated with the recalled product. When comparing firms in close elections, we find that firms with close union wins are followed by significantly worse product quality outcomes than those with close union losses. These results are amplified in non?right-to-work states, where unions have a relatively greater influence on the workforce. We find that unionization increases firms? costs and operating leverage and, consequently, crowds out investments that potentially impact quality. We also find some suggestive evidence that unions may compromise quality by hurting employee morale and by resisting technological upgrades in the firm. Overall, our results suggest that unions have an adverse impact on product recalls, and thus, product quality is an important dimension along which unions impact businesses.This paper was accepted by Gustavo Manso, finance.
+AB  - In this paper, we study the impact of labor unions on product quality failures. We use a product recall as our measure of quality failure because it is an objective metric that is applicable to a broad cross-section of industries. Our analysis employs a union panel setting and close union elections in a regression discontinuity design framework to overcome identification issues. In the panel regressions, we find that firms that are unionized and those that have higher unionization rates experience a greater frequency of quality failures. The results obtain even at a more granular establishment level in a subsample in which we can identify the manufacturing establishment associated with the recalled product. When comparing firms in close elections, we find that firms with close union wins are followed by significantly worse product quality outcomes than those with close union losses. These results are amplified in non?right-to-work states, where unions have a relatively greater influence on the workforce. We find that unionization increases firms? costs and operating leverage and, consequently, crowds out investments that potentially impact quality. We also find some suggestive evidence that unions may compromise quality by hurting employee morale and by resisting technological upgrades in the firm. Overall, our results suggest that unions have an adverse impact on product recalls, and thus, product quality is an important dimension along which unions impact businesses.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4082
+UR  - https://doi.org/10.1287/mnsc.2021.4082
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Leveling the Playing Field for Risk-Averse Agents in Security-Bid Auctions
+AU  - Fioriti, Andrés
+AU  - Hernandez-Chanto, Allan
+Y1  - 2021/09/27
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4080
+DO  - 10.1287/mnsc.2021.4080
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5441
+EP  - 5463
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We introduce risk-averse bidders in a security-bid auction to analyze how the security design affects bidders? equilibrium behavior and, as a result, the revenue and efficiency of the auction. We show that steeper securities provide more insurance because they allow bidders to smooth payoffs across realizations. Such insurance levels the playing field for more-risk-averse bidders, inducing them to bid more aggressively. As a consequence, the auction?s allocative efficiency weakly increases when the seller switches from a flatter to a steeper security. Furthermore, we prove that when bidders are homogeneously and sufficiently risk averse, the only security that guarantees Pareto efficiency is the steepest, that is, a call option. We also determine the relationship between the security design and the auction format. In particular, we show that for convex and superconvex families of securities, the first-price auction yields higher expected revenues, provided a technical condition, whereas for subconvex families, the second price yields higher expected revenues, provided that bidders are moderately risk averse. Finally, we show that steeper securities also attract higher entry from an ex ante perspective, when entry is costly, and discuss the effects that the presence of risk aversion has on informal auctions.This paper was accepted by Gustavo Manso, finance.
+AB  - We introduce risk-averse bidders in a security-bid auction to analyze how the security design affects bidders? equilibrium behavior and, as a result, the revenue and efficiency of the auction. We show that steeper securities provide more insurance because they allow bidders to smooth payoffs across realizations. Such insurance levels the playing field for more-risk-averse bidders, inducing them to bid more aggressively. As a consequence, the auction?s allocative efficiency weakly increases when the seller switches from a flatter to a steeper security. Furthermore, we prove that when bidders are homogeneously and sufficiently risk averse, the only security that guarantees Pareto efficiency is the steepest, that is, a call option. We also determine the relationship between the security design and the auction format. In particular, we show that for convex and superconvex families of securities, the first-price auction yields higher expected revenues, provided a technical condition, whereas for subconvex families, the second price yields higher expected revenues, provided that bidders are moderately risk averse. Finally, we show that steeper securities also attract higher entry from an ex ante perspective, when entry is costly, and discuss the effects that the presence of risk aversion has on informal auctions.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4080
+UR  - https://doi.org/10.1287/mnsc.2021.4080
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bonus Season: A Theory of Periodic Labor Markets and Coordinated Bonuses
+AU  - Van Wesep, Edward D.
+AU  - Waters, Brian
+Y1  - 2022/02/09
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4076
+DO  - 10.1287/mnsc.2021.4076
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5464
+EP  - 5492
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We present a general equilibrium model in which firms and workers coordinate compensation so that turnover is high in some periods and low in others. This ensures that firms and workers typically search for new matches when other firms and workers are available. If firms and workers find themselves in a periodic equilibrium, contracts often feature large bonuses paid just prior to periods of high labor market turnover. The theory?s predictions match stylized facts concerning compensation and turnover in high finance and biglaw.This paper was accepted by Gustavo Manso, finance.
+AB  - We present a general equilibrium model in which firms and workers coordinate compensation so that turnover is high in some periods and low in others. This ensures that firms and workers typically search for new matches when other firms and workers are available. If firms and workers find themselves in a periodic equilibrium, contracts often feature large bonuses paid just prior to periods of high labor market turnover. The theory?s predictions match stylized facts concerning compensation and turnover in high finance and biglaw.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4076
+UR  - https://doi.org/10.1287/mnsc.2021.4076
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Time Is Relative: How Framing of Time Estimation Affects the Accuracy of Cost Information
+AU  - Schuhmacher, Karl
+AU  - Burkert, Michael
+Y1  - 2021/11/30
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4144
+DO  - 10.1287/mnsc.2021.4144
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5493
+EP  - 5513
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - Accurate cost information is critical to effective decision making within organizations. Cost computations often rely on subjective judgments by employees regarding the amount of time that different tasks consume. In an experimental setting, we examine the accuracy of two common approaches to eliciting subjective time estimates vital for accurate cost information. Specifically, we compare estimation error when employees estimate (i) the total time for all iterations of a task (the pool approach) versus (ii) the average time for one iteration of a task (the unit approach). These two approaches have received interest by both practitioners and researchers and are at the heart of the difference between conventional activity-based costing (ABC) and time-driven ABC. While mathematically equivalent, we hypothesize and find that the two approaches evoke different cognitive processes that lead to differences in estimation error. Relative to the unit approach, the pool approach produces larger error in the allocation of time among different tasks, but only when the number of iterations per task varies across tasks. Further, the pool approach results in overestimation of productive time, whereas the unit approach leads to underestimation of productive time. Our findings are robust to different response modes of the pool approach (estimates in absolute time units and in percentages). This study is relevant for designers and users of cost and performance-measurement systems in that allocation errors lead to cost cross-subsidization and poor resource-allocation decisions, while overall errors undermine capacity utilization decisions.This paper was accepted by Brian Bushee, accounting.
+AB  - Accurate cost information is critical to effective decision making within organizations. Cost computations often rely on subjective judgments by employees regarding the amount of time that different tasks consume. In an experimental setting, we examine the accuracy of two common approaches to eliciting subjective time estimates vital for accurate cost information. Specifically, we compare estimation error when employees estimate (i) the total time for all iterations of a task (the pool approach) versus (ii) the average time for one iteration of a task (the unit approach). These two approaches have received interest by both practitioners and researchers and are at the heart of the difference between conventional activity-based costing (ABC) and time-driven ABC. While mathematically equivalent, we hypothesize and find that the two approaches evoke different cognitive processes that lead to differences in estimation error. Relative to the unit approach, the pool approach produces larger error in the allocation of time among different tasks, but only when the number of iterations per task varies across tasks. Further, the pool approach results in overestimation of productive time, whereas the unit approach leads to underestimation of productive time. Our findings are robust to different response modes of the pool approach (estimates in absolute time units and in percentages). This study is relevant for designers and users of cost and performance-measurement systems in that allocation errors lead to cost cross-subsidization and poor resource-allocation decisions, while overall errors undermine capacity utilization decisions.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4144
+UR  - https://doi.org/10.1287/mnsc.2021.4144
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Disclosure Sentiment: Machine Learning vs. Dictionary Methods
+AU  - Frankel, Richard
+AU  - Jennings, Jared
+AU  - Lee, Joshua
+Y1  - 2021/11/11
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4156
+DO  - 10.1287/mnsc.2021.4156
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5514
+EP  - 5532
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - We compare the ability of dictionary-based and machine-learning methods to capture disclosure sentiment at 10-K filing and conference-call dates. Like Loughran and McDonald [Loughran T, McDonald B (2011) When is a liability not a liability? Textual analysis, dictionaries, and 10-Ks. J. Finance 66(1):35?65.], we use returns to assess sentiment. We find that measures based on machine learning offer a significant improvement in explanatory power over dictionary-based measures. Specifically, machine-learning measures explain returns at 10-K filing dates, whereas measures based on the Loughran and McDonald dictionary only explain returns at 10-K filing dates during the time period of their study. Moreover, at conference-call dates, machine-learning methods offer an improvement over the Loughran and McDonald dictionary method of a greater magnitude than the improvement of the Loughran and McDonald dictionary over the Harvard Psychosociological Dictionary. We further find that the random-forest-regression-tree method better captures disclosure sentiment than alternative algorithms, simplifying the application of the machine-learning approach. Overall, our results suggest that machine-learning methods offer an easily implementable, more powerful, and reliable measure of disclosure sentiment than dictionary-based methods.This paper was accepted by Brian Bushee, accounting.
+AB  - We compare the ability of dictionary-based and machine-learning methods to capture disclosure sentiment at 10-K filing and conference-call dates. Like Loughran and McDonald [Loughran T, McDonald B (2011) When is a liability not a liability? Textual analysis, dictionaries, and 10-Ks. J. Finance 66(1):35?65.], we use returns to assess sentiment. We find that measures based on machine learning offer a significant improvement in explanatory power over dictionary-based measures. Specifically, machine-learning measures explain returns at 10-K filing dates, whereas measures based on the Loughran and McDonald dictionary only explain returns at 10-K filing dates during the time period of their study. Moreover, at conference-call dates, machine-learning methods offer an improvement over the Loughran and McDonald dictionary method of a greater magnitude than the improvement of the Loughran and McDonald dictionary over the Harvard Psychosociological Dictionary. We further find that the random-forest-regression-tree method better captures disclosure sentiment than alternative algorithms, simplifying the application of the machine-learning approach. Overall, our results suggest that machine-learning methods offer an easily implementable, more powerful, and reliable measure of disclosure sentiment than dictionary-based methods.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4156
+UR  - https://doi.org/10.1287/mnsc.2021.4156
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Test of Income Smoothing Using Pseudo Fiscal Years
+AU  - Black, Dirk E.
+AU  - Pierce, Spencer R.
+AU  - Thomas, Wayne B.
+Y1  - 2021/12/22
+PY  - 2021
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2021.4158
+DO  - 10.1287/mnsc.2021.4158
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5533
+EP  - 5555
+VL  - 68
+IS  - 7
+PB  - INFORMS
+N2  - The purpose of our study is to further understand managerial incentives that affect the volatility of reported earnings. Prior research suggests that the volatility of fourth-quarter earnings may be affected by the integral approach to accounting (i.e., ?settling up? of accrual estimation errors in the first three quarters of the fiscal year) or earnings management to meet certain reporting objectives (e.g., analyst forecasts). We suggest that another factor affecting fourth-quarter earnings is managers? intentional smoothing of fiscal-year earnings. For each firm, we create pseudo-year earnings using four consecutive quarters other than the four quarters of the reported fiscal year. We then compare the earnings volatility of pseudo years to the earnings volatility of the firm?s own reported fiscal year. We find evidence consistent with fourth-quarter accruals reflecting managerial incentives to smooth fiscal-year earnings. This conclusion is validated by several cross-sectional tests, the pattern in quarterly cash flows and accruals, and several robustness tests. Overall, we contribute to the literature exploring alternative explanations for the differential volatility of fiscal-year and fourth-quarter earnings.This paper was accepted by Brian Bushee, accounting.
+AB  - The purpose of our study is to further understand managerial incentives that affect the volatility of reported earnings. Prior research suggests that the volatility of fourth-quarter earnings may be affected by the integral approach to accounting (i.e., ?settling up? of accrual estimation errors in the first three quarters of the fiscal year) or earnings management to meet certain reporting objectives (e.g., analyst forecasts). We suggest that another factor affecting fourth-quarter earnings is managers? intentional smoothing of fiscal-year earnings. For each firm, we create pseudo-year earnings using four consecutive quarters other than the four quarters of the reported fiscal year. We then compare the earnings volatility of pseudo years to the earnings volatility of the firm?s own reported fiscal year. We find evidence consistent with fourth-quarter accruals reflecting managerial incentives to smooth fiscal-year earnings. This conclusion is validated by several cross-sectional tests, the pattern in quarterly cash flows and accruals, and several robustness tests. Overall, we contribute to the literature exploring alternative explanations for the differential volatility of fiscal-year and fourth-quarter earnings.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4158
+UR  - https://doi.org/10.1287/mnsc.2021.4158
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2022/07/01
+PY  - 2022
+DA  - 2022/07/01
+N1  - doi: 10.1287/mnsc.2022.eb.v68n7
+DO  - 10.1287/mnsc.2022.eb.v68n7
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - v
+VL  - 68
+IS  - 7
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.eb.v68n7
+UR  - https://doi.org/10.1287/mnsc.2022.eb.v68n7
+Y2  - 2024/03/29
+ER  - 

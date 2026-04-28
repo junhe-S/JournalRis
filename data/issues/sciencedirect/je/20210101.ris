@@ -1,0 +1,231 @@
+TY  - JOUR
+T1  - When will the Covid-19 pandemic peak?
+AU  - Li, Shaoran
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 130
+EP  - 157
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.049
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303055
+KW  - Epidemic
+KW  - Nonparametric
+KW  - Prediction
+KW  - Trend
+AB  - We carry out some analysis of the daily data on the number of new cases and the number of new deaths by (191) countries as reported to the European Centre for Disease Prevention and Control (ECDC). Our benchmark model is a quadratic time trend model applied to the log of new cases for each country. We use our model to predict when the peak of the epidemic will arise in terms of new cases or new deaths in each country and the peak level. We also predict how long the number of new daily cases in each country will fall by an order of magnitude. Finally, we also forecast the total number of cases and deaths for each country. We consider two models that link the joint evolution of new cases and new deaths.
+ER  - 
+
+TY  - JOUR
+T1  - Sparse HP filter: Finding kinks in the COVID-19 contact rate
+AU  - Lee, Sokbae
+AU  - Liao, Yuan
+AU  - Seo, Myung Hwan
+AU  - Shin, Youngki
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 158
+EP  - 180
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303365
+KW  - COVID-19
+KW  - Trend filtering
+KW  - Knots
+KW  - Piecewise linear fitting
+KW  - Hodrick–Prescott filter
+AB  - In this paper, we estimate the time-varying COVID-19 contact rate of a Susceptible–Infected–Recovered (SIR) model. Our measurement of the contact rate is constructed using data on actively infected, recovered and deceased cases. We propose a new trend filtering method that is a variant of the Hodrick–Prescott (HP) filter, constrained by the number of possible kinks. We term it the sparse HP filter and apply it to daily data from five countries: Canada, China, South Korea, the UK and the US. Our new method yields the kinks that are well aligned with actual events in each country. We find that the sparse HP filter provides a fewer kinks than the ℓ1 trend filter, while both methods fitting data equally well. Theoretically, we establish risk consistency of both the sparse HP and ℓ1 trend filters. Ultimately, we propose to use time-varying contact growth rates to document and monitor outbreaks of COVID-19.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of Covid-19 prevalence from serology tests: A partial identification approach
+AU  - Toulis, Panos
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 193
+EP  - 213
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030350X
+KW  - Partial identification
+KW  - Disease prevalence
+KW  - Serology tests
+KW  - Covid-19
+AB  - We propose a partial identification method for estimating disease prevalence from serology studies. Our data are results from antibody tests in some population sample, where the test parameters, such as the true/false positive rates, are unknown. Our method scans the entire parameter space, and rejects parameter values using the joint data density as the test statistic. The proposed method is conservative for marginal inference, in general, but its key advantage over more standard approaches is that it is valid in finite samples even when the underlying model is not point identified. Moreover, our method requires only independence of serology test results, and does not rely on asymptotic arguments, normality assumptions, or other approximations. We use recent Covid-19 serology studies in the US, and show that the parameter confidence set is generally wide, and cannot support definite conclusions. Specifically, recent serology studies from California suggest a prevalence anywhere in the range 0%-2% (at the time of study), and are therefore inconclusive. However, this range could be narrowed down to 0.7%–1.5% if the actual false positive rate of the antibody test was indeed near its empirical estimate (∼0.5%). In another study from New York state, Covid-19 prevalence is confidently estimated in the range 13%–17% in mid-April of 2020, which also suggests significant geographic variation in Covid-19 exposure across the US. Combining all datasets yields a 5%–8% prevalence range. Our results overall suggest that serology testing on a massive scale can give crucial information for future policy design, even when such tests are imperfect and their parameters unknown.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating the COVID-19 infection rate: Anatomy of an inference problem
+AU  - Manski, Charles F.
+AU  - Molinari, Francesca
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 181
+EP  - 192
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.041
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301676
+KW  - Partial identification
+KW  - Missing data
+KW  - Epidemiology
+KW  - Novel coronavirus
+AB  - As a consequence of missing data on tests for infection and imperfect accuracy of tests, reported rates of cumulative population infection by the SARS CoV-2 virus are lower than actual rates of infection. Hence, reported rates of severe illness conditional on infection are higher than actual rates. Understanding the time path of the COVID-19 pandemic has been hampered by the absence of bounds on infection rates that are credible and informative. This paper explains the logical problem of bounding these rates and reports illustrative findings, using data from Illinois, New York, and Italy. We combine the data with assumptions on the infection rate in the untested population and on the accuracy of the tests that appear credible in the current context. We find that the infection rate might be substantially higher than reported. We also find that, assuming accurate reporting of deaths, the infection fatality rates in Illinois, New York, and Italy are substantially lower than reported.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - ii
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30384-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303845
+ER  - 
+
+TY  - JOUR
+T1  - Introduction to pandemic econometrics/Covid-19 pandemic
+AU  - Tamer, Elie
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 1
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303663
+ER  - 
+
+TY  - JOUR
+T1  - Consumer panic in the COVID-19 pandemic
+AU  - Keane, Michael
+AU  - Neal, Timothy
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 86
+EP  - 105
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.045
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302840
+KW  - Coronavirus
+KW  - Hoarding
+KW  - Consumption
+KW  - Panel data
+KW  - Panic buying
+AB  - We develop an econometric model of consumer panic (or panic buying) during the COVID-19 pandemic. Using Google search data on relevant keywords, we construct a daily index of consumer panic for 54 countries from January 1st to April 30th 2020. We also assemble data on government policy announcements and daily COVID-19 cases for all countries. Our panic index reveals widespread consumer panic in most countries, primarily during March, but with significant variation in the timing and severity of panic between countries. Our model implies that both domestic and world virus transmission contribute significantly to consumer panic. But government policy is also important: Internal movement restrictions – whether announced by domestic or foreign governments – generate substantial short run panic that largely vanishes in a week to ten days. Internal movement restrictions announced early in the pandemic generated more panic than those announced later. Stimulus announcements had smaller impacts, and travel restrictions do not appear to generate consumer panic.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating the fraction of unreported infections in epidemics with a known epicenter: An application to COVID-19
+AU  - Hortaçsu, Ali
+AU  - Liu, Jiarui
+AU  - Schwieg, Timothy
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 106
+EP  - 129
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.047
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030302X
+AB  - We develop an analytically tractable method to estimate the fraction of unreported infections in epidemics with a known epicenter and estimate the number of unreported COVID-19 infections in the U.S. during the first half of March 2020. Our method utilizes the covariation in initial reported infections across U.S. regions and the number of travelers to these regions from the epicenter, along with the results of an early randomized testing study in Iceland. Using our estimates of the number of unreported infections, which are substantially larger than the number of reported infections, we also provide estimates for the infection fatality rate using data on reported COVID-19 fatalities from U.S. counties.
+ER  - 
+
+TY  - JOUR
+T1  - Causal impact of masks, policies, behavior on early covid-19 pandemic in the U.S.
+AU  - Chernozhukov, Victor
+AU  - Kasahara, Hiroyuki
+AU  - Schrimpf, Paul
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 23
+EP  - 62
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303468
+KW  - Covid-19
+KW  - Causal impact
+KW  - Masks
+KW  - Policies
+KW  - Behavior
+AB  - The paper evaluates the dynamic impact of various policies adopted by US states on the growth rates of confirmed Covid-19 cases and deaths as well as social distancing behavior measured by Google Mobility Reports, where we take into consideration people’s voluntarily behavioral response to new information of transmission risks in a causal structural model framework. Our analysis finds that both policies and information on transmission risks are important determinants of Covid-19 cases and deaths and shows that a change in policies explains a large fraction of observed changes in social distancing behavior. Our main counterfactual experiments suggest that nationally mandating face masks for employees early in the pandemic could have reduced the weekly growth rate of cases and deaths by more than 10 percentage points in late April and could have led to as much as 19 to 47 percent less deaths nationally by the end of May, which roughly translates into 19 to 47 thousand saved lives. We also find that, without stay-at-home orders, cases would have been larger by 6 to 63 percent and without business closures, cases would have been larger by 17 to 78 percent. We find considerable uncertainty over the effects of school closures due to lack of cross-sectional variation; we could not robustly rule out either large or small effects. Overall, substantial declines in growth rates are attributable to private behavioral response, but policies played an important role as well. We also carry out sensitivity analyses to find neighborhoods of the models under which the results hold robustly: the results on mask policies appear to be much more robust than the results on business closures and stay-at-home orders. Finally, we stress that our study is observational and therefore should be interpreted with great caution. From a completely agnostic point of view, our findings uncover predictive effects (association) of observed policies and behavioral changes on future health outcomes, controlling for informational and other confounding variables.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of the SEIRD epidemic model for COVID-19
+AU  - Korolev, Ivan
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 63
+EP  - 85
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.07.038
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302621
+KW  - Parameter identification
+KW  - COVID-19
+KW  - SEIR model
+KW  - Seemingly unrelated equations
+AB  - This paper studies the SEIRD epidemic model for COVID-19. First, I show that the model is poorly identified from the observed number of deaths and confirmed cases. There are many sets of parameters that are observationally equivalent in the short run but lead to markedly different long run forecasts. Second, I show that the basic reproduction number R0 can be identified from the data, conditional on epidemiologic parameters, and propose several nonlinear SUR approaches to estimate R0. I examine the performance of these methods using Monte Carlo studies and demonstrate that they yield fairly accurate estimates of R0. Next, I apply these methods to estimate R0 for the US, California, and Japan, and document heterogeneity in the value of R0 across regions. My estimation approach accounts for possible underreporting of the number of cases. I demonstrate that if one fails to take underreporting into account and estimates R0 from the reported cases data, the resulting estimate of R0 may be biased downward and the resulting forecasts may exaggerate the long run number of deaths. Finally, I discuss how auxiliary information from random tests can be used to calibrate the initial parameters of the model and narrow down the range of possible forecasts of the future number of deaths.
+ER  - 
+
+TY  - JOUR
+T1  - Panel forecasts of country-level Covid-19 infections
+AU  - Liu, Laura
+AU  - Moon, Hyungsik Roger
+AU  - Schorfheide, Frank
+JO  - Journal of Econometrics
+VL  - 220
+IS  - 1
+SP  - 2
+EP  - 22
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Pandemic Econometrics
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030347X
+KW  - Bayesian inference
+KW  - Covid-19
+KW  - Density forecasts
+KW  - Interval forecasts
+KW  - Panel data models
+KW  - Random effects
+KW  - SIR model
+AB  - We use a dynamic panel data model to generate density forecasts for daily active Covid-19 infections for a panel of countries/regions. Our specification that assumes the growth rate of active infections can be represented by autoregressive fluctuations around a downward sloping deterministic trend function with a break. Our fully Bayesian approach allows us to flexibly estimate the cross-sectional distribution of slopes and then implicitly use this distribution as prior to construct Bayes forecasts for the individual time series. We find some evidence that information from locations with an early outbreak can sharpen forecast accuracy for late locations. There is generally a lot of uncertainty about the evolution of active infection, due to parameter and shock uncertainty, in particular before and around the peak of the infection path. Over a one-week horizon, the empirical coverage frequency of our interval forecasts is close to the nominal credible level. Weekly forecasts from our model are published at https://laurayuliu.com/covid19-panel-forecast/.
+ER  - 

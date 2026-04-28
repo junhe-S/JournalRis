@@ -1,0 +1,302 @@
+TY  - JOUR
+T1  - Improved estimation of semiparametric dynamic copula models with filtered nonstationarity
+AU  - Chen, Xiaohong
+AU  - Wang, Bo
+AU  - Xiao, Zhijie
+AU  - Yi, Yanping
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105739
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105739
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400085X
+KW  - Copula
+KW  - Residual sieve maximum likelihood
+KW  - Risk measures
+KW  - Short-term dynamics
+KW  - Tail dependence
+KW  - Trend
+AB  - This paper considers estimation of short-run dynamics in time series that contain a nonstationary component. We assume that appropriate preliminary methods can be applied to the observed time series to separate short-run elements from long-run slowly evolving secular components, and focus on estimation of the short-run dynamics based on the filtered data. We use a flexible copula-generated Markov model to capture the nonlinear temporal dependence in the short-run component and study estimation of the copula model. Using the rescaled empirical distribution of the filtered data as an estimator of the marginal distribution, Chen et al. (2022) proposed a simple, yet flexible, two-step estimation procedure for the copula model. The two-step estimator works well when the tail dependence is small. However, simulations reveal that the two-step estimator may be biased in finite samples in the presence of tail dependence. To improve the performance of short-term dynamic analysis in the presence of tail dependence, we propose in this paper a pseudo sieve maximum likelihood (PSML) procedure to jointly estimate the residual copula parameter and the invariant density of the filtered residuals. We establish the root-n consistency and asymptotic distribution of the PSML estimator of any smooth functional of the residual copula parameter and invariant residual density. We further show that the PSML estimator of the residual copula parameter is asymptotically normal, with the limiting distribution independent of the filtration. Simulations reveal that in the presence of strong tail dependence, compared to the two-step estimates of Chen et al. (2022), the proposed PSML estimates have smaller biases and smaller mean squared errors even in small samples. Applications to nonstationary macro-finance and climate time series are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical inference for the low dimensional parameters of linear regression models in the presence of high-dimensional data: An orthogonal projection approach
+AU  - Hsiao, Cheng
+AU  - Zhou, Qiankun
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105851
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105851
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001969
+KW  - High dimensional model
+KW  - Series approximation
+KW  - Machine learning
+KW  - Lasso
+KW  - Orthogonal projection
+KW  - Sparsity
+AB  - We consider the estimation and statistical inference for low dimensional parameters for a regression model with covariates whose dimension increases with sample size. We suggest a computationally simple one stage orthogonal projection approach to estimate the low dimensional parameters under strict or approximate sparsity conditions. The orthogonal projection approach is simple to implement and the inference for the low dimensional parameters is straightforward to derive whether the high dimensional function is linear or nonlinear. It also avoids the complicated regularization bias issues commonly associated with two stage estimation methods. Monte Carlo simulations and empirical applications are also conducted to investigate the finite sample performance of the proposed estimator vs the double/debiased estimator of Belloni et al. (2014) and Chernozhukov et al. (2018).
+ER  - 
+
+TY  - JOUR
+T1  - Test of neglected heterogeneity in dyadic models
+AU  - Hahn, Jinyong
+AU  - Moon, Hyungsik Roger
+AU  - Shi, Ruoyao
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105736
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105736
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000824
+KW  - Lagrange multiplier test
+KW  - Dyadic regression model
+KW  - Error component panel regression model
+KW  - Fixed effects
+KW  - Local power
+AB  - We develop a Lagrange Multiplier (LM) test of neglected heterogeneity in dyadic models. The test statistic is derived by modifying Breusch and Pagan (1980)’s test. We establish the asymptotic distribution of the test statistic under the null using a novel martingale construction. We also consider the power of the LM test in generic panel models. Even though the test is motivated by random effects, we show that it has a power for detecting fixed effects as well. Finally, we examine how the estimation noise of the maximum likelihood estimator affects the asymptotic distribution of the test under the null, and show that such a noise may be ignored in large samples.
+ER  - 
+
+TY  - JOUR
+T1  - Increasing the power of moment-based tests
+AU  - Woutersen, Tiemen
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 106008
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000624
+KW  - Overidentification test
+KW  - Hansen test
+KW  - Power of tests
+AB  - This paper shows how to increase the power of the Hansen (1982) test for the case where only a subset of the exclusion restrictions is used. The ‘ignored’ exclusion restrictions are used to derive a new estimator for the covariance matrix, which has a different probability limit than the usual one when the model is false. If the null hypothesis is true, then the proposed test has the same distribution as the existing ones in large samples. If the hypothesis is false, then the proposed test statistic is larger with probability approaching one as the sample size increases in several important examples. Simulations show that the improvement can be substantial. As the Hansen (1982) test is very popular in empirical work, including testing the validity of Euler equations, we expect the current results to be useful as well.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 106137
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(25)00190-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625001903
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinear budget set regressions in random utility models: Theory and application to taxable income
+AU  - Blomquist, Soren
+AU  - Kumar, Anil
+AU  - Liang, Che-Yuan
+AU  - Newey, Whitney K.
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105859
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105859
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002045
+KW  - Nonlinear budget sets
+KW  - Nonparametric estimation
+KW  - Heterogeneous preferences
+KW  - Taxable income
+KW  - Revealed stochastic preference
+AB  - This paper is about the nonparametric regression of a choice variable on a nonlinear budget set under utility maximization with general heterogeneity, i.e. in the random utility model (RUM). We show that utility maximization and convex budget sets make this regression three dimensional with a more parsimonious specification than previously derived. We show that nonconvexities in the budget set will have little effect on these results in important cases. We characterize all the restrictions of utility maximization on the budget set regression and show how to check these restrictions in applications. We formulate budget set effects that can be identified by this regression and give automatic debiased machine learners of these effects. We consider use of control functions to allow for endogeneity. Throughout we take as the main example the effect of taxes on taxable income including accounting for productivity growth. In an application to Swedish data we find the taxable income elasticity of a change in the slope of each segment to be .52, that the regression satisfies the restrictions of utility maximization at the values chosen for over 95% of observations, and that a productivity growth rate we estimate is close to other estimates.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of partial effects in nonlinear semiparametric panel models
+AU  - Liu, Laura
+AU  - Poirier, Alexandre
+AU  - Shiu, Ji-Liang
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105860
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105860
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002057
+KW  - Average partial effects
+KW  - Panel data
+KW  - Nonlinear models
+KW  - Semiparametric estimation
+KW  - Unobserved individual heterogeneity
+KW  - Binary response models
+AB  - Average partial effects (APEs) are often not point identified in panel models with unrestricted unobserved individual heterogeneity, as in binary response panel models with fixed effects and logistic errors for example. This lack of point identification occurs despite the identification of these models’ common coefficients. We provide a unified framework to establish the point identification of various partial effects in a wide class of nonlinear semiparametric models under an index sufficiency assumption on the unobserved heterogeneity, even when the error distribution is unspecified and non-stationary. This assumption does not impose parametric restrictions on the unobserved heterogeneity and idiosyncratic errors. We also present partial identification results when the support condition fails. We then propose three-step semiparametric estimators for APEs, average structural functions, and average marginal effects, and show their consistency and asymptotic normality. Finally, we illustrate our approach in a study of determinants of married women’s labor supply.
+ER  - 
+
+TY  - JOUR
+T1  - Phase transitions in nonparametric regressions
+AU  - Zhu, Ying
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105640
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105640
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003561
+KW  - Phase transition
+KW  - Smooth functions
+KW  - Covering and packing numbers
+KW  - Minimax optimality
+KW  - Nonparametric regressions
+AB  - When the unknown regression function of a single variable is known to have derivatives up to the (γ+1)th order bounded in absolute values by a common constant everywhere or a.e. (i.e., (γ+1)th degree of smoothness), the minimax optimal rate of the mean integrated squared error (MISE) is stated as 1n2γ+22γ+3 in the literature. This paper shows that: (i) if n≤γ+12γ+3, the minimax optimal MISE rate is lognnlog(logn) and the optimal degree of smoothness to exploit is roughly maxlogn2loglogn,1; (ii) if n>γ+12γ+3, the minimax optimal MISE rate is 1n2γ+22γ+3 and the optimal degree of smoothness to exploit is γ+1. The fundamental contribution of this paper is a set of metric entropy bounds we develop for smooth function classes. Some of our bounds are original, and some of them improve and/or generalize the ones in the literature (e.g., Kolmogorov and Tikhomirov, 1959). Our metric entropy bounds allow us to show phase transitions in the minimax optimal MISE rates associated with some commonly seen smoothness classes as well as non-standard smoothness classes, and can also be of independent interest outside the nonparametric regression problems.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring the effects of segregation in the presence of social spillovers: A nonparametric approach
+AU  - Graham, Bryan S.
+AU  - Imbens, Guido W.
+AU  - Ridder, Geert
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 106006
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625000600
+KW  - Social interactions
+KW  - Peer group effects
+KW  - Sorting
+KW  - Segregation
+KW  - Equity vs. efficiency trade-off
+KW  - Allocation problems
+KW  - Semiparametric M-estimation
+AB  - In this paper we nonparametrically analyze the effects of reallocating individuals across social groups in the presence of social spillovers. Individuals are either ‘high’ or ‘low’ types. Own outcomes may vary with the fraction of high types in one’s social group. We characterize the average outcome and inequality effects of small increases in segregation by type. We also provide a measure of average spillover strength. We generalize the setup used by Benabou (1996) and others to study sorting in the presence of social spillovers by incorporating unobserved individual- and group-level heterogeneity. We relate our reallocation estimands to this theory. For each estimand we provide conditions for nonparametric identification, propose estimators, and characterize their large sample properties. We also consider the social planner’s problem. We illustrate our approach by studying the effects of sex segregation in classrooms on mathematics achievement.
+ER  - 
+
+TY  - JOUR
+T1  - Introduction to the Annals Issue in Honor of James Powell
+AU  - Graham, Bryan
+AU  - Ichimura, Hidehiko
+AU  - Jansson, Michael
+AU  - Khan, Shakeeb
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 106051
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2025.106051
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407625001058
+ER  - 
+
+TY  - JOUR
+T1  - Loss aversion and the welfare ranking of policy interventions
+AU  - Firpo, Sergio
+AU  - Galvao, Antonio F.
+AU  - Kobus, Martyna
+AU  - Parker, Thomas
+AU  - Rosa-Dias, Pedro
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105643
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105643
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623003597
+KW  - Welfare
+KW  - Loss aversion
+KW  - Policy evaluation
+KW  - Stochastic ordering
+KW  - Directional differentiability
+AB  - This paper develops theoretical criteria and econometric methods to rank policy interventions in terms of welfare when individuals are loss-averse. Our new criterion for “loss aversion-sensitive dominance” defines a weak partial ordering of the distributions of policy-induced gains and losses. It applies to the class of welfare functions which model individual preferences with non-decreasing and loss-averse attitudes towards changes in outcomes. We also develop new semiparametric statistical methods to test loss aversion-sensitive dominance in practice, using nonparametric plug-in estimates; these allow inference to be conducted through a special resampling procedure. Since point-identification of the distribution of policy-induced gains and losses may require strong assumptions, we extend our comparison criteria, test statistics, and resampling procedures to the partially-identified case. We illustrate our methods with a simple empirical application to the welfare comparison of alternative income support programs in the US.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of time-varying counterfactual parameters in nonlinear panel models
+AU  - Botosaru, Irene
+AU  - Muris, Chris
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105639
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105639
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762300355X
+KW  - Index model
+KW  - Panel data
+KW  - Fixed effects
+KW  - Average structural function
+KW  - Semiparametric
+KW  - Binary choice
+KW  - Discrete choice
+KW  - Censored regression
+AB  - We develop a general framework for the identification of counterfactual parameters in a class of nonlinear semiparametric panel models with fixed effects and time effects. Our method applies to models for discrete outcomes (e.g., two-way fixed effects binary choice) or continuous outcomes (e.g., censored regression), with discrete or continuous regressors. Our results do not require parametric assumptions on the error terms or time-homogeneity on the outcome equation. Our main results focus on static models, with a set of results applying to models without any exogeneity conditions. We show that the survival distribution of counterfactual outcomes is identified (point or partial) in this class of models. This parameter is a building block for most partial and marginal effects of interest in applied practice that are based on the average structural function as defined by Blundell and Powell (2003, 2004). To the best of our knowledge, ours are the first results on average partial and marginal effects for binary choice and ordered choice models with two-way fixed effects and non-logistic errors.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating high dimensional monotone index models by iterative convex optimization
+AU  - Khan, Shakeeb
+AU  - Lan, Xiaoying
+AU  - Tamer, Elie
+AU  - Yao, Qingsong
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105901
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105901
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002525
+KW  - Monotone index models
+KW  - Convex optimization
+KW  - Kernel and sieve estimation
+AB  - In this paper we propose new approaches to estimating large dimensional monotone index models. This class of models has been popular in the applied and theoretical econometrics literatures as it includes discrete choice, nonparametric transformation, and duration models. A main advantage of our approach is computational. For instance, rank estimation procedures such as those proposed in [13] and [7] that optimize a nonsmooth, nonconvex objective function are difficult to use with more than a few regressors, which limits their use with economic data sets. For such monotone index models with increasing dimension, we propose to use a new class of estimators based on batched gradient descent (BGD) involving nonparametric methods such as kernel estimation or sieve estimation, and study their asymptotic properties. The algorithm uses an iterative procedure where the key step exploits a strictly convex objective function, resulting in contraction map. A contribution of our approach is that our model is large dimensional and semiparametric so does not require the use of parametric distributional assumptions.
+ER  - 
+
+TY  - JOUR
+T1  - Higher-order refinements of small bandwidth asymptotics for density-weighted average derivative estimators
+AU  - Cattaneo, Matias D.
+AU  - Farrell, Max H.
+AU  - Jansson, Michael
+AU  - Masini, Ricardo P.
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105855
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105855
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002008
+KW  - Density weighted average derivatives
+KW  - Edgeworth expansions
+KW  - Small bandwidth asymptotics
+AB  - The density weighted average derivative (DWAD) of a regression function is a canonical parameter of interest in economics. Classical first-order large sample distribution theory for kernel-based DWAD estimators relies on tuning parameter restrictions and model assumptions that imply an asymptotic linear representation of the point estimator. These conditions can be restrictive, and the resulting distributional approximation may not be representative of the actual sampling distribution of the statistic of interest. In particular, the approximation is not robust to bandwidth choice. Small bandwidth asymptotics offers an alternative, more general distributional approximation for kernel-based DWAD estimators that allows for, but does not require, asymptotic linearity. The resulting inference procedures based on small bandwidth asymptotics were found to exhibit superior finite sample performance in simulations, but no formal theory justifying that empirical success is available in the literature. Employing Edgeworth expansions, this paper shows that small bandwidth asymptotic approximations lead to inference procedures with higher-order distributional properties that are demonstrably superior to those of procedures based on asymptotic linear approximations.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of wage inequality in the UK by quantile regression with censored selection
+AU  - Chen, Songnian
+AU  - Liu, Nianqing
+AU  - Zhang, Hanghui
+AU  - Zhou, Yahong
+JO  - Journal of Econometrics
+VL  - 252
+SP  - 105733
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105733
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000794
+KW  - Wage inequality
+KW  - Exclusion restriction
+KW  - Quantile regression
+KW  - Censored selection
+AB  - Arellano and Bonhomme (2017) proposed a quantile selection model to study the evolution of wage inequality in the UK, which specifies a binary selection equation and requires an exclusion restriction. In this paper we propose a quantile selection model with a more informative censored selection equation. Following Heckman (1974, 1979), Heckman and Sedlacek (1990), and Blundell et al. (2003), among others, the employment selection equation could be equivalently modeled by an hours worked equation through a censored selection. In our model, both the outcome and selection equations are specified as semiparametric quantile regressions, and no exclusion restriction is needed. We propose a quantile selection estimator that was applied to study wage inequality using the same data as in Arellano and Bonhomme (2017). Among our major findings based on our method, after adjusting for sample selection, (i) there is significant negative selection among males, in contrast to the finding of significant positive selection by Arellano and Bonhomme (2017); (ii) similar to Arellano and Bonhomme (2017), we also find positive selection for females, but our selection effects are more significant than those of Arellano and Bonhomme (2017) (See Section 5 for more details); (iii) the gender wage gap has remained large and accounting for selection leads to much smaller reduction in the gender wage gap over time, compared with the observed wage distribution and that of Arellano and Bonhomme (2017).
+ER  - 

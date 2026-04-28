@@ -1,0 +1,927 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Advances in Blockchain and Crypto Economics
+AU  - Biais, Bruno
+AU  - Capponi, Agostino
+AU  - Cong, Lin William
+AU  - Gaur, Vishal
+AU  - Giesecke, Kay
+Y1  - 2023/10/24
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.intro.v69.n11
+DO  - 10.1287/mnsc.2023.intro.v69.n11
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6417
+EP  - 6426
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Over the past decade, blockchains and cryptocurrencies have taken a central stage in financial technology (FinTech) innovation. In 2020?2021, as the academic finance and management community began actively investigating this domain, we issued a call for papers for a special issue to encourage interdisciplinary research in this emerging area. This section of Management Science presents the first systematic collection of knowledge, both theoretical and empirical, focusing on blockchain economics, crypto assets, decentralized finance, and Web3 ecosystems. We describe the editorial protocol employed for this special issue (now included in this volume as a special section), summarize what we learn about the field, and introduce the 15 articles included in the special section. We also offer several observations to highlight foundational issues in the new field and to guide future research in this exciting new area at the intersection of technology and finance.
+AB  - Over the past decade, blockchains and cryptocurrencies have taken a central stage in financial technology (FinTech) innovation. In 2020?2021, as the academic finance and management community began actively investigating this domain, we issued a call for papers for a special issue to encourage interdisciplinary research in this emerging area. This section of Management Science presents the first systematic collection of knowledge, both theoretical and empirical, focusing on blockchain economics, crypto assets, decentralized finance, and Web3 ecosystems. We describe the editorial protocol employed for this special issue (now included in this volume as a special section), summarize what we learn about the field, and introduce the 15 articles included in the special section. We also offer several observations to highlight foundational issues in the new field and to guide future research in this exciting new area at the intersection of technology and finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.intro.v69.n11
+UR  - https://doi.org/10.1287/mnsc.2023.intro.v69.n11
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Crypto Wash Trading
+AU  - Cong, Lin William
+AU  - Li, Xi
+AU  - Tang, Ke
+AU  - Yang, Yang
+Y1  - 2023/09/19
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2021.02709
+DO  - 10.1287/mnsc.2021.02709
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6427
+EP  - 6454
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We present the first systematic approach to detect fake transactions on cryptocurrency exchanges by exploiting robust statistical and behavioral regularities associated with authentic trading. Our sample consists of 29 centralized exchanges, among which the regulated ones feature transaction patterns consistently observed in financial markets and nature. In contrast, unregulated exchanges display abnormal first significant digit distributions, size rounding, and transaction tail distributions, indicating widespread manipulation unlikely driven by a specific trading strategy or exchange heterogeneity. We then quantify the wash trading on each unregulated exchange, which averaged more than 70% of the reported volume. We further document how these fabricated volumes (trillions of dollars annually) improve exchange ranking, temporarily distort prices, and relate to exchange characteristics (e.g., age and user base), market conditions, and regulation. Overall, our study cautions against potential market manipulations on centralized crypto exchanges with concentrated power and limited disclosure requirements and highlights the importance of fintech regulation.This paper was accepted by David Simchi-Levi, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This research was partly funded by the Ewing Marion Kauffman Foundation [Grant G-201907-6995], the National Natural Science Foundation of China [Grants 72192802, 72192800, and 72192801], Ripple?s University Blockchain Research Initiative (UBRI), and the FinTech at Cornell Initiative.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.02709.
+AB  - We present the first systematic approach to detect fake transactions on cryptocurrency exchanges by exploiting robust statistical and behavioral regularities associated with authentic trading. Our sample consists of 29 centralized exchanges, among which the regulated ones feature transaction patterns consistently observed in financial markets and nature. In contrast, unregulated exchanges display abnormal first significant digit distributions, size rounding, and transaction tail distributions, indicating widespread manipulation unlikely driven by a specific trading strategy or exchange heterogeneity. We then quantify the wash trading on each unregulated exchange, which averaged more than 70% of the reported volume. We further document how these fabricated volumes (trillions of dollars annually) improve exchange ranking, temporarily distort prices, and relate to exchange characteristics (e.g., age and user base), market conditions, and regulation. Overall, our study cautions against potential market manipulations on centralized crypto exchanges with concentrated power and limited disclosure requirements and highlights the importance of fintech regulation.This paper was accepted by David Simchi-Levi, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This research was partly funded by the Ewing Marion Kauffman Foundation [Grant G-201907-6995], the National Natural Science Foundation of China [Grants 72192802, 72192800, and 72192801], Ripple?s University Blockchain Research Initiative (UBRI), and the FinTech at Cornell Initiative.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.02709.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02709
+UR  - https://doi.org/10.1287/mnsc.2021.02709
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Proof-of-Work Cryptocurrencies: Does Mining Technology Undermine Decentralization?
+AU  - Capponi, Agostino
+AU  - Ólafsson, Sveinn
+AU  - Alsabah, Humoud
+Y1  - 2023/08/08
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4840
+DO  - 10.1287/mnsc.2023.4840
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6455
+EP  - 6481
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Does the proof-of-work consensus protocol serve its intended purpose of supporting decentralized cryptocurrency mining? To address this question, we develop a game-theoretical model in which miners first invest in hardware to improve the efficiency of their operations and then compete for mining rewards in a rent-seeking game. We show that centralization grows with heterogeneity in mining costs, but hardware capacity constraints prevent the most efficient miners from monopolizing the mining process. Investment leads to a more decentralized network unless larger miners have a significant comparative advantage in acquiring new hardware. Our model generates empirically supported implications: (i) mining centralization is countercyclical with respect to mining reward, and (ii) a change in mining reward leads to a less-than-proportional change in hash rates.This paper was accepted by David Simchi-Levi, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data file is available at https://doi.org/10.1287/mnsc.2023.4840.
+AB  - Does the proof-of-work consensus protocol serve its intended purpose of supporting decentralized cryptocurrency mining? To address this question, we develop a game-theoretical model in which miners first invest in hardware to improve the efficiency of their operations and then compete for mining rewards in a rent-seeking game. We show that centralization grows with heterogeneity in mining costs, but hardware capacity constraints prevent the most efficient miners from monopolizing the mining process. Investment leads to a more decentralized network unless larger miners have a significant comparative advantage in acquiring new hardware. Our model generates empirically supported implications: (i) mining centralization is countercyclical with respect to mining reward, and (ii) a change in mining reward leads to a less-than-proportional change in hash rates.This paper was accepted by David Simchi-Levi, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data file is available at https://doi.org/10.1287/mnsc.2023.4840.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4840
+UR  - https://doi.org/10.1287/mnsc.2023.4840
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Why Fixed Costs Matter for Proof-of-Work–Based Cryptocurrencies
+AU  - Garratt, Rodney J.
+AU  - van Oordt, Maarten R. C.
+Y1  - 2023/09/19
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4901
+DO  - 10.1287/mnsc.2023.4901
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6482
+EP  - 6507
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We assess how the cost structure of cryptocurrency mining affects the response of miners to exchange rate fluctuations and the immutability of cryptocurrency ledgers that rely on proof-of-work. We show that the amount of mining power supplied to currencies that rely on specialized hardware, such as Bitcoin, responds less to adverse exchange rate shocks than other currencies respond to such shocks, a fact that is instrumental to avoiding double-spending attacks. The results may change if mining equipment used for one cryptocurrency can be transferred to another. For smaller currencies with low exchange rate correlation, transferability eliminates the protection that fixed costs provide. Our results weaken doomsday predictions for Bitcoin and other cryptocurrencies with declining block rewards.This paper was accepted by Bruno Biais, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4901.
+AB  - We assess how the cost structure of cryptocurrency mining affects the response of miners to exchange rate fluctuations and the immutability of cryptocurrency ledgers that rely on proof-of-work. We show that the amount of mining power supplied to currencies that rely on specialized hardware, such as Bitcoin, responds less to adverse exchange rate shocks than other currencies respond to such shocks, a fact that is instrumental to avoiding double-spending attacks. The results may change if mining equipment used for one cryptocurrency can be transferred to another. For smaller currencies with low exchange rate correlation, transferability eliminates the protection that fixed costs provide. Our results weaken doomsday predictions for Bitcoin and other cryptocurrencies with declining block rewards.This paper was accepted by Bruno Biais, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4901.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4901
+UR  - https://doi.org/10.1287/mnsc.2023.4901
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - StableFees: A Predictable Fee Market for Cryptocurrencies
+AU  - Basu, Soumya
+AU  - Easley, David
+AU  - O’Hara, Maureen
+AU  - Sirer, Emin Gün
+Y1  - 2023/03/31
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4735
+DO  - 10.1287/mnsc.2023.4735
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6508
+EP  - 6524
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Blockchain-based cryptocurrencies must solve the problem of assigning priorities to competing transactions. The most widely used mechanism involves each transaction offering a fee to be paid once the transaction is processed, but this discriminatory price mechanism fails to yield stable equilibria with predictable prices. We propose an alternate fee setting mechanism, StableFees, that is based on uniform price auctions. We prove that our proposed protocol is free from manipulation by users and miners as the number of users and miners increases and show empirically that gains from manipulation are small in practice. We show that StableFees reduces the fees paid by users and reduces the variance of fee income to miners. Data from December 2017 show that, if implemented, StableFees could have saved Bitcoin users $272,528,000 USD in transaction fees while reducing the variance of miner?s fee income, on average, by a factor of 7.4. We argue that our fee protocol also has important social welfare and environmental benefits.This paper was accepted by Agostino Capponi, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4735.
+AB  - Blockchain-based cryptocurrencies must solve the problem of assigning priorities to competing transactions. The most widely used mechanism involves each transaction offering a fee to be paid once the transaction is processed, but this discriminatory price mechanism fails to yield stable equilibria with predictable prices. We propose an alternate fee setting mechanism, StableFees, that is based on uniform price auctions. We prove that our proposed protocol is free from manipulation by users and miners as the number of users and miners increases and show empirically that gains from manipulation are small in practice. We show that StableFees reduces the fees paid by users and reduces the variance of fee income to miners. Data from December 2017 show that, if implemented, StableFees could have saved Bitcoin users $272,528,000 USD in transaction fees while reducing the variance of miner?s fee income, on average, by a factor of 7.4. We argue that our fee protocol also has important social welfare and environmental benefits.This paper was accepted by Agostino Capponi, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4735.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4735
+UR  - https://doi.org/10.1287/mnsc.2023.4735
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Scaling Blockchains: Can Committee-Based Consensus Help?
+AU  - Benhaim, Alon
+AU  - Falk, Brett H.
+AU  - Tsoukalas, Gerry
+Y1  - 2023/10/10
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.03177
+DO  - 10.1287/mnsc.2022.03177
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6525
+EP  - 6539
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - In the high-stakes race for scalability, some blockchains have turned to committee-based consensus (CBC), whereby the chain?s recordkeeping rights are entrusted to a committee of block producers elected via approval voting. Smaller committees boost speed and scalability but can compromise security when voters have limited information. In this environment, voting strategies are naturally nonlinear, and equilibria can become intractable. Despite this, we show that elections converge to optimality asymptotically (in voter numbers), exponentially quickly, and under relatively weak informational requirements. Compared to popular stake-weighted lottery and single-vote protocols used in practice, we find that CBC, when paired with approval voting, can offer meaningful efficiency and robustness gains if enough voters are engaged.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This work was funded by The Hogeg Blockchain Research Institute.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.03177.
+AB  - In the high-stakes race for scalability, some blockchains have turned to committee-based consensus (CBC), whereby the chain?s recordkeeping rights are entrusted to a committee of block producers elected via approval voting. Smaller committees boost speed and scalability but can compromise security when voters have limited information. In this environment, voting strategies are naturally nonlinear, and equilibria can become intractable. Despite this, we show that elections converge to optimality asymptotically (in voter numbers), exponentially quickly, and under relatively weak informational requirements. Compared to popular stake-weighted lottery and single-vote protocols used in practice, we find that CBC, when paired with approval voting, can offer meaningful efficiency and robustness gains if enough voters are engaged.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This work was funded by The Hogeg Blockchain Research Institute.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.03177.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03177
+UR  - https://doi.org/10.1287/mnsc.2022.03177
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Can Blockchain Technology Help Overcome Contractual Incompleteness? Evidence from State Laws
+AU  - Chen, Mark A.
+AU  - Hu, Shuting Sophia
+AU  - Wang, Joanna
+AU  - Wu, Qinxi
+Y1  - 2023/09/27
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.04139
+DO  - 10.1287/mnsc.2022.04139
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6540
+EP  - 6567
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Real-world contractual agreements between firms are often incomplete, leading to suboptimal investment and loss of value in supply chain relationships. To what extent can blockchain technology help alleviate problems arising from contractual incompleteness? We examine this issue by exploiting a quasi-natural experiment based on the staggered adoption of U.S. state laws that increased firms? in-state ability to develop, adopt, and use blockchain technology. We find that, after exposure to a pro-blockchain law, firms with greater asset specificity exhibit more positive changes to Tobin?s Q, research and development, and blockchain-related innovation. Also, such firms appear to rely less on vertical integration, form more strategic alliances, and shift their emphasis to less geographically proximate customers. Overall, our results suggest that blockchain technology can help firms remedy constraints and inefficiencies arising from contractual incompleteness.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.04139.
+AB  - Real-world contractual agreements between firms are often incomplete, leading to suboptimal investment and loss of value in supply chain relationships. To what extent can blockchain technology help alleviate problems arising from contractual incompleteness? We examine this issue by exploiting a quasi-natural experiment based on the staggered adoption of U.S. state laws that increased firms? in-state ability to develop, adopt, and use blockchain technology. We find that, after exposure to a pro-blockchain law, firms with greater asset specificity exhibit more positive changes to Tobin?s Q, research and development, and blockchain-related innovation. Also, such firms appear to rely less on vertical integration, form more strategic alliances, and shift their emphasis to less geographically proximate customers. Overall, our results suggest that blockchain technology can help firms remedy constraints and inefficiencies arising from contractual incompleteness.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.04139.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.04139
+UR  - https://doi.org/10.1287/mnsc.2022.04139
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Tokenomics: When Tokens Beat Equity
+AU  - Malinova, Katya
+AU  - Park, Andreas
+Y1  - 2023/09/19
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4882
+DO  - 10.1287/mnsc.2023.4882
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6568
+EP  - 6583
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - In a token offering, investors fund a venture in exchange for tokens that grant rights to future economic output. To many financial industry insiders, tokens have no intrinsic merit and exist only as a way to evade regulations. We demonstrate that generic revenue-based token contracts are indeed economically inferior to equity and lead to over- or underproduction. However, an optimally designed token contract, which is a combination of an output presale and an incremental revenue-sharing agreement, yields the same payoffs as equity and debt. Moreover, with entrepreneurial moral hazard, tokens can finance a strictly larger set of ventures than equity.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This work was supported by the Social Sciences and Humanities Research Council of Canada and Canadian Securities Institute Research Foundation [Grants 20013075 and 435-2017-064]. Financial support from the Global Risk Institute and the Mackenzie Investment Chair in Evidence-Based Decision Making is also acknowledged.
+AB  - In a token offering, investors fund a venture in exchange for tokens that grant rights to future economic output. To many financial industry insiders, tokens have no intrinsic merit and exist only as a way to evade regulations. We demonstrate that generic revenue-based token contracts are indeed economically inferior to equity and lead to over- or underproduction. However, an optimally designed token contract, which is a combination of an output presale and an incremental revenue-sharing agreement, yields the same payoffs as equity and debt. Moreover, with entrepreneurial moral hazard, tokens can finance a strictly larger set of ventures than equity.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This work was supported by the Social Sciences and Humanities Research Council of Canada and Canadian Securities Institute Research Foundation [Grants 20013075 and 435-2017-064]. Financial support from the Global Risk Institute and the Mackenzie Investment Chair in Evidence-Based Decision Making is also acknowledged.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4882
+UR  - https://doi.org/10.1287/mnsc.2023.4882
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - De-Crypto-ing Signals in Initial Coin Offerings: Evidence of Rational Token Retention
+AU  - Davydiuk, Tetiana
+AU  - Gupta, Deeksha
+AU  - Rosen, Samuel
+Y1  - 2023/01/06
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.4631
+DO  - 10.1287/mnsc.2022.4631
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6584
+EP  - 6624
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Using the market for initial coin offerings (ICOs) as a laboratory, we provide evidence that entrepreneurs use retention to alleviate information asymmetry. The underlying technology and the absence of regulation make the ICO market well suited to study this question empirically. Using a hand-collected data set, we show that ICO issuers that retain a larger fraction of their tokens are more successful in their funding efforts and are more likely to develop a working product. Moreover, we find that retention is a stronger signal when markets are crowded, and investors do not have as much time to conduct due diligence.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4631.
+AB  - Using the market for initial coin offerings (ICOs) as a laboratory, we provide evidence that entrepreneurs use retention to alleviate information asymmetry. The underlying technology and the absence of regulation make the ICO market well suited to study this question empirically. Using a hand-collected data set, we show that ICO issuers that retain a larger fraction of their tokens are more successful in their funding efforts and are more likely to develop a working product. Moreover, we find that retention is a stronger signal when markets are crowded, and investors do not have as much time to conduct due diligence.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4631.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4631
+UR  - https://doi.org/10.1287/mnsc.2022.4631
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Utility Tokens, Network Effects, and Pricing Power
+AU  - Shakhnov, Kirill
+AU  - Zaccaria, Luana
+Y1  - 2023/09/26
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4917
+DO  - 10.1287/mnsc.2023.4917
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6625
+EP  - 6640
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We examine digital product markets in which consumers are heterogeneous in their propensity to actively interact with other users and valuations increase with the share of active users (e.g., social network platforms). We propose a model in which entrepreneurs can issue digital claims (tokens) to promise exclusive access to benefits that specifically enhance the utility of active users. This allows entrepreneurs to extract consumer surplus through price discrimination. Because there is an incentive to renege on the ?exclusivity? promise ex post and expand the network of active users, the credibility of this commitment resides in a costly technology (blockchain) that embeds automatic contracts in the tokens sold and limits entrepreneurial discretion. We show that the profitability of token-based sales increases with entrepreneurial ability and the intensity of network effects.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2023.4917.
+AB  - We examine digital product markets in which consumers are heterogeneous in their propensity to actively interact with other users and valuations increase with the share of active users (e.g., social network platforms). We propose a model in which entrepreneurs can issue digital claims (tokens) to promise exclusive access to benefits that specifically enhance the utility of active users. This allows entrepreneurs to extract consumer surplus through price discrimination. Because there is an incentive to renege on the ?exclusivity? promise ex post and expand the network of active users, the credibility of this commitment resides in a costly technology (blockchain) that embeds automatic contracts in the tokens sold and limits entrepreneurial discretion. We show that the profitability of token-based sales increases with entrepreneurial ability and the intensity of network effects.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2023.4917.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4917
+UR  - https://doi.org/10.1287/mnsc.2023.4917
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Conflicted Analysts and Initial Coin Offerings
+AU  - Barth, Andreas
+AU  - Laturnus, Valerie
+AU  - Mansouri, Sasan
+AU  - Wagner, Alexander F.
+Y1  - 2023/09/07
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2021.02928
+DO  - 10.1287/mnsc.2021.02928
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6641
+EP  - 6666
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - This paper studies the contribution of analysts to the functioning and failure of the market for initial coin offerings (ICOs). The assessments of freelancing analysts exhibit biases because of reciprocal interactions of analysts with ICO team members. Even favorably rated ICOs tend to fail raising some capital when a greater portion of their ratings reciprocate prior ratings. Ninety days after listing on an exchange, the market capitalization relative to the initial funds raised is smaller for tokens with more reciprocal ratings. These findings suggest that conflicts of interest help explain the failure of ICOs.This paper was accepted by Bruno Biais, Special Section of Management Science: Blockchains and Crypto Economics.Funding: A. Barth acknowledges financial support from the Chaire Fintech at University Paris Dauphine - PSL. A. F. Wagner acknowledges financial support from the University of Zurich Research Priority Program ?Financial market regulation.? This paper was initiated when A. F. Wagner was visiting the Center for Advanced Studies on the Foundations of Law and Finance, funded by the German Research Foundation under the project FOR 2774 at Goethe University Frankfurt.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.02928.
+AB  - This paper studies the contribution of analysts to the functioning and failure of the market for initial coin offerings (ICOs). The assessments of freelancing analysts exhibit biases because of reciprocal interactions of analysts with ICO team members. Even favorably rated ICOs tend to fail raising some capital when a greater portion of their ratings reciprocate prior ratings. Ninety days after listing on an exchange, the market capitalization relative to the initial funds raised is smaller for tokens with more reciprocal ratings. These findings suggest that conflicts of interest help explain the failure of ICOs.This paper was accepted by Bruno Biais, Special Section of Management Science: Blockchains and Crypto Economics.Funding: A. Barth acknowledges financial support from the Chaire Fintech at University Paris Dauphine - PSL. A. F. Wagner acknowledges financial support from the University of Zurich Research Priority Program ?Financial market regulation.? This paper was initiated when A. F. Wagner was visiting the Center for Advanced Studies on the Foundations of Law and Finance, funded by the German Research Foundation under the project FOR 2774 at Goethe University Frankfurt.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.02928.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02928
+UR  - https://doi.org/10.1287/mnsc.2021.02928
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Decentralized Platforms: Governance, Tokenomics, and ICO Design
+AU  - Gan, Jingxing (Rowena)
+AU  - Tsoukalas, Gerry
+AU  - Netessine, Serguei
+Y1  - 2023/09/12
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2021.02076
+DO  - 10.1287/mnsc.2021.02076
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6667
+EP  - 6683
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Traditional two-sided platforms (e.g., Amazon, Uber) rely primarily on commission contracts to generate revenues and fuel growth, whereas their decentralized counterparts (e.g., Uniswap, Filecoin) often forego these in favor of token retention. What economics underpin this choice? We show that with properly designed initial coin offerings (ICOs), both mechanisms can independently alleviate market failures at the initial fundraising stage and incentivize long-term platform building. However, they achieve this in different ways. Although commission contracts often lead to higher profits for founders, token retention leads to higher service levels, benefiting the users and service providers. In essence, token retention surrenders a fraction of earnings to better align with the tenets of decentralized governance. Combining both mechanisms can add value, but only in relatively limited cases. These findings offer guidance and a possible rationale for why platforms may want to favor one mechanism over the other or use both.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This work is funded by the Mack Institute at the Wharton School, University of Pennsylvania.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.02076.
+AB  - Traditional two-sided platforms (e.g., Amazon, Uber) rely primarily on commission contracts to generate revenues and fuel growth, whereas their decentralized counterparts (e.g., Uniswap, Filecoin) often forego these in favor of token retention. What economics underpin this choice? We show that with properly designed initial coin offerings (ICOs), both mechanisms can independently alleviate market failures at the initial fundraising stage and incentivize long-term platform building. However, they achieve this in different ways. Although commission contracts often lead to higher profits for founders, token retention leads to higher service levels, benefiting the users and service providers. In essence, token retention surrenders a fraction of earnings to better align with the tenets of decentralized governance. Combining both mechanisms can add value, but only in relatively limited cases. These findings offer guidance and a possible rationale for why platforms may want to favor one mechanism over the other or use both.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: This work is funded by the Mack Institute at the Wharton School, University of Pennsylvania.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.02076.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02076
+UR  - https://doi.org/10.1287/mnsc.2021.02076
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Model of Cryptocurrencies
+AU  - Sockin, Michael
+AU  - Xiong, Wei
+Y1  - 2023/04/11
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4756
+DO  - 10.1287/mnsc.2023.4756
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6684
+EP  - 6707
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We model cryptocurrencies as utility tokens used by a decentralized digital platform to facilitate transactions between users of certain goods or services. The network effect governing user participation, in conjunction with the nonneutrality of the token price, can cause the token market to break down. We show that token retradeability mitigates this risk of breakdown on younger platforms by harnessing user optimism but worsens this fragility when sentiment trading by speculators crowds out users. Elastic token issuance mitigates this fragility, but strategic attacks by miners exacerbate it because users? anticipation of future losses depresses the token?s resale value.This paper was accepted by Agostino Capponi, Special Section of Management Science: Blockchains and Crypto Economics.
+AB  - We model cryptocurrencies as utility tokens used by a decentralized digital platform to facilitate transactions between users of certain goods or services. The network effect governing user participation, in conjunction with the nonneutrality of the token price, can cause the token market to break down. We show that token retradeability mitigates this risk of breakdown on younger platforms by harnessing user optimism but worsens this fragility when sentiment trading by speculators crowds out users. Elastic token issuance mitigates this fragility, but strategic attacks by miners exacerbate it because users? anticipation of future losses depresses the token?s resale value.This paper was accepted by Agostino Capponi, Special Section of Management Science: Blockchains and Crypto Economics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4756
+UR  - https://doi.org/10.1287/mnsc.2023.4756
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Central Bank Digital Currency and Banking: Macroeconomic Benefits of a Cash-Like Design
+AU  - Chiu, Jonathan
+AU  - Davoodalhosseini, Seyed Mohammadreza
+Y1  - 2023/08/31
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2021.02763
+DO  - 10.1287/mnsc.2021.02763
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6708
+EP  - 6730
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Many central banks are considering issuing a central bank digital currency (CBDC). How will the CBDC affect the macroeconomy? Will its design matter? To answer these questions, we theoretically and quantitatively assess the effects of a CBDC on consumption, banking, and welfare. Our model captures the competition between different means of payments and incorporates a novel general equilibrium feedback effect from transactions to deposits creation. The general equilibrium effects of a CBDC are decomposed into three channels: payment efficiency, price effects, and bank funding costs. We show that a cash-like CBDC is more effective than a deposit-like CBDC in promoting consumption and welfare. Interestingly, a cash-like CBDC can also crowd in banking, even in the absence of bank market power. In a calibrated model, at the maximum, a cash-like CBDC can increase bank intermediation by 10.2% and welfare by 0.059%, and it can capture up to 23.3% of the payment market. We also discuss some lessons for designing a CBDC.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.02763.
+AB  - Many central banks are considering issuing a central bank digital currency (CBDC). How will the CBDC affect the macroeconomy? Will its design matter? To answer these questions, we theoretically and quantitatively assess the effects of a CBDC on consumption, banking, and welfare. Our model captures the competition between different means of payments and incorporates a novel general equilibrium feedback effect from transactions to deposits creation. The general equilibrium effects of a CBDC are decomposed into three channels: payment efficiency, price effects, and bank funding costs. We show that a cash-like CBDC is more effective than a deposit-like CBDC in promoting consumption and welfare. Interestingly, a cash-like CBDC can also crowd in banking, even in the absence of bank market power. In a calibrated model, at the maximum, a cash-like CBDC can increase bank intermediation by 10.2% and welfare by 0.059%, and it can capture up to 23.3% of the payment market. We also discuss some lessons for designing a CBDC.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.02763.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02763
+UR  - https://doi.org/10.1287/mnsc.2021.02763
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Conceptual Flaws of Decentralized Automated Market Making
+AU  - Park, Andreas
+Y1  - 2023/09/11
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2021.02802
+DO  - 10.1287/mnsc.2021.02802
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6731
+EP  - 6751
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Decentralized exchanges (DEXs) are an essential component of the nascent decentralized finance (DeFi) ecosystem. The most common DEXs are so-called automated market makers (AMMs): smart contracts that pool liquidity and process trades as atomic swaps of tokens. AMMs price transactions with a deterministic liquidity invariance rule that only uses the AMM?s token deposits as inputs and that has no precedent in traditional finance. Yet, in the context of transparent and open blockchain operations, any liquidity invariance pricing function allows so-called sandwich attacks (akin to front running) that increase the cost of trading and threaten the long-term viability of the DeFi ecosystem. Invariance pricing is also not regret free. Linear pricing rules have similar problems except for uniform pricing, which has regret-free prices and limits sandwich attack profits but which invites excessive order splitting. Comparing trading costs using a model of liquidity provision, constant product pricing is often cheaper except when the variance of the underlying asset is small or when the order is large.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: A. Park received financial support from the Global Risk Institute and the Social Sciences and Humanities Research Council of Canada [Grant 435-2017-0647].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.02802.
+AB  - Decentralized exchanges (DEXs) are an essential component of the nascent decentralized finance (DeFi) ecosystem. The most common DEXs are so-called automated market makers (AMMs): smart contracts that pool liquidity and process trades as atomic swaps of tokens. AMMs price transactions with a deterministic liquidity invariance rule that only uses the AMM?s token deposits as inputs and that has no precedent in traditional finance. Yet, in the context of transparent and open blockchain operations, any liquidity invariance pricing function allows so-called sandwich attacks (akin to front running) that increase the cost of trading and threaten the long-term viability of the DeFi ecosystem. Invariance pricing is also not regret free. Linear pricing rules have similar problems except for uniform pricing, which has regret-free prices and limits sandwich attack profits but which invites excessive order splitting. Comparing trading costs using a model of liquidity provision, constant product pricing is often cheaper except when the variance of the underlying asset is small or when the order is large.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: A. Park received financial support from the Global Risk Institute and the Social Sciences and Humanities Research Council of Canada [Grant 435-2017-0647].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2021.02802.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02802
+UR  - https://doi.org/10.1287/mnsc.2021.02802
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Derivatives on Spot Markets: Evidence from the Introduction of Bitcoin Futures Contracts
+AU  - Augustin, Patrick
+AU  - Rubtsov, Alexey
+AU  - Shin, Donghwa
+Y1  - 2023/08/28
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4900
+DO  - 10.1287/mnsc.2023.4900
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6752
+EP  - 6776
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Cryptocurrencies provide a unique opportunity to identify how derivatives impact spot markets. They are fully fungible and trade across multiple spot exchanges at different prices, and futures contracts were selectively introduced on Bitcoin (BTC) exchange rates against the U.S. dollar (USD) in December 2017. Following the futures introduction, we find a significantly greater increase in cross-exchange price synchronicity for BTC?USD relative to other exchange rate pairs as demonstrated by an increase in price correlations and a reduction in arbitrage opportunities and volatility. We also find support for an increase in price efficiency, market quality, and liquidity. The evidence suggests that futures contracts allowed investors to circumvent arbitrage frictions associated with short-sale constraints, arbitrage risk associated with block confirmation time, and market segmentation. Overall, our analysis supports the view that the introduction of BTC?USD futures was beneficial to the Bitcoin spot market by making the underlying prices more informative.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: The authors acknowledge financial support from the Global Risk Institute. P. Augustin acknowledges financial support from the Canadian Derivatives Institute and from the Canada Research Chair Program of the Social Sciences and Humanities Research Council Canada. The paper has benefited significantly from a fellow visit of P. Augustin at the Center for Advanced Studies Foundations of Law and Finance funded by the German Research Foundation, project FOR 2774, and from a visiting position of P. Augustin at the finance department of the University of Luxembourg facilitated through the Inter Mobility Programme of the Luxembourg National Research Fund.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4900.
+AB  - Cryptocurrencies provide a unique opportunity to identify how derivatives impact spot markets. They are fully fungible and trade across multiple spot exchanges at different prices, and futures contracts were selectively introduced on Bitcoin (BTC) exchange rates against the U.S. dollar (USD) in December 2017. Following the futures introduction, we find a significantly greater increase in cross-exchange price synchronicity for BTC?USD relative to other exchange rate pairs as demonstrated by an increase in price correlations and a reduction in arbitrage opportunities and volatility. We also find support for an increase in price efficiency, market quality, and liquidity. The evidence suggests that futures contracts allowed investors to circumvent arbitrage frictions associated with short-sale constraints, arbitrage risk associated with block confirmation time, and market segmentation. Overall, our analysis supports the view that the introduction of BTC?USD futures was beneficial to the Bitcoin spot market by making the underlying prices more informative.This paper was accepted by Will Cong, Special Section of Management Science: Blockchains and Crypto Economics.Funding: The authors acknowledge financial support from the Global Risk Institute. P. Augustin acknowledges financial support from the Canadian Derivatives Institute and from the Canada Research Chair Program of the Social Sciences and Humanities Research Council Canada. The paper has benefited significantly from a fellow visit of P. Augustin at the Center for Advanced Studies Foundations of Law and Finance funded by the German Research Foundation, project FOR 2774, and from a visiting position of P. Augustin at the finance department of the University of Luxembourg facilitated through the Inter Mobility Programme of the Luxembourg National Research Fund.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4900.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4900
+UR  - https://doi.org/10.1287/mnsc.2023.4900
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Hospital Reimbursement in the Presence of Cherry Picking and Upcoding
+AU  - Savva, Nicos
+AU  - Debo, Laurens
+AU  - Shumsky, Robert A.
+Y1  - 2023/05/08
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4752
+DO  - 10.1287/mnsc.2023.4752
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6777
+EP  - 6799
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Hospitals throughout the developed world are reimbursed based on diagnosis-related groups (DRGs). Under this scheme, patients are divided into clinically meaningful groups, and hospitals receive a fixed fee per patient episode tied to the patient DRG. The fee is based on the average cost of providing care to patients who belong to the same DRG across all hospitals. This scheme, sometimes referred to as ?yardstick competition,? provides incentives for cost reduction, as no hospital wants to operate at a higher cost than average, and can be implemented using accounting data alone. Nevertheless, if costs within a DRG are heterogeneous, this scheme may give rise to cherry-picking incentives, where providers ?drop? patients who are more expensive to treat than average. To address this problem, regulators have tried to reduce within-DRG cost heterogeneity by expanding the number of DRG classes. In this paper, we show that even if cost heterogeneity is eliminated, such expansion will fail to completely eliminate patient cherry picking. In equilibrium, the market will bifurcate into two groups, one of which will continue to cherry-pick patients and underinvest in cost reduction, whereas the other group treats all patients. Furthermore, we show that DRG expansion is particularly problematic if hospitals are also able to ?upcode? patients, that is, intentionally assign patients to a more resource-intensive DRG than needed to increase income. Upcoding increases within-DRG cost heterogeneity and amplifies cherry-picking incentives. We examine potential solutions involving yardstick competition based on input statistics.This paper was accepted by Carri Chan, healthcare management.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.4752.
+AB  - Hospitals throughout the developed world are reimbursed based on diagnosis-related groups (DRGs). Under this scheme, patients are divided into clinically meaningful groups, and hospitals receive a fixed fee per patient episode tied to the patient DRG. The fee is based on the average cost of providing care to patients who belong to the same DRG across all hospitals. This scheme, sometimes referred to as ?yardstick competition,? provides incentives for cost reduction, as no hospital wants to operate at a higher cost than average, and can be implemented using accounting data alone. Nevertheless, if costs within a DRG are heterogeneous, this scheme may give rise to cherry-picking incentives, where providers ?drop? patients who are more expensive to treat than average. To address this problem, regulators have tried to reduce within-DRG cost heterogeneity by expanding the number of DRG classes. In this paper, we show that even if cost heterogeneity is eliminated, such expansion will fail to completely eliminate patient cherry picking. In equilibrium, the market will bifurcate into two groups, one of which will continue to cherry-pick patients and underinvest in cost reduction, whereas the other group treats all patients. Furthermore, we show that DRG expansion is particularly problematic if hospitals are also able to ?upcode? patients, that is, intentionally assign patients to a more resource-intensive DRG than needed to increase income. Upcoding increases within-DRG cost heterogeneity and amplifies cherry-picking incentives. We examine potential solutions involving yardstick competition based on input statistics.This paper was accepted by Carri Chan, healthcare management.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.4752.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4752
+UR  - https://doi.org/10.1287/mnsc.2023.4752
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - No Permanent Friend or Enemy: Impacts of the IIoT-Based Platform in the Maintenance Service Market
+AU  - Pei, Jun
+AU  - Yan, Ping
+AU  - Kumar, Subodha
+Y1  - 2023/03/10
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4733
+DO  - 10.1287/mnsc.2023.4733
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6800
+EP  - 6817
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - As the industrial Internet-of-things (IIoT) is becoming increasingly valuable, manufacturers are eager to establish IIoT-based platforms for preventative maintenance (PM). These platforms reposition the roles of manufacturers and reshape the patterns of the after-sales service market. Manufacturers can adopt either the competitive strategy by introducing improved after-sales services to compete with independent maintenance, repair, and operations firms (MROs) or the ?coopetitive? strategy by simultaneously opening the platform to these MROs. However, relevant research on this topic remains scarce. Hence, our study fills this gap by investigating a manufacturer?s decision for the IIoT-based platform and the subsequent relationship with an MRO. First, we find that even when the product value is relatively low and the IIoT adoption increases PM cost; interestingly, it is sometimes beneficial for the manufacturer to establish the platform. Next, we find that even if the royalty revenue is lower than the increased IIoT costs, the manufacturer may sometimes still adopt the coopetitive strategy of opening the platform. Moreover, with the opening of the platform, the manufacturer pays more technology investment, even in the competitive market. Furthermore, whenever the manufacturer opens the platform, the MRO can profit more by accessing the platform. Hence, there is sometimes a win-win equilibrium with the IIoT adoption. In addition, we find that the opening of the platform sometimes causes less customer surplus but generates more social welfare. Following the IIoT adoption, our findings offer insightful takeaways for the manufacturer?s decisions on the establishment and opening of the platform, the MRO?s reaction, and policymakers? welfare policies.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported by the National Natural Science Foundation of China [Grants 71922009, 72188101, 71871080, and 72071057].Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4733.
+AB  - As the industrial Internet-of-things (IIoT) is becoming increasingly valuable, manufacturers are eager to establish IIoT-based platforms for preventative maintenance (PM). These platforms reposition the roles of manufacturers and reshape the patterns of the after-sales service market. Manufacturers can adopt either the competitive strategy by introducing improved after-sales services to compete with independent maintenance, repair, and operations firms (MROs) or the ?coopetitive? strategy by simultaneously opening the platform to these MROs. However, relevant research on this topic remains scarce. Hence, our study fills this gap by investigating a manufacturer?s decision for the IIoT-based platform and the subsequent relationship with an MRO. First, we find that even when the product value is relatively low and the IIoT adoption increases PM cost; interestingly, it is sometimes beneficial for the manufacturer to establish the platform. Next, we find that even if the royalty revenue is lower than the increased IIoT costs, the manufacturer may sometimes still adopt the coopetitive strategy of opening the platform. Moreover, with the opening of the platform, the manufacturer pays more technology investment, even in the competitive market. Furthermore, whenever the manufacturer opens the platform, the MRO can profit more by accessing the platform. Hence, there is sometimes a win-win equilibrium with the IIoT adoption. In addition, we find that the opening of the platform sometimes causes less customer surplus but generates more social welfare. Following the IIoT adoption, our findings offer insightful takeaways for the manufacturer?s decisions on the establishment and opening of the platform, the MRO?s reaction, and policymakers? welfare policies.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported by the National Natural Science Foundation of China [Grants 71922009, 72188101, 71871080, and 72071057].Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4733.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4733
+UR  - https://doi.org/10.1287/mnsc.2023.4733
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Fair Dynamic Rationing
+AU  - Manshadi, Vahideh
+AU  - Niazadeh, Rad
+AU  - Rodilitz, Scott
+Y1  - 2023/02/17
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4700
+DO  - 10.1287/mnsc.2023.4700
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6818
+EP  - 6836
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We study the allocative challenges that governmental and nonprofit organizations face when tasked with equitable and efficient rationing of a social good among agents whose needs (demands) realize sequentially and are possibly correlated. As one example, early in the COVID-19 pandemic, the Federal Emergency Management Agency faced overwhelming, temporally scattered, a priori uncertain, and correlated demands for medical supplies from different states. In such contexts, social planners aim to maximize the minimum fill rate across sequentially arriving agents, where each agent?s fill rate (i.e., its fraction of satisfied demand) is determined by an irrevocable, one-time allocation. For an arbitrarily correlated sequence of demands, we establish upper bounds on the expected minimum fill rate (ex post fairness) and the minimum expected fill rate (ex ante fairness) achievable by any policy. Our upper bounds are parameterized by the number of agents and the expected demand-to-supply ratio, yet we design a simple adaptive policy called projected proportional allocation (PPA) that simultaneously achieves matching lower bounds for both objectives (ex post and ex ante fairness) for any set of parameters. Our PPA policy is transparent and easy to implement, as it does not rely on distributional information beyond the first conditional moments. Despite its simplicity, we demonstrate that the PPA policy provides significant improvement over the canonical class of nonadaptive target-fill-rate policies. We complement our theoretical developments with a numerical study motivated by the rationing of COVID-19 medical supplies based on a standard compartmental modeling approach that is commonly used to forecast pandemic trajectories. In such a setting, our PPA policy significantly outperforms its theoretical guarantee and the optimal target-fill-rate policy.This paper was accepted by Omar Besbes, revenue management and market analytics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4700.
+AB  - We study the allocative challenges that governmental and nonprofit organizations face when tasked with equitable and efficient rationing of a social good among agents whose needs (demands) realize sequentially and are possibly correlated. As one example, early in the COVID-19 pandemic, the Federal Emergency Management Agency faced overwhelming, temporally scattered, a priori uncertain, and correlated demands for medical supplies from different states. In such contexts, social planners aim to maximize the minimum fill rate across sequentially arriving agents, where each agent?s fill rate (i.e., its fraction of satisfied demand) is determined by an irrevocable, one-time allocation. For an arbitrarily correlated sequence of demands, we establish upper bounds on the expected minimum fill rate (ex post fairness) and the minimum expected fill rate (ex ante fairness) achievable by any policy. Our upper bounds are parameterized by the number of agents and the expected demand-to-supply ratio, yet we design a simple adaptive policy called projected proportional allocation (PPA) that simultaneously achieves matching lower bounds for both objectives (ex post and ex ante fairness) for any set of parameters. Our PPA policy is transparent and easy to implement, as it does not rely on distributional information beyond the first conditional moments. Despite its simplicity, we demonstrate that the PPA policy provides significant improvement over the canonical class of nonadaptive target-fill-rate policies. We complement our theoretical developments with a numerical study motivated by the rationing of COVID-19 medical supplies based on a standard compartmental modeling approach that is commonly used to forecast pandemic trajectories. In such a setting, our PPA policy significantly outperforms its theoretical guarantee and the optimal target-fill-rate policy.This paper was accepted by Omar Besbes, revenue management and market analytics.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4700.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4700
+UR  - https://doi.org/10.1287/mnsc.2023.4700
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Contextual Standard Auctions with Budgets: Revenue Equivalence and Efficiency Guarantees
+AU  - Balseiro, Santiago
+AU  - Kroer, Christian
+AU  - Kumar, Rachitesh
+Y1  - 2023/04/06
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4719
+DO  - 10.1287/mnsc.2023.4719
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6837
+EP  - 6854
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - The internet advertising market is a multibillion dollar industry in which advertisers buy thousands of ad placements every day by repeatedly participating in auctions. An important and ubiquitous feature of these auctions is the presence of campaign budgets, which specify the maximum amount the advertisers are willing to pay over a specified time period. In this paper, we present a new model to study the equilibrium bidding strategies in standard auctions, a large class of auctions that includes first and second price auctions, for advertisers who satisfy budget constraints on average. Our model dispenses with the common yet unrealistic assumption that advertisers? values are independent and instead assumes a contextual model in which advertisers determine their values using a common feature vector. We show the existence of a natural value pacing?based Bayes?Nash equilibrium under very mild assumptions. Furthermore, we prove a revenue equivalence showing that all standard auctions yield the same revenue even in the presence of budget constraints. Leveraging this equivalence, we prove price of anarchy bounds for liquid welfare and structural properties of pacing-based equilibria that hold for all standard auctions. In recent years, the internet advertising market has adopted first price auctions as the preferred paradigm for selling advertising slots. Our work, thus, takes an important step toward understanding the implications of the shift to first price auctions in internet advertising markets by studying how the choice of the selling mechanism impacts revenues, welfare, and advertisers? bidding strategies.This paper was accepted by Itai Ashlagi, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4719.
+AB  - The internet advertising market is a multibillion dollar industry in which advertisers buy thousands of ad placements every day by repeatedly participating in auctions. An important and ubiquitous feature of these auctions is the presence of campaign budgets, which specify the maximum amount the advertisers are willing to pay over a specified time period. In this paper, we present a new model to study the equilibrium bidding strategies in standard auctions, a large class of auctions that includes first and second price auctions, for advertisers who satisfy budget constraints on average. Our model dispenses with the common yet unrealistic assumption that advertisers? values are independent and instead assumes a contextual model in which advertisers determine their values using a common feature vector. We show the existence of a natural value pacing?based Bayes?Nash equilibrium under very mild assumptions. Furthermore, we prove a revenue equivalence showing that all standard auctions yield the same revenue even in the presence of budget constraints. Leveraging this equivalence, we prove price of anarchy bounds for liquid welfare and structural properties of pacing-based equilibria that hold for all standard auctions. In recent years, the internet advertising market has adopted first price auctions as the preferred paradigm for selling advertising slots. Our work, thus, takes an important step toward understanding the implications of the shift to first price auctions in internet advertising markets by studying how the choice of the selling mechanism impacts revenues, welfare, and advertisers? bidding strategies.This paper was accepted by Itai Ashlagi, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4719.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4719
+UR  - https://doi.org/10.1287/mnsc.2023.4719
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Scaling Up Electric-Vehicle Battery Swapping Services in Cities: A Joint Location and Repairable-Inventory Model
+AU  - Qi, Wei
+AU  - Zhang, Yuli
+AU  - Zhang, Ningwei
+Y1  - 2023/03/17
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4731
+DO  - 10.1287/mnsc.2023.4731
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6855
+EP  - 6875
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Battery swapping for electric vehicle refueling is reviving and thriving. Despite a captivating sustainable future where swapping batteries will be as convenient as refueling gas today, a tension is mounting in practice (beyond the traditional ?range anxiety? issue): On one hand, it is desirable to maximize battery proximity and availability to customers. On the other hand, capacitated urban power grids may curb decentralized charging at a slow speed. To reconcile this tension, some cities are embracing an emerging infrastructure network: Decentralized swapping stations replenish charged batteries from centralized charging stations. It remains unclear how to design such a network or whether pooling charging demands will save costs or batteries. In this paper, we model this new urban infrastructure network. This task is complicated by non-Poisson swaps and by the intertwined stochastic operations of swapping, charging, stocking, and circulating batteries among swapping and charging stations. We tackle these complexities by deriving analytical models, which enrich the classical batched repairable-inventory theory. We next propose a joint location and repairable-inventory model for citywide deployment of hub charging stations, with a nonconvex nonconcave objective function. We solve this problem exactly by exploiting submodularity and combining constraint-generation and parameter-search techniques. Even for solving convexified problems, our algorithm brings a speedup of at least three orders of magnitude relative to the Gurobi solver. The major insight is twofold: The benefit of pooling charging demands alone is not enough to justify the adoption of the ?swap-locally, charge-centrally? network; instead, the main justification is that faster charging accessible at centralized charging stations significantly reduces the system-wide battery stock level. In a broader sense, this work deepens our understanding of how mobility and energy are coupled toward enabling smart cities.This paper was accepted by Chung Piaw Teo, optimization.Funding: Y. Zhang acknowledges the support from the National Natural Science Foundation of China [Grants 71871023, 72271029, and 72061127001]. W. Qi acknowledges the support from the National Natural Science Foundation of China [Grants 72272014 and 72188101] and the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2019-04769]. N. Zhang acknowledges the support from the China Scholarship Council [202106030140].Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4731.
+AB  - Battery swapping for electric vehicle refueling is reviving and thriving. Despite a captivating sustainable future where swapping batteries will be as convenient as refueling gas today, a tension is mounting in practice (beyond the traditional ?range anxiety? issue): On one hand, it is desirable to maximize battery proximity and availability to customers. On the other hand, capacitated urban power grids may curb decentralized charging at a slow speed. To reconcile this tension, some cities are embracing an emerging infrastructure network: Decentralized swapping stations replenish charged batteries from centralized charging stations. It remains unclear how to design such a network or whether pooling charging demands will save costs or batteries. In this paper, we model this new urban infrastructure network. This task is complicated by non-Poisson swaps and by the intertwined stochastic operations of swapping, charging, stocking, and circulating batteries among swapping and charging stations. We tackle these complexities by deriving analytical models, which enrich the classical batched repairable-inventory theory. We next propose a joint location and repairable-inventory model for citywide deployment of hub charging stations, with a nonconvex nonconcave objective function. We solve this problem exactly by exploiting submodularity and combining constraint-generation and parameter-search techniques. Even for solving convexified problems, our algorithm brings a speedup of at least three orders of magnitude relative to the Gurobi solver. The major insight is twofold: The benefit of pooling charging demands alone is not enough to justify the adoption of the ?swap-locally, charge-centrally? network; instead, the main justification is that faster charging accessible at centralized charging stations significantly reduces the system-wide battery stock level. In a broader sense, this work deepens our understanding of how mobility and energy are coupled toward enabling smart cities.This paper was accepted by Chung Piaw Teo, optimization.Funding: Y. Zhang acknowledges the support from the National Natural Science Foundation of China [Grants 71871023, 72271029, and 72061127001]. W. Qi acknowledges the support from the National Natural Science Foundation of China [Grants 72272014 and 72188101] and the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2019-04769]. N. Zhang acknowledges the support from the China Scholarship Council [202106030140].Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4731.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4731
+UR  - https://doi.org/10.1287/mnsc.2023.4731
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Routing Optimization with Vehicle–Customer Coordination
+AU  - Zhang, Wei
+AU  - Jacquillat, Alexandre
+AU  - Wang, Kai
+AU  - Wang, Shuaian
+Y1  - 2023/03/29
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4739
+DO  - 10.1287/mnsc.2023.4739
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6876
+EP  - 6897
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - In several transportation systems, vehicles can choose where to meet customers rather than stopping in fixed locations. This added flexibility, however, requires coordination between vehicles and customers that adds complexity to routing operations. This paper develops scalable algorithms to optimize these operations. First, we solve the one-stop subproblem in the ?1 space and the ?2 space by leveraging the geometric structure of operations. Second, to solve a multistop problem, we embed the single-stop optimization into a tailored coordinate descent scheme, which we prove converges to a global optimum. Third, we develop a new algorithm for dial-a-ride problems based on a subpath-based time?space network optimization combining set partitioning and time?space principles. Finally, we propose an online routing algorithm to support real-world ride-sharing operations with vehicle?customer coordination. Computational results show that our algorithm outperforms state-of-the-art benchmarks, yielding far superior solutions in shorter computational times and can support real-time operations in very large-scale systems. From a practical standpoint, most of the benefits of vehicle?customer coordination stem from comprehensively reoptimizing ?upstream? operations as opposed to merely adjusting ?downstream? stopping locations. Ultimately, vehicle?customer coordination provides win?win?win outcomes: higher profits, better customer service, and smaller environmental footprint.This paper was accepted by Chung Piaw Teo, optimization.Funding: This research was supported by the National Natural Science Foundation of China [Grants 72288101, 52221005 and 52220105001].Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2023.4739.
+AB  - In several transportation systems, vehicles can choose where to meet customers rather than stopping in fixed locations. This added flexibility, however, requires coordination between vehicles and customers that adds complexity to routing operations. This paper develops scalable algorithms to optimize these operations. First, we solve the one-stop subproblem in the ?1 space and the ?2 space by leveraging the geometric structure of operations. Second, to solve a multistop problem, we embed the single-stop optimization into a tailored coordinate descent scheme, which we prove converges to a global optimum. Third, we develop a new algorithm for dial-a-ride problems based on a subpath-based time?space network optimization combining set partitioning and time?space principles. Finally, we propose an online routing algorithm to support real-world ride-sharing operations with vehicle?customer coordination. Computational results show that our algorithm outperforms state-of-the-art benchmarks, yielding far superior solutions in shorter computational times and can support real-time operations in very large-scale systems. From a practical standpoint, most of the benefits of vehicle?customer coordination stem from comprehensively reoptimizing ?upstream? operations as opposed to merely adjusting ?downstream? stopping locations. Ultimately, vehicle?customer coordination provides win?win?win outcomes: higher profits, better customer service, and smaller environmental footprint.This paper was accepted by Chung Piaw Teo, optimization.Funding: This research was supported by the National Natural Science Foundation of China [Grants 72288101, 52221005 and 52220105001].Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2023.4739.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4739
+UR  - https://doi.org/10.1287/mnsc.2023.4739
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Approximation Benefits of Policy Gradient Methods with Aggregated States
+AU  - Russo, Daniel
+Y1  - 2023/06/28
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4788
+DO  - 10.1287/mnsc.2023.4788
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6898
+EP  - 6911
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Folklore suggests that policy gradient can be more robust to misspecification than its relative, approximate policy iteration. This paper studies the case of state-aggregated representations, in which the state space is partitioned and either the policy or value function approximation is held constant over partitions. This paper shows a policy gradient method converges to a policy whose regret per period is bounded by ?, the largest difference between two elements of the state-action value function belonging to a common partition. With the same representation, both approximate policy iteration and approximate value iteration can produce policies whose per-period regret scales as ?/(1??), where ? is a discount factor. Faced with inherent approximation error, methods that locally optimize the true decision objective can be far more robust.This paper was accepted by Hamid Nazerzadeh, data science.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2023.4788.
+AB  - Folklore suggests that policy gradient can be more robust to misspecification than its relative, approximate policy iteration. This paper studies the case of state-aggregated representations, in which the state space is partitioned and either the policy or value function approximation is held constant over partitions. This paper shows a policy gradient method converges to a policy whose regret per period is bounded by ?, the largest difference between two elements of the state-action value function belonging to a common partition. With the same representation, both approximate policy iteration and approximate value iteration can produce policies whose per-period regret scales as ?/(1??), where ? is a discount factor. Faced with inherent approximation error, methods that locally optimize the true decision objective can be far more robust.This paper was accepted by Hamid Nazerzadeh, data science.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2023.4788.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4788
+UR  - https://doi.org/10.1287/mnsc.2023.4788
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Gendering of Job Postings in the Online Recruitment Process
+AU  - Castilla, Emilio J.
+AU  - Rho, Hye Jin
+Y1  - 2023/02/27
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4674
+DO  - 10.1287/mnsc.2023.4674
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6912
+EP  - 6939
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Gender segregation remains a significant problem in many occupations and organizations. To solve this problem, many U.S. employers now seek to craft gender-neutral job postings. In this article, we investigate whether such employer recruitment efforts are successful in encouraging women and men to apply equally for jobs. Specifically, we move beyond the well-studied effects of the gender typing of occupations, organizations, and industries to study the extent to which the recruiting language used in job postings influences the actual preapplication behavior of job seekers of different genders. Using unique data from both a large-sample observational field study (Study 1) and a field experiment study (Study 2) of real online job postings, we first assess the gendered language mechanism by testing whether stereotypical femininity in the wording that recruiters use to advertise otherwise identical jobs differently influences female and male job seekers? interest in applying. We then assess the recruiter gendering mechanism by testing whether the gender of the recruiter and the femininity in the wording recruiters use when presenting themselves to job seekers further contribute to gender job search disparities. Our analyses ultimately show negligible effects for both the gendering of job postings or of the job poster, and we therefore conclude that, in practice, employers? efforts to simply tweak the language of recruitment messages do not matter much for gender equality and diversity.This paper was accepted by Olav Sorenson, organizations.Funding: The authors received financial support from the James S. Hardigg (1945) Work and Employment Fund and the Massachusetts Institute of Technology Sloan School of Management.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4674.
+AB  - Gender segregation remains a significant problem in many occupations and organizations. To solve this problem, many U.S. employers now seek to craft gender-neutral job postings. In this article, we investigate whether such employer recruitment efforts are successful in encouraging women and men to apply equally for jobs. Specifically, we move beyond the well-studied effects of the gender typing of occupations, organizations, and industries to study the extent to which the recruiting language used in job postings influences the actual preapplication behavior of job seekers of different genders. Using unique data from both a large-sample observational field study (Study 1) and a field experiment study (Study 2) of real online job postings, we first assess the gendered language mechanism by testing whether stereotypical femininity in the wording that recruiters use to advertise otherwise identical jobs differently influences female and male job seekers? interest in applying. We then assess the recruiter gendering mechanism by testing whether the gender of the recruiter and the femininity in the wording recruiters use when presenting themselves to job seekers further contribute to gender job search disparities. Our analyses ultimately show negligible effects for both the gendering of job postings or of the job poster, and we therefore conclude that, in practice, employers? efforts to simply tweak the language of recruitment messages do not matter much for gender equality and diversity.This paper was accepted by Olav Sorenson, organizations.Funding: The authors received financial support from the James S. Hardigg (1945) Work and Employment Fund and the Massachusetts Institute of Technology Sloan School of Management.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4674.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4674
+UR  - https://doi.org/10.1287/mnsc.2023.4674
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Reversing Reserves
+AU  - Pathak, Parag A.
+AU  - Rees-Jones, Alex
+AU  - Sönmez, Tayfun
+Y1  - 2023/02/23
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4669
+DO  - 10.1287/mnsc.2023.4669
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6940
+EP  - 6953
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Affirmative action policies are often implemented through reserve systems. In this study, we demonstrate that reserve systems face widespread misunderstanding by the public. This misunderstanding can lead individuals to support policies that ineffectively pursue their interests. To establish these claims, we present 1,013 participants in the Understanding America Study with choices between pairs of reserve systems. Participants are members of the group receiving affirmative action and are financially incentivized to choose the system that maximizes their chance of admission. Using this data, we apply a novel approach to identifying the rate of uptake of different decision rules used by participants. We find that participants rarely use a fully optimal decision rule. In contrast, we find that many choices?40% in our primary estimates?are rationalized by a nearly correct decision rule, with errors driven solely by failing to appreciate the importance of processing order. Failing to account for processing order causes individuals to fail to distinguish between two policies that achieve different degrees of affirmative action: policies that provide nonbinding minimum guarantees of the number of spaces allocated and policies that provide spaces over-and-above what would be allocated absent a reserve. Confusion about the importance of processing order helps to explain otherwise surprising decisions made in field applications of reserve systems. We discuss implications for managers and policy makers who are trying to implement reserve systems and who are accountable to the public.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.Funding: The authors thank the National Science Foundation and the Wharton Behavioral Laboratory for financial support.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4669.
+AB  - Affirmative action policies are often implemented through reserve systems. In this study, we demonstrate that reserve systems face widespread misunderstanding by the public. This misunderstanding can lead individuals to support policies that ineffectively pursue their interests. To establish these claims, we present 1,013 participants in the Understanding America Study with choices between pairs of reserve systems. Participants are members of the group receiving affirmative action and are financially incentivized to choose the system that maximizes their chance of admission. Using this data, we apply a novel approach to identifying the rate of uptake of different decision rules used by participants. We find that participants rarely use a fully optimal decision rule. In contrast, we find that many choices?40% in our primary estimates?are rationalized by a nearly correct decision rule, with errors driven solely by failing to appreciate the importance of processing order. Failing to account for processing order causes individuals to fail to distinguish between two policies that achieve different degrees of affirmative action: policies that provide nonbinding minimum guarantees of the number of spaces allocated and policies that provide spaces over-and-above what would be allocated absent a reserve. Confusion about the importance of processing order helps to explain otherwise surprising decisions made in field applications of reserve systems. We discuss implications for managers and policy makers who are trying to implement reserve systems and who are accountable to the public.This paper was accepted by Axel Ockenfels, behavioral economics and decision analysis.Funding: The authors thank the National Science Foundation and the Wharton Behavioral Laboratory for financial support.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4669.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4669
+UR  - https://doi.org/10.1287/mnsc.2023.4669
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Longshot Bias Is a Context Effect
+AU  - Meyer, Andrew
+AU  - Hundtofte, Sean
+Y1  - 2023/04/07
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4684
+DO  - 10.1287/mnsc.2023.4684
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6954
+EP  - 6968
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - In nearly every betting market, gamblers overvalue the riskiest bets. This ?longshot bias? is usually explained by a tendency to overweight low-probability events. We offer a novel explanation: contrast effects enhance the attractiveness of longshots because gambles presented in terms of their payoffs are easier to compare along the payoff dimension than along the probability dimension. Our analysis of historical betting odds suggests that contrasts between gamble payoffs can explain the longshot bias. Laboratory experiments confirm those contrast effects and show that the longshot bias disappears when gamblers consider bets in isolation or when winning probabilities are easier to compare.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: The authors thank the University of Chicago?s Center for Decision Research and Richard Thaler for funding.Supplemental Material: The online supplement and data are available at https://doi.org/10.1287/mnsc.2023.4684.
+AB  - In nearly every betting market, gamblers overvalue the riskiest bets. This ?longshot bias? is usually explained by a tendency to overweight low-probability events. We offer a novel explanation: contrast effects enhance the attractiveness of longshots because gambles presented in terms of their payoffs are easier to compare along the payoff dimension than along the probability dimension. Our analysis of historical betting odds suggests that contrasts between gamble payoffs can explain the longshot bias. Laboratory experiments confirm those contrast effects and show that the longshot bias disappears when gamblers consider bets in isolation or when winning probabilities are easier to compare.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: The authors thank the University of Chicago?s Center for Decision Research and Richard Thaler for funding.Supplemental Material: The online supplement and data are available at https://doi.org/10.1287/mnsc.2023.4684.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4684
+UR  - https://doi.org/10.1287/mnsc.2023.4684
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Good, the Bad, and the Unhirable: Recommending Job Applicants in Online Labor Markets
+AU  - Kokkodis, Marios
+AU  - Ipeirotis, Panagiotis G.
+Y1  - 2023/03/08
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4690
+DO  - 10.1287/mnsc.2023.4690
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6969
+EP  - 6987
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Choosing job applicants to hire in online labor markets is hard. To identify the best applicant at hand, employers need to assess a heterogeneous population. Recommender systems can provide targeted job-applicant recommendations that help employers make better-informed and faster hiring choices. However, existing recommenders that rely on multiple user evaluations per recommended item (e.g., collaborative filtering) experience structural limitations in recommending job applicants: Because each job application receives only a single evaluation, these recommenders can only estimate noisy user-user and item-item similarities. On the other hand, existing recommenders that rely on classification techniques overcome this limitation. Yet, these systems ignore the hired worker?s performance?and, as a result, they uniformly reinforce prior observed behavior that includes unsuccessful hiring choices?while they overlook potential sequential dependencies between consecutive choices of the same employer. This work addresses these shortcomings by building a framework that uses job-application characteristics to provide recommendations that (1) are unlikely to yield adverse outcomes (performance-aware) and (2) capture the potentially evolving hiring preferences of employers (sequence-aware). Application of this framework on hiring decisions from an online labor market shows that it recommends job applicants who are likely to get hired and perform well. A comparison with advanced alternative recommender systems illustrates the benefits of modeling performance-aware and sequence-aware recommendations. An empirical adaptation of our approach in an alternative context (restaurant recommendations) illustrates its generalizability and highlights its potential implications for users, employers, workers, and markets.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4690.
+AB  - Choosing job applicants to hire in online labor markets is hard. To identify the best applicant at hand, employers need to assess a heterogeneous population. Recommender systems can provide targeted job-applicant recommendations that help employers make better-informed and faster hiring choices. However, existing recommenders that rely on multiple user evaluations per recommended item (e.g., collaborative filtering) experience structural limitations in recommending job applicants: Because each job application receives only a single evaluation, these recommenders can only estimate noisy user-user and item-item similarities. On the other hand, existing recommenders that rely on classification techniques overcome this limitation. Yet, these systems ignore the hired worker?s performance?and, as a result, they uniformly reinforce prior observed behavior that includes unsuccessful hiring choices?while they overlook potential sequential dependencies between consecutive choices of the same employer. This work addresses these shortcomings by building a framework that uses job-application characteristics to provide recommendations that (1) are unlikely to yield adverse outcomes (performance-aware) and (2) capture the potentially evolving hiring preferences of employers (sequence-aware). Application of this framework on hiring decisions from an online labor market shows that it recommends job applicants who are likely to get hired and perform well. A comparison with advanced alternative recommender systems illustrates the benefits of modeling performance-aware and sequence-aware recommendations. An empirical adaptation of our approach in an alternative context (restaurant recommendations) illustrates its generalizability and highlights its potential implications for users, employers, workers, and markets.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4690.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4690
+UR  - https://doi.org/10.1287/mnsc.2023.4690
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Measuring Benefits from New Products in Markets with Information Frictions
+AU  - Morozov, Ilya
+Y1  - 2023/03/22
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.4729
+DO  - 10.1287/mnsc.2023.4729
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6988
+EP  - 7008
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - I study how much consumers benefit from new products in markets with information frictions. I analyze new products in the U.S. hard drive market, which is characterized by ample product innovation. Using unique click-stream data, I measure the magnitude of two frictions, category consideration and costly search, and show that both play a crucial role in shaping consumer demand. To estimate consumer surplus from new products, I develop a search model that captures both frictions and propose a novel Bayesian estimation method to recover its parameters. I then show that ignoring information frictions leads researchers to underestimate the consumer surplus from new hard drives because it appears that consumers do not value the combinations of attributes these hard drives offer. Partly eliminating frictions, through marketing efforts or market-wide transparency initiatives, can help consumers to more fully internalize the benefits of new product launches.This paper was accepted by Matthew Shum, marketing.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4729.
+AB  - I study how much consumers benefit from new products in markets with information frictions. I analyze new products in the U.S. hard drive market, which is characterized by ample product innovation. Using unique click-stream data, I measure the magnitude of two frictions, category consideration and costly search, and show that both play a crucial role in shaping consumer demand. To estimate consumer surplus from new products, I develop a search model that captures both frictions and propose a novel Bayesian estimation method to recover its parameters. I then show that ignoring information frictions leads researchers to underestimate the consumer surplus from new hard drives because it appears that consumers do not value the combinations of attributes these hard drives offer. Partly eliminating frictions, through marketing efforts or market-wide transparency initiatives, can help consumers to more fully internalize the benefits of new product launches.This paper was accepted by Matthew Shum, marketing.Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4729.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4729
+UR  - https://doi.org/10.1287/mnsc.2023.4729
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Disclosure in Incentivized Reviews: Does It Protect Consumers?
+AU  - Park, Sungsik
+AU  - Shin, Woochoel
+AU  - Xie, Jinhong
+Y1  - 2023/09/28
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.00930
+DO  - 10.1287/mnsc.2023.00930
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7009
+EP  - 7021
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - The well-documented rating inflation of incentivized reviews (IRs) can mislead consumers into choosing a product that they would otherwise not buy. To protect consumers from this undesirable influence, the U.S. Federal Trade Commission recommends that reviewers conspicuously disclose any material connection they may have with sellers. In theory, such disclosures safeguard consumers by motivating reviewers to be truthful and inducing consumers to discount inflated IR ratings. Our research finds, however, that IR disclosure accomplishes neither. Specifically, our empirical analysis of consumer reviews on Amazon reveals that, even with disclosure, (1) rating inflation of IRs remains, and (2) this inflation boosts sales at consumers? expense. Finally, we propose an alternative approach to eliminate rating inflation of IRs and empirically demonstrate its effectiveness. These findings have important implications for consumers, firms, and ongoing policy discussions around IRs.This paper was accepted by Duncan Simester, marketing.Funding: S. Park gratefully acknowledges financial support from the Darla Moore School of Business Research Grant Program at the University of South Carolina. W. Shin gratefully acknowledges financial support from the Brian R. Gamache Endowed Professorship at the University of Florida. J. Xie gratefully acknowledges financial support from the JCPenney Endowed Professorship at the University of Florida.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.00930.
+AB  - The well-documented rating inflation of incentivized reviews (IRs) can mislead consumers into choosing a product that they would otherwise not buy. To protect consumers from this undesirable influence, the U.S. Federal Trade Commission recommends that reviewers conspicuously disclose any material connection they may have with sellers. In theory, such disclosures safeguard consumers by motivating reviewers to be truthful and inducing consumers to discount inflated IR ratings. Our research finds, however, that IR disclosure accomplishes neither. Specifically, our empirical analysis of consumer reviews on Amazon reveals that, even with disclosure, (1) rating inflation of IRs remains, and (2) this inflation boosts sales at consumers? expense. Finally, we propose an alternative approach to eliminate rating inflation of IRs and empirically demonstrate its effectiveness. These findings have important implications for consumers, firms, and ongoing policy discussions around IRs.This paper was accepted by Duncan Simester, marketing.Funding: S. Park gratefully acknowledges financial support from the Darla Moore School of Business Research Grant Program at the University of South Carolina. W. Shin gratefully acknowledges financial support from the Brian R. Gamache Endowed Professorship at the University of Florida. J. Xie gratefully acknowledges financial support from the JCPenney Endowed Professorship at the University of Florida.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.00930.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00930
+UR  - https://doi.org/10.1287/mnsc.2023.00930
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Reputation, Competition, and Lies in Labor Market Recommendations
+AU  - Câmara, Odilon
+AU  - Jia, Nan
+AU  - Raffiee, Joseph
+Y1  - 2023/01/04
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.4654
+DO  - 10.1287/mnsc.2022.4654
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7022
+EP  - 7043
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We examine strategic communication in labor market recommendations. Our formal model features two-sided asymmetric information: An adviser has private information about his own preference bias for a focal candidate and a signal of the quality of this candidate, whereas the hiring firm has private information about the quality of an alternative candidate. The adviser can choose whether to recommend his focal candidate to the firm. If he recommends and the firm hires the candidate, then the adviser pays a reputational cost (receives a reputation boost) if the firm later learns that the hire has low quality (high quality). Our main results describe how the equilibrium behavior of advisers (lying choices) and firms (hiring choices) depend on the intricate interplay between preference biases, reputation, lying costs, and the hiring firm?s labor market strength (access to alternative candidates with higher quality). We show that the equilibrium features assortative matching: advisers with a higher (lower) reputation choose to lie less (more), and consequently, their candidates are more likely to be hired by firms with strong (weak) access to high-skilled outside candidates. Two equilibrium forces create a ?rich get richer? effect. First, advisers choose to lie less to hiring firms with access to better top candidates, further benefiting those firms. Second, advisers with a higher (lower) reputation choose to lie less (more), which increases (decreases) their future reputation, creating a ?reputation trap.? We discuss the implications of our model for hiring strategy, referral systems, and the ability to accrue and sustain human capital-based competitive advantages.This paper was accepted by Alfonso Gambardella, business strategy.
+AB  - We examine strategic communication in labor market recommendations. Our formal model features two-sided asymmetric information: An adviser has private information about his own preference bias for a focal candidate and a signal of the quality of this candidate, whereas the hiring firm has private information about the quality of an alternative candidate. The adviser can choose whether to recommend his focal candidate to the firm. If he recommends and the firm hires the candidate, then the adviser pays a reputational cost (receives a reputation boost) if the firm later learns that the hire has low quality (high quality). Our main results describe how the equilibrium behavior of advisers (lying choices) and firms (hiring choices) depend on the intricate interplay between preference biases, reputation, lying costs, and the hiring firm?s labor market strength (access to alternative candidates with higher quality). We show that the equilibrium features assortative matching: advisers with a higher (lower) reputation choose to lie less (more), and consequently, their candidates are more likely to be hired by firms with strong (weak) access to high-skilled outside candidates. Two equilibrium forces create a ?rich get richer? effect. First, advisers choose to lie less to hiring firms with access to better top candidates, further benefiting those firms. Second, advisers with a higher (lower) reputation choose to lie less (more), which increases (decreases) their future reputation, creating a ?reputation trap.? We discuss the implications of our model for hiring strategy, referral systems, and the ability to accrue and sustain human capital-based competitive advantages.This paper was accepted by Alfonso Gambardella, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4654
+UR  - https://doi.org/10.1287/mnsc.2022.4654
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Experimental Choice and Disruptive Technologies
+AU  - Gans, Joshua S.
+Y1  - 2023/01/02
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.4496
+DO  - 10.1287/mnsc.2022.4496
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7044
+EP  - 7058
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - This paper examines how a firm?s choice of the type of experiment impacts on its potential exploitation of new technological opportunities. It does so in the context of the failure of successful firms (or disruption) where the literature has informally suggested that firms undertake errors in experimental choice. It is shown that firms will generically choose experiments that minimize false positives (a high-bar) or minimize false negatives (a low-bar) rather than strike a balance between the two. This is done to better inform decisions regarding the exploitation of technological opportunities. It is shown that these choices can differ between incumbents and entrants based on their fundamentals and because of the anticipation of competition between them.This paper was accepted by David Simchi-Levi, business strategy.
+AB  - This paper examines how a firm?s choice of the type of experiment impacts on its potential exploitation of new technological opportunities. It does so in the context of the failure of successful firms (or disruption) where the literature has informally suggested that firms undertake errors in experimental choice. It is shown that firms will generically choose experiments that minimize false positives (a high-bar) or minimize false negatives (a low-bar) rather than strike a balance between the two. This is done to better inform decisions regarding the exploitation of technological opportunities. It is shown that these choices can differ between incumbents and entrants based on their fundamentals and because of the anticipation of competition between them.This paper was accepted by David Simchi-Levi, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4496
+UR  - https://doi.org/10.1287/mnsc.2022.4496
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Ambiguity Aversion and Beating Benchmarks: Does it Create a Pattern?
+AU  - Kolasinski, Adam
+AU  - Li, Xu
+AU  - Soliman, Mark
+AU  - Xin, Qian
+Y1  - 2022/11/21
+PY  - 2022
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.4609
+DO  - 10.1287/mnsc.2022.4609
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7059
+EP  - 7078
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - The prior literature on analyst forecasts has focused almost exclusively on firms that just meet or beat the mean or median consensus analyst forecast, without much regard to alternative benchmarks within the forecast distribution. Anecdotal evidence suggests that there is institutional significance to the lowest (minimum) and highest (maximum) analyst earnings forecast. We rigorously explore whether these two new benchmarks actually have incremental significance and, if so, whether there are differences in how managers and investors perceive the importance of these three benchmarks (i.e., minimum, mean, and maximum). Consistent with the theory of investor ambiguity aversion, which predicts an asymmetric market response to good and bad news, our results support the notion that of the three benchmarks we explore, firms act most aggressively to exceed the minimum forecast, followed by the mean, and then finally the maximum. This order is consistently supported by the following evidence: the existence of higher incentives to beat the benchmark; the likelihood of earnings management to beat the benchmark; accrual reversal after firms just barely achieve each benchmark; accrual mispricing around each benchmark; and, finally, a faster incorporation into the stock price of the bad news that a firm misses the minimum than of the good news that a firm meets or beats the maximum. These findings fill a void in academic research on these two new benchmarks and offer a consistent explanation as to why the popular press and managers frequently highlight and discuss beating these benchmarks as a separate and notable achievement.This paper was accepted by Brian Bushee, accounting.Funding: Q. Xin gratefully acknowledges the financial support from the ?Shenzhen Peacock Plan? start-up research [Grant GA11409004] and the Shenzhen Key Research Base of Humanities and Social Sciences [Grant KP191001].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4609.
+AB  - The prior literature on analyst forecasts has focused almost exclusively on firms that just meet or beat the mean or median consensus analyst forecast, without much regard to alternative benchmarks within the forecast distribution. Anecdotal evidence suggests that there is institutional significance to the lowest (minimum) and highest (maximum) analyst earnings forecast. We rigorously explore whether these two new benchmarks actually have incremental significance and, if so, whether there are differences in how managers and investors perceive the importance of these three benchmarks (i.e., minimum, mean, and maximum). Consistent with the theory of investor ambiguity aversion, which predicts an asymmetric market response to good and bad news, our results support the notion that of the three benchmarks we explore, firms act most aggressively to exceed the minimum forecast, followed by the mean, and then finally the maximum. This order is consistently supported by the following evidence: the existence of higher incentives to beat the benchmark; the likelihood of earnings management to beat the benchmark; accrual reversal after firms just barely achieve each benchmark; accrual mispricing around each benchmark; and, finally, a faster incorporation into the stock price of the bad news that a firm misses the minimum than of the good news that a firm meets or beats the maximum. These findings fill a void in academic research on these two new benchmarks and offer a consistent explanation as to why the popular press and managers frequently highlight and discuss beating these benchmarks as a separate and notable achievement.This paper was accepted by Brian Bushee, accounting.Funding: Q. Xin gratefully acknowledges the financial support from the ?Shenzhen Peacock Plan? start-up research [Grant GA11409004] and the Shenzhen Key Research Base of Humanities and Social Sciences [Grant KP191001].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4609.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4609
+UR  - https://doi.org/10.1287/mnsc.2022.4609
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Brokerage House Initial Public Offerings and Analyst Forecast Quality
+AU  - Bradshaw, Mark
+AU  - Drake, Michael
+AU  - Pacelli, Joseph
+AU  - Twedt, Brady
+Y1  - 2022/12/07
+PY  - 2022
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.4610
+DO  - 10.1287/mnsc.2022.4610
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7079
+EP  - 7094
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We examine how brokerage firm initial public offerings (IPOs) influence the research quality of sell-side analysts employed by the brokerage. Our main results focus on earnings forecast bias and absolute forecast errors as proxies for research quality. Using a staggered difference-in-differences analysis, we document significant decreases in forecast bias and absolute forecast error during the two-year period centered on the analysts? brokerage house IPO. In additional analyses, we explore several potential explanations for the short-term benefits of brokerage house IPOs. We find some evidence that IPOs delay the departure of more talented analysts and that the effects are more concentrated among analysts and brokers that face more scrutiny.This paper was accepted by Brian Bushee, accounting.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4610.
+AB  - We examine how brokerage firm initial public offerings (IPOs) influence the research quality of sell-side analysts employed by the brokerage. Our main results focus on earnings forecast bias and absolute forecast errors as proxies for research quality. Using a staggered difference-in-differences analysis, we document significant decreases in forecast bias and absolute forecast error during the two-year period centered on the analysts? brokerage house IPO. In additional analyses, we explore several potential explanations for the short-term benefits of brokerage house IPOs. We find some evidence that IPOs delay the departure of more talented analysts and that the effects are more concentrated among analysts and brokers that face more scrutiny.This paper was accepted by Brian Bushee, accounting.Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2022.4610.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4610
+UR  - https://doi.org/10.1287/mnsc.2022.4610
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Does a One-Size-Fits-All Minimum Wage Cause Financial Stress for Small Businesses?
+AU  - Chava, Sudheer
+AU  - Oettl, Alexander
+AU  - Singh, Manpreet
+Y1  - 2023/01/06
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.4620
+DO  - 10.1287/mnsc.2022.4620
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7095
+EP  - 7117
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - Using intertemporal variation in the bounding of a state?s minimum wage by the federal rate and business credit-score data for 15.2 million establishments, we find that the increase in labor costs caused by a higher federal minimum wage leads to lower business credit scores and worsens the financial health of small businesses in the affected states. In particular, small, young, labor-intensive, and minimum-wage-sensitive establishments located in affected states and those located in competitive and low-income areas experience higher financial stress. Increases in the minimum wage are associated with employment reductions and a higher exit rate for small businesses. Our results document some potential costs of a one-size-fits-all nationwide minimum wage for some small businesses.This paper was accepted by Gustavo Manso, finance.Funding: This work was supported by the Ewing Marion Kauffman Foundation Junior Faculty Fellowship.Supplemental Material: The data and internet appendix are available at https://doi.org/10.1287/mnsc.2022.4620.
+AB  - Using intertemporal variation in the bounding of a state?s minimum wage by the federal rate and business credit-score data for 15.2 million establishments, we find that the increase in labor costs caused by a higher federal minimum wage leads to lower business credit scores and worsens the financial health of small businesses in the affected states. In particular, small, young, labor-intensive, and minimum-wage-sensitive establishments located in affected states and those located in competitive and low-income areas experience higher financial stress. Increases in the minimum wage are associated with employment reductions and a higher exit rate for small businesses. Our results document some potential costs of a one-size-fits-all nationwide minimum wage for some small businesses.This paper was accepted by Gustavo Manso, finance.Funding: This work was supported by the Ewing Marion Kauffman Foundation Junior Faculty Fellowship.Supplemental Material: The data and internet appendix are available at https://doi.org/10.1287/mnsc.2022.4620.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4620
+UR  - https://doi.org/10.1287/mnsc.2022.4620
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Mortgage Servicing Fees and Servicer Incentives During Loss Mitigation
+AU  - Diop, Moussa
+AU  - Zheng, Chen
+Y1  - 2022/12/20
+PY  - 2022
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2022.4626
+DO  - 10.1287/mnsc.2022.4626
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 7118
+EP  - 7150
+VL  - 69
+IS  - 11
+PB  - INFORMS
+N2  - We study incentive problems associated with the compensation of servicers during default remediation. First, we fill a gap in the literature by identifying stylized facts about servicing fees. Next, we present evidence showing that servicing fees drive mortgage modifications and foreclosures, likely to the detriment of investors. Servicers modify loans paying high servicing fees and delay their foreclosure to protect servicing cash flows. These effects are causal. Voluntary mortgage renegotiation by servicers is unlikely to reduce foreclosures. In addition to ex post government intervention, special servicing and innovative mortgage contracts allowing for affordable modifications that benefit investors may improve renegotiation outcomes.This paper was accepted by Tomasz Piskorski, finance.
+AB  - We study incentive problems associated with the compensation of servicers during default remediation. First, we fill a gap in the literature by identifying stylized facts about servicing fees. Next, we present evidence showing that servicing fees drive mortgage modifications and foreclosures, likely to the detriment of investors. Servicers modify loans paying high servicing fees and delay their foreclosure to protect servicing cash flows. These effects are causal. Voluntary mortgage renegotiation by servicers is unlikely to reduce foreclosures. In addition to ex post government intervention, special servicing and innovative mortgage contracts allowing for affordable modifications that benefit investors may improve renegotiation outcomes.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4626
+UR  - https://doi.org/10.1287/mnsc.2022.4626
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2023/11/01
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1287/mnsc.2023.eb.v69n11
+DO  - 10.1287/mnsc.2023.eb.v69n11
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 69
+IS  - 11
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.eb.v69n11
+UR  - https://doi.org/10.1287/mnsc.2023.eb.v69n11
+Y2  - 2024/03/27
+ER  - 

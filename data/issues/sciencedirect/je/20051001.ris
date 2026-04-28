@@ -1,0 +1,136 @@
+TY  - JOUR
+T1  - Size and power of tests of stationarity in highly autocorrelated time series
+AU  - Müller, Ulrich K.
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 2
+SP  - 195
+EP  - 213
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760400154X
+KW  - Local-to-unity asymptotics
+KW  - Long-run variance estimation
+KW  - Mean reversion
+KW  - Efficient stationarity tests
+AB  - Tests of stationarity are routinely applied to highly autocorrelated time series. Following Kwiatkowski et al. (J. Econom. 54 (1992) 159), standard stationarity tests employ a rescaling by an estimator of the long-run variance of the (potentially) stationary series. This paper analytically investigates the size and power properties of such tests when the series are strongly autocorrelated in a local-to-unity asymptotic framework. It is shown that the behavior of the tests strongly depends on the long-run variance estimator employed, but is in general highly undesirable. Either the tests fail to control size even for strongly mean reverting series, or they are inconsistent against an integrated process and discriminate only poorly between stationary and integrated processes compared to optimal statistics.
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation of limited and discrete dependent variable models with nested random effects
+AU  - Rabe-Hesketh, Sophia
+AU  - Skrondal, Anders
+AU  - Pickles, Andrew
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 2
+SP  - 301
+EP  - 323
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001599
+KW  - Random effects
+KW  - Random coefficients
+KW  - Multilevel models
+KW  - Hierarchical models
+KW  - Numerical integration
+KW  - Adaptive quadrature
+KW  - Spherical quadrature rules
+KW  - GLLAMM
+AB  - Gauss–Hermite quadrature is often used to evaluate and maximize the likelihood for random component probit models. Unfortunately, the estimates are biased for large cluster sizes and/or intraclass correlations. We show that adaptive quadrature largely overcomes these problems. We then extend the adaptive quadrature approach to general random coefficient models with limited and discrete dependent variables. The models can include several nested random effects (intercepts and coefficients) representing unobserved heterogeneity at different levels of a hierarchical dataset. The required multivariate integrals are evaluated efficiently using spherical quadrature rules. Simulations show that adaptive quadrature performs well in a wide range of situations.
+ER  - 
+
+TY  - JOUR
+T1  - Author index to volume 128
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 2
+SP  - 325
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(05)00185-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407605001855
+ER  - 
+
+TY  - JOUR
+T1  - Sign tests for long-memory time series
+AU  - Delgado, Miguel A.
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 2
+SP  - 215
+EP  - 251
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001551
+KW  - Exact tests
+KW  - Nonparametric tests
+KW  - Infinite variance
+KW  - Long-range dependence
+KW  - Fractional processes
+KW  - Nonstationarity
+KW  - Optimal tests
+AB  - This paper proposes sign-based tests for simple and composite hypotheses on the long-memory parameter of a time series process. The tests allow for nonstationary hypothesis, such as unit root, as well as for stationary hypotheses, such as weak dependence or no integration. The proposed generalized Lagrange multiplier sign tests for simple hypotheses on the long-memory parameter are exact and locally optimal among those in their class. We also propose tests for composite hypotheses on the parameters of ARFIMA(p,d,q) processes. The resulting tests statistics have a standard normal limiting distribution under the null hypothesis.
+ER  - 
+
+TY  - JOUR
+T1  - IFC - Inside Front Cover - Editorial Board
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 2
+SP  - CO2
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(05)00182-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440760500182X
+ER  - 
+
+TY  - JOUR
+T1  - Generating schemes for long memory processes: regimes, aggregation and linearity
+AU  - Davidson, James
+AU  - Sibbertsen, Philipp
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 2
+SP  - 253
+EP  - 282
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001563
+KW  - Long memory
+KW  - Regime-switching
+KW  - Aggregation
+KW  - Levy motion
+AB  - This paper analyses a class of nonlinear time series models exhibiting long memory. These processes exhibit short memory fluctuations around a local mean (regime) which switches randomly such that the durations of the regimes follow a power law. We show that if a large number of independent copies of such a process are aggregated, the resulting processes are Gaussian, have a linear representation, and converge after normalisation to fractional Brownian motion. Alternatively, an aggregation scheme with Gaussian common components can yield the same result. However, a non-aggregated regime process is shown to converge to a Levy motion with infinite variance, suitably normalised, emphasising the fact that time aggregation alone fails to yield a FCLT. Two cases arise, a stationary case in which the partial sums of the process converge, and a nonstationary case in which the process itself converges, the Hurst coefficient falling in the ranges (12,1) and (0,12), respectively. We comment on the relevance of our results to the interpretation of the long memory phenomenon, and also report some simulations aimed to throw light on the problem of discriminating between the models in practice.
+ER  - 
+
+TY  - JOUR
+T1  - The distance between rival nonstationary fractional processes
+AU  - Robinson, P.M.
+JO  - Journal of Econometrics
+VL  - 128
+IS  - 2
+SP  - 283
+EP  - 300
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2004.08.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407604001575
+KW  - Nonstationary fractional processes
+KW  - Memory parameter estimation
+KW  - Fractional cointegration
+KW  - Rates of convergence
+AB  - Asymptotic inference on nonstationary fractional time series models, including cointegrated ones, is proceeding along two routes, determined by alternative definitions of nonstationary processes. We derive bounds for the mean squared error of the difference between (possibly tapered) discrete Fourier transforms under the two regimes. We apply the results to deduce limit theory for estimates of memory parameters, including ones for cointegrating errors, with mention also of implications for estimates of cointegrating coefficients.
+ER  - 

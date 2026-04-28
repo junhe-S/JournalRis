@@ -1,0 +1,801 @@
+
+
+
+
+
+TY  - JOUR
+T1  - The Causal Impact of Distance on Bank Lending
+AU  - Herpfer, Christoph
+AU  - Mjøs, Aksel
+AU  - Schmidt, Cornelius
+Y1  - 2022/04/06
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4346
+DO  - 10.1287/mnsc.2022.4346
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 723
+EP  - 740
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We investigate the role of physical distance in corporate lending by exploiting infrastructure improvements as shocks to travel time. Lower travel time increases the likelihood of initiating a new banking relationship, consistent with an economic surplus from lower transaction costs. In existing lending relationships, banks capture part of this surplus by increasing interest rates, in particular, if banks have higher bargaining power. Reductions in travel time to competing banks have the opposite effects. Banks benefit from improved infrastructure through an increase in clients, and lenders that rely more on technology do not exhibit sensitivity to changes in distance.This paper was accepted by Victoria Ivashina, finance.Funding: Financial support from Finans|Bergen is gratefully acknowledged.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4346.
+AB  - We investigate the role of physical distance in corporate lending by exploiting infrastructure improvements as shocks to travel time. Lower travel time increases the likelihood of initiating a new banking relationship, consistent with an economic surplus from lower transaction costs. In existing lending relationships, banks capture part of this surplus by increasing interest rates, in particular, if banks have higher bargaining power. Reductions in travel time to competing banks have the opposite effects. Banks benefit from improved infrastructure through an increase in clients, and lenders that rely more on technology do not exhibit sensitivity to changes in distance.This paper was accepted by Victoria Ivashina, finance.Funding: Financial support from Finans|Bergen is gratefully acknowledged.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4346.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4346
+UR  - https://doi.org/10.1287/mnsc.2022.4346
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Analyzing Active Fund Managers’ Commitment to ESG: Evidence from the United Nations Principles for Responsible Investment
+AU  - Kim, Soohun
+AU  - Yoon, Aaron
+Y1  - 2022/04/18
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4394
+DO  - 10.1287/mnsc.2022.4394
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 741
+EP  - 758
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - The United Nations Principles for Responsible Investment (PRI) is the largest global environmental, social, and governance (ESG) initiative in the asset-management industry to date. We analyze what happens after active U.S. mutual funds sign the PRI to assess whether they exhibit ESG implementation. We find that PRI signatories attract a large fund inflow, but we do not observe improvements in fund-level ESG scores or fund returns. We consider a battery of ways to proxy for funds? ESG incorporation (e.g., entry/exit, screening, engagement, voting for pro-ESG proposals), but fail to observe evidence of meaningful on average follow-through. Next, we explore cross-sectional fund characteristics and find that only quant funds exhibit small improvements in ESG performance versus other funds, mainly through buying high-ESG-performing stocks. Furthermore, we note that signatories are not superior performers in ESG issues prior to joining the PRI relative to non-PRI funds, but PRI affiliation tends to be widely advertised on company websites, marketing materials, and fund documents. Overall, a reasonable reader may perceive our findings as consistent with PRI funds? greenwashing. We note, however, that what we uncover is based only on outcome-based measures and may miss some actual efforts of signatories.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4394.
+AB  - The United Nations Principles for Responsible Investment (PRI) is the largest global environmental, social, and governance (ESG) initiative in the asset-management industry to date. We analyze what happens after active U.S. mutual funds sign the PRI to assess whether they exhibit ESG implementation. We find that PRI signatories attract a large fund inflow, but we do not observe improvements in fund-level ESG scores or fund returns. We consider a battery of ways to proxy for funds? ESG incorporation (e.g., entry/exit, screening, engagement, voting for pro-ESG proposals), but fail to observe evidence of meaningful on average follow-through. Next, we explore cross-sectional fund characteristics and find that only quant funds exhibit small improvements in ESG performance versus other funds, mainly through buying high-ESG-performing stocks. Furthermore, we note that signatories are not superior performers in ESG issues prior to joining the PRI relative to non-PRI funds, but PRI affiliation tends to be widely advertised on company websites, marketing materials, and fund documents. Overall, a reasonable reader may perceive our findings as consistent with PRI funds? greenwashing. We note, however, that what we uncover is based only on outcome-based measures and may miss some actual efforts of signatories.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4394.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4394
+UR  - https://doi.org/10.1287/mnsc.2022.4394
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Practical End-to-End Inventory Management Model with Deep Learning
+AU  - Qi, Meng
+AU  - Shi, Yuanyuan
+AU  - Qi, Yongzhi
+AU  - Ma, Chenxin
+AU  - Yuan, Rong
+AU  - Wu, Di
+AU  - Shen, Zuo-Jun (Max)
+Y1  - 2022/12/13
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4564
+DO  - 10.1287/mnsc.2022.4564
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 759
+EP  - 773
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We investigate a data-driven multiperiod inventory replenishment problem with uncertain demand and vendor lead time (VLT) with accessibility to a large quantity of historical data. Different from the traditional two-step predict-then-optimize (PTO) solution framework, we propose a one-step end-to-end (E2E) framework that uses deep learning models to output the suggested replenishment amount directly from input features without any intermediate step. The E2E model is trained to capture the behavior of the optimal dynamic programming solution under historical observations without any prior assumptions on the distributions of the demand and the VLT. By conducting a series of thorough numerical experiments using real data from one of the leading e-commerce companies, we demonstrate the advantages of the proposed E2E model over conventional PTO frameworks. We also conduct a field experiment with JD.com, and the results show that our new algorithm reduces holding cost, stockout cost, total inventory cost, and turnover rate substantially compared with JD?s current practice. For the supply chain management industry, our E2E model shortens the decision process and provides an automatic inventory management solution with the possibility to generalize and scale. The concept of E2E, which uses the input information directly for the ultimate goal, can also be useful in practice for other supply chain management circumstances.This paper was accepted by Hamid Nazerzadeh, big data analytics.Funding: This research was supported by the National Key Research and Development Program of China [Grant 2018YFB1700600] and National Natural Science Foundation of China [Grants 71991462 and 91746210].Supplemental Material: The online data are available at https://doi.org/10.1287/mnsc.2022.4564.
+AB  - We investigate a data-driven multiperiod inventory replenishment problem with uncertain demand and vendor lead time (VLT) with accessibility to a large quantity of historical data. Different from the traditional two-step predict-then-optimize (PTO) solution framework, we propose a one-step end-to-end (E2E) framework that uses deep learning models to output the suggested replenishment amount directly from input features without any intermediate step. The E2E model is trained to capture the behavior of the optimal dynamic programming solution under historical observations without any prior assumptions on the distributions of the demand and the VLT. By conducting a series of thorough numerical experiments using real data from one of the leading e-commerce companies, we demonstrate the advantages of the proposed E2E model over conventional PTO frameworks. We also conduct a field experiment with JD.com, and the results show that our new algorithm reduces holding cost, stockout cost, total inventory cost, and turnover rate substantially compared with JD?s current practice. For the supply chain management industry, our E2E model shortens the decision process and provides an automatic inventory management solution with the possibility to generalize and scale. The concept of E2E, which uses the input information directly for the ultimate goal, can also be useful in practice for other supply chain management circumstances.This paper was accepted by Hamid Nazerzadeh, big data analytics.Funding: This research was supported by the National Key Research and Development Program of China [Grant 2018YFB1700600] and National Natural Science Foundation of China [Grants 71991462 and 91746210].Supplemental Material: The online data are available at https://doi.org/10.1287/mnsc.2022.4564.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4564
+UR  - https://doi.org/10.1287/mnsc.2022.4564
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Order Protection Through Delayed Messaging
+AU  - Aldrich, Eric M.
+AU  - Friedman, Daniel
+Y1  - 2022/03/21
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4370
+DO  - 10.1287/mnsc.2022.4370
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 774
+EP  - 790
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - Several financial exchanges (e.g., IEX and NYSE American) recently introduced messaging delays to protect ordinary investors from high-frequency traders who exploit stale orders. To capture the impact of such delays, we propose a simple parametric model of the continuous double auction market format. The model examines the dynamics of midpoint pegged order queues and finds their steady states. It shows how messaging delays can protect pegged orders and improve investor welfare, but typically increase queuing costs. Recently available field data show that the empirical distribution of queued pegged orders is highly leptokurtotic and resembles the discrete Laplace distribution predicted by the model.This paper was accepted by Haoxiang Zhu, finance.Funding: Financial support from the European Research Council under the European Union?s Horizon 2020 research and innovation programme [Grant 741409] and the Center for Analytical Finance at the University of California Santa Cruz [seed funding of the Experimental High-Frequency Trading project, of which this paper is a part] is gratefully acknowledged.Supplemental Material: The online supplement is available at https://doi.org/10.1287/mnsc.2022.4370.
+AB  - Several financial exchanges (e.g., IEX and NYSE American) recently introduced messaging delays to protect ordinary investors from high-frequency traders who exploit stale orders. To capture the impact of such delays, we propose a simple parametric model of the continuous double auction market format. The model examines the dynamics of midpoint pegged order queues and finds their steady states. It shows how messaging delays can protect pegged orders and improve investor welfare, but typically increase queuing costs. Recently available field data show that the empirical distribution of queued pegged orders is highly leptokurtotic and resembles the discrete Laplace distribution predicted by the model.This paper was accepted by Haoxiang Zhu, finance.Funding: Financial support from the European Research Council under the European Union?s Horizon 2020 research and innovation programme [Grant 741409] and the Center for Analytical Finance at the University of California Santa Cruz [seed funding of the Experimental High-Frequency Trading project, of which this paper is a part] is gratefully acknowledged.Supplemental Material: The online supplement is available at https://doi.org/10.1287/mnsc.2022.4370.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4370
+UR  - https://doi.org/10.1287/mnsc.2022.4370
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Effects of Health Information Exchange Access on Healthcare Quality and Efficiency: An Empirical Investigation
+AU  - Janakiraman, Ramkumar
+AU  - Park, Eunho
+AU  - M. Demirezen, Emre
+AU  - Kumar, Subodha
+Y1  - 2022/07/29
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4378
+DO  - 10.1287/mnsc.2022.4378
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 791
+EP  - 811
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - Health information exchanges (HIEs) are designed to improve the quality and efficiency of healthcare by facilitating improved information sharing between health entities. This study systematically examines the impact of HIE use in emergency departments (EDs) on the quality and efficiency of medical care. We focus on the length of stay (LOS) and the 30-day readmission rate to capture healthcare efficiency and quality, respectively. We also examine whether the breadth of patient health information and physicians? experience with the HIE moderates these effects. We leverage a unique panel data that tracks actual HIE access by physicians who practice in a set of hospitals that participate in the focal HIE. The patient-level encounter data set?which involves more than 80,000 ED encounters attended by more than 300 physicians over a 19-month period?comprises detailed medical provider information, patient-level medical information, and various other information related to procedures that were performed. After controlling for a battery of patient-specific, physician-specific, disease-specific, and ED visit-specific variables, our results show that HIE access in information-intensive environments (such as EDs) reduces LOS and 30-day readmission rate. We find that breadth of patient health information and physicians? HIE experience amplify these benefits. We account for endogeneity issues and perform additional falsification tests and robustness checks. We document that benefits of HIE access are amplified for noninjury, chronic condition, and uncommon diagnoses related patient visits. Based on our results, we offer insights to practitioners and academicians alike on how HIEs can yield better patient-level and provider-level outcomes.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: The web appendix is available at https://doi.org/10.1287/mnsc.2022.4378.
+AB  - Health information exchanges (HIEs) are designed to improve the quality and efficiency of healthcare by facilitating improved information sharing between health entities. This study systematically examines the impact of HIE use in emergency departments (EDs) on the quality and efficiency of medical care. We focus on the length of stay (LOS) and the 30-day readmission rate to capture healthcare efficiency and quality, respectively. We also examine whether the breadth of patient health information and physicians? experience with the HIE moderates these effects. We leverage a unique panel data that tracks actual HIE access by physicians who practice in a set of hospitals that participate in the focal HIE. The patient-level encounter data set?which involves more than 80,000 ED encounters attended by more than 300 physicians over a 19-month period?comprises detailed medical provider information, patient-level medical information, and various other information related to procedures that were performed. After controlling for a battery of patient-specific, physician-specific, disease-specific, and ED visit-specific variables, our results show that HIE access in information-intensive environments (such as EDs) reduces LOS and 30-day readmission rate. We find that breadth of patient health information and physicians? HIE experience amplify these benefits. We account for endogeneity issues and perform additional falsification tests and robustness checks. We document that benefits of HIE access are amplified for noninjury, chronic condition, and uncommon diagnoses related patient visits. Based on our results, we offer insights to practitioners and academicians alike on how HIEs can yield better patient-level and provider-level outcomes.This paper was accepted by Anandhi Bharadwaj, information systems.Supplemental Material: The web appendix is available at https://doi.org/10.1287/mnsc.2022.4378.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4378
+UR  - https://doi.org/10.1287/mnsc.2022.4378
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Managing Relationships Between Restaurants and Food Delivery Platforms: Conflict, Contracts, and Coordination
+AU  - Feldman, Pnina
+AU  - Frazelle, Andrew E.
+AU  - Swinney, Robert
+Y1  - 2022/03/28
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4390
+DO  - 10.1287/mnsc.2022.4390
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 812
+EP  - 823
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - Restaurant delivery platforms collect customer orders via the Internet, transmit them to restaurants, and deliver the orders to customers. They provide value to restaurants by expanding their markets, but critics claim they destroy restaurant profits by taking a percentage of revenues and generating congestion that negatively impacts dine-in customers. We consider these tensions using a model of a restaurant as a congested service system. We find that the predominant industry contract, in which the platform takes a percentage cut of each delivery order (a ?commission?), fails to coordinate the system because the platform does not internalize its effect on dine-in revenues; this leads to prices that are too low, reducing the restaurant?s margins and leaving money on the table for both firms. Two commonly proposed remedies to this problem (commission caps and allowing the restaurant to set a price floor on the platform) can increase restaurant revenue but do not solve the coordination issue. We thus propose an alternative, practical coordinating contract that is a variation of the current industry standard: for each delivery order, the platform pays the restaurant a percentage revenue share and a fixed fee. We show that this contract, appropriately designed, coordinates the system, protects restaurant margins by ensuring a lower bound on its revenue per delivery order, and allocates revenue between the restaurant and the platform with a high degree of flexibility.This paper was accepted by Victor Martinez-de-Albeniz, operations management.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4390.
+AB  - Restaurant delivery platforms collect customer orders via the Internet, transmit them to restaurants, and deliver the orders to customers. They provide value to restaurants by expanding their markets, but critics claim they destroy restaurant profits by taking a percentage of revenues and generating congestion that negatively impacts dine-in customers. We consider these tensions using a model of a restaurant as a congested service system. We find that the predominant industry contract, in which the platform takes a percentage cut of each delivery order (a ?commission?), fails to coordinate the system because the platform does not internalize its effect on dine-in revenues; this leads to prices that are too low, reducing the restaurant?s margins and leaving money on the table for both firms. Two commonly proposed remedies to this problem (commission caps and allowing the restaurant to set a price floor on the platform) can increase restaurant revenue but do not solve the coordination issue. We thus propose an alternative, practical coordinating contract that is a variation of the current industry standard: for each delivery order, the platform pays the restaurant a percentage revenue share and a fixed fee. We show that this contract, appropriately designed, coordinates the system, protects restaurant margins by ensuring a lower bound on its revenue per delivery order, and allocates revenue between the restaurant and the platform with a high degree of flexibility.This paper was accepted by Victor Martinez-de-Albeniz, operations management.Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2022.4390.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4390
+UR  - https://doi.org/10.1287/mnsc.2022.4390
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Pricing with Online Reviews
+AU  - Shin, Dongwook
+AU  - Vaccari, Stefano
+AU  - Zeevi, Assaf
+Y1  - 2022/04/05
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4387
+DO  - 10.1287/mnsc.2022.4387
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 824
+EP  - 845
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - This paper investigates how the pricing policy of a revenue-maximizing monopolist is influenced by the social learning dynamics of customers who use online reviews to estimate the quality of the product. A salient feature of our problem is that the customers? willingness to pay, and hence the demand function, evolves over time in conjunction with the online reviews. The monopolist strives to maximize its total expected revenue over a finite horizon by adjusting prices in response to these dynamics. The revenue maximization problem is studied using two different review models: a quality-based review model, where customers report their experienced quality, and a value-based review model, where reviews internalize experienced quality as well as the purchase price. To formulate the problem in tractable form, we derive a fluid model that provides a good approximation of the system dynamics when the volume of sales is large. This formulation lends itself to key structural insights into the interactions between optimal pricing policies and review dynamics. In particular, we identify critical time scales and social learning regimes that sharply separate the efficacy of dynamic pricing vis-à-vis fixed-price strategies. Furthermore, we demonstrate the impact of the quality-based and value-based review models on key structural properties of the optimal pricing policies. These structural insights are also elucidated in an illustrative simulation study based on data from an online marketplace.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: Data and the e-companion are available at https://doi.org/10.1287/mnsc.2022.4387.
+AB  - This paper investigates how the pricing policy of a revenue-maximizing monopolist is influenced by the social learning dynamics of customers who use online reviews to estimate the quality of the product. A salient feature of our problem is that the customers? willingness to pay, and hence the demand function, evolves over time in conjunction with the online reviews. The monopolist strives to maximize its total expected revenue over a finite horizon by adjusting prices in response to these dynamics. The revenue maximization problem is studied using two different review models: a quality-based review model, where customers report their experienced quality, and a value-based review model, where reviews internalize experienced quality as well as the purchase price. To formulate the problem in tractable form, we derive a fluid model that provides a good approximation of the system dynamics when the volume of sales is large. This formulation lends itself to key structural insights into the interactions between optimal pricing policies and review dynamics. In particular, we identify critical time scales and social learning regimes that sharply separate the efficacy of dynamic pricing vis-à-vis fixed-price strategies. Furthermore, we demonstrate the impact of the quality-based and value-based review models on key structural properties of the optimal pricing policies. These structural insights are also elucidated in an illustrative simulation study based on data from an online marketplace.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: Data and the e-companion are available at https://doi.org/10.1287/mnsc.2022.4387.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4387
+UR  - https://doi.org/10.1287/mnsc.2022.4387
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic Optimality of Base-Stock Policies for Perishable Inventory Systems
+AU  - Bu, Jinzhi
+AU  - Gong, Xiting
+AU  - Chao, Xiuli
+Y1  - 2022/05/16
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4400
+DO  - 10.1287/mnsc.2022.4400
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 846
+EP  - 864
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We consider periodic review perishable inventory systems with a fixed product lifetime. Unsatisfied demand can be either lost or backlogged. The objective is to minimize the long-run average holding, penalty, and outdating cost. The optimal policy for these systems is notoriously complex and computationally intractable because of the curse of dimensionality. Hence, various heuristic replenishment policies are proposed in the literature, including the base-stock policy, which raises the total inventory level to a constant in each review period. Whereas various studies show near-optimal numerical performances of base-stock policies in the classic system with zero replenishment lead time and a first-in-first-out issuance policy, the results on their theoretical performances are very limited. In this paper, we first focus on this classic system and show that a simple base-stock policy is asymptotically optimal when any one of the product lifetime, demand population size, unit penalty cost, and unit outdating cost becomes large; moreover, its optimality gap converges to zero exponentially fast in the first two parameters. We then study two important extensions. For a system under a last-in-first-out or even an arbitrary issuance policy, we prove that a simple base-stock policy is asymptotically optimal with large product lifetime, large unit penalty costs, and large unit outdating costs, and for a backlogging system with positive lead times, we prove that our results continue to hold with large product lifetime, large demand population sizes, and large unit outdating costs. Finally, we provide a numerical study to demonstrate the performances of base-stock policies in these systems.This paper was accepted by Victor Martinez de Albéniz, operations management.Funding: J. Bu was partially supported by a Hong Kong Polytechnic University Start-up Fund for New Recruits [Grant P0039585]. X. Gong was partially supported by a Chinese University of Hong Kong (CUHK) Direct Grant [Grant 4057147] and the Hong Kong Research Grants Council (RGC) General Research Fund [Grant CUHK14500120].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4400.
+AB  - We consider periodic review perishable inventory systems with a fixed product lifetime. Unsatisfied demand can be either lost or backlogged. The objective is to minimize the long-run average holding, penalty, and outdating cost. The optimal policy for these systems is notoriously complex and computationally intractable because of the curse of dimensionality. Hence, various heuristic replenishment policies are proposed in the literature, including the base-stock policy, which raises the total inventory level to a constant in each review period. Whereas various studies show near-optimal numerical performances of base-stock policies in the classic system with zero replenishment lead time and a first-in-first-out issuance policy, the results on their theoretical performances are very limited. In this paper, we first focus on this classic system and show that a simple base-stock policy is asymptotically optimal when any one of the product lifetime, demand population size, unit penalty cost, and unit outdating cost becomes large; moreover, its optimality gap converges to zero exponentially fast in the first two parameters. We then study two important extensions. For a system under a last-in-first-out or even an arbitrary issuance policy, we prove that a simple base-stock policy is asymptotically optimal with large product lifetime, large unit penalty costs, and large unit outdating costs, and for a backlogging system with positive lead times, we prove that our results continue to hold with large product lifetime, large demand population sizes, and large unit outdating costs. Finally, we provide a numerical study to demonstrate the performances of base-stock policies in these systems.This paper was accepted by Victor Martinez de Albéniz, operations management.Funding: J. Bu was partially supported by a Hong Kong Polytechnic University Start-up Fund for New Recruits [Grant P0039585]. X. Gong was partially supported by a Chinese University of Hong Kong (CUHK) Direct Grant [Grant 4057147] and the Hong Kong Research Grants Council (RGC) General Research Fund [Grant CUHK14500120].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4400.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4400
+UR  - https://doi.org/10.1287/mnsc.2022.4400
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Omnichannel Services: The False Premise and Operational Remedies
+AU  - Baron, Opher
+AU  - Chen, Xiaole
+AU  - Li, Yang
+Y1  - 2022/04/26
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4416
+DO  - 10.1287/mnsc.2022.4416
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 865
+EP  - 884
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - The notion of omnichannel, an integration of brick-and-mortar stores with online channels, has been thriving in recent years and is reforming the traditional service industry. Many service chains, such as Starbucks and McDonald?s, established omnichannel capability by allowing customers to order online in advance before visiting stores for pickup. The premise of omnichannel services is that when customers take advantage of the low-cost-of-waiting online channel, both their utility and the provider?s revenue will increase. Although simply adding an online-ordering option to the conventional walk-in model stimulates revenue, it also inflicts interference on the walk-in channel. We show that online ordering inadvertently reduces customers? individual utility and social welfare when both channels are used in equilibrium. Moreover, the less it costs to order and wait online, the more the social welfare is reduced. We then evaluate two industry state-of-the-art operational remedies: regulating the use of the online channel and establishing channel-dedicated capacities. Although both remedies may improve the throughput over the walk-in-only service or even the first-come-first-served omnichannel service, they are unlikely to achieve this without jeopardizing the social welfare. We thus propose prioritizing walk-in customers and show that such prioritization can deliver this premise?that is, simultaneously benefiting the service provider and customers in comparison with the conventional walk-in-only service when both channels are used in equilibrium. Our results highlight that creating an efficient marketplace requires synergy between innovative technology and effective operational strategies.This paper was accepted by Victor Martinez de Albéniz, operations management.Funding: Y. Li was supported in part by the Hong Kong Research Grants Council General Research Fund [Project 14505820].Supplemental Material: The technical supplement and online appendix are available at https://doi.org/10.1287/mnsc.2022.4416.
+AB  - The notion of omnichannel, an integration of brick-and-mortar stores with online channels, has been thriving in recent years and is reforming the traditional service industry. Many service chains, such as Starbucks and McDonald?s, established omnichannel capability by allowing customers to order online in advance before visiting stores for pickup. The premise of omnichannel services is that when customers take advantage of the low-cost-of-waiting online channel, both their utility and the provider?s revenue will increase. Although simply adding an online-ordering option to the conventional walk-in model stimulates revenue, it also inflicts interference on the walk-in channel. We show that online ordering inadvertently reduces customers? individual utility and social welfare when both channels are used in equilibrium. Moreover, the less it costs to order and wait online, the more the social welfare is reduced. We then evaluate two industry state-of-the-art operational remedies: regulating the use of the online channel and establishing channel-dedicated capacities. Although both remedies may improve the throughput over the walk-in-only service or even the first-come-first-served omnichannel service, they are unlikely to achieve this without jeopardizing the social welfare. We thus propose prioritizing walk-in customers and show that such prioritization can deliver this premise?that is, simultaneously benefiting the service provider and customers in comparison with the conventional walk-in-only service when both channels are used in equilibrium. Our results highlight that creating an efficient marketplace requires synergy between innovative technology and effective operational strategies.This paper was accepted by Victor Martinez de Albéniz, operations management.Funding: Y. Li was supported in part by the Hong Kong Research Grants Council General Research Fund [Project 14505820].Supplemental Material: The technical supplement and online appendix are available at https://doi.org/10.1287/mnsc.2022.4416.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4416
+UR  - https://doi.org/10.1287/mnsc.2022.4416
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Offline Pricing and Demand Learning with Censored Data
+AU  - Bu, Jinzhi
+AU  - Simchi-Levi, David
+AU  - Wang, Li
+Y1  - 2022/04/04
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4382
+DO  - 10.1287/mnsc.2022.4382
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 885
+EP  - 903
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We study a single product pricing problem with demand censoring in an offline data-driven setting. In this problem, a retailer has a finite amount of inventory and faces a random demand that is price sensitive in a linear fashion with unknown price sensitivity and base demand distribution. Any unsatisfied demand that exceeds the inventory level is lost and unobservable. We assume that the retailer has access to an offline data set consisting of triples of historical price, inventory level, and potentially censored sales quantity. The retailer?s objective is to use the offline data set to find an optimal price, maximizing his or her expected revenue with finite inventories. Because of demand censoring in the offline data, we show that the existence of near-optimal algorithms in a data-driven problem?which we call problem identifiability?is not always guaranteed. We develop a necessary and sufficient condition for problem identifiability by comparing the solutions to two distributionally robust optimization problems. We propose a novel data-driven algorithm that hedges against the distributional uncertainty arising from censored data, with provable finite-sample performance guarantees regardless of problem identifiability and offline data quality. Specifically, we prove that, for identifiable problems, the proposed algorithm is near-optimal and, for unidentifiable problems, its worst-case revenue loss approaches the best-achievable minimax revenue loss that any data-driven algorithm must incur. Numerical experiments demonstrate that our proposed algorithm is highly effective and significantly improves both the expected and worst-case revenues compared with three regression-based algorithms.This paper was accepted by J. George Shanthikumar, big data analytics.Funding: This work was supported by the MIT Data Science Laboratory. J. Bu was partially supported by a Hong Kong Polytechnic University Start-up Fund for New Recruits [Project ID P0039585].Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4382.
+AB  - We study a single product pricing problem with demand censoring in an offline data-driven setting. In this problem, a retailer has a finite amount of inventory and faces a random demand that is price sensitive in a linear fashion with unknown price sensitivity and base demand distribution. Any unsatisfied demand that exceeds the inventory level is lost and unobservable. We assume that the retailer has access to an offline data set consisting of triples of historical price, inventory level, and potentially censored sales quantity. The retailer?s objective is to use the offline data set to find an optimal price, maximizing his or her expected revenue with finite inventories. Because of demand censoring in the offline data, we show that the existence of near-optimal algorithms in a data-driven problem?which we call problem identifiability?is not always guaranteed. We develop a necessary and sufficient condition for problem identifiability by comparing the solutions to two distributionally robust optimization problems. We propose a novel data-driven algorithm that hedges against the distributional uncertainty arising from censored data, with provable finite-sample performance guarantees regardless of problem identifiability and offline data quality. Specifically, we prove that, for identifiable problems, the proposed algorithm is near-optimal and, for unidentifiable problems, its worst-case revenue loss approaches the best-achievable minimax revenue loss that any data-driven algorithm must incur. Numerical experiments demonstrate that our proposed algorithm is highly effective and significantly improves both the expected and worst-case revenues compared with three regression-based algorithms.This paper was accepted by J. George Shanthikumar, big data analytics.Funding: This work was supported by the MIT Data Science Laboratory. J. Bu was partially supported by a Hong Kong Polytechnic University Start-up Fund for New Recruits [Project ID P0039585].Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4382.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4382
+UR  - https://doi.org/10.1287/mnsc.2022.4382
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Strategic Reviews
+AU  - Mostagir, Mohamed
+AU  - Siderius, James
+Y1  - 2022/04/01
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4376
+DO  - 10.1287/mnsc.2022.4376
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 904
+EP  - 921
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - The impact of product reviews on consumer purchasing behavior is empirically well documented. This can create perverse incentives for firms to offer reviewers side payments (?bribes?) in exchange for biased reviews for their products. The presence of bribes distorts the information in reviews and leads to detrimental effects on consumer utility. This paper builds a two-sided reputation model where a reviewer can inflate her reviews in exchange for bribes. If the reviewer accepts bribes and misrepresents her reviews, then she builds her reputation as an inaccurate reviewer and makes consumers less likely to follow her recommendations. This in turn makes firms no longer interested in offering her a bribe. Can the reviewer retain influence over consumers? purchasing decisions while simultaneously accepting bribes and misrepresenting her reviews? We provide a characterization of the environments that allow this kind of manipulation and show that regulatory policies that aim to reduce bribes can lead to undesirable outcomes. Finally, we show that eliminating bribes from the market can increase the welfare of all market participants, even for those firms who would have otherwise bribed in exchange for more favorable reviews.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4376.
+AB  - The impact of product reviews on consumer purchasing behavior is empirically well documented. This can create perverse incentives for firms to offer reviewers side payments (?bribes?) in exchange for biased reviews for their products. The presence of bribes distorts the information in reviews and leads to detrimental effects on consumer utility. This paper builds a two-sided reputation model where a reviewer can inflate her reviews in exchange for bribes. If the reviewer accepts bribes and misrepresents her reviews, then she builds her reputation as an inaccurate reviewer and makes consumers less likely to follow her recommendations. This in turn makes firms no longer interested in offering her a bribe. Can the reviewer retain influence over consumers? purchasing decisions while simultaneously accepting bribes and misrepresenting her reviews? We provide a characterization of the environments that allow this kind of manipulation and show that regulatory policies that aim to reduce bribes can lead to undesirable outcomes. Finally, we show that eliminating bribes from the market can increase the welfare of all market participants, even for those firms who would have otherwise bribed in exchange for more favorable reviews.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4376.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4376
+UR  - https://doi.org/10.1287/mnsc.2022.4376
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Generalized Bounds on the Conditional Expected Excess Return on Individual Stocks
+AU  - Chabi-Yo, Fousseni
+AU  - Dim, Chukwuma
+AU  - Vilkov, Grigory
+Y1  - 2022/03/24
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4367
+DO  - 10.1287/mnsc.2022.4367
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 922
+EP  - 939
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We derive generalized bounds on conditional expected excess returns that can be computed from option prices. The generalized lower bound may serve as an expected excess return proxy for individual and basket-type assets, is conditionally tight, accounts for the entire risk-neutral distribution of returns, and outperforms existing variance-based models in out-of-sample predictions. Bounds calibrated to realized returns correspond to reasonable risk aversion and prudence. On average, expected stock returns given by the bounds decrease on even weeks of the Federal Open Market Committee cycle. Cross-sectional tests deliver a reasonable market risk premium.This paper was accepted by Haoxiang Zhu, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4367.
+AB  - We derive generalized bounds on conditional expected excess returns that can be computed from option prices. The generalized lower bound may serve as an expected excess return proxy for individual and basket-type assets, is conditionally tight, accounts for the entire risk-neutral distribution of returns, and outperforms existing variance-based models in out-of-sample predictions. Bounds calibrated to realized returns correspond to reasonable risk aversion and prudence. On average, expected stock returns given by the bounds decrease on even weeks of the Federal Open Market Committee cycle. Cross-sectional tests deliver a reasonable market risk premium.This paper was accepted by Haoxiang Zhu, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4367.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4367
+UR  - https://doi.org/10.1287/mnsc.2022.4367
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Rapidly Evolving Technologies and Startup Exits
+AU  - Bowen, Donald E.
+AU  - Frésard, Laurent
+AU  - Hoberg, Gerard
+Y1  - 2022/03/30
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4362
+DO  - 10.1287/mnsc.2022.4362
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 940
+EP  - 967
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - This paper examines startups? positioning within technological cycles. We use patent text to measure whether innovation pertains to a technological area that is rapidly evolving or stable. We show that innovation in rapidly evolving areas (i.e., early in the cycle) substitute for existing technologies, whereas innovation in stable areas (i.e., later in the cycle) complement them. Our new measure is distinct from existing characterizations of innovation and is economically important. We find that startups in rapidly evolving areas tend to exit via initial public offering, thus remaining independent, consistent with technological substitution. In contrast, startups in stable areas tend to sell out, consistent with technological complementarity and synergies.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4362.
+AB  - This paper examines startups? positioning within technological cycles. We use patent text to measure whether innovation pertains to a technological area that is rapidly evolving or stable. We show that innovation in rapidly evolving areas (i.e., early in the cycle) substitute for existing technologies, whereas innovation in stable areas (i.e., later in the cycle) complement them. Our new measure is distinct from existing characterizations of innovation and is economically important. We find that startups in rapidly evolving areas tend to exit via initial public offering, thus remaining independent, consistent with technological substitution. In contrast, startups in stable areas tend to sell out, consistent with technological complementarity and synergies.This paper was accepted by Gustavo Manso, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4362.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4362
+UR  - https://doi.org/10.1287/mnsc.2022.4362
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Social Inequality and the Spread of Misinformation
+AU  - Mostagir, Mohamed
+AU  - Siderius, James
+Y1  - 2022/04/04
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4380
+DO  - 10.1287/mnsc.2022.4380
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 968
+EP  - 995
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We study the spread of misinformation in a social network characterized by unequal access to learning resources. Agents use social learning to uncover an unknown state of the world, and a principal strategically injects misinformation into the network to distort this learning process. A subset of agents throughout the network is endowed with knowledge of the true state. This gives rise to a natural definition of inequality: privileged communities have unrestricted access to these agents, whereas marginalized communities do not. We show that the role that this inequality plays in the spread of misinformation is highly complex. For instance, communities who hoard resources and deny them to the larger population can end up exposing themselves to more misinformation. Conversely, although more inequality generally leads to worse outcomes, the prevalence of misinformation in society is nonmonotone in the level of inequality. This implies that policies that decrease inequality without substantially reducing it can leave society more vulnerable to misinformation.This paper was accepted by Baris Ata, stochastic models and simulation.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4376.
+AB  - We study the spread of misinformation in a social network characterized by unequal access to learning resources. Agents use social learning to uncover an unknown state of the world, and a principal strategically injects misinformation into the network to distort this learning process. A subset of agents throughout the network is endowed with knowledge of the true state. This gives rise to a natural definition of inequality: privileged communities have unrestricted access to these agents, whereas marginalized communities do not. We show that the role that this inequality plays in the spread of misinformation is highly complex. For instance, communities who hoard resources and deny them to the larger population can end up exposing themselves to more misinformation. Conversely, although more inequality generally leads to worse outcomes, the prevalence of misinformation in society is nonmonotone in the level of inequality. This implies that policies that decrease inequality without substantially reducing it can leave society more vulnerable to misinformation.This paper was accepted by Baris Ata, stochastic models and simulation.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4376.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4380
+UR  - https://doi.org/10.1287/mnsc.2022.4380
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Courteous or Crude? Managing User Conduct to Improve On-Demand Service Platform Performance
+AU  - Mai, Yunke
+AU  - Hu, Bin
+AU  - Pekeč, Saša
+Y1  - 2022/03/25
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4391
+DO  - 10.1287/mnsc.2022.4391
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 996
+EP  - 1016
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - In this paper, we study how an on-demand service platform could improve its performance through managing user conduct. In such a platform, service providers may reject certain platform-proposed service requests, and their responses, in turn, incentivize users to adjust their conduct. We develop an evolutionary game theory model of user conduct and provider responses that shows that the platform could improve user conduct through either setting a low wage for service providers or implementing priority matching. Building upon these results, we further model providers and users joining and leaving the platform by once again utilizing the evolutionary game theory approach. We find that wage setting alone is a blunt instrument to improve platform performance via managing user conduct, whereas supplementing the wage decision with priority matching could overcome its limitations and serve as an effective strategy to further improve platform performance in terms of growth and profitability. This finding suggests that matching prioritization could be an important strategy for managing platforms with user and provider heterogeneities. In addition, our analysis and results also demonstrate the potential of the evolutionary game theory approach for analyzing the impact of pricing and matching decisions on the performance of large markets.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4391.
+AB  - In this paper, we study how an on-demand service platform could improve its performance through managing user conduct. In such a platform, service providers may reject certain platform-proposed service requests, and their responses, in turn, incentivize users to adjust their conduct. We develop an evolutionary game theory model of user conduct and provider responses that shows that the platform could improve user conduct through either setting a low wage for service providers or implementing priority matching. Building upon these results, we further model providers and users joining and leaving the platform by once again utilizing the evolutionary game theory approach. We find that wage setting alone is a blunt instrument to improve platform performance via managing user conduct, whereas supplementing the wage decision with priority matching could overcome its limitations and serve as an effective strategy to further improve platform performance in terms of growth and profitability. This finding suggests that matching prioritization could be an important strategy for managing platforms with user and provider heterogeneities. In addition, our analysis and results also demonstrate the potential of the evolutionary game theory approach for analyzing the impact of pricing and matching decisions on the performance of large markets.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4391.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4391
+UR  - https://doi.org/10.1287/mnsc.2022.4391
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Right to Repair: Pricing, Welfare, and Environmental Implications
+AU  - Jin, Chen
+AU  - Yang, Luyi
+AU  - Zhu, Cungen
+Y1  - 2022/05/03
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4401
+DO  - 10.1287/mnsc.2022.4401
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1017
+EP  - 1036
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - The ?right-to-repair? (RTR) movement calls for government legislation that requires manufacturers to provide repair information, tools, and parts so that consumers can independently repair their own products with more ease. The initiative has gained global traction in recent years. Repair advocates argue that such legislation would break manufacturers? monopoly on the repair market and benefit consumers. They further contend that it would reduce the environmental impact by reducing e-waste and new production. Yet the RTR legislation may also trigger a price response in the product market as manufacturers try to mitigate the profit loss. This paper employs an analytical model to study the pricing, welfare, and environmental implications of RTR. We find that, as the RTR legislation continually lowers the independent repair cost, manufacturers may initially cut the new product price and then raise it. This nonmonotone price adjustment may further induce a nonmonotone change in consumer surplus, social welfare, and the environmental impact. Strikingly, the RTR legislation can potentially lead to a lose?lose?lose outcome that compromises manufacturer profit, reduces consumer surplus, and increases the environmental impact despite repair being made easier and more affordable.This paper was accepted by Charles Corbett, operations management.Funding: Chen Jin gratefully acknowledges the Singapore Ministry of Education Academic Research Fund [Tier 1, Grant R-253-000-144-133].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4401.
+AB  - The ?right-to-repair? (RTR) movement calls for government legislation that requires manufacturers to provide repair information, tools, and parts so that consumers can independently repair their own products with more ease. The initiative has gained global traction in recent years. Repair advocates argue that such legislation would break manufacturers? monopoly on the repair market and benefit consumers. They further contend that it would reduce the environmental impact by reducing e-waste and new production. Yet the RTR legislation may also trigger a price response in the product market as manufacturers try to mitigate the profit loss. This paper employs an analytical model to study the pricing, welfare, and environmental implications of RTR. We find that, as the RTR legislation continually lowers the independent repair cost, manufacturers may initially cut the new product price and then raise it. This nonmonotone price adjustment may further induce a nonmonotone change in consumer surplus, social welfare, and the environmental impact. Strikingly, the RTR legislation can potentially lead to a lose?lose?lose outcome that compromises manufacturer profit, reduces consumer surplus, and increases the environmental impact despite repair being made easier and more affordable.This paper was accepted by Charles Corbett, operations management.Funding: Chen Jin gratefully acknowledges the Singapore Ministry of Education Academic Research Fund [Tier 1, Grant R-253-000-144-133].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4401.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4401
+UR  - https://doi.org/10.1287/mnsc.2022.4401
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Incentives and Defaults Can Increase COVID-19 Vaccine Intentions and Test Demand
+AU  - Serra-Garcia, Marta
+AU  - Szech, Nora
+Y1  - 2022/05/06
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4405
+DO  - 10.1287/mnsc.2022.4405
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1037
+EP  - 1049
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - Willingness to vaccinate and test are critical in the COVID-19 pandemic. We study the effects of two measures to increase the support of vaccination and testing: defaults and monetary compensations. Some organizations, such as restaurants, fire departments, hospitals, or governments in some countries, have used these measures. Yet there is the concern that compensations could erode intrinsic motivation and decrease vaccination intentions. We show that, in the early stages of the pandemic, both approaches, compensations and defaults, significantly increased COVID-19 test demand and vaccine intentions. Compensations for vaccines, however, need to be large enough because low compensations can backfire. We estimate heterogeneous treatment effects to document which groups are more likely to respond to these measures. The results show that defaults and avoidance of small compensations are especially important for individuals who are more skeptical of the vaccine, measured by their trust in the vaccine and their political views. Hence, both measures could be used in a targeted manner to achieve stronger results.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4405.
+AB  - Willingness to vaccinate and test are critical in the COVID-19 pandemic. We study the effects of two measures to increase the support of vaccination and testing: defaults and monetary compensations. Some organizations, such as restaurants, fire departments, hospitals, or governments in some countries, have used these measures. Yet there is the concern that compensations could erode intrinsic motivation and decrease vaccination intentions. We show that, in the early stages of the pandemic, both approaches, compensations and defaults, significantly increased COVID-19 test demand and vaccine intentions. Compensations for vaccines, however, need to be large enough because low compensations can backfire. We estimate heterogeneous treatment effects to document which groups are more likely to respond to these measures. The results show that defaults and avoidance of small compensations are especially important for individuals who are more skeptical of the vaccine, measured by their trust in the vaccine and their political views. Hence, both measures could be used in a targeted manner to achieve stronger results.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2022.4405.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4405
+UR  - https://doi.org/10.1287/mnsc.2022.4405
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Explaining Excess Entry in Winner-Take-All Markets
+AU  - Laferrière, Vincent
+AU  - Staubli, David
+AU  - Thöni, Christian
+Y1  - 2022/04/04
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4397
+DO  - 10.1287/mnsc.2022.4397
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1050
+EP  - 1069
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We report experimental data from standard market entry games and winner-take-all games. At odds with traditional decision-making models with risk aversion, the winner-take-all condition results in substantially more entry than the expected-payoff-equivalent market entry game. We explore three candidate explanations for excess entry: blind spot, illusion of control, and joy of winning, none of which receive empirical support. We provide a novel theoretical explanation for excess entry based on cumulative prospect theory and test it empirically. Our results suggest that excess entry into highly competitive environments is not caused by a genuine preference for competing, but is instead driven by probability weighting. Market entrants overweight the small probabilities associated with the high payoff outcomes in winner-take-all markets, while they underweight probable failures.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung [Grants 100018_182185 and 26022621] and the Dr. h.c. Emil Zaugg-Fonds [Grant B11162135].Supplemental Material: The data files and e-companion are available at https://doi.org/10.1287/mnsc.2022.4397.
+AB  - We report experimental data from standard market entry games and winner-take-all games. At odds with traditional decision-making models with risk aversion, the winner-take-all condition results in substantially more entry than the expected-payoff-equivalent market entry game. We explore three candidate explanations for excess entry: blind spot, illusion of control, and joy of winning, none of which receive empirical support. We provide a novel theoretical explanation for excess entry based on cumulative prospect theory and test it empirically. Our results suggest that excess entry into highly competitive environments is not caused by a genuine preference for competing, but is instead driven by probability weighting. Market entrants overweight the small probabilities associated with the high payoff outcomes in winner-take-all markets, while they underweight probable failures.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung [Grants 100018_182185 and 26022621] and the Dr. h.c. Emil Zaugg-Fonds [Grant B11162135].Supplemental Material: The data files and e-companion are available at https://doi.org/10.1287/mnsc.2022.4397.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4397
+UR  - https://doi.org/10.1287/mnsc.2022.4397
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Confusing Context with Character: Correspondence Bias in Economic Interactions
+AU  - Han, Yi
+AU  - Liu, Yiming
+AU  - Loewenstein, George
+Y1  - 2022/03/30
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4384
+DO  - 10.1287/mnsc.2022.4384
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1070
+EP  - 1091
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - When drawing inferences about a person?s personal characteristics from the person?s actions, ?correspondence bias? is the tendency to overestimate the influence of those characteristics and underestimate the influence of situational factors, such as incentives the individual faces. We build a simple framework to formalize correspondence bias and test its predictions in an online experiment. Consistent with correspondence bias, subjects are, on average, willing to pay to receive the dictator-game givings of an individual with whom they are randomly assigned to play a game that encourages cooperation rather than one with whom they play a game that encourages selfish behavior. We show, further, that experiencing both games oneself, as opposed to playing one and observing the other, reduces the bias, and receiving information about how each of the players behaved in both games eliminates it.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Y. Liu acknowledges financial support from the Einstein Foundation [Grant EVF-2018-426].Supplemental Material: Data files are available at https://doi.org/10.1287/mnsc.2022.4384.
+AB  - When drawing inferences about a person?s personal characteristics from the person?s actions, ?correspondence bias? is the tendency to overestimate the influence of those characteristics and underestimate the influence of situational factors, such as incentives the individual faces. We build a simple framework to formalize correspondence bias and test its predictions in an online experiment. Consistent with correspondence bias, subjects are, on average, willing to pay to receive the dictator-game givings of an individual with whom they are randomly assigned to play a game that encourages cooperation rather than one with whom they play a game that encourages selfish behavior. We show, further, that experiencing both games oneself, as opposed to playing one and observing the other, reduces the bias, and receiving information about how each of the players behaved in both games eliminates it.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: Y. Liu acknowledges financial support from the Einstein Foundation [Grant EVF-2018-426].Supplemental Material: Data files are available at https://doi.org/10.1287/mnsc.2022.4384.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4384
+UR  - https://doi.org/10.1287/mnsc.2022.4384
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - What (Exactly) Is Novelty in Networks? Unpacking the Vision Advantages of Brokers, Bridges, and Weak Ties
+AU  - Aral, Sinan
+AU  - Dhillon, Paramveer S.
+Y1  - 2022/03/28
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4377
+DO  - 10.1287/mnsc.2022.4377
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1092
+EP  - 1115
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - The strength of weak ties and brokerage theory both rely on the argument that weak bridging ties deliver novel information to create ?vision advantages? for actors in brokerage positions. However, our conceptualization of novelty is itself fundamentally underdeveloped. We, therefore, develop a theory of how three distinct types of novelty?diversity, non-redundancy, and uniqueness?combine with network structure to create vision advantages in social networks. We test this theory using panel data on an evolving corporate email network. Three main results emerge from our analysis. First, we confirm the diversity-bandwidth tradeoff (DBT) at the heart of the vision advantage. As brokers? networks become more diverse, their channel bandwidth contracts, creating countervailing effects on access to novel information. Second, we uncover a mechanism driving the DBT, which helps explain differences in vision advantages across strong and weak ties. Strong, cohesive ties deliver greater information diversity and non-redundancy, whereas weak bridging ties contribute the most unique information (the information that is most different from what other contacts deliver). Third, we find network diversity (in contrast to network constraint) to be positively associated with longitudinal entropy, a measure of the accumulation of novel information over time. This suggests that weak bridging ties, which provide the most unique information through low bandwidth, structurally diverse channels, contribute the most to one?s aggregation of novel information over time. Collectively, these results take a step toward resolving a long-standing debate in network theory about whether strong, cohesive networks or weak bridging networks contribute more to vision advantages. This work firmly establishes that it depends.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: The code and data files are available at https://doi.org/10.1287/mnsc.2022.4377.
+AB  - The strength of weak ties and brokerage theory both rely on the argument that weak bridging ties deliver novel information to create ?vision advantages? for actors in brokerage positions. However, our conceptualization of novelty is itself fundamentally underdeveloped. We, therefore, develop a theory of how three distinct types of novelty?diversity, non-redundancy, and uniqueness?combine with network structure to create vision advantages in social networks. We test this theory using panel data on an evolving corporate email network. Three main results emerge from our analysis. First, we confirm the diversity-bandwidth tradeoff (DBT) at the heart of the vision advantage. As brokers? networks become more diverse, their channel bandwidth contracts, creating countervailing effects on access to novel information. Second, we uncover a mechanism driving the DBT, which helps explain differences in vision advantages across strong and weak ties. Strong, cohesive ties deliver greater information diversity and non-redundancy, whereas weak bridging ties contribute the most unique information (the information that is most different from what other contacts deliver). Third, we find network diversity (in contrast to network constraint) to be positively associated with longitudinal entropy, a measure of the accumulation of novel information over time. This suggests that weak bridging ties, which provide the most unique information through low bandwidth, structurally diverse channels, contribute the most to one?s aggregation of novel information over time. Collectively, these results take a step toward resolving a long-standing debate in network theory about whether strong, cohesive networks or weak bridging networks contribute more to vision advantages. This work firmly establishes that it depends.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: The code and data files are available at https://doi.org/10.1287/mnsc.2022.4377.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4377
+UR  - https://doi.org/10.1287/mnsc.2022.4377
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Quantum Economic Advantage
+AU  - Bova, Francesco
+AU  - Goldfarb, Avi
+AU  - Melko, Roger G.
+Y1  - 2022/12/02
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4578
+DO  - 10.1287/mnsc.2022.4578
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1116
+EP  - 1126
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - A quantum computer exhibits quantum advantage when it can perform a calculation that a classical computer is unable to complete. It follows that a company with a quantum computer would be a monopolist in the market for such a calculation if its only competitor was a company with a classical computer. Conversely, economic outcomes are unclear if quantum computers do not exhibit a quantum advantage, but classical and quantum computers have different cost structures. We model a Cournot duopoly where a quantum computing company competes against a classical computing company. The model features an asymmetric variable cost structure between the two companies and the potential for an asymmetric fixed cost structure, where each firm can invest in scaling its hardware to expand its respective market. We find that even if (1) the companies can complete identical calculations, and thus there is no quantum advantage, and (2) it is more expensive to scale the quantum computer, the quantum computing company may be more profitable and also invest more in market creation due to efficiency gains from using quantum algorithms. Finally, we provide examples of settings where the classical computer can also perform a calculation, but not in a cost-effective enough manner to be commercially viable. In such a setting, the quantum computing company becomes a monopolist despite exhibiting no quantum advantage. Taken together, quantum computers may not need to display a quantum advantage to be able to generate a quantum economic advantage for the companies that deploy them.This paper was accepted by D. J. Wu, information systems.Funding: R. G. Melko is supported by the Natural Sciences and Engineering Research Council of Canada, Canada Research Chair program, and the Perimeter Institute for Theoretical Physics. Research at the Perimeter Institute is supported in part by the Government of Canada through the Department of Innovation, Science and Economic Development Canada and by the Province of Ontario through the Ministry of Colleges and Universities. A. Goldfarb is supported by the Sloan Foundation and the Social Sciences and Humanities Council of Canada.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4578.
+AB  - A quantum computer exhibits quantum advantage when it can perform a calculation that a classical computer is unable to complete. It follows that a company with a quantum computer would be a monopolist in the market for such a calculation if its only competitor was a company with a classical computer. Conversely, economic outcomes are unclear if quantum computers do not exhibit a quantum advantage, but classical and quantum computers have different cost structures. We model a Cournot duopoly where a quantum computing company competes against a classical computing company. The model features an asymmetric variable cost structure between the two companies and the potential for an asymmetric fixed cost structure, where each firm can invest in scaling its hardware to expand its respective market. We find that even if (1) the companies can complete identical calculations, and thus there is no quantum advantage, and (2) it is more expensive to scale the quantum computer, the quantum computing company may be more profitable and also invest more in market creation due to efficiency gains from using quantum algorithms. Finally, we provide examples of settings where the classical computer can also perform a calculation, but not in a cost-effective enough manner to be commercially viable. In such a setting, the quantum computing company becomes a monopolist despite exhibiting no quantum advantage. Taken together, quantum computers may not need to display a quantum advantage to be able to generate a quantum economic advantage for the companies that deploy them.This paper was accepted by D. J. Wu, information systems.Funding: R. G. Melko is supported by the Natural Sciences and Engineering Research Council of Canada, Canada Research Chair program, and the Perimeter Institute for Theoretical Physics. Research at the Perimeter Institute is supported in part by the Government of Canada through the Department of Innovation, Science and Economic Development Canada and by the Province of Ontario through the Ministry of Colleges and Universities. A. Goldfarb is supported by the Sloan Foundation and the Social Sciences and Humanities Council of Canada.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4578.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4578
+UR  - https://doi.org/10.1287/mnsc.2022.4578
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Addictive Platforms
+AU  - Ichihashi, Shota
+AU  - Kim, Byung-Cheol
+Y1  - 2022/06/03
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4392
+DO  - 10.1287/mnsc.2022.4392
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1127
+EP  - 1145
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We study competition for consumer attention in which platforms can sacrifice service quality for attention. A platform can choose the ?addictiveness? of its service. A more addictive platform yields consumers a lower utility of participation but a higher marginal utility of allocating attention. We provide conditions under which increased competition can harm consumers by encouraging platforms to offer low-quality services. In particular, if attention is scarce, increased competition reduces the quality of services because business-stealing incentives induce platforms to increase addictiveness. Restricting consumers? platform usage may decrease addictiveness and improve consumer welfare. A platform?s ability to charge for its service can also decrease addictiveness.This paper was accepted by Joshua Gans, business strategy.
+AB  - We study competition for consumer attention in which platforms can sacrifice service quality for attention. A platform can choose the ?addictiveness? of its service. A more addictive platform yields consumers a lower utility of participation but a higher marginal utility of allocating attention. We provide conditions under which increased competition can harm consumers by encouraging platforms to offer low-quality services. In particular, if attention is scarce, increased competition reduces the quality of services because business-stealing incentives induce platforms to increase addictiveness. Restricting consumers? platform usage may decrease addictiveness and improve consumer welfare. A platform?s ability to charge for its service can also decrease addictiveness.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4392
+UR  - https://doi.org/10.1287/mnsc.2022.4392
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Bilateral Trade with Multiunit Demand and Supply
+AU  - Loertscher, Simon
+AU  - Marx, Leslie M.
+Y1  - 2022/05/02
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4399
+DO  - 10.1287/mnsc.2022.4399
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1146
+EP  - 1165
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We study a bilateral trade problem with multiunit demand and supply and one-dimensional private information. Each agent geometrically discounts additional units by a constant factor. We show that when goods are complements, the incentive problem?measured as the ratio of second-best to first-best social surplus?becomes less severe as the degree of complementarity increases. In contrast, if goods are substitutes and each agent?s distribution exhibits linear virtual types, then this ratio is a constant. If the bilateral trade setup arises from prior vertical integration between a buyer and a supplier, with the vertically integrated firm being a buyer facing an independent supplier, then the ratio of second-best to first-best social surplus is, in general, not monotone in the degree of complementarity when products are substitutes and is increasing when products are complements. Extensions to profit maximization by a market maker and a discrete public good problem show that the broad insight that complementarity of goods mitigates the incentive problem generalizes to these settings.This paper was accepted by Joshua Gans, business strategy.Funding: Financial support from the Samuel and June Hordern Endowment, the University of Melbourne Faculty of Business & Economics [Eminent Research Scholar Grant], and the Australian Research Council [Grant DP200103574] is acknowledged.
+AB  - We study a bilateral trade problem with multiunit demand and supply and one-dimensional private information. Each agent geometrically discounts additional units by a constant factor. We show that when goods are complements, the incentive problem?measured as the ratio of second-best to first-best social surplus?becomes less severe as the degree of complementarity increases. In contrast, if goods are substitutes and each agent?s distribution exhibits linear virtual types, then this ratio is a constant. If the bilateral trade setup arises from prior vertical integration between a buyer and a supplier, with the vertically integrated firm being a buyer facing an independent supplier, then the ratio of second-best to first-best social surplus is, in general, not monotone in the degree of complementarity when products are substitutes and is increasing when products are complements. Extensions to profit maximization by a market maker and a discrete public good problem show that the broad insight that complementarity of goods mitigates the incentive problem generalizes to these settings.This paper was accepted by Joshua Gans, business strategy.Funding: Financial support from the Samuel and June Hordern Endowment, the University of Melbourne Faculty of Business & Economics [Eminent Research Scholar Grant], and the Australian Research Council [Grant DP200103574] is acknowledged.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4399
+UR  - https://doi.org/10.1287/mnsc.2022.4399
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On the Reliability of the BDM Mechanism
+AU  - Mamadehussene, Samir
+AU  - Sguera, Francesco
+Y1  - 2022/04/05
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4409
+DO  - 10.1287/mnsc.2022.4409
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1166
+EP  - 1179
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - The Becker-DeGroot-Marschak (BDM) mechanism is frequently used in experimental research to measure willingness-to-pay (WTP). The mechanism is very appealing given its incentive compatibility property. However, a growing body of experimental evidence finds that WTP is sensitive to the underlying price distribution of the BDM mechanism. The literature suggests that these findings can be rationalized only if subjects have context-dependent preferences. Under context-dependent preferences, the use of the BDM mechanism momentarily changes subjects? preferences; subjects do not have incentives to report their intrinsic valuation, which is what the BDM attempts to measure, but instead they report the amount they are willing to pay after their preferences have momentarily changed. This lack of incentive compatibility would raise serious concerns about the validity of the BDM as an elicitation procedure; indeed, virtually all studies that use the BDM mechanism choose that elicitation procedure precisely for its incentive compatibility property. In this paper, we propose that an assumption of context dependence is not necessary to rationalize the aforementioned experimental findings. We provide an alternative plausible theory and experimental evidence to support it. Our theory relies on the premise that subjects need to exert effort to learn their preferences. We find that the price distribution of the BDM mechanism influences the subject?s incentives to exert effort. The results presented here are particularly appealing to the experimental research: our theory is consistent with the experimental findings that WTP is sensitive to the price distribution of the BDM mechanism while preserving the incentive compatibility property.This paper was accepted by Duncan Simester, marketing.Funding: F. Sguera acknowledges the support from the Portuguese Foundation of Science and Technology [Project UIDB/00407/2020 (CUBE)].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4409.
+AB  - The Becker-DeGroot-Marschak (BDM) mechanism is frequently used in experimental research to measure willingness-to-pay (WTP). The mechanism is very appealing given its incentive compatibility property. However, a growing body of experimental evidence finds that WTP is sensitive to the underlying price distribution of the BDM mechanism. The literature suggests that these findings can be rationalized only if subjects have context-dependent preferences. Under context-dependent preferences, the use of the BDM mechanism momentarily changes subjects? preferences; subjects do not have incentives to report their intrinsic valuation, which is what the BDM attempts to measure, but instead they report the amount they are willing to pay after their preferences have momentarily changed. This lack of incentive compatibility would raise serious concerns about the validity of the BDM as an elicitation procedure; indeed, virtually all studies that use the BDM mechanism choose that elicitation procedure precisely for its incentive compatibility property. In this paper, we propose that an assumption of context dependence is not necessary to rationalize the aforementioned experimental findings. We provide an alternative plausible theory and experimental evidence to support it. Our theory relies on the premise that subjects need to exert effort to learn their preferences. We find that the price distribution of the BDM mechanism influences the subject?s incentives to exert effort. The results presented here are particularly appealing to the experimental research: our theory is consistent with the experimental findings that WTP is sensitive to the price distribution of the BDM mechanism while preserving the incentive compatibility property.This paper was accepted by Duncan Simester, marketing.Funding: F. Sguera acknowledges the support from the Portuguese Foundation of Science and Technology [Project UIDB/00407/2020 (CUBE)].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.4409.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4409
+UR  - https://doi.org/10.1287/mnsc.2022.4409
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Alphanumeric vs. Numeric Token Systems and the Healthcare Experience: Field Evidence from Healthcare Delivery in India
+AU  - Rathee, Shelly
+AU  - Narula, Kritika
+AU  - Mishra, Arul
+AU  - Mishra, Himanshu
+Y1  - 2022/03/31
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4389
+DO  - 10.1287/mnsc.2022.4389
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1180
+EP  - 1221
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - Long wait times for patients are an important health policy issue in many countries, especially developing countries in which there is generally poorer health infrastructure, appointments are not very common, and the opportunity cost of competing life priorities is high. In this research, we examine via field experiments in health clinics in India whether providing numeric versus alphanumeric wait tokens can affect pain perceptions of patients and whether the type of tokens can also affect their wait-time perception and visit satisfaction. Our research provides initial evidence that alphanumeric tokens, in most cases, lead to lower pain perception, lower wait-time perception, and higher satisfaction levels with the healthcare system compared with numeric tokens. However, this is not always true; we also demonstrate boundary conditions when numeric tokens perform better and when the differences between tokens are attenuated. We conducted field experiments in three separate clinics and vary the type of tokens (numeric versus alphanumeric) used to test multiple token operationalizations in varied healthcare contexts. We explain our findings using the cognitive strategy of wait-time perception and discuss why this strategy is helpful for a developing country.This paper was accepted by Matthew Shum, marketing.Supplemental Material: The web appendices are available at https://doi.org/10.1287/mnsc.2022.4389.
+AB  - Long wait times for patients are an important health policy issue in many countries, especially developing countries in which there is generally poorer health infrastructure, appointments are not very common, and the opportunity cost of competing life priorities is high. In this research, we examine via field experiments in health clinics in India whether providing numeric versus alphanumeric wait tokens can affect pain perceptions of patients and whether the type of tokens can also affect their wait-time perception and visit satisfaction. Our research provides initial evidence that alphanumeric tokens, in most cases, lead to lower pain perception, lower wait-time perception, and higher satisfaction levels with the healthcare system compared with numeric tokens. However, this is not always true; we also demonstrate boundary conditions when numeric tokens perform better and when the differences between tokens are attenuated. We conducted field experiments in three separate clinics and vary the type of tokens (numeric versus alphanumeric) used to test multiple token operationalizations in varied healthcare contexts. We explain our findings using the cognitive strategy of wait-time perception and discuss why this strategy is helpful for a developing country.This paper was accepted by Matthew Shum, marketing.Supplemental Material: The web appendices are available at https://doi.org/10.1287/mnsc.2022.4389.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4389
+UR  - https://doi.org/10.1287/mnsc.2022.4389
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Ex Ante Likelihood of Bubbles
+AU  - Chinco, Alex
+Y1  - 2022/05/04
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4351
+DO  - 10.1287/mnsc.2022.4351
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1222
+EP  - 1244
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - The limits of arbitrage explain how a speculative bubble is sustained; they do not explain how likely one is to occur. To do that, you need a theory about the thing that sporadically causes arbitrageur constraints to bind. I propose a first such theory, which is based on social interactions between speculators. The theory says that bubbles should be more likely in assets where increases in past returns make excited-speculators relatively more persuasive to their peers. I empirically verify this ex ante prediction about bubble likelihoods and show that it is robust to some ex post disagreement about bubble definitions.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4351.
+AB  - The limits of arbitrage explain how a speculative bubble is sustained; they do not explain how likely one is to occur. To do that, you need a theory about the thing that sporadically causes arbitrageur constraints to bind. I propose a first such theory, which is based on social interactions between speculators. The theory says that bubbles should be more likely in assets where increases in past returns make excited-speculators relatively more persuasive to their peers. I empirically verify this ex ante prediction about bubble likelihoods and show that it is robust to some ex post disagreement about bubble definitions.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4351.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4351
+UR  - https://doi.org/10.1287/mnsc.2022.4351
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Immediacy Provision and Matchmaking
+AU  - An, Yu
+AU  - Zheng, Zeyu
+Y1  - 2022/03/16
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4355
+DO  - 10.1287/mnsc.2022.4355
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1245
+EP  - 1263
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - Dealers can choose between two intermediation methods: providing immediacy to customers using their own inventory and making matches between customers? order flows. We show that dealers have an incentive to prioritize inventory turnover for immediacy provision rather than making matches between customers. Compared with a counterfactual scenario without this incentive, dealers in equilibrium provide immediacy to more customers in order to extract extra rents. Compared with the counterfactual, this incentive decreases equilibrium price for immediacy but increases the bid?ask spread. The incentive to prioritize immediacy provision lowers welfare for assets with high substitutability but raises welfare for assets with low substitutability. Our analysis has potential policy implications for the Volcker rule, which can be viewed as the counterfactual.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4355.
+AB  - Dealers can choose between two intermediation methods: providing immediacy to customers using their own inventory and making matches between customers? order flows. We show that dealers have an incentive to prioritize inventory turnover for immediacy provision rather than making matches between customers. Compared with a counterfactual scenario without this incentive, dealers in equilibrium provide immediacy to more customers in order to extract extra rents. Compared with the counterfactual, this incentive decreases equilibrium price for immediacy but increases the bid?ask spread. The incentive to prioritize immediacy provision lowers welfare for assets with high substitutability but raises welfare for assets with low substitutability. Our analysis has potential policy implications for the Volcker rule, which can be viewed as the counterfactual.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2022.4355.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4355
+UR  - https://doi.org/10.1287/mnsc.2022.4355
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Social Investing on Charitable Donations
+AU  - An, Jake
+AU  - Briley, Donnel
+AU  - Danziger, Shai
+AU  - Levi, Shai
+Y1  - 2022/03/02
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4339
+DO  - 10.1287/mnsc.2022.4339
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1264
+EP  - 1274
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We examine the impact of social investing on charitable donations using a unique data set consisting of investment behaviors and donation transactions for more than 10,000 customers of an investment app platform. We find that investors switching to a recently introduced social fund reduced their donations, mainly in charities supporting causes similar to those of the social fund. However, 79% of the investors that switched to the social fund did not donate before switching, so the social fund attracted more people to fund social causes. Still, because of the substitution effect, we estimate social funds have a positive effect on society only if their annual contributions to social causes are greater than 3.2% of the balance invested.This paper was accepted by David Simchi-Levi, finance.Funding: This work was supported by the Henry Crown Institute of Business Research and the Jeremy Coller Foundation.Supplemental Material: Data files are available at https://doi.org/10.1287/mnsc.2022.4339.
+AB  - We examine the impact of social investing on charitable donations using a unique data set consisting of investment behaviors and donation transactions for more than 10,000 customers of an investment app platform. We find that investors switching to a recently introduced social fund reduced their donations, mainly in charities supporting causes similar to those of the social fund. However, 79% of the investors that switched to the social fund did not donate before switching, so the social fund attracted more people to fund social causes. Still, because of the substitution effect, we estimate social funds have a positive effect on society only if their annual contributions to social causes are greater than 3.2% of the balance invested.This paper was accepted by David Simchi-Levi, finance.Funding: This work was supported by the Henry Crown Institute of Business Research and the Jeremy Coller Foundation.Supplemental Material: Data files are available at https://doi.org/10.1287/mnsc.2022.4339.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4339
+UR  - https://doi.org/10.1287/mnsc.2022.4339
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Mismarking in Mutual Funds
+AU  - Atanasov, Vladimir
+AU  - Merrick, John J.
+AU  - Schuster, Philipp
+Y1  - 2022/04/11
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4366
+DO  - 10.1287/mnsc.2022.4366
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1275
+EP  - 1300
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - We study mismarking of newly purchased odd lot and two classes of round lot structured product positions in mutual funds. Such mismarking artificially inflates net asset values and overstates cumulative returns. Applied to funds launched after January 2010, a simulation-tested mismarking fund filter identifies 12 Highly Questionable funds managing $75 billion. The performance of these funds matches closely the predicted pattern of mismarking: extremely high alpha and skewness, particularly immediately after launch. We show that structured product mismarking can seriously inflate return-since-inception metrics. We also provide evidence consistent with return smoothing for one quarter of the sample structured product funds. The inflated performance metrics benefit fund managers through significantly higher Sharpe ratios, Morningstar ratings, and asset growth but cause material losses to later investor cohorts.This paper was accepted by Agostino Capponi, finance.Funding: P. Schuster gratefully acknowledges funding by the Deutsche Forschungsgemeinschaft [Grant SCHU 3049/1-1].Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4366.
+AB  - We study mismarking of newly purchased odd lot and two classes of round lot structured product positions in mutual funds. Such mismarking artificially inflates net asset values and overstates cumulative returns. Applied to funds launched after January 2010, a simulation-tested mismarking fund filter identifies 12 Highly Questionable funds managing $75 billion. The performance of these funds matches closely the predicted pattern of mismarking: extremely high alpha and skewness, particularly immediately after launch. We show that structured product mismarking can seriously inflate return-since-inception metrics. We also provide evidence consistent with return smoothing for one quarter of the sample structured product funds. The inflated performance metrics benefit fund managers through significantly higher Sharpe ratios, Morningstar ratings, and asset growth but cause material losses to later investor cohorts.This paper was accepted by Agostino Capponi, finance.Funding: P. Schuster gratefully acknowledges funding by the Deutsche Forschungsgemeinschaft [Grant SCHU 3049/1-1].Supplemental Material: Data and the online appendices are available at https://doi.org/10.1287/mnsc.2022.4366.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4366
+UR  - https://doi.org/10.1287/mnsc.2022.4366
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - How Return on Investment and Residual Income Performance Measures and Risk Preferences Affect Risk-Taking
+AU  - Brown, Jason L.
+AU  - Martin, Patrick R.
+AU  - Sprinkle, Geoffrey B.
+AU  - Way, Dan
+Y1  - 2022/03/31
+PY  - 2022
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2022.4398
+DO  - 10.1287/mnsc.2022.4398
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1301
+EP  - 1322
+VL  - 69
+IS  - 2
+PB  - INFORMS
+N2  - Return on investment (ROI) and residual income (RI) are two important accounting measures that are commonly used to evaluate managers? performance, and evidence suggests that both ROI and RI can help motivate long-term investments. Research is limited, though, regarding whether ROI and RI differentially affect managers? actions, and, more specifically, research has not examined the effects of ROI and RI on risk-taking. We conduct an experiment to examine the separate and interactive effects of individuals? risk preferences and ROI and RI performance measures on risk-taking in capital investment decisions. We predict and find that the use of ROI as a performance measure leads to riskier choices, as compared with RI, and that this effect is concentrated in relatively more risk-averse individuals. We also provide process evidence that reveals some of the ways in which ROI and RI performance measures affect decision making. Collectively, our results contribute to literature examining the effects of accounting information and performance measures on managers? risk-taking behaviors.This paper was accepted by Suraj Srinivasan, accounting.Funding: Financial support from the Kelley School of Business at Indiana University is gratefully acknowledged.Supplemental Material: Data files are available at https://doi.org/mnsc.2022.4398.
+AB  - Return on investment (ROI) and residual income (RI) are two important accounting measures that are commonly used to evaluate managers? performance, and evidence suggests that both ROI and RI can help motivate long-term investments. Research is limited, though, regarding whether ROI and RI differentially affect managers? actions, and, more specifically, research has not examined the effects of ROI and RI on risk-taking. We conduct an experiment to examine the separate and interactive effects of individuals? risk preferences and ROI and RI performance measures on risk-taking in capital investment decisions. We predict and find that the use of ROI as a performance measure leads to riskier choices, as compared with RI, and that this effect is concentrated in relatively more risk-averse individuals. We also provide process evidence that reveals some of the ways in which ROI and RI performance measures affect decision making. Collectively, our results contribute to literature examining the effects of accounting information and performance measures on managers? risk-taking behaviors.This paper was accepted by Suraj Srinivasan, accounting.Funding: Financial support from the Kelley School of Business at Indiana University is gratefully acknowledged.Supplemental Material: Data files are available at https://doi.org/mnsc.2022.4398.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4398
+UR  - https://doi.org/10.1287/mnsc.2022.4398
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2023/02/01
+PY  - 2023
+DA  - 2023/02/01
+N1  - doi: 10.1287/mnsc.2023.eb.v69n2
+DO  - 10.1287/mnsc.2023.eb.v69n2
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 69
+IS  - 2
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.eb.v69n2
+UR  - https://doi.org/10.1287/mnsc.2023.eb.v69n2
+Y2  - 2024/03/27
+ER  - 

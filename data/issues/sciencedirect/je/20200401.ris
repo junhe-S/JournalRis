@@ -1,0 +1,326 @@
+TY  - JOUR
+T1  - Identification and estimation in panel models with overspecified number of groups
+AU  - Liu, Ruiqi
+AU  - Shang, Zuofeng
+AU  - Zhang, Yonghui
+AU  - Zhou, Qiankun
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 574
+EP  - 590
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302118
+KW  - Classification
+KW  - Fixed effects
+KW  - Group structure
+KW  - K-means algorithm
+KW  - Linear and nonlinear panel
+KW  - M-estimation
+AB  - We propose a simple and fast approach to identify and estimate the unknown group structure in panel models by adapting the M-estimation method. We consider both linear and nonlinear panel models where the regression coefficients are heterogeneous across groups but homogeneous within a group and the group membership is unknown to researchers. The main result of the paper is that under certain assumptions, our approach is able to provide uniformly consistent estimation as long as the number of groups used in estimation is not smaller than the true number of groups. We also show that, asymptotically, our method may partition some true groups into further subgroups, but cannot mix units from different groups. When the true number of groups is used in estimation, all units can be categorized correctly with probability approaching one, and we establish the limiting distribution for the estimators of the group parameters. In addition, we provide an information criterion to select the number of groups, and establish the consistency of the selection criterion under some mild conditions. Monte Carlo simulations are conducted to examine the finite sample performance of the proposed method. The findings in the simulation confirm our theoretical results in the paper. Applications to two real datasets also highlight the necessity to consider both individual heterogeneity and group heterogeneity in the model.
+ER  - 
+
+TY  - JOUR
+T1  - Variance risk: A bird’s eye view
+AU  - Hollstein, Fabian
+AU  - Wese Simen, Chardin
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 517
+EP  - 535
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302076
+KW  - Correlation swaps
+KW  - Return predictability
+KW  - Return variation
+KW  - Variance swaps
+AB  - The literature documents a significantly negative average variance swap payoff (VSP) for the S&P 500 index but generally not for the constituent stocks. We show that this result is affected by biases arising from (i) an intraday momentum effect and (ii) the use of an incoherent measure of return variation. Accounting for these issues, we find stronger evidence of a significant average VSP both at the index level and also for equities. We decompose the index variance risk premium (VRP) into factors related to the VRP of equities and the correlation risk premium (CRP) and assess their predictive power for aggregate stock returns.
+ER  - 
+
+TY  - JOUR
+T1  - Issues in the estimation of mis-specified models of fractionally integrated processes
+AU  - Martin, Gael M.
+AU  - Nadarajah, K.
+AU  - Poskitt, D.S.
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 559
+EP  - 573
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930209X
+KW  - Long memory models
+KW  - ARFIMA
+KW  - Pseudo-true parameter
+KW  - Frequency domain estimators
+KW  - Time domain estimators
+KW  - Mis-specified short memory dynamics
+AB  - This short paper provides a comprehensive set of new theoretical results on the impact of mis-specifying the short run dynamics in fractionally integrated processes. We show that four alternative parametric estimators – frequency domain maximum likelihood, Whittle, time domain maximum likelihood and conditional sum of squares – converge to the same pseudo-true value under common mis-specification, and that they possess a common asymptotic distribution. The results are derived assuming the true data generating mechanism is a fractional linear process driven by a martingale difference innovation. A completely general parametric specification for the short run dynamics of the estimated (mis-specified) fractional model is considered, and with long memory, short memory and antipersistence in both the model and the data generating mechanism accommodated. The paper can be seen as extending an existing line of research on mis-specification in fractional models, important contributions to which have appeared in Journal of Econometrics. It also complements a range of existing asymptotic results on estimation in correctly specified fractional models. Open problems in the area are the subject of the final discussion.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying dynamic discrete choice models off short panels
+AU  - Arcidiacono, Peter
+AU  - Miller, Robert A.
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 473
+EP  - 485
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.12.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302064
+KW  - Dynamic discrete choice
+KW  - Identification
+KW  - Conditional choice probabilities
+KW  - Nonstationary models
+AB  - This paper analyzes the identification of flow payoffs and counterfactual choice probabilities (CCPs) in single-agent dynamic discrete choice models. We develop new results on non-stationary models where the time horizon for the agent extends beyond the length of the data (short panels). We show that counterfactual CCPs in short panels are identified when induced by temporary policy changes affecting payoffs, even though the utility flows are not. Counterfactual CCPs induced by innovations to state transitions are generally not identified unless the model exhibits single action finite dependence, and the payoffs of those actions establishing single action finite dependence are known.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating permanent price impact via machine learning
+AU  - Philip, R.
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 414
+EP  - 449
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302052
+KW  - Price impact
+KW  - Information content of a trade
+KW  - Machine learning
+KW  - Reinforcement learning
+AB  - In this paper, we show that vector auto-regression (VAR) models, which are commonly used to estimate permanent price impact, are misspecified and can produce conflicting and incorrect inferences when the price impact function is nonlinear. We propose an alternative method to estimate permanent price impact by modifying a reinforcement learning (RL) framework. Our approach assumes the data is stationary and Markov, but is otherwise unrestrictive. We obtain empirical estimates for our model using an iterative learning rule and demonstrate that our model captures nonlinearities and makes correct inferences.
+ER  - 
+
+TY  - JOUR
+T1  - The uniform validity of impulse response inference in autoregressions
+AU  - Inoue, Atsushi
+AU  - Kilian, Lutz
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 450
+EP  - 472
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302040
+KW  - Impulse response
+KW  - Autoregression
+KW  - Lag augmentation
+KW  - Asymptotic normality
+KW  - Bootstrap
+KW  - Uniform inference
+AB  - Existing proofs of the asymptotic validity of conventional methods of impulse response inference based on higher-order autoregressions are pointwise only. In this paper, we establish the uniform asymptotic validity of conventional asymptotic and bootstrap inference about individual impulse responses and vectors of impulse responses when the horizon is fixed with respect to the sample size. For inference about vectors of impulse responses based on Wald test statistics to be uniformly valid, lag-augmented autoregressions are required, whereas inference about individual impulse responses is uniformly valid under weak conditions even without lag augmentation. We introduce a new rank condition that ensures the uniform validity of inference on impulse responses and show that this condition holds under weak conditions. Simulations show that the highest finite-sample accuracy is achieved when bootstrapping the lag-augmented autoregression using the bias adjustments of Kilian (1999). The conventional bootstrap percentile interval for impulse responses based on this approach remains accurate even at long horizons. We provide a formal asymptotic justification for this result.
+ER  - 
+
+TY  - JOUR
+T1  - n-prediction of generalized heteroscedastic transformation regression models
+AU  - Chen, Songnian
+AU  - Zhang, Hanghui
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 305
+EP  - 340
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302003
+KW  - Generalized transformation regression model
+KW  - Heteroscedasticity
+KW  - -prediction
+AB  - Chen (2010) and Khan (2001) consider quantile regression estimation subject to general transformation that permits general heteroscedasticity, but the resulting conditional quantile predictors converge at rates slower than the parametric rate. In this paper, we consider the estimation of a general transformation model subject to a multiplicative form of heteroscedasticity. Our estimators for the finite dimensional parameters, the transformation function and the resulting conditional quantile predictor all converge at the parametric rate. Monte Carlo simulation experiments show that our estimators and conditional quantile predictor perform well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - ii
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30049-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030049X
+ER  - 
+
+TY  - JOUR
+T1  - Kernel-based Inference in Time-Varying Coefficient Cointegrating Regression
+AU  - Li, Degui
+AU  - Phillips, Peter C.B.
+AU  - Gao, Jiti
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 607
+EP  - 632
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302210
+KW  - Cointegration
+KW  - FM-kernel estimation
+KW  - Generalized Wald test
+KW  - Global rotation
+KW  - Kernel degeneracy
+KW  - Local rotation
+KW  - Super-consistency
+KW  - Time-varying coefficients
+AB  - This paper studies nonlinear cointegrating models with time-varying coefficients and multiple nonstationary regressors using classic kernel smoothing methods to estimate the coefficient functions. Extending earlier work on nonstationary kernel regression to take account of practical features of the data, we allow the regressors to be cointegrated and to embody a mixture of stochastic and deterministic trends, complications which result in asymptotic degeneracy of the kernel-weighted signal matrix. To address these complications new local and global rotation techniques are introduced to transform the covariate space to accommodate multiple scenarios of induced degeneracy. Under regularity conditions we derive asymptotic results that differ substantially from existing kernel regression asymptotics, leading to new limit theory under multiple convergence rates. For the practically important case of endogenous nonstationary regressors we propose a fully-modified kernel estimator whose limit distribution theory corresponds to the prototypical pure cointegration case (i.e., with exogenous covariates), thereby facilitating inference using a generalized Wald-type test statistic. These results substantially generalize econometric estimation and testing techniques in the cointegration literature to accommodate time variation and complications of co-moving regressors. Finally, Monte-Carlo simulation studies as well as an empirical illustration to aggregate US data on consumption, income, and interest rates are provided to illustrate the methodology and evaluate the numerical performance of the proposed methods in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Time-invariant restrictions of volatility functionals: Efficient estimation and specification tests
+AU  - Yang, Xiye
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 486
+EP  - 516
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302088
+KW  - Specification test
+KW  - Volatility functionals
+KW  - Efficiency
+KW  - High-frequency data
+AB  - This paper studies the estimation and inference problems of time-invariant restrictions on certain known functions of the stochastic volatility process. We first develop a more efficient GMM estimator and derive the efficiency bound under such restrictions. Then we construct an integrated Hausman-type test by summing up the squared differences between this more efficient estimator and the unrestricted estimator computed at different time points. Although less efficient under the null, the latter estimator is consistent under both the null and the alternative. The efficient GMM estimator can also be used to update an existing Bierens-type test and simplify the calculation of the asymptotic variance. Since the quadratic function puts more weight on large values, the Hausman-type test can have superior power than the Bierens-type test, which is based on a linear function of the differences. The simulation study shows that except for very small local window sizes, the Hausman-type test has good size and superior power. We finally apply these tests to studying the constant beta hypothesis using empirical data and find substantial evidence against this hypothesis.
+ER  - 
+
+TY  - JOUR
+T1  - Dependent microstructure noise and integrated volatility estimation from high-frequency data
+AU  - Li, Z. Merrick
+AU  - Laeven, Roger J.A.
+AU  - Vellekoop, Michel H.
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 536
+EP  - 558
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302106
+KW  - Dependent microstructure noise
+KW  - Realized volatility
+KW  - Bias correction
+KW  - Integrated volatility
+KW  - Pre-averaging method
+AB  - In this paper, we develop econometric tools to analyze the integrated volatility (IV) of the efficient price and the dynamic properties of microstructure noise in high-frequency data under general dependent noise. We first develop consistent estimators of the variance and autocovariances of noise using a variant of realized volatility. Next, we employ these estimators to adapt the pre-averaging method and derive consistent estimators of the IV, which converge stably to a mixed Gaussian distribution at the optimal rate n1∕4. To improve the finite sample performance, we propose a multi-step approach that corrects the finite sample bias, which turns out to be crucial in applications. Our extensive simulation studies demonstrate the excellent performance of our multi-step estimators. In an empirical study, we analyze the dependence structures of microstructure noise and provide intuitive economic interpretations; we also illustrate the importance of accounting for both the serial dependence in noise and the finite sample bias when estimating IV.
+ER  - 
+
+TY  - JOUR
+T1  - Multivariate spatial autoregressive model for large scale social networks
+AU  - Zhu, Xuening
+AU  - Huang, Danyang
+AU  - Pan, Rui
+AU  - Wang, Hansheng
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 591
+EP  - 606
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2018.11.018
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761930212X
+KW  - Least squares estimator
+KW  - Quasi maximum likelihood estimator
+KW  - Multivariate responses
+KW  - Social network
+KW  - Network autoregression
+AB  - The rapid growth of social network platforms generates a large amount of social network data, where multivariate responses are frequently collected from users. To statistically model such type of data, the multivariate spatial autoregressive (MSAR) model is studied. To estimate the model, the quasi maximum likelihood estimator (QMLE) is obtained under certain technical conditions. However, it is found that the computational cost of QMLE is expensive. To fix this problem, a least squares estimator (LSE) is developed. The corresponding identification conditions and asymptotic properties are investigated. To gauge the finite sample performance of various estimators, a number of simulation studies are conducted. Lastly, a Sina Weibo dataset is analyzed for illustration purpose.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification in index models of link formation
+AU  - Gao, Wayne Yuan
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 399
+EP  - 413
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302039
+KW  - Network formation
+KW  - Homophily
+KW  - Degree heterogeneity
+KW  - Nonparametric identification
+KW  - Interquantile range
+AB  - We consider a dyadic link formation model with a homophily effect index and a degree heterogeneity index. We provide nonparametric identification results for the potentially nonparametric homophily effect function, the realizations of unobserved individual fixed effects and the unknown distribution of idiosyncratic shocks, up to normalization. We propose a novel form of scale normalization on an arbitrary interquantile range, which is not only theoretically general but also proves particularly convenient for the identification analysis. We then use an inductive “in-fill and out-expansion” algorithm to establish our main results.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating production functions with robustness against errors in the proxy variables
+AU  - Hu, Yingyao
+AU  - Huang, Guofang
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 375
+EP  - 398
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.05.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302027
+KW  - Production functions
+KW  - Proxy variables
+KW  - Instrumental variables
+KW  - Optimization errors
+KW  - Measurement errors
+AB  - This paper proposes a new approach to the identification and estimation of production functions. It extends the literature on the structural estimation of production functions, which dates back to the seminal work of Olley and Pakes (1996), by relaxing the scalar-unobservable assumption about the proxy variables. The key additional assumption needed in the identification argument is the existence of two conditionally independent proxy variables. The proposed generalized method of moment (GMM) estimator is flexible and straightforward to apply. The method is applied to study how rapidly firms in the Chilean food-product industry adjust their inputs in response to shocks to their productivity.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for Stationarity at High Frequency
+AU  - Jiang, Bibo
+AU  - Lu, Ye
+AU  - Park, Joon Y.
+JO  - Journal of Econometrics
+VL  - 215
+IS  - 2
+SP  - 341
+EP  - 374
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407619302015
+KW  - KPSS test
+KW  - Testing for stationarity
+KW  - Testing for cointegration
+KW  - Continuous time process
+KW  - High frequency observation
+AB  - The high frequency behavior of the KPSS test, which is most commonly used to test for stationarity, is analyzed in a continuous time framework. Our asymptotics show that the test has no discriminatory power at high frequency: It either always rejects stationarity or has no nontrivial power at high frequency. The test becomes valid at high frequency only when the bandwidth of its long-run variance estimate is chosen suitably in our framework. We also analyze the residual-based KPSS test for cointegration.
+ER  - 

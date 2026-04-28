@@ -1,0 +1,231 @@
+TY  - JOUR
+T1  - Resurrecting weighted least squares
+AU  - Romano, Joseph P.
+AU  - Wolf, Michael
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 1
+EP  - 19
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761630197X
+KW  - Conditional heteroskedasticity
+KW  - HC standard errors
+KW  - Weighted least squares
+AB  - This paper shows how asymptotically valid inference in regression models based on the weighted least squares (WLS) estimator can be obtained even when the model for reweighting the data is misspecified. Like the ordinary least squares estimator, the WLS estimator can be accompanied by heteroskedasticity-consistent (HC) standard errors without knowledge of the functional form of conditional heteroskedasticity. First, we provide rigorous proofs under reasonable assumptions; second, we provide numerical support in favor of this approach. Indeed, a Monte Carlo study demonstrates attractive finite-sample properties compared to the status quo, in terms of both estimation and inference.
+ER  - 
+
+TY  - JOUR
+T1  - Determining the number of factors when the number of factors can increase with sample size
+AU  - Li, Hongjun
+AU  - Li, Qi
+AU  - Shi, Yutang
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 76
+EP  - 86
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302020
+KW  - Principal components
+KW  - Factor analysis
+KW  - Increasing number of factors
+KW  - Information criteria
+AB  - Correctly specifying the number of factors (r) is a fundamental issue for the application of factor models. In this paper we develop an econometric method to estimate the number of factors in factor models of large dimensions where the number of factors is allowed to increase as the two dimensions, cross-section size (N) and time period (T) increase. Using similar information criteria as proposed by Bai and Ng (2002), we show that the number of factors can be consistently estimated using the criteria. We propose a new procedure that avoids over estimating the number of factors while allowing for one to search for possible number of factors over a wide range of positive integers so that it also avoids underestimation of the number of factors. We conduct Monte-Carlo simulation to investigate the finite sample properties of the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - IFC
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30005-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300052
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of a large factor model with structural instability
+AU  - Baltagi, Badi H.
+AU  - Kao, Chihwa
+AU  - Wang, Fa
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 87
+EP  - 100
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302032
+KW  - High dimensional factor model
+KW  - Structural change
+KW  - Rate of convergence
+KW  - Number of factors
+KW  - Model selection
+KW  - Factor space
+KW  - Panel data
+AB  - This paper tackles the identification and estimation of a high dimensional factor model with unknown number of latent factors and a single break in the number of factors and/or factor loadings occurring at unknown common date. First, we propose a least squares estimator of the change point based on the second moments of estimated pseudo factors and show that the estimation error of the proposed estimator is Op(1). We also show that the proposed estimator has some degree of robustness to misspecification of the number of pseudo factors. With the estimated change point plugged in, consistency of the estimated number of pre and post-break factors and convergence rate of the estimated pre and post-break factor space are then established under fairly general assumptions. The finite sample performance of our estimators is investigated using Monte Carlo experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Least squares estimation of large dimensional threshold factor models
+AU  - Massacci, Daniele
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 101
+EP  - 129
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302111
+KW  - Large threshold factor model
+KW  - Least squares estimation
+KW  - Model selection
+KW  - Linearity testing
+KW  - Connectedness
+AB  - This paper studies large dimensional factor models with threshold-type regime shifts in the loadings. We estimate the threshold by concentrated least squares, and factors and loadings by principal components. The estimator for the threshold is superconsistent, with convergence rate that depends on the time and cross-sectional dimensions of the panel, and it does not affect the estimator for factors and loadings: this has the same convergence rate as in linear factor models. We propose model selection criteria and a linearity test. Empirical application of the model shows that connectedness in financial variables increases during periods of high economic policy uncertainty.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrapping integrated covariance matrix estimators in noisy jump–diffusion models with non-synchronous trading
+AU  - Hounyo, Ulrich
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 130
+EP  - 152
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302123
+KW  - High-frequency data
+KW  - Market microstructure noise
+KW  - Non-synchronous data
+KW  - Jumps
+KW  - Realized measures
+KW  - Integrated covariance
+KW  - Wild bootstrap
+KW  - Block bootstrap
+AB  - We propose a bootstrap method for estimating the distribution (and functionals of it such as the variance) of various integrated covariance matrix estimators. In particular, we first adapt the wild blocks of blocks bootstrap method suggested for the pre-averaged realized volatility estimator to a general class of estimators of integrated covolatility. We then show the first-order asymptotic validity of this method in the multivariate context with a potential presence of jumps, dependent microstructure noise, irregularly spaced and non-synchronous data. Our results justify using the bootstrap to estimate the covariance matrix of a broad class of covolatility estimators. The bootstrap variance estimator is positive semi-definite by construction, an appealing feature that is not always shared by existing variance estimators of the integrated covariance estimator. As an application of our results, we also consider the bootstrap for regression coefficients. We show that the wild blocks of blocks bootstrap, appropriately centered, is able to mimic both the dependence and heterogeneity of the scores. We provide a proof of construction of bootstrap percentile and percentile-t intervals as well as variance estimates in this context. This contrasts the traditional pairs bootstrap which is not able to mimic the score heterogeneity even in the simple case where no microstructure noise is present. Our Monte Carlo simulations show that the wild blocks of blocks bootstrap improve the finite sample properties of the alternative approach based on the Gaussian approximation. We illustrate its practical use on high-frequency equity data.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of integrated quadratic covariation with endogenous sampling times
+AU  - Potiron, Yoann
+AU  - Mykland, Per A.
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 20
+EP  - 41
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301981
+KW  - Asymptotic bias
+KW  - Asynchronous times
+KW  - Endogenous model
+KW  - Hayashi–Yoshida estimator
+KW  - High-frequency data
+KW  - Quadratic covariation
+KW  - Time endogeneity
+AB  - When estimating high-frequency covariance (quadratic covariation) of two arbitrary assets observed asynchronously, simple assumptions, such as independence, are usually imposed on the relationship between the prices process and the observation times. In this paper, we introduce a general endogenous two-dimensional nonparametric model. Because an observation is generated whenever an auxiliary process called observation time process hits one of the two boundary processes, it is called the hitting boundary process with time process (HBT) model. We establish a central limit theorem for the Hayashi–Yoshida (HY) estimator under HBT in the case where the price process and the observation price process follow a continuous Itô process. We obtain an asymptotic bias. We provide an estimator of the latter as well as a bias-corrected HY estimator of the high-frequency covariance. In addition, we give a consistent estimator of the associated standard error.
+ER  - 
+
+TY  - JOUR
+T1  - Testing rationality without restricting heterogeneity
+AU  - Kawaguchi, Kohei
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 153
+EP  - 171
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302135
+KW  - Stochastic rationalizability
+KW  - Axiom of revealed stochastic preference
+KW  - Nonparametric test
+KW  - Bootstrap
+AB  - I derive a necessary condition for stochastic rationalizability using a set of utility functions with a unique maximizer, which I name the strong axiom of revealed stochastic preference (SARSP). I also provide a constructive characterization of rationalizability in a regular finite linear budget setting and discuss the (in)sufficiency of SARSP. I propose a test of rationality based on the SARSP. Monte Carlo simulation and an application to data from the British Family Expenditure Survey demonstrate that the SARSP test has an empirical size below the nominal size, relatively strong power, and substantially reduces the computation time compared to the existing method.
+ER  - 
+
+TY  - JOUR
+T1  - Partial identification of functionals of the joint distribution of “potential outcomes”
+AU  - Fan, Yanqin
+AU  - Guerre, Emmanuel
+AU  - Zhu, Dongming
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 42
+EP  - 59
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616301993
+KW  - Copula
+KW  - Distributional treatment effect
+KW  - Selection-on-observables
+KW  - Latent threshold-crossing model
+AB  - In this paper, we present a systematic study of partial identification of two general classes of functionals of the joint distribution of two “potential outcomes” when a bivariate sample from the joint distribution is not available to the econometrician. Assuming the identification of the conditional marginal distributions of potential outcomes and the distribution of the covariate vector, we show that the identified sets for functionals in both classes are intervals and provide conditions under which the identified sets point identify the true value of the functionals. In addition, we establish sufficient and necessary conditions for the covariate information to be informative in the sense of shrinking the identified sets. We focus on the application of our general results to evaluating distributional treatment effects of a binary treatment in two commonly used frameworks in the literature for evaluating average treatment effects: the selection on observables framework and a latent threshold-crossing model. We characterize the role of the propensity score in the selection-on-observables framework and the role of endogenous selection in the latent threshold-crossing model. Examples of policy parameters that our results apply include the correlation coefficient between the potential outcomes, many inequality measures of the distribution of treatment effects, and median of the distribution of the individual treatment effect.
+ER  - 
+
+TY  - JOUR
+T1  - On the role of the rank condition in CCE estimation of factor-augmented panel regressions
+AU  - Karabiyik, Hande
+AU  - Reese, Simon
+AU  - Westerlund, Joakim
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 60
+EP  - 64
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302007
+KW  - Factor-augmented panel regression
+KW  - CCE estimation
+KW  - Moore–Penrose inverse
+AB  - A popular approach to factor-augmented panel regressions is the common correlated effects (CCE) estimator of Pesaran (2006). This paper points to a problem with the CCE approach that appears in the empirically relevant case when the number of factors is strictly less than the number of observables used in their estimation. Specifically, the use of too many observables causes the second moment matrix of the estimated factors to become asymptotically singular, an issue that has not yet been appropriately accounted for. The purpose of the present paper is to fill this gap in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of average treatment effects with panel data: Asymptotic theory and implementation
+AU  - Li, Kathleen T.
+AU  - Bell, David R.
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 1
+SP  - 65
+EP  - 75
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302019
+KW  - Average treatment effects
+KW  - Asymptotic distribution
+KW  - LASSO method
+AB  - Hsiao, Ching and Wan (2012) propose a novel method to estimate the average treatment effect using panel data. In this paper, we accomplish the following: (i) We relax some of the distributional assumptions made in HCW and show that the HCW method works for a much wider range of data generating processes; (ii) We derive the asymptotic distribution of HCW’s average treatment effect estimator which facilitates inference; (iii) When there exists a large number of control units, we propose using the LASSO method to select control units. We show that the LASSO method is computationally more efficient compared to conventional model selection criteria. Moreover, the LASSO method leads to more accurate out-of-sample prediction results than many commonly adopted approaches such as BIC, AIC, AICC and the leave-many-out cross validation methods (Du and Zhang, 2015).
+ER  - 

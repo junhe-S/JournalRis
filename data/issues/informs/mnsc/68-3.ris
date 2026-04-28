@@ -1,0 +1,1047 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Introduction to the Special Section on Data-Driven Prescriptive Analytics
+AU  - Giesecke, Kay
+AU  - Liberali, Gui
+AU  - Nazerzadeh, Hamid
+AU  - Shanthikumar, J. George
+AU  - Teo, Chung Piaw
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4296
+DO  - 10.1287/mnsc.2021.4296
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1591
+EP  - 1594
+VL  - 68
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4296
+UR  - https://doi.org/10.1287/mnsc.2021.4296
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Data Pooling in Stochastic Optimization
+AU  - Gupta, Vishal
+AU  - Kallus, Nathan
+Y1  - 2021/03/17
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3933
+DO  - 10.1287/mnsc.2020.3933
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1595
+EP  - 1615
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Managing large-scale systems often involves simultaneously solving thousands of unrelated stochastic optimization problems, each with limited data. Intuition suggests that one can decouple these unrelated problems and solve them separately without loss of generality. We propose a novel data-pooling algorithm called Shrunken-SAA that disproves this intuition. In particular, we prove that combining data across problems can outperform decoupling, even when there is no a priori structure linking the problems and data are drawn independently. Our approach does not require strong distributional assumptions and applies to constrained, possibly nonconvex, nonsmooth optimization problems such as vehicle-routing, economic lot-sizing, or facility location. We compare and contrast our results to a similar phenomenon in statistics (Stein?s phenomenon), highlighting unique features that arise in the optimization setting that are not present in estimation. We further prove that, as the number of problems grows large, Shrunken-SAA learns if pooling can improve upon decoupling and the optimal amount to pool, even if the average amount of data per problem is fixed and bounded. Importantly, we highlight a simple intuition based on stability that highlights when and why data pooling offers a benefit, elucidating this perhaps surprising phenomenon. This intuition further suggests that data pooling offers the most benefits when there are many problems, each of which has a small amount of relevant data. Finally, we demonstrate the practical benefits of data pooling using real data from a chain of retail drug stores in the context of inventory management.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Managing large-scale systems often involves simultaneously solving thousands of unrelated stochastic optimization problems, each with limited data. Intuition suggests that one can decouple these unrelated problems and solve them separately without loss of generality. We propose a novel data-pooling algorithm called Shrunken-SAA that disproves this intuition. In particular, we prove that combining data across problems can outperform decoupling, even when there is no a priori structure linking the problems and data are drawn independently. Our approach does not require strong distributional assumptions and applies to constrained, possibly nonconvex, nonsmooth optimization problems such as vehicle-routing, economic lot-sizing, or facility location. We compare and contrast our results to a similar phenomenon in statistics (Stein?s phenomenon), highlighting unique features that arise in the optimization setting that are not present in estimation. We further prove that, as the number of problems grows large, Shrunken-SAA learns if pooling can improve upon decoupling and the optimal amount to pool, even if the average amount of data per problem is fixed and bounded. Importantly, we highlight a simple intuition based on stability that highlights when and why data pooling offers a benefit, elucidating this perhaps surprising phenomenon. This intuition further suggests that data pooling offers the most benefits when there are many problems, each of which has a small amount of relevant data. Finally, we demonstrate the practical benefits of data pooling using real data from a chain of retail drug stores in the context of inventory management.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3933
+UR  - https://doi.org/10.1287/mnsc.2020.3933
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Interpretable Optimal Stopping
+AU  - Ciocan, Dragos Florin
+AU  - Mišić, Velibor V.
+Y1  - 2020/07/15
+PY  - 2020
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3592
+DO  - 10.1287/mnsc.2020.3592
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1616
+EP  - 1638
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Optimal stopping is the problem of deciding when to stop a stochastic system to obtain the greatest reward, arising in numerous application areas such as finance, healthcare, and marketing. State-of-the-art methods for high-dimensional optimal stopping involve approximating the value function or the continuation value and then using that approximation within a greedy policy. Although such policies can perform very well, they are generally not guaranteed to be interpretable; that is, a decision maker may not be able to easily see the link between the current system state and the policy?s action. In this paper, we propose a new approach to optimal stopping wherein the policy is represented as a binary tree, in the spirit of naturally interpretable tree models commonly used in machine learning. We show that the class of tree policies is rich enough to approximate the optimal policy. We formulate the problem of learning such policies from observed trajectories of the stochastic system as a sample average approximation (SAA) problem. We prove that the SAA problem converges under mild conditions as the sample size increases but that, computationally, even immediate simplifications of the SAA problem are theoretically intractable. We thus propose a tractable heuristic for approximately solving the SAA problem by greedily constructing the tree from the top down. We demonstrate the value of our approach by applying it to the canonical problem of option pricing, using both synthetic instances and instances using real Standard & Poor?s 500 Index data. Our method obtains policies that (1) outperform state-of-the-art noninterpretable methods, based on simulation regression and martingale duality, and (2) possess a remarkably simple and intuitive structure.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Optimal stopping is the problem of deciding when to stop a stochastic system to obtain the greatest reward, arising in numerous application areas such as finance, healthcare, and marketing. State-of-the-art methods for high-dimensional optimal stopping involve approximating the value function or the continuation value and then using that approximation within a greedy policy. Although such policies can perform very well, they are generally not guaranteed to be interpretable; that is, a decision maker may not be able to easily see the link between the current system state and the policy?s action. In this paper, we propose a new approach to optimal stopping wherein the policy is represented as a binary tree, in the spirit of naturally interpretable tree models commonly used in machine learning. We show that the class of tree policies is rich enough to approximate the optimal policy. We formulate the problem of learning such policies from observed trajectories of the stochastic system as a sample average approximation (SAA) problem. We prove that the SAA problem converges under mild conditions as the sample size increases but that, computationally, even immediate simplifications of the SAA problem are theoretically intractable. We thus propose a tractable heuristic for approximately solving the SAA problem by greedily constructing the tree from the top down. We demonstrate the value of our approach by applying it to the canonical problem of option pricing, using both synthetic instances and instances using real Standard & Poor?s 500 Index data. Our method obtains policies that (1) outperform state-of-the-art noninterpretable methods, based on simulation regression and martingale duality, and (2) possess a remarkably simple and intuitive structure.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3592
+UR  - https://doi.org/10.1287/mnsc.2020.3592
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Distributionally Robust Conditional Quantile Prediction with Fixed Design
+AU  - Qi, Meng
+AU  - Cao, Ying
+AU  - Shen, Zuo-Jun (Max)
+Y1  - 2021/03/04
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3903
+DO  - 10.1287/mnsc.2020.3903
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1639
+EP  - 1658
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Conditional quantile prediction involves estimating/predicting the quantile of a response random variable conditioned on observed covariates. The existing literature assumes the availability of independent and identically distributed (i.i.d.) samples of both the covariates and the response variable. However, such an assumption often becomes restrictive in many real-world applications. By contrast, we consider a fixed-design setting of the covariates, under which neither the response variable nor the covariates have i.i.d. samples. The present study provides a new data-driven distributionally robust framework under a fixed-design setting. We propose a regress-then-robustify method by constructing a surrogate empirical distribution of the noise. The solution of our framework coincides with a simple yet practical method that involves only regression and sorting, therefore providing an explanation for its empirical success. Measure concentration results are obtained for the surrogate empirical distribution, which further lead to finite-sample performance guarantees and asymptotic consistency. Numerical experiments are conducted to demonstrate the advantages of our approach.This paper was accepted by Hamid Nazerzadeh, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Conditional quantile prediction involves estimating/predicting the quantile of a response random variable conditioned on observed covariates. The existing literature assumes the availability of independent and identically distributed (i.i.d.) samples of both the covariates and the response variable. However, such an assumption often becomes restrictive in many real-world applications. By contrast, we consider a fixed-design setting of the covariates, under which neither the response variable nor the covariates have i.i.d. samples. The present study provides a new data-driven distributionally robust framework under a fixed-design setting. We propose a regress-then-robustify method by constructing a surrogate empirical distribution of the noise. The solution of our framework coincides with a simple yet practical method that involves only regression and sorting, therefore providing an explanation for its empirical success. Measure concentration results are obtained for the surrogate empirical distribution, which further lead to finite-sample performance guarantees and asymptotic consistency. Numerical experiments are conducted to demonstrate the advantages of our approach.This paper was accepted by Hamid Nazerzadeh, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3903
+UR  - https://doi.org/10.1287/mnsc.2020.3903
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Joint Estimation and Robustness Optimization
+AU  - Zhu, Taozeng
+AU  - Xie, Jingui
+AU  - Sim, Melvyn
+Y1  - 2021/02/26
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3898
+DO  - 10.1287/mnsc.2020.3898
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1659
+EP  - 1677
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Many real-world optimization problems have input parameters estimated from data whose inherent imprecision can lead to fragile solutions that may impede desired objectives and/or render constraints infeasible. We propose a joint estimation and robustness optimization (JERO) framework to mitigate estimation uncertainty in optimization problems by seamlessly incorporating both the parameter estimation procedure and the optimization problem. Toward that end, we construct an uncertainty set that incorporates all of the data, and the size of the uncertainty set is based on how well the parameters are estimated from that data when using a particular estimation procedure: regressions, the least absolute shrinkage and selection operator, and maximum likelihood estimation (among others). The JERO model maximizes the uncertainty set?s size and so obtains solutions that?unlike those derived from models dedicated strictly to robust optimization?are immune to parameter perturbations that would violate constraints or lead to objective function values exceeding their desired levels. We describe several applications and provide explicit formulations of the JERO framework for a variety of estimation procedures. To solve the JERO models with exponential cones, we develop a second-order conic approximation that limits errors beyond an operating range; with this approach, we can use state-of-the-art second-order conic programming solvers to solve even large-scale convex optimization problems.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Many real-world optimization problems have input parameters estimated from data whose inherent imprecision can lead to fragile solutions that may impede desired objectives and/or render constraints infeasible. We propose a joint estimation and robustness optimization (JERO) framework to mitigate estimation uncertainty in optimization problems by seamlessly incorporating both the parameter estimation procedure and the optimization problem. Toward that end, we construct an uncertainty set that incorporates all of the data, and the size of the uncertainty set is based on how well the parameters are estimated from that data when using a particular estimation procedure: regressions, the least absolute shrinkage and selection operator, and maximum likelihood estimation (among others). The JERO model maximizes the uncertainty set?s size and so obtains solutions that?unlike those derived from models dedicated strictly to robust optimization?are immune to parameter perturbations that would violate constraints or lead to objective function values exceeding their desired levels. We describe several applications and provide explicit formulations of the JERO framework for a variety of estimation procedures. To solve the JERO models with exponential cones, we develop a second-order conic approximation that limits errors beyond an operating range; with this approach, we can use state-of-the-art second-order conic programming solvers to solve even large-scale convex optimization problems.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3898
+UR  - https://doi.org/10.1287/mnsc.2020.3898
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Scaled PCA: A New Approach to Dimension Reduction
+AU  - Huang, Dashan
+AU  - Jiang, Fuwei
+AU  - Li, Kunpeng
+AU  - Tong, Guoshi
+AU  - Zhou, Guofu
+Y1  - 2021/06/01
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4020
+DO  - 10.1287/mnsc.2021.4020
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1678
+EP  - 1695
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - This paper proposes a novel supervised learning technique for forecasting: scaled principal component analysis (sPCA). The sPCA improves the traditional principal component analysis (PCA) by scaling each predictor with its predictive slope on the target to be forecasted. Unlike the PCA that maximizes the common variation of the predictors, the sPCA assigns more weight to those predictors with stronger forecasting power. In a general factor framework, we show that, under some appropriate conditions on data, the sPCA forecast beats the PCA forecast, and when these conditions break down, extensive simulations indicate that the sPCA still has a large chance to outperform the PCA. A real data example on macroeconomic forecasting shows that the sPCA has better performance in general.This paper was accepted by Kay Giesecke, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - This paper proposes a novel supervised learning technique for forecasting: scaled principal component analysis (sPCA). The sPCA improves the traditional principal component analysis (PCA) by scaling each predictor with its predictive slope on the target to be forecasted. Unlike the PCA that maximizes the common variation of the predictors, the sPCA assigns more weight to those predictors with stronger forecasting power. In a general factor framework, we show that, under some appropriate conditions on data, the sPCA forecast beats the PCA forecast, and when these conditions break down, extensive simulations indicate that the sPCA still has a large chance to outperform the PCA. A real data example on macroeconomic forecasting shows that the sPCA has better performance in general.This paper was accepted by Kay Giesecke, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4020
+UR  - https://doi.org/10.1287/mnsc.2021.4020
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Hedging the Drift: Learning to Optimize Under Nonstationarity
+AU  - Cheung, Wang Chi
+AU  - Simchi-Levi, David
+AU  - Zhu, Ruihao
+Y1  - 2021/11/12
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4024
+DO  - 10.1287/mnsc.2021.4024
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1696
+EP  - 1713
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We introduce data-driven decision-making algorithms that achieve state-of-the-art dynamic regret bounds for a collection of nonstationary stochastic bandit settings. These settings capture applications such as advertisement allocation, dynamic pricing, and traffic network routing in changing environments. We show how the difficulty posed by the (unknown a priori and possibly adversarial) nonstationarity can be overcome by an unconventional marriage between stochastic and adversarial bandit learning algorithms. Beginning with the linear bandit setting, we design and analyze a sliding window-upper confidence bound algorithm that achieves the optimal dynamic regret bound when the underlying variation budget is known. This budget quantifies the total amount of temporal variation of the latent environments. Boosted by the novel bandit-over-bandit framework that adapts to the latent changes, our algorithm can further enjoy nearly optimal dynamic regret bounds in a (surprisingly) parameter-free manner. We extend our results to other related bandit problems, namely the multiarmed bandit, generalized linear bandit, and combinatorial semibandit settings, which model a variety of operations research applications. In addition to the classical exploration-exploitation trade-off, our algorithms leverage the power of the ?forgetting principle? in the learning processes, which is vital in changing environments. Extensive numerical experiments with synthetic datasets and a dataset of an online auto-loan company during the severe acute respiratory syndrome (SARS) epidemic period demonstrate that our proposed algorithms achieve superior performance compared with existing algorithms.This paper was accepted by George J. Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - We introduce data-driven decision-making algorithms that achieve state-of-the-art dynamic regret bounds for a collection of nonstationary stochastic bandit settings. These settings capture applications such as advertisement allocation, dynamic pricing, and traffic network routing in changing environments. We show how the difficulty posed by the (unknown a priori and possibly adversarial) nonstationarity can be overcome by an unconventional marriage between stochastic and adversarial bandit learning algorithms. Beginning with the linear bandit setting, we design and analyze a sliding window-upper confidence bound algorithm that achieves the optimal dynamic regret bound when the underlying variation budget is known. This budget quantifies the total amount of temporal variation of the latent environments. Boosted by the novel bandit-over-bandit framework that adapts to the latent changes, our algorithm can further enjoy nearly optimal dynamic regret bounds in a (surprisingly) parameter-free manner. We extend our results to other related bandit problems, namely the multiarmed bandit, generalized linear bandit, and combinatorial semibandit settings, which model a variety of operations research applications. In addition to the classical exploration-exploitation trade-off, our algorithms leverage the power of the ?forgetting principle? in the learning processes, which is vital in changing environments. Extensive numerical experiments with synthetic datasets and a dataset of an online auto-loan company during the severe acute respiratory syndrome (SARS) epidemic period demonstrate that our proposed algorithms achieve superior performance compared with existing algorithms.This paper was accepted by George J. Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4024
+UR  - https://doi.org/10.1287/mnsc.2021.4024
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating Stochastic Seeding Strategies in Networks
+AU  - Chin, Alex
+AU  - Eckles, Dean
+AU  - Ugander, Johan
+Y1  - 2021/05/17
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3963
+DO  - 10.1287/mnsc.2021.3963
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1714
+EP  - 1736
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - When trying to maximize the adoption of a behavior in a population connected by a social network, it is common to strategize about where in the network to seed the behavior, often with an element of randomness. Selecting seeds uniformly at random is a basic but compelling strategy in that it distributes seeds broadly throughout the network. A more sophisticated stochastic strategy, one-hop targeting, is to select random network neighbors of random individuals; this exploits a version of the friendship paradox, whereby the friend of a random individual is expected to have more friends than a random individual, with the hope that seeding a behavior at more connected individuals leads to more adoption. Many seeding strategies have been proposed, but empirical evaluations have demanded large field experiments designed specifically for this purpose and have yielded relatively imprecise comparisons of strategies. Here we show how stochastic seeding strategies can be evaluated more efficiently in such experiments, how they can be evaluated ?off-policy? using existing data arising from experiments designed for other purposes, and how to design more efficient experiments. In particular, we consider contrasts between stochastic seeding strategies and analyze nonparametric estimators adapted from policy evaluation and importance sampling. We use simulations on real networks to show that the proposed estimators and designs can substantially increase precision while yielding valid inference. We then apply our proposed estimators to two field experiments, one that assigned households to an intensive marketing intervention and one that assigned students to an antibullying intervention.This paper was accepted by Gui Liberali, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - When trying to maximize the adoption of a behavior in a population connected by a social network, it is common to strategize about where in the network to seed the behavior, often with an element of randomness. Selecting seeds uniformly at random is a basic but compelling strategy in that it distributes seeds broadly throughout the network. A more sophisticated stochastic strategy, one-hop targeting, is to select random network neighbors of random individuals; this exploits a version of the friendship paradox, whereby the friend of a random individual is expected to have more friends than a random individual, with the hope that seeding a behavior at more connected individuals leads to more adoption. Many seeding strategies have been proposed, but empirical evaluations have demanded large field experiments designed specifically for this purpose and have yielded relatively imprecise comparisons of strategies. Here we show how stochastic seeding strategies can be evaluated more efficiently in such experiments, how they can be evaluated ?off-policy? using existing data arising from experiments designed for other purposes, and how to design more efficient experiments. In particular, we consider contrasts between stochastic seeding strategies and analyze nonparametric estimators adapted from policy evaluation and importance sampling. We use simulations on real networks to show that the proposed estimators and designs can substantially increase precision while yielding valid inference. We then apply our proposed estimators to two field experiments, one that assigned households to an intensive marketing intervention and one that assigned students to an antibullying intervention.This paper was accepted by Gui Liberali, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3963
+UR  - https://doi.org/10.1287/mnsc.2021.3963
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian Meta-Prior Learning Using Empirical Bayes
+AU  - Nabi, Sareh
+AU  - Nassif, Houssam
+AU  - Hong, Joseph
+AU  - Mamani, Hamed
+AU  - Imbens, Guido
+Y1  - 2021/11/15
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4136
+DO  - 10.1287/mnsc.2021.4136
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1737
+EP  - 1755
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Adding domain knowledge to a learning system is known to improve results. In multiparameter Bayesian frameworks, such knowledge is incorporated as a prior. On the other hand, the various model parameters can have different learning rates in real-world problems, especially with skewed data. Two often-faced challenges in operation management and management science applications are the absence of informative priors and the inability to control parameter learning rates. In this study, we propose a hierarchical empirical Bayes approach that addresses both challenges and that can generalize to any Bayesian framework. Our method learns empirical meta-priors from the data itself and uses them to decouple the learning rates of first-order and second-order features (or any other given feature grouping) in a generalized linear model. Because the first-order features are likely to have a more pronounced effect on the outcome, focusing on learning first-order weights first is likely to improve performance and convergence time. Our empirical Bayes method clamps features in each group together and uses the deployed model?s observed data to empirically compute a hierarchical prior in hindsight. We report theoretical results for the unbiasedness, strong consistency, and optimal frequentist cumulative regret properties of our meta-prior variance estimator. We apply our method to a standard supervised learning optimization problem as well as an online combinatorial optimization problem in a contextual bandit setting implemented in an Amazon production system. During both simulations and live experiments, our method shows marked improvements, especially in cases of small traffic. Our findings are promising because optimizing over sparse data is often a challenge.This paper was accepted by Hamid Nazerzadeh, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Adding domain knowledge to a learning system is known to improve results. In multiparameter Bayesian frameworks, such knowledge is incorporated as a prior. On the other hand, the various model parameters can have different learning rates in real-world problems, especially with skewed data. Two often-faced challenges in operation management and management science applications are the absence of informative priors and the inability to control parameter learning rates. In this study, we propose a hierarchical empirical Bayes approach that addresses both challenges and that can generalize to any Bayesian framework. Our method learns empirical meta-priors from the data itself and uses them to decouple the learning rates of first-order and second-order features (or any other given feature grouping) in a generalized linear model. Because the first-order features are likely to have a more pronounced effect on the outcome, focusing on learning first-order weights first is likely to improve performance and convergence time. Our empirical Bayes method clamps features in each group together and uses the deployed model?s observed data to empirically compute a hierarchical prior in hindsight. We report theoretical results for the unbiasedness, strong consistency, and optimal frequentist cumulative regret properties of our meta-prior variance estimator. We apply our method to a standard supervised learning optimization problem as well as an online combinatorial optimization problem in a contextual bandit setting implemented in an Amazon production system. During both simulations and live experiments, our method shows marked improvements, especially in cases of small traffic. Our findings are promising because optimizing over sparse data is often a challenge.This paper was accepted by Hamid Nazerzadeh, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4136
+UR  - https://doi.org/10.1287/mnsc.2021.4136
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Prescriptive Analytics for Flexible Capacity Management
+AU  - Notz, Pascal M.
+AU  - Pibernik, Richard
+Y1  - 2021/05/06
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3867
+DO  - 10.1287/mnsc.2020.3867
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1756
+EP  - 1775
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Motivated by the real-world problem of a logistics company, this paper proposes a novel distribution-free prescriptive analytics approach?termed kernelized empirical risk minimization (kernelized ERM)?to solve a complex two-stage capacity planning problem with multivariate demand and vector-valued capacity decisions and compares this approach both theoretically and numerically with an extension of the well-known sample average approximation (SAA) approach termed weighted SAA. Both approaches use integrated machine learning algorithms to prescribe capacities directly from historical demand and numerous features (covariates) without having to make assumptions about the underlying multivariate demand distribution. We provide extensive analytical insights into both approaches. Most important, we prove the universal approximation property for the kernelized ERM approach when using a universal (data-independent) kernel and show how out-of-sample guarantees can be derived for various kernels. We demonstrate the applicability of both approaches to a real-world planning problem and evaluate their performance relative to traditional parametric approaches that first estimate a multivariate demand distribution and then solve a stochastic optimization problem and a nonparametric approach (SAA). Our results suggest that the two prescriptive analytics approaches can result in substantial performance improvements of up to 58% compared with traditional approaches. Additional numerical analyses shed light on the behavior and performance drivers of the various approaches and demonstrate that in our case, the prescriptive approaches are much more robust to variations of exogenous cost parameters than traditional approaches.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Motivated by the real-world problem of a logistics company, this paper proposes a novel distribution-free prescriptive analytics approach?termed kernelized empirical risk minimization (kernelized ERM)?to solve a complex two-stage capacity planning problem with multivariate demand and vector-valued capacity decisions and compares this approach both theoretically and numerically with an extension of the well-known sample average approximation (SAA) approach termed weighted SAA. Both approaches use integrated machine learning algorithms to prescribe capacities directly from historical demand and numerous features (covariates) without having to make assumptions about the underlying multivariate demand distribution. We provide extensive analytical insights into both approaches. Most important, we prove the universal approximation property for the kernelized ERM approach when using a universal (data-independent) kernel and show how out-of-sample guarantees can be derived for various kernels. We demonstrate the applicability of both approaches to a real-world planning problem and evaluate their performance relative to traditional parametric approaches that first estimate a multivariate demand distribution and then solve a stochastic optimization problem and a nonparametric approach (SAA). Our results suggest that the two prescriptive analytics approaches can result in substantial performance improvements of up to 58% compared with traditional approaches. Additional numerical analyses shed light on the behavior and performance drivers of the various approaches and demonstrate that in our case, the prescriptive approaches are much more robust to variations of exogenous cost parameters than traditional approaches.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3867
+UR  - https://doi.org/10.1287/mnsc.2020.3867
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Inventory Balancing with Online Learning
+AU  - Cheung, Wang Chi
+AU  - Ma, Will
+AU  - Simchi-Levi, David
+AU  - Wang, Xinshang
+Y1  - 2022/01/28
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4216
+DO  - 10.1287/mnsc.2021.4216
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1776
+EP  - 1807
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We study a general problem of allocating limited resources to heterogeneous customers over time under model uncertainty. Each type of customer can be serviced using different actions, each of which stochastically consumes some combination of resources and returns different rewards for the resources consumed. We consider a general model in which the resource consumption distribution associated with each customer type?action combination is not known but is consistent and can be learned over time. In addition, the sequence of customer types to arrive over time is arbitrary and completely unknown. We overcome both the challenges of model uncertainty and customer heterogeneity by judiciously synthesizing two algorithmic frameworks from the literature: inventory balancing, which ?reserves? a portion of each resource for high-reward customer types that could later arrive based on competitive ratio analysis, and online learning, which ?explores? the resource consumption distributions for each customer type under different actions based on regret analysis. We define an auxiliary problem, which allows for existing competitive ratio and regret bounds to be seamlessly integrated. Furthermore, we propose a new variant of upper confidence bound (UCB), dubbed lazyUCB, which conducts less exploration in a bid to focus on ?exploitation? in view of the resource scarcity. Finally, we construct an information-theoretic family of counterexamples to show that our integrated framework achieves the best possible performance guarantee. We demonstrate the efficacy of our algorithms on both synthetic instances generated for the online matching with stochastic rewards problem under unknown probabilities and a publicly available hotel data set. Our framework is highly practical in that it requires no historical data (no fitted customer choice models or forecasting of customer arrival patterns) and can be used to initialize allocation strategies in fast-changing environments.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - We study a general problem of allocating limited resources to heterogeneous customers over time under model uncertainty. Each type of customer can be serviced using different actions, each of which stochastically consumes some combination of resources and returns different rewards for the resources consumed. We consider a general model in which the resource consumption distribution associated with each customer type?action combination is not known but is consistent and can be learned over time. In addition, the sequence of customer types to arrive over time is arbitrary and completely unknown. We overcome both the challenges of model uncertainty and customer heterogeneity by judiciously synthesizing two algorithmic frameworks from the literature: inventory balancing, which ?reserves? a portion of each resource for high-reward customer types that could later arrive based on competitive ratio analysis, and online learning, which ?explores? the resource consumption distributions for each customer type under different actions based on regret analysis. We define an auxiliary problem, which allows for existing competitive ratio and regret bounds to be seamlessly integrated. Furthermore, we propose a new variant of upper confidence bound (UCB), dubbed lazyUCB, which conducts less exploration in a bid to focus on ?exploitation? in view of the resource scarcity. Finally, we construct an information-theoretic family of counterexamples to show that our integrated framework achieves the best possible performance guarantee. We demonstrate the efficacy of our algorithms on both synthetic instances generated for the online matching with stochastic rewards problem under unknown probabilities and a publicly available hotel data set. Our framework is highly practical in that it requires no historical data (no fitted customer choice models or forecasting of customer arrival patterns) and can be used to initialize allocation strategies in fast-changing environments.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4216
+UR  - https://doi.org/10.1287/mnsc.2021.4216
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Product Choice with Large Assortments: A Scalable Deep-Learning Model
+AU  - Gabel, Sebastian
+AU  - Timoshenko, Artem
+Y1  - 2021/04/09
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3969
+DO  - 10.1287/mnsc.2021.3969
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1808
+EP  - 1827
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Personalized marketing in retail requires a model to predict how different marketing actions affect product choices by individual customers. Large retailers often handle millions of transactions daily, involving thousands of products in hundreds of categories. Product choice models thus need to scale to large product assortments and customer bases, without extensive product attribute information. To address these challenges, we propose a custom deep neural network model. The model incorporates bottleneck layers to encode cross-product relationships, calibrates time-series filters to capture purchase dynamics for products with different interpurchase times, and relies on weight sharing between the products to improve convergence and scale to large assortments. The model applies to loyalty card transaction data without predefined categories or product attributes to predict customer-specific purchase probabilities in response to marketing actions. In a simulation, the proposed product choice model predicts purchase decisions better than baseline methods by adjusting the predicted probabilities for the effects of recent purchases and price discounts. The improved predictions lead to substantially higher revenue gains in a simulated coupon personalization problem. We verify predictive performance using transaction data from a large retailer with experimental variation in price discounts.This paper was accepted by Gui Liberali, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Personalized marketing in retail requires a model to predict how different marketing actions affect product choices by individual customers. Large retailers often handle millions of transactions daily, involving thousands of products in hundreds of categories. Product choice models thus need to scale to large product assortments and customer bases, without extensive product attribute information. To address these challenges, we propose a custom deep neural network model. The model incorporates bottleneck layers to encode cross-product relationships, calibrates time-series filters to capture purchase dynamics for products with different interpurchase times, and relies on weight sharing between the products to improve convergence and scale to large assortments. The model applies to loyalty card transaction data without predefined categories or product attributes to predict customer-specific purchase probabilities in response to marketing actions. In a simulation, the proposed product choice model predicts purchase decisions better than baseline methods by adjusting the predicted probabilities for the effects of recent purchases and price discounts. The improved predictions lead to substantially higher revenue gains in a simulated coupon personalization problem. We verify predictive performance using transaction data from a large retailer with experimental variation in price discounts.This paper was accepted by Gui Liberali, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3969
+UR  - https://doi.org/10.1287/mnsc.2021.3969
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Learning to Rank an Assortment of Products
+AU  - Ferreira, Kris J.
+AU  - Parthasarathy, Sunanda
+AU  - Sekar, Shreyas
+Y1  - 2021/10/13
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4130
+DO  - 10.1287/mnsc.2021.4130
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1828
+EP  - 1848
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We consider the product-ranking challenge that online retailers face when their customers typically behave as ?window shoppers.? They form an impression of the assortment after browsing products ranked in the initial positions and then decide whether to continue browsing. We design online learning algorithms for product ranking that maximize the number of customers who engage with the site. Customers? product preferences and attention spans are correlated and unknown to the retailer; furthermore, the retailer cannot exploit similarities across products, owing to the fact that the products are not necessarily characterized by a set of attributes. We develop a class of online learning-then-earning algorithms that prescribe a ranking to offer each customer, learning from preceding customers? clickstream data to offer better rankings to subsequent customers. Our algorithms balance product popularity with diversity, the notion of appealing to a large variety of heterogeneous customers. We prove that our learning algorithms converge to a ranking that matches the best-known approximation factors for the offline, complete information setting. Finally, we partner with Wayfair ? a multibillion-dollar home goods online retailer ? to estimate the impact of our algorithms in practice via simulations using actual clickstream data, and we find that our algorithms yield a significant increase (5?30%) in the number of customers that engage with the site.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - We consider the product-ranking challenge that online retailers face when their customers typically behave as ?window shoppers.? They form an impression of the assortment after browsing products ranked in the initial positions and then decide whether to continue browsing. We design online learning algorithms for product ranking that maximize the number of customers who engage with the site. Customers? product preferences and attention spans are correlated and unknown to the retailer; furthermore, the retailer cannot exploit similarities across products, owing to the fact that the products are not necessarily characterized by a set of attributes. We develop a class of online learning-then-earning algorithms that prescribe a ranking to offer each customer, learning from preceding customers? clickstream data to offer better rankings to subsequent customers. Our algorithms balance product popularity with diversity, the notion of appealing to a large variety of heterogeneous customers. We prove that our learning algorithms converge to a ranking that matches the best-known approximation factors for the offline, complete information setting. Finally, we partner with Wayfair ? a multibillion-dollar home goods online retailer ? to estimate the impact of our algorithms in practice via simulations using actual clickstream data, and we find that our algorithms yield a significant increase (5?30%) in the number of customers that engage with the site.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4130
+UR  - https://doi.org/10.1287/mnsc.2021.4130
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Linear Program-Based Approximation for Personalized Reserve Prices
+AU  - Derakhshan, Mahsa
+AU  - Golrezaei, Negin
+AU  - Paes Leme, Renato
+Y1  - 2021/04/05
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3897
+DO  - 10.1287/mnsc.2020.3897
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1849
+EP  - 1864
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We study the problem of computing data-driven personalized reserve prices in eager second price auctions without having any assumption on valuation distributions. Here, the input is a data set that contains the submitted bids of n buyers in a set of auctions, and the problem is to return personalized reserve prices r that maximize the revenue earned on these auctions by running eager second price auctions with reserve r. For this problem, which is known to be NP complete, we present a novel linear program (LP) formulation and a rounding procedure, which achieves a 0.684 approximation. This improves over the 12-approximation algorithm from Roughgarden and Wang. We show that our analysis is tight for this rounding procedure. We also bound the integrality gap of the LP, which shows that it is impossible to design an algorithm that yields an approximation factor larger than 0.828 with respect to this LP.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - We study the problem of computing data-driven personalized reserve prices in eager second price auctions without having any assumption on valuation distributions. Here, the input is a data set that contains the submitted bids of n buyers in a set of auctions, and the problem is to return personalized reserve prices r that maximize the revenue earned on these auctions by running eager second price auctions with reserve r. For this problem, which is known to be NP complete, we present a novel linear program (LP) formulation and a rounding procedure, which achieves a 0.684 approximation. This improves over the 12-approximation algorithm from Roughgarden and Wang. We show that our analysis is tight for this rounding procedure. We also bound the integrality gap of the LP, which shows that it is impossible to design an algorithm that yields an approximation factor larger than 0.828 with respect to this LP.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3897
+UR  - https://doi.org/10.1287/mnsc.2020.3897
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Meta Dynamic Pricing: Transfer Learning Across Experiments
+AU  - Bastani, Hamsa
+AU  - Simchi-Levi, David
+AU  - Zhu, Ruihao
+Y1  - 2021/09/09
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4071
+DO  - 10.1287/mnsc.2021.4071
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1865
+EP  - 1881
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We study the problem of learning shared structure across a sequence of dynamic pricing experiments for related products. We consider a practical formulation in which the unknown demand parameters for each product come from an unknown distribution (prior) that is shared across products. We then propose a meta dynamic pricing algorithm that learns this prior online while solving a sequence of Thompson sampling pricing experiments (each with horizon T) for N different products. Our algorithm addresses two challenges: (i) balancing the need to learn the prior (meta-exploration) with the need to leverage the estimated prior to achieve good performance (meta-exploitation) and (ii) accounting for uncertainty in the estimated prior by appropriately ?widening? the estimated prior as a function of its estimation error. We introduce a novel prior alignment technique to analyze the regret of Thompson sampling with a misspecified prior, which may be of independent interest. Unlike prior-independent approaches, our algorithm?s meta regret grows sublinearly in N, demonstrating that the price of an unknown prior in Thompson sampling can be negligible in experiment-rich environments (large N). Numerical experiments on synthetic and real auto loan data demonstrate that our algorithm significantly speeds up learning compared with prior-independent algorithms.This paper was accepted by George J. Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - We study the problem of learning shared structure across a sequence of dynamic pricing experiments for related products. We consider a practical formulation in which the unknown demand parameters for each product come from an unknown distribution (prior) that is shared across products. We then propose a meta dynamic pricing algorithm that learns this prior online while solving a sequence of Thompson sampling pricing experiments (each with horizon T) for N different products. Our algorithm addresses two challenges: (i) balancing the need to learn the prior (meta-exploration) with the need to leverage the estimated prior to achieve good performance (meta-exploitation) and (ii) accounting for uncertainty in the estimated prior by appropriately ?widening? the estimated prior as a function of its estimation error. We introduce a novel prior alignment technique to analyze the regret of Thompson sampling with a misspecified prior, which may be of independent interest. Unlike prior-independent approaches, our algorithm?s meta regret grows sublinearly in N, demonstrating that the price of an unknown prior in Thompson sampling can be negligible in experiment-rich environments (large N). Numerical experiments on synthetic and real auto loan data demonstrate that our algorithm significantly speeds up learning compared with prior-independent algorithms.This paper was accepted by George J. Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4071
+UR  - https://doi.org/10.1287/mnsc.2021.4071
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - An Inverse Optimization Approach to Measuring Clinical Pathway Concordance
+AU  - Chan, Timothy C. Y.
+AU  - Eberg, Maria
+AU  - Forster, Katharina
+AU  - Holloway, Claire
+AU  - Ieraci, Luciano
+AU  - Shalaby, Yusuf
+AU  - Yousefi, Nasrin
+Y1  - 2021/10/07
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4100
+DO  - 10.1287/mnsc.2021.4100
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1882
+EP  - 1903
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Clinical pathways outline standardized processes in the delivery of care for a specific disease. Patient journeys through the healthcare system, however, can deviate substantially from these pathways. Given the positive benefits of clinical pathways, it is important to measure the concordance of patient pathways so that variations in health system performance or bottlenecks in the delivery of care can be detected, monitored, and acted upon. This paper proposes the first data-driven inverse optimization approach to measuring pathway concordance in any problem context. Our specific application considers clinical pathway concordance for stage III colon cancer. We develop a novel concordance metric and demonstrate using real patient data from Ontario, Canada that it has a statistically significant association with survival. Our methodological approach considers a patient?s journey as a walk in a directed graph, where the costs on the arcs are derived by solving an inverse shortest path problem. The inverse optimization model uses two sources of information to find the arc costs: reference pathways developed by a provincial cancer agency (primary) and data from real-world patient-related activity from patients with both positive and negative clinical outcomes (secondary). Thus, our inverse optimization framework extends existing models by including data points of both varying ?primacy? and ?alignment.? Data primacy is addressed through a two-stage approach to imputing the cost vector, whereas data alignment is addressed by a hybrid objective function that aims to minimize and maximize suboptimality error for different subsets of input data.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - Clinical pathways outline standardized processes in the delivery of care for a specific disease. Patient journeys through the healthcare system, however, can deviate substantially from these pathways. Given the positive benefits of clinical pathways, it is important to measure the concordance of patient pathways so that variations in health system performance or bottlenecks in the delivery of care can be detected, monitored, and acted upon. This paper proposes the first data-driven inverse optimization approach to measuring pathway concordance in any problem context. Our specific application considers clinical pathway concordance for stage III colon cancer. We develop a novel concordance metric and demonstrate using real patient data from Ontario, Canada that it has a statistically significant association with survival. Our methodological approach considers a patient?s journey as a walk in a directed graph, where the costs on the arcs are derived by solving an inverse shortest path problem. The inverse optimization model uses two sources of information to find the arc costs: reference pathways developed by a provincial cancer agency (primary) and data from real-world patient-related activity from patients with both positive and negative clinical outcomes (secondary). Thus, our inverse optimization framework extends existing models by including data points of both varying ?primacy? and ?alignment.? Data primacy is addressed through a two-stage approach to imputing the cost vector, whereas data alignment is addressed by a hybrid objective function that aims to minimize and maximize suboptimality error for different subsets of input data.This paper was accepted by Chung Piaw Teo, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4100
+UR  - https://doi.org/10.1287/mnsc.2021.4100
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Pricing for New Products Using a Utility-Based Generalization of the Bass Diffusion Model
+AU  - Cosguner, Koray
+AU  - Seetharaman, P. B. (Seethu)
+Y1  - 2022/01/13
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4257
+DO  - 10.1287/mnsc.2021.4257
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1904
+EP  - 1922
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - The Bass Model (BM) has an excellent track record in the realm of new product sales forecasting. However, its use for optimal dynamic pricing or advertising is relatively limited because the Generalized Bass Model (GBM), which extends the BM to handle marketing variables, uses only percentage changes in marketing variables, rather than their actual values. This restricts the GBM?s prescriptive use, for example, to derive the optimal price path for a new product, conditional on an assumed launch price, but not the launch price itself. In this paper, we employ a utility-based extension of the BM, which can yield normative prescriptions regarding both the introductory price and the price path after launch, for the new product. We offer two versions of this utility-based diffusion model, namely, the Bass-Gumbel Diffusion Model (BGDM) and the Bass-Logit Diffusion Model (BLDM), the latter of which has been previously used. We show that both the BGDM and BLDM handily outperform the GBM in forecasting new product sales using empirical data from four product categories. We discuss how to estimate the BGDM and BLDM in the absence of past sales data. We compare the optimal pricing policy of the BLDM with the GBM and derive optimal pricing policies that are implied by the BLDM under various ranges of model parameters. We illustrate a dynamic pricing approach that allows managers to derive optimal marketing policies in a computationally convenient manner and extend this approach to a competitive, multiproduct case.This paper was accepted by Gui Liberali, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - The Bass Model (BM) has an excellent track record in the realm of new product sales forecasting. However, its use for optimal dynamic pricing or advertising is relatively limited because the Generalized Bass Model (GBM), which extends the BM to handle marketing variables, uses only percentage changes in marketing variables, rather than their actual values. This restricts the GBM?s prescriptive use, for example, to derive the optimal price path for a new product, conditional on an assumed launch price, but not the launch price itself. In this paper, we employ a utility-based extension of the BM, which can yield normative prescriptions regarding both the introductory price and the price path after launch, for the new product. We offer two versions of this utility-based diffusion model, namely, the Bass-Gumbel Diffusion Model (BGDM) and the Bass-Logit Diffusion Model (BLDM), the latter of which has been previously used. We show that both the BGDM and BLDM handily outperform the GBM in forecasting new product sales using empirical data from four product categories. We discuss how to estimate the BGDM and BLDM in the absence of past sales data. We compare the optimal pricing policy of the BLDM with the GBM and derive optimal pricing policies that are implied by the BLDM under various ranges of model parameters. We illustrate a dynamic pricing approach that allows managers to derive optimal marketing policies in a computationally convenient manner and extend this approach to a competitive, multiproduct case.This paper was accepted by Gui Liberali, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4257
+UR  - https://doi.org/10.1287/mnsc.2021.4257
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Statistical Learning Approach to Personalization in Revenue Management
+AU  - Chen, Xi
+AU  - Owen, Zachary
+AU  - Pixton, Clark
+AU  - Simchi-Levi, David
+Y1  - 2021/01/18
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3772
+DO  - 10.1287/mnsc.2020.3772
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1923
+EP  - 1937
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We consider a logit model-based framework for modeling joint pricing and assortment decisions that take into account customer features. This model provides a significant advantage when one has insufficient data for any one customer and wishes to generalize learning about one customer?s preferences to the population. Under this model, we study the statistical learning task of model fitting from a static store of precollected customer data. This setting, in contrast to the popular learning and earning paradigm, represents the situation many business teams encounter in which their data collection abilities have outstripped their data analysis capabilities. In this learning setting, we establish finite-sample convergence guarantees on the model parameters. The parameter convergence guarantees are then extended to out-of-sample performance guarantees in terms of revenue, in the form of a high-probability bound on the gap between the expected revenue of the best action taken under the estimated parameters and the revenue generated by a decision maker with full knowledge of the choice model. We further discuss practical implications of these bounds. We demonstrate the personalization approach using ticket purchase data from an airline carrier.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - We consider a logit model-based framework for modeling joint pricing and assortment decisions that take into account customer features. This model provides a significant advantage when one has insufficient data for any one customer and wishes to generalize learning about one customer?s preferences to the population. Under this model, we study the statistical learning task of model fitting from a static store of precollected customer data. This setting, in contrast to the popular learning and earning paradigm, represents the situation many business teams encounter in which their data collection abilities have outstripped their data analysis capabilities. In this learning setting, we establish finite-sample convergence guarantees on the model parameters. The parameter convergence guarantees are then extended to out-of-sample performance guarantees in terms of revenue, in the form of a high-probability bound on the gap between the expected revenue of the best action taken under the estimated parameters and the revenue generated by a decision maker with full knowledge of the choice model. We further discuss practical implications of these bounds. We demonstrate the personalization approach using ticket purchase data from an airline carrier.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3772
+UR  - https://doi.org/10.1287/mnsc.2020.3772
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Data-Driven Dynamic Pricing and Ordering with Perishable Inventory in a Changing Environment
+AU  - Keskin, N. Bora
+AU  - Li, Yuexing
+AU  - Song, Jing-Sheng
+Y1  - 2022/02/15
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4011
+DO  - 10.1287/mnsc.2021.4011
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1938
+EP  - 1958
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We consider a retailer that sells a perishable product, making joint pricing and inventory ordering decisions over a finite time horizon of T periods with lost sales. Exploring a real-life data set from a leading supermarket chain, we identify several distinctive challenges faced by such a retailer that have not been jointly studied in the literature: the retailer does not have perfect information on (1) the demand-price relationship, (2) the demand noise distribution, (3) the inventory perishability rate, and (4) how the demand-price relationship changes over time. Furthermore, the demand noise distribution is nonparametric for some products but parametric for others. To tackle these challenges, we design two types of data-driven pricing and ordering (DDPO) policies for the cases of nonparametric and parametric noise distributions. Measuring performance by regret, that is, the profit loss caused by not knowing (1)?(4), we prove that the T-period regret of our DDPO policies are in the order of T2/3(log??T)1/2 and T1/2log??T in the cases of nonparametric and parametric noise distributions, respectively. These are the best achievable growth rates of regret in these settings (up to logarithmic terms). Implementing our policies in the context of the aforementioned real-life data set, we show that our approach significantly outperforms the historical decisions made by the supermarket chain. Moreover, we characterize parameter regimes that quantify the relative significance of the changing environment and product perishability. Finally, we extend our model to allow for age-dependent perishability and demand censoring and modify our policies to address these issues.This paper was accepted by David Simchi-Levi, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - We consider a retailer that sells a perishable product, making joint pricing and inventory ordering decisions over a finite time horizon of T periods with lost sales. Exploring a real-life data set from a leading supermarket chain, we identify several distinctive challenges faced by such a retailer that have not been jointly studied in the literature: the retailer does not have perfect information on (1) the demand-price relationship, (2) the demand noise distribution, (3) the inventory perishability rate, and (4) how the demand-price relationship changes over time. Furthermore, the demand noise distribution is nonparametric for some products but parametric for others. To tackle these challenges, we design two types of data-driven pricing and ordering (DDPO) policies for the cases of nonparametric and parametric noise distributions. Measuring performance by regret, that is, the profit loss caused by not knowing (1)?(4), we prove that the T-period regret of our DDPO policies are in the order of T2/3(log??T)1/2 and T1/2log??T in the cases of nonparametric and parametric noise distributions, respectively. These are the best achievable growth rates of regret in these settings (up to logarithmic terms). Implementing our policies in the context of the aforementioned real-life data set, we show that our approach significantly outperforms the historical decisions made by the supermarket chain. Moreover, we characterize parameter regimes that quantify the relative significance of the changing environment and product perishability. Finally, we extend our model to allow for age-dependent perishability and demand censoring and modify our policies to address these issues.This paper was accepted by David Simchi-Levi, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4011
+UR  - https://doi.org/10.1287/mnsc.2021.4011
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Assessing Algorithmic Fairness with Unobserved Protected Class Using Data Combination
+AU  - Kallus, Nathan
+AU  - Mao, Xiaojie
+AU  - Zhou, Angela
+Y1  - 2021/04/02
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3850
+DO  - 10.1287/mnsc.2020.3850
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1959
+EP  - 1981
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - The increasing impact of algorithmic decisions on people?s lives compels us to scrutinize their fairness and, in particular, the disparate impacts that ostensibly color-blind algorithms can have on different groups. Examples include credit decisioning, hiring, advertising, criminal justice, personalized medicine, and targeted policy making, where in some cases legislative or regulatory frameworks for fairness exist and define specific protected classes. In this paper we study a fundamental challenge to assessing disparate impacts in practice: protected class membership is often not observed in the data. This is particularly a problem in lending and healthcare. We consider the use of an auxiliary data set, such as the U.S. census, to construct models that predict the protected class from proxy variables, such as surname and geolocation. We show that even with such data, a variety of common disparity measures are generally unidentifiable, providing a new perspective on the documented biases of popular proxy-based methods. We provide exact characterizations of the tightest possible set of all possible true disparities that are consistent with the data (and possibly additional assumptions). We further provide optimization-based algorithms for computing and visualizing these sets and statistical tools to assess sampling uncertainty. Together, these enable reliable and robust assessments of disparities?an important tool when disparity assessment can have far-reaching policy implications. We demonstrate this in two case studies with real data: mortgage lending and personalized medicine dosing.This paper was accepted by Hamid Nazerzadeh, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - The increasing impact of algorithmic decisions on people?s lives compels us to scrutinize their fairness and, in particular, the disparate impacts that ostensibly color-blind algorithms can have on different groups. Examples include credit decisioning, hiring, advertising, criminal justice, personalized medicine, and targeted policy making, where in some cases legislative or regulatory frameworks for fairness exist and define specific protected classes. In this paper we study a fundamental challenge to assessing disparate impacts in practice: protected class membership is often not observed in the data. This is particularly a problem in lending and healthcare. We consider the use of an auxiliary data set, such as the U.S. census, to construct models that predict the protected class from proxy variables, such as surname and geolocation. We show that even with such data, a variety of common disparity measures are generally unidentifiable, providing a new perspective on the documented biases of popular proxy-based methods. We provide exact characterizations of the tightest possible set of all possible true disparities that are consistent with the data (and possibly additional assumptions). We further provide optimization-based algorithms for computing and visualizing these sets and statistical tools to assess sampling uncertainty. Together, these enable reliable and robust assessments of disparities?an important tool when disparity assessment can have far-reaching policy implications. We demonstrate this in two case studies with real data: mortgage lending and personalized medicine dosing.This paper was accepted by Hamid Nazerzadeh, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3850
+UR  - https://doi.org/10.1287/mnsc.2020.3850
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive Clinical Trial Designs with Surrogates: When Should We Bother?
+AU  - Anderer, Arielle
+AU  - Bastani, Hamsa
+AU  - Silberholz, John
+Y1  - 2021/12/22
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4096
+DO  - 10.1287/mnsc.2021.4096
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1982
+EP  - 2002
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - The success of a new drug is assessed within a clinical trial using a primary endpoint, which is typically the true outcome of interest?for example, overall survival. However, regulators sometimes approve drugs using a surrogate outcome?an intermediate indicator that is faster or easier to measure than the true outcome of interest?for example, progression-free survival?as the primary endpoint when there is demonstrable medical need. Although using a surrogate outcome (instead of the true outcome) as the primary endpoint can substantially speed up clinical trials and lower costs, it can also result in poor drug-approval decisions because the surrogate is not a perfect predictor of the true outcome. In this paper, we propose combining data from both surrogate and true outcomes to improve decision making within a late-phase clinical trial. In contrast to broadly used clinical trial designs that rely on a single primary endpoint, we propose a Bayesian adaptive clinical trial design that simultaneously leverages both observed outcomes to inform trial decisions. We perform comparative statics on the relative benefit of our approach, illustrating the types of diseases and surrogates for which our proposed design is particularly advantageous. Finally, we illustrate our proposed design on metastatic breast cancer. We use a large-scale clinical trial database to construct a Bayesian prior and simulate our design on a subset of clinical trials. We estimate that our design would yield a 16% decrease in trial costs relative to existing clinical trial designs, while maintaining the same Type I/II error rates.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+AB  - The success of a new drug is assessed within a clinical trial using a primary endpoint, which is typically the true outcome of interest?for example, overall survival. However, regulators sometimes approve drugs using a surrogate outcome?an intermediate indicator that is faster or easier to measure than the true outcome of interest?for example, progression-free survival?as the primary endpoint when there is demonstrable medical need. Although using a surrogate outcome (instead of the true outcome) as the primary endpoint can substantially speed up clinical trials and lower costs, it can also result in poor drug-approval decisions because the surrogate is not a perfect predictor of the true outcome. In this paper, we propose combining data from both surrogate and true outcomes to improve decision making within a late-phase clinical trial. In contrast to broadly used clinical trial designs that rely on a single primary endpoint, we propose a Bayesian adaptive clinical trial design that simultaneously leverages both observed outcomes to inform trial decisions. We perform comparative statics on the relative benefit of our approach, illustrating the types of diseases and surrogates for which our proposed design is particularly advantageous. Finally, we illustrate our proposed design on metastatic breast cancer. We use a large-scale clinical trial database to construct a Bayesian prior and simulate our design on a subset of clinical trials. We estimate that our design would yield a 16% decrease in trial costs relative to existing clinical trial designs, while maintaining the same Type I/II error rates.This paper was accepted by J. George Shanthikumar, Management Science Special Section on Data-Driven Prescriptive Analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4096
+UR  - https://doi.org/10.1287/mnsc.2021.4096
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Curbing the Opioid Epidemic at Its Root: The Effect of Provider Discordance After Opioid Initiation
+AU  - Bobroske, Katherine
+AU  - Freeman, Michael
+AU  - Huan, Lawrence
+AU  - Cattrell, Anita
+AU  - Scholtes, Stefan
+Y1  - 2022/01/06
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4252
+DO  - 10.1287/mnsc.2021.4252
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2003
+EP  - 2015
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Although medical research has addressed the clinical management of chronic opioid users, little is known about how operational interventions shortly after opioid initiation can impact a patient?s likelihood of long-term opioid use. Using a nationwide U.S. database of medical and pharmaceutical claims, we investigate the care delivery process at the most common entry point to opioid use: the primary care setting. For patients who return to primary care for a follow-up appointment within 30 days of opioid initiation, we ask who should revisit and potentially revise the opioid-based treatment plan: the initial prescriber (provider concordance) or an alternate clinician (provider discordance)? First, using a fully controlled logistic model, we find that provider discordance reduces the likelihood of long-term opioid use 12 months after opioid initiation by 31% (95% Confidence Interval: [18%, 43%]). Both the instrumental variable analysis technique and propensity-score matching (utilizing the minimum-bias estimator approach) account for omitted variable bias and indicate that this is a conservative estimate of the true causal effect. Second, looking at patient activities immediately after the follow-up appointment, we find that this long-term reduction is at least partially explained by an immediate reduction in opioids prescribed after the follow-up appointment. Third, the data suggest that the benefit associated with provider discordance remains significant regardless of whether the patient?s initial prescriber was their regular primary care provider or another clinician. Overall, our analysis indicates that systematic, operational changes in the early stages of managing new opioid patients may offer a promising, and hitherto overlooked, opportunity to curb the opioid epidemic.This paper was accepted by David Simchi-Levi, healthcare management.
+AB  - Although medical research has addressed the clinical management of chronic opioid users, little is known about how operational interventions shortly after opioid initiation can impact a patient?s likelihood of long-term opioid use. Using a nationwide U.S. database of medical and pharmaceutical claims, we investigate the care delivery process at the most common entry point to opioid use: the primary care setting. For patients who return to primary care for a follow-up appointment within 30 days of opioid initiation, we ask who should revisit and potentially revise the opioid-based treatment plan: the initial prescriber (provider concordance) or an alternate clinician (provider discordance)? First, using a fully controlled logistic model, we find that provider discordance reduces the likelihood of long-term opioid use 12 months after opioid initiation by 31% (95% Confidence Interval: [18%, 43%]). Both the instrumental variable analysis technique and propensity-score matching (utilizing the minimum-bias estimator approach) account for omitted variable bias and indicate that this is a conservative estimate of the true causal effect. Second, looking at patient activities immediately after the follow-up appointment, we find that this long-term reduction is at least partially explained by an immediate reduction in opioids prescribed after the follow-up appointment. Third, the data suggest that the benefit associated with provider discordance remains significant regardless of whether the patient?s initial prescriber was their regular primary care provider or another clinician. Overall, our analysis indicates that systematic, operational changes in the early stages of managing new opioid patients may offer a promising, and hitherto overlooked, opportunity to curb the opioid epidemic.This paper was accepted by David Simchi-Levi, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4252
+UR  - https://doi.org/10.1287/mnsc.2021.4252
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Social Divide of Social Distancing: Shelter-in-Place Behavior in Santiago During the Covid-19 Pandemic
+AU  - Carranza, Aldo
+AU  - Goic, Marcel
+AU  - Lara, Eduardo
+AU  - Olivares, Marcelo
+AU  - Weintraub, Gabriel Y.
+AU  - Covarrubia, Julio
+AU  - Escobedo, Cristian
+AU  - Jara, Natalia
+AU  - Basso, Leonardo J.
+Y1  - 2022/01/21
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4240
+DO  - 10.1287/mnsc.2021.4240
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2016
+EP  - 2027
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Voluntary shelter-in-place directives and lockdowns are the main nonpharmaceutical interventions that governments around the globe have used to contain the Covid-19 pandemic. In this paper, we study the impact of such interventions in the capital of a developing country, Santiago, Chile, that exhibits large socioeconomic inequality. A distinctive feature of our study is that we use granular geolocated mobile phone data to construct mobility measures that capture (1) shelter-in-place behavior and (2) trips within the city to destinations with potentially different risk profiles. Using panel data linear regression models, we first show that the impact of social distancing measures and lockdowns on mobility is highly heterogeneous and dependent on socioeconomic levels. More specifically, our estimates indicate that, although zones of high socioeconomic levels can exhibit reductions in mobility of around 50%?90% depending on the specific mobility metric used, these reductions are only 20%?50% for lower income communities. The large reductions in higher income communities are significantly driven by voluntary shelter-in-place behavior. Second, also using panel data methods, we show that our mobility measures are important predictors of infections: roughly, a 10% increase in mobility correlates with a 5% increase in the rate of infection. Our results suggest that mobility is an important factor explaining differences in infection rates between high- and low-incomes areas within the city. Further, they confirm the challenges of reducing mobility in lower income communities, where people generate their income from their daily work. To be effective, shelter-in-place restrictions in municipalities of low socioeconomic levels may need to be complemented by other supporting measures that enable their inhabitants to increase compliance.This paper was accepted by David Simchi Levi, healthcare management.
+AB  - Voluntary shelter-in-place directives and lockdowns are the main nonpharmaceutical interventions that governments around the globe have used to contain the Covid-19 pandemic. In this paper, we study the impact of such interventions in the capital of a developing country, Santiago, Chile, that exhibits large socioeconomic inequality. A distinctive feature of our study is that we use granular geolocated mobile phone data to construct mobility measures that capture (1) shelter-in-place behavior and (2) trips within the city to destinations with potentially different risk profiles. Using panel data linear regression models, we first show that the impact of social distancing measures and lockdowns on mobility is highly heterogeneous and dependent on socioeconomic levels. More specifically, our estimates indicate that, although zones of high socioeconomic levels can exhibit reductions in mobility of around 50%?90% depending on the specific mobility metric used, these reductions are only 20%?50% for lower income communities. The large reductions in higher income communities are significantly driven by voluntary shelter-in-place behavior. Second, also using panel data methods, we show that our mobility measures are important predictors of infections: roughly, a 10% increase in mobility correlates with a 5% increase in the rate of infection. Our results suggest that mobility is an important factor explaining differences in infection rates between high- and low-incomes areas within the city. Further, they confirm the challenges of reducing mobility in lower income communities, where people generate their income from their daily work. To be effective, shelter-in-place restrictions in municipalities of low socioeconomic levels may need to be complemented by other supporting measures that enable their inhabitants to increase compliance.This paper was accepted by David Simchi Levi, healthcare management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4240
+UR  - https://doi.org/10.1287/mnsc.2021.4240
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Rationale for Imperfect Reporting Standards
+AU  - Friedman, Henry L.
+AU  - Hughes, John S.
+AU  - Michaeli, Beatrice
+Y1  - 2021/03/24
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3965
+DO  - 10.1287/mnsc.2021.3965
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2028
+EP  - 2046
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - The aim of general purpose financial reporting is to provide information that is useful to investors, lenders, and other creditors. With this goal, regulators have tended to mandate increased disclosure. We show that increased mandatory disclosure can weaken a firm?s incentive to acquire and voluntarily disclose private information that is not amenable to inclusion in mandated reports. Specifically, we provide conditions under which a regulator, seeking to maximize the total amount of information provided to investors via both mandatory and voluntary disclosures, would mandate less informative and more conservative financial reports even in the absence of any direct costs of increasing informativeness. This result is robust to allowing the firm to make reports more informative and to imposing a nondisclosure cost or penalty on the firm. The results and comparative statics analysis contribute to our understanding of interactions between mandatory reporting and voluntary disclosure and demonstrate a novel benefit to setting accounting standards that mandate imperfectly informative reports.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - The aim of general purpose financial reporting is to provide information that is useful to investors, lenders, and other creditors. With this goal, regulators have tended to mandate increased disclosure. We show that increased mandatory disclosure can weaken a firm?s incentive to acquire and voluntarily disclose private information that is not amenable to inclusion in mandated reports. Specifically, we provide conditions under which a regulator, seeking to maximize the total amount of information provided to investors via both mandatory and voluntary disclosures, would mandate less informative and more conservative financial reports even in the absence of any direct costs of increasing informativeness. This result is robust to allowing the firm to make reports more informative and to imposing a nondisclosure cost or penalty on the firm. The results and comparative statics analysis contribute to our understanding of interactions between mandatory reporting and voluntary disclosure and demonstrate a novel benefit to setting accounting standards that mandate imperfectly informative reports.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3965
+UR  - https://doi.org/10.1287/mnsc.2021.3965
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Portfolio Choice with Estimation Risk: No Risk-Free Asset Case
+AU  - Kan, Raymond
+AU  - Wang, Xiaolu
+AU  - Zhou, Guofu
+Y1  - 2021/10/21
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3989
+DO  - 10.1287/mnsc.2021.3989
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2047
+EP  - 2068
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We propose an optimal combining strategy to mitigate estimation risk for the popular mean-variance portfolio choice problem in the case without a risk-free asset. We find that our strategy performs well in general, and it can be applied to known estimated rules and the resulting new rules outperform the original ones. We further obtain the exact distribution of the out-of-sample returns and explicit expressions of the expected out-of-sample utilities of the combining strategy, providing not only a fast and accurate way of evaluating the performance, but also analytical insights into the portfolio construction.This paper was accepted by Tyler Shumway, finance.
+AB  - We propose an optimal combining strategy to mitigate estimation risk for the popular mean-variance portfolio choice problem in the case without a risk-free asset. We find that our strategy performs well in general, and it can be applied to known estimated rules and the resulting new rules outperform the original ones. We further obtain the exact distribution of the out-of-sample returns and explicit expressions of the expected out-of-sample utilities of the combining strategy, providing not only a fast and accurate way of evaluating the performance, but also analytical insights into the portfolio construction.This paper was accepted by Tyler Shumway, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3989
+UR  - https://doi.org/10.1287/mnsc.2021.3989
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Credit Default Swaps and Debt Overhang
+AU  - Wong, Tak-Yuen
+AU  - Yu, Jin
+Y1  - 2021/03/09
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3953
+DO  - 10.1287/mnsc.2020.3953
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2069
+EP  - 2097
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We analyze the impact of credit default swaps (CDSs) trading on firm investment, long-term debt financing, and valuation. In our model, the firm is endowed with a real option to initiate a project and enhance its future growth. Its creditors have access to CDS contracts that hedge them against default losses. We show that CDS protection increases the firm?s pledgable income: that is, the maximum amount of debt it can raise. However, at the same time CDS protection decreases asset growth and impedes project initiation. As a result, CDS trading could reduce firm value, and the negative effects are stronger when the firm is riskier, where shareholders have stronger bargaining power, and growth opportunities are less valuable. Using simulated cross-sections of firms, we find that CDS trading increases corporate default rates and deters investment. Altogether, CDS firms tend to have a lower firm value and more volatile equity returns than non-CDS firms.This paper was accepted by Gustavo Manso, finance.
+AB  - We analyze the impact of credit default swaps (CDSs) trading on firm investment, long-term debt financing, and valuation. In our model, the firm is endowed with a real option to initiate a project and enhance its future growth. Its creditors have access to CDS contracts that hedge them against default losses. We show that CDS protection increases the firm?s pledgable income: that is, the maximum amount of debt it can raise. However, at the same time CDS protection decreases asset growth and impedes project initiation. As a result, CDS trading could reduce firm value, and the negative effects are stronger when the firm is riskier, where shareholders have stronger bargaining power, and growth opportunities are less valuable. Using simulated cross-sections of firms, we find that CDS trading increases corporate default rates and deters investment. Altogether, CDS firms tend to have a lower firm value and more volatile equity returns than non-CDS firms.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3953
+UR  - https://doi.org/10.1287/mnsc.2020.3953
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Hospital Financial Health and Clinical Choices: Evidence from the Financial Crisis
+AU  - Adelino, Manuel
+AU  - Lewellen, Katharina
+AU  - McCartney, W. Ben
+Y1  - 2021/10/04
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3944
+DO  - 10.1287/mnsc.2020.3944
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2098
+EP  - 2119
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Financial constraints can cause firms to reduce product quality when quality is difficult to observe. We test this hypothesis in the context of medical choices at hospitals. Using heart attacks and child deliveries, we ask whether hospitals shift toward more profitable treatment options after a financial shock?the 2008 financial crisis. The crisis was followed by an unprecedented drop in hospital investments, yet the aggregate trends show no discrete shifts in treatment intensity post-2008. For cardiac treatment (but not for child deliveries), we find evidence that hospitals with larger financial losses during the financial crisis subsequently increased their use of intensive treatments relative to hospitals with smaller losses, consistent with the effects of financing constraints.This paper was accepted by David Simchi-Levi, finance.
+AB  - Financial constraints can cause firms to reduce product quality when quality is difficult to observe. We test this hypothesis in the context of medical choices at hospitals. Using heart attacks and child deliveries, we ask whether hospitals shift toward more profitable treatment options after a financial shock?the 2008 financial crisis. The crisis was followed by an unprecedented drop in hospital investments, yet the aggregate trends show no discrete shifts in treatment intensity post-2008. For cardiac treatment (but not for child deliveries), we find evidence that hospitals with larger financial losses during the financial crisis subsequently increased their use of intensive treatments relative to hospitals with smaller losses, consistent with the effects of financing constraints.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3944
+UR  - https://doi.org/10.1287/mnsc.2020.3944
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Financial Uncertainty with Ambiguity and Learning
+AU  - Liu, Hening
+AU  - Zhang, Yuzhao
+Y1  - 2021/03/08
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3958
+DO  - 10.1287/mnsc.2021.3958
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2120
+EP  - 2140
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We examine a production-based asset pricing model with regime-switching productivity growth, learning, and ambiguity. Both the mean and volatility of the growth rate of productivity are assumed to follow a Markov chain with an unobservable state. The agent?s preferences are characterized by the generalized recursive smooth ambiguity utility function. Our calibrated benchmark model with modest risk aversion can match moments of the variance risk premium in the data and reconcile empirical relations between the risk-neutral variance and macroeconomic quantities and their respective volatilities. We show that the interplay between productivity volatility risk and ambiguity aversion is important for pricing variance risk in returns.This paper was accepted by Tomasz Piskorski, finance.
+AB  - We examine a production-based asset pricing model with regime-switching productivity growth, learning, and ambiguity. Both the mean and volatility of the growth rate of productivity are assumed to follow a Markov chain with an unobservable state. The agent?s preferences are characterized by the generalized recursive smooth ambiguity utility function. Our calibrated benchmark model with modest risk aversion can match moments of the variance risk premium in the data and reconcile empirical relations between the risk-neutral variance and macroeconomic quantities and their respective volatilities. We show that the interplay between productivity volatility risk and ambiguity aversion is important for pricing variance risk in returns.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3958
+UR  - https://doi.org/10.1287/mnsc.2021.3958
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Management Practices and Mergers and Acquisitions
+AU  - Bai, John (Jianqiu)
+AU  - Jin, Wang
+AU  - Serfling, Matthew
+Y1  - 2021/03/18
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3946
+DO  - 10.1287/mnsc.2020.3946
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2141
+EP  - 2165
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Using a novel data set of establishment-level management practices from the U.S. Census Bureau, we show that firms with more specific, formal, frequent, or explicit (i.e., ?structured?) management practices tend to acquire establishments with less structured management practices and, following the acquisition, adopt more structured practices at the target establishments. These changes are larger when acquirers have a greater incentive and ability to make changes and are also associated with improvements in establishment performance. Overall, our findings suggest that the adoption of more structured management practices constitutes an important source of value creation in mergers and acquisitions.This paper was accepted by Tomasz Piskorski, finance.
+AB  - Using a novel data set of establishment-level management practices from the U.S. Census Bureau, we show that firms with more specific, formal, frequent, or explicit (i.e., ?structured?) management practices tend to acquire establishments with less structured management practices and, following the acquisition, adopt more structured practices at the target establishments. These changes are larger when acquirers have a greater incentive and ability to make changes and are also associated with improvements in establishment performance. Overall, our findings suggest that the adoption of more structured management practices constitutes an important source of value creation in mergers and acquisitions.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3946
+UR  - https://doi.org/10.1287/mnsc.2020.3946
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Informational Content of High-Frequency Option Prices
+AU  - Amaya, Diego
+AU  - Bégin, Jean-François
+AU  - Gauthier, Geneviève
+Y1  - 2021/04/26
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3949
+DO  - 10.1287/mnsc.2020.3949
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2166
+EP  - 2201
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We propose the option realized variance as an observable variable to summarize the information from high-frequency option data. This variable aggregates intraday option returns from midquote prices to compute an option?s total variability for a given day, providing additional information about the jump activity in the data generating process. Using the S&P 500 index time series and options data, this paper documents the performance of this realized measure in predicting the index realized variance as well as the equity and variance risk premiums. We estimate an option pricing model and analyze its parameter estimates. Our results show that excluding high-frequency option information produces significant differences in variance jump parameters, estimated risk premiums, and option pricing errors.This paper was accepted by Tyler Shumway, finance.
+AB  - We propose the option realized variance as an observable variable to summarize the information from high-frequency option data. This variable aggregates intraday option returns from midquote prices to compute an option?s total variability for a given day, providing additional information about the jump activity in the data generating process. Using the S&P 500 index time series and options data, this paper documents the performance of this realized measure in predicting the index realized variance as well as the equity and variance risk premiums. We estimate an option pricing model and analyze its parameter estimates. Our results show that excluding high-frequency option information produces significant differences in variance jump parameters, estimated risk premiums, and option pricing errors.This paper was accepted by Tyler Shumway, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3949
+UR  - https://doi.org/10.1287/mnsc.2020.3949
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Collateralized Networks
+AU  - Ghamami, Samim
+AU  - Glasserman, Paul
+AU  - Young, H. Peyton
+Y1  - 2021/03/17
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3938
+DO  - 10.1287/mnsc.2020.3938
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2202
+EP  - 2225
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - This paper studies the spread of losses and defaults in financial networks with two interrelated features: collateral requirements and alternative contract termination rules. When collateral is committed to a firm?s counterparties, a solvent firm may default if it lacks sufficient liquid assets to meet its payment obligations. Collateral requirements can, thus, increase defaults and payment shortfalls. Moreover, one firm may benefit from the failure of another if the failure frees collateral committed by the surviving firm, giving it additional resources to make other payments. Contract termination at default may also improve the ability of other firms to meet their obligations through access to collateral. As a consequence of these features, the timing of payments and collateral liquidation must be carefully specified to establish the existence of payments that clear the network. Using this framework, we show that dedicated collateral may lead to more defaults than pooled collateral, we study the consequences of illiquid collateral for the spread of losses through fire sales, we compare networks with and without selective contract termination, and we analyze the impact of alternative resolution and bankruptcy stay rules that limit the seizure of collateral at default. Under an upper bound on derivatives leverage, full termination reduces payment shortfalls compared with selective termination.This paper was accepted by Kay Giesecke, finance.
+AB  - This paper studies the spread of losses and defaults in financial networks with two interrelated features: collateral requirements and alternative contract termination rules. When collateral is committed to a firm?s counterparties, a solvent firm may default if it lacks sufficient liquid assets to meet its payment obligations. Collateral requirements can, thus, increase defaults and payment shortfalls. Moreover, one firm may benefit from the failure of another if the failure frees collateral committed by the surviving firm, giving it additional resources to make other payments. Contract termination at default may also improve the ability of other firms to meet their obligations through access to collateral. As a consequence of these features, the timing of payments and collateral liquidation must be carefully specified to establish the existence of payments that clear the network. Using this framework, we show that dedicated collateral may lead to more defaults than pooled collateral, we study the consequences of illiquid collateral for the spread of losses through fire sales, we compare networks with and without selective contract termination, and we analyze the impact of alternative resolution and bankruptcy stay rules that limit the seizure of collateral at default. Under an upper bound on derivatives leverage, full termination reduces payment shortfalls compared with selective termination.This paper was accepted by Kay Giesecke, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3938
+UR  - https://doi.org/10.1287/mnsc.2020.3938
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Finance and Firm Volatility: Evidence from Small Business Lending in China
+AU  - Chen, Tao
+AU  - Huang, Yi
+AU  - Lin, Chen
+AU  - Sheng, Zixia
+Y1  - 2021/03/02
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3942
+DO  - 10.1287/mnsc.2020.3942
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2226
+EP  - 2249
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - The online trading platform Alibaba provides financial technology (FinTech) credit for millions of micro, small, and medium-sized enterprises (MSMEs). Using a novel data set of daily sales and an internal credit score threshold that governs the allocation of credit, we apply a fuzzy regression discontinuity design (RDD) to explore the causal effect of credit access on firm volatility. We find that credit access significantly reduces firm sales volatility and that the effect is stronger for firms with fewer alternative sources of financing. We further look at firm exit probability and find that firms with access to FinTech credit are less likely to go bankrupt or exit the business in the future. Additional channel tests reveal that firms with FinTech credit invest more in advertising and product/sector diversification, particularly during business downturns, which serves as effective mechanisms through which credit access reduces firm volatility. Overall, our findings contribute to a better understanding of the role of FinTech credit in MSMEs.This paper was accepted by Haoxiang Zhu, finance.
+AB  - The online trading platform Alibaba provides financial technology (FinTech) credit for millions of micro, small, and medium-sized enterprises (MSMEs). Using a novel data set of daily sales and an internal credit score threshold that governs the allocation of credit, we apply a fuzzy regression discontinuity design (RDD) to explore the causal effect of credit access on firm volatility. We find that credit access significantly reduces firm sales volatility and that the effect is stronger for firms with fewer alternative sources of financing. We further look at firm exit probability and find that firms with access to FinTech credit are less likely to go bankrupt or exit the business in the future. Additional channel tests reveal that firms with FinTech credit invest more in advertising and product/sector diversification, particularly during business downturns, which serves as effective mechanisms through which credit access reduces firm volatility. Overall, our findings contribute to a better understanding of the role of FinTech credit in MSMEs.This paper was accepted by Haoxiang Zhu, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3942
+UR  - https://doi.org/10.1287/mnsc.2020.3942
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Bank Dependence and Bank Financing in Corporate M&A
+AU  - Huang, Sheng
+AU  - Lu, Ruichang
+AU  - Srinivasan, Anand
+Y1  - 2021/02/24
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3947
+DO  - 10.1287/mnsc.2020.3947
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2250
+EP  - 2283
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We examine the valuation impact of bank-financed mergers and acquisitions (M&As) and the loan contracts used to finance M&A transactions, focusing on the difference between bank-dependent acquirers and other acquirers. We find that bank-financed deals have higher acquirer?s cumulative abnormal returns relative to other cash M&A deals, but this certification effect exists only for bank-dependent acquirers. Despite bank-dependent acquirers being more susceptible to hold-up, banks do not impose higher loan pricing or more stringent nonprice terms on them. After completion of the acquisition, bank-dependent acquirers retain the M&A financing banks for a much larger share of their borrowing needs, suggesting the importance of repeat business for lack of hold-up. Our findings highlight the positive aspects of bank dependence and the importance of implicit contracting for the lack of hold-up in lending markets.This paper was accepted by David Simchi-Levi, finance.
+AB  - We examine the valuation impact of bank-financed mergers and acquisitions (M&As) and the loan contracts used to finance M&A transactions, focusing on the difference between bank-dependent acquirers and other acquirers. We find that bank-financed deals have higher acquirer?s cumulative abnormal returns relative to other cash M&A deals, but this certification effect exists only for bank-dependent acquirers. Despite bank-dependent acquirers being more susceptible to hold-up, banks do not impose higher loan pricing or more stringent nonprice terms on them. After completion of the acquisition, bank-dependent acquirers retain the M&A financing banks for a much larger share of their borrowing needs, suggesting the importance of repeat business for lack of hold-up. Our findings highlight the positive aspects of bank dependence and the importance of implicit contracting for the lack of hold-up in lending markets.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3947
+UR  - https://doi.org/10.1287/mnsc.2020.3947
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Hedge Fund Manager Skill and Style-Shifting
+AU  - Jiang, George J.
+AU  - Liang, Bing
+AU  - Zhang, Huacheng
+Y1  - 2021/09/21
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2020.3945
+DO  - 10.1287/mnsc.2020.3945
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2284
+EP  - 2307
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Using a novel style identification procedure, we show that style-shifting is a dynamic strategy commonly used by hedge fund managers. Three quarters of hedge funds shifted their investment styles at least once over the period from January 1994 to December 2013. We perform empirical tests of two hypotheses for the motivations of hedge fund style-shifting, namely backward-looking and forward-looking hypotheses. We find no evidence that style-shifting funds are backward-looking. Instead, we show evidence that managers of style-shifting funds exhibit both style-timing ability and the skill of generating abnormal returns in new styles. The new styles that hedge funds shift to on average outperform their old styles by 0.76% and style-shifting funds on average outperform their new style benchmark by 1.10% over the subsequent 12-month horizon. Finally, we show that small funds, winner funds, and funds with net inflows are more likely to shift styles.This paper was accepted by David Simchi-Levi, finance.
+AB  - Using a novel style identification procedure, we show that style-shifting is a dynamic strategy commonly used by hedge fund managers. Three quarters of hedge funds shifted their investment styles at least once over the period from January 1994 to December 2013. We perform empirical tests of two hypotheses for the motivations of hedge fund style-shifting, namely backward-looking and forward-looking hypotheses. We find no evidence that style-shifting funds are backward-looking. Instead, we show evidence that managers of style-shifting funds exhibit both style-timing ability and the skill of generating abnormal returns in new styles. The new styles that hedge funds shift to on average outperform their old styles by 0.76% and style-shifting funds on average outperform their new style benchmark by 1.10% over the subsequent 12-month horizon. Finally, we show that small funds, winner funds, and funds with net inflows are more likely to shift styles.This paper was accepted by David Simchi-Levi, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3945
+UR  - https://doi.org/10.1287/mnsc.2020.3945
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Speculation, Sentiment, and Interest Rates
+AU  - Buraschi, Andrea
+AU  - Whelan, Paul
+Y1  - 2021/04/20
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3956
+DO  - 10.1287/mnsc.2021.3956
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2308
+EP  - 2329
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - We compare the implications of speculation versus hedging channels for bond markets in heterogeneous agents? economies. Treasuries command a significant risk premium when optimistic agents speculate by leveraging their positions using bonds. Disagreement drives a wedge between marginal agent versus econometrician beliefs (sentiment). When speculative demands dominate, the interaction between belief heterogeneity and sentiment helps rationalize several puzzling characteristics of Treasury markets. Empirically, we test model predictions and find that larger disagreement (i) lowers the risk-free rate, (ii) raises the slope of the yield curve, and (iii) with positive sentiment increases bond risk premia and makes its dynamics countercyclical.This paper was accepted by Karl Diether, finance.
+AB  - We compare the implications of speculation versus hedging channels for bond markets in heterogeneous agents? economies. Treasuries command a significant risk premium when optimistic agents speculate by leveraging their positions using bonds. Disagreement drives a wedge between marginal agent versus econometrician beliefs (sentiment). When speculative demands dominate, the interaction between belief heterogeneity and sentiment helps rationalize several puzzling characteristics of Treasury markets. Empirically, we test model predictions and find that larger disagreement (i) lowers the risk-free rate, (ii) raises the slope of the yield curve, and (iii) with positive sentiment increases bond risk premia and makes its dynamics countercyclical.This paper was accepted by Karl Diether, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3956
+UR  - https://doi.org/10.1287/mnsc.2021.3956
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - What’s in a Name? Eponymous Private Firms and Financial Reporting Quality
+AU  - Minichilli, Alessandro
+AU  - Prencipe, Annalisa
+AU  - Radhakrishnan, Suresh
+AU  - Siciliano, Gianfranco
+Y1  - 2021/08/18
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3974
+DO  - 10.1287/mnsc.2021.3974
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2330
+EP  - 2348
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - This study examines the relation between financial reporting quality (FRQ) and eponymy, that is, naming a firm after the founder. We hypothesize that compared with noneponymous firms, eponymous firms have higher FRQ because of reputation concerns. Using a sample of 2,271 large Italian private firms, we document that eponymy is positively associated with accrual-based FRQ measures, a Benford?s law?based FRQ measure, and a tax-related misstatement?based FRQ measure. Consistent with the reputation concern rationale, we find that the positive association between eponymy and FRQ is attributable to eponymous firms that have rarer names or receive more press coverage. Furthermore, the positive association between FRQ and eponymy is similar whether the top executives/board members belong to the founding family?s first or later generations. We also find that eponymous firms are more conditionally conservative. Collectively, the results suggest that reputation concerns act as a disciplining mechanism for FRQ in private firms.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - This study examines the relation between financial reporting quality (FRQ) and eponymy, that is, naming a firm after the founder. We hypothesize that compared with noneponymous firms, eponymous firms have higher FRQ because of reputation concerns. Using a sample of 2,271 large Italian private firms, we document that eponymy is positively associated with accrual-based FRQ measures, a Benford?s law?based FRQ measure, and a tax-related misstatement?based FRQ measure. Consistent with the reputation concern rationale, we find that the positive association between eponymy and FRQ is attributable to eponymous firms that have rarer names or receive more press coverage. Furthermore, the positive association between FRQ and eponymy is similar whether the top executives/board members belong to the founding family?s first or later generations. We also find that eponymous firms are more conditionally conservative. Collectively, the results suggest that reputation concerns act as a disciplining mechanism for FRQ in private firms.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3974
+UR  - https://doi.org/10.1287/mnsc.2021.3974
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Conservative Accounting, Audit Quality, and Litigation
+AU  - Kronenberger, Sebastian
+AU  - Laux, Volker
+Y1  - 2021/03/18
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.3971
+DO  - 10.1287/mnsc.2021.3971
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2349
+EP  - 2362
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - Investors are much more likely to sue corporations and their auditors for overstated earnings reports than for understated reports. This asymmetry in litigation exposure is viewed as an important driver for conservative accounting practices in corporations because conservatism reduces the probability of overstatements and hence, investor litigation. This argument is incomplete, however, because it ignores that litigation concerns also affect the incentives of the auditor, which, in turn, affect the firm?s optimal reporting system. We find that the threat of litigation encourages firms to report more conservatively only when the auditor?s cost of detecting misstatements is relatively high but promotes less conservative reporting when the auditor?s cost of auditing is low.This paper was accepted by Brian Bushee, accounting
+AB  - Investors are much more likely to sue corporations and their auditors for overstated earnings reports than for understated reports. This asymmetry in litigation exposure is viewed as an important driver for conservative accounting practices in corporations because conservatism reduces the probability of overstatements and hence, investor litigation. This argument is incomplete, however, because it ignores that litigation concerns also affect the incentives of the auditor, which, in turn, affect the firm?s optimal reporting system. We find that the threat of litigation encourages firms to report more conservatively only when the auditor?s cost of detecting misstatements is relatively high but promotes less conservative reporting when the auditor?s cost of auditing is low.This paper was accepted by Brian Bushee, accounting
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.3971
+UR  - https://doi.org/10.1287/mnsc.2021.3971
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of the Paycheck Protection Program and Financial Reporting Standards on Bank Risk-Taking
+AU  - Ballew, Hailey B.
+AU  - Nicoletti, Allison
+AU  - Stuber, Sarah B.
+Y1  - 2021/12/21
+PY  - 2021
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2021.4223
+DO  - 10.1287/mnsc.2021.4223
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2363
+EP  - 2371
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - This paper examines the consequences of the paycheck protection program (PPP) for bank risk-taking and whether the shift to the current expected credit loss (CECL) model moderates this effect. We find that the extent of a bank?s PPP participation is associated with relatively greater changes in risk-taking outside of the PPP. We also show that this effect is concentrated in banks that have not early adopted the CECL model and banks with timelier pre-PPP loan loss provisions, suggesting that timelier loan loss recognition constrains risk-taking incentives. Overall, our findings provide insight into the indirect consequences of government stimulus programs administered through banks and the role of accounting in constraining bank risk-taking.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - This paper examines the consequences of the paycheck protection program (PPP) for bank risk-taking and whether the shift to the current expected credit loss (CECL) model moderates this effect. We find that the extent of a bank?s PPP participation is associated with relatively greater changes in risk-taking outside of the PPP. We also show that this effect is concentrated in banks that have not early adopted the CECL model and banks with timelier pre-PPP loan loss provisions, suggesting that timelier loan loss recognition constrains risk-taking incentives. Overall, our findings provide insight into the indirect consequences of government stimulus programs administered through banks and the role of accounting in constraining bank risk-taking.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.4223
+UR  - https://doi.org/10.1287/mnsc.2021.4223
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - 2021 Reviewers and Guest Editors
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2022.4345
+DO  - 10.1287/mnsc.2022.4345
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 2372
+EP  - 2376
+VL  - 68
+IS  - 3
+PB  - INFORMS
+N2  - The editors of Management Science acknowledge all our 2021 reviewers and guest associate editors who generously provided expert counsel and guidance on a voluntary basis. We are grateful for their contributions; without them, the journal could not function. Here, we list those reviewers who contributed four or more reviews in 2021.
+AB  - The editors of Management Science acknowledge all our 2021 reviewers and guest associate editors who generously provided expert counsel and guidance on a voluntary basis. We are grateful for their contributions; without them, the journal could not function. Here, we list those reviewers who contributed four or more reviews in 2021.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.4345
+UR  - https://doi.org/10.1287/mnsc.2022.4345
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2022/03/01
+PY  - 2022
+DA  - 2022/03/01
+N1  - doi: 10.1287/mnsc.2022.eb.v68n3
+DO  - 10.1287/mnsc.2022.eb.v68n3
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iv
+EP  - v
+VL  - 68
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.eb.v68n3
+UR  - https://doi.org/10.1287/mnsc.2022.eb.v68n3
+Y2  - 2024/03/29
+ER  - 

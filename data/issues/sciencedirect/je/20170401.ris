@@ -1,0 +1,242 @@
+TY  - JOUR
+T1  - Medium band least squares estimation of fractional cointegration in the presence of low-frequency contamination
+AU  - Christensen, Bent Jesper
+AU  - Varneskov, Rasmus Tangsgaard
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 218
+EP  - 244
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.07.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302160
+KW  - Deterministic trends
+KW  - Factor models
+KW  - Fractional cointegration
+KW  - Long memory
+KW  - Realized variance
+KW  - Semiparametric estimation
+KW  - Structural change
+AB  - This paper introduces a new estimator of the fractional cointegrating vector between stationary long memory processes that is robust to low-frequency contamination such as random level shifts, outliers, Markov switching means, and certain deterministic trends. In particular, the proposed medium band least squares (MBLS) estimator uses sample-size-dependent trimming of frequencies in the vicinity of the origin to account for such contamination. Consistency and asymptotic normality of the MBLS estimator are established, a feasible inference procedure is proposed, and rigorous tools for assessing the cointegration strength and testing MBLS against the existing narrow band least squares estimator are developed. Finally, the asymptotic framework for the MBLS estimator is used to provide new perspectives on volatility factors in an empirical application to long-span realized variance series for S&P 500 equities.
+ER  - 
+
+TY  - JOUR
+T1  - Inference from high-frequency data: A subsampling approach
+AU  - Christensen, K.
+AU  - Podolskij, M.
+AU  - Thamrongrat, N.
+AU  - Veliyev, B.
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 245
+EP  - 272
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.07.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302172
+KW  - Bipower variation
+KW  - High-frequency data
+KW  - Microstructure noise
+KW  - Positive semi-definite estimation
+KW  - Pre-averaging
+KW  - Stochastic volatility
+KW  - Subsampling
+AB  - In this paper, we show how to estimate the asymptotic (conditional) covariance matrix, which appears in central limit theorems in high-frequency estimation of asset return volatility. We provide a recipe for the estimation of this matrix by subsampling; an approach that computes rescaled copies of the original statistic based on local stretches of high-frequency data, and then it studies the sampling variation of these. We show that our estimator is consistent both in frictionless markets and models with additive microstructure noise. We derive a rate of convergence for it and are also able to determine an optimal rate for its tuning parameters (e.g., the number of subsamples). Subsampling does not require an extra set of estimators to do inference, which renders it trivial to implement. As a variance–covariance matrix estimator, it has the attractive feature that it is positive semi-definite by construction. Moreover, the subsampler is to some extent automatic, as it does not exploit explicit knowledge about the structure of the asymptotic covariance. It therefore tends to adapt to the problem at hand and be robust against misspecification of the noise process. As such, this paper facilitates assessment of the sampling errors inherent in high-frequency estimation of volatility. We highlight the finite sample properties of the subsampler in a Monte Carlo study, while some initial empirical work demonstrates its use to draw feasible inference about volatility in financial markets.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian mode regression using mixtures of triangular densities
+AU  - Ho, Chi-san
+AU  - Damien, Paul
+AU  - Walker, Stephen
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 273
+EP  - 283
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302184
+KW  - Bayesian inference
+KW  - Conditional modes
+KW  - Convex densities
+KW  - Mixture distributions
+AB  - Bayesian semiparametric models for mean and median regressions abound, but a void for mode regressions exists. We fill this gap by nonparametrically modeling the error distribution in such regressions that entails constructing prior distributions on densities which exhibit flexibility, while fixing the mode at 0. Such priors exist when constraining the mean and median but, to our knowledge, there is none for the mode. Our solution with mixtures of triangular distributions results in a conditionally conjugate prior on the space of unimodal, untruncated, convex densities. Consistency properties of the resulting modal estimators are studied, followed by simulated and real data illustrations.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for non-correlation between price and volatility jumps
+AU  - Jacod, Jean
+AU  - Klüppelberg, Claudia
+AU  - Müller, Gernot
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 284
+EP  - 297
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302196
+KW  - Common jumps
+KW  - Discrete sampling
+KW  - High-frequency data
+KW  - Itô semimartingale
+KW  - Statistical test
+KW  - Stochastic volatility model
+AB  - We consider a log-price process Xt, which is observed at discrete times 0,Δn, 2Δn,…, and the process has a stochastic squared volatility σt2. Assuming that the price process as well as the volatility process have common jumps, we suggest tests for non-correlation between log-price and squared volatility jumps, or functions of such jumps. Our tests have a prescribed asymptotic level, as the mesh Δn tends to 0 and the observation time Tn tends to ∞. The finite sample performance of our test is studied using simulations. We finally apply our tests to real data, and the test rejects the non-correlation hypothesis for the combination of squared log-price jumps and the moduli of the jumps of the squared volatility. This sheds new light on economically motivated statements on causality between price and volatility jumps and on econometric modeling.
+ER  - 
+
+TY  - JOUR
+T1  - QML estimation of spatial dynamic panel data models with endogenous time varying spatial weights matrices
+AU  - Qu, Xi
+AU  - Lee, Lung-fei
+AU  - Yu, Jihai
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 173
+EP  - 201
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302147
+KW  - Spatial autoregression
+KW  - Dynamic panels
+KW  - Fixed effects
+KW  - Endogenous spatial weights matrix
+KW  - QMLE
+AB  - In spatial panel data models, when a spatial weights matrix is constructed from economic or social distance, spatial weights could be endogenous and also time varying. This paper presents model specification and proposes QMLE estimation of spatial dynamic panel data models with endogenous time varying spatial weights matrices. Asymptotic properties of the proposed QMLE are rigorously established. We extend the notion of spatial near-epoch dependence to allow time dependence. By using spatial-time LLN for near-epoch dependence process and CLT for martingale difference sequence, we establish the consistency and asymptotic normality of QMLE. Monte Carlo experiments show that the proposed estimators have satisfactory finite sample performance.
+ER  - 
+
+TY  - JOUR
+T1  - Testing identifying assumptions in nonseparable panel data models
+AU  - Ghanem, Dalia
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 202
+EP  - 217
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302159
+KW  - Panel data
+KW  - Nonparametric identification
+KW  - Specification testing
+KW  - Discrete regressors
+KW  - Bootstrap adjustment
+KW  - Kolmogorov–Smirnov statistic
+KW  - Cramer–von-Mises statistic
+AB  - Recent work on nonparametric identification of average partial effects (APEs) from panel data require restrictions on individual or time heterogeneity. Identifying assumptions under the “generalized first-differencing” category, such as time homogeneity (Chernozhukov et al., 2013), have testable equality restrictions on the distribution of the outcome variable. This paper proposes specification tests based on these restrictions. The bootstrap critical values for the resulting Kolmogorov–Smirnov and Cramer–von-Mises statistics are shown to be asymptotically valid and deliver good finite-sample properties in Monte Carlo simulations. An empirical application illustrates the merits of testing nonparametric identification from an empiricist’s perspective.
+ER  - 
+
+TY  - JOUR
+T1  - Self-weighted LAD-based inference for heavy-tailed threshold autoregressive models
+AU  - Yang, Yaxing
+AU  - Ling, Shiqing
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 368
+EP  - 381
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300015
+KW  - Heavy-tailed time series
+KW  - TAR models
+KW  - Self-weighted LADE
+KW  - Wald test and sign-based portmanteau test
+AB  - The least squares estimator of the threshold autoregressive (TAR) model may not be consistent when its tail is less than or equal to 2. Neither theory nor methodology can be applied to model fitting in this case. This paper is to develop a systematic procedure of statistical inference for the heavy-tailed TAR model. We first investigate the self-weighted least absolute deviation estimation for the model. It is shown that the estimated slope parameters are n-consistent and asymptotically normal, and the estimated thresholds are n-consistent, each of which converges weakly to the smallest minimizer of a compound Poisson process. Based on this theory, the Wald test statistic is considered for testing the linear restriction of slope parameters and a procedure is given for inference of threshold parameters. We finally construct a sign-based portmanteau test for model checking. Simulations are carried out to assess the performance of our procedure and a real example is given.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - IFC
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30026-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761730026X
+ER  - 
+
+TY  - JOUR
+T1  - A fixed-bandwidth view of the pre-asymptotic inference for kernel smoothing with time series data
+AU  - Kim, Min Seong
+AU  - Sun, Yixiao
+AU  - Yang, Jingjing
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 298
+EP  - 322
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302305
+KW  - Heteroskedasticity and autocorrelation robust variance
+KW  - Calibration
+KW  - Fixed-smoothing asymptotics
+KW  - Fixed-bandwidth asymptotics
+KW  - Kernel density estimator
+KW  - Local polynomial estimator
+KW  - -approximation
+KW  - Testing-optimal smoothing-parameter choice
+KW  - Temporal dependence
+AB  - This paper develops robust testing procedures for nonparametric kernel methods in the presence of temporal dependence of unknown forms. Based on the fixed-bandwidth asymptotic variance and the pre-asymptotic variance, we propose a heteroskedasticity and autocorrelation robust (HAR) variance estimator that achieves double robustness — it is asymptotically valid regardless of whether the temporal dependence is present or not, and whether the kernel smoothing bandwidth is held constant or allowed to decay with the sample size. Using the HAR variance estimator, we construct the studentized test statistic and examine its asymptotic properties under both the fixed-smoothing and increasing-smoothing asymptotics. The fixed-smoothing approximation and the associated convenient t-approximation achieve extra robustness — it is asymptotically valid regardless of whether the truncation lag parameter governing the covariance weighting grows at the same rate as or at a slower rate than the sample size. Finally, we suggest a simulation-based calibration approach to choose smoothing parameters that optimize testing oriented criteria. Simulation shows that the proposed procedures work very well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial dynamic panel data models with interactive fixed effects
+AU  - Shi, Wei
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 323
+EP  - 347
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302317
+KW  - Spatial panel
+KW  - Dynamics
+KW  - Multiplicative individual and time effects
+AB  - This paper studies the estimation of a dynamic spatial panel data model with interactive individual and time effects with large n and T. The model has a rich spatial structure including contemporaneous spatial interaction and spatial heterogeneity. Dynamic features include individual time lag and spatial diffusion. The interactive effects capture heterogeneous impacts of time effects on cross sectional units. The interactive effects are treated as parameters, so as to allow correlations between the interactive effects and the regressors. We consider a quasi-maximum likelihood estimation and show estimator consistency and characterize its asymptotic distribution. The Monte Carlo experiment shows that the estimator performs well and the proposed bias correction is effective. We illustrate the empirical relevance of the model by applying it to examine the effects of house price dynamics on reverse mortgage origination rates in the US.
+ER  - 
+
+TY  - JOUR
+T1  - Fitting a two phase threshold multiplicative error model
+AU  - Perera, Indeewara
+AU  - Koul, Hira L.
+JO  - Journal of Econometrics
+VL  - 197
+IS  - 2
+SP  - 348
+EP  - 367
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2016.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407616302329
+KW  - Lack-of-fit test
+KW  - Martingale transform
+KW  - Kolmogorov–Smirnov
+AB  - The recent literature on financial time series analysis has devoted considerable attention to nonnegative time series, such as financial durations, realized volatility, and squared returns. The class of models, referred to as the multiplicative error models [MEM], is particularly suited to model such nonnegative time series. We develop a lack-of-fit test for fitting a two-phase threshold model for the conditional mean function in an MEM. The proposed testing procedure can also be applied to a class of autoregressive conditional heteroscedastic threshold models. We evaluate the test in a simulation study. The testing procedure is illustrated by using two data examples.
+ER  - 

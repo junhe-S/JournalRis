@@ -1,0 +1,270 @@
+TY  - JOUR
+T1  - Sieve maximum likelihood estimation of the spatial autoregressive Tobit model
+AU  - Xu, Xingbai
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 96
+EP  - 112
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302385
+KW  - Spatial autoregressive model
+KW  - Tobit model
+KW  - Sieve maximum likelihood estimation
+KW  - Near-epoch dependence
+KW  - Social network
+AB  - This paper extends the ML estimation of a spatial autoregressive Tobit model under normal disturbances in Xu and Lee (2015b, Journal of Econometrics) to distribution-free estimation. We examine the sieve MLE of the model, where the disturbances are i.i.d.with an unknown distribution. We show that the spatial autoregressive process with Tobit censoring and related variables are spatial near-epoch dependent (NED). A related contribution is that we develop some exponential inequalities for spatial NED random fields. With these inequalities, we establish the consistency of the estimator. Asymptotic distributions of structural parameters of the model are derived from a functional central limit theorem and projection. Simulations show that the sieve MLE can improve the finite sample performance upon misspecified normal MLEs. As an empirical application, we examine the school district income surtax rates in Iowa. Our results show that the spatial spillover effects are significant, but they may be overestimated if disturbances are restricted to be normally distributed.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - ii
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(18)30013-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407618300137
+ER  - 
+
+TY  - JOUR
+T1  - Autoregressive spatial spectral estimates
+AU  - Gupta, Abhimanyu
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 80
+EP  - 95
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302361
+KW  - Spectral density estimation
+KW  - HAC estimation
+KW  - Random field
+KW  - Covariance matrix
+KW  - Spatial process
+KW  - Lattice data
+KW  - Central limit theorem
+AB  - Nonparametric spectral density estimates find many uses in econometrics. For stationary random fields on a regular spatial lattice, we propose an autoregressive nonparametric spectral density estimate that is guaranteed positive even when suitable edge-effect correction is employed and is simple to compute using least squares. Our estimate is based on truncating a true half-plane infinite autoregressive representation, while also allowing the truncation length to diverge in all dimensions to avoid the potential bias due to truncation at a fixed lag-length. Uniform consistency of the proposed estimate is established, and new criteria for order selection are also suggested and studied in practical settings. The asymptotic distribution of the estimate is shown to be zero-mean normal and independent at fixed distinct frequencies, mirroring the behaviour for time series. A small Monte Carlo experiment examines finite sample performance. Technically the key to the results is the covariance structure of stationary random fields defined on regularly spaced lattices. We show the covariance matrix to satisfy a generalization of the Toeplitz property familiar from time series analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotically honest confidence regions for high dimensional parameters by the desparsified conservative Lasso
+AU  - Caner, Mehmet
+AU  - Kock, Anders Bredahl
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 143
+EP  - 168
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302282
+KW  - Conservative Lasso
+KW  - Honest inference
+KW  - High-dimensional data
+KW  - Uniform inference
+KW  - Confidence intervals
+KW  - Tests
+AB  - In this paper we consider the conservative Lasso which we argue penalizes more correctly than the Lasso and show how it may be desparsified in the sense of van de Geer et al. (2014) in order to construct asymptotically honest (uniform) confidence bands. In particular, we develop an oracle inequality for the conservative Lasso only assuming the existence of a certain number of moments. This is done by means of the Marcinkiewicz–Zygmund inequality. We allow for heteroskedastic non-subgaussian error terms and covariates. Next, we desparsify the conservative Lasso estimator and derive the asymptotic distribution of tests involving an increasing number of parameters. Our simulations reveal that the desparsified conservative Lasso estimates the parameters more precisely than the desparsified Lasso, has better size properties and produces confidence bands with superior coverage rates.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive thresholding for large volatility matrix estimation based on high-frequency financial data
+AU  - Kim, Donggyu
+AU  - Kong, Xin-Bing
+AU  - Li, Cui-Xia
+AU  - Wang, Yazhen
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 69
+EP  - 79
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302270
+KW  - Pre-averaging realized volatility
+KW  - Regularization
+KW  - Sparsity
+KW  - Adaptive thresholding
+KW  - Diffusion
+KW  - Integrated volatility
+AB  - Universal thresholding methods have been developed to estimate the large sparse integrated volatility matrix of underlying assets based on high-frequency financial data. Since the integrated volatility matrix often has entries with a wide range of variability, universal thresholding estimators do not take the varying entries into consideration and may have unsatisfactory performances. This paper investigates adaptive thresholding estimation of the large integrated volatility matrix. We first construct an estimator for the asymptotic variance of the pre-averaging realized volatility estimator and then use the two estimators to develop an adaptive thresholding estimator of the large volatility matrix. It is shown that the adaptive thresholding estimator can achieve the optimal rate of convergence over the class of the sparse integrated volatility matrix when both the number of assets and sample size are allowed to go to infinity, while the universal thresholding estimator can achieve only the sub-optimal convergence rate. Also we discuss how to harness the adaptive thresholding scheme in the approximate factor model. The simulation study is conducted to check the finite sample performance of the adaptive thresholding estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Threshold regression with endogeneity
+AU  - Yu, Ping
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 50
+EP  - 68
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302348
+KW  - Threshold regression
+KW  - Endogeneity
+KW  - Local shifter
+KW  - Identification
+KW  - Efficiency
+KW  - Integrated difference kernel estimator
+KW  - Regression discontinuity design
+KW  - Optimal rate of convergence
+KW  - Partial linear model
+KW  - U-statistic
+KW  - Threshold treatment model
+KW  - 401(k) plan
+AB  - This paper studies estimation in threshold regression with endogeneity in the regressors and thresholding variable. Three key results differ from those in regular models. First, both the threshold point and the threshold effect parameters are shown to be identified without the need for instrumentation. Second, in partially linear threshold models, both parametric and nonparametric components rely on the same data, which prima facie suggests identification failure. But, as shown here, the discontinuity structure of the threshold itself supplies identifying information for the parametric coefficients without the need for extra randomness in the regressors. Third, instrumentation plays different roles in the estimation of the system parameters, delivering identification for the structural coefficients in the usual way, but raising convergence rates for the threshold effect parameters and improving efficiency for the threshold point. Simulation studies corroborate the theory and the asymptotics. An empirical application is conducted to explore the effects of 401(k) retirement programs on savings, illustrating the relevance of threshold models in treatment effects evaluation in the presence of endogeneity.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric specification testing via the trinity of tests
+AU  - Gupta, Abhimanyu
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 169
+EP  - 185
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302403
+KW  - Increasingly many parameters
+KW  - Central limit theorem
+KW  - Lagrange Multiplier test
+KW  - Wald test
+KW  - Likelihood Ratio test
+KW  - Nonparametric specification testing
+KW  - Series estimation
+KW  - Adaptive estimation
+KW  - Spatial autoregression
+AB  - Tests are developed for inference on a parameter vector whose dimension grows slowly with sample size. The statistics are based on the Lagrange Multiplier, Wald and (pseudo) Likelihood Ratio principles, admit standard normal asymptotic distributions under the null and are straightforward to compute. They are shown to be consistent and possessing non-trivial power against local alternatives. The settings considered include multiple linear regression, panel data models with fixed effects and spatial autoregressions. When a nonparametric regression function is estimated by series we use our statistics to propose specification tests, and in semiparametric adaptive estimation we provide a test for correct error distribution specification. These tests are nonparametric but handled in practice with parametric techniques. A Monte Carlo study suggests that our tests perform well in finite samples. Two empirical examples use them to test for correct shape of an electricity distribution cost function and linearity and equality of Engel curves.
+ER  - 
+
+TY  - JOUR
+T1  - A Bayesian approach to estimation of dynamic models with small and large number of heterogeneous players and latent serially correlated states
+AU  - Gallant, A. Ronald
+AU  - Hong, Han
+AU  - Khwaja, Ahmed
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 19
+EP  - 32
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302336
+KW  - Dynamic games
+KW  - Partially observed state
+KW  - Heterogeneous agents
+KW  - Endogenous state
+KW  - Serially correlated state
+KW  - Particle filter
+AB  - We propose a Bayesian approach to estimating dynamic models that can have state variables that are latent, serially correlated, and heterogeneous. Our approach employs sequential importance sampling and is based on deriving an unbiased estimate of the likelihood within a Metropolis chain. Under fairly weak regularity conditions unbiasedness guarantees that the stationary density of the chain is the exact posterior, not an approximation. Results are verified by Monte Carlo simulation using two examples. The first is a dynamic game of entry involving a small number of firms whose heterogeneity is based on their current costs due to feedback through capacity constraints arising from past entry. The second is an Ericson and Pakes (1995) style game with a large number of firms whose heterogeneity is based on the quality of their products with firms competing through investment in product quality that affects their market share and profitability. Our approach facilitates estimation of dynamic games with either small or large number of players whose heterogeneity is determined by latent state variables, discrete or continuous, that are subject to endogenous feedback from past actions.
+ER  - 
+
+TY  - JOUR
+T1  - Extremal quantile regressions for selection models and the black–white wage gap
+AU  - D’Haultfœuille, Xavier
+AU  - Maurel, Arnaud
+AU  - Zhang, Yichong
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 129
+EP  - 142
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302269
+KW  - Sample selection models
+KW  - Extremal quantile regressions
+KW  - Black–white wage gap
+AB  - We consider the estimation of a semiparametric sample selection model without instrument or large support regressor. Identification relies on the independence between the covariates and selection, for arbitrarily large values of the outcome. We propose a simple estimator based on extremal quantile regression and establish its asymptotic normality by extending previous results on extremal quantile regressions to allow for selection. Finally, we apply our method to estimate the black–white wage gap among males from the NLSY79 and NLSY97. We find that premarket factors such as AFQT and family background play a key role in explaining the black–white wage gap.
+ER  - 
+
+TY  - JOUR
+T1  - A multivariate test against spurious long memory
+AU  - Sibbertsen, Philipp
+AU  - Leschinski, Christian
+AU  - Busch, Marie
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 33
+EP  - 49
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302324
+KW  - Multivariate long memory
+KW  - Semiparametric estimation
+KW  - Spurious long memory
+KW  - Fractional cointegration
+KW  - Volatility
+AB  - This paper provides a multivariate score-type test against spurious long memory. We prove the consistency of the test against the alternatives of random level shifts and smooth trends. The test statistic is based on the weighted sum of the partial derivatives of the multivariate local Whittle likelihood function. To apply the test to fractionally cointegrated series, the test statistic is calculated for the linearly transformed system after estimating the cointegrating matrix. We derive the limiting distribution and show consistency of this procedure. The test is applied to log-absolute returns and log-realized volatilities of the S&P 500, DAX, FTSE, and NIKKEI.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of nonseparable single-index models in panel data with correlated random effects
+AU  - Čížek, Pavel
+AU  - Lei, Jinghua
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 113
+EP  - 128
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302257
+KW  - Average derivative estimation
+KW  - Correlated random effects
+KW  - Local polynomial smoothing
+KW  - Nonlinear panel data
+KW  - Nonseparable models
+AB  - The identification in a nonseparable single-index models with correlated random effects is considered in panel data with a fixed number of time periods. The identification assumption is based on the correlated random effects structure. Under this assumption, the parameters of interest are identified up to a multiplicative constant and could be estimated by an average difference of derivatives estimator based on the local polynomial smoothing. We suggest to linearly combine the estimators obtained for different orders of differences and derive the variance-minimizing weighting scheme. The asymptotic distribution of the proposed estimators is derived both for stationary and non-stationary explanatory variables along with a test of the stationarity. Finally, Monte Carlo experiments reveal finite sample properties of the proposed estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial weights matrix selection and model averaging for spatial autoregressive models
+AU  - Zhang, Xinyu
+AU  - Yu, Jihai
+JO  - Journal of Econometrics
+VL  - 203
+IS  - 1
+SP  - 1
+EP  - 18
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617302245
+KW  - Model averaging
+KW  - Model selection
+KW  - Spatial autoregressive
+KW  - Spatial econometrics
+AB  - Spatial econometrics relies on the spatial weights matrix to specify the cross-sectional dependence; however, the candidate spatial weights matrices might not be unique. This paper proposes a model selection procedure to choose a weights matrix from several candidates by using a Mallows type criterion. We prove that when the true weights matrix is not in the candidates, the procedure is asymptotically optimal in the sense of minimizing the squared loss; otherwise, the procedure can select the true weights matrix consistently. We then propose a model averaging procedure to reduce the squared loss. We also provide procedures for the spatial model with heteroscedasticity and endogenous regressors and the model with both spatial lag and spatial error. Monte Carlo experiments show that proposed procedures have satisfactory finite sample performances. We apply the model selection and model averaging procedures to study the market integration in China using historical rice prices.
+ER  - 

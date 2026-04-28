@@ -1,0 +1,393 @@
+TY  - JOUR
+T1  - A method of moments approach to asymptotically unbiased Synthetic Controls
+AU  - Fry, Joseph
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105846
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105846
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400191X
+KW  - Synthetic control
+KW  - General method of moments
+KW  - Policy evaluation
+KW  - Factor model
+KW  - Instrumental variables
+AB  - A common approach to constructing a Synthetic Control unit is to fit on the outcome variable and covariates in pre-treatment time periods, but it has been shown by Ferman and Pinto (2021) that this approach does not provide asymptotic unbiasedness when the fit is imperfect and the number of controls is fixed. Many related panel methods have a similar limitation when the number of units is fixed. I introduce and evaluate a new method in which the Synthetic Control is constructed using a General Method of Moments approach where units not being included in the Synthetic Control are used as instruments. I show that a Synthetic Control Estimator of this form will be asymptotically unbiased as the number of pre-treatment time periods goes to infinity, even when pre-treatment fit is imperfect and the number of units is fixed. Furthermore, if both the number of pre-treatment and post-treatment time periods go to infinity, then averages of treatment effects can be consistently estimated. I provide a model selection procedure for deciding whether a unit should be used as an instrument or as a control. I also conduct simulations and an empirical application to compare the performance of this method with existing approaches in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for sparse idiosyncratic components in factor-augmented regression models
+AU  - Beyhum, Jad
+AU  - Striaukas, Jonas
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105845
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105845
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001908
+KW  - Sparse plus dense
+KW  - High-dimensional inference
+KW  - LASSO
+KW  - Factor models
+AB  - We propose a novel bootstrap test of a dense model, namely factor regression, against a sparse plus dense alternative model augmented with sparse idiosyncratic components. The asymptotic properties of the test are established under time series dependence and polynomial tails. We outline a data-driven rule to select the tuning parameter and prove its theoretical validity. In simulation experiments, our procedure exhibits high power against sparse alternatives and low power against dense deviations from the null. Moreover, we apply our test to various datasets in macroeconomics and finance and often reject the null. This suggests the presence of sparsity — on top of a dense component — in commonly studied economic applications. The R package ‘FAS’ implements our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Empirical risk minimization for time series: Nonparametric performance bounds for prediction
+AU  - Brownlees, Christian
+AU  - Llorens-Terrazas, Jordi
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105849
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105849
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001945
+KW  - Empirical risk minimization
+KW  - Oracle inequality
+KW  - Time series
+KW  - Forecasting
+KW  - Markov chains
+AB  - Empirical risk minimization is a standard principle for choosing algorithms in learning theory. In this paper we study the properties of empirical risk minimization for time series. The analysis is carried out in a general framework that covers different types of forecasting applications encountered in the literature. We are concerned with 1-step-ahead prediction of a univariate time series belonging to a class of location-scale parameter-driven processes. A class of recursive algorithms is available to forecast the time series. The algorithms are recursive in the sense that the forecast produced in a given period is a function of the lagged values of the forecast and of the time series. The relationship between the generating mechanism of the time series and the class of algorithms is not specified. Our main result establishes that the algorithm chosen by empirical risk minimization achieves asymptotically the optimal predictive performance that is attainable within the class of algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Tuning-parameter-free propensity score matching approach for causal inference under shape restriction
+AU  - Liu, Yukun
+AU  - Qin, Jing
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105829
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105829
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400174X
+KW  - Average treatment effect on the treated
+KW  - Pool adjacent violated algorithm
+KW  - Propensity score matching estimators
+KW  - Shape-restricted inference
+KW  - Semiparametric efficiency
+AB  - Propensity score matching (PSM) is a pseudo-experimental method that uses statistical techniques to construct an artificial control group by matching each treated unit with one or more untreated units of similar characteristics. To date, the problem of determining the optimal number of matches per unit, which plays an important role in PSM, has not been adequately addressed. We propose a tuning-parameter-free PSM approach to causal inference based on the nonparametric maximum-likelihood estimation of the propensity score under the monotonicity constraint. The estimated propensity score is piecewise constant, and therefore automatically groups data. Hence, our proposal is free of tuning parameters. The proposed causal effect estimator is asymptotically semiparametric efficient when the covariate is univariate or the outcome and the propensity score depend on the covariate through the same index X⊤β. We conclude that matching methods based on the propensity score alone cannot, in general, be efficient.
+ER  - 
+
+TY  - JOUR
+T1  - Large Bayesian SVARs with linear restrictions
+AU  - Hou, Chenghan
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105850
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105850
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001957
+KW  - Large vector autoregression
+KW  - Equality and inequality restrictions
+KW  - Over-identifying restrictions
+KW  - Proxy-SVAR
+AB  - This paper develops a Markov Chain Monte Carlo (MCMC) algorithm for Bayesian inference in large structural vector autoregressions (SVARs) with linear restrictions. Our proposed method is based on a novel parameter transformation scheme, which aims to facilitate sampling from the posterior distribution of model parameters when linear equality and inequality restrictions are imposed on contemporaneous impulse responses. A prominent feature of the proposed methodology is its applicability for inference in SVARs with over-identifying restrictions. In our empirical application, we demonstrate the usefulness of our method by employing a large Proxy-SVAR with multiple proxy variables to simultaneously identify multiple macroeconomic shocks and investigate their contributions to the 2007–09 Recession.
+ER  - 
+
+TY  - JOUR
+T1  - A gentle introduction to matrix calculus
+AU  - Magnus, Jan R.
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105862
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105862
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002070
+KW  - Differential calculus
+KW  - Multivariate
+KW  - Optimization
+KW  - Vec operator
+KW  - Commutation matrix
+AB  - Matrix calculus is an important tool when we wish to optimize functions involving matrices or perform sensitivity analyses. This tutorial is designed to make matrix calculus more accessible to graduate students and young researchers. It contains the theory that would suffice in most applications, many fully worked-out exercises and examples, and presents some of the ‘tacit knowledge’ that is prevalent in this field.
+ER  - 
+
+TY  - JOUR
+T1  - Latent utility and permutation invariance: A revealed preference approach
+AU  - Allen, Roy
+AU  - Rehbeck, John
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105844
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105844
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001891
+KW  - Identification
+KW  - Latent utility
+KW  - Exchangeable
+KW  - Discrete choice
+KW  - Panel
+AB  - This paper provides partial identification results for latent utility models that satisfy an invariance property on unobservables such as exchangeability. We employ a simple revealed preference argument to “difference out” unobservables, obtaining identifying inequalities for utility indices. We show the differencing argument is also useful for counterfactual analysis. The framework generalizes existing work in discrete choice by allowing latent feasibility sets and by allowing individuals to purchase multiple (possibly continuous) goods. We present a new framework leveraging nesting structures that generalizes nested logit. In a panel setting, we innovate by allowing preferences for variety.
+ER  - 
+
+TY  - JOUR
+T1  - On uniform confidence intervals for the tail index and the extreme quantile
+AU  - Sasaki, Yuya
+AU  - Wang, Yulong
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105865
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105865
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002100
+KW  - Honest confidence interval
+KW  - Extreme quantile
+KW  - Impossibility
+KW  - Tail index
+KW  - Uniform inference
+AB  - This paper presents two results concerning uniform confidence intervals for the tail index and the extreme quantile. First, we show that there exists a lower bound of the length for confidence intervals that satisfy the correct uniform coverage over a nonparametric family of tail distributions. Second, in light of the impossibility result, we construct honest confidence intervals that are uniformly valid by incorporating the worst-case bias in the nonparametric family. The proposed method is applied to simulated data and real data of financial time series.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of unconditional policy effects of an endogenous binary treatment: An unconditional MTE approach
+AU  - Martinez-Iriarte, Julian
+AU  - Sun, Yixiao
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105858
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105858
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002033
+KW  - Marginal treatment effect
+KW  - Marginal policy-relevant treatment effect
+KW  - Selection model
+KW  - Instrumental variable
+KW  - Unconditional policy effect
+KW  - Unconditional quantile regression
+AB  - This paper studies the identification and estimation of policy effects when treatment status is binary and endogenous. We introduce a new class of marginal treatment effects (MTEs) based on the influence function of the functional underlying the policy target. We show that an unconditional policy effect can be represented as a weighted average of the newly defined MTEs over the individuals who are indifferent about their treatment status. We provide conditions for point identification of the unconditional policy effects. When a quantile is the functional of interest, we introduce the UNconditional Instrumental Quantile Estimator (UNIQUE) and establish its consistency and asymptotic distribution. In the empirical application, we estimate the effect of changing college enrollment status, induced by higher tuition subsidy, on the quantiles of the wage distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105880
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00225-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002252
+ER  - 
+
+TY  - JOUR
+T1  - Estimating option pricing models using a characteristic function-based linear state space representation
+AU  - Boswijk, H. Peter
+AU  - Laeven, Roger J.A.
+AU  - Vladimirov, Evgenii
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105864
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105864
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624002094
+KW  - Options
+KW  - Characteristic function
+KW  - Affine jump-diffusion
+KW  - State space representation
+AB  - We develop a novel filtering and estimation procedure for parametric option pricing models driven by general affine jump-diffusions. Our procedure is based on the comparison between an option-implied, model-free representation of the conditional log-characteristic function and the model-implied conditional log-characteristic function, which is functionally affine in the model’s state vector. We formally derive an associated linear state space representation and the asymptotic properties of the corresponding measurement errors. The state space representation allows us to use a suitably modified Kalman filtering technique to learn about the latent state vector and a quasi-maximum likelihood estimator of the model parameters, for which we establish asymptotic inference results. Accordingly, the filtering and estimation procedure brings important computational advantages. We analyze the finite-sample behavior of our procedure in Monte Carlo simulations. The applicability of our procedure is illustrated in two case studies that analyze S&P 500 option prices and the impact of exogenous state variables capturing Covid-19 reproduction and economic policy uncertainty.
+ER  - 
+
+TY  - JOUR
+T1  - Threshold spatial autoregressive model
+AU  - Li, Kunpeng
+AU  - Lin, Wei
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105841
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105841
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001866
+KW  - Spatial autoregressive models
+KW  - Spillover effects
+KW  - Threshold effect
+KW  - Maximum likelihood estimation
+KW  - Inferential theory
+AB  - In this paper, we consider the estimation and inferential issues of the threshold spatial autoregressive (TSAR) model, which is a hybrid of the threshold and spatial autoregressive models. We use the quasi maximum likelihood (QML) method to estimate the model. In addition, we prove the tightness and the Hájek–Rényi type inequality for a quadratic form and establish a full inferential theory of the QML estimator under the setup that threshold effect shrinks to zero as the sample size increases. We conduct hypothesis testing on the presence of the threshold effect, using three super-type statistics. Their asymptotic behaviors are studied under the Pitman local alternatives. A bootstrap procedure is applied to obtain the asymptotically correct critical value. We also consider hypothesis testing on the threshold value set equal to a prespecified one. We run Monte Carlo simulations to investigate the finite sample performance of the QML estimators and find that the estimators perform well. In an empirical application, we apply the proposed TSAR model to study the relationship between financial development and economic growth, and we find firm evidence to support the TSAR model.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring diagnostic test performance using imperfect reference tests: A partial identification approach
+AU  - Obradović, Filip
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105842
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105842
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001878
+KW  - Sensitivity
+KW  - Specificity
+KW  - Partial identification
+KW  - Moment inequalities
+KW  - Gold standard bias
+AB  - Diagnostic tests are almost never perfect. Studies quantifying their performance use knowledge of the true health status, measured with a reference diagnostic test. Researchers commonly assume that the reference test is perfect, which is often not the case in practice. When the assumption fails, conventional studies identify “apparent” performance or performance with respect to the reference, but not true performance. This paper provides the smallest possible bounds on the measures of true performance — sensitivity (true positive rate) and specificity (true negative rate), or equivalently false positive and negative rates, in standard settings. Implied bounds on policy-relevant parameters are derived: (1) Prevalence in screened populations; (2) Predictive values. Methods for inference based on moment inequalities are used to construct uniformly consistent confidence sets in level over a relevant family of data distributions. Emergency Use Authorization (EUA) and independent study data for the BinaxNOW COVID-19 antigen test demonstrate that the bounds can be very informative. Analysis reveals that the estimated false negative rates for symptomatic and asymptomatic patients are up to 3.17 and 4.59 times higher than the frequently cited “apparent” false negative rate. Further applicability of the results in the context of imperfect proxies such as survey responses and imputed protected classes is indicated.
+ER  - 
+
+TY  - JOUR
+T1  - Heterogeneous treatment effect bounds under sample selection with an application to the effects of social media on political polarization
+AU  - Heiler, Phillip
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105856
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105856
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400201X
+KW  - Affective polarization
+KW  - Debiased/double machine learning
+KW  - Effect bounds
+KW  - Facebook
+KW  - Partial identification
+AB  - We propose a method for estimation and inference for bounds for heterogeneous causal effect parameters in general sample selection models where the treatment can affect whether an outcome is observed and no exclusion restrictions are available. The method provides conditional effect bounds as functions of policy relevant pre-treatment variables. It allows for conducting valid statistical inference on the unidentified conditional effects. We use a flexible debiased/double machine learning approach that can accommodate non-linear functional forms and high-dimensional confounders. Easily verifiable high-level conditions for estimation, misspecification robust confidence intervals, and uniform confidence bands are provided as well. We re-analyze data from a large scale field experiment on Facebook on counter-attitudinal news subscription with attrition. Our method yields substantially tighter effect bounds compared to conventional methods and suggests depolarization effects for younger users.
+ER  - 
+
+TY  - JOUR
+T1  - An unbounded intensity model for point processes
+AU  - Christensen, Kim
+AU  - Kolokolov, Aleksey
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105840
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105840
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001854
+KW  - Cox process
+KW  - Heavy traffic
+KW  - High-frequency data
+KW  - Intensity burst
+KW  - Order imbalance
+KW  - Point process
+KW  - Slope of the order book
+KW  - Trading activity
+AB  - We develop a model for point processes on the real line, where the intensity can be locally unbounded without inducing an explosion. In contrast to an orderly point process, for which the probability of observing more than one event over a short time interval is negligible, the bursting intensity causes an extreme clustering of events around the singularity. We propose a nonparametric approach to detect such bursts in the intensity. It relies on a heavy traffic condition, which admits inference for point processes over a finite time interval. With Monte Carlo evidence, we show that our testing procedure exhibits size control under the null, whereas it has high rejection rates under the alternative. We implement our approach on high-frequency data for the EUR/USD spot exchange rate, where the test statistic captures abnormal surges in trading activity. We detect a nontrivial amount of intensity bursts in these data and describe their basic properties. Trading activity during an intensity burst is positively related to volatility, illiquidity, and the probability of observing a drift burst. The latter effect is reinforced if the order flow is imbalanced or the price elasticity of the limit order book is large.
+ER  - 
+
+TY  - JOUR
+T1  - Fixed-b asymptotics for panel models with two-way clustering
+AU  - Chen, Kaicheng
+AU  - Vogelsang, Timothy J.
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105831
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105831
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001763
+KW  - Panel data
+KW  - Clustering
+KW  - Dependence
+KW  - Standard errors
+KW  - Fixed-
+AB  - This paper studies a cluster robust variance estimator proposed by Chiang, Hansen and Sasaki (2024) for linear panels. First, we show algebraically that this variance estimator (CHS estimator, hereafter) is a linear combination of three common variance estimators: the one-way unit cluster estimator, the “HAC of averages” estimator, and the “average of HACs” estimator. Based on this finding, we obtain a fixed-b asymptotic result for the CHS estimator and corresponding test statistics as the cross-section and time sample sizes jointly go to infinity. Furthermore, we propose two simple bias-corrected versions of the variance estimator and derive the fixed-b limits. In a simulation study, we find that the two bias-corrected variance estimators along with fixed-b critical values provide improvements in finite sample coverage probabilities. We illustrate the impact of bias-correction and use of the fixed-b critical values on inference in an empirical example on the relationship between industry profitability and market concentration.
+ER  - 
+
+TY  - JOUR
+T1  - Identification in discrete choice models with imperfect information
+AU  - Gualdani, Cristina
+AU  - Sinha, Shruti
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105854
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105854
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001994
+KW  - Discrete choice model
+KW  - Bayesian persuasion
+KW  - Bayes Correlated Equilibrium
+KW  - Incomplete information
+KW  - Partial identification
+KW  - Moment inequalities
+KW  - Spatial model of voting
+AB  - We study identification of preferences in static single-agent discrete choice models where decision makers may be imperfectly informed about the state of the world. Leveraging the notion of one-player Bayes Correlated Equilibrium by Bergemann and Morris (2016), we provide a tractable characterisation of the sharp identified set. We develop a procedure to practically construct the sharp identified set following a sieve approach, and provide sharp bounds on counterfactual outcomes of interest. Using our methodology and data on the 2017 UK general election, we estimate a spatial voting model under weak assumptions on agents’ information about the returns to voting. Counterfactual exercises quantify the consequences of imperfect information on the well-being of voters and parties.
+ER  - 
+
+TY  - JOUR
+T1  - High-dimensional model-assisted inference for treatment effects with multi-valued treatments
+AU  - Xu, Wenfu
+AU  - Tan, Zhiqiang
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105852
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105852
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001970
+KW  - Multi-valued treatment
+KW  - Average treatment effect
+KW  - Calibrated estimation
+KW  - Doubly robust estimation
+KW  - Group Lasso
+KW  - Propensity score
+KW  - Regularized M-estimation
+AB  - Consider estimation of average treatment effects with multi-valued treatments using augmented inverse probability weighted (IPW) estimators, depending on outcome regression and propensity score models in high-dimensional settings. These regression models are often fitted by regularized likelihood-based estimation, while ignoring how the fitted functions are used in the subsequent inference about the treatment parameters. Such separate estimation can be associated with known difficulties in existing methods. We develop regularized calibrated estimation for fitting propensity score and outcome regression models, where sparsity-including penalties are employed to facilitate variable selection but the loss functions are carefully chosen such that valid confidence intervals can be obtained under possible model misspecification. Unlike in the case of binary treatments, the usual augmented IPW estimator is generalized to ensure just-identification of parameters from new calibration equations. For propensity score estimation, the new loss function and estimating functions are directly tied to achieving covariate balance between weighted treatment groups. We develop practical algorithms for computing the regularized calibrated estimators with group Lasso by innovatively exploiting Fisher scoring, and provide rigorous high-dimensional analysis for the resulting augmented IPW estimators under suitable sparsity conditions, while tackling technical issues absent or overlooked in previous analyses. We present simulation studies and an empirical application to estimate the effects of maternal smoking on birth weights. The proposed methods are implemented in the R package mRCAL.
+ER  - 
+
+TY  - JOUR
+T1  - GMM estimation for high-dimensional panel data models
+AU  - Cheng, Tingting
+AU  - Dong, Chaohua
+AU  - Gao, Jiti
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 244
+IS  - 1
+SP  - 105853
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105853
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001982
+KW  - Generalized method of moments
+KW  - Interactive effect
+KW  - Over-identification issue
+KW  - Semiparametric estimation
+KW  - Sieve method
+AB  - In this paper, we study a class of high dimensional moment restriction panel data models with interactive effects, where the factors are unobserved and these factor loadings are nonparametrically unknown smooth functions of individual characteristic variables. We allow the dimension of the parameter vector and the number of moment conditions to diverge with the sample size. This is a very general framework and is closely related to many existing linear and nonlinear panel data models. In order to estimate the unknown parameters, factors and factor loadings, we propose a sieve-based generalized method of moments estimation method and we show that under a set of simple identification conditions, all those unknown quantities can be consistently estimated. Further we establish asymptotic distributions of the proposed estimators. In addition, we propose tests for over-identification, specification of factor loading functions, and establish their large sample properties. Moreover, a number of simulation studies are conducted to examine the performance of the proposed estimators and test statistics in finite samples. An empirical example on stock return prediction is studied to demonstrate both the empirical relevance and the applicability of the proposed framework and corresponding estimation and testing methods.
+ER  - 

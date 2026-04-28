@@ -1,0 +1,496 @@
+
+TY  - JOUR
+T1  - Private Information and Price Regulation in the US Credit Card Market
+AU  - Nelson, Scott T.
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA18063
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1371
+EP  - 1410
+VL  - 93
+IS  - 4
+KW  - Adverse selection
+KW  - imperfect competition
+KW  - price discrimination
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA18063
+Y2  - 2026/04/24
+N2  - The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one-third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high-risk and price-inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre-CARD-Act markups was crucial for realizing these surplus gains.
+ER  - 
+
+TY  - JOUR
+T1  - Fiduciary Duty and the Market for Financial Advice
+AU  - Bhattacharya, Vivek
+AU  - Illanes, Gastón
+AU  - Padi, Manisha
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA18492
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1449
+EP  - 1480
+VL  - 93
+IS  - 4
+KW  - Fiduciary duty
+KW  - financial regulation
+KW  - financial advice
+KW  - retirement markets
+KW  - annuities
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA18492
+Y2  - 2026/04/24
+N2  - Fiduciary duty aims to solve principal-agent problems, and the United States is in the middle of a protracted debate surrounding the merits of extending it to all financial advisers. Leveraging a transaction-level data set of deferred annuities and state-level variation in common law fiduciary duty, we find that it raises risk-adjusted returns by 25 bp and leads to a 16% decline in the entry of affected firms. Through the lens of a model of entry and advice provision, we show that this effect can be due to both an increase in fixed costs and an increase in the cost of providing low-quality advice. We show how to disentangle these channels and find that both are empirically relevant. Counterfactual simulations show that further increases in the stringency of fiduciary duty monotonically improve advice quality.
+ER  - 
+
+TY  - JOUR
+T1  - Fisher–Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India
+AU  - Chernozhukov, Victor
+AU  - Demirer, Mert
+AU  - Duflo, Esther
+AU  - Fernández-Val, Iván
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA19303
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1121
+EP  - 1164
+VL  - 93
+IS  - 4
+KW  - Agnostic inference
+KW  - causal machine learning
+KW  - confidence intervals
+KW  - quantification of uncertainty
+KW  - multiple sample splitting
+KW  - heterogeneous effects
+KW  - immunization incentives
+KW  - nudges
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19303
+Y2  - 2026/04/24
+N2  - We propose strategies to estimate and make inference on key features of heterogeneous effects in randomized experiments. These key features include best linear predictors of the effects using machine learning proxies, average effects sorted by impact groups, and average characteristics of most and least impacted units. The approach is valid in high-dimensional settings, where the effects are proxied (but not necessarily consistently estimated) by predictive and causal machine learning methods. We post-process these proxies into estimates of the key features. Our approach is generic; it can be used in conjunction with penalized methods, neural networks, random forests, boosted trees, and ensemble methods, both predictive and causal. Estimation and inference are based on repeated data splitting to avoid overfitting and achieve validity. We use quantile aggregation of the results across many potential splits, in particular taking medians of p-values and medians and other quantiles of confidence intervals. We show that quantile aggregation lowers estimation risks over a single split procedure, and establish its principal inferential properties. Finally, our analysis reveals ways to build provably better machine learning proxies through causal learning: we can use the objective functions that we develop to construct the best linear predictors of the effects, to obtain better machine learning proxies in the initial step. We illustrate the use of both inferential tools and causal learners with a randomized field experiment that evaluates a combination of nudges to stimulate demand for immunization in India.
+ER  - 
+
+TY  - JOUR
+T1  - You Can Lead a Horse to Water: Spatial Learning and Path Dependence in Consumer Search
+AU  - Hodgson, Charles
+AU  - Lewis, Gregory
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA19576
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1299
+EP  - 1332
+VL  - 93
+IS  - 4
+KW  - Consumer search
+KW  - Bayesian learning
+KW  - spatial learning
+KW  - online platforms
+KW  - recommendation systems
+KW  - path dependence
+KW  - Gaussian processes
+KW  - approximate dynamic programming
+KW  - neural networks
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19576
+Y2  - 2026/04/24
+N2  - We develop and estimate a model of consumer search with spatial learning. Consumers make inferences from previously searched objects to unsearched objects that are nearby in attribute space, generating path dependence in search sequences. The estimated model rationalizes patterns in data on online consumer search paths: search tends to converge to the chosen product in attribute space, and consumers take larger steps away from rarely purchased products. Eliminating spatial learning reduces consumer welfare by 12%: cross-product inferences allow consumers to locate better products in a shorter time. Spatial learning has important implications for product recommendations on retail platforms. We show that consumer welfare can be reduced by unrepresentative product recommendations and that consumer-optimal product recommendations depend on both consumer learning and competition between platforms.
+ER  - 
+
+TY  - JOUR
+T1  - Selecting the Most Effective Nudge: Evidence From a Large-Scale Experiment on Immunization
+AU  - Banerjee, Abhijit
+AU  - Chandrasekhar, Arun G.
+AU  - Dalpath, Suresh
+AU  - Duflo, Esther
+AU  - Floretta, John
+AU  - Jackson, Matthew O.
+AU  - Kannan, Harini
+AU  - Loza, Francine
+AU  - Sankar, Anirudh
+AU  - Schrimpf, Anna
+AU  - Shrestha, Maheshwor
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA19739
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1183
+EP  - 1223
+VL  - 93
+IS  - 4
+KW  - Factorial designs
+KW  - heterogeneous treatment effects
+KW  - immunization
+KW  - nudges
+KW  - regularization
+KW  - social networks
+KW  - winner's curse
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA19739
+Y2  - 2026/04/24
+N2  - Policymakers often choose a policy bundle that is a combination of different interventions in different dosages. We develop a new technique?treatment variant aggregation (TVA)?to select a policy from a large factorial design. TVA pools together policy variants that are not meaningfully different and prunes those deemed ineffective. This allows us to restrict attention to aggregated policy variants, consistently estimate their effects on the outcome, and estimate the best policy effect adjusting for the winner's curse. We apply TVA to a large randomized controlled trial that tests interventions to stimulate demand for immunization in Haryana, India. The policies under consideration include reminders, incentives, and local ambassadors for community mobilization. Cross-randomizing these interventions, with different dosages or types of each intervention, yields 75 combinations. The policy with the largest impact (which combines incentives, ambassadors who are information hubs, and reminders) increases the number of immunizations by 44% relative to the status quo. The most cost-effective policy (information hubs, ambassadors, and SMS reminders, but no incentives) increases the number of immunizations per dollar by 9.1% relative to the status quo.
+ER  - 
+
+TY  - JOUR
+T1  - Contract Labor and Establishment Growth in India
+AU  - Bertrand, Marianne
+AU  - Hsieh, Chang-Tai
+AU  - Tsivanidis, Nick
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA20046
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1411
+EP  - 1448
+VL  - 93
+IS  - 4
+KW  - Contract labor
+KW  - growth
+KW  - India
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA20046
+Y2  - 2026/04/24
+N2  - India's Industrial Disputes Act (IDA) requires large manufacturing plants to pay substantial costs if they wish to shrink their workforce. Since the early 2000s, these large plants have dramatically increased their use of contract workers who are not subject to these regulatory constraints. Between 2000 and 2015, the contract labor share in non-managerial employment nearly doubled at establishments with more than 100 workers (from 21 to 40 percentage points), while it only increased from 14 to 17 percentage points at establishments with less than 50 workers. Over the same period, the thickness of the right tail of the establishment size distribution in formal Indian manufacturing plants increased, the average product of labor at large plants declined, the job creation rate for large plants increased, and the probability that large plants introduced new products rose. We argue that these changes were caused by the increased adoption of contract labor. In a model of establishment growth subject to firing costs, we show that easing access to contract labor increased TFP in Indian manufacturing by 7.3% since the early 2000s, occurring all through a one-time reduction in misallocation between large and small plants with negligible change in the long-run growth rate.
+ER  - 
+
+TY  - JOUR
+T1  - Producing Health: Measuring Value Added of Nursing Homes
+AU  - Einav, Liran
+AU  - Finkelstein, Amy
+AU  - Mahoney, Neale
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA21016
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1225
+EP  - 1264
+VL  - 93
+IS  - 4
+KW  - Healthcare
+KW  - nursing homes
+KW  - value added
+KW  - health outcomes
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA21016
+Y2  - 2026/04/24
+N2  - We develop a stylized model that allows us to estimate a value-added measure for nursing homes (?SNFs?) which accounts for patient selection both into and out of a SNF. We use the model, together with detailed data on the physical and mental health of about 6 million Medicare SNF patients between 2011 and 2016, to estimate the value added for about 14,000 distinct SNFs. We document substantial heterogeneity in value added. Nationwide, compared to a 10th percentile SNF, a 90th percentile SNF is able to discharge a patient at the same health level almost a week sooner, or one quarter of the median length of stay. Heterogeneity in value added within a market is almost as large as it is nationwide. Our results point to the potential for substantial gains through policies that encourage reallocation of patients to higher-quality SNFs within their market.
+ER  - 
+
+TY  - JOUR
+T1  - Competitive Capture of Public Opinion
+AU  - Alonso, Ricardo
+AU  - Padró i Miquel, Gerard
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA22072
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1265
+EP  - 1297
+VL  - 93
+IS  - 4
+KW  - Collective action
+KW  - communication technology
+KW  - media bias
+KW  - lobbying
+KW  - public opinion
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA22072
+Y2  - 2026/04/24
+N2  - Two opposed interested parties (IPs) compete to influence citizens with heterogeneous priors which receive news items produced by a variety of sources. The IPs fight to capture the coverage conveyed in these items. We characterize the equilibrium level of capture of item as well as the equilibrium level of information transmission. Capture increases the prevalence of the ex ante most informative messages and can explain the empirical distribution of slant at the news-item level. Opposite capturing efforts do not cancel each other and instead undermine social learning as rational citizens discount informative messages. Citizen skepticism makes efforts to capture the news strategic substitutes. Because of strategic substitution, competition for influence is compatible with horizontal differentiation between successful media. In equilibrium, rational citizens choose to consume messages from aligned sources despite knowledge of the bias in a manner consistent with recent empirical evidence.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Concern for Misspecification
+AU  - Lanzani, Giacomo
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA22139
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1333
+EP  - 1370
+VL  - 93
+IS  - 4
+KW  - Misspecification
+KW  - learning
+KW  - uncertainty aversion
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA22139
+Y2  - 2026/04/24
+N2  - I consider an agent who posits a set of probabilistic models for the payoff-relevant outcomes. The agent has a prior over this set but fears the actual model is omitted and hedges against this possibility. The concern for misspecification is endogenous: If a model explains the previous observations well, the concern attenuates. I show that different static preferences under uncertainty (subjective expected utility, maxmin, robust control) arise in the long run, depending on how quickly the agent becomes unsatisfied with unexplained evidence. The misspecification concern's endogeneity naturally induces behavior cycles, and I characterize the limit action frequency. I apply the model to monetary policy cycles and choices in the face of complex tax schedules.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum: Financial Frictions and the Wealth Distribution
+AU  - Fernández-Villaverde, Jesús
+AU  - Hurtado, Samuel
+AU  - Nuño, Galo
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA22259
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1491
+EP  - 1496
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA22259
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - A Comment on: “Fisher–Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India” by Victor Chernozhukov, Mert Demirer, Esther Duflo, and Iván Fernández-Val
+AU  - Imai, Kosuke
+AU  - Li, Michael Lingzhi
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA22261
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1165
+EP  - 1170
+VL  - 93
+IS  - 4
+KW  - Heterogeneous treatment effects
+KW  - machine learning
+KW  - randomization inference
+KW  - confidence intervals
+KW  - GATES
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA22261
+Y2  - 2026/04/24
+N2  - We examine the split-sample robust inference (SSRI) methodology introduced by Chernozhukov, Demirer, Duflo, and Fernandez-Val for quantifying uncertainty in heterogeneous treatment effect estimates produced by machine learning (ML) models. Although SSRI properly accounts for the additional variability due to sample splitting, its computational cost becomes prohibitive with complex ML models. We propose an alternative approach based on randomization inference (RI) that preserves the broad applicability of SSRI while eliminating the need for repeated sample splitting. Leveraging cross-fitting and design-based inference, the RI procedure yields valid confidence intervals with substantially reduced computational burden. Simulation studies demonstrate that the RI method preserves the statistical efficiency of SSRI while scaling to much larger applications and more complex settings.
+ER  - 
+
+TY  - JOUR
+T1  - A Comment on: “Monotone Comparative Statics”
+AU  - Amir, Rabah
+AU  - Rietzke, David
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA23292
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1481
+EP  - 1490
+VL  - 93
+IS  - 4
+KW  - Binary comparative statics
+KW  - quasisupermodularity
+KW  - single-crossing property
+KW  - monopoly versus planner outcomes
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA23292
+Y2  - 2026/04/24
+N2  - Milgrom and Shannon (1994) provide necessary and sufficient conditions on parameterized optimization problems for their solution sets to be globally monotone in the parameter. We establish that their conditions may be significantly relaxed when focusing on discrete, binary comparisons between solution sets. Such binary comparisons are ubiquitous in economics and may involve comparing the same decision maker across two distinct regimes or two distinct decision makers with related objectives (e.g., a monopolist firm versus a social planner). While the single-crossing property remains prominent in the theory, quasisupermodularity of the objective functions of interest is not needed. Our approach relies upon a novel method of embedding a new optimization problem with a quasisupermodular objective function ?between? the two original problems of interest. In smooth problems, sufficient conditions for our new assumptions may be verified by elementary differential comparisons, making them well suited for applied work. We illustrate the relevance of this novel approach with several economic applications.
+ER  - 
+
+TY  - JOUR
+T1  - A Comment on: “Fisher–Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India” by Victor Chernozhukov, Mert Demirer, Esther Duflo, and Iván Fernández-Val
+AU  - Wager, Stefan
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA23293
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1171
+EP  - 1176
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA23293
+Y2  - 2026/04/24
+N2  - We use the martingale construction of Luedtke and van der Laan (2016) to develop tests for the presence of treatment heterogeneity. The resulting sequential validation approach can be instantiated using various validation metrics, such as BLPs, GATES, QINI curves, etc., and provides an alternative to cross-validation-like cross-fold application of these metrics. This note was prepared as a comment on the Fisher?Schultz paper by Chernozhukov, Demirer, Duflo, and Fernández-Val, forthcoming in Econometrica.
+ER  - 
+
+TY  - JOUR
+T1  - Erratum to “Robust Priors in Nonlinear Panel Data Models”
+AU  - Arellano, Manuel
+AU  - Bonhomme, Stéphane
+AU  - Borodich Suarez, Sofia
+AU  - Schumann, Martin
+AU  - Shi, Xiaoxia
+AU  - Tripathi, Gautam
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA23441
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1
+EP  - 3
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA23441
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Reply to: Comments on “Fisher–Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India”
+AU  - Chernozhukov, Victor
+AU  - Demirer, Mert
+AU  - Duflo, Esther
+AU  - Fernández-Val, Iván
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA23706
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1177
+EP  - 1181
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA23706
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Backmatter of Econometrica Vol. 93 Iss. 4
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA934BM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - iii
+EP  - v
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA934BM
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Fellows of the Econometric Society July, 2025
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA934FES
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1497
+EP  - 1517
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA934FES
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Frontmatter of Econometrica Vol. 93 Iss. 4
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA934FM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - i
+EP  - ii
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA934FM
+Y2  - 2026/04/24
+ER  - 
+
+TY  - JOUR
+T1  - Submission of Manuscripts to the Econometric Society Monograph Series
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+DO  - https://doi.org/10.3982/ECTA934SUM
+T2  - Econometrica
+JF  - Econometrica
+JO  - Econometrica
+JA  - Econometrica
+SP  - 1519
+EP  - 1519
+VL  - 93
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0012-9682
+UR  - https://doi.org/10.3982/ECTA934SUM
+Y2  - 2026/04/24
+ER  - 

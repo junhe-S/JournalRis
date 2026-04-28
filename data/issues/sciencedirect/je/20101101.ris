@@ -1,0 +1,362 @@
+TY  - JOUR
+T1  - Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data
+AU  - Christensen, Kim
+AU  - Kinnebrock, Silja
+AU  - Podolskij, Mark
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 116
+EP  - 133
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001260
+KW  - Central limit theorem
+KW  - Diffusion models
+KW  - High-frequency data
+KW  - Market microstructure noise
+KW  - Non-synchronous trading
+KW  - Pre-averaging
+KW  - Realised covariance
+AB  - We show how pre-averaging can be applied to the problem of measuring the ex-post covariance of financial asset returns under microstructure noise and non-synchronous trading. A pre-averaged realised covariance is proposed, and we present an asymptotic theory for this new estimator, which can be configured to possess an optimal convergence rate or to ensure positive semi-definite covariance matrix estimates. We also derive a noise-robust Hayashi–Yoshida estimator that can be implemented on the original data without prior alignment of prices. We uncover the finite sample properties of our estimators with simulations and illustrate their practical use on high-frequency equity data.
+ER  - 
+
+TY  - JOUR
+T1  - The (mis)specification of discrete duration models with unobserved heterogeneity: A Monte Carlo study
+AU  - Nicoletti, Cheti
+AU  - Rondinelli, Concetta
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 1
+EP  - 13
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001090
+AB  - Empirical researchers usually prefer statistical models that can be easily estimated with the help of commonly available software packages. Sequential binary models with or without normal random effects are an example of such models that can be adopted to estimate discrete duration models with unobserved heterogeneity. But an easy-to-implement estimation may incur a cost. In this paper we conduct a Monte Carlo simulation to evaluate the consequences of omitting or misspecifying the unobserved heterogeneity distribution in single-spell discrete duration models.
+ER  - 
+
+TY  - JOUR
+T1  - A direct Monte Carlo approach for Bayesian analysis of the seemingly unrelated regression model
+AU  - Zellner, Arnold
+AU  - Ando, Tomohiro
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 33
+EP  - 45
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001119
+KW  - Bayesian multivariate analysis
+KW  - Bayesian Monte Carlo techniques
+KW  - MCMC
+KW  - Direct MC methods
+AB  - Computationally efficient methods for Bayesian analysis of seemingly unrelated regression (SUR) models are described and applied that involve the use of a direct Monte Carlo (DMC) approach to calculate Bayesian estimation and prediction results using diffuse or informative priors. This DMC approach is employed to compute Bayesian marginal posterior densities, moments, intervals and other quantities, using data simulated from known models and also using data from an empirical example involving firms’ sales. The results obtained by the DMC approach are compared to those yielded by the use of a Markov Chain Monte Carlo (MCMC) approach. It is concluded from these comparisons that the DMC approach is worthwhile and applicable to many SUR and other problems.
+ER  - 
+
+TY  - JOUR
+T1  - Wavelet analysis of change-points in a non-parametric regression with heteroscedastic variance
+AU  - Zhou, Yong
+AU  - Wan, Alan T.K.
+AU  - Xie, Shangyu
+AU  - Wang, Xiaojing
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 183
+EP  - 201
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001405
+KW  - -sharp cusp
+KW  - Asymptotic Distribution
+KW  - Convergence
+KW  - Discretized estimator
+KW  - Integral estimator
+KW  - Jump
+KW  - Leave-one-out cross validation
+KW  - Lipschitz continuous
+KW  - Normal distribution
+KW  - Resolution level selection
+AB  - In this paper we develop wavelet methods for detecting and estimating jumps and cusps in the mean function of a non-parametric regression model. An important characteristic of the model considered here is that it allows for conditional heteroscedastic variance, a feature frequently encountered with economic and financial data. Wavelet analysis of change-points in this model has been considered in a limited way in a recent study by Chen et al. (2008) with a focus on jumps only. One problem with the aforementioned paper is that the test statistic developed there has an extreme value null limit distribution. The results of other studies have shown that the rate of convergence to the extreme value distribution is usually very slow, and critical values derived from this distribution tend to be much larger than the true ones. Here, we develop a new test and show that the test statistic has a convenient null limit N(0,1) distribution. This feature gives the proposed approach an appealing advantage over the existing approach. Another attractive feature of our results is that the asymptotic theory developed here holds for both jumps and cusps. Implementation of the proposed method for multiple jumps and cusps is also examined. The results from a simulation study show that the new test has excellent power and the estimators developed also yield very accurate estimates of the positions of the discontinuities.
+ER  - 
+
+TY  - JOUR
+T1  - The effects of dynamic feedbacks on LS and MM estimator accuracy in panel data models: Some additional results
+AU  - Hayakawa, Kazuhiko
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 202
+EP  - 208
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001417
+AB  - In this paper, we show that the order of magnitude of the finite sample bias of the GMMld(2) estimator of Bun and Kiviet (2006) reduces from O(T/N) to O(1/N) if the original level model is transformed by the upper triangular Cholesky factorization of the inverse of the pseudo variance matrix of error component ui wherein true values of the variances of individual effects and disturbances may not be used. Some variants of the system GMM estimator that are associated with the Cholesky-transformed model are also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Specification tests of parametric dynamic conditional quantiles
+AU  - Escanciano, Juan Carlos
+AU  - Velasco, Carlos
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 209
+EP  - 221
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001429
+KW  - Omnibus tests
+KW  - Conditional quantiles
+KW  - Nonlinear time series
+KW  - Empirical processes
+KW  - Quantile processes
+KW  - Subsampling
+KW  - Value-at-risk
+KW  - Tail risk
+AB  - This article proposes omnibus specification tests of parametric dynamic quantile models. In contrast to the existing procedures, we allow for a flexible specification, where a possible continuum of quantiles is simultaneously specified under fairly weak conditions on the serial dependence in the underlying data-generating process. Since the null limit distribution of tests is not pivotal, we propose a subsampling approximation of the asymptotic critical values. A Monte Carlo study shows that the asymptotic results provide good approximations for small sample sizes. Finally, an application suggests that our methodology is a powerful alternative to standard backtesting procedures in evaluating market risk.
+ER  - 
+
+TY  - JOUR
+T1  - GMM estimation of social interaction models with centrality
+AU  - Liu, Xiaodong
+AU  - Lee, Lung-fei
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 99
+EP  - 115
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001259
+KW  - Social network
+KW  - Centrality
+KW  - Spatial autoregressive model
+KW  - GMM
+KW  - Efficiency
+AB  - This paper considers the specification and estimation of social interaction models with network structures and the presence of endogenous, contextual, correlated, and group fixed effects. When the network structure in a group is captured by a graph in which the degrees of nodes are not all equal, the different positions of group members as measured by the Bonacich (1987) centrality provide additional information for identification and estimation. In this case, the Bonacich centrality measure for each group can be used as an instrument for the endogenous social effect, but the number of such instruments grows with the number of groups. We consider the 2SLS and GMM estimation for the model. The proposed estimators are asymptotically efficient, respectively, within the class of IV estimators and the class of GMM estimators based on linear and quadratic moments, when the sample size grows fast enough relative to the number of instruments.
+ER  - 
+
+TY  - JOUR
+T1  - Knowledge spillovers in US patents: A dynamic patent intensity model with secret common innovation factors
+AU  - Blazsek, Szabolcs
+AU  - Escribano, Alvaro
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 14
+EP  - 32
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001107
+KW  - Point process
+KW  - Conditional intensity
+KW  - Latent factor
+KW  - R&D spillovers
+KW  - Patents
+KW  - Secret innovations
+AB  - During the past two decades, innovations protected by patents have played a key role in business strategies. This fact enhanced studies of the determinants of patents and the impact of patents on innovation and competitive advantage. Sustaining competitive advantages is as important as creating them. Patents help sustaining competitive advantages by increasing the production cost of competitors, by signaling a better quality of products and by serving as barriers to entry. If patents are rewards for innovation, more R&D should be reflected in more patent applications but this is not the end of the story. There is empirical evidence showing that patents through time are becoming easier to get and more valuable to the firm due to increasing damage awards from infringers. These facts question the constant and static nature of the relationship between R&D and patents. Furthermore, innovation creates important knowledge spillovers due to its imperfect appropriability. Our paper investigates these dynamic effects using US patent data from 1979 to 2000 with alternative model specifications for patent counts. We introduce a general dynamic count panel data model with dynamic observable and unobservable spillovers, which encompasses previous models, is able to control for the endogeneity of R&D and therefore can be consistently estimated by maximum likelihood. Apart from allowing for firm specific fixed and random effects, we introduce a common unobserved component, or secret stock of knowledge, that affects differently the propensity to patent of each firm across sectors due to their different absorptive capacity.
+ER  - 
+
+TY  - JOUR
+T1  - Realised quantile-based estimation of the integrated variance
+AU  - Christensen, Kim
+AU  - Oomen, Roel
+AU  - Podolskij, Mark
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 74
+EP  - 98
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001144
+KW  - Finite activity jumps
+KW  - Market microstructure noise
+KW  - Order statistics
+KW  - Outliers
+KW  - Realised variance
+AB  - In this paper, we propose a new jump-robust quantile-based realised variance measure of ex post return variation that can be computed using potentially noisy data. The estimator is consistent for the integrated variance and we present feasible central limit theorems which show that it converges at the best attainable rate and has excellent efficiency. Asymptotically, the quantile-based realised variance is immune to finite activity jumps and outliers in the price series, while in modified form the estimator is applicable with market microstructure noise and therefore operational on high-frequency data. Simulations show that it has superior robustness properties in finite sample, while an empirical application illustrates its use on equity data.
+ER  - 
+
+TY  - JOUR
+T1  - Root-N-consistent estimation of fixed-effect panel data transformation models with censoring
+AU  - Chen, Songnian
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 222
+EP  - 234
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001430
+KW  - Root--consistent estimation
+KW  - Panel data transformation models
+KW  - Fixed effects
+KW  - Censoring
+AB  - This paper considers semiparametric n-consistent estimation of the parameters of the generalized panel data transformation model with fixed effects under various forms of censoring, without parametric specification for the transformation function or the error distribution. While the approach in Abrevaya (1999) is n-consistent, it is not applicable when censoring is present. For the case with fixed censoring, existing approaches such as those of Manski (1987) and Abrevaya (2000) apply, but their estimators converge at rates slower than n, thus possessing zero efficiency compared with n-consistent estimators. While the approaches by Honoré (1992) and Ridder and Tunali (1999) do produce n-consistent estimators under fixed and independent censoring respectively, they require either the error distribution or the transformation function to be completely known. Our n-consistent estimator for the fixed censoring case could be extended to the cases with independent and dependent censoring. Under dependent censoring, in contrast to our method, the existing approaches (e.g., Horowitz and Lee (2003), Lee (2008) and Das and Ying (2005)) require parametric specification for the transformation function or the error distribution. Large sample properties of the proposed estimators are presented. We also provide a simulation study to illustrate our estimation methods in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Quasi-maximum likelihood estimation of volatility with high frequency data
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 235
+EP  - 250
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001454
+KW  - Integrated volatility
+KW  - Market microstructure noise
+KW  - Quasi-maximum likelihood estimator
+KW  - Realized kernels
+KW  - Stochastic volatility
+AB  - This paper investigates the properties of the well-known maximum likelihood estimator in the presence of stochastic volatility and market microstructure noise, by extending the classic asymptotic results of quasi-maximum likelihood estimation. When trying to estimate the integrated volatility and the variance of noise, this parametric approach remains consistent, efficient and robust as a quasi-estimator under misspecified assumptions. Moreover, it shares the model-free feature with nonparametric alternatives, for instance realized kernels, while being advantageous over them in terms of finite sample performance. In light of quadratic representation, this estimator behaves like an iterative exponential realized kernel asymptotically. Comparisons with a variety of implementations of the Tukey–Hanning2 kernel are provided using Monte Carlo simulations, and an empirical study with the Euro/US Dollar future illustrates its application in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - IFC
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00174-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001740
+ER  - 
+
+TY  - JOUR
+T1  - A flexible approach to parametric inference in nonlinear and time varying time series models
+AU  - Koop, Gary
+AU  - Potter, Simon
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 134
+EP  - 150
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001272
+KW  - Bayesian
+KW  - Structural break
+KW  - Threshold autoregressive
+KW  - Regime switching
+KW  - State space model
+AB  - Many structural break and regime-switching models have been used with macroeconomic and financial data. In this paper, we develop an extremely flexible modeling approach which can accommodate virtually any of these specifications. We build on earlier work showing the relationship between flexible functional forms and random variation in parameters. Our contribution is based around the use of priors on the time variation that is developed from considering a hypothetical reordering of the data and distance between neighboring (reordered) observations. The range of priors produced in this way can accommodate a wide variety of nonlinear time series models, including those with regime-switching and structural breaks. By allowing the amount of random variation in parameters to depend on the distance between (reordered) observations, the parameters can evolve in a wide variety of ways, allowing for everything from models exhibiting abrupt change (e.g. threshold autoregressive models or standard structural break models) to those which allow for a gradual evolution of parameters (e.g. smooth transition autoregressive models or time varying parameter models). Bayesian econometric methods for inference are developed for estimating the distance function and types of hypothetical reordering. Conditional on a hypothetical reordering and distance function, a simple reordering of the actual data allows us to estimate our models with standard state space methods by a simple adjustment to the measurement equation. We use artificial data to show the advantages of our approach, before providing two empirical illustrations involving the modeling of real GDP growth.
+ER  - 
+
+TY  - JOUR
+T1  - Inconsistency of the MLE and inference based on weighted LS for LARCH models
+AU  - Francq, Christian
+AU  - Zakoïan, Jean-Michel
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 151
+EP  - 165
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001284
+KW  - Conditional homoscedasticity testing
+KW  - Leverage effect
+KW  - Linear ARCH
+KW  - Quasi-maximum likelihood
+KW  - Weighted least-squares
+AB  - This paper considers a class of finite-order autoregressive linear ARCH models. The model captures the leverage effect, allows the volatility to be arbitrarily close to zero and to reach its minimum for non-zero innovations, and is appropriate for long memory modeling when infinite orders are allowed. However, the (quasi-)maximum likelihood estimator is, in general, inconsistent. A self-weighted least-squares estimator is proposed and is shown to be asymptotically normal. A score test for conditional homoscedasticity and diagnostic portmanteau tests are developed. Their performance is illustrated via simulation experiments. It is also investigated whether stock market returns exhibit some of the characteristic features of the linear ARCH model.
+ER  - 
+
+TY  - JOUR
+T1  - A consistent nonparametric test of affiliation in auction models
+AU  - Jun, Sung Jae
+AU  - Pinkse, Joris
+AU  - Wan, Yuanyuan
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 46
+EP  - 54
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001120
+KW  - Auction models
+KW  - Affiliation
+KW  - Empirical distributions
+KW  - Nonparametric tests
+AB  - We propose a new nonparametric test of affiliation, a strong form of positive dependence with independence as a special, knife-edge, case. The test is consistent against all departures from the null of affiliation, and its null distribution is standard normal. Like most nonparametric tests, a sample-size dependent input parameter is needed. We provide an informal procedure for choosing the input parameter and evaluate the test’s performance using a simulation study. Our test can be used to test the fundamental assumptions of the auctions literature. We implement our test empirically using the Outer Continental Shelf (OCS) auction data.
+ER  - 
+
+TY  - JOUR
+T1  - No-arbitrage macroeconomic determinants of the yield curve
+AU  - Bikbov, Ruslan
+AU  - Chernov, Mikhail
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 166
+EP  - 182
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001296
+KW  - Macro-finance models
+KW  - Term structure
+KW  - Variance decomposition
+KW  - Kalman filter
+AB  - No-arbitrage macro-finance models use variance decompositions to gauge the extent of association between the macro variables and yields. We show that results generated by this approach are sensitive to the order of variables in the recursive identification scheme. In a four-factor model, one may obtain 18 different sets of answers out of 24 possible. We propose an alternative measure that is based on levels of macro variables as opposed to shocks. We account for the correlation between the macro and latent factors via projection of the latter onto the former. As a result, the association between macro variables and yields can be computed uniquely via an R2. Macro variables explain 80% of the variation in the short rate and 50% of the slope, and 54% to 68% of the term premia.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient estimation of a multivariate multiplicative volatility model
+AU  - Hafner, Christian M.
+AU  - Linton, Oliver
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 1
+SP  - 55
+EP  - 73
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001132
+KW  - GARCH
+KW  - Kernel estimation
+KW  - Local stationarity
+KW  - Semiparametric
+AB  - We propose a multivariate generalization of the multiplicative volatility model of Engle and Rangel (2008), which has a nonparametric long run component and a unit multivariate GARCH short run dynamic component. We suggest various kernel-based estimation procedures for the parametric and nonparametric components, and derive the asymptotic properties thereof. For the parametric part of the model, we obtain the semiparametric efficiency bound. Our method is applied to a bivariate stock index series. We find that the univariate model of Engle and Rangel (2008) appears to be violated in the data whereas our multivariate model is more consistent with the data.
+ER  - 

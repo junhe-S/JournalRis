@@ -1,0 +1,308 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Determinants of Electronic Integration in the Insurance Industry: An Empirical Test
+AU  - Zaheer, Akbar
+AU  - Venkatraman, N.
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.549
+DO  - 10.1287/mnsc.40.5.549
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 549
+EP  - 566
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - Electronic integration?a form of vertical quasi-integration achieved through the deployment of dedicated computers and communication systems between relevant actors in the adjacent stages of the value-chain?is an important concept to researchers in the information systems field since it focuses on the role of information technology in restructuring vertical relationships. Drawing on theoretical and empirical research on transaction costs, we develop and test a model of the determinants of the degree of electronic integration in the commercial segment of the property and casualty (P&C) industry. Based on a sample of 120 independent agencies operating under dedicated information technology-mediated conditions, we provide empirical support for three hypotheses on the determinants of electronic integration. Implications and research extensions are identified to guide further research in this important area.
+AB  - Electronic integration?a form of vertical quasi-integration achieved through the deployment of dedicated computers and communication systems between relevant actors in the adjacent stages of the value-chain?is an important concept to researchers in the information systems field since it focuses on the role of information technology in restructuring vertical relationships. Drawing on theoretical and empirical research on transaction costs, we develop and test a model of the determinants of the degree of electronic integration in the commercial segment of the property and casualty (P&C) industry. Based on a sample of 120 independent agencies operating under dedicated information technology-mediated conditions, we provide empirical support for three hypotheses on the determinants of electronic integration. Implications and research extensions are identified to guide further research in this important area.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.549
+UR  - https://doi.org/10.1287/mnsc.40.5.549
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Dual-Based Algorithm for Multi-Level Network Design
+AU  - Balakrishnan, Anantaram
+AU  - Magnanti, Thomas L.
+AU  - Mirchandani, Prakash
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.567
+DO  - 10.1287/mnsc.40.5.567
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 567
+EP  - 581
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - Given an undirected network with L possible facility types for each edge, and a partition of the nodes into L levels or grades, the Multi-level Network Design (MLND) problem seeks a fixed cost minimizing design that spans all the nodes and connects the nodes at each level by facilities of the corresponding or higher grade. This problem generalizes the well-known Steiner network problem and the hierarchical network design problem, and has applications in telecommunication, transportation, and electric power distribution network design. In a companion paper we studied alternative model formulations for a two-level version of this problem, and analyzed the worst-case performance of several heuristics based on Steiner network and spanning tree solutions. This paper develops a dual-based algorithm for the MLND problem. The method first performs problem preprocessing to fix certain design variables, and then applies a dual ascent procedure to generate upper and lower bounds on the optimal value. We report extensive computational results on large, random two-level test problems (containing up to 500 nodes, and 5,000 edges) with varying cost structures. The integer programming formulation of the largest of these problems has 20,000 integer variables and over 5 million constraints. Our tests indicate that the dual-based algorithm is very effective, producing solutions that are within 0.9% of optimality.
+AB  - Given an undirected network with L possible facility types for each edge, and a partition of the nodes into L levels or grades, the Multi-level Network Design (MLND) problem seeks a fixed cost minimizing design that spans all the nodes and connects the nodes at each level by facilities of the corresponding or higher grade. This problem generalizes the well-known Steiner network problem and the hierarchical network design problem, and has applications in telecommunication, transportation, and electric power distribution network design. In a companion paper we studied alternative model formulations for a two-level version of this problem, and analyzed the worst-case performance of several heuristics based on Steiner network and spanning tree solutions. This paper develops a dual-based algorithm for the MLND problem. The method first performs problem preprocessing to fix certain design variables, and then applies a dual ascent procedure to generate upper and lower bounds on the optimal value. We report extensive computational results on large, random two-level test problems (containing up to 500 nodes, and 5,000 edges) with varying cost structures. The integer programming formulation of the largest of these problems has 20,000 integer variables and over 5 million constraints. Our tests indicate that the dual-based algorithm is very effective, producing solutions that are within 0.9% of optimality.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.567
+UR  - https://doi.org/10.1287/mnsc.40.5.567
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing Inventory Levels in a Two-Echelon Retailer System with Partial Lost Sales
+AU  - Nahmias, Steven
+AU  - Smith, Stephen A.
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.582
+DO  - 10.1287/mnsc.40.5.582
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 582
+EP  - 596
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - This paper considers a retailer inventory system with N first-echelon stores and a single second-echelon distribution center (DC). Customer demands at the stores are assumed to be random. When a stockout occurs, customers are willing to wait for their order to be filled with a known probability. Customers who are unwilling to wait result in lost sales. The first and second echelons are both restocked at fixed, equally spaced time points, where the store restocking frequency is an integer multiple of the DC restocking frequency. We also assume that replenishment quantities at both echelons can be adjusted up to the time of delivery, resulting in replenishment lead times equal to zero. This simplification allows us to determine optimal solutions for the partial lost sales case, which has proven intractable for two-echelon formulations with lead times. Computational results are given for illustrative examples.
+AB  - This paper considers a retailer inventory system with N first-echelon stores and a single second-echelon distribution center (DC). Customer demands at the stores are assumed to be random. When a stockout occurs, customers are willing to wait for their order to be filled with a known probability. Customers who are unwilling to wait result in lost sales. The first and second echelons are both restocked at fixed, equally spaced time points, where the store restocking frequency is an integer multiple of the DC restocking frequency. We also assume that replenishment quantities at both echelons can be adjusted up to the time of delivery, resulting in replenishment lead times equal to zero. This simplification allows us to determine optimal solutions for the partial lost sales case, which has proven intractable for two-echelon formulations with lead times. Computational results are given for illustrative examples.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.582
+UR  - https://doi.org/10.1287/mnsc.40.5.582
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Multi-Echelon vs. Single-Echelon Inventory Control Policies for Low-Demand Items
+AU  - Hausman, Warren H.
+AU  - Erkip, Nesim K.
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.597
+DO  - 10.1287/mnsc.40.5.597
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 597
+EP  - 602
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - Multi-echelon inventory systems are often controlled as a network of single-echelon inventory systems for simplicity of managerial authority, organizational control, and performance monitoring. This paper explores the amount of suboptimization in such a situation, using an actual demand data set provided by other researchers. We consider low-demand, high-cost items controlled on an (S ? 1, S) basis, with all warehouse stockouts met on an emergency-ordering basis. We demonstrate that the suboptimality penalty for this data set is 3% to 5% when single-echelon systems are appropriately parameterized.
+AB  - Multi-echelon inventory systems are often controlled as a network of single-echelon inventory systems for simplicity of managerial authority, organizational control, and performance monitoring. This paper explores the amount of suboptimization in such a situation, using an actual demand data set provided by other researchers. We consider low-demand, high-cost items controlled on an (S ? 1, S) basis, with all warehouse stockouts met on an emergency-ordering basis. We demonstrate that the suboptimality penalty for this data set is 3% to 5% when single-echelon systems are appropriately parameterized.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.597
+UR  - https://doi.org/10.1287/mnsc.40.5.597
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Leadtime Uncertainty in a Simple Stochastic Inventory Model
+AU  - Song, Jing-Sheng
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.603
+DO  - 10.1287/mnsc.40.5.603
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 603
+EP  - 613
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - We study a basic continuous-time single-item inventory model where demands form a compound Poisson process and leadtimes are stochastic. The performance measure of interest is the long-run average cost. Order costs are linear, so a base-stock policy is optimal. We focus on the behavior of the optimal base-stock level in response to stochastically larger or more variable leadtimes. We also investigate the behavior of the corresponding long-run average costs. We show that a stochastically larger leadtime requires a higher optimal base-stock level. However, a stochastically larger leadtime may not necessarily result in a higher optimal average cost, because sometimes the variability effects may dominate. On the other hand, a more variable leadtime always leads to a higher optimal average cost. The effect of leadtime variability on optimal policies depends on the inventory cost structure: A more variable leadtime requires a higher optimal base-stock level if and only if the unit penalty (holding) cost rate is high (low). Similar results regarding the effect of leadtime demand are also discussed. In this latter case, the compound Poisson assumption is not necessary.
+AB  - We study a basic continuous-time single-item inventory model where demands form a compound Poisson process and leadtimes are stochastic. The performance measure of interest is the long-run average cost. Order costs are linear, so a base-stock policy is optimal. We focus on the behavior of the optimal base-stock level in response to stochastically larger or more variable leadtimes. We also investigate the behavior of the corresponding long-run average costs. We show that a stochastically larger leadtime requires a higher optimal base-stock level. However, a stochastically larger leadtime may not necessarily result in a higher optimal average cost, because sometimes the variability effects may dominate. On the other hand, a more variable leadtime always leads to a higher optimal average cost. The effect of leadtime variability on optimal policies depends on the inventory cost structure: A more variable leadtime requires a higher optimal base-stock level if and only if the unit penalty (holding) cost rate is high (low). Similar results regarding the effect of leadtime demand are also discussed. In this latter case, the compound Poisson assumption is not necessary.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.603
+UR  - https://doi.org/10.1287/mnsc.40.5.603
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Decision Dynamics in Two High Reliability Military Organizations
+AU  - Roberts, Karlene H.
+AU  - Stout, Suzanne K.
+AU  - Halpern, Jennifer J.
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.614
+DO  - 10.1287/mnsc.40.5.614
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 614
+EP  - 624
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - In this research we extend theoretical development about decision making in organizations in which many kinds of errors cannot be tolerated. Catastrophic consequences can be associated with faulty decision making in reliability-seeking organizations, a situation which does not occur in most organizations studied in the past. Observations are drawn from two nuclear-powered aircraft carriers. We find decision processes which appear to change often in these organizations. Important decisions can be made by a number of men even at the lowest levels of the organization. Task-related factors such as technical complexity, high interdependence, and catastrophic consequences associated with rare events and more cognitive factors such as accountability and salience affect decision processes. A model is presented that accounts for dynamic change in decision processes in these organizations.
+AB  - In this research we extend theoretical development about decision making in organizations in which many kinds of errors cannot be tolerated. Catastrophic consequences can be associated with faulty decision making in reliability-seeking organizations, a situation which does not occur in most organizations studied in the past. Observations are drawn from two nuclear-powered aircraft carriers. We find decision processes which appear to change often in these organizations. Important decisions can be made by a number of men even at the lowest levels of the organization. Task-related factors such as technical complexity, high interdependence, and catastrophic consequences associated with rare events and more cognitive factors such as accountability and salience affect decision processes. A model is presented that accounts for dynamic change in decision processes in these organizations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.614
+UR  - https://doi.org/10.1287/mnsc.40.5.614
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Folding Back in Decision Tree Analysis
+AU  - Sarin, Rakesh
+AU  - Wakker, Peter
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.625
+DO  - 10.1287/mnsc.40.5.625
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 625
+EP  - 628
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - This note demonstrates that two minimal requirements of decision tree analysis, the folding back procedure and the interchangeability of consecutive event nodes, imply independence.
+AB  - This note demonstrates that two minimal requirements of decision tree analysis, the folding back procedure and the interchangeability of consecutive event nodes, imply independence.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.625
+UR  - https://doi.org/10.1287/mnsc.40.5.625
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Leadtimes Planning in a Serial Production System
+AU  - Gong, Linguo
+AU  - de Kok, Ton
+AU  - Ding, Jie
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.629
+DO  - 10.1287/mnsc.40.5.629
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 629
+EP  - 632
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - Consider an N stage serial production line where the processing times of orders may be random. Since the carrying costs increase from stage to stage, the standard production procedure, that is, to determine a total leadtime for the entire order by taking an appropriate percentile of the distribution of total processing time and then release the order immediately from stage to stage during the process, may not be optimal since it ignores inventory carrying costs. This article studies a per stage planned leadtime dispatching policy for such systems. The order will not be released immediately to the next workstation prior to a predetermined delivery time, or planned leadtime. The vector of planned leadtimes at workstations is to be determined by trading off expected holding costs at all stages and expected penalty costs for exceeding the total planned leadtime. We show that the optimal vector of planned leadtimes may be obtained efficiently by solving an equivalent serial inventory model of the type considered in Clark and Scarf (1960).
+AB  - Consider an N stage serial production line where the processing times of orders may be random. Since the carrying costs increase from stage to stage, the standard production procedure, that is, to determine a total leadtime for the entire order by taking an appropriate percentile of the distribution of total processing time and then release the order immediately from stage to stage during the process, may not be optimal since it ignores inventory carrying costs. This article studies a per stage planned leadtime dispatching policy for such systems. The order will not be released immediately to the next workstation prior to a predetermined delivery time, or planned leadtime. The vector of planned leadtimes at workstations is to be determined by trading off expected holding costs at all stages and expected penalty costs for exceeding the total planned leadtime. We show that the optimal vector of planned leadtimes may be obtained efficiently by solving an equivalent serial inventory model of the type considered in Clark and Scarf (1960).
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.629
+UR  - https://doi.org/10.1287/mnsc.40.5.629
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Pricing and Delivery-Time Performance in a Competitive Environment
+AU  - Li, Lode
+AU  - Lee, Yew Sing
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.633
+DO  - 10.1287/mnsc.40.5.633
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 633
+EP  - 646
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - We present a model of market competition in which customer preferences are over not only price and quality but also delivery speed. This allows a study of market demand and firms' decisions on price, quality, technology and responsiveness in a competitive environment. When demand arises, a customer chooses the firm that maximizes its expected utility of price, quality and response time. The demand function for each firm is derived by analyzing a queueing system with competing servers. We then study price competition among firms with differentiated processing rates. In the equilibrium, the firm with a higher processing rate always enjoys a price premium, and, further, enjoys a larger market share when its opponent also has adequate processing rate to serve all the customers alone.
+AB  - We present a model of market competition in which customer preferences are over not only price and quality but also delivery speed. This allows a study of market demand and firms' decisions on price, quality, technology and responsiveness in a competitive environment. When demand arises, a customer chooses the firm that maximizes its expected utility of price, quality and response time. The demand function for each firm is derived by analyzing a queueing system with competing servers. We then study price competition among firms with differentiated processing rates. In the equilibrium, the firm with a higher processing rate always enjoys a price premium, and, further, enjoys a larger market share when its opponent also has adequate processing rate to serve all the customers alone.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.633
+UR  - https://doi.org/10.1287/mnsc.40.5.633
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - A Network Model to Maximize Navy Personnel Readiness and Its Solution
+AU  - Krass, Iosif A.
+AU  - Pinar, Mustafa Ç.
+AU  - Thompson, Theodore J.
+AU  - Zenios, Stavros A.
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.647
+DO  - 10.1287/mnsc.40.5.647
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 647
+EP  - 661
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - The problem of optimally (re)allocating Navy personnel to combat units is compounded by several considerations: availability of trained personnel, staffing of positions by occupation groups or ranks, and maintaining an acceptable level of readiness. In this paper we model this problem as a nonlinear nondifferentiable optimization problem. A reformulation of the nonlinear optimization problem as a network flow problem is then developed. The formulation results in a network flow problem with side constraints. An additional, nonnetwork, variable measures the readiness level. This new formulation permits the use of network optimization tools in order to solve effectively very large problems. We then develop two numerical methods for solving this problem. One method is based on a heuristic that solves (approximately) the nondifferentiable problem. The second method is based on a Linear-Quadratic Penalty (LQP) algorithm, and it exploits the embedded network structure by placing the side constraints into the objective function. The resulting nonlinear network program is solved using a simplicial decomposition of the network constraint set. Numerical results indicate the viability of this approach on problems with up to 36,000 arcs and 17,000 nodes with 3,700 side constraints.
+AB  - The problem of optimally (re)allocating Navy personnel to combat units is compounded by several considerations: availability of trained personnel, staffing of positions by occupation groups or ranks, and maintaining an acceptable level of readiness. In this paper we model this problem as a nonlinear nondifferentiable optimization problem. A reformulation of the nonlinear optimization problem as a network flow problem is then developed. The formulation results in a network flow problem with side constraints. An additional, nonnetwork, variable measures the readiness level. This new formulation permits the use of network optimization tools in order to solve effectively very large problems. We then develop two numerical methods for solving this problem. One method is based on a heuristic that solves (approximately) the nondifferentiable problem. The second method is based on a Linear-Quadratic Penalty (LQP) algorithm, and it exploits the embedded network structure by placing the side constraints into the objective function. The resulting nonlinear network program is solved using a simplicial decomposition of the network constraint set. Numerical results indicate the viability of this approach on problems with up to 36,000 arcs and 17,000 nodes with 3,700 side constraints.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.647
+UR  - https://doi.org/10.1287/mnsc.40.5.647
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - The Generating Process and an Extension of Jewitt's Location Independent Risk Concept
+AU  - Landsberger, Michael
+AU  - Meilijson, Isaac
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.662
+DO  - 10.1287/mnsc.40.5.662
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 662
+EP  - 669
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - A generating process of Jewitt's location independent risk concept is derived in terms of left stretches based on single crossings between distributions. For concave nondecreasing utility functions this stochastic order preserves monotonicity between risk premium and the Arrow-Pratt measure of risk aversion. We show that a stronger order, the Bickel-Lehmann notion of dispersion, preserves this monotonicity for the larger class of nondecreasing utilities.
+AB  - A generating process of Jewitt's location independent risk concept is derived in terms of left stretches based on single crossings between distributions. For concave nondecreasing utility functions this stochastic order preserves monotonicity between risk premium and the Arrow-Pratt measure of risk aversion. We show that a stronger order, the Bickel-Lehmann notion of dispersion, preserves this monotonicity for the larger class of nondecreasing utilities.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.662
+UR  - https://doi.org/10.1287/mnsc.40.5.662
+Y2  - 2024/03/28
+ER  - 
+
+TY  - JOUR
+T1  - Marginal Conditional Stochastic Dominance
+AU  - Shalit, Haim
+AU  - Yitzhaki, Shlomo
+Y1  - 1994/05/01
+PY  - 1994
+DA  - 1994/05/01
+N1  - doi: 10.1287/mnsc.40.5.670
+DO  - 10.1287/mnsc.40.5.670
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 670
+EP  - 684
+VL  - 40
+IS  - 5
+PB  - INFORMS
+N2  - This paper introduces the concept of Marginal Conditional Stochastic Dominance (MCSD), which states the conditions under which all risk-averse individuals, when presented with a given portfolio, prefer to increase the share of one risky asset over that of another. MCSD rules also answer the question of whether all risk-averse individuals include a new asset in their portfolio when assets' returns are correlated. MCSD criteria are expressed in terms of the probability distributions of the assets and of the underlying portfolio. An empirical application of MCSD is provided using stocks traded on the New York Stock Exchange. MCSD rules are used to show that, in the long run, one cannot assert that the market portfolio is inefficient.
+AB  - This paper introduces the concept of Marginal Conditional Stochastic Dominance (MCSD), which states the conditions under which all risk-averse individuals, when presented with a given portfolio, prefer to increase the share of one risky asset over that of another. MCSD rules also answer the question of whether all risk-averse individuals include a new asset in their portfolio when assets' returns are correlated. MCSD criteria are expressed in terms of the probability distributions of the assets and of the underlying portfolio. An empirical application of MCSD is provided using stocks traded on the New York Stock Exchange. MCSD rules are used to show that, in the long run, one cannot assert that the market portfolio is inefficient.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.40.5.670
+UR  - https://doi.org/10.1287/mnsc.40.5.670
+Y2  - 2024/03/28
+ER  - 

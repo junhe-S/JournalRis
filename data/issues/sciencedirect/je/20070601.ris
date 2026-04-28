@@ -1,0 +1,234 @@
+TY  - JOUR
+T1  - Some aspects of the history of Bayesian information processing
+AU  - Zellner, Arnold
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 388
+EP  - 404
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000753
+KW  - Bayes's theorem
+KW  - Information theory
+KW  - Optimal information processing rules
+KW  - Learning from data
+KW  - Statistical inference
+AB  - For many years, traditional Bayesian (TB) and information theoretic (IT) procedures for learning from data were viewed as distinctly different approaches. Derivations of the TB and IT learning models are reviewed and compared. Then the synthesis by Zellner in 1988 of the TB and IT learning models and generalizations of them are described along with descriptions of selected applications. Included are learning procedures that do not require use of likelihood functions and/or priors. Works by leading Bayesians and information theorists are cited and related to TB/IT issues.
+ER  - 
+
+TY  - JOUR
+T1  - Information optimality and Bayesian modelling
+AU  - Clarke, Bertrand
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 405
+EP  - 429
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000765
+KW  - Entropy
+KW  - Bayesian method of moments
+KW  - Reference priors
+KW  - Stochastic complexity
+KW  - Data dependent priors
+AB  - The general approach of treating a statistical problem as one of information processing led to the Bayesian method of moments, reference priors, minimal information likelihoods, and stochastic complexity. These techniques rest on quantities that have physical interpretations from information theory. Current work includes: the role of prediction, the emergence of data dependent priors, the role of information measures in model selection, and the use of conditional mutual information to incorporate partial information.
+ER  - 
+
+TY  - JOUR
+T1  - A versatile and robust metric entropy test of time-reversibility, and other hypotheses
+AU  - Racine, Jeffrey S.
+AU  - Maasoumi, Esfandiar
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 547
+EP  - 567
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000820
+KW  - Nonparametric
+KW  - Kernel
+KW  - Density
+KW  - Information-theoretic
+KW  - Time series
+AB  - We examine the performance of a metric entropy statistic as a robust test for time-reversibility (TR), symmetry, and serial dependence. It also serves as a measure of goodness-of-fit. The statistic provides a consistent and unified basis in model search, and is a powerful diagnostic measure with surprising ability to pinpoint areas of model failure. We provide empirical evidence comparing the performance of the proposed procedure with some of the modern competitors in nonlinear time-series analysis, such as robust implementations of the BDS and characteristic function-based tests of TR, along with correlation-based competitors such as the Ljung–Box Q-statistic. Unlike our procedure, each of its competitors is motivated for a different, specific, context and hypothesis. Our evidence is based on Monte Carlo simulations along with an application to several stock indices for the US equity market.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient information theoretic inference for conditional moment restrictions
+AU  - Smith, Richard J.
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 430
+EP  - 460
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000777
+KW  - Conditional moment restrictions
+KW  - Local Cressie–Read minimum discrepancy
+KW  - GMM
+KW  - Semi-parametric efficiency
+AB  - The generalised method of moments estimator may be substantially biased in finite samples, especially so when there are large numbers of unconditional moment conditions. This paper develops a class of first-order equivalent semi-parametric efficient estimators and tests for conditional moment restrictions models based on a local or kernel-weighted version of the Cressie–Read power divergence family of discrepancies. This approach is similar in spirit to the empirical likelihood methods of Kitamura et al. [2004. Empirical likelihood-based inference in conditional moment restrictions models. Econometrica 72, 1667–1714] and Tripathi and Kitamura [2003. Testing conditional moment restrictions. Annals of Statistics 31, 2059–2095]. These efficient local methods avoid the necessity of explicit estimation of the conditional Jacobian and variance matrices of the conditional moment restrictions and provide empirical conditional probabilities for the observations.
+ER  - 
+
+TY  - JOUR
+T1  - Information measures for generalized gamma family
+AU  - Dadpay, Ali
+AU  - Soofi, Ehsan S.
+AU  - Soyer, Refik
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 568
+EP  - 585
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000832
+KW  - Entropy
+KW  - Exponential
+KW  - Gamma
+KW  - Kullback–Leibler information
+KW  - Model fitting
+KW  - Weibull
+AB  - The objective of this paper is to integrate the generalized gamma (GG) distribution into the information theoretic literature. We study information properties of the GG distribution and provide an assortment of information measures for the GG family, which includes the exponential, gamma, Weibull, and generalized normal distributions as its subfamilies. The measures include entropy representations of the log-likelihood ratio, AIC, and BIC, discriminating information between GG and its subfamilies, a minimum discriminating information function, power transformation information, and a maximum entropy index of fit to histogram. We provide the full parametric Bayesian inference for the discrimination information measures. We also provide Bayesian inference for the fit of GG model to histogram, using a semi-parametric Bayesian procedure, referred to as the maximum entropy Dirichlet (MED). The GG information measures are computed for duration of unemployment and duration of CEO tenure.
+ER  - 
+
+TY  - JOUR
+T1  - On the efficient use of the informational content of estimating equations: Implied probabilities and Euclidean empirical likelihood
+AU  - Antoine, Bertille
+AU  - Bonnal, Hélène
+AU  - Renault, Eric
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 461
+EP  - 487
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000789
+KW  - Information-based inference
+KW  - Generalized method of moments
+KW  - Continuous updating
+KW  - Empirical likelihood
+KW  - Control variates
+AB  - A number of information-theoretic alternatives to GMM have recently been proposed in the literature. For practical use and general interpretation, the main drawback of these alternatives, particularly in the case of conditional moment restrictions, is that they give up the computational and interpretational simplicity of quadratic optimization. The main contribution of this paper is to analyze the informational content of estimating equations within the unified framework of Chi-square distance. Improved inference by control variables, closed form formulae for implied probabilities and information-theoretic interpretations of continuously updated GMM are discussed in the two cases of unconditional and conditional moment restrictions.
+ER  - 
+
+TY  - JOUR
+T1  - Information in generalized method of moments estimation and entropy-based moment selection
+AU  - Hall, Alastair R.
+AU  - Inoue, Atsushi
+AU  - Jana, Kalidas
+AU  - Shin, Changmock
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 488
+EP  - 512
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000790
+KW  - Long run canonical correlations
+KW  - Efficiency
+KW  - Near redundancy
+KW  - Weak identification
+AB  - In this paper, we make five contributions to the literature on information and entropy in generalized method of moments (GMM) estimation. First, we introduce the concept of the long run canonical correlations (LRCCs) between the true score vector and the moment function f(vt,θ0) and show that they provide a metric for the information contained in the population moment condition E[f(vt,θ0)]=0. Second, we show that the entropy of the limiting distribution of the GMM estimator can be written in terms of these LRCCs. Third, motivated by the above results, we introduce an information criterion based on this entropy that can be used as a basis for moment selection. Fourth, we introduce the concept of nearly redundant moment conditions and use it to explore the connection between redundancy and weak identification. Fifth, we analyse the behaviour of the aforementioned entropy-based moment selection method in two scenarios of interest; these scenarios are: (i) nonlinear dynamic models where the parameter vector is identified by all the combinations of moment conditions considered; (ii) linear static models where the parameter vector may be weakly identified for some of the combinations considered. The first of these contributions rests on a generalized information equality that is proved in the paper, and may be of interest in its own right.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference in the case of competing sets of estimating equations
+AU  - Judge, George G.
+AU  - Mittelhammer, Ron C.
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 513
+EP  - 531
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000807
+KW  - Semiparametric estimation and inference
+KW  - Empirical likelihood
+KW  - Convex combination of estimators
+KW  - Asymptotic and finite sample risk
+AB  - When there is uncertainty concerning the appropriate statistical model and corresponding estimators and inference methods, we use the Cressie–Read measure of divergence to define a semiparametric estimator, β¯(α^), that combines plausible estimation problems. This estimation procedure identifies, conditional on the data, an optimal combination of competing estimators for the unknown parameters associated with the alternative plausible structural model specifications. The optimization is handled internally and avoids the tuning parameters usually necessary in problems of this type. To illustrate finite sample performance, an extensive sampling experiment is conducted to demonstrate the adaptive nature of the estimator for an array of data sampling specifications.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - IFC
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(07)00069-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407607000693
+ER  - 
+
+TY  - JOUR
+T1  - GMM estimation of a maximum entropy distribution with interval data
+AU  - Wu, Ximing
+AU  - Perloff, Jeffrey M.
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 532
+EP  - 546
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000819
+KW  - Density estimation
+KW  - Grouped data
+KW  - GMM
+KW  - Maximum entropy
+AB  - We develop a generalized method of moments (GMM) estimator for the distribution of a variable where summary statistics are available only for intervals of the random variable. Without individual data, one cannot calculate the weighting matrix for the GMM estimator. Instead, we propose a simulated weighting matrix based on a first-step consistent estimate. When the functional form of the underlying distribution is unknown, we estimate it using a simple yet flexible maximum entropy density. Our Monte Carlo simulations show that the proposed maximum entropy density is able to approximate various distributions extremely well. The two-step GMM estimator with a simulated weighting matrix improves the efficiency of the one-step GMM considerably. We use this method to estimate the U.S. income distribution and compare these results with those based on the underlying raw income data.
+ER  - 
+
+TY  - JOUR
+T1  - Information and entropy econometrics – volume overview and synthesis
+AU  - Golan, Amos
+JO  - Journal of Econometrics
+VL  - 138
+IS  - 2
+SP  - 379
+EP  - 387
+PY  - 2007
+DA  - 2007/06/01/
+T2  - 'Information and Entropy Econometrics'
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2006.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407606000741
+ER  - 

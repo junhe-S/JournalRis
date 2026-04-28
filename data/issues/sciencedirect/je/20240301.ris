@@ -1,0 +1,411 @@
+TY  - JOUR
+T1  - Standard errors for panel data models with unknown clusters
+AU  - Bai, Jushan
+AU  - Choi, Sung Hoon
+AU  - Liao, Yuan
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105004
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303341
+KW  - Panel data
+KW  - Clustered standard errors
+KW  - Thresholding
+KW  - Cross-sectional correlation
+KW  - Serial correlation
+KW  - Heteroskedasticity
+AB  - This paper develops a new standard-error estimator for linear panel data models. The proposed estimator is robust to heteroskedasticity, serial correlation, and cross-sectional correlation of unknown forms. The serial correlation is controlled by the Newey–West method. To control for cross-sectional correlations, we propose to use the thresholding method, without assuming the clusters to be known. We establish the consistency of the proposed estimator. Monte Carlo simulations show the method works well. An empirical application is considered.
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable estimation with first-stage heterogeneity
+AU  - Abadie, Alberto
+AU  - Gu, Jiaying
+AU  - Shen, Shu
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105425
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000702
+KW  - 2SLS
+KW  - First-stage heterogeneity
+KW  - Asymptotic MSE
+KW  - Pre-testing
+AB  - We propose a simple data-driven procedure that exploits heterogeneity in the first-stage correlation between an instrument and an endogenous variable to improve the asymptotic mean squared error (MSE) of instrumental variable estimators. We show that the resulting gains in asymptotic MSE can be quite large in settings where there is substantial heterogeneity in the first-stage parameters. We also show that a naive procedure used in some applied work, which consists of selecting the composition of the sample based on the value of the first-stage t-statistic, may cause substantial over-rejection of a null hypothesis on a second-stage parameter. We apply the methods to study (1) the return to schooling using the minimum school leaving age as the exogenous instrument and (2) the effect of local economic conditions on voter turnout using energy supply shocks as the source of identification.
+ER  - 
+
+TY  - JOUR
+T1  - Kernel density estimation for undirected dyadic data
+AU  - Graham, Bryan S.
+AU  - Niu, Fengshi
+AU  - Powell, James L.
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105336
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001610
+KW  - Networks
+KW  - Dyads
+KW  - Kernel density estimation
+AB  - We study nonparametric estimation of density functions for undirected dyadic random variables (i.e., random variables defined for all n≡defN2 unordered pairs of agents/nodes in a weighted network of order N). These random variables satisfy a local dependence property: any random variables in the network that share one or two indices may be dependent, while those sharing no indices in common are independent. In this setting, we show that density functions may be estimated by an application of the kernel estimation method of Rosenblatt (1956) and Parzen (1962). We suggest an estimate of their asymptotic variances inspired by a combination of (i) Newey’s (1994) method of variance estimation for kernel estimators in the “monadic” setting and (ii) a variance estimator for the (estimated) density of a simple network first suggested by Holland and Leinhardt (1976). More unusual are the rates of convergence and asymptotic (normal) distributions of our dyadic density estimates. Specifically, we show that they converge at the same rate as the (unconditional) dyadic sample mean: the square root of the number, N, of nodes. This differs from the results for nonparametric estimation of densities and regression functions for monadic data, which generally have a slower rate of convergence than their corresponding sample mean.
+ER  - 
+
+TY  - JOUR
+T1  - Is Newey–West optimal among first-order kernels?
+AU  - Kolokotrones, Thomas
+AU  - Stock, James H.
+AU  - Walker, Christopher D.
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105399
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000301
+KW  - Heteroskedasticity- and autocorrelation-robust estimation
+KW  - HAR
+KW  - Long-run variance estimator
+KW  - Kernel
+AB  - Newey–West (1987) standard errors are the dominant standard errors used for heteroskedasticity and autocorrelation robust (HAR) inference in time series regression. The Newey–West estimator uses the Bartlett kernel, which is a first-order kernel, meaning that its characteristic exponent, q, is equal to 1, where q is defined as the largest value of r for which the quantity k[r](0)=limt→0|t|−r(k(0)−k(t)) is defined and finite. This raises the apparently uninvestigated question of whether the Bartlett kernel is optimal among first-order kernels. We demonstrate that, for q<2, there is no optimal qth-order kernel for HAR testing in the Gaussian location model or for minimizing the MSE in spectral density estimation. In fact, for any q<2, the space of qth-order positive-semidefinite kernels is not closed and, moreover, all continuous qth-order kernels can be decomposed into a weighted sum of qth and second-order kernels, which suggests that there is no meaningful notion of ‘pure’ qth-order kernels for q<2. Nevertheless, it is possible to rank any given collection of qth-order kernels using the functional Iq[k]=k[q](0)1/q∫k2(t)dt with smaller values corresponding to better asymptotic performance. We examine the value of Iq[k] for a wide variety of first-order estimators and find that none improve upon the Bartlett kernel. These comparisons provide additional justification for the continued use of the Newey–West estimator with testing-optimal smoothing parameters and fixed-b critical values despite the lack of optimality of Bartlett among first-order kernels.
+ER  - 
+
+TY  - JOUR
+T1  - A comparison of the GB2 and skewed generalized log-t distributions with an application in finance
+AU  - Higbee, Joshua D.
+AU  - McDonald, James B.
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105064
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000154
+KW  - Beta prime
+KW  - Double-Pareto
+KW  - Feller-Pareto
+KW  - SGT
+KW  - Stock returns
+AB  - Several families of statistical distributions have been used to model financial data. The four-parameter generalized beta of the second kind (GB2) and five-parameter skewed generalized t (SGT) have been fit to return and log-return data, respectively. We introduce the skewed generalized log-t (SGLT) distribution and note that the GB2 and SGLT share such distributions as the asymmetric log-Laplace (ALL), log-Laplace (LL), and log-normal (LN). We then compare the relative performance of the GB2 and SGLT in modeling the distribution of daily, weekly, and monthly stock return data. We find that the GB2 and SGLT perform similarly and that the three-parameter log-t (LT) distribution is quite robust.
+ER  - 
+
+TY  - JOUR
+T1  - Using Wasserstein Generative Adversarial Networks for the design of Monte Carlo simulations
+AU  - Athey, Susan
+AU  - Imbens, Guido W.
+AU  - Metzger, Jonas
+AU  - Munro, Evan
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105076
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000440
+AB  - When researchers develop new econometric methods it is common practice to compare the performance of the new methods to those of existing methods in Monte Carlo studies. The credibility of such Monte Carlo studies is often limited because of the discretion the researcher has in choosing the Monte Carlo designs reported. To improve the credibility we propose using a class of generative models that has recently been developed in the machine learning literature, termed Generative Adversarial Networks (GANs) which can be used to systematically generate artificial data that closely mimics existing datasets. Thus, in combination with existing real data sets, GANs can be used to limit the degrees of freedom in Monte Carlo study designs for the researcher, making any comparisons more convincing. In addition, if an applied researcher is concerned with the performance of a particular statistical method on a specific data set (beyond its theoretical properties in large samples), she can use such GANs to assess the performance of the proposed method, e.g. the coverage rate of confidence intervals or the bias of the estimator, using simulated data which closely resembles the exact setting of interest. To illustrate these methods we apply Wasserstein GANs (WGANs) to the estimation of average treatment effects. In this example, we find that (i) there is not a single estimator that outperforms the others in all three settings, so researchers should tailor their analytic approach to a given setting, (ii) systematic simulation studies can be helpful for selecting among competing methods in this situation, and (iii) the generated data closely resemble the actual data.
+ER  - 
+
+TY  - JOUR
+T1  - Nonseparable sample selection models with censored selection rules
+AU  - Fernández-Val, Ivan
+AU  - van Vuuren, Aico
+AU  - Vella, Francis
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105088
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000567
+KW  - Sample selection
+KW  - Nonseparable models
+KW  - Control function
+KW  - Quantile and distribution regression
+AB  - We consider identification and estimation of nonseparable sample selection models with censored selection rules. We employ a control function approach and discuss different objects of interest based on (1) local effects conditional on the control function, and (2) global effects obtained from integration over ranges of values of the control function. We derive conditions for identification of these different objects and suggest strategies for estimation. Moreover, we provide the associated asymptotic theory. These strategies are illustrated in an empirical investigation of the determinants of female wages in the United Kingdom.
+ER  - 
+
+TY  - JOUR
+T1  - Network and panel quantile effects via distribution regression
+AU  - Chernozhukov, Victor
+AU  - Fernández-Val, Iván
+AU  - Weidner, Martin
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105009
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303390
+KW  - Quantile effects
+KW  - Counterfactual distributions
+KW  - Fixed effects
+KW  - Incidental parameter problem
+KW  - Long panels
+AB  - This paper provides a method to construct simultaneous confidence bands for quantile functions and quantile effects in nonlinear network and panel models with unobserved two-way effects, strictly exogenous covariates, and possibly discrete outcome variables. The method is based upon projection of simultaneous confidence bands for distribution functions constructed from fixed effects distribution regression estimators. These fixed effects estimators are debiased to deal with the incidental parameter problem. Under asymptotic sequences where both dimensions of the data set grow at the same rate, the confidence bands for the quantile functions and effects have correct joint coverage in large samples. An empirical application to gravity models of trade illustrates the applicability of the methods to network data.
+ER  - 
+
+TY  - JOUR
+T1  - One instrument to rule them all: The bias and coverage of just-ID IV
+AU  - Angrist, Joshua
+AU  - Kolesár, Michal
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105398
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623000295
+KW  - Instrumental variables
+KW  - Weak instruments
+KW  - Bias
+KW  - Confidence intervals
+AB  - We revisit the finite-sample behavior of single-variable just-identified instrumental variables (just-ID IV) estimators, arguing that in most microeconometric applications, the usual inference strategies are likely reliable. Three widely-cited applications are used to explain why this is so. We then consider pretesting strategies of the form t1>c, where t1 is the first-stage t-statistic, and the first-stage sign is given. Although pervasive in empirical practice, pretesting on the first-stage F-statistic exacerbates bias and distorts inference. We show, however, that median bias is both minimized and roughly halved by setting c=0, that is by screening on the sign of the estimated first stage. This bias reduction is a free lunch: conventional confidence interval coverage is unchanged by screening on the estimated first-stage sign. To the extent that IV analysts sign-screen already, these results strengthen the case for a sanguine view of the finite-sample behavior of just-ID IV.
+ER  - 
+
+TY  - JOUR
+T1  - Testing and relaxing the exclusion restriction in the control function approach
+AU  - D’Haultfœuille, Xavier
+AU  - Hoderlein, Stefan
+AU  - Sasaki, Yuya
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105075
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000439
+KW  - Identification
+KW  - Control function
+KW  - Endogenous regressors
+KW  - Exclusion restriction
+KW  - Nonseparable models
+AB  - The control function approach which employs an instrumental variable excluded from the outcome equation is a very common solution to deal with the problem of endogeneity in nonseparable models. Exclusion restrictions, however, are frequently controversial. We first argue that, in a nonparametric triangular structure typical of the control function literature, one can actually test this exclusion restriction provided the instrument satisfies a local irrelevance condition. Second, we investigate identification without such exclusion restrictions, i.e., if the “instrument” that is independent of the unobservables in the outcome equation also directly affects the outcome variable. In particular, we show that identification of average causal effects can be achieved in the two most common special cases of the general nonseparable model: linear random coefficients models and single index models.
+ER  - 
+
+TY  - JOUR
+T1  - Testing underidentification in linear models, with applications to dynamic panel and asset pricing models
+AU  - Windmeijer, Frank
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105104
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.007
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762100097X
+KW  - Overidentification
+KW  - Underidentification
+KW  - Rank tests
+KW  - Dynamic panel data models
+KW  - Asset pricing models
+AB  - This paper develops the links between overidentification tests, underidentification tests, score tests and the Cragg and Donald (1993, 1997) and Kleibergen and Paap (2006) rank tests in linear instrumental variable (IV) models. For the structural linear model y=Xβ+u, with the endogenous explanatory variables partitioned as X=x1X2, this general framework shows that standard underidentification tests are tests for overidentification in an auxiliary linear model, x1=X2δ+ɛ, estimated by IV estimation methods using the same instruments as for the original model. This simple structure makes it possible to establish valid robust underidentification tests for linear IV models where these have not been proposed or used before, like clustered dynamic panel data models estimated by GMM. The framework also applies to tests for the rank of general parameter matrices. Invariant rank tests are based on the LIML or continuously updated GMM estimators of both structural and first-stage parameters. This insight leads to the proposal of new two-step invariant asymptotically efficient GMM estimators, and a new iterated GMM estimator that, if it converges, converges to the continuously updated GMM estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Local regression distribution estimators
+AU  - Cattaneo, Matias D.
+AU  - Jansson, Michael
+AU  - Ma, Xinwei
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105074
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000427
+KW  - Distribution and density estimation
+KW  - Local polynomial methods
+KW  - Uniform approximation
+KW  - Efficiency
+KW  - Optimal kernel
+KW  - Program evaluation
+AB  - This paper investigates the large sample properties of local regression distribution estimators, which include a class of boundary adaptive density estimators as a prime example. First, we establish a pointwise Gaussian large sample distributional approximation in a unified way, allowing for both boundary and interior evaluation points simultaneously. Using this result, we study the asymptotic efficiency of the estimators, and show that a carefully crafted minimum distance implementation based on “redundant” regressors can lead to efficiency gains. Second, we establish uniform linearizations and strong approximations for the estimators, and employ these results to construct valid confidence bands. Third, we develop extensions to weighted distributions with estimated weights and to local L2 estimation. Finally, we illustrate our methods with two applications in program evaluation: counterfactual density testing, and IV specification and heterogeneity density analysis. Companion software packages in Stata and R are available.
+ER  - 
+
+TY  - JOUR
+T1  - Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators
+AU  - Liu, Lin
+AU  - Mukherjee, Rajarshi
+AU  - Robins, James M.
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105500
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.105500
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623002166
+KW  - Econometrics
+KW  - Machine learning
+KW  - Causal inference
+KW  - Doubly robust functionals
+KW  - Higher-order -statistics
+KW  - Higher-order influence functions
+AB  - The class of doubly robust (DR) functionals studied by Rotnitzky et al. (2021) is of central importance in economics and biostatistics. It strictly includes both (i) the class of mean-square continuous functionals that can be written as an expectation of an affine functional of a conditional expectation studied by Chernozhukov et al. (2022b) and the class of functionals studied by Robins et al. (2008). The present state-of-the-art estimators for DR functionals ψ are double-machine-learning (DML) estimators (Chernozhukov et al., 2018a). A DML estimator ψ̂1 of ψ depends on estimates p̂(x) and b̂(x) of a pair of nuisance functions p(x) and b(x), and is said to satisfy “rate double-robustness” if the Cauchy–Schwarz upper bound of its bias is o(n−1/2). Rate double-robustness implies that the bias is o(n−1/2), but the converse is false. Were it achievable, our scientific goal would have been to construct valid, assumption-lean (i.e. no complexity-reducing assumptions on b or p) tests of the validity of a nominal (1−α) Wald confidence interval (CI) centered at ψ̂1. But this would require a test of the bias to be o(n−1/2), which can be shown not to exist. We therefore adopt the less ambitious goal of falsifying, when possible, an analyst’s justification for her claim that the reported (1−α) Wald CI is valid. In many instances, an analyst justifies her claim by imposing complexity-reducing assumptions on b and p to ensure “rate double-robustness”. Here we exhibit valid, assumption-lean tests of H0: “rate double-robustness holds”, with non-trivial power against certain alternatives. If H0 is rejected, we will have falsified her justification. However, no assumption-lean test of H0, including ours, can be a consistent test. Thus, the failure of our test to reject is not meaningful evidence in favor of H0.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105698
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00044-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000447
+ER  - 
+
+TY  - JOUR
+T1  - Testing unconditional and conditional independence via mutual information
+AU  - Ai, Chunrong
+AU  - Sun, Li-Hsien
+AU  - Zhang, Zheng
+AU  - Zhu, Liping
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105335
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2022.07.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622001609
+KW  - Convex optimization
+KW  - Density ratio
+KW  - Independence test
+KW  - Mutual information
+AB  - Testing independence has garnered increasing attention in the econometric and statistical literature. Many tests have been proposed, most of which are inconsistent against all departures from independence. Few of those tests, though consistent, suffer a significant loss of local power. This study proposes a mutual information test for testing independence. The proposed test is simple to implement and, with a slight loss of local power, is consistent against all departures from independence. The key driving factor is that we estimate the density ratio directly. This value is constant in a state of independence. This is in contrast with related studies that estimate the joint and marginal density functions to form the density ratio. A small-scale simulation study indicates that the proposed test outperforms the existing alternatives in various dependence structures.
+ER  - 
+
+TY  - JOUR
+T1  - Financially adaptive clinical trials via option pricing analysis
+AU  - Chaudhuri, Shomesh E.
+AU  - Lo, Andrew W.
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105026
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030364X
+KW  - Clinical trial design
+KW  - Bayesian adaptive platform trial
+KW  - Drug approval process
+KW  - Real options
+KW  - Capital budgeting
+AB  - The regulatory approval process for new therapies involves costly clinical trials that can span multiple years. When valuing a candidate therapy from a financial perspective, industry sponsors may terminate a program early if clinical evidence suggests market prospects are not as favorable as originally forecasted. Intuition suggests that clinical trials that can be modified as new data are observed, i.e., adaptive trials, are more valuable than trials without this flexibility. To quantify this value, we propose modeling the accrual of information in a clinical trial as a sequence of real options, allowing us to systematically design early-stopping decision boundaries that maximize the economic value to the sponsor. In an empirical analysis of selected disease areas, we find that when a therapy is ineffective, our adaptive financing method can decrease the expected cost incurred by the sponsor in terms of total expenditures, number of patients, and trial length by up to 46%. Moreover, by amortizing the large fixed costs associated with a clinical trial over time, financing these projects becomes less risky, resulting in lower costs of capital and larger valuations when the therapy is effective.
+ER  - 
+
+TY  - JOUR
+T1  - Heterogeneity of consumption responses to income shocks in the presence of nonlinear persistence
+AU  - Arellano, Manuel
+AU  - Blundell, Richard
+AU  - Bonhomme, Stéphane
+AU  - Light, Jack
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105449
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2023.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407623001434
+KW  - Nonlinear income persistence
+KW  - Consumption dynamics
+KW  - Partial insurance
+KW  - Heterogeneity
+KW  - Panel data
+AB  - In this paper we use the enhanced consumption data in the Panel Survey of Income Dynamics (PSID) from 2005–2017 to explore the transmission of income shocks to consumption. We build on the nonlinear quantile framework introduced in Arellano et al. (2017). Our focus is on the estimation of consumption responses to persistent nonlinear income shocks in the presence of unobserved heterogeneity. To reliably estimate heterogeneous responses in our unbalanced panel, we develop Sequential Monte Carlo computational methods. We find substantial heterogeneity in consumption responses, and uncover latent types of households with different life-cycle consumption behavior. Ordering types according to their average log-consumption, we find that low-consumption types respond more strongly to income shocks at the beginning of the life cycle and when their assets are low, as standard life-cycle theory would predict. In contrast, high-consumption types respond less on average, and in a way that changes little with age or assets. We examine various mechanisms that might explain this heterogeneity.
+ER  - 
+
+TY  - JOUR
+T1  - On uniform inference in nonlinear models with endogeneity
+AU  - Khan, Shakeeb
+AU  - Nekipelov, Denis
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105261
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407622000409
+KW  - Selection on observables and unobservables
+KW  - Uniform inference
+KW  - Fixed and drifting sequences
+AB  - This paper explores the uniformity of inference for parameters of interest in nonlinear econometric models with endogeneity. Here the notion of uniformity arises because the behavior of estimators of parameters of interest is shown to vary with where either they or nuisance parameters lie in the parameter space. As a result, inference becomes nonstandard in a fashion that is loosely analogous to inference complications found in the unit root and weak instruments literature, as well as the models recently studied in Andrews and Cheng (2012), Chen et al. (2014), Han and McCloskey (2019). Our main illustrative example is the standard sample selection model, where the parameter of interest is the intercept term as in Heckman (1990), Andrews and Schafgans (1998) and Lewbel (2007). We show here there is a discontinuity in the limiting distribution for an estimator of this parameter despite it being uniformly consistent. This discontinuity prevents standard inference procedures from being valid, and motivates the development of new methods, for which we establish asymptotic properties. Finite sample properties of the procedure are explored through a simulation study and an empirical illustration using the Mroz (1987) data set as in Newey, Powell, and Walker (1990).
+ER  - 
+
+TY  - JOUR
+T1  - Maximum likelihood estimation of latent Markov models using closed-form approximations
+AU  - Aït-Sahalia, Yacine
+AU  - Li, Chenxu
+AU  - Li, Chen Xu
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105008
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303389
+KW  - Markov vector
+KW  - Diffusion
+KW  - Likelihood
+KW  - Latent state variables
+KW  - Integrating out
+KW  - Markov Chain Monte Carlo
+AB  - This paper proposes and implements an efficient and flexible method to compute maximum likelihood estimators of continuous-time models when part of the state vector is latent. Stochastic volatility and term structure models are typical examples. Existing methods integrate out the latent variables using either simulations as in MCMC, or replace the latent variables by observable proxies. By contrast, our approach relies on closed-form approximations to estimate parameters and simultaneously infer the distribution of filters, i.e., that of the latent states conditioning on observations. Without any particular assumption on the filtered distribution, we approximate in closed form a coupled iteration system for updating the likelihood function and filters based on the transition density of the state vector. Our procedure has a linear computational cost with respect to the number of observations, as opposed to the exponential cost implied by the high dimensional integral nature of the likelihood function. We establish the theoretical convergence of our method as the frequency of observation increases and conduct Monte Carlo simulations to demonstrate its performance.
+ER  - 
+
+TY  - JOUR
+T1  - Whitney Newey’s contributions to econometrics
+AU  - Abadie, Alberto
+AU  - Angrist, Joshua
+AU  - Imbens, Guido
+JO  - Journal of Econometrics
+VL  - 240
+IS  - 2
+SP  - 105688
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105688
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624000344
+ER  - 

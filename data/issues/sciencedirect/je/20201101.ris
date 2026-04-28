@@ -1,0 +1,211 @@
+TY  - JOUR
+T1  - Specification test on mixed logit models
+AU  - Hahn, Jinyong
+AU  - Hausman, Jerry
+AU  - Lustig, Josh
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 19
+EP  - 37
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.03.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301184
+KW  - Multinomial choice model
+KW  - Specification test
+AB  - This paper proposes a specification test of the mixed logit models, by generalizing Hausman and McFadden (1984) test. We generalize the test even further by considering a model developed by Berry et al. (1995).
+ER  - 
+
+TY  - JOUR
+T1  - Panel threshold models with interactive fixed effects
+AU  - Miao, Ke
+AU  - Li, Kunpeng
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 137
+EP  - 170
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.05.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302396
+KW  - Cross sectional dependence
+KW  - Dynamic panel
+KW  - Economic growth
+KW  - Financial development
+KW  - Likelihood ratio test
+KW  - Threshold regression
+AB  - This paper studies estimation and inference in a panel threshold model in the presence of interactive fixed effects. We study the asymptotic properties of the least squares estimators of the regression parameters in the shrinking-threshold-effect framework. We find that under some regularity conditions, the threshold parameter estimator possesses super-consistency in the sense that its estimation error has an asymptotically negligible effect on the asymptotic properties of the slope coefficients. The inference on the threshold parameter can be conducted based on a likelihood ratio test statistic as in the cross-sectional or time series setup. We also propose a test for the presence of the threshold effect. Monte Carlo simulations suggest that our estimators and test statistics perform well in finite samples. We apply our method to study the effect of financial development on economic growth and find that there is indeed a turning point in the effect for all three measures of financial development when the cross-sectional dependence is properly accounted for.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification of an interdependent value model with buyer covariates from first-price auction bids
+AU  - Gimenes, Nathalie
+AU  - Guerre, Emmanuel
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 1
+EP  - 18
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.12.018
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030110X
+KW  - First-price auction
+KW  - Interdependent values
+KW  - Nonparametric identification
+AB  - This paper introduces a version of the interdependent value model of Milgrom and Weber (1982), where the signals are given by an index gathering signal shifters observed by the econometrician and private ones specific to each bidders. The model primitives are shown to be nonparametrically identified from first-price auction bids under a testable mild rank condition. Identification holds for all possible signal values. This allows to consider a wide range of counterfactuals where this is important, as expected revenue in second-price auction. An estimation procedure is briefly discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Doubly robust difference-in-differences estimators
+AU  - Sant’Anna, Pedro H.C.
+AU  - Zhao, Jun
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 101
+EP  - 122
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301901
+KW  - Causal inference
+KW  - Difference-in-differences
+KW  - Natural experiments
+KW  - Panel data
+KW  - Repeated cross-section data
+KW  - Semiparametric efficiency
+AB  - This article proposes doubly robust estimators for the average treatment effect on the treated (ATT) in difference-in-differences (DID) research designs. In contrast to alternative DID estimators, the proposed estimators are consistent if either (but not necessarily both) a propensity score or outcome regression working models are correctly specified. We also derive the semiparametric efficiency bound for the ATT in DID designs when either panel or repeated cross-section data are available, and show that our proposed estimators attain the semiparametric efficiency bound when the working models are correctly specified. Furthermore, we quantify the potential efficiency gains of having access to panel data instead of repeated cross-section data. Finally, by paying particular attention to the estimation method used to estimate the nuisance parameters, we show that one can sometimes construct doubly robust DID estimators for the ATT that are also doubly robust for inference. Simulation studies and an empirical application illustrate the desirable finite-sample performance of the proposed estimators. Open-source software for implementing the proposed policy evaluation tools is available.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation and inference of change points in high-dimensional factor models
+AU  - Bai, Jushan
+AU  - Han, Xu
+AU  - Shi, Yutang
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 66
+EP  - 100
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301172
+KW  - Structural changes
+KW  - High-dimensional factor models
+KW  - Break point inference
+AB  - In this paper, we consider the estimation of break points in high-dimensional factor models where the unobserved factors are estimated by principal component analysis (PCA). The factor loading matrix is assumed to have a structural break at an unknown time. We establish the conditions under which the least squares (LS) estimator is consistent for the break date. Our consistency result holds for both large and small breaks. We also find the LS estimator’s asymptotic distribution. Simulation results confirm that the break date can be accurately estimated by the LS even if the magnitudes of breaks are small. In two empirical applications, we implement the method to estimate break points in the U.S. stock market and U.S. macroeconomy, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Testing-optimal kernel choice in HAR inference
+AU  - Sun, Yixiao
+AU  - Yang, Jingjing
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 123
+EP  - 136
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.06.007
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030213X
+KW  - Heteroskedasticity and autocorrelation robust test
+KW  - Fixed-smoothing asymptotics
+KW  - Optimal kernel choice
+KW  - Testing-optimal smoothing-parameter
+AB  - The paper investigates the optimal kernel choice in heteroskedasticity and autocorrelation robust tests based on the fixed-b asymptotics. In parallel with the optimality of the quadratic spectral kernel under the asymptotic mean squared error criterion of the point estimator of the long run variance as considered in Andrews (1991) , we show that the optimality of the quadratic spectral kernel continues to hold under the testing-oriented criterion of Sun, Philips and Jin (2008) which takes a weighted average of the probabilities of type I and type II errors of the fixed-b asymptotic test.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform nonparametric inference for time series
+AU  - Li, Jia
+AU  - Liao, Zhipeng
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 38
+EP  - 51
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.09.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301354
+KW  - Martingale difference
+KW  - Mixingale
+KW  - Series estimation
+KW  - Specification test
+KW  - Strong approximation
+KW  - Uniform inference
+AB  - This paper provides the first result for the uniform inference based on nonparametric series estimators in a general time-series setting. We develop a strong approximation theory for sample averages of mixingales with dimensions growing with the sample size. We use this result to justify the asymptotic validity of a uniform confidence band for series estimators and show that it can also be used to conduct nonparametric specification test for conditional moment restrictions. New results on the validity of heteroskedasticity and autocorrelation consistent (HAC) estimators with increasing dimension are established for making feasible inference. An empirical application on the unemployment volatility puzzle for the search and matching model is provided as an illustration.
+ER  - 
+
+TY  - JOUR
+T1  - Robust inference for spurious regressions and cointegrations involving processes moderately deviated from a unit root
+AU  - Lin, Yingqian
+AU  - Tu, Yundong
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 52
+EP  - 65
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.038
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620301585
+KW  - Local parameter
+KW  - Processes moderately deviated from a unit root
+KW  - Robust inference
+KW  - Spurious regressions
+KW  - -Statistic
+AB  - This paper studies spurious regressions involving processes moderately deviated from a unit root (PMDURs), and establishes the limiting distributions for the least squares estimator, the associated t-statistic, the coefficient of determination R2 and the Durbin–Watson statistic. We find that these limiting distributions critically depend on nuisance parameters that characterize the local deviations from unity, making inference for spurious regressions practically impossible using the conventional t-statistic. As a cure, we propose robust inference based on the balanced regression model, where the lagged regressor and the lagged dependent variable are augmented to the original regression. The induced t-statistic via such an augmentation is shown to be asymptotically standard normal and is therefore free of nuisance parameters, which turns out to be a robust and simple-to-implement tool for spurious regressions inference. Moreover, the limiting properties of other statistics are investigated. The balanced regression based inference is further shown to continue to work for cointegration models with PMDURs, which is therefore robust to whether the PMDURs are spuriously related or cointegrated. Finally, the finite sample properties of the robust method are demonstrated through both Monte Carlo and real data examples.
+ER  - 
+
+TY  - JOUR
+T1  - Ill-posed estimation in high-dimensional models with instrumental variables
+AU  - Breunig, Christoph
+AU  - Mammen, Enno
+AU  - Simoni, Anna
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - 171
+EP  - 200
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.04.043
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620302335
+KW  - Instrumental Variables
+KW  - Sparsity
+KW  - Central limit theorem
+KW  - Lasso
+KW  - Linear model
+KW  - Desparsification
+KW  - Ill-posed estimation problem
+AB  - This paper is concerned with inference about low-dimensional components of a high-dimensional parameter vector β0 which is identified through instrumental variables. We allow for eigenvalues of the expected outer product of included and excluded covariates, denoted by M, to shrink to zero as the sample size increases. We propose a novel estimator based on desparsification of an instrumental variable Lasso estimator, which is a regularized version of 2SLS with an additional correction term. This estimator converges to β0 at a rate depending on the mapping properties of M. Linear combinations of our estimator of β0 are shown to be asymptotically normally distributed. Based on consistent covariance estimation, our method allows for constructing confidence intervals and statistical tests for single or low-dimensional components of β0. In Monte-Carlo simulations we analyze the finite sample behavior of our estimator. We apply our method to estimate a logit model of demand for automobiles using real market share data.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 219
+IS  - 1
+SP  - ii
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(20)30322-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303225
+ER  - 

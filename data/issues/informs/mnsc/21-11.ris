@@ -1,0 +1,425 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Simulating Stable Stochastic Systems, IV: Approximation Techniques
+AU  - Crane, Michael A.
+AU  - Iglehart, Donald L.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1215
+DO  - 10.1287/mnsc.21.11.1215
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1215
+EP  - 1224
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - The previous papers in this series developed a methodology for obtaining from certain simulations confidence intervals for parameters associated with the steady-state distribution. This methodology required the simulations to contain an embedded renewal process at whose epochs the simulation started from scratch. The present paper contains four approximation techniques for obtaining confidence intervals when the simulation does not contain the required renewal process.
+AB  - The previous papers in this series developed a methodology for obtaining from certain simulations confidence intervals for parameters associated with the steady-state distribution. This methodology required the simulations to contain an embedded renewal process at whose epochs the simulation started from scratch. The present paper contains four approximation techniques for obtaining confidence intervals when the simulation does not contain the required renewal process.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1215
+UR  - https://doi.org/10.1287/mnsc.21.11.1215
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On Dynamic Programming with Unbounded Rewards
+AU  - Lippman, Steven A.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1225
+DO  - 10.1287/mnsc.21.11.1225
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1225
+EP  - 1233
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - Using the technique employed by the author in an earlier paper, the existence of an optimal stationary policy that can be obtained from the usual functional equation is again established in the presence of a bound (not necessarily polynomial) on the one-period reward of a semi-Markov decision process. This is done for both the discounted and the average cost case. In addition to allowing an uncountable state space, the law of motion of the system is rather general in that we permit any state to be reached in a single transition. There is, however, a bound on a weighted moment of the next state reached. Finally, we indicate the applicability of these results.
+AB  - Using the technique employed by the author in an earlier paper, the existence of an optimal stationary policy that can be obtained from the usual functional equation is again established in the presence of a bound (not necessarily polynomial) on the one-period reward of a semi-Markov decision process. This is done for both the discounted and the average cost case. In addition to allowing an uncountable state space, the law of motion of the system is rather general in that we permit any state to be reached in a single transition. There is, however, a bound on a weighted moment of the next state reached. Finally, we indicate the applicability of these results.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1225
+UR  - https://doi.org/10.1287/mnsc.21.11.1225
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal and Heuristic Decisions in Single-and Multi-Item Inventory Systems
+AU  - Naddor, Eliezer
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1234
+DO  - 10.1287/mnsc.21.11.1234
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1234
+EP  - 1249
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - A comparison of optimal solutions of single-item inventory systems for the three classical policies tZ, sq, and sZ shows that the optimal order levels in the tZ and sZ policies are usually the same, and so are the optimal reorder points in the sq and sZ policies. The total cost for each of the three policies can be expressed as that of a fundamental model using an appropriate equivalent distribution. The fundamental model can be analyzed with ease. It also provides closed-form results for the normal distribution. Heuristic rules are presented allowing the analysis of inventory systems on the basis of their average demand, standard deviation of demand, probability of no demand, lead-time, carrying cost, replenishing cost, and an availability index. Compared with the optimal decisions and costs for identical inventory systems, in which the probability distribution of demand is known, the heuristic rules give excellent results. The optimal and heuristic decisions are extended to multi-item systems in which there is a cost for placing and receiving an order for a family of items every reviewing period. An algorithm is presented for finding the optimal reviewing period and the corresponding decisions and costs. The heuristic decisions compare very favorably with the optimal ones.
+AB  - A comparison of optimal solutions of single-item inventory systems for the three classical policies tZ, sq, and sZ shows that the optimal order levels in the tZ and sZ policies are usually the same, and so are the optimal reorder points in the sq and sZ policies. The total cost for each of the three policies can be expressed as that of a fundamental model using an appropriate equivalent distribution. The fundamental model can be analyzed with ease. It also provides closed-form results for the normal distribution. Heuristic rules are presented allowing the analysis of inventory systems on the basis of their average demand, standard deviation of demand, probability of no demand, lead-time, carrying cost, replenishing cost, and an availability index. Compared with the optimal decisions and costs for identical inventory systems, in which the probability distribution of demand is known, the heuristic rules give excellent results. The optimal and heuristic decisions are extended to multi-item systems in which there is a cost for placing and receiving an order for a family of items every reviewing period. An algorithm is presented for finding the optimal reviewing period and the corresponding decisions and costs. The heuristic decisions compare very favorably with the optimal ones.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1234
+UR  - https://doi.org/10.1287/mnsc.21.11.1234
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Multi-Product Production Scheduling and Employment Smoothing with Deterministic Demands
+AU  - Yuan, John S. C.
+AU  - Horen, Jeffrey H.
+AU  - Wagner, Harvey M.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1250
+DO  - 10.1287/mnsc.21.11.1250
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1250
+EP  - 1262
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - This paper considers the properties of an optimal production schedule for a multi-product firm, where the economics of production include employment smoothing costs. The results extend the findings of [Lippman, Steven A., Alan J. Rolfe, Harvey M. Wagner, John S. C. Yuan. 1967. Optimal production scheduling and employment smoothing with deterministic demands. Management Sci. 14 127?158.], which treated only a single product. The analysis establishes bounds on optimal production schedules for both individual products and aggregate work force. The paper also relates monotonicity in each product's demand with monotonicity of production for each item in an optimal schedule.
+AB  - This paper considers the properties of an optimal production schedule for a multi-product firm, where the economics of production include employment smoothing costs. The results extend the findings of [Lippman, Steven A., Alan J. Rolfe, Harvey M. Wagner, John S. C. Yuan. 1967. Optimal production scheduling and employment smoothing with deterministic demands. Management Sci. 14 127?158.], which treated only a single product. The analysis establishes bounds on optimal production schedules for both individual products and aggregate work force. The paper also relates monotonicity in each product's demand with monotonicity of production for each item in an optimal schedule.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1250
+UR  - https://doi.org/10.1287/mnsc.21.11.1250
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Portfolio Revision with a Proportional Transaction Cost
+AU  - Kamin, Jules H.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1263
+DO  - 10.1287/mnsc.21.11.1263
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1263
+EP  - 1271
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - The theory of the optimal investment decision is reexamined for a case in which the portfolio initialization problem is trivial but the portfolio adjustment decision presents some new and important problems. The investor is assumed to be a risk-averse expected utility maximizer whose portfolio consists of two risky assets. His objective is to maximize his expected utility at some time horizon, and there is a transaction cost for intermediate adjustment of the portfolio proportional to the value of assets traded. The solution for the optimum adjustment strategy consists of a set of pairs of control limits for the ratio of the amounts of the assets in the portfolio, one pair for each decision opportunity. The model falls naturally into the class of ?cash balance? and dynamic portfolio selection models. The most important departure from both of these subclasses of models is the explicit consideration of more than one risky asset in the portfolio together with the transaction cost. The introduction of the transaction cost implies investor behavior which is systematically different from that implied by the no-transaction-cost dynamic portfolio selection models. The implied behavior is, however, quite similar in form to that implied by the cash-balance models, in which the objective is expected cost minimization.
+AB  - The theory of the optimal investment decision is reexamined for a case in which the portfolio initialization problem is trivial but the portfolio adjustment decision presents some new and important problems. The investor is assumed to be a risk-averse expected utility maximizer whose portfolio consists of two risky assets. His objective is to maximize his expected utility at some time horizon, and there is a transaction cost for intermediate adjustment of the portfolio proportional to the value of assets traded. The solution for the optimum adjustment strategy consists of a set of pairs of control limits for the ratio of the amounts of the assets in the portfolio, one pair for each decision opportunity. The model falls naturally into the class of ?cash balance? and dynamic portfolio selection models. The most important departure from both of these subclasses of models is the explicit consideration of more than one risky asset in the portfolio together with the transaction cost. The introduction of the transaction cost implies investor behavior which is systematically different from that implied by the no-transaction-cost dynamic portfolio selection models. The implied behavior is, however, quite similar in form to that implied by the cash-balance models, in which the objective is expected cost minimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1263
+UR  - https://doi.org/10.1287/mnsc.21.11.1263
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Economic Design of Fraction Defective Control Charts
+AU  - Montgomery, Douglas C.
+AU  - Heikes, Russell G.
+AU  - Mance, Joseph F.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1272
+DO  - 10.1287/mnsc.21.11.1272
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1272
+EP  - 1284
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - An expected cost model for the fraction defective control chart for the case where there are several out-of-control states is developed. A procedure is presented for determining the sample size, control limit or critical region, and interval between samples which minimizes the expected cost of control per unit of product. The expected cost of control consists of the cost of sampling, the cost of investigating and possibly correcting the process when an out-of-control condition is indicated, and the cost of producing defective product. Direct search techniques are used to optimize the expected cost function. Numerical examples and sensitivity analysis of the model are presented.
+AB  - An expected cost model for the fraction defective control chart for the case where there are several out-of-control states is developed. A procedure is presented for determining the sample size, control limit or critical region, and interval between samples which minimizes the expected cost of control per unit of product. The expected cost of control consists of the cost of sampling, the cost of investigating and possibly correcting the process when an out-of-control condition is indicated, and the cost of producing defective product. Direct search techniques are used to optimize the expected cost function. Numerical examples and sensitivity analysis of the model are presented.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1272
+UR  - https://doi.org/10.1287/mnsc.21.11.1272
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal and System Myopic Policies for Multi-Echelon Production/Inventory Assembly Systems
+AU  - Schwarz, Leroy B.
+AU  - Schrage, Linus
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1285
+DO  - 10.1287/mnsc.21.11.1285
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1285
+EP  - 1294
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - In this paper optimal and near optimal policies are proposed for multi-echelon production/inventory assembly systems under continuous review with constant demand over an infinite planning horizon. Costs at each stage consist of a fixed charge per order or production setup plus a linear holding cost on ?echelon? inventory. The objective is minimization of average cost per unit time. The major results of this paper are: a mathematically simple, often optimal, ?system myopic? solution, a lower bound on the closeness to optimality of this solution, and a branch and bound algorithm which usually finds the optimal solution quickly.
+AB  - In this paper optimal and near optimal policies are proposed for multi-echelon production/inventory assembly systems under continuous review with constant demand over an infinite planning horizon. Costs at each stage consist of a fixed charge per order or production setup plus a linear holding cost on ?echelon? inventory. The objective is minimization of average cost per unit time. The major results of this paper are: a mathematically simple, often optimal, ?system myopic? solution, a lower bound on the closeness to optimality of this solution, and a branch and bound algorithm which usually finds the optimal solution quickly.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1285
+UR  - https://doi.org/10.1287/mnsc.21.11.1285
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - The Solution of Leontief Substitution Systems using Matrix Iterative Techniques
+AU  - Koehler, Gary J.
+AU  - Whinston, Andrew B.
+AU  - Wright, Gordon P.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1295
+DO  - 10.1287/mnsc.21.11.1295
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1295
+EP  - 1302
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - This paper considers the possibility of solving certain large scale linear programs using iterative procedures. The class of problems is characterized and a solution procedure developed. The advantages and computational efficiencies are noted in comparison to the product form Revised Simplex procedure. Applications are cited.
+AB  - This paper considers the possibility of solving certain large scale linear programs using iterative procedures. The class of problems is characterized and a solution procedure developed. The advantages and computational efficiencies are noted in comparison to the product form Revised Simplex procedure. Applications are cited.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1295
+UR  - https://doi.org/10.1287/mnsc.21.11.1295
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimality of Myopic Inventory Policies for Certain Dependent Demand Processes
+AU  - Johnson, G. D.
+AU  - Thompson, H. E.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1303
+DO  - 10.1287/mnsc.21.11.1303
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1303
+EP  - 1307
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - This paper shows that the optimal policy for single-product periodic ordering systems with proportional holding and stockout costs and zero lead time is myopic for both stationary and nonstationary demand processes as described by Box and Jenkins. The proof of optimality is based on a theorem by Veinott showing that the myopic policy is optimal in each period if the beginning inventory for that period is less than the critical number which is the optimal policy for that period considered in isolation.
+AB  - This paper shows that the optimal policy for single-product periodic ordering systems with proportional holding and stockout costs and zero lead time is myopic for both stationary and nonstationary demand processes as described by Box and Jenkins. The proof of optimality is based on a theorem by Veinott showing that the myopic policy is optimal in each period if the beginning inventory for that period is less than the critical number which is the optimal policy for that period considered in isolation.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1303
+UR  - https://doi.org/10.1287/mnsc.21.11.1303
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Bounds for Preference Function Assessment
+AU  - Bradley, Stephen P.
+AU  - Frey, Sherwood C.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1308
+DO  - 10.1287/mnsc.21.11.1308
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1308
+EP  - 1319
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - It is well known that when an individual assesses a preference (utility) function, the set of assessed gambles and certainty equivalents is often inconsistent and, if consistent, many preference functions may satisfy the assessments. Mathematical programming is employed to examine properties that might be useful in a sequential determination of the individual's preference function. Specifically, given a consistent set of assessments, if an additional gamble were to be assessed, upper and lower bounds can be found for the probability of the better consequence of the gamble when the certainty equivalent is specified and also bounds for the certainty equivalent of the gamble when the probabilities are specified such that the augmented set of specifications remains consistent. The results are given for general, as well as risk averse preference functions.
+AB  - It is well known that when an individual assesses a preference (utility) function, the set of assessed gambles and certainty equivalents is often inconsistent and, if consistent, many preference functions may satisfy the assessments. Mathematical programming is employed to examine properties that might be useful in a sequential determination of the individual's preference function. Specifically, given a consistent set of assessments, if an additional gamble were to be assessed, upper and lower bounds can be found for the probability of the better consequence of the gamble when the certainty equivalent is specified and also bounds for the certainty equivalent of the gamble when the probabilities are specified such that the augmented set of specifications remains consistent. The results are given for general, as well as risk averse preference functions.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1308
+UR  - https://doi.org/10.1287/mnsc.21.11.1308
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On the Evaluation of a Class of Inventory Policies for Perishable Products Such as Blood
+AU  - Brodheim, Eric
+AU  - Derman, Cyrus
+AU  - Prastacos, Gregory
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1320
+DO  - 10.1287/mnsc.21.11.1320
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1320
+EP  - 1325
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - A class of inventory and distribution policies for scheduled deliveries of perishable products subject to variable demand is modeled as a Markov chain with a manageable number of states. From its stationary distribution, such measures as probability of shortage, the average age of the inventory, and the average number discarded per time period are obtained. Easily computable bounds on these measures that indicate how they behave as functions of demand, and inventory policy parameters are developed.
+AB  - A class of inventory and distribution policies for scheduled deliveries of perishable products subject to variable demand is modeled as a Markov chain with a manageable number of states. From its stationary distribution, such measures as probability of shortage, the average age of the inventory, and the average number discarded per time period are obtained. Easily computable bounds on these measures that indicate how they behave as functions of demand, and inventory policy parameters are developed.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1320
+UR  - https://doi.org/10.1287/mnsc.21.11.1320
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Note on Optimal Service Selection in a Single Server Queue
+AU  - Schassberger, R.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1326
+DO  - 10.1287/mnsc.21.11.1326
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1326
+EP  - 1331
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - In an M/G/1 environment with finite waiting room, the server, for each new customer to be served, may choose any of k different service modes. Under a certain cost structure and certain assumptions about the different ?speeds? of service it is shown that the search for an optimal policy can be restricted to a relatively small class of possible policies. Using this information simple and feasible algorithms may be designed to explicitly obtain an optimal policy.
+AB  - In an M/G/1 environment with finite waiting room, the server, for each new customer to be served, may choose any of k different service modes. Under a certain cost structure and certain assumptions about the different ?speeds? of service it is shown that the search for an optimal policy can be restricted to a relatively small class of possible policies. Using this information simple and feasible algorithms may be designed to explicitly obtain an optimal policy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1326
+UR  - https://doi.org/10.1287/mnsc.21.11.1326
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Note—Planning and Forecast Horizons for the Bond Refunding Problem
+AU  - Friedman, Yoram
+AU  - Lieber, Zvi
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1332
+DO  - 10.1287/mnsc.21.11.1332
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1332
+EP  - 1337
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - This paper discusses the planning horizon issues of the dynamic bond refunding problem, when interest, floatation and call costs are changing arbitrarily over time and are deterministic. A planning horizon theorem is proved, enabling us to identify planning and forecasting horizons and thus reducing information requirements and increasing computational efficiency.
+AB  - This paper discusses the planning horizon issues of the dynamic bond refunding problem, when interest, floatation and call costs are changing arbitrarily over time and are deterministic. A planning horizon theorem is proved, enabling us to identify planning and forecasting horizons and thus reducing information requirements and increasing computational efficiency.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1332
+UR  - https://doi.org/10.1287/mnsc.21.11.1332
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Note on the Ratio of Two Normally Distributed Variables
+AU  - Hayya, Jack
+AU  - Armstrong, Donald
+AU  - Gressis, Nicolas
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1338
+DO  - 10.1287/mnsc.21.11.1338
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1338
+EP  - 1341
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - This note is a continuation of a previous paper on normal approximations of standard forms. The standard form treated here is the ratio of two normally distributed variables. It is found that a suitable transformation of this ratio is approximately normally distributed provided that the coefficient of variation of the denominator is less than 0.39.
+AB  - This note is a continuation of a previous paper on normal approximations of standard forms. The standard form treated here is the ratio of two normally distributed variables. It is found that a suitable transformation of this ratio is approximately normally distributed provided that the coefficient of variation of the denominator is less than 0.39.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1338
+UR  - https://doi.org/10.1287/mnsc.21.11.1338
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - On a Conjecture of Iglehart
+AU  - Hordijk, Arie
+AU  - Tijms, Henk
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1342
+DO  - 10.1287/mnsc.21.11.1342
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1342
+EP  - 1345
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - This paper gives an elementary proof of Iglehart's conjecture about the classical dynamic inventory model. This conjecture states that the minimal total expected cost for a planning horizon of n periods minus n times the minimal long-run average expected cost per period has a finite limit as n ? ∞ for each initial stock.
+AB  - This paper gives an elementary proof of Iglehart's conjecture about the classical dynamic inventory model. This conjecture states that the minimal total expected cost for a planning horizon of n periods minus n times the minimal long-run average expected cost per period has a finite limit as n ? ∞ for each initial stock.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1342
+UR  - https://doi.org/10.1287/mnsc.21.11.1342
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Informal Look at the Principle of Optimality
+AU  - Porteus, Evan
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1346
+DO  - 10.1287/mnsc.21.11.1346
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1346
+EP  - 1348
+VL  - 21
+IS  - 11
+PB  - INFORMS
+N2  - The Principle of Optimality is examined informally in the context of discounted Markov decision processes. Our purpose is to illustrate that one should be invoking the optimality equations and/or the optimality criterion, rather than the Principle of Optimality in analyzing dynamic models. A counterexample to one interpretation of the Principle is given. It involves a foolish action at the second stage from a state that can be reached, but with probability zero. Redefining optimality as in Hinderer [Hinderer, K. 1970. Foundations of Non-stationary Dynamic Programming with Discrete Time Parameter. Springer-Verlag, New York.], restores the Principle, at the cost of a weaker notion of optimality.
+AB  - The Principle of Optimality is examined informally in the context of discounted Markov decision processes. Our purpose is to illustrate that one should be invoking the optimality equations and/or the optimality criterion, rather than the Principle of Optimality in analyzing dynamic models. A counterexample to one interpretation of the Principle is given. It involves a foolish action at the second stage from a state that can be reached, but with probability zero. Redefining optimality as in Hinderer [Hinderer, K. 1970. Foundations of Non-stationary Dynamic Programming with Discrete Time Parameter. Springer-Verlag, New York.], restores the Principle, at the cost of a weaker notion of optimality.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1346
+UR  - https://doi.org/10.1287/mnsc.21.11.1346
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Notes About Authors
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1287/mnsc.21.11.1352
+DO  - 10.1287/mnsc.21.11.1352
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1352
+EP  - 1354
+VL  - 21
+IS  - 11
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.21.11.1352
+UR  - https://doi.org/10.1287/mnsc.21.11.1352
+Y2  - 2024/03/27
+ER  - 

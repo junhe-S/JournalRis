@@ -1,0 +1,205 @@
+TY  - JOUR
+T1  - Permutation test for heterogeneous treatment effects with a nuisance parameter
+AU  - Chung, EunYi
+AU  - Olivares, Mauricio
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 148
+EP  - 174
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001561
+KW  - Permutation test
+KW  - Heterogeneous treatment effect
+KW  - Martingale transformation
+KW  - Multiple hypothesis testing
+KW  - Westfall–Young
+AB  - This paper proposes an asymptotically valid permutation test for heterogeneous treatment effects in the presence of an estimated nuisance parameter. Not accounting for the estimation error of the nuisance parameter results in statistics that depend on the particulars of the data generating process, and the resulting permutation test fails to control the Type 1 error, even asymptotically. In this paper we consider a permutation test based on a martingale transformation of the empirical process to render an asymptotically pivotal statistic, effectively nullifying the effect associated with the estimation error on the limiting distribution of the statistic. Under weak conditions, we show that the permutation test based on the martingale-transformed statistic results in the asymptotic rejection probability of α in general while retaining the exact control of the test level when testing for the more restrictive sharp null. We also show how our martingale-based permutation test extends to testing whether there exists treatment effect heterogeneity within subgroups defined by observable covariates. Our approach comprises testing the joint null hypothesis that treatment effects are constant within mutually exclusive subgroups while allowing the treatment effects to vary across subgroups. Monte Carlo simulations show that the permutation test presented here performs well in finite samples, and is comparable to those existing in the literature. To gain further understanding of the test to practical problems, we investigate the gift exchange hypothesis in the context of two field experiments from Gneezy and List (2006). Lastly, we provide the companion RATest R package to facilitate and encourage the application of our test in empirical research.
+ER  - 
+
+TY  - JOUR
+T1  - Matching estimators with few treated and many control observations
+AU  - Ferman, Bruno
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 295
+EP  - 307
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001895
+KW  - Matching estimators
+KW  - Treatment effects
+KW  - Hypothesis testing
+KW  - Randomization inference
+KW  - Synthetic control estimator
+AB  - We analyze the properties of matching estimators when there are few treated, but many control observations. We show that, under standard assumptions, the nearest neighbor matching estimator for the average treatment effect on the treated is asymptotically unbiased in this framework. However, when the number of treated observations is fixed, the estimator is not consistent, and it is generally not asymptotically normal. Since standard inference methods are inadequate, we propose alternative inference methods, based on the theory of randomization tests under approximate symmetry, that are asymptotically valid in this framework. We show that these tests are valid under relatively strong assumptions when the number of treated observations is fixed, and under weaker assumptions when the number of treated observations increases, but at a lower rate relative to the number of control observations.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - ii
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(21)00238-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002384
+ER  - 
+
+TY  - JOUR
+T1  - A Note from the Editors
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 131
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621002396
+ER  - 
+
+TY  - JOUR
+T1  - Identification in nonparametric models for dynamic treatment effects
+AU  - Han, Sukjin
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 132
+EP  - 147
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2019.08.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303717
+KW  - Dynamic treatment effect
+KW  - Endogenous treatment
+KW  - Average treatment effect
+KW  - Optimal treatment regime
+KW  - Instrumental variable
+AB  - This paper develops a nonparametric model that represents how sequences of outcomes and treatment choices influence one another in a dynamic manner. In this setting, we are interested in identifying the average outcome for individuals in each period, had a particular treatment sequence been assigned. The identification of this quantity allows us to identify the average treatment effects (ATE’s) and the ATE’s on transitions, as well as the optimal treatment regimes, namely, the regimes that maximize the (weighted) sum of the average potential outcomes, possibly less the cost of the treatments. The main contribution of this paper is to relax the sequential randomization assumption widely used in the biostatistics literature by introducing a flexible choice-theoretic framework for a sequence of endogenous treatments. This framework allows non-compliance of subjects in experimental studies or endogenous treatment decisions in observational settings. We show that the parameters of interest are identified under each period’s exclusion restrictions, which are motivated by, e.g., a sequence of randomized treatment assignments or encouragements and a behavioral/information assumption on agents who receive treatments.
+ER  - 
+
+TY  - JOUR
+T1  - Difference-in-Differences with multiple time periods
+AU  - Callaway, Brantly
+AU  - Sant’Anna, Pedro H.C.
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 200
+EP  - 230
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407620303948
+KW  - Difference-in-Differences
+KW  - Dynamic treatment effects
+KW  - Doubly robust
+KW  - Event study
+KW  - Variation in treatment timing
+KW  - Treatment effect heterogeneity
+KW  - Semi-parametric
+AB  - In this article, we consider identification, estimation, and inference procedures for treatment effect parameters using Difference-in-Differences (DiD) with (i) multiple time periods, (ii) variation in treatment timing, and (iii) when the “parallel trends assumption” holds potentially only after conditioning on observed covariates. We show that a family of causal effect parameters are identified in staggered DiD setups, even if differences in observed characteristics create non-parallel outcome dynamics between groups. Our identification results allow one to use outcome regression, inverse probability weighting, or doubly-robust estimands. We also propose different aggregation schemes that can be used to highlight treatment effect heterogeneity across different dimensions as well as to summarize the overall effect of participating in the treatment. We establish the asymptotic properties of the proposed estimators and prove the validity of a computationally convenient bootstrap procedure to conduct asymptotically valid simultaneous (instead of pointwise) inference. Finally, we illustrate the relevance of our proposed tools by analyzing the effect of the minimum wage on teen employment from 2001–2007. Open-source software is available for implementing the proposed methods.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating dynamic treatment effects in event studies with heterogeneous treatment effects
+AU  - Sun, Liyang
+AU  - Abraham, Sarah
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 175
+EP  - 199
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2020.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762030378X
+KW  - Difference-in-differences
+KW  - Two-way fixed effects
+KW  - Pretrend test
+AB  - To estimate the dynamic effects of an absorbing treatment, researchers often use two-way fixed effects regressions that include leads and lags of the treatment. We show that in settings with variation in treatment timing across units, the coefficient on a given lead or lag can be contaminated by effects from other periods, and apparent pretrends can arise solely from treatment effects heterogeneity. We propose an alternative estimator that is free of contamination, and illustrate the relative shortcomings of two-way fixed effects regressions with leads and lags through an empirical application.
+ER  - 
+
+TY  - JOUR
+T1  - Covariate-adjusted Fisher randomization tests for the average treatment effect
+AU  - Zhao, Anqi
+AU  - Ding, Peng
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 278
+EP  - 294
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001457
+KW  - Finite-population inference
+KW  - Permutation test
+KW  - Randomization distribution
+KW  - Robust standard error
+KW  - Studentization
+KW  - Super-population inference
+AB  - Fisher’s randomization test (frt) delivers exact p-values under the strong null hypothesis of no treatment effect on any units whatsoever and allows for flexible covariate adjustment to improve the power. Of interest is whether the resulting covariate-adjusted procedure could also be valid for testing the weak null hypothesis of zero average treatment effect. To this end, we evaluate two general strategies for conducting covariate adjustment in frts: the pseudo-outcome strategy that uses the residuals from an outcome model with only the covariates as the pseudo, covariate-adjusted outcomes to form the test statistic, and the model-output strategy that directly uses the output from an outcome model with both the treatment and covariates as the covariate-adjusted test statistic. Based on theory and simulation, we recommend using the ordinary least squares (ols) fit of the observed outcome on the treatment, centered covariates, and their interactions for covariate adjustment, and conducting frt with the robust t-value of the treatment as the test statistic. The resulting frt is finite-sample exact for testing the strong null hypothesis, asymptotically valid for testing the weak null hypothesis, and more powerful than the unadjusted counterpart under alternatives, all irrespective of whether the linear model is correctly specified or not. We start with complete randomization, and then extend the theory to cluster randomization, stratified randomization, and rerandomization, respectively, giving a recommendation for the test procedure and test statistic under each design. Our theory is design-based, also known as randomization-based, in which we condition on the potential outcomes but average over the random treatment assignment.
+ER  - 
+
+TY  - JOUR
+T1  - Difference-in-differences with variation in treatment timing
+AU  - Goodman-Bacon, Andrew
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 254
+EP  - 277
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621001445
+KW  - Difference-in-differences
+KW  - Variation in treatment timing
+KW  - Two-way fixed effects
+KW  - Treatment effect heterogeneity
+AB  - The canonical difference-in-differences (DD) estimator contains two time periods, ”pre” and ”post”, and two groups, ”treatment” and ”control”. Most DD applications, however, exploit variation across groups of units that receive treatment at different times. This paper shows that the two-way fixed effects estimator equals a weighted average of all possible two-group/two-period DD estimators in the data. A causal interpretation of two-way fixed effects DD estimates requires both a parallel trends assumption and treatment effects that are constant over time. I show how to decompose the difference between two specifications, and provide a new analysis of models that include time-varying controls.
+ER  - 
+
+TY  - JOUR
+T1  - The identification region of the potential outcome distributions under instrument independence
+AU  - Kitagawa, Toru
+JO  - Journal of Econometrics
+VL  - 225
+IS  - 2
+SP  - 231
+EP  - 253
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Themed Issue: Treatment Effect 1
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2021.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407621000968
+KW  - Partial identification
+KW  - Treatment effects
+KW  - Instrumental variables
+AB  - This paper examines the identifying power of instrument exogeneity in the treatment effect model. We derive the identification region of the potential outcome distributions, which are the collection of distributions that are compatible with data and with the restrictions of the model. We consider identification when (i) the instrument is independent of each of the potential outcomes (marginal independence), (ii) the instrument is independent of the potential outcomes and selection heterogeneity jointly (joint independence), and (iii.) the instrument satisfies joint independence and monotonicity (the LATE restriction). By comparing the size of the identification region under each restriction, we show that joint independence provides more identifying information for the potential outcome distributions than marginal independence, but that the LATE restriction provides no identification gain beyond joint independence. We also, under each restriction, derive sharp bounds for the Average Treatment Effect and sharp testable implication to falsify the restriction. Our analysis covers discrete or continuous outcomes, and extends the Average Treatment Effect bounds of Balke and Pearl (1997) developed for the dichotomous outcome case to a more general setting.
+ER  - 

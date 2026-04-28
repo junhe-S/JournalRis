@@ -1,0 +1,167 @@
+TY  - JOUR
+T1  - Nonlinearity, nonstationarity, and thick tails: How they interact to generate persistence in memory
+AU  - Miller, J. Isaac
+AU  - Park, Joon Y.
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - 83
+EP  - 89
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002139
+KW  - Persistence in memory
+KW  - Nonlinear transformations
+KW  - Random walks
+KW  - Thick tails
+KW  - Stable distributions
+AB  - We consider nonlinear functions of random walks driven by thick-tailed innovations. Nonlinearity, nonstationarity, and thick tails interact to generate a spectrum of autocorrelation patterns consistent with the observed persistence in memory of many economic and financial time series. Depending upon the type of transformation considered and whether it is observed with noise, the autocorrelations are given by unity, random constants, or hyperbolically decaying deterministic functions, possibly with some independent noise, and thus may decay slowly or even not at all. Along with other sample characteristics, such patterns suggest that these three ingredients may generate the ubiquitous evidence for long memory.
+ER  - 
+
+TY  - JOUR
+T1  - Density estimation for nonlinear parametric models with conditional heteroscedasticity
+AU  - Zhao, Zhibiao
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - 71
+EP  - 82
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.09.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002127
+KW  - Bahadur representation
+KW  - Conditional heteroscedasticity
+KW  - Density estimation
+KW  - Fisher information
+KW  - Nonlinear time series
+KW  - Nonparametric kernel density
+KW  - Stationary density
+KW  - Stochastic regression
+AB  - This article studies density and parameter estimation problems for nonlinear parametric models with conditional heteroscedasticity. We propose a simple density estimate that is particularly useful for studying the stationary density of nonlinear time series models. Under a general dependence structure, we establish the root n consistency of the proposed density estimate. For parameter estimation, a Bahadur type representation is obtained for the conditional maximum likelihood estimate. The parameter estimate is shown to be asymptotically efficient in the sense that its limiting variance attains the Cramér–Rao lower bound. The performance of our density estimate is studied by simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Micro versus macro cointegration in heterogeneous panels
+AU  - Trapani, Lorenzo
+AU  - Urga, Giovanni
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - 1
+EP  - 18
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.07.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001626
+KW  - Heterogeneous panels
+KW  - Aggregation
+KW  - Cointegration
+KW  - Spurious regression
+KW  - Bootstrap
+AB  - We consider the issue of cross-sectional aggregation in nonstationary and heterogeneous panels where each unit cointegrates. We derive asymptotic properties of the aggregate estimate, and necessary and sufficient conditions for cointegration to hold in the aggregate relationship. We then analyze the case when cointegration does not carry through the aggregation process, and we investigate whether the violation of the formal conditions for perfect aggregation can still lead to an aggregate equation that is observationally equivalent to a cointegrated relationship. We derive a measure of the degree of noncointegration of the aggregate relationship and we explore its asymptotic properties. We propose a valid bootstrap approximation of the test. A Monte Carlo exercise evaluates size and power properties of the bootstrap test.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating a tournament model of intra-firm wage differentials
+AU  - Chen, Jiawei
+AU  - Shum, Matthew
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - 39
+EP  - 55
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001912
+KW  - Tournament model
+KW  - Estimation
+KW  - Wage differentials
+KW  - Incentive effect
+KW  - Retail chains
+AB  - We consider the estimation of a tournament model with moral hazard (based on Rosen (1986), AER)) when only aggregate data on intra-firm employment levels and salaries are available. Equilibrium restrictions of the model allow us to recover parameters of interest, including equilibrium effort levels in each hierarchical stage of the firm. We illustrate our estimation procedures using data from major retail chains in the US. We find that only a fraction of the wage differential directly compensates workers for higher effort levels, implying that a large portion of the differentials arises to maintain incentives at lower rungs of the retailers.
+ER  - 
+
+TY  - JOUR
+T1  - Tailored randomized block MCMC methods with application to DSGE models
+AU  - Chib, Siddhartha
+AU  - Ramamurthy, Srikanth
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - 19
+EP  - 38
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001900
+KW  - Dynamic stochastic general equilibrium models
+KW  - Markov chain Monte Carlo
+KW  - Metropolis–Hastings algorithm
+KW  - Marginal likelihood
+KW  - Randomized blocks
+KW  - Tailored proposal densities
+KW  - Multi modal densities
+KW  - Simulated annealing
+AB  - In this paper we develop new Markov chain Monte Carlo schemes for the estimation of Bayesian models. One key feature of our method, which we call the tailored randomized block Metropolis–Hastings (TaRB-MH) method, is the random clustering of the parameters at every iteration into an arbitrary number of blocks. Then each block is sequentially updated through an M–H step. Another feature is that the proposal density for each block is tailored to the location and curvature of the target density based on the output of simulated annealing, following Chib and Greenberg, 1994, Chib and Greenberg, 1995 and Chib and Ergashev (in press). We also provide an extended version of our method for sampling multi-modal distributions in which at a pre-specified mode jumping iteration, a single-block proposal is generated from one of the modal regions using a mixture proposal density, and this proposal is then accepted according to an M–H probability of move. At the non-mode jumping iterations, the draws are obtained by applying the TaRB-MH algorithm. We also discuss how the approaches of Chib (1995) and Chib and Jeliazkov (2001) can be adapted to these sampling schemes for estimating the model marginal likelihood. The methods are illustrated in several problems. In the DSGE model of Smets and Wouters (2007), for example, which involves a 36-dimensional posterior distribution, we show that the autocorrelations of the sampled draws from the TaRB-MH algorithm decay to zero within 30–40 lags for most parameters. In contrast, the sampled draws from the random-walk M–H method, the algorithm that has been used to date in the context of DSGE models, exhibit significant autocorrelations even at lags 2500 and beyond. Additionally, the RW-MH does not explore the same high density regions of the posterior distribution as the TaRB-MH algorithm. Another example concerns the model of An and Schorfheide (2007) where the posterior distribution is multi-modal. While the RW-MH algorithm is unable to jump from the low modal region to the high modal region, and vice-versa, we show that the extended TaRB-MH method explores the posterior distribution globally in an efficient manner.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - IFC
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00017-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610000175
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation of distributional policy effects
+AU  - Rothe, Christoph
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - 56
+EP  - 70
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609001924
+KW  - Policy effects
+KW  - Counterfactual distribution
+KW  - Nonseparable model
+KW  - Empirical process
+KW  - Nonparametric regression
+AB  - This paper proposes a fully nonparametric procedure to evaluate the effect of a counterfactual change in the distribution of some covariates on the unconditional distribution of an outcome variable of interest. In contrast to other methods, we do not restrict attention to the effect on the mean. In particular, our method can be used to conduct inference on the change of the distribution function as a whole, its moments and quantiles, inequality measures such as the Lorenz curve or Gini coefficient, and to test for stochastic dominance. The practical applicability of our procedure is illustrated via a simulation study and an empirical example.
+ER  - 
+
+TY  - JOUR
+T1  - An integrated maximum score estimator for a generalized censored quantile regression model
+AU  - Chen, Songnian
+JO  - Journal of Econometrics
+VL  - 155
+IS  - 1
+SP  - 90
+EP  - 98
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2009.09.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407609002322
+KW  - Quantile regression
+KW  - Transformation models
+KW  - Dimension reduction
+AB  - Quantile regression techniques have been widely used in empirical economics. In this paper, we consider the estimation of a generalized quantile regression model when data are subject to fixed or random censoring. Through a discretization technique, we transform the censored regression model into a sequence of binary choice models and further propose an integrated smoothed maximum score estimator by combining individual binary choice models, following the insights of Horowitz (1992) and Manski (1985). Unlike the estimators of Horowitz (1992) and Manski (1985), our estimators converge at the usual parametric rate through an integration process. In the case of fixed censoring, our approach overcomes a major drawback of existing approaches associated with the curse-of-dimensionality problem. Our approach for the fixed censored case can be extended readily to the case with random censoring for which other existing approaches are no longer applicable. Both of our estimators are consistent and asymptotically normal. A simulation study demonstrates that our estimators perform well in finite samples.
+ER  - 

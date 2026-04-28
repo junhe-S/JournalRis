@@ -1,0 +1,871 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Mostly Exploration-Free Algorithms for Contextual Bandits
+AU  - Bastani, Hamsa
+AU  - Bayati, Mohsen
+AU  - Khosravi, Khashayar
+Y1  - 2020/07/27
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3605
+DO  - 10.1287/mnsc.2020.3605
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1329
+EP  - 1349
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - The contextual bandit literature has traditionally focused on algorithms that address the exploration?exploitation tradeoff. In particular, greedy algorithms that exploit current estimates without any exploration may be suboptimal in general. However, exploration-free greedy algorithms are desirable in practical settings where exploration may be costly or unethical (e.g., clinical trials). Surprisingly, we find that a simple greedy algorithm can be rate optimal (achieves asymptotically optimal regret) if there is sufficient randomness in the observed contexts (covariates). We prove that this is always the case for a two-armed bandit under a general class of context distributions that satisfy a condition we term covariate diversity. Furthermore, even absent this condition, we show that a greedy algorithm can be rate optimal with positive probability. Thus, standard bandit algorithms may unnecessarily explore. Motivated by these results, we introduce Greedy-First, a new algorithm that uses only observed contexts and rewards to determine whether to follow a greedy algorithm or to explore. We prove that this algorithm is rate optimal without any additional assumptions on the context distribution or the number of arms. Extensive simulations demonstrate that Greedy-First successfully reduces exploration and outperforms existing (exploration-based) contextual bandit algorithms such as Thompson sampling or upper confidence bound.This paper was accepted by J. George Shanthikumar, big data analytics.
+AB  - The contextual bandit literature has traditionally focused on algorithms that address the exploration?exploitation tradeoff. In particular, greedy algorithms that exploit current estimates without any exploration may be suboptimal in general. However, exploration-free greedy algorithms are desirable in practical settings where exploration may be costly or unethical (e.g., clinical trials). Surprisingly, we find that a simple greedy algorithm can be rate optimal (achieves asymptotically optimal regret) if there is sufficient randomness in the observed contexts (covariates). We prove that this is always the case for a two-armed bandit under a general class of context distributions that satisfy a condition we term covariate diversity. Furthermore, even absent this condition, we show that a greedy algorithm can be rate optimal with positive probability. Thus, standard bandit algorithms may unnecessarily explore. Motivated by these results, we introduce Greedy-First, a new algorithm that uses only observed contexts and rewards to determine whether to follow a greedy algorithm or to explore. We prove that this algorithm is rate optimal without any additional assumptions on the context distribution or the number of arms. Extensive simulations demonstrate that Greedy-First successfully reduces exploration and outperforms existing (exploration-based) contextual bandit algorithms such as Thompson sampling or upper confidence bound.This paper was accepted by J. George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3605
+UR  - https://doi.org/10.1287/mnsc.2020.3605
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Surge Pricing and Its Spatial Supply Response
+AU  - Besbes, Omar
+AU  - Castro, Francisco
+AU  - Lobel, Ilan
+Y1  - 2020/10/08
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3622
+DO  - 10.1287/mnsc.2020.3622
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1350
+EP  - 1367
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We consider the pricing problem faced by a revenue-maximizing platform matching price-sensitive customers to flexible supply units within a geographic area. This can be interpreted as the problem faced in the short term by a ride-hailing platform. We propose a two-dimensional framework in which a platform selects prices for different locations and drivers respond by choosing where to relocate, in equilibrium, based on prices, travel costs, and driver congestion levels. The platform?s problem is an infinite-dimensional optimization problem with equilibrium constraints. We elucidate structural properties of supply equilibria and the corresponding utilities that emerge and establish a form of spatial decomposition, which allows us to localize the analysis to regions of movement. In turn, uncovering an appropriate knapsack structure to the platform?s problem, we establish a crisp local characterization of the optimal prices and the corresponding supply response. In the optimal solution, the platform applies different treatments to different locations. In some locations, prices are set so that supply and demand are perfectly matched; overcongestion is induced in other locations, and some less profitable locations are indirectly priced out. To obtain insights on the global structure of an optimal solution, we derive in quasi-closed form the optimal solution for a family of models characterized by a demand shock. The optimal solution, although better balancing supply and demand around the shock, quite interestingly also ends up inducing movement away from it.This paper was accepted by David Simchi-Levi, optimization.
+AB  - We consider the pricing problem faced by a revenue-maximizing platform matching price-sensitive customers to flexible supply units within a geographic area. This can be interpreted as the problem faced in the short term by a ride-hailing platform. We propose a two-dimensional framework in which a platform selects prices for different locations and drivers respond by choosing where to relocate, in equilibrium, based on prices, travel costs, and driver congestion levels. The platform?s problem is an infinite-dimensional optimization problem with equilibrium constraints. We elucidate structural properties of supply equilibria and the corresponding utilities that emerge and establish a form of spatial decomposition, which allows us to localize the analysis to regions of movement. In turn, uncovering an appropriate knapsack structure to the platform?s problem, we establish a crisp local characterization of the optimal prices and the corresponding supply response. In the optimal solution, the platform applies different treatments to different locations. In some locations, prices are set so that supply and demand are perfectly matched; overcongestion is induced in other locations, and some less profitable locations are indirectly priced out. To obtain insights on the global structure of an optimal solution, we derive in quasi-closed form the optimal solution for a family of models characterized by a demand shock. The optimal solution, although better balancing supply and demand around the shock, quite interestingly also ends up inducing movement away from it.This paper was accepted by David Simchi-Levi, optimization.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3622
+UR  - https://doi.org/10.1287/mnsc.2020.3622
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Bayesian Prophet: A Low-Regret Framework for Online Decision Making
+AU  - Vera, Alberto
+AU  - Banerjee, Siddhartha
+Y1  - 2020/10/05
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3624
+DO  - 10.1287/mnsc.2020.3624
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1368
+EP  - 1391
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We develop a new framework for designing online policies given access to an oracle providing statistical information about an off-line benchmark. Having access to such prediction oracles enables simple and natural Bayesian selection policies and raises the question as to how these policies perform in different settings. Our work makes two important contributions toward this question: First, we develop a general technique we call compensated coupling, which can be used to derive bounds on the expected regret (i.e., additive loss with respect to a benchmark) for any online policy and off-line benchmark. Second, using this technique, we show that a natural greedy policy, which we call the Bayes selector, has constant expected regret (i.e., independent of the number of arrivals and resource levels) for a large class of problems we refer to as ?online allocation with finite types,? which includes widely studied online packing and online matching problems. Our results generalize and simplify several existing results for online packing and online matching and suggest a promising pathway for obtaining oracle-driven policies for other online decision-making settings.This paper was accepted by George Shanthikumar, big data analytics.
+AB  - We develop a new framework for designing online policies given access to an oracle providing statistical information about an off-line benchmark. Having access to such prediction oracles enables simple and natural Bayesian selection policies and raises the question as to how these policies perform in different settings. Our work makes two important contributions toward this question: First, we develop a general technique we call compensated coupling, which can be used to derive bounds on the expected regret (i.e., additive loss with respect to a benchmark) for any online policy and off-line benchmark. Second, using this technique, we show that a natural greedy policy, which we call the Bayes selector, has constant expected regret (i.e., independent of the number of arrivals and resource levels) for a large class of problems we refer to as ?online allocation with finite types,? which includes widely studied online packing and online matching problems. Our results generalize and simplify several existing results for online packing and online matching and suggest a promising pathway for obtaining oracle-driven policies for other online decision-making settings.This paper was accepted by George Shanthikumar, big data analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3624
+UR  - https://doi.org/10.1287/mnsc.2020.3624
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Customer Preference and Station Network in the London Bike-Share System
+AU  - He, Pu
+AU  - Zheng, Fanyin
+AU  - Belavina, Elena
+AU  - Girotra, Karan
+Y1  - 2020/08/05
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3620
+DO  - 10.1287/mnsc.2020.3620
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1392
+EP  - 1412
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We study customer preference for the bike-share system in the city of London. We estimate a structural demand model on the station network to learn the preference parameters and use the estimated model to provide insights on the design and expansion of the bike-share system. We highlight the importance of network effects in understanding customer demand and evaluating expansion strategies of transportation networks. In the particular example of the London bike-share system, we find that allocating resources to some areas of the station network can be 10 times more beneficial than others in terms of system usage and that the currently implemented station density rule is far from optimal. We develop a new method to deal with the endogeneity problem of the choice set in estimating demand for network products. Our method can be applied to other settings in which the available set of products or services depends on demand.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+AB  - We study customer preference for the bike-share system in the city of London. We estimate a structural demand model on the station network to learn the preference parameters and use the estimated model to provide insights on the design and expansion of the bike-share system. We highlight the importance of network effects in understanding customer demand and evaluating expansion strategies of transportation networks. In the particular example of the London bike-share system, we find that allocating resources to some areas of the station network can be 10 times more beneficial than others in terms of system usage and that the currently implemented station density rule is far from optimal. We develop a new method to deal with the endogeneity problem of the choice set in estimating demand for network products. Our method can be applied to other settings in which the available set of products or services depends on demand.This paper was accepted by Gabriel Weintraub, revenue management and market analytics.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3620
+UR  - https://doi.org/10.1287/mnsc.2020.3620
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - An Axiomatic Foundation for the Expected Shortfall
+AU  - Wang, Ruodu
+AU  - Zitikis, Ričardas
+Y1  - 2020/09/14
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3617
+DO  - 10.1287/mnsc.2020.3617
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1413
+EP  - 1429
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - In the recent Basel Accords, the expected shortfall (ES) replaces the value-at-risk (VaR) as the standard risk measure for market risk in the banking sector, making it the most popular risk measure in financial regulation. Although ES is?in addition to many other nice properties?a coherent risk measure, it does not yet have an axiomatic foundation. In this paper, we put forward four intuitive economic axioms for portfolio risk assessment?monotonicity, law invariance, prudence, and no reward for concentration?that uniquely characterize the family of ES. Therefore, the results developed herein provide the first economic foundation for using ES as a globally dominating regulatory risk measure, currently employed in Basel III/IV. Key to the main results, several novel notions such as tail events and risk concentration naturally arise, and we explore them in detail. As a most important feature, ES rewards portfolio diversification and penalizes risk concentration in a special and intuitive way, not shared by any other risk measure.This paper was accepted by Manel Baucells, decision analysis.
+AB  - In the recent Basel Accords, the expected shortfall (ES) replaces the value-at-risk (VaR) as the standard risk measure for market risk in the banking sector, making it the most popular risk measure in financial regulation. Although ES is?in addition to many other nice properties?a coherent risk measure, it does not yet have an axiomatic foundation. In this paper, we put forward four intuitive economic axioms for portfolio risk assessment?monotonicity, law invariance, prudence, and no reward for concentration?that uniquely characterize the family of ES. Therefore, the results developed herein provide the first economic foundation for using ES as a globally dominating regulatory risk measure, currently employed in Basel III/IV. Key to the main results, several novel notions such as tail events and risk concentration naturally arise, and we explore them in detail. As a most important feature, ES rewards portfolio diversification and penalizes risk concentration in a special and intuitive way, not shared by any other risk measure.This paper was accepted by Manel Baucells, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3617
+UR  - https://doi.org/10.1287/mnsc.2020.3617
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Last-Place Aversion in Queues
+AU  - Buell, Ryan W.
+Y1  - 2020/08/18
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3619
+DO  - 10.1287/mnsc.2020.3619
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1430
+EP  - 1452
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - This paper documents the effects of last-place aversion in queues and its implications for customer experiences and behaviors, as well as for operating performance. An observational analysis of customers queuing at a grocery store, and four online studies in which participants waited in virtual queues, revealed that waiting in last place diminishes wait satisfaction while increasing the probabilities of switching and abandoning queues, with detrimental implications for queuing systems. The research suggests that last-place aversion can lead to maladaptive customer behaviors?switching behaviors that increase wait times and abandoning when the benefits of waiting are most pronounced. The results indicate that this behavior is partially explained by the inability to make a downward social comparison; namely, when no one is behind a queuing individual, that person is less certain that continuing to wait is worthwhile. Furthermore, this paper provides evidence that queue transparency is an effective service design lever that managers can use to reduce the deleterious effects of last-place aversion in queues. When people cannot see that they are in last place, the behavioral effects of last-place aversion are nullified; and when they can see that they are not in last place, the tendency to renege is greatly diminished. Finally, a system-level experiment, in which pairs of queues were created and analyzed, reveals that when the effects of last-place aversion are addressed, overall abandonment decreases, such that with equivalent arrival and service rates, total service provision can be increased.This paper was accepted by Vishal Gaur, operations management.
+AB  - This paper documents the effects of last-place aversion in queues and its implications for customer experiences and behaviors, as well as for operating performance. An observational analysis of customers queuing at a grocery store, and four online studies in which participants waited in virtual queues, revealed that waiting in last place diminishes wait satisfaction while increasing the probabilities of switching and abandoning queues, with detrimental implications for queuing systems. The research suggests that last-place aversion can lead to maladaptive customer behaviors?switching behaviors that increase wait times and abandoning when the benefits of waiting are most pronounced. The results indicate that this behavior is partially explained by the inability to make a downward social comparison; namely, when no one is behind a queuing individual, that person is less certain that continuing to wait is worthwhile. Furthermore, this paper provides evidence that queue transparency is an effective service design lever that managers can use to reduce the deleterious effects of last-place aversion in queues. When people cannot see that they are in last place, the behavioral effects of last-place aversion are nullified; and when they can see that they are not in last place, the tendency to renege is greatly diminished. Finally, a system-level experiment, in which pairs of queues were created and analyzed, reveals that when the effects of last-place aversion are addressed, overall abandonment decreases, such that with equivalent arrival and service rates, total service provision can be increased.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3619
+UR  - https://doi.org/10.1287/mnsc.2020.3619
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Waiting for the Payday? The Market for Startups and the Timing of Entrepreneurial Exit
+AU  - Arora, Ashish
+AU  - Fosfuri, Andrea
+AU  - Rønde, Thomas
+Y1  - 2020/09/11
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3627
+DO  - 10.1287/mnsc.2020.3627
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1453
+EP  - 1467
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Most technology startups are set up for exit through acquisition by large corporations. In choosing when to sell, startups face a trade-off. Early acquisition reduces execution errors, but later acquisition both improves the likelihood of finding a better match and benefits from increased buyer competition. Startups? exit strategies vary considerably: Some startups aim to sell early; others remain in stealth mode by developing the invention for a late sale. We develop an analytical model to study the timing of the exit strategy. We find that startups with more capable founding teams commit to a late exit, whereas those with less capable founding teams commit to an early exit. Finally, startups with founding teams of intermediate capabilities remain flexible: They seek early offers but eventually sell late. If trying the early market is so costly that startups have to make a mutually exclusive choice between an early and late sale, startups sell inefficiently late. Instead, if they can collect early offers at no cost before deciding on the timing of sale, there are too many early acquisitions.This paper was accepted by David Simchi-Levi, business strategy.
+AB  - Most technology startups are set up for exit through acquisition by large corporations. In choosing when to sell, startups face a trade-off. Early acquisition reduces execution errors, but later acquisition both improves the likelihood of finding a better match and benefits from increased buyer competition. Startups? exit strategies vary considerably: Some startups aim to sell early; others remain in stealth mode by developing the invention for a late sale. We develop an analytical model to study the timing of the exit strategy. We find that startups with more capable founding teams commit to a late exit, whereas those with less capable founding teams commit to an early exit. Finally, startups with founding teams of intermediate capabilities remain flexible: They seek early offers but eventually sell late. If trying the early market is so costly that startups have to make a mutually exclusive choice between an early and late sale, startups sell inefficiently late. Instead, if they can collect early offers at no cost before deciding on the timing of sale, there are too many early acquisitions.This paper was accepted by David Simchi-Levi, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3627
+UR  - https://doi.org/10.1287/mnsc.2020.3627
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Customer May Not Always Be Right: Customer Compatibility and Service Performance
+AU  - Buell, Ryan W.
+AU  - Campbell, Dennis
+AU  - Frei, Frances X.
+Y1  - 2020/05/14
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3596
+DO  - 10.1287/mnsc.2020.3596
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1468
+EP  - 1488
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - This paper investigates the impact of customer compatibility?the degree of fit between customers? needs and the capabilities of the operations serving them?on customer experiences and firm performance. We use variance decomposition analysis to quantify the relative importance of customer, employee, process, location, and market-level effects on customer satisfaction. In our models, which explain roughly a quarter of the aggregate variance, differences among customers account for 96%?97% of the explainable portion. Further analysis of interaction-level data from banking and quick-service restaurants reveals that customers report relatively consistent satisfaction across transactions with particular firms but that some customers are habitually more satisfied than others. A second set of empirical studies provides evidence that these customer-level differences are explained in part by customer compatibility. Customers whose needs, proxied by differences in demographics and product choices, diverge more starkly from those of their bank?s average customers report significantly lower levels of satisfaction. Consistently, banks that serve customer bases with more dispersed needs receive lower satisfaction scores than banks serving customer bases with less dispersed needs. Finally, a longitudinal analysis of the deposit and loan growth of all federally insured banks in the United States from 2006 to 2017 reveals that customer compatibility affects a firm?s financial performance. Branches with more divergent customers grow more slowly than branches with less divergent customers. Institutions serving customer bases with more dispersed needs have branches that exhibit slower growth than those of institutions serving customer bases with less dispersed needs.This paper was accepted by Vishal Gaur, operations management.
+AB  - This paper investigates the impact of customer compatibility?the degree of fit between customers? needs and the capabilities of the operations serving them?on customer experiences and firm performance. We use variance decomposition analysis to quantify the relative importance of customer, employee, process, location, and market-level effects on customer satisfaction. In our models, which explain roughly a quarter of the aggregate variance, differences among customers account for 96%?97% of the explainable portion. Further analysis of interaction-level data from banking and quick-service restaurants reveals that customers report relatively consistent satisfaction across transactions with particular firms but that some customers are habitually more satisfied than others. A second set of empirical studies provides evidence that these customer-level differences are explained in part by customer compatibility. Customers whose needs, proxied by differences in demographics and product choices, diverge more starkly from those of their bank?s average customers report significantly lower levels of satisfaction. Consistently, banks that serve customer bases with more dispersed needs receive lower satisfaction scores than banks serving customer bases with less dispersed needs. Finally, a longitudinal analysis of the deposit and loan growth of all federally insured banks in the United States from 2006 to 2017 reveals that customer compatibility affects a firm?s financial performance. Branches with more divergent customers grow more slowly than branches with less divergent customers. Institutions serving customer bases with more dispersed needs have branches that exhibit slower growth than those of institutions serving customer bases with less dispersed needs.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3596
+UR  - https://doi.org/10.1287/mnsc.2020.3596
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Assortment Rotation and the Value of Concealment
+AU  - Ferreira, Kris Johnson
+AU  - Goh, Joel
+Y1  - 2020/07/27
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3610
+DO  - 10.1287/mnsc.2020.3610
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1489
+EP  - 1507
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Assortment rotation?the retailing practice of changing the assortment of products offered to customers?has recently been used as a competitive advantage for both brick-and-mortar and online retailers. We focus on product categories where consumers may purchase multiple products during a season and investigate a new reason why frequent assortment rotations can be valuable to a retailer. Namely, by distributing its seasonal catalog of products over multiple assortments rotated throughout the season, as opposed to selling all products in a single, fixed assortment, the retailer effectively conceals a portion of its full product catalog from consumers, injecting uncertainty into the consumer?s relative product valuations. Rationally acting consumers may respond to this structural difference by purchasing more products, thereby generating additional sales for the retailer. We refer to this phenomenon as the value of concealment and show that the retailer enjoys a positive and significant value of concealment under quite general conditions. However, we show that when consumers are forward looking, the value of concealment is context dependent. We present insights and discuss intuition regarding which product categories likely lead to a positive versus negative value of concealment.This paper was accepted by Vishal Gaur, operations management.
+AB  - Assortment rotation?the retailing practice of changing the assortment of products offered to customers?has recently been used as a competitive advantage for both brick-and-mortar and online retailers. We focus on product categories where consumers may purchase multiple products during a season and investigate a new reason why frequent assortment rotations can be valuable to a retailer. Namely, by distributing its seasonal catalog of products over multiple assortments rotated throughout the season, as opposed to selling all products in a single, fixed assortment, the retailer effectively conceals a portion of its full product catalog from consumers, injecting uncertainty into the consumer?s relative product valuations. Rationally acting consumers may respond to this structural difference by purchasing more products, thereby generating additional sales for the retailer. We refer to this phenomenon as the value of concealment and show that the retailer enjoys a positive and significant value of concealment under quite general conditions. However, we show that when consumers are forward looking, the value of concealment is context dependent. We present insights and discuss intuition regarding which product categories likely lead to a positive versus negative value of concealment.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3610
+UR  - https://doi.org/10.1287/mnsc.2020.3610
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Don’t Call Us, We’ll Call You: An Empirical Study of Caller Behavior Under a Callback Option
+AU  - Hathaway, Brett A.
+AU  - Emadi, Seyed M.
+AU  - Deshpande, Vinayak
+Y1  - 2020/10/05
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3621
+DO  - 10.1287/mnsc.2020.3621
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1508
+EP  - 1526
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Although call centers have recently invested in callback technology, the effects of this innovation on call center performance are not clearly understood. In this paper, we take a data-driven approach to quantify the operational impact of offering callbacks under a variety of callback policies. To achieve this goal, we formulate a structural model of the caller decision-making process under a callback option and impute their underlying preferences from data. Our model estimates shed light on caller preferences under a callback option. We find that callers experience three to six times less discomfort per unit of time while waiting for callbacks than while waiting in queue, suggesting that offering callbacks can increase service quality by channeling callers to an alternative service channel where they experience less discomfort while waiting. However, after controlling for expected waiting times, callers generally prefer waiting in a queue over accepting a callback and waiting offline. This suggests that managers of this call center may want to spend efforts in educating their customers on the benefits of the callback option. Using the callers? imputed preferences, we are able to conduct counterfactual analyses of how various callback policies affect the performance of this call center. We find that in this call center, offering to hold the callers? spot in line or to call back within a window (guaranteed timeframe) reduces average online waiting time (the average time callers wait on the phone) by up to 71% and improves service quality by decreasing callers? average incurred waiting cost by up to 46%. Moreover, we find that offering callbacks as a demand postponement strategy during periods of temporary congestion reduces average online waiting time by up to 86%, increases service quality by up to 54%, and increases system throughput by up to 2.1%.This paper was accepted by Vishal Gaur, operations management.
+AB  - Although call centers have recently invested in callback technology, the effects of this innovation on call center performance are not clearly understood. In this paper, we take a data-driven approach to quantify the operational impact of offering callbacks under a variety of callback policies. To achieve this goal, we formulate a structural model of the caller decision-making process under a callback option and impute their underlying preferences from data. Our model estimates shed light on caller preferences under a callback option. We find that callers experience three to six times less discomfort per unit of time while waiting for callbacks than while waiting in queue, suggesting that offering callbacks can increase service quality by channeling callers to an alternative service channel where they experience less discomfort while waiting. However, after controlling for expected waiting times, callers generally prefer waiting in a queue over accepting a callback and waiting offline. This suggests that managers of this call center may want to spend efforts in educating their customers on the benefits of the callback option. Using the callers? imputed preferences, we are able to conduct counterfactual analyses of how various callback policies affect the performance of this call center. We find that in this call center, offering to hold the callers? spot in line or to call back within a window (guaranteed timeframe) reduces average online waiting time (the average time callers wait on the phone) by up to 71% and improves service quality by decreasing callers? average incurred waiting cost by up to 46%. Moreover, we find that offering callbacks as a demand postponement strategy during periods of temporary congestion reduces average online waiting time by up to 86%, increases service quality by up to 54%, and increases system throughput by up to 2.1%.This paper was accepted by Vishal Gaur, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3621
+UR  - https://doi.org/10.1287/mnsc.2020.3621
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Platform Preannouncement Strategies: The Strategic Role of Information in Two-Sided Markets Competition
+AU  - Chellappa, Ramnath K.
+AU  - Mukherjee, Rajiv
+Y1  - 2020/05/11
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3606
+DO  - 10.1287/mnsc.2020.3606
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1527
+EP  - 1545
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - The release of a new platform version is often preceded by prelaunch activities including a preannouncement of new features, improvements, and other innovations. The information contained within these preannouncements not only shape expectations of distinct but connected sides, for example, users and developers in a video game platform, but also informs a rival platform in a competitive market. Through a game-theoretic analysis of three different preannouncement strategies (formal, informal, and no-preannouncement) in a duopoly, our research furthers the understanding of externality-related information on expectation formation and the associated competitive dynamics. The literature on the role of information in platform competition is limited, and as the first to model the use of this information (through preannouncements) as a strategic lever, we characterize the firms? equilibrium preannouncement strategies under different market conditions including when agents have an option to switch and/or the ability to multihome. Our findings show a clear relationship between the equilibrium preannouncement strategies and agents? strength of taste preferences. In markets with weak preferences, firms pursue a no-preannouncement strategy in equilibrium to a formal preannouncement strategy where users and developers have strong taste preferences. Overall, our welfare analyses reveal that in a competitive market, firms will prefer not to preannounce their platform features even if preannouncement may increase expected network effects. Consumer and social welfare are both higher in multihoming markets than in single-homing ones.This paper was accepted by Chris Forman, information systems.
+AB  - The release of a new platform version is often preceded by prelaunch activities including a preannouncement of new features, improvements, and other innovations. The information contained within these preannouncements not only shape expectations of distinct but connected sides, for example, users and developers in a video game platform, but also informs a rival platform in a competitive market. Through a game-theoretic analysis of three different preannouncement strategies (formal, informal, and no-preannouncement) in a duopoly, our research furthers the understanding of externality-related information on expectation formation and the associated competitive dynamics. The literature on the role of information in platform competition is limited, and as the first to model the use of this information (through preannouncements) as a strategic lever, we characterize the firms? equilibrium preannouncement strategies under different market conditions including when agents have an option to switch and/or the ability to multihome. Our findings show a clear relationship between the equilibrium preannouncement strategies and agents? strength of taste preferences. In markets with weak preferences, firms pursue a no-preannouncement strategy in equilibrium to a formal preannouncement strategy where users and developers have strong taste preferences. Overall, our welfare analyses reveal that in a competitive market, firms will prefer not to preannounce their platform features even if preannouncement may increase expected network effects. Consumer and social welfare are both higher in multihoming markets than in single-homing ones.This paper was accepted by Chris Forman, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3606
+UR  - https://doi.org/10.1287/mnsc.2020.3606
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Digital Word-of-Mouth Affects Consumer Decision Making: Evidence from Doctor Appointment Booking
+AU  - Shukla, Aishwarya Deep
+AU  - Gao, Guodong (Gordon)
+AU  - Agarwal, Ritu
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3604
+DO  - 10.1287/mnsc.2020.3604
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1546
+EP  - 1568
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We use detailed clickstream data on online word-of-mouth (WOM) to uncover mechanisms underlying its influence on consumer decision making. A feature launch on a major doctor appointment booking platform allows us to examine the effects of online WOM on three dimensions of a consumer?s choice process: the consideration set size, the time taken to consider alternatives (web session duration), and the geographic dispersion of the choices considered. Results indicate that the effects of WOM on decision-making processes are not monotonic but rather are contingent on the abundance of WOM (number of rated doctors) in a market. When the abundance of WOM is high, the introduction of WOM makes patients consider fewer doctors, browse for a shorter duration, and focus on doctors that are geographically more proximate. In contrast, when the abundance of WOM is low, the introduction of WOM makes patients consider more doctors, browse for longer duration, and consider doctors that are geographically more dispersed. We also find that WOM can lead to a cannibalization effect: when ratings are published, the highly rated doctors reap the benefits (in the form of increased demand) at the expense of unrated doctors. Our study contributes to the extant literature on online WOM by providing new insights into how WOM influences consumer decision making and by examining this question at a more granular level than prior work.This paper was accepted by Anandhi Bharadwaj, information systems.
+AB  - We use detailed clickstream data on online word-of-mouth (WOM) to uncover mechanisms underlying its influence on consumer decision making. A feature launch on a major doctor appointment booking platform allows us to examine the effects of online WOM on three dimensions of a consumer?s choice process: the consideration set size, the time taken to consider alternatives (web session duration), and the geographic dispersion of the choices considered. Results indicate that the effects of WOM on decision-making processes are not monotonic but rather are contingent on the abundance of WOM (number of rated doctors) in a market. When the abundance of WOM is high, the introduction of WOM makes patients consider fewer doctors, browse for a shorter duration, and focus on doctors that are geographically more proximate. In contrast, when the abundance of WOM is low, the introduction of WOM makes patients consider more doctors, browse for longer duration, and consider doctors that are geographically more dispersed. We also find that WOM can lead to a cannibalization effect: when ratings are published, the highly rated doctors reap the benefits (in the form of increased demand) at the expense of unrated doctors. Our study contributes to the extant literature on online WOM by providing new insights into how WOM influences consumer decision making and by examining this question at a more granular level than prior work.This paper was accepted by Anandhi Bharadwaj, information systems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3604
+UR  - https://doi.org/10.1287/mnsc.2020.3604
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Knowledge Sharing in Alliances and Alliance Portfolios
+AU  - Arora, Ashish
+AU  - Belenzon, Sharon
+AU  - Patacconi, Andrea
+Y1  - 2020/08/06
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3614
+DO  - 10.1287/mnsc.2020.3614
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1569
+EP  - 1585
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We develop a model of knowledge sharing in alliances and alliance portfolios. We show that, once the issue of encouraging effective collaboration is put center stage, many standard intuitions of the learning race view and alliance portfolio literature are overturned or qualified. Partners engage in learning races in some cases, but exhibit ?altruistic? behaviors in other cases. They may reduce their own absorptive capacity or increase the transparency of their own operations to facilitate their partner?s learning. In alliance portfolios, we show that not all substitutability between alliance portfolio partners is bad. We distinguish between substitutability in implementation and substitutability in rival benefits and show that the latter is conducive to knowledge sharing. Our work contributes toward putting the literature on learning alliances on a more solid foundation by emphasizing the importance of commitments that leading firms can make to encourage collaboration.This paper was accepted by David Simchi-Levi, business strategy.
+AB  - We develop a model of knowledge sharing in alliances and alliance portfolios. We show that, once the issue of encouraging effective collaboration is put center stage, many standard intuitions of the learning race view and alliance portfolio literature are overturned or qualified. Partners engage in learning races in some cases, but exhibit ?altruistic? behaviors in other cases. They may reduce their own absorptive capacity or increase the transparency of their own operations to facilitate their partner?s learning. In alliance portfolios, we show that not all substitutability between alliance portfolio partners is bad. We distinguish between substitutability in implementation and substitutability in rival benefits and show that the latter is conducive to knowledge sharing. Our work contributes toward putting the literature on learning alliances on a more solid foundation by emphasizing the importance of commitments that leading firms can make to encourage collaboration.This paper was accepted by David Simchi-Levi, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3614
+UR  - https://doi.org/10.1287/mnsc.2020.3614
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Labor Boundaries and Skills: The Case of Lobbyists
+AU  - Espinosa, Miguel
+Y1  - 2020/06/18
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3598
+DO  - 10.1287/mnsc.2020.3598
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1586
+EP  - 1607
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - What are the determinants of in-house employment versus outsourcing in the service sector? I use detailed data on U.S. lobbying services to answer this question. I argue with a series of correlational exercises that firms tend to outsource lobbying tasks that demand a large amount of general skills, whereas they are more likely to assign firm-specific tasks to in-house lobbyists. I provide causal evidence that the need to do tasks that vary in their general skill component leads to a change in outsourcing. Using difference-in-difference estimations, I show that the 2010 British Petroleum oil spill increased the general skills needed by oil and gas firms and that, consequently, their use of lobbyists for hire increased.This paper was accepted by Joshua Gans, business strategy.
+AB  - What are the determinants of in-house employment versus outsourcing in the service sector? I use detailed data on U.S. lobbying services to answer this question. I argue with a series of correlational exercises that firms tend to outsource lobbying tasks that demand a large amount of general skills, whereas they are more likely to assign firm-specific tasks to in-house lobbyists. I provide causal evidence that the need to do tasks that vary in their general skill component leads to a change in outsourcing. Using difference-in-difference estimations, I show that the 2010 British Petroleum oil spill increased the general skills needed by oil and gas firms and that, consequently, their use of lobbyists for hire increased.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3598
+UR  - https://doi.org/10.1287/mnsc.2020.3598
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Simple Rule for Pricing with Limited Knowledge of Demand
+AU  - Cohen, Maxime C.
+AU  - Perakis, Georgia
+AU  - Pindyck, Robert S.
+Y1  - 2020/06/29
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3602
+DO  - 10.1287/mnsc.2020.3602
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1608
+EP  - 1621
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - How should a firm price a new product for which little is known about demand? We propose a simple and practical pricing rule for new products where demand information is limited. The rule is simple: Set price as though the demand curve were linear. Our pricing rule can be used if three conditions hold: the firm can estimate the maximum price it can charge and still expect to sell some units, the firm need not plan in advance the quantity it will sell, and marginal cost is known and constant. We show that if the true demand curve is one of many commonly used demand functions, or even a more complex (randomly generated) function, the firm can expect its profit to be close to what it would earn if it knew the true demand curve. We derive analytical performance bounds for a variety of demand functions, calculate expected profit performance for randomly generated demand curves, and evaluate the welfare implications of our pricing rule. We show that with limited demand information (maximum price and marginal cost), our simple pricing rule can be used for new products while often achieving a near-optimal performance. We also discuss the limitations of our method by identifying cases where our pricing rule does not perform well.This paper was accepted by Joshua Gans, business strategy.
+AB  - How should a firm price a new product for which little is known about demand? We propose a simple and practical pricing rule for new products where demand information is limited. The rule is simple: Set price as though the demand curve were linear. Our pricing rule can be used if three conditions hold: the firm can estimate the maximum price it can charge and still expect to sell some units, the firm need not plan in advance the quantity it will sell, and marginal cost is known and constant. We show that if the true demand curve is one of many commonly used demand functions, or even a more complex (randomly generated) function, the firm can expect its profit to be close to what it would earn if it knew the true demand curve. We derive analytical performance bounds for a variety of demand functions, calculate expected profit performance for randomly generated demand curves, and evaluate the welfare implications of our pricing rule. We show that with limited demand information (maximum price and marginal cost), our simple pricing rule can be used for new products while often achieving a near-optimal performance. We also discuss the limitations of our method by identifying cases where our pricing rule does not perform well.This paper was accepted by Joshua Gans, business strategy.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3602
+UR  - https://doi.org/10.1287/mnsc.2020.3602
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - A Bayesian Level-k Model in n-Person Games
+AU  - Ho, Teck-Hua
+AU  - Park, So-Eun
+AU  - Su, Xuanming
+Y1  - 2020/08/06
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3595
+DO  - 10.1287/mnsc.2020.3595
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1622
+EP  - 1638
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - In standard models of iterative thinking, players choose a fixed rule level from a fixed rule hierarchy. Nonequilibrium behavior emerges when players do not perform enough thinking steps. Existing approaches, however, are inherently static. This paper introduces a Bayesian level-k model, in which level-0 players adjust their actions in response to historical game play, whereas higher-level thinkers update their beliefs on opponents? rule levels and best respond with different rule levels over time. As a consequence, players choose a dynamic rule level (i.e., sophisticated learning) from a varying rule hierarchy (i.e., adaptive learning). We apply our model to existing experimental data on three distinct games: the p-beauty contest, Cournot oligopoly, and private-value auction. We find that both types of learning are significant in p-beauty contest games, but only adaptive learning is significant in the Cournot oligopoly, and only sophisticated learning is significant in the private-value auction. We conclude that it is useful to have a unified framework that incorporates both types of learning to explain dynamic choice behavior across different settings.This paper was accepted by Manel Baucells, decision analysis.
+AB  - In standard models of iterative thinking, players choose a fixed rule level from a fixed rule hierarchy. Nonequilibrium behavior emerges when players do not perform enough thinking steps. Existing approaches, however, are inherently static. This paper introduces a Bayesian level-k model, in which level-0 players adjust their actions in response to historical game play, whereas higher-level thinkers update their beliefs on opponents? rule levels and best respond with different rule levels over time. As a consequence, players choose a dynamic rule level (i.e., sophisticated learning) from a varying rule hierarchy (i.e., adaptive learning). We apply our model to existing experimental data on three distinct games: the p-beauty contest, Cournot oligopoly, and private-value auction. We find that both types of learning are significant in p-beauty contest games, but only adaptive learning is significant in the Cournot oligopoly, and only sophisticated learning is significant in the private-value auction. We conclude that it is useful to have a unified framework that incorporates both types of learning to explain dynamic choice behavior across different settings.This paper was accepted by Manel Baucells, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3595
+UR  - https://doi.org/10.1287/mnsc.2020.3595
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Risk, Ambiguity, and the Value of Diversification
+AU  - Berger, Loïc
+AU  - Eeckhoudt, Louis
+Y1  - 2021/01/05
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3823
+DO  - 10.1287/mnsc.2020.3823
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1639
+EP  - 1647
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Diversification is a basic economic principle that helps to hedge against uncertainty. It is, therefore, intuitive that both risk aversion and ambiguity aversion should positively affect the value of diversification. In this paper, we show that this intuition (1) is true for risk aversion but (2) is not necessarily true for ambiguity aversion. We derive sufficient conditions, showing that, contrary to the economic intuition, ambiguity and ambiguity aversion may actually reduce the diversification value.This paper was accepted by Manel Baucells, decision analysis.
+AB  - Diversification is a basic economic principle that helps to hedge against uncertainty. It is, therefore, intuitive that both risk aversion and ambiguity aversion should positively affect the value of diversification. In this paper, we show that this intuition (1) is true for risk aversion but (2) is not necessarily true for ambiguity aversion. We derive sufficient conditions, showing that, contrary to the economic intuition, ambiguity and ambiguity aversion may actually reduce the diversification value.This paper was accepted by Manel Baucells, decision analysis.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3823
+UR  - https://doi.org/10.1287/mnsc.2020.3823
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Experience Effect in the Impact of Free Trial Promotions
+AU  - Reza, Sadat
+AU  - Ho, Hillbun
+AU  - Ling, Rich
+AU  - Shi, Hongyan
+Y1  - 2020/05/18
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3613
+DO  - 10.1287/mnsc.2020.3613
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1648
+EP  - 1669
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Although the use of free samples is extensive across industries, the effects of free samples across individuals with varying levels of usage have yet to be systematically examined. The models discussed in the literature consider targeting only the current nonusers of a product. In this research, we examine the question of targeting the current users both analytically and empirically for an experience good. Our analytical discussions highlight the reasons why some current users may be effective targets for free-sample promotions. We then conduct an empirical analysis using a data set on pre- and post-free-sample promotion mobile data usage provided by a telecom firm. The empirical findings are consistent with our analytical results. Specifically, we find the initial usage level to be a key determinant of both the redemption rate of a free-sample offer and the subsequent change in usage owing to free-sample redemption. In our context, the redemption rate increased from the low-percentile users to the high-percentile users. We also find that the change in usage was (weakly) monotonically increasing up to the 90th percentile of usage distribution. Beyond the 90th percentile, the effect was generally not significant. We discuss the managerial and policy implications of our findings.This paper was accepted by Juanjuan Zhang, marketing.
+AB  - Although the use of free samples is extensive across industries, the effects of free samples across individuals with varying levels of usage have yet to be systematically examined. The models discussed in the literature consider targeting only the current nonusers of a product. In this research, we examine the question of targeting the current users both analytically and empirically for an experience good. Our analytical discussions highlight the reasons why some current users may be effective targets for free-sample promotions. We then conduct an empirical analysis using a data set on pre- and post-free-sample promotion mobile data usage provided by a telecom firm. The empirical findings are consistent with our analytical results. Specifically, we find the initial usage level to be a key determinant of both the redemption rate of a free-sample offer and the subsequent change in usage owing to free-sample redemption. In our context, the redemption rate increased from the low-percentile users to the high-percentile users. We also find that the change in usage was (weakly) monotonically increasing up to the 90th percentile of usage distribution. Beyond the 90th percentile, the effect was generally not significant. We discuss the managerial and policy implications of our findings.This paper was accepted by Juanjuan Zhang, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3613
+UR  - https://doi.org/10.1287/mnsc.2020.3613
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - When Will Workers Follow an Algorithm? A Field Experiment with a Retail Business
+AU  - Kawaguchi, Kohei
+Y1  - 2020/06/19
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3599
+DO  - 10.1287/mnsc.2020.3599
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1670
+EP  - 1695
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - This paper develops a new algorithm for increasing the revenue in a dynamic product assortment problem. Then, it identifies the challenges faced by managers in practice and discusses the conditions under which workers follow the algorithm. To do so, I conducted a field experiment with a beverage vending machine business. The experiment shows that, on average, workers are reluctant to follow the algorithmic advice; however, the workers are more willing to conform once their forecasts are integrated into the algorithm. Analyses using nonexperimental variations highlight the importance of taking worker and context heterogeneity into account to maximize the benefit from adopting a new algorithm. Higher worker?s regret, sales volatility, and fewer delegations increase the conformity, while they mitigate the effects of integration. Workers avoid high-traffic vending machines and focus on machines with high sales volatility when adopting the algorithm. The effects on the sales are largely similar to the effects on product assortments. The results emphasize the gap between nominal and actual performance of an algorithm and several practical issues to be resolved.This paper was accepted by Matthew Shum, marketing.
+AB  - This paper develops a new algorithm for increasing the revenue in a dynamic product assortment problem. Then, it identifies the challenges faced by managers in practice and discusses the conditions under which workers follow the algorithm. To do so, I conducted a field experiment with a beverage vending machine business. The experiment shows that, on average, workers are reluctant to follow the algorithmic advice; however, the workers are more willing to conform once their forecasts are integrated into the algorithm. Analyses using nonexperimental variations highlight the importance of taking worker and context heterogeneity into account to maximize the benefit from adopting a new algorithm. Higher worker?s regret, sales volatility, and fewer delegations increase the conformity, while they mitigate the effects of integration. Workers avoid high-traffic vending machines and focus on machines with high sales volatility when adopting the algorithm. The effects on the sales are largely similar to the effects on product assortments. The results emphasize the gap between nominal and actual performance of an algorithm and several practical issues to be resolved.This paper was accepted by Matthew Shum, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3599
+UR  - https://doi.org/10.1287/mnsc.2020.3599
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Prepurchase Information Acquisition and Credible Advertising
+AU  - Gardete, Pedro M.
+AU  - Guo, Liang
+Y1  - 2020/10/05
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3600
+DO  - 10.1287/mnsc.2020.3600
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1696
+EP  - 1717
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Consumers can decide whether to acquire more information about their valuations prior to purchase. In this paper, we examine pricing and advertising strategies when consumers can engage in prepurchase information acquisition. We show that consumer information acquisition can increase valuation heterogeneity and undermine a firm?s ability to extract consumer surplus. As a result, interestingly, a higher product quality can exert a nonmonotonic impact on equilibrium information acquisition, hurt firm profitability, and lead to lower consumer surplus. We also demonstrate that prepurchase information acquisition can be an endogenous mechanism to enable credible advertising in a cheap-talk setting. We show that quality claims in advertisements can be informative even when the firm can freely misrepresent its advertising message. Informative advertising can arise because a higher perceived quality can not only increase consumers? expected value, but it also induces more information acquisition and thus hurts the firm?s ability to extract consumer surplus. This novel explanation for the credibility of cheap-talk advertising is distinguished from those identified in the literature (e.g., matching between firm types and heterogenous consumers, restrictive communication on multidimensional attributes). Moreover, we show that a higher quality can soften competition by inducing more information acquisition, thus benefiting the rival firm?s profitability.This paper was accepted by Matthew Shum, marketing.
+AB  - Consumers can decide whether to acquire more information about their valuations prior to purchase. In this paper, we examine pricing and advertising strategies when consumers can engage in prepurchase information acquisition. We show that consumer information acquisition can increase valuation heterogeneity and undermine a firm?s ability to extract consumer surplus. As a result, interestingly, a higher product quality can exert a nonmonotonic impact on equilibrium information acquisition, hurt firm profitability, and lead to lower consumer surplus. We also demonstrate that prepurchase information acquisition can be an endogenous mechanism to enable credible advertising in a cheap-talk setting. We show that quality claims in advertisements can be informative even when the firm can freely misrepresent its advertising message. Informative advertising can arise because a higher perceived quality can not only increase consumers? expected value, but it also induces more information acquisition and thus hurts the firm?s ability to extract consumer surplus. This novel explanation for the credibility of cheap-talk advertising is distinguished from those identified in the literature (e.g., matching between firm types and heterogenous consumers, restrictive communication on multidimensional attributes). Moreover, we show that a higher quality can soften competition by inducing more information acquisition, thus benefiting the rival firm?s profitability.This paper was accepted by Matthew Shum, marketing.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3600
+UR  - https://doi.org/10.1287/mnsc.2020.3600
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Service Design for a Holistic Customer Experience: A Process Framework
+AU  - Bellos, Ioannis
+AU  - Kavadias, Stylianos
+Y1  - 2020/08/21
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2020.3609
+DO  - 10.1287/mnsc.2020.3609
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1718
+EP  - 1736
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Modern service design practices conceptualize services as multistep processes. At each step, customers derive an uncertain value, which depends on a functional benefit and a subjective experience. The latter may depend on experiences realized at previous steps. Service designs determine the provider effort at each step given that customers prefer less-variable experiences, and enable a holistic perspective of the overall experience. We quantify two factors that shape service designs: the type of steps ((i) routine steps, where effort increases the functional benefit and decreases the experience variability, and (ii) nonroutine steps, where effort increases the functional benefit at the expense of higher variability) and a holistic coupling factor (at each step, the design is determined not only by experience realizations at predecessor steps but also by how it can shape subsequent experiences). The optimal efforts depend on the combination of these two factors, giving rise to actionable design rules. For a positive coupling factor, step type homogeneity leads to ?spread the effort? designs (complementary efforts), whereas a negative coupling factor suggests focusing the effort on a few key steps at the expense of the rest of the service (substitutable efforts). Step type heterogeneity reverses these recommendations. Moreover, when the customer experience unfolds according to a nonstationary process with serial correlation, the effort at each step is determined by an impact zone defined by the steps surrounding the focal service step. Stronger correlation always induces higher effort, whereas weaker correlation may induce less effort in services with heterogeneous step types.This paper was accepted by Serguei Netessine, operations management.
+AB  - Modern service design practices conceptualize services as multistep processes. At each step, customers derive an uncertain value, which depends on a functional benefit and a subjective experience. The latter may depend on experiences realized at previous steps. Service designs determine the provider effort at each step given that customers prefer less-variable experiences, and enable a holistic perspective of the overall experience. We quantify two factors that shape service designs: the type of steps ((i) routine steps, where effort increases the functional benefit and decreases the experience variability, and (ii) nonroutine steps, where effort increases the functional benefit at the expense of higher variability) and a holistic coupling factor (at each step, the design is determined not only by experience realizations at predecessor steps but also by how it can shape subsequent experiences). The optimal efforts depend on the combination of these two factors, giving rise to actionable design rules. For a positive coupling factor, step type homogeneity leads to ?spread the effort? designs (complementary efforts), whereas a negative coupling factor suggests focusing the effort on a few key steps at the expense of the rest of the service (substitutable efforts). Step type heterogeneity reverses these recommendations. Moreover, when the customer experience unfolds according to a nonstationary process with serial correlation, the effort at each step is determined by an impact zone defined by the steps surrounding the focal service step. Stronger correlation always induces higher effort, whereas weaker correlation may induce less effort in services with heterogeneous step types.This paper was accepted by Serguei Netessine, operations management.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.3609
+UR  - https://doi.org/10.1287/mnsc.2020.3609
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Shareholders as Creditors of First Resort
+AU  - Bodnaruk, Andriy
+AU  - Rossi, Marco
+Y1  - 2020/06/10
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3556
+DO  - 10.1287/mnsc.2019.3556
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1737
+EP  - 1757
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We show that a firm?s ability to access the public bond market for the first time is greatly improved when habitual dual holders (HDHs)?financial conglomerates that tend to simultaneously hold both equity and bonds of their portfolio firms?are among its shareholders. HDHs are more likely to buy bonds in a bond initial public offering (IPO) and to take larger bond positions than bond investors with no equity in the firm. Greater equity ownership by HDHs is associated with a higher fraction of the issue ending up in the hands of pre-IPO shareholders, lower offering yield spreads, and more covenants overall but fewer covenants that restrict payout to shareholders.This paper was accepted by Renee Adams, finance.
+AB  - We show that a firm?s ability to access the public bond market for the first time is greatly improved when habitual dual holders (HDHs)?financial conglomerates that tend to simultaneously hold both equity and bonds of their portfolio firms?are among its shareholders. HDHs are more likely to buy bonds in a bond initial public offering (IPO) and to take larger bond positions than bond investors with no equity in the firm. Greater equity ownership by HDHs is associated with a higher fraction of the issue ending up in the hands of pre-IPO shareholders, lower offering yield spreads, and more covenants overall but fewer covenants that restrict payout to shareholders.This paper was accepted by Renee Adams, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3556
+UR  - https://doi.org/10.1287/mnsc.2019.3556
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Index Option Trading Activity and Market Returns
+AU  - Chordia, Tarun
+AU  - Kurov, Alexander
+AU  - Muravyev, Dmitriy
+AU  - Subrahmanyam, Avanidhar
+Y1  - 2020/07/10
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3529
+DO  - 10.1287/mnsc.2019.3529
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1758
+EP  - 1778
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Do order flows in index derivatives play an informational role? Weekly index put order flow on the International Securities Exchange positively and robustly predicts weekly S&P 500 index returns. This result obtains mainly for net put buying and is stronger in high VIX periods and in periods following macroeconomic announcements. We explore rationales for our findings, which include investor sentiment, the notion that market makers trade on information in options markets, and option-based risk protection strategies used by retail investors. The last explanation accords best with our analysis.This paper was accepted by Tyler Shumway, finance.
+AB  - Do order flows in index derivatives play an informational role? Weekly index put order flow on the International Securities Exchange positively and robustly predicts weekly S&P 500 index returns. This result obtains mainly for net put buying and is stronger in high VIX periods and in periods following macroeconomic announcements. We explore rationales for our findings, which include investor sentiment, the notion that market makers trade on information in options markets, and option-based risk protection strategies used by retail investors. The last explanation accords best with our analysis.This paper was accepted by Tyler Shumway, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3529
+UR  - https://doi.org/10.1287/mnsc.2019.3529
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Incremental vs. Breakthrough Innovation: The Role of Technology Spillovers
+AU  - Byun, Seong K.
+AU  - Oh, Jong-Min
+AU  - Xia, Han
+Y1  - 2020/05/20
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3507
+DO  - 10.1287/mnsc.2019.3507
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1779
+EP  - 1802
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We show that technology spillovers shift the composition of corporate research and development by promoting innovation based on the exploitation of existing knowledge while disincentivizing innovation that explores new areas and breaks new ground. Accordingly, firms facing large technology spillovers attain fewer superstar inventors among their human capital, who are important drivers of breakthrough technology advancement. These findings complement the existing studies documenting the positive effect of technology spillovers in increasing firms? overall innovation outputs; they highlight potential downsides of technology spillovers in reducing firm investment in technology breakthrough and valuable human capital.This paper was accepted by Gustavo Manso, finance.
+AB  - We show that technology spillovers shift the composition of corporate research and development by promoting innovation based on the exploitation of existing knowledge while disincentivizing innovation that explores new areas and breaks new ground. Accordingly, firms facing large technology spillovers attain fewer superstar inventors among their human capital, who are important drivers of breakthrough technology advancement. These findings complement the existing studies documenting the positive effect of technology spillovers in increasing firms? overall innovation outputs; they highlight potential downsides of technology spillovers in reducing firm investment in technology breakthrough and valuable human capital.This paper was accepted by Gustavo Manso, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3507
+UR  - https://doi.org/10.1287/mnsc.2019.3507
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Informed Trading with a Short-Sale Prohibition
+AU  - Lenkey, Stephen L.
+Y1  - 2020/05/21
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3501
+DO  - 10.1287/mnsc.2019.3501
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1803
+EP  - 1824
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - Using a rational expectations equilibrium framework, I evaluate the effects of a short-sale prohibition in an economy with asymmetrically informed investors who are identical except for their information sets. Relative to an economy in which short selling is permitted, the financial market is less informationally efficient under a short-sale ban even when the ban is not binding. This alters the risk-sharing environment and leads to an increase in information acquisition. Additionally, a short-sale prohibition increases market depth. Imposing a cost on short selling instead of a strict prohibition yields similar results. Novel empirical implications are identified.This paper was accepted by Karl Diether, finance.
+AB  - Using a rational expectations equilibrium framework, I evaluate the effects of a short-sale prohibition in an economy with asymmetrically informed investors who are identical except for their information sets. Relative to an economy in which short selling is permitted, the financial market is less informationally efficient under a short-sale ban even when the ban is not binding. This alters the risk-sharing environment and leads to an increase in information acquisition. Additionally, a short-sale prohibition increases market depth. Imposing a cost on short selling instead of a strict prohibition yields similar results. Novel empirical implications are identified.This paper was accepted by Karl Diether, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3501
+UR  - https://doi.org/10.1287/mnsc.2019.3501
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Trust, Collaboration, and Economic Growth
+AU  - Kondo, Jiro
+AU  - Li, Danielle
+AU  - Papanikolaou, Dimitris
+Y1  - 2020/05/22
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3545
+DO  - 10.1287/mnsc.2019.3545
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1825
+EP  - 1850
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We propose a macroeconomic model in which variation in the level of trust leads to higher innovation, investment, and productivity growth. The key feature in the model is a hold-up friction in the creation of new capital. Innovators generate ideas but are inefficient at implementing them into productive capital on their own. Firms can help innovators implement their ideas efficiently but cannot ex ante commit to compensating them appropriately. Rather, firms are disciplined only by the value of their reputations?the present value of their future partnerships. We model trust as a public signal and construct a correlated equilibrium. When trust is high, firms anticipate fruitful collaborations and thus can credibly commit to not expropriating inventors, leading to the more efficient production of new capital. Our model can be used to qualitatively replicate the empirical relation between measures of trust and investment, innovation, and productivity growth?at both the micro and macro level.This paper was accepted by Tomasz Piskorski, finance.
+AB  - We propose a macroeconomic model in which variation in the level of trust leads to higher innovation, investment, and productivity growth. The key feature in the model is a hold-up friction in the creation of new capital. Innovators generate ideas but are inefficient at implementing them into productive capital on their own. Firms can help innovators implement their ideas efficiently but cannot ex ante commit to compensating them appropriately. Rather, firms are disciplined only by the value of their reputations?the present value of their future partnerships. We model trust as a public signal and construct a correlated equilibrium. When trust is high, firms anticipate fruitful collaborations and thus can credibly commit to not expropriating inventors, leading to the more efficient production of new capital. Our model can be used to qualitatively replicate the empirical relation between measures of trust and investment, innovation, and productivity growth?at both the micro and macro level.This paper was accepted by Tomasz Piskorski, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3545
+UR  - https://doi.org/10.1287/mnsc.2019.3545
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Tacit Collusion and Voluntary Disclosure: Theory and Evidence from the U.S. Automotive Industry
+AU  - Bertomeu, Jeremy
+AU  - Evans, John Harry
+AU  - Feng, Mei
+AU  - Tseng, Ayung
+Y1  - 2020/05/22
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3531
+DO  - 10.1287/mnsc.2019.3531
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1851
+EP  - 1875
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We develop a model of voluntary disclosure and production decisions and use it to establish that firms will tacitly collude by disclosing when current market demand is low and when the decision horizon is long. Low demand helps sustain tacit collusion, because deviation from tacit collusion yields only a limited increase in profit when demand is low. Similarly, longer decision horizons give firms incentive to receive the benefits of collusion over a longer period. Using monthly production forecasts issued by the Big Three U.S. automobile manufacturers, we show that the frequency, horizon, and accuracy of the production forecasts increase when demand decreases and when the firms focus more on long-term profit. Collectively, the evidence suggests that firms use voluntary disclosures to tacitly collude.This paper was accepted by Brian Bushee, accounting.
+AB  - We develop a model of voluntary disclosure and production decisions and use it to establish that firms will tacitly collude by disclosing when current market demand is low and when the decision horizon is long. Low demand helps sustain tacit collusion, because deviation from tacit collusion yields only a limited increase in profit when demand is low. Similarly, longer decision horizons give firms incentive to receive the benefits of collusion over a longer period. Using monthly production forecasts issued by the Big Three U.S. automobile manufacturers, we show that the frequency, horizon, and accuracy of the production forecasts increase when demand decreases and when the firms focus more on long-term profit. Collectively, the evidence suggests that firms use voluntary disclosures to tacitly collude.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3531
+UR  - https://doi.org/10.1287/mnsc.2019.3531
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Product Market Peers in Lending
+AU  - De Franco, Gus
+AU  - Edwards, Alexander
+AU  - Liao, Scott
+Y1  - 2020/05/22
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3539
+DO  - 10.1287/mnsc.2019.3539
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1876
+EP  - 1894
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - This study examines how product market peers affect lending relationships. We contend that firms are more likely to borrow from a bank that has previously lent to a peer to mitigate information asymmetry with the bank when potential information processing efficiencies are greater (i.e., information efficiency hypothesis), but there will be a decreased propensity to borrow from a shared lender when the costs of leaking proprietary information are greater (i.e., proprietary information leakage hypothesis). We find that, after bank mergers that involve peers? lenders, firms are more likely to switch banks to avoid sharing the same lenders as a product market peer. In cross-sectional analyses, we find that after bank mergers that involve a peer?s bank, firms are less likely to switch when the firm?s financial reporting is more opaque and has greater monitoring needs, consistent with the information efficiency hypothesis. In contrast, firms are more likely to switch after bank mergers that involve a peer?s bank when the firm belongs to an industry with greater proprietary costs and when the bank has greater incentives to leak information, consistent with the proprietary cost hypothesis.This paper was accepted by Brian Bushee, accounting.
+AB  - This study examines how product market peers affect lending relationships. We contend that firms are more likely to borrow from a bank that has previously lent to a peer to mitigate information asymmetry with the bank when potential information processing efficiencies are greater (i.e., information efficiency hypothesis), but there will be a decreased propensity to borrow from a shared lender when the costs of leaking proprietary information are greater (i.e., proprietary information leakage hypothesis). We find that, after bank mergers that involve peers? lenders, firms are more likely to switch banks to avoid sharing the same lenders as a product market peer. In cross-sectional analyses, we find that after bank mergers that involve a peer?s bank, firms are less likely to switch when the firm?s financial reporting is more opaque and has greater monitoring needs, consistent with the information efficiency hypothesis. In contrast, firms are more likely to switch after bank mergers that involve a peer?s bank when the firm belongs to an industry with greater proprietary costs and when the bank has greater incentives to leak information, consistent with the proprietary cost hypothesis.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3539
+UR  - https://doi.org/10.1287/mnsc.2019.3539
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Competition and Opacity in the Financial System
+AU  - Zhang, Gaoqing
+Y1  - 2020/05/11
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3512
+DO  - 10.1287/mnsc.2019.3512
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1895
+EP  - 1913
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - This paper studies the effect of competition on opacity in the financial system. In my model, two financial institutions competing for investors simultaneously make a public disclosure decision when both are exposed to rollover risk. I find that in the face of rollover risk, competition between financial institutions has a nonmonotonic effect on their disclosure decisions. More intense competition can reduce disclosure and make the financial system more opaque, especially when investors? private information about the financial institutions is sufficiently precise.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - This paper studies the effect of competition on opacity in the financial system. In my model, two financial institutions competing for investors simultaneously make a public disclosure decision when both are exposed to rollover risk. I find that in the face of rollover risk, competition between financial institutions has a nonmonotonic effect on their disclosure decisions. More intense competition can reduce disclosure and make the financial system more opaque, especially when investors? private information about the financial institutions is sufficiently precise.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3512
+UR  - https://doi.org/10.1287/mnsc.2019.3512
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Genesis of Voluntary Disclosure: An Analysis of Firms’ First Earnings Guidance
+AU  - Allee, Kristian D.
+AU  - Christensen, Theodore E.
+AU  - Graden, Bryan S.
+AU  - Merkley, Kenneth J.
+Y1  - 2020/05/29
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3514
+DO  - 10.1287/mnsc.2019.3514
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1914
+EP  - 1938
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We investigate a firm?s decision to initiate earnings guidance during its first year as a public company following its initial public offering (IPO), which we label ?early guidance.? Using a sample of firms with IPOs between 2001 and 2010, we find that almost 60% provide early guidance and that only one-third of the firms that do not provide guidance during the first year subsequently decide to guide. Consistent with the importance of liquidity incentives following the IPO, we find that firms are significantly more likely to provide early guidance when their IPOs are backed by venture capital or private equity investors. Our results indicate that firms with higher-quality IPO information are more likely to provide early earnings guidance. We also find that early guidance has significant implications for future disclosure choices. Firms that guide soon after the IPO are significantly more likely to guide again and to provide regular future guidance (i.e., they establish a regular guidance policy). Finally, we find evidence suggesting that the credibility of initial guidance is lower than that of subsequent guidance, and subsequent guidance credibility relates to both the length of firms? guidance history and the accuracy of their initial guidance disclosures.This paper was accepted by Shiva Rajgopal, accounting.
+AB  - We investigate a firm?s decision to initiate earnings guidance during its first year as a public company following its initial public offering (IPO), which we label ?early guidance.? Using a sample of firms with IPOs between 2001 and 2010, we find that almost 60% provide early guidance and that only one-third of the firms that do not provide guidance during the first year subsequently decide to guide. Consistent with the importance of liquidity incentives following the IPO, we find that firms are significantly more likely to provide early guidance when their IPOs are backed by venture capital or private equity investors. Our results indicate that firms with higher-quality IPO information are more likely to provide early earnings guidance. We also find that early guidance has significant implications for future disclosure choices. Firms that guide soon after the IPO are significantly more likely to guide again and to provide regular future guidance (i.e., they establish a regular guidance policy). Finally, we find evidence suggesting that the credibility of initial guidance is lower than that of subsequent guidance, and subsequent guidance credibility relates to both the length of firms? guidance history and the accuracy of their initial guidance disclosures.This paper was accepted by Shiva Rajgopal, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3514
+UR  - https://doi.org/10.1287/mnsc.2019.3514
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Chief Financial Officer Co-option and Chief Executive Officer Compensation
+AU  - Dikolli, Shane S.
+AU  - Heater, John C.
+AU  - Mayew, William J.
+AU  - Sethuraman, Mani
+Y1  - 2020/01/29
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3519
+DO  - 10.1287/mnsc.2019.3519
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1939
+EP  - 1955
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - We study whether relative power in the chief executive officer (CEO)?chief financial officer (CFO) relationship influences CEO compensation. To operationalize relative power of a CEO over a CFO, we define CFO co-option as the appointment of a CFO after a CEO assumes office. We find that CFO co-option is associated with a CEO pay premium of about 10%, which is concentrated more in the early years of the co-opted CFO?s tenure and in components of compensation that vary with the achievement of analyst-based earnings targets. Our evidence also indicates that a primary channel through which CEO power over a co-opted CFO yields the achievement of earnings targets is the use of earnings management to inflate earnings. Co-opted CFOs rely primarily on using discretionary accruals to manage earnings prior to the Sarbanes?Oxley regulatory intervention and switch to real-activities manipulation afterward. The evidence thus suggests that the form of earnings management depends on costs imposed on the CFO to inflate earnings.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - We study whether relative power in the chief executive officer (CEO)?chief financial officer (CFO) relationship influences CEO compensation. To operationalize relative power of a CEO over a CFO, we define CFO co-option as the appointment of a CFO after a CEO assumes office. We find that CFO co-option is associated with a CEO pay premium of about 10%, which is concentrated more in the early years of the co-opted CFO?s tenure and in components of compensation that vary with the achievement of analyst-based earnings targets. Our evidence also indicates that a primary channel through which CEO power over a co-opted CFO yields the achievement of earnings targets is the use of earnings management to inflate earnings. Co-opted CFOs rely primarily on using discretionary accruals to manage earnings prior to the Sarbanes?Oxley regulatory intervention and switch to real-activities manipulation afterward. The evidence thus suggests that the form of earnings management depends on costs imposed on the CFO to inflate earnings.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3519
+UR  - https://doi.org/10.1287/mnsc.2019.3519
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - How Economically Significant Are Unused Capacity Costs? A Large-Scale Empirical Analysis
+AU  - Ederhof, Merle
+AU  - Nagar, Venky
+AU  - Rajan, Madhav
+Y1  - 2020/03/26
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3502
+DO  - 10.1287/mnsc.2019.3502
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1956
+EP  - 1974
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - This study uses a confidential Census sample of 151,900 U.S. manufacturing plant-years from 1974 to 2011 to investigate the impact of excluding the cost of unused capacity from key financial indicators, namely, product costs and gross margins. We estimate the magnitude of unused capacity cost as a percentage of sales to be about 4.8%, which for Compustat manufacturing firms in 2011 amounts to $142 billion (by comparison, the well-researched topic of research and development expenses totals to $223 billion). We find that excluding the cost of unused capacity decreases product costs by approximately 6% and increases gross margins by around 26%. These magnitudes are economically significant and pervasive across industries and over time. Excluding the cost of unused capacity also smooths the time-series variation in unitized product costs and gross margins, with the standard deviation of gross margins declining (significantly) by 5%. Additional analyses indicate the presence of congestion and other costs at high capacity utilization levels, as predicted by the operations literature.This paper was accepted by Suraj Srinivasan, accounting.
+AB  - This study uses a confidential Census sample of 151,900 U.S. manufacturing plant-years from 1974 to 2011 to investigate the impact of excluding the cost of unused capacity from key financial indicators, namely, product costs and gross margins. We estimate the magnitude of unused capacity cost as a percentage of sales to be about 4.8%, which for Compustat manufacturing firms in 2011 amounts to $142 billion (by comparison, the well-researched topic of research and development expenses totals to $223 billion). We find that excluding the cost of unused capacity decreases product costs by approximately 6% and increases gross margins by around 26%. These magnitudes are economically significant and pervasive across industries and over time. Excluding the cost of unused capacity also smooths the time-series variation in unitized product costs and gross margins, with the standard deviation of gross margins declining (significantly) by 5%. Additional analyses indicate the presence of congestion and other costs at high capacity utilization levels, as predicted by the operations literature.This paper was accepted by Suraj Srinivasan, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3502
+UR  - https://doi.org/10.1287/mnsc.2019.3502
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Uniform Pricing Regulations on Incentives to Generate and Disclose Accounting Information
+AU  - Arya, Anil
+AU  - Mittendorf, Brian
+AU  - Yoon, Dae-Hee
+Y1  - 2020/06/12
+PY  - 2020
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2019.3503
+DO  - 10.1287/mnsc.2019.3503
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 1975
+EP  - 1992
+VL  - 67
+IS  - 3
+PB  - INFORMS
+N2  - A persistent question in industrial organization is whether regulations restricting price discrimination in input markets can promote efficiency. Despite the extensive study of the economic effects of input pricing regulations, the literature is bereft of an examination of the role of accounting information. In this paper, we seek to fill the gap by modeling the effects of uniform pricing restrictions in input markets on firms? information generation and disclosure. In doing so, we find that information considerations present an impetus for uniform pricing requirements since they promote incentives for retail firms to both acquire and disclose relevant accounting information. In effect, by shielding retail firms from excessive supplier exploitation, uniform pricing regulations create a richer and more transparent information environment. This, then, leads to welfare gains and even benefits that can accrue naturally to all supply chain partners including the supplier, whose actions are constrained by the uniform pricing regulation.This paper was accepted by Brian Bushee, accounting.
+AB  - A persistent question in industrial organization is whether regulations restricting price discrimination in input markets can promote efficiency. Despite the extensive study of the economic effects of input pricing regulations, the literature is bereft of an examination of the role of accounting information. In this paper, we seek to fill the gap by modeling the effects of uniform pricing restrictions in input markets on firms? information generation and disclosure. In doing so, we find that information considerations present an impetus for uniform pricing requirements since they promote incentives for retail firms to both acquire and disclose relevant accounting information. In effect, by shielding retail firms from excessive supplier exploitation, uniform pricing regulations create a richer and more transparent information environment. This, then, leads to welfare gains and even benefits that can accrue naturally to all supply chain partners including the supplier, whose actions are constrained by the uniform pricing regulation.This paper was accepted by Brian Bushee, accounting.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.3503
+UR  - https://doi.org/10.1287/mnsc.2019.3503
+Y2  - 2024/03/29
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - doi: 10.1287/mnsc.2021.eb.v67n03
+DO  - 10.1287/mnsc.2021.eb.v67n03
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - iv
+VL  - 67
+IS  - 3
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.eb.v67n03
+UR  - https://doi.org/10.1287/mnsc.2021.eb.v67n03
+Y2  - 2024/03/29
+ER  - 

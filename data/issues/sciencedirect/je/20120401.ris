@@ -1,0 +1,455 @@
+TY  - JOUR
+T1  - Local polynomial Whittle estimation of perturbed fractional processes
+AU  - Frederiksen, Per
+AU  - Nielsen, Frank S.
+AU  - Nielsen, Morten Ørregaard
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 426
+EP  - 447
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002077
+KW  - Bias reduction
+KW  - Local Whittle
+KW  - Long memory
+KW  - Perturbed fractional process
+KW  - Semiparametric estimation
+KW  - Stochastic volatility
+AB  - We propose a semiparametric local polynomial Whittle with noise estimator of the memory parameter in long memory time series perturbed by a noise term which may be serially correlated. The estimator approximates the log-spectrum of the short-memory component of the signal as well as that of the perturbation by two separate polynomials. Including these polynomials we obtain a reduction in the order of magnitude of the bias, but also inflate the asymptotic variance of the long memory estimator by a multiplicative constant. We show that the estimator is consistent for d∈(0,1), asymptotically normal for d∈(0,3/4), and if the spectral density is sufficiently smooth near frequency zero, the rate of convergence can become arbitrarily close to the parametric rate, n. A Monte Carlo study reveals that the proposed estimator performs well in the presence of a serially correlated perturbation term. Furthermore, an empirical investigation of the 30 DJIA stocks shows that this estimator indicates stronger persistence in volatility than the standard local Whittle (with noise) estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Residual based tests for cointegration in dependent panels
+AU  - Chang, Yoosoon
+AU  - Nguyen, Chi Mai
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 504
+EP  - 520
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002132
+KW  - Panel cointegration tests
+KW  - Testing instruments
+KW  - Nonstationary panel
+KW  - Cross-sectional dependency
+AB  - In the paper, we propose residual based tests for cointegration in general panels with cross-sectional dependency, endogeneity and various heterogeneities. The residuals are obtained from the usual least squares estimation of the postulated cointegrating relationships from each individual unit, and the nonlinear IV panel unit root testing procedure is applied to the panels of the fitted residuals using as instruments the nonlinear transformations of the adaptively fitted lagged residuals. The t-ratio, based on the nonlinear IV estimator, is then constructed to test for unit root in the fitted residuals for each cross-section. We show that such nonlinear IV t-ratios are asymptotically normal and cross-sectionally independent under the null hypothesis of no cointegration. The average or the minimum of the IVt-ratios can, therefore, be used to test for the null of a fully non-cointegrated panel against the alternative of a mixed panel, i.e., a panel with only some cointegrated units. We also consider the maximum of the IV t-ratios to test for a mixed panel against a fully cointegrated panel. The critical values of the minimum, maximum as well as the average tests are easily obtained from the standard normal distribution function. Our simulation results indicate that the residual based tests for cointegration perform quite well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric quantile regression estimation in dynamic models with partially varying coefficients
+AU  - Cai, Zongwu
+AU  - Xiao, Zhijie
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 413
+EP  - 425
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002065
+KW  - Efficiency
+KW  - Nonlinear time series
+KW  - Partially linear
+KW  - Partially varying coefficients
+KW  - Quantile regression
+KW  - Semiparametric
+AB  - We study quantile regression estimation for dynamic models with partially varying coefficients so that the values of some coefficients may be functions of informative covariates. Estimation of both parametric and nonparametric functional coefficients are proposed. In particular, we propose a three stage semiparametric procedure. Both consistency and asymptotic normality of the proposed estimators are derived. We demonstrate that the parametric estimators are root-n consistent and the estimation of the functional coefficients is oracle. In addition, efficiency of parameter estimation is discussed and a simple efficient estimator is proposed. A simple and easily implemented test for the hypothesis of a varying-coefficient is proposed. A Monte Carlo experiment is conducted to evaluate the performance of the proposed estimators.
+ER  - 
+
+TY  - JOUR
+T1  - Lock-in and unobserved preferences in server operating systems: A case of Linux vs. Windows
+AU  - Hong, Seung-Hyun
+AU  - Rezende, Leonardo
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 494
+EP  - 503
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002120
+KW  - Lock-in
+KW  - Unobserved preference
+KW  - Panel data
+KW  - Discrete choice
+KW  - Fixed effects
+KW  - Random effects
+AB  - This paper investigates to what extent the persistence of Microsoft Windows in the market for server operating systems is due to lock-in or unobserved preferences. While the hypothesis of lock-in plays an important role in the antitrust policy debate for the operating systems market, it has not been extensively documented empirically. To account for unobserved preferences, we use a panel data identification approach based on time-variant group fixed effects, and estimate the dynamic discrete choice panel data model developed by Arellano and Carrasco (2003). Using detailed establishment-level data, we find that once we account for unobserved preferences, the estimated magnitudes of lock-in are considerably smaller than those from the conventional approaches, suggesting that unobserved preferences play a major role in the persistence of Windows. Further robustness checks are consistent with our findings.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - IFC
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00049-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000498
+ER  - 
+
+TY  - JOUR
+T1  - Functional regression of continuous state distributions
+AU  - Park, Joon Y.
+AU  - Qian, Junhui
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 397
+EP  - 412
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.024
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002053
+KW  - Functional regression
+KW  - Time-varying density
+KW  - Moment dependence
+AB  - In this paper, we consider a regression model to study the distributional relationship between economic variables. Unlike the classical regression dealing exclusively with mean relationship, our model can be used to analyze the entire dependent structure in distribution. Technically, we treat density functions as random elements and represent the regression relationship as a compact linear operator in the Hilbert spaces of square integrable functions. We propose a consistent estimation procedure for our model, and develop a test to investigate the dependent structure of moments. An empirical example is provided to illustrate how our methodology can be implemented in practical applications.
+ER  - 
+
+TY  - JOUR
+T1  - Specification testing in nonparametric instrumental variable estimation
+AU  - Horowitz, Joel L.
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 383
+EP  - 396
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002041
+KW  - Inverse problem
+KW  - Instrumental variable
+KW  - Series estimator
+KW  - Linear operator
+AB  - In nonparametric instrumental variable estimation, the function being estimated is the solution to an integral equation. A solution may not exist if, for example, the instrument is not valid. This paper discusses the problem of testing the null hypothesis that a solution exists against the alternative that there is no solution. We give necessary and sufficient conditions for existence of a solution and show that uniformly consistent testing of an unrestricted null hypothesis is not possible. Uniformly consistent testing is possible, however, if the null hypothesis is restricted by assuming that any solution to the integral equation is smooth. Many functions of interest in applied econometrics, including demand functions and Engel curves, are expected to be smooth. The paper presents a statistic for testing the null hypothesis that a smooth solution exists. The test is consistent uniformly over a large class of probability distributions of the observable random variables for which the integral equation has no smooth solution. The finite-sample performance of the test is illustrated through Monte Carlo experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Confidence intervals for the quantile of treatment effects in randomized experiments
+AU  - Fan, Yanqin
+AU  - Park, Sang Soo
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 330
+EP  - 344
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002004
+KW  - Heterogeneous treatment effects
+KW  - Partial identification
+KW  - Quantile treatment effects
+KW  - Order statistic approach
+AB  - In this paper, we explore partial identification and inference for the quantile of treatment effects for randomized experiments. First, we propose nonparametric estimators of sharp bounds on the quantile of treatment effects and establish their asymptotic properties under general conditions. Second, we construct confidence intervals for the bounds and the true quantile by using the approach in Chernozhukov et al. (2009). Third, under additional conditions, we develop a new approach to construct confidence intervals for the bounds and the true quantile and refer to it as the order statistic approach. A simulation study is conducted to investigate the finite sample performance of both approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Treatment effects in sample selection models and their nonparametric estimation
+AU  - Lee, Myoung-jae
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 317
+EP  - 329
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001990
+KW  - Treatment effect
+KW  - Sample selection
+KW  - Matching
+KW  - U-statistic
+KW  - Sensitivity analysis
+AB  - In a sample-selection model with the ‘selection’ variable Q and the ‘outcome’ variable Y∗, Y∗ is observed only when Q=1. For a treatment D affecting both Q and Y∗, three effects are of interest: ‘participation’ (i.e., the selection) effect of D on Q, ‘visible performance’ (i.e., the observed outcome) effect of D on Y≡QY∗, and ‘invisible performance’ (i.e., the latent outcome) effect of D on Y∗. This paper shows the conditions under which the three effects are identified, respectively, by the three corresponding mean differences of Q, Y, and Y|Q=1 (i.e., Y∗|Q=1) across the control (D=0) and treatment (D=1) groups. Our nonparametric estimators for those effects adopt a two-sample framework and have several advantages over the usual matching methods. First, there is no need to select the number of matched observations. Second, the asymptotic distribution is easily obtained. Third, over-sampling the control/treatment group is allowed. Fourth, there is a built-in mechanism that takes into account the ‘non-overlapping support problem’, which the usual matching deals with by choosing a ‘caliper’. Fifth, a sensitivity analysis to gauge the presence of unobserved confounders is available. A simulation study is conducted to compare the proposed methods with matching methods, and a real data illustration is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric GMM estimation of spatial autoregressive models
+AU  - Su, Liangjun
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 543
+EP  - 560
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.034
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002156
+KW  - Generalized method of moments
+KW  - Local instruments
+KW  - Nonlinearity
+KW  - Semiparametrics
+KW  - Spatial autoregression
+AB  - We propose semiparametric GMM estimation of semiparametric spatial autoregressive (SAR) models under weak moment conditions. In comparison with the quasi-maximum-likelihood-based semiparametric estimator of Su and Jin (2010), we allow for both heteroscedasticity and spatial dependence in the error terms. We derive the limiting distributions of our estimators for both the parametric and nonparametric components in the model and demonstrate the estimator of the parametric component has the usual n-asymptotics. When the error term also follows an SAR process, we propose an estimator for the parameter in the SAR error process and derive the joint asymptotic distribution for both spatial parameters. Consistent estimates for the asymptotic variance-covariance matrices of both the parametric and nonparametric components are provided. Monte Carlo simulations indicate that our estimators perform well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Partial parametric estimation for nonstationary nonlinear regressions
+AU  - Kim, Chang Sik
+AU  - Kim, In-Moo
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 448
+EP  - 457
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002089
+KW  - Partial parametric model
+KW  - Two-step estimator
+KW  - Nonstationary nonparametric cointegrating regression
+KW  - Nonstationary nonlinear regression
+AB  - This paper proposes an estimation method for a partial parametric model with multiple integrated time series. Our estimation procedure is based on the decomposition of the nonparametric part of the regression function into homogeneous and integrable components. It consists of two steps: In the first step we parameterize and fit the homogeneous component of the nonparametric part by the nonlinear least squares with other parametric terms in the model, and use in the second step the standard kernel method to nonparametrically estimate the integrable component of the nonparametric part from the residuals in the first step. We establish consistency and obtain the asymptotic distribution of our estimator. A simulation shows that our estimator performs well in finite samples. For the empirical illustration, we estimate the money demand functions for the US and Japan using our model and methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical inference on regression with spatial dependence
+AU  - Robinson, Peter M.
+AU  - Thawornkaiwong, Supachoke
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 521
+EP  - 542
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002144
+KW  - Linear regression
+KW  - Partly linear regression
+KW  - Nonparametric regression
+KW  - Spatial data
+KW  - Instrumental variables
+KW  - Asymptotic normality
+KW  - Variance estimation
+AB  - Central limit theorems are developed for instrumental variables estimates of linear and semiparametric partly linear regression models for spatial data. General forms of spatial dependence and heterogeneity in explanatory variables and unobservable disturbances are permitted. We discuss estimation of the variance matrix, including estimates that are robust to disturbance heteroscedasticity and/or dependence. A Monte Carlo study of finite-sample performance is included. In an empirical example, the estimates and robust and non-robust standard errors are computed from Indian regional data, following tests for spatial correlation in disturbances, and nonparametric regression fitting. Some final comments discuss modifications and extensions.
+ER  - 
+
+TY  - JOUR
+T1  - A semiparametric stochastic volatility model
+AU  - Yu, Jun
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 473
+EP  - 482
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.029
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002107
+KW  - Leverage effect
+KW  - Simulated maximum likelihood
+KW  - Laplace approximation
+KW  - Spline
+AB  - In this paper the correlation structure in the classical leverage stochastic volatility (SV) model is generalized based on a linear spline. In the new model the correlation between the return and volatility innovations is time varying and depends nonparametrically on the type of news arrived to the market. Theoretical properties of the proposed model are examined. The model estimation and comparison are conducted by Bayesian methods. The performance of the estimates are examined in simulations. The new model is fitted to daily and weekly US data and compared with the classical SV and GARCH models in terms of their in-sample and out-of-sample performances. Empirical results suggest evidence in favor of the proposed model. In particular, the new model finds strong evidence of time varying leverage effect in individual stocks when the classical model fails to identify the leverage effect.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian averaging, prediction and nonnested model selection
+AU  - Hong, Han
+AU  - Preston, Bruce
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 358
+EP  - 369
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002028
+KW  - Model selection criteria
+KW  - Nonnested
+KW  - Posterior odds
+KW  - BIC
+AB  - This paper studies the asymptotic relationship between Bayesian model averaging and post-selection frequentist predictors in both nested and nonnested models. We derive conditions under which their difference is of a smaller order of magnitude than the inverse of the square root of the sample size in large samples. This result depends crucially on the relation between posterior odds and frequentist model selection criteria. Weak conditions are given under which consistent model selection is feasible, regardless of whether models are nested or nonnested and regardless of whether models are correctly specified or not, in the sense that they select the best model with the least number of parameters with probability converging to 1. Under these conditions, Bayesian posterior odds and BICs are consistent for selecting among nested models, but are not consistent for selecting among nonnested models and possibly overlapping models. These findings have important bearing for applied researchers who are frequent users of model selection tools for empirical investigation of model predictions.
+ER  - 
+
+TY  - JOUR
+T1  - Quantile-based nonparametric inference for first-price auctions
+AU  - Marmer, Vadim
+AU  - Shneyerov, Artyom
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 345
+EP  - 357
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002016
+KW  - First-price auctions
+KW  - Independent private values
+KW  - Nonparametric estimation
+KW  - Kernel estimation
+KW  - Quantiles
+KW  - Optimal reserve price
+AB  - We propose a quantile-based nonparametric approach to inference on the probability density function (PDF) of the private values in first-price sealed-bid auctions with independent private values. Our method of inference is based on a fully nonparametric kernel-based estimator of the quantiles and PDF of observable bids. Our estimator attains the optimal rate of Guerre et al. (2000), and is also asymptotically normal with an appropriate choice of the bandwidth.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for non-nested conditional moment restrictions using unconditional empirical likelihood
+AU  - Otsu, Taisuke
+AU  - Seo, Myung Hwan
+AU  - Whang, Yoon-Jae
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 370
+EP  - 382
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.022
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761100203X
+KW  - Empirical likelihood
+KW  - Non-nested tests
+KW  - Conditional moment restrictions
+AB  - We propose non-nested hypothesis tests for conditional moment restriction models based on the method of generalized empirical likelihood (GEL). By utilizing the implied GEL probabilities from a sequence of unconditional moment restrictions that contains equivalent information of the conditional moment restrictions, we construct Kolmogorov–Smirnov and Cramér–von Mises type moment encompassing tests. Advantages of our tests over Otsu and Whang’s (2011) tests are: (i) they are free from smoothing parameters, (ii) they can be applied to weakly dependent data, and (iii) they allow non-smooth moment functions. We derive the null distributions, validity of a bootstrap procedure, and local and global power properties of our tests. The simulation results show that our tests have reasonable size and power performance in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - n-uniformly consistent density estimation in nonparametric regression models
+AU  - Escanciano, Juan Carlos
+AU  - Jacho-Chávez, David T.
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 305
+EP  - 316
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001989
+KW  - Density estimation
+KW  - Kernel smoothing
+KW  - -processes
+AB  - The paper introduces a n-consistent estimator of the probability density function of the response variable in a nonparametric regression model. The proposed estimator is shown to have a (uniform) asymptotic normal distribution, and it is computationally very simple to calculate. A Monte Carlo experiment confirms our theoretical results. The results derived in the paper adapt general U-processes theory to the inclusion of infinite dimensional nuisance parameters.
+ER  - 
+
+TY  - JOUR
+T1  - Editors’ Introduction
+AU  - Hong, Han
+AU  - Kuan, Chung-Ming
+AU  - Whang, Yoon-Jae
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 295
+EP  - 296
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001965
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation of a truncated regression model
+AU  - Chen, Songnian
+AU  - Zhou, Xianbo
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 297
+EP  - 304
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001977
+AB  - This paper proposes a new semiparametric estimator for the truncated regression model under the independence restriction. Many existing approaches such as those in Lee (1992) and Honoré and Powell (1994) are moment-based methods, whereas our approach makes use of the entire truncated distribution. As a result, our approach is expected to require weaker identification and to have more favorable performance. Our simulation results suggest that our estimator outperforms that of Lee (1992) and Honoré and Powell (1994) in a variety of designs. Our estimator is shown to be consistent and asymptotically normal.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating semiparametric panel data models by marginal integration
+AU  - Qian, Junhui
+AU  - Wang, Le
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 483
+EP  - 493
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.030
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002119
+KW  - Semiparametric panel data model
+KW  - Partially linear
+KW  - First differencing
+KW  - Marginal integration
+AB  - We propose an alternative method for estimating the nonlinear component in semiparametric panel data models. Our method is based on marginal integration that allows us to recover the nonlinear component from an additive regression structure that results from the first differencing transformation. We characterize the asymptotic behavior of our estimator. We also extend the methodology to treat panel data models with two-way effects. Monte Carlo simulations show that our estimator behaves well in finite samples in both random effects and fixed effects settings.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric inference in a GARCH-in-mean model
+AU  - Christensen, Bent Jesper
+AU  - Dahl, Christian M.
+AU  - Iglesias, Emma M.
+JO  - Journal of Econometrics
+VL  - 167
+IS  - 2
+SP  - 458
+EP  - 472
+PY  - 2012
+DA  - 2012/04/01/
+T2  - Fourth Symposium on Econometric Theory and Applications (SETA)
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.09.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002090
+KW  - Efficiency bound
+KW  - GARCH-M model
+KW  - Profile likelihood
+KW  - Risk-return relation
+KW  - Semiparametric inference
+AB  - A new semiparametric estimator for an empirical asset pricing model with general nonparametric risk-return tradeoff and GARCH-type underlying volatility is introduced. Based on the profile likelihood approach, it does not rely on any initial parametric estimator of the conditional mean function, and it is under stated conditions consistent, asymptotically normal, and efficient, i.e., it achieves the semiparametric lower bound. A sampling experiment provides finite sample comparisons with the parametric approach and the iterative semiparametric approach with parametric initial estimate of Conrad and Mammen (2008). An application to daily stock market returns suggests that the risk-return relation is indeed nonlinear.
+ER  - 

@@ -1,0 +1,204 @@
+TY  - JOUR
+T1  - Bootstrapping the GMM overidentification test under first-order underidentification
+AU  - Dovonon, Prosper
+AU  - Gonçalves, Sílvia
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 43
+EP  - 71
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.021
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301197
+KW  - GMM
+KW  - GMM overidentification test
+KW  - Rank deficiency
+KW  - Second-order local identification
+KW  - Bootstrap
+AB  - The main contribution of this paper is to study the applicability of the bootstrap to estimating the distribution of the standard test of overidentifying restrictions of Hansen (1982) when the model is globally identified but the rank condition fails to hold (lack of first-order local identification). An important example for which these conditions are verified is the popular test of common conditionally heteroskedastic features proposed by Engle and Kozicki (1993). As Dovonon and Renault (2013b) show, the Jacobian matrix for this model is identically zero at the true parameter value, resulting in a highly nonstandard limiting distribution that complicates the computation of critical values. We first show that the standard GMM bootstrap fails to consistently estimate the distribution of the overidentification restrictions test under lack of first-order identification. We then propose a new bootstrap method that is asymptotically valid in this context. The modification consists of adding an additional term that recenters the bootstrap moment conditions in a way as to ensure that the bootstrap Jacobian matrix is zero when evaluated at the GMM estimate.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum to “Bayesian reduced rank regression in econometrics” [J. Econometrics 75 (1996) 121–146]
+AU  - Karlsson, Sune
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 170
+EP  - 171
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615002754
+ER  - 
+
+TY  - JOUR
+T1  - The triangular model with random coefficients
+AU  - Hoderlein, Stefan
+AU  - Holzmann, Hajo
+AU  - Meister, Alexander
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 144
+EP  - 169
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.05.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617300829
+KW  - Random coefficients
+KW  - Endogeneity
+KW  - Nonparametric estimation
+KW  - Identification
+KW  - Characteristic function
+KW  - Demand analysis
+AB  - The triangular model is a very popular way to allow for causal inference in the presence of endogeneity. In this model, an outcome is determined by an endogenous regressor, which in turn is first caused by an instrument. We study the triangular model with random coefficients and additional exogenous regressors in both equations, and establish non-identification of the joint distribution of random coefficients. This implies that counterfactual outcomes are not identified either. Non-identification continues to hold if we confine ourselves to the joint distribution of coefficients in the outcome equation or indeed any marginal, except the one on the endogenous regressor. Nonidentification prevails as well, if we focus on means of random coefficients, implying that IV is asymptotically biased. Based on these insights, we derive bounds on the joint distribution of economically relevant functionals, e.g., counterfactual outcomes, and suggest an additional restriction that allows to point identify the distribution of random coefficients in the outcome equation. We extend the model to cover the case where the regressors and instruments have limited support, and analyze semi- and nonparametric sample counterpart estimators in finite and large samples, and we provide an application to consumer demand.
+ER  - 
+
+TY  - JOUR
+T1  - Direct instrumental nonparametric estimation of inverse regression functions
+AU  - Krief, Jerome M.
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 95
+EP  - 107
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301173
+KW  - Statistical calibration
+KW  - Nonseparable regression
+KW  - Regression with transformation
+KW  - Quantile regression with measurement error
+KW  - Tikhonov regularization
+AB  - This paper treats the estimation of the inverse g−1 of a monotonic function g satisfying E[Y−g(X)|W]=0 where (X,W) is continuously distributed. Using instrumental restrictions, many parameters of interest in econometrics can be expressed as inverses of functions satisfying such a conditional moment. As far as I know, consistent estimators are available only if g(X)=E[Y|X], which precludes endogenous models. This, and other technical concerns, motivates a methodology for estimating g−1 in one step from the data when W contains components excluded from X. The presented estimator achieves this objective by identifying g−1 as the solution of a nonlinear integral equation whose sample analog can be estimated nonparametrically. The existence of a ‘well-behaved’ joint density function for (X,W) produces an ill-posed problem, namely the solution is discontinuous in the data. To solve this, the estimator is regularized with the Tikhonov technique. If g−1 is smooth in a certain sense, then the MSE rate of convergence in a global metric is equal to ϑ(n−r∕(2r+1)) where ϑ is a continuous function with ϑ(0)=0, and r>1 denotes the number of partial derivatives for the joint density of (X,W) with respect to its second argument. The analytical expression of ϑ depends on a link function characterizing the smoothness of g−1. This result holds for a broad class of link functions belonging to a suitable space.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric conditional quantile estimation: A locally weighted quantile kernel approach
+AU  - Racine, Jeffrey S.
+AU  - Li, Kevin
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 72
+EP  - 94
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301185
+KW  - Kernel smoothing
+KW  - Quantile Kernel function
+AB  - Nonparametric conditional cumulative distribution function (CDF) estimation has emerged as a powerful tool having widespread potential application, which has led to a literature on estimators of conditional quantile functions that are obtained via inversion of the nonparametrically estimated conditional CDF. Other nonparametric estimators of conditional quantiles that are based on an alternative characterization of the quantile (i.e., as the function that minimizes the expectation of the check-function) have also appeared in the literature. In this paper, we propose a novel nonparametric approach. Relative to its inverse-CDF-based and the check-function-based peers, our proposed estimator has a simple expression. We also show that under certain conditions, our estimator is more efficient in tail regions when the data has unbounded support (our theoretical results underscore this property). Theoretical underpinnings are developed, a method for data-driven smoothing parameter selection is provided, and Monte Carlo simulations and empirical examples are considered. Two empirical examples illustrate how the proposed approach can deliver more reasonable quantile and quantile derivative estimates than its inverse-CDF-based and the check-function-based counterparts, particularly in tail regions.
+ER  - 
+
+TY  - JOUR
+T1  - Regression discontinuity with categorical outcomes
+AU  - Xu, Ke-Li
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 1
+EP  - 18
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301471
+KW  - Bandwidth selection
+KW  - Categorical outcomes
+KW  - Local likelihood
+KW  - Multinomial logit model
+KW  - Nonparametric models
+KW  - Regression discontinuity
+KW  - Robust inference
+AB  - We consider the regression discontinuity (RD) design with categorical outcomes, and exploit the possibility of adapting well-developed microeconometric models to the RD setting. The channels through which the forcing variable affects the potential outcome distributions are constrained to be minimal, to preserve the nonparametric feature of the RD design. Focusing on general categorical outcomes (nominal or ordinal), we develop a new RD estimator based on a nonparametric extension of the well-known multinomial logit model. The key issues of selecting the optimal bandwidth and constructing confidence regions robust to bias correction, of which the solutions only exist so far for the local linear estimator and a single treatment effect, are addressed through the general approach of local likelihood. The proposed estimator and associated inference are easy to implement, and the codes in MATLAB and an R package are available as a supplement to the paper. They are demonstrated by two empirical applications and simulation experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - IFC
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(17)30182-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301823
+ER  - 
+
+TY  - JOUR
+T1  - Econometric analysis of multivariate realised QML: Estimation of the covariation of equity prices under asynchronous trading
+AU  - Shephard, Neil
+AU  - Xiu, Dacheng
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 19
+EP  - 42
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301434
+KW  - EM algorithm
+KW  - Kalman filter
+KW  - Market microstructure noise
+KW  - Asynchronous data
+KW  - Factor model
+KW  - Portfolio allocation
+KW  - Quasi-likelihood
+KW  - Semimartingale
+AB  - Estimating the covariance between assets using high frequency data is challenging due to market microstructure effects and asynchronous trading. In this paper we develop a multivariate realised quasi maximum likelihood (QML) approach, carrying out inference as if the observations arise from an asynchronously observed vector scaled Brownian model observed with error. Under stochastic volatility the resulting realised QML estimator is positive definite, uses all available data, is consistent and asymptotically mixed normal. The quasi-likelihood is computed using a Kalman filter and optimised using a relatively simple EM algorithm. We also propose an alternative estimator using a factor model, which scales well with the number of assets. We derive the theoretical properties of these estimators and prove that they achieve the efficient rate of convergence. Our estimators are also analysed using Monte Carlo methods and applied to equity data with varying levels of liquidity.
+ER  - 
+
+TY  - JOUR
+T1  - On high frequency estimation of the frictionless price: The use of observed liquidity variables
+AU  - Chaker, Selma
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 127
+EP  - 143
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301045
+KW  - Stochastic volatility
+KW  - Hidden semimartingale model
+KW  - Infill regression
+KW  - Endogenous noise
+KW  - Semiparametric volatility estimation
+AB  - Observed high-frequency prices are always contaminated with liquidity costs or market microstructure noise. Inspired by the market microstructure literature, I explicitly model this noise and remove it from observed prices to obtain an estimate of the frictionless price. I then formally test whether the prices adjusted for the estimated liquidity costs are either totally or partially free from noise. If the liquidity costs are only partially removed, the residual noise is smaller and closer to an exogenous white noise than the original noise is. To illustrate my approach, I use the adjusted prices to improve volatility estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation and inference under shape restrictions
+AU  - Horowitz, Joel L.
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 201
+IS  - 1
+SP  - 108
+EP  - 126
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2017.06.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407617301057
+KW  - Conditional mean function
+KW  - Constrained estimation
+KW  - Monotonic
+KW  - Convex
+KW  - Slutsky condition
+AB  - Economic theory often provides shape restrictions on functions of interest in applications, such as monotonicity, convexity, non-increasing (non-decreasing) returns to scale, or the Slutsky inequality of consumer theory; but economic theory does not provide finite-dimensional parametric models. This motivates nonparametric estimation under shape restrictions. Nonparametric estimates are often very noisy. Shape restrictions stabilize nonparametric estimates without imposing arbitrary restrictions, such as additivity or a single-index structure, that may be inconsistent with economic theory and the data. This paper explains how to estimate and obtain an asymptotic uniform confidence band for a conditional mean function under possibly nonlinear shape restrictions, such as the Slutsky inequality. The results of Monte Carlo experiments illustrate the finite-sample performance of the method, and an empirical example illustrates its use in an application.
+ER  - 

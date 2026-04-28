@@ -1,0 +1,342 @@
+TY  - JOUR
+T1  - Nonlinear regressions with nonstationary time series
+AU  - Chan, Nigel
+AU  - Wang, Qiying
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 182
+EP  - 195
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.025
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400253X
+KW  - Cointegration
+KW  - Nonlinear regressions
+KW  - Consistency
+KW  - Limit distribution
+KW  - Nonstationarity
+KW  - Nonlinearity
+KW  - Endogeneity
+AB  - This paper develops asymptotic theory for a nonlinear parametric cointegrating regression model. We establish a general framework for weak consistency that is easy to apply for various nonstationary time series, including partial sums of linear processes and Harris recurrent Markov chains. We provide limit distributions for nonlinear least square estimators, extending the previous works. We also introduce endogeneity to the model by allowing the error to be serially dependent on and cross correlated with the regressors.
+ER  - 
+
+TY  - JOUR
+T1  - A test for second order stationarity of a multivariate time series
+AU  - Jentsch, Carsten
+AU  - Subba Rao, Suhasini
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 124
+EP  - 161
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400195X
+KW  - Discrete Fourier transform
+KW  - Local stationarity
+KW  - Nonlinear time series
+KW  - Stationary bootstrap
+KW  - Testing for stationarity
+AB  - It is well known that the discrete Fourier transforms (DFTs) of a second order stationary time series between two distinct Fourier frequencies are asymptotically uncorrelated. In contrast for a large class of second order nonstationary time series, including locally stationary time series, this property does not hold. In this paper these starkly differing properties are used to define a global test for stationarity based on the DFT of a vector time series. It is shown that the test statistic under the null of stationarity asymptotically has a chi-squared distribution, whereas under the alternative of local stationarity asymptotically it has a noncentral chi-squared distribution. Further, if the time series is Gaussian and stationary, the test statistic is pivotal. However, in many econometric applications, the assumption of Gaussianity can be too strong, but under weaker conditions the test statistic involves an unknown variance that is extremely difficult to directly estimate from the data. To overcome this issue, a scheme to estimate the unknown variance, based on the stationary bootstrap, is proposed. The properties of the stationary bootstrap under both stationarity and nonstationarity are derived. These results are used to show consistency of the bootstrap estimator under stationarity and to derive the power of the test under nonstationarity. The method is illustrated with some simulations. The test is also used to test for stationarity of FTSE 100 and DAX 30 stock indexes from January 2011–December 2012.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of affine term structure models with spanned or unspanned stochastic volatility
+AU  - Creal, Drew D.
+AU  - Wu, Jing Cynthia
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 60
+EP  - 81
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002309
+KW  - Affine term structure models
+KW  - Unspanned stochastic volatility
+KW  - Estimation
+AB  - We develop new procedures for maximum likelihood estimation of affine term structure models with spanned or unspanned stochastic volatility. Our approach uses linear regression to reduce the dimension of the numerical optimization problem yet it produces the same estimator as maximizing the likelihood. It improves the numerical behavior of estimation by eliminating parameters from the objective function that cause problems for conventional methods. We find that spanned models capture the cross-section of yields well but not volatility while unspanned models fit volatility at the expense of fitting the cross-section.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric estimation of models with conditional moment restrictions in the presence of nonclassical measurement errors
+AU  - Song, Suyong
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 95
+EP  - 109
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002450
+KW  - Semiparametric conditional moment restrictions
+KW  - Method of sieve
+KW  - Endogeneity
+KW  - Nonclassical measurement error
+KW  - Instrumental variable
+AB  - This paper develops a framework for the analysis of semiparametric conditional moment models with endogenous and mismeasured causes, which is of empirical importance. We show that one set of valid instruments is sufficient to control for both endogeneity and measurement errors of the causes of interest, which has been observed in linear parametric models. Two-step consistent estimators of the parameters of interest are proposed. We also show that the proposed estimators are consistent with a rate faster than n−1/4 under a certain metric, and the proposed estimators of the finite-dimensional unknown parameters obtain root-n asymptotic normality. Monte Carlo evidences show that the proposed estimators perform well under a variety of identification conditions. An application to instrumental variables estimation of Engel curves illustrates the usefulness of our method. It supports that correcting for both endogeneity and measurement errors on total expenditure is substantial in estimating economically meaningful Engel curves.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic theory for differentiated products demand models with many markets
+AU  - Freyberger, Joachim
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 162
+EP  - 181
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002474
+KW  - Demand estimation
+KW  - Differentiated products
+KW  - Many markets
+KW  - Bias correction
+KW  - Adjusted standard errors
+AB  - This paper develops asymptotic theory for differentiated product demand models with a large number of markets T. It takes into account that the predicted market shares are approximated by Monte Carlo integration with R draws and that the observed market shares are approximated from a sample of N consumers. The estimated parameters are T consistent and asymptotically normal as long as R and N grow fast enough relative to T. Both approximations yield additional bias and variance terms in the asymptotic expansion. I propose a bias corrected estimator and a variance adjustment that takes the leading terms into account. Monte Carlo simulations show that these adjustments should be used in applications to avoid severe undercoverage caused by the approximation errors.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric estimation and inference on conditional quantile processes
+AU  - Qu, Zhongjun
+AU  - Yoon, Jungmo
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 1
+EP  - 19
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002462
+KW  - Nonparametric quantile regression
+KW  - Uniform Bahadur representation
+KW  - Uniform inference
+KW  - Treatment effect
+AB  - This paper presents estimation methods and asymptotic theory for the analysis of a nonparametrically specified conditional quantile process. Two estimators based on local linear regressions are proposed. The first estimator applies simple inequality constraints while the second uses rearrangement to maintain quantile monotonicity. The bandwidth parameter is allowed to vary across quantiles to adapt to data sparsity. For inference, the paper first establishes a uniform Bahadur representation and then shows that the two estimators converge weakly to the same limiting Gaussian process. As an empirical illustration, the paper considers a dataset from Project STAR and delivers two new findings.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - IFC
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(15)00003-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407615000032
+ER  - 
+
+TY  - JOUR
+T1  - LM tests of spatial dependence based on bootstrap critical values
+AU  - Yang, Zhenlin
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 33
+EP  - 59
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002413
+KW  - Asymptotic refinements
+KW  - Bootstrap
+KW  - Edgeworth expansion
+KW  - LM tests
+KW  - Spatial dependence
+KW  - Size
+KW  - Power
+KW  - Local misspecification
+KW  - Heteroskedasticity
+KW  - Wild bootstrap
+AB  - To test the existence of spatial dependence in an econometric model, a convenient test is the Lagrange Multiplier (LM) test. However, evidence shows that, in finite samples, the LM test referring to asymptotic critical values may suffer from the problems of size distortion and low power, which become worse with a denser spatial weight matrix. In this paper, residual-based bootstrap methods are introduced for asymptotically refined approximations to the finite sample critical values of the LM statistics. Conditions for their validity are clearly laid out and formal justifications are given in general, and in detail under several popular spatial LM tests using Edgeworth expansions. Monte Carlo results show that when the conditions are not fully met, bootstrap may lead to unstable critical values that change significantly with the alternative, whereas when all conditions are met, bootstrap critical values are very stable, approximate much better the finite sample critical values than those based on asymptotics, and lead to significantly improved size and power. The methods are further demonstrated using more general spatial LM tests, in connection with local misspecification and unknown heteroskedasticity.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of marginal effects in semiparametric selection models with binary outcomes
+AU  - Klein, Roger
+AU  - Shen, Chan
+AU  - Vella, Francis
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 82
+EP  - 94
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002449
+KW  - Semiparametric selection models
+KW  - Binary outcomes
+KW  - Marginal effects
+AB  - This paper addresses the estimation of a semiparametric sample selection index model where both the selection rule and the outcome variable are binary. Since the marginal effects are often of primary interest and are difficult to recover in a semiparametric setting, we focus on developing an estimator for the marginal effects. This marginal effect estimator uses only observations where the selection probability is above a certain threshold. A key innovation is that this high probability set is adaptive to the data. We establish the large sample properties of the marginal effect estimator as well as those for an index estimator upon which it depends. Monte Carlo studies show that these estimators perform well in finite samples.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of the bias of Matching and Difference-in-Difference under alternative earnings and selection processes
+AU  - Chabé-Ferret, Sylvain
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 110
+EP  - 123
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.09.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002437
+KW  - Matching
+KW  - Difference in Difference
+KW  - Job Training Programs
+AB  - Matching and Difference in Difference (DID) are two widespread methods that use pre-treatment outcomes to correct for selection bias. I detail the sources of bias of both estimators in a model of earnings dynamics and entry into a Job Training Program (JTP) and I assess their performances using Monte Carlo simulations of the model calibrated with realistic parameter values. I find that Matching generally underestimates the average causal effect of the program and gets closer to the true effect when conditioning on an increasing number of pre-treatment outcomes. When selection bias is symmetric around the treatment date, DID is consistent when implemented symmetrically—i.e. comparing outcomes observed the same number of periods before and after the treatment date. When selection bias is not symmetric, Monte Carlo simulations show that Symmetric DID still performs better than Matching, especially in the middle of the life-cycle. These results are consistent with estimates of the bias of Matching and DID from randomly assigned JTPs. Some of the virtues of Symmetric DID extend to programs other than JTPs allocated according to a cutoff eligibility rule.
+ER  - 
+
+TY  - JOUR
+T1  - QML estimation of dynamic panel data models with spatial errors
+AU  - Su, Liangjun
+AU  - Yang, Zhenlin
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 230
+EP  - 258
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002668
+KW  - Bootstrap standard errors
+KW  - Dynamic panel
+KW  - Fixed effects
+KW  - Initial observations
+KW  - Quasi maximum likelihood
+KW  - Random effects
+KW  - Spatial error dependence
+AB  - We propose quasi maximum likelihood (QML) estimation of dynamic panel models with spatial errors when the cross-sectional dimension n is large and the time dimension T is fixed. We consider both the random effects and fixed effects models, and prove consistency and derive the limiting distributions of the QML estimators under different assumptions on the initial observations. We propose a residual-based bootstrap method for estimating the standard errors of the QML estimators. Monte Carlo simulation shows that both the QML estimators and the bootstrap standard errors perform well in finite samples under a correct assumption on initial observations, but may perform poorly when this assumption is not met.
+ER  - 
+
+TY  - JOUR
+T1  - High dimensional generalized empirical likelihood for moment restrictions with dependent data
+AU  - Chang, Jinyuan
+AU  - Chen, Song Xi
+AU  - Chen, Xiaohong
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 283
+EP  - 304
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002553
+KW  - Generalized empirical likelihood
+KW  - High dimensionality
+KW  - Penalized likelihood
+KW  - Variable selection
+KW  - Over-identification test
+KW  - Weak dependence
+AB  - This paper considers the maximum generalized empirical likelihood (GEL) estimation and inference on parameters identified by high dimensional moment restrictions with weakly dependent data when the dimensions of the moment restrictions and the parameters diverge along with the sample size. The consistency with rates and the asymptotic normality of the GEL estimator are obtained by properly restricting the growth rates of the dimensions of the parameters and the moment restrictions, as well as the degree of data dependence. It is shown that even in the high dimensional time series setting, the GEL ratio can still behave like a chi-square random variable asymptotically. A consistent test for the over-identification is proposed. A penalized GEL method is also provided for estimation under sparsity setting.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating dynamic equilibrium models with stochastic volatility
+AU  - Fernández-Villaverde, Jesús
+AU  - Guerrón-Quintana, Pablo
+AU  - Rubio-Ramírez, Juan F.
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 216
+EP  - 229
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002310
+KW  - Dynamic equilibrium models
+KW  - Stochastic volatility
+KW  - Parameter drifting
+KW  - Bayesian methods
+AB  - This paper develops a particle filtering algorithm to estimate dynamic equilibrium models with stochastic volatility using a likelihood-based approach. The algorithm, which exploits the structure and profusion of shocks in stochastic volatility models, is versatile and computationally tractable even in large-scale models. As an application, we use our algorithm and Bayesian methods to estimate a business cycle model of the US economy with both stochastic volatility and parameter drifting in monetary policy. Our application shows the importance of stochastic volatility in accounting for the dynamics of the data.
+ER  - 
+
+TY  - JOUR
+T1  - Improved quantile inference via fixed-smoothing asymptotics and Edgeworth expansion
+AU  - Kaplan, David M.
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 20
+EP  - 32
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.08.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002401
+KW  - Fixed-smoothing
+KW  - High-order accuracy
+KW  - Hypothesis testing
+KW  - Testing-optimal smoothing parameter
+AB  - To estimate a sample quantile’s variance, the quantile spacing method involves smoothing parameter m. When m,n→∞, the corresponding Studentized test statistic is asymptotically N(0,1). Holding m fixed instead, the asymptotic distribution contains the Edgeworth expansion term capturing the variance of the quantile spacing. Consequently, the fixed-m distribution is more accurate than the standard normal under both asymptotic frameworks. A testing-optimal m is proposed to maximize power subject to size control. In simulations, the new method controls size better than similar methods while maintaining good power. Throughout are results for two-sample quantile treatment effect inference. Code is available online.
+ER  - 
+
+TY  - JOUR
+T1  - Specification tests for partially identified models defined by moment inequalities
+AU  - Bugni, Federico A.
+AU  - Canay, Ivan A.
+AU  - Shi, Xiaoxia
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 259
+EP  - 282
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002577
+KW  - Partial identification
+KW  - Moment inequalities
+KW  - Specification tests
+KW  - Hypothesis testing
+AB  - This paper studies the problem of specification testing in partially identified models defined by moment (in)equalities. This problem has not been directly addressed in the literature, although several papers have suggested a test based on checking whether confidence sets for the parameters of interest are empty or not, referred to as Test BP. We propose two new specification tests, denoted Test RS and Test RC, that achieve uniform asymptotic size control and dominate Test BP in terms of power in any finite sample and in the asymptotic limit.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and testing smooth structural changes with endogenous regressors
+AU  - Chen, Bin
+JO  - Journal of Econometrics
+VL  - 185
+IS  - 1
+SP  - 196
+EP  - 215
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.10.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614002565
+KW  - Endogeneity
+KW  - Instrumental variables
+KW  - Kernel
+KW  - Local linear estimation
+KW  - Model stability
+KW  - Nonparametric regression
+KW  - Smooth structural change
+AB  - Modeling and detecting parameter stability of econometric models is a long standing problem. Most existing estimation and testing methods are designed for models without endogeneity. Little attention has been paid to models with endogeneous regressors, which may arise in many scenarios in economics. In this paper, we first consider a time-varying coefficient time series model with potential time-varying endogeneity. A local linear two stage least squared estimation is developed to estimate coefficient functions. The consistency and asymptotic normality of the estimator are derived. Furthermore, a nonparametric test is proposed to check smooth structural changes as well as abrupt structural breaks with possibly unknown change points in regression models with potential endogeneity. The idea is to compare the fitted values of the unrestricted nonparametric time-varying coefficient model and the restricted constant parameter model. The test has an asymptotic N(0,1) distribution and does not require any prior information about the alternatives. A simulation study highlights the merits of the proposed estimator and test. In an application, we estimate the New Keynesian Phillips Curve for the US nonparametrically and find strong evidence against its stability.
+ER  - 

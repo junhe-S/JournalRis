@@ -1,0 +1,132 @@
+TY  - JOUR
+T1  - A Correlated Random Coefficient panel model with time-varying endogeneity
+AU  - Laage, Louise
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 2
+SP  - 105804
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105804
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001507
+KW  - Panel data
+KW  - Random coefficients
+KW  - Time-varying endogeneity
+KW  - Control function approach
+AB  - This paper studies a class of linear panel models with random coefficients. We do not restrict the joint distribution of the time-invariant unobserved heterogeneity and the covariates. We investigate identification of the average partial effect (APE) when fixed-effect techniques cannot be used to control for the correlation between the regressors and the time-varying disturbances. Relying on control variables, we develop a constructive two-step identification argument. The first step identifies nonparametrically the conditional expectation of the disturbances given the regressors and the control variables, and the second step uses “between-group” variation, correcting for endogeneity, to identify the APE. We propose a natural semiparametric estimator of the APE, show its n asymptotic normality and compute its asymptotic variance. The estimator is computationally easy to implement, and Monte Carlo simulations show favorable finite sample properties. As an empirical illustration, we estimate the average elasticity of intertemporal substitution in a labor supply model with random coefficients.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification and estimation of stochastic block models from many small networks
+AU  - Jochmans, Koen
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 2
+SP  - 105805
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105805
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001519
+KW  - Heterogeneity
+KW  - Network
+KW  - Random graph
+KW  - Sorting
+KW  - Stochastic block model
+AB  - This paper concerns the analysis of network data when unobserved node-specific heterogeneity is present. We postulate a weighted version of the classic stochastic block model, where nodes belong to one of a finite number of latent communities and the placement of edges between them and any weight assigned to these depend on the communities to which the nodes belong. A simple rank condition is presented under which we establish that the number of latent communities, their distribution, and the conditional distribution of edges and weights given community membership are all nonparametrically identified from knowledge of the joint (marginal) distribution of edges and weights in graphs of a fixed size. The identification argument is constructive and we present a computationally-attractive nonparametric estimator based on it. Limit theory is derived under asymptotics where we observe a growing number of independent networks of a fixed size. The results of a series of numerical experiments are reported on.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 2
+SP  - 105826
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(24)00171-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001714
+ER  - 
+
+TY  - JOUR
+T1  - On LASSO for high dimensional predictive regression
+AU  - Mei, Ziwei
+AU  - Shi, Zhentao
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 2
+SP  - 105809
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105809
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001556
+KW  - Cointegration
+KW  - Forecast
+KW  - Macroeconomics
+KW  - Time series
+KW  - Unit root
+AB  - This paper examines LASSO, a widely-used L1-penalized regression method, in high dimensional linear predictive regressions, particularly when the number of potential predictors exceeds the sample size and numerous unit root regressors are present. The consistency of LASSO is contingent upon two key components: the deviation bound of the cross product of the regressors and the error term, and the restricted eigenvalue of the Gram matrix. We present new probabilistic bounds for these components, suggesting that LASSO’s rates of convergence are different from those typically observed in cross-sectional cases. When applied to a mixture of stationary, nonstationary, and cointegrated predictors, LASSO maintains its asymptotic guarantee if predictors are scale-standardized. Leveraging machine learning and macroeconomic domain expertise, LASSO demonstrates strong performance in forecasting the unemployment rate, as evidenced by its application to the FRED-MD database.
+ER  - 
+
+TY  - JOUR
+T1  - Change-point analysis of time series with evolutionary spectra
+AU  - Casini, Alessandro
+AU  - Perron, Pierre
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 2
+SP  - 105811
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105811
+UR  - https://www.sciencedirect.com/science/article/pii/S030440762400157X
+KW  - Change-point
+KW  - Locally stationary
+KW  - Frequency domain
+KW  - Minimax-optimal test
+AB  - This paper develops change-point methods for the spectrum of a locally stationary time series. We focus on series with a bounded spectral density that change smoothly under the null hypothesis but exhibits change-points or becomes less smooth under the alternative. We address two local problems. The first is the detection of discontinuities (or breaks) in the spectrum at unknown dates and frequencies. The second involves abrupt yet continuous changes in the spectrum over a short time period at an unknown frequency without signifying a break. Both problems can be cast into changes in the degree of smoothness of the spectral density over time. We consider estimation and minimax-optimal testing. We determine the optimal rate for the minimax distinguishable boundary, i.e., the minimum break magnitude such that we are able to uniformly control type I and type II errors. We propose a novel procedure for the estimation of the change-points based on a wild sequential top-down algorithm and show its consistency under shrinking shifts and possibly growing number of change-points.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametrically optimal cointegration test
+AU  - Zhou, Bo
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 2
+SP  - 105816
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105816
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001611
+KW  - Cointegration
+KW  - Semiparametric efficiency
+KW  - Limit experiment
+KW  - LABF
+AB  - This paper aims to address the issue of semiparametric efficiency for cointegration rank testing in finite-order vector autoregressive models, where the innovation distribution is considered an infinite-dimensional nuisance parameter. Our asymptotic analysis relies on Le Cam’s theory of limit experiment, which in this context is of the Locally Asymptotically Brownian Functional (LABF) type likelihood ratios. By exploiting the structural representation of LABF, an Ornstein–Uhlenbeck experiment, we develop the asymptotic power envelopes of asymptotically invariant tests for both cases with and without time trends. We propose feasible tests based on a nonparametrically estimated density and demonstrate that their power can achieve the semiparametric power envelopes, making them semiparametrically optimal. We validate the theoretical results through large-sample simulations and illustrate satisfactory size control and excellent power performance of our tests under small samples. In both cases with and without time trends, we show that a remarkable amount of additional power can be obtained from non-Gaussian distributions.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of dynamic structural models with unobserved choices
+AU  - Hu, Yingyao
+AU  - Xin, Yi
+JO  - Journal of Econometrics
+VL  - 242
+IS  - 2
+SP  - 105806
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2024.105806
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407624001520
+KW  - Dynamic discrete choice
+KW  - Unobserved choice
+KW  - Unobserved heterogeneity
+KW  - Dynamic discrete game
+KW  - Nonparametric identification
+AB  - This paper develops identification and estimation methods for dynamic discrete choice models when agents’ actions are unobserved by econometricians. We provide conditions under which choice probabilities and latent state transition rules are nonparametrically identified with a continuous state variable in a single-agent dynamic discrete choice model. Our identification strategy from the baseline model can extend to models with serially correlated unobserved heterogeneity, cases in which choices are partially unavailable, and dynamic discrete games. We propose a sieve maximum likelihood estimator for primitives in agents’ utility functions and state transition rules. Monte Carlo simulation results support the validity of the proposed approach.
+ER  - 

@@ -1,0 +1,302 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Preface and Guide
+AU  - Geoffrion, A. M.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.733
+DO  - 10.1287/mnsc.20.5.733
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 733
+EP  - 735
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - My objective in assembling this issue was to garner articles that would be of clear and present interest to those who professionally develop or apply mathematical programming techniques. It was not enough for a prospective paper to be competent, original, or even a dazzling display of intellectual prowess. Rather, each paper selected had to satisfy the more difficult criterion of usefully supporting, illuminating, or advancing the current state-of-the-art of applicable mathematical programming.
+AB  - My objective in assembling this issue was to garner articles that would be of clear and present interest to those who professionally develop or apply mathematical programming techniques. It was not enough for a prospective paper to be competent, original, or even a dazzling display of intellectual prowess. Rather, each paper selected had to satisfy the more difficult criterion of usefully supporting, illuminating, or advancing the current state-of-the-art of applicable mathematical programming.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.733
+UR  - https://doi.org/10.1287/mnsc.20.5.733
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Practical Solution of Large Mixed Integer Programming Problems with Umpire
+AU  - Forrest, J. J. H.
+AU  - Hirst, J. P. H.
+AU  - Tomlin, J. A.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.736
+DO  - 10.1287/mnsc.20.5.736
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 736
+EP  - 773
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - In this paper we discuss some branch and bound methods implemented in the UMPIRE mathematical programming system for solving practical integer programming problems and give details of computational experience with these methods. We have found that the nontrivial integer programming problems we encounter tend to fall into two classes. The first class of problems is characterized by a relatively small number (less than 100) of binary integer variables embedded in a very large and difficult linear program, with a few thousand constraints and complex matrix structure. The second class of problems tends to have many more integer variables (perhaps several hundred), frequently organized into special ordered sets and expressing complex logical relationships, but embedded in a much simpler linear program with 500?1,000 constraints. Problems in the first group in particular do not generally behave well using a simple-minded ?penalty? approach for reasons we will make clear and a number of heuristic estimation procedures are used to guide the branch and bound search. The most important devices used are ?priorities,? the ?best projection criterion? and ?pseudo-costs.? Some or all of these heuristics can also be very useful in tackling the second group of problems, where it is important to reach a good solution quickly to limit the search.
+AB  - In this paper we discuss some branch and bound methods implemented in the UMPIRE mathematical programming system for solving practical integer programming problems and give details of computational experience with these methods. We have found that the nontrivial integer programming problems we encounter tend to fall into two classes. The first class of problems is characterized by a relatively small number (less than 100) of binary integer variables embedded in a very large and difficult linear program, with a few thousand constraints and complex matrix structure. The second class of problems tends to have many more integer variables (perhaps several hundred), frequently organized into special ordered sets and expressing complex logical relationships, but embedded in a much simpler linear program with 500?1,000 constraints. Problems in the first group in particular do not generally behave well using a simple-minded ?penalty? approach for reasons we will make clear and a number of heuristic estimation procedures are used to guide the branch and bound search. The most important devices used are ?priorities,? the ?best projection criterion? and ?pseudo-costs.? Some or all of these heuristics can also be very useful in tackling the second group of problems, where it is important to reach a good solution quickly to limit the search.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.736
+UR  - https://doi.org/10.1287/mnsc.20.5.736
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Algorithm for Large Set Partitioning Problems
+AU  - Marsten, Roy E.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.774
+DO  - 10.1287/mnsc.20.5.774
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 774
+EP  - 787
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - An algorithm is presented for the special integer linear program known as the set partitioning problem. This problem has a binary coefficient matrix, binary variables, and unit resources. Furthermore, all of its constraints are equations. In spite of its very special form, the set partitioning problem has many practical interpretations. The algorithm is of the branch and bound type. A special class of finite mappings is enumerated rather than the customary set of binary solution vectors. Linear programming is used to obtain bounds on the minimal costs of the subproblems that arise. Computational results are reported for several large problems.
+AB  - An algorithm is presented for the special integer linear program known as the set partitioning problem. This problem has a binary coefficient matrix, binary variables, and unit resources. Furthermore, all of its constraints are equations. In spite of its very special form, the set partitioning problem has many practical interpretations. The algorithm is of the branch and bound type. A special class of finite mappings is enumerated rather than the customary set of binary solution vectors. Linear programming is used to obtain bounds on the minimal costs of the subproblems that arise. Computational results are reported for several large problems.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.774
+UR  - https://doi.org/10.1287/mnsc.20.5.774
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - An Application of Mixed Integer Programming in the Direct Mail Industry
+AU  - Kalvaitis, Rimas
+AU  - Posgay, Anthony G.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.788
+DO  - 10.1287/mnsc.20.5.788
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 788
+EP  - 792
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - The object is to help a mailing list compilation company (M.C.R.B.) to select the most promising types of mailing lists for development and to schedule the development of the selected lists in one of the two available production facilities. A mixed integer programming model is used to perform the selection and the scheduling task. The formulation of the model places the solution technique in the general family of ?project selection? models. The problem was solved using CDC's OPHELIE II code. The size of the program is 229 rows by 871 variables of which 65 are zero-one. As a result of the study, management substantially modified the company's product mix and reduced the level of production resources employed. There was a marked improvement in the profitability of the Company.
+AB  - The object is to help a mailing list compilation company (M.C.R.B.) to select the most promising types of mailing lists for development and to schedule the development of the selected lists in one of the two available production facilities. A mixed integer programming model is used to perform the selection and the scheduling task. The formulation of the model places the solution technique in the general family of ?project selection? models. The problem was solved using CDC's OPHELIE II code. The size of the program is 229 rows by 871 variables of which 65 are zero-one. As a result of the study, management substantially modified the company's product mix and reduced the level of production resources employed. There was a marked improvement in the profitability of the Company.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.788
+UR  - https://doi.org/10.1287/mnsc.20.5.788
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - A Computation Study on Start Procedures, Basis Change Criteria, and Solution Algorithms for Transportation Problems
+AU  - Glover, Fred
+AU  - Karney, D.
+AU  - Klingman, D.
+AU  - Napier, A.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.783
+DO  - 10.1287/mnsc.20.5.783
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 793
+EP  - 813
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - This paper presents an in-depth computational comparison of the basic solution algorithms for solving transportation problems. The comparison is performed using ?state of the art? computer codes for the dual simplex transportation method, the out-of-kilter method, and the primal simplex transportation method (often referred to as the Row-Column Sum Method or M O D I method). In addition, these codes are compared against a state of the art large scale LP code, O P H E L I E/LP. The study discloses that the most efficient solution procedure arises by coupling a primal transportation algorithm (embodying recently developed methods for accelerating the determination of basis trees and dual evaluators) with a version of the Row Minimum start rule and a ?modified row first negative evaluator? rule. The resulting method has been found to be at least 100 times faster than OPHELIE, and 9 times faster than a streamlined version of the SHARE out-of-kilter code. The method's median solution time for solving 1000 ? 1000 transportation problems on a CDC 6600 computer is 17 seconds with a range of 14 to 22 seconds. Some of the unique characteristics of this study are (1) all of the fundamental solution techniques are tested on the same machine and the same problems, (2) a broad spectrum of problem sizes are examined, varying from 10 ? 10 to 1000 ? 1000; (3) a broad profile of nondense problems are examined ranging from 100 percent to 1 percent dense; and (4) additional tests using the best of the codes have been made on three other machines (IBM 360/65, UNIVAC 1108, and CDC 6400), providing surprising insights into conclusions based on comparing times on different machines and compilers.
+AB  - This paper presents an in-depth computational comparison of the basic solution algorithms for solving transportation problems. The comparison is performed using ?state of the art? computer codes for the dual simplex transportation method, the out-of-kilter method, and the primal simplex transportation method (often referred to as the Row-Column Sum Method or M O D I method). In addition, these codes are compared against a state of the art large scale LP code, O P H E L I E/LP. The study discloses that the most efficient solution procedure arises by coupling a primal transportation algorithm (embodying recently developed methods for accelerating the determination of basis trees and dual evaluators) with a version of the Row Minimum start rule and a ?modified row first negative evaluator? rule. The resulting method has been found to be at least 100 times faster than OPHELIE, and 9 times faster than a streamlined version of the SHARE out-of-kilter code. The method's median solution time for solving 1000 ? 1000 transportation problems on a CDC 6600 computer is 17 seconds with a range of 14 to 22 seconds. Some of the unique characteristics of this study are (1) all of the fundamental solution techniques are tested on the same machine and the same problems, (2) a broad spectrum of problem sizes are examined, varying from 10 ? 10 to 1000 ? 1000; (3) a broad profile of nondense problems are examined ranging from 100 percent to 1 percent dense; and (4) additional tests using the best of the codes have been made on three other machines (IBM 360/65, UNIVAC 1108, and CDC 6400), providing surprising insights into conclusions based on comparing times on different machines and compilers.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.783
+UR  - https://doi.org/10.1287/mnsc.20.5.783
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - NETGEN: A Program for Generating Large Scale Capacitated Assignment, Transportation, and Minimum Cost Flow Network Problems
+AU  - Klingman, D.
+AU  - Napier, A.
+AU  - Stutz, J.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.814
+DO  - 10.1287/mnsc.20.5.814
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 814
+EP  - 821
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - The purpose of this paper is to describe the development, implementation, and availability of a computer program for generating a variety of feasible network problems together with a set of benchmarked problems derived from it. The code ?NETGEN? can generate capacitated and uncapacitated transportation and minimum cost flow network problems, and assignment problems. In addition to generating structurally different classes of network problems the code permits the user to vary structural characteristics within a class. Problems benchmarked on several codes currently available are provided in this paper since NETGEN will also allow other researchers to generate identical problems. In particular, the latter part of the paper contains the solution time and objective function value of 40 assignment, transportation, and network problems varying in size from 200 nodes to 8,000 nodes and from 1,300 arcs to 35,000 arcs.
+AB  - The purpose of this paper is to describe the development, implementation, and availability of a computer program for generating a variety of feasible network problems together with a set of benchmarked problems derived from it. The code ?NETGEN? can generate capacitated and uncapacitated transportation and minimum cost flow network problems, and assignment problems. In addition to generating structurally different classes of network problems the code permits the user to vary structural characteristics within a class. Problems benchmarked on several codes currently available are provided in this paper since NETGEN will also allow other researchers to generate identical problems. In particular, the latter part of the paper contains the solution time and objective function value of 40 assignment, transportation, and network problems varying in size from 200 nodes to 8,000 nodes and from 1,300 arcs to 35,000 arcs.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.814
+UR  - https://doi.org/10.1287/mnsc.20.5.814
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Multicommodity Distribution System Design by Benders Decomposition
+AU  - Geoffrion, A. M.
+AU  - Graves, G. W.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.822
+DO  - 10.1287/mnsc.20.5.822
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 822
+EP  - 844
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - A commonly occurring problem in distribution system design is the optimal location of intermediate distribution facilities between plants and customers. A multi-commodity capacitated single-period version of this problem is formulated as a mixed integer linear program. A solution technique based on Benders Decomposition is developed, implemented, and successfully applied to a real problem for a major food firm with 17 commodity classes, 14 plants, 45 possible distribution center sites, and 121 customer zones. An essentially optimal solution was found and proven with a surprisingly small number of Benders cuts. Some discussion is given concerning why this problem class appears to be so amenable to solution by Benders' method, and also concerning what we feel to be the proper professional use of the present computational technique.
+AB  - A commonly occurring problem in distribution system design is the optimal location of intermediate distribution facilities between plants and customers. A multi-commodity capacitated single-period version of this problem is formulated as a mixed integer linear program. A solution technique based on Benders Decomposition is developed, implemented, and successfully applied to a real problem for a major food firm with 17 commodity classes, 14 plants, 45 possible distribution center sites, and 121 customer zones. An essentially optimal solution was found and proven with a surprisingly small number of Benders cuts. Some discussion is given concerning why this problem class appears to be so amenable to solution by Benders' method, and also concerning what we feel to be the proper professional use of the present computational technique.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.822
+UR  - https://doi.org/10.1287/mnsc.20.5.822
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Self-Scaling Variable Metric (SSVM) Algorithms
+AU  - Oren, Shmuel S.
+AU  - Luenberger, David G.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.845
+DO  - 10.1287/mnsc.20.5.845
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 845
+EP  - 862
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - A new criterion is introduced for comparing the convergence properties of variable metric algorithms, focusing on stepwise descent properties. This criterion is a bound on the rate of decrease in the function value at each iterative step (single-step convergence rate). Using this criterion as a basis for algorithm development leads to the introduction of variable coefficients to rescale the objective function at each iteration, and, correspondingly, to a new class of variable metric algorithms. Effective scaling can be implemented by restricting the parameters in a two-parameter family of variable metric algorithms. Conditions are derived for these parameters that guarantee monotonic improvement in the single-step convergence rate. These conditions are obtained by analyzing the eigenvalue structure of the associated inverse Hessian approximations.
+AB  - A new criterion is introduced for comparing the convergence properties of variable metric algorithms, focusing on stepwise descent properties. This criterion is a bound on the rate of decrease in the function value at each iterative step (single-step convergence rate). Using this criterion as a basis for algorithm development leads to the introduction of variable coefficients to rescale the objective function at each iteration, and, correspondingly, to a new class of variable metric algorithms. Effective scaling can be implemented by restricting the parameters in a two-parameter family of variable metric algorithms. Conditions are derived for these parameters that guarantee monotonic improvement in the single-step convergence rate. These conditions are obtained by analyzing the eigenvalue structure of the associated inverse Hessian approximations.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.845
+UR  - https://doi.org/10.1287/mnsc.20.5.845
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Self-Scaling Variable Metric (SSVM) Algorithms
+AU  - Oren, Shmuel S.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.863
+DO  - 10.1287/mnsc.20.5.863
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 863
+EP  - 874
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - This part of the paper introduces some possible implementations of Self-Scaling Variable Metric algorithms based on the theory presented in Part I. These implementations are analyzed theoretically and discussed qualitatively. A special class of SSVM algorithms is introduced, which has the additional property of being invariant under scaling of the objective function or of the variables. Experimental results are provided for a particular case of this class. This case has been tested in comparison to the DFP algorithm on a variety of functions with up to 50 variables. The results indicate that the new method has substantial advantage for functions with a large number of variables.
+AB  - This part of the paper introduces some possible implementations of Self-Scaling Variable Metric algorithms based on the theory presented in Part I. These implementations are analyzed theoretically and discussed qualitatively. A special class of SSVM algorithms is introduced, which has the additional property of being invariant under scaling of the objective function or of the variables. Experimental results are provided for a particular case of this class. This case has been tested in comparison to the DFP algorithm on a variety of functions with up to 50 variables. The results indicate that the new method has substantial advantage for functions with a large number of variables.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.863
+UR  - https://doi.org/10.1287/mnsc.20.5.863
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Mathematical Programming Book Reviews: 1965–1972
+AU  - Gerber, Fred
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.875
+DO  - 10.1287/mnsc.20.5.875
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 875
+EP  - 895
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - Approximately two hundred books on mathematical programming have been published during the past eight years. Most workers in this field have immediate access to only a minor fraction of these, but would have at least vicarious access to many of the rest through book reviews if only they knew where to look. That is the primary motivation for this bibliography of book reviews published during the years 1965?1972. A secondary reason is simply to furnish a reasonably comprehensive list of recent books on mathematical programming.
+AB  - Approximately two hundred books on mathematical programming have been published during the past eight years. Most workers in this field have immediate access to only a minor fraction of these, but would have at least vicarious access to many of the rest through book reviews if only they knew where to look. That is the primary motivation for this bibliography of book reviews published during the years 1965?1972. A secondary reason is simply to furnish a reasonably comprehensive list of recent books on mathematical programming.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.875
+UR  - https://doi.org/10.1287/mnsc.20.5.875
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Erratum: N Job, One Machine Sequencing Problems Under Uncertainty
+AU  - Blau, Roger A.
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.896
+DO  - 10.1287/mnsc.20.5.896
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 896
+EP  - 899
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - An erratum to ?N job, one machine sequencing problems under uncertainty?, Vol. 20, No. 1 (September 1973), pp. 101?109.
+AB  - An erratum to ?N job, one machine sequencing problems under uncertainty?, Vol. 20, No. 1 (September 1973), pp. 101?109.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.896
+UR  - https://doi.org/10.1287/mnsc.20.5.896
+Y2  - 2024/03/27
+ER  - 
+
+TY  - JOUR
+T1  - Erratum: On Characterizing the Extrema of a Function of Two Variables, One of Which if Discrete
+AU  - Kumin, Hillel
+Y1  - 1974/01/01
+PY  - 1974
+DA  - 1974/01/01
+N1  - doi: 10.1287/mnsc.20.5.899
+DO  - 10.1287/mnsc.20.5.899
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 899
+EP  - 899
+VL  - 20
+IS  - 5
+PB  - INFORMS
+N2  - An erratum to ?On characterizing the extrema of a function of two variables, one of which if discrete?, Vol. 20, No. 1 (September 1973), pp. 126?129.
+AB  - An erratum to ?On characterizing the extrema of a function of two variables, one of which if discrete?, Vol. 20, No. 1 (September 1973), pp. 126?129.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.20.5.899
+UR  - https://doi.org/10.1287/mnsc.20.5.899
+Y2  - 2024/03/27
+ER  - 

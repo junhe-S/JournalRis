@@ -1,0 +1,1071 @@
+
+TY  - JOUR
+T1  - Impact of Media Ownership on News Coverage
+AU  - Kedia, Simi
+AU  - Kim, Gunchang
+Y1  - 2023/10/25
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2022.00653
+DO  - 10.1287/mnsc.2022.00653
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5627
+EP  - 5645
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - This paper examines whether ownership by media conglomerates impacts business news reporting. To address this question, we take advantage of a unique setting when in 2007 the ownership of The Wall Street Journal (WSJ) was transferred to News Corp., a media conglomerate with broad business interests. We find that, after the acquisition, WSJ?s sentiment toward competitors of News Corp. became significantly negative in comparison with similar reporting conducted by The New York Times. Further, WSJ?s reporting influences stock prices and is associated with more profitable insider trading. This evidence suggests that ownership by media conglomerates likely influences the nature of business news coverage.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.00653.
+AB  - This paper examines whether ownership by media conglomerates impacts business news reporting. To address this question, we take advantage of a unique setting when in 2007 the ownership of The Wall Street Journal (WSJ) was transferred to News Corp., a media conglomerate with broad business interests. We find that, after the acquisition, WSJ?s sentiment toward competitors of News Corp. became significantly negative in comparison with similar reporting conducted by The New York Times. Further, WSJ?s reporting influences stock prices and is associated with more profitable insider trading. This evidence suggests that ownership by media conglomerates likely influences the nature of business news coverage.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.00653.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00653
+UR  - https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.00653
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Housing Cycles and Exchange Rates
+AU  - Ma, Sai
+AU  - Zhang, Shaojun
+Y1  - 2023/10/03
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4932
+DO  - 10.1287/mnsc.2023.4932
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5646
+EP  - 5666
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - This paper documents that the ratio of residential-to-nonresidential investment is a strong in-sample and out-of-sample predictor for the dollar up to 12 quarters. The predictability is robust to a battery of additional checks and holds for other G10 currencies. We explain the predictability in an analytical model with time-varying housing preference, productivity, and volatility. In the model, the U.S. housing investment share is higher during periods with higher growth and lower uncertainty, corresponding to lower future nontradable prices, dollar index, and excess returns. We find strong empirical support for the channel. Alternative explanations, including the business and financial cycle, find less empirical support.This paper was accepted by David Sraer, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4932.
+AB  - This paper documents that the ratio of residential-to-nonresidential investment is a strong in-sample and out-of-sample predictor for the dollar up to 12 quarters. The predictability is robust to a battery of additional checks and holds for other G10 currencies. We explain the predictability in an analytical model with time-varying housing preference, productivity, and volatility. In the model, the U.S. housing investment share is higher during periods with higher growth and lower uncertainty, corresponding to lower future nontradable prices, dollar index, and excess returns. We find strong empirical support for the channel. Alternative explanations, including the business and financial cycle, find less empirical support.This paper was accepted by David Sraer, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4932.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4932
+UR  - https://doi.org/10.1287/mnsc.2023.4932
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Ambiguous Dynamic Treatment Regimes: A Reinforcement Learning Approach
+AU  - Saghafian, Soroush
+Y1  - 2023/10/04
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2022.00883
+DO  - 10.1287/mnsc.2022.00883
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5667
+EP  - 5690
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - A main research goal in various studies is to use an observational data set and provide a new set of counterfactual guidelines that can yield causal improvements. Dynamic Treatment Regimes (DTRs) are widely studied to formalize this process and enable researchers to find guidelines that are both personalized and dynamic. However, available methods in finding optimal DTRs often rely on assumptions that are violated in real-world applications (e.g., medical decision making or public policy), especially when (a) the existence of unobserved confounders cannot be ignored, and (b) the unobserved confounders are time varying (e.g., affected by previous actions). When such assumptions are violated, one often faces ambiguity regarding the underlying causal model that is needed to be assumed to obtain an optimal DTR. This ambiguity is inevitable because the dynamics of unobserved confounders and their causal impact on the observed part of the data cannot be understood from the observed data. Motivated by a case study of finding superior treatment regimes for patients who underwent transplantation in our partner hospital (Mayo Clinic) and faced a medical condition known as new-onset diabetes after transplantation, we extend DTRs to a new class termed Ambiguous Dynamic Treatment Regimes (ADTRs), in which the causal impact of treatment regimes is evaluated based on a ?cloud? of potential causal models. We then connect ADTRs to Ambiguous Partially Observable Markov Decision Processes (APOMDPs) proposed by Saghafian (2018), and consider unobserved confounders as latent variables but with ambiguous dynamics and causal effects on observed variables. Using this connection, we develop two reinforcement learning methods termed Direct Augmented V-Learning (DAV-Learning) and Safe Augmented V-Learning (SAV-Learning), which enable using the observed data to effectively learn an optimal treatment regime. We establish theoretical results for these learning methods, including (weak) consistency and asymptotic normality. We further evaluate the performance of these learning methods both in our case study (using clinical data) and in simulation experiments (using synthetic data). We find promising results for our proposed approaches, showing that they perform well even compared with an imaginary oracle who knows both the true causal model (of the data-generating process) and the optimal regime under that model. Finally, we highlight that our approach enables a two-way personalization; obtained treatment regimes can be personalized based on both patients? characteristics and physicians? preferences.This paper was accepted by David Simchi-Levi, data science.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.00883.
+AB  - A main research goal in various studies is to use an observational data set and provide a new set of counterfactual guidelines that can yield causal improvements. Dynamic Treatment Regimes (DTRs) are widely studied to formalize this process and enable researchers to find guidelines that are both personalized and dynamic. However, available methods in finding optimal DTRs often rely on assumptions that are violated in real-world applications (e.g., medical decision making or public policy), especially when (a) the existence of unobserved confounders cannot be ignored, and (b) the unobserved confounders are time varying (e.g., affected by previous actions). When such assumptions are violated, one often faces ambiguity regarding the underlying causal model that is needed to be assumed to obtain an optimal DTR. This ambiguity is inevitable because the dynamics of unobserved confounders and their causal impact on the observed part of the data cannot be understood from the observed data. Motivated by a case study of finding superior treatment regimes for patients who underwent transplantation in our partner hospital (Mayo Clinic) and faced a medical condition known as new-onset diabetes after transplantation, we extend DTRs to a new class termed Ambiguous Dynamic Treatment Regimes (ADTRs), in which the causal impact of treatment regimes is evaluated based on a ?cloud? of potential causal models. We then connect ADTRs to Ambiguous Partially Observable Markov Decision Processes (APOMDPs) proposed by Saghafian (2018), and consider unobserved confounders as latent variables but with ambiguous dynamics and causal effects on observed variables. Using this connection, we develop two reinforcement learning methods termed Direct Augmented V-Learning (DAV-Learning) and Safe Augmented V-Learning (SAV-Learning), which enable using the observed data to effectively learn an optimal treatment regime. We establish theoretical results for these learning methods, including (weak) consistency and asymptotic normality. We further evaluate the performance of these learning methods both in our case study (using clinical data) and in simulation experiments (using synthetic data). We find promising results for our proposed approaches, showing that they perform well even compared with an imaginary oracle who knows both the true causal model (of the data-generating process) and the optimal regime under that model. Finally, we highlight that our approach enables a two-way personalization; obtained treatment regimes can be personalized based on both patients? characteristics and physicians? preferences.This paper was accepted by David Simchi-Levi, data science.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.00883.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00883
+UR  - https://doi.org/10.1287/mnsc.2022.00883
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Debtors at Play: Gaming Behavior and Consumer Credit Risk
+AU  - Gong, Shuaishuai
+AU  - Levine, Ross
+AU  - Lin, Chen
+AU  - Xie, Wensi
+Y1  - 2023/10/05
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4931
+DO  - 10.1287/mnsc.2023.4931
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5691
+EP  - 5708
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Exploiting a unique high-frequency, individual-level database, we (1) construct individual-level, incentive-compatible proxies of impulsivity based on video gaming behavior and (2) use these proxies to evaluate predictions concerning how impulsivity shapes individuals? responses to a relaxation of credit constraints as captured by receiving a credit card. We discover that precard gaming intensity?as measured by the frequency and amount of game expenditures?is strongly and positively associated with (a) the probability of defaulting on credit card debt in the future, (b) postcard expenditures on luxury and addictive items, (c) surges in consumption spending immediately after receiving the credit card, and (d) rapid debt accumulation after obtaining the card. Differences in financial literacy, income, income variability, education, and demographics do not drive the results. The results are consistent with (1) neurological and psychological studies stressing that excessive gaming is associated with impulse control deficiencies and (2) behavioral theories stressing that impulsivity, i.e., time-inconsistent preferences for immediate gratification and ineffective strategies for avoiding myopic cues and temptations, substantially influence individual expenditure patterns and borrowing decisions when liquidity constraints are relaxed.This paper was accepted by Kay Giesecke, finance.Funding: C. Lin acknowledges the financial support from the National Natural Science Foundation of China [Project 72192841] and the Research Grant Council of the Hong Kong SAR, China [Project T35-710/20-R].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4931.
+AB  - Exploiting a unique high-frequency, individual-level database, we (1) construct individual-level, incentive-compatible proxies of impulsivity based on video gaming behavior and (2) use these proxies to evaluate predictions concerning how impulsivity shapes individuals? responses to a relaxation of credit constraints as captured by receiving a credit card. We discover that precard gaming intensity?as measured by the frequency and amount of game expenditures?is strongly and positively associated with (a) the probability of defaulting on credit card debt in the future, (b) postcard expenditures on luxury and addictive items, (c) surges in consumption spending immediately after receiving the credit card, and (d) rapid debt accumulation after obtaining the card. Differences in financial literacy, income, income variability, education, and demographics do not drive the results. The results are consistent with (1) neurological and psychological studies stressing that excessive gaming is associated with impulse control deficiencies and (2) behavioral theories stressing that impulsivity, i.e., time-inconsistent preferences for immediate gratification and ineffective strategies for avoiding myopic cues and temptations, substantially influence individual expenditure patterns and borrowing decisions when liquidity constraints are relaxed.This paper was accepted by Kay Giesecke, finance.Funding: C. Lin acknowledges the financial support from the National Natural Science Foundation of China [Project 72192841] and the Research Grant Council of the Hong Kong SAR, China [Project T35-710/20-R].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4931.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4931
+UR  - https://doi.org/10.1287/mnsc.2023.4931
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Breadth of Ownership and the Cross-Section of Corporate Bond Returns
+AU  - Huang, Jing-Zhi
+AU  - Qin, Nan
+AU  - Wang, Ying
+Y1  - 2023/10/10
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4950
+DO  - 10.1287/mnsc.2023.4950
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5709
+EP  - 5730
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Using breadth of corporate bond fund ownership to proxy for the combination of short-sale constraints and divergence of opinions in the corporate bond market, this paper investigates whether and to what extent Miller?s overpricing theory holds for corporate bonds. Consistent with the theory, we document a significant and positive relation between changes in breadth and the cross-section of future corporate bond returns. Because of the bounded upside of debt, the ability of changes in breadth to predict returns appears to be less pronounced for corporate bonds relative to stocks. Furthermore, this predictability is stronger among bonds with higher credit risk, indicating that the effect of short-sale constraints and divergence of opinions on bond mispricing tends to be larger for riskier bonds with more upside potential and, thus, more scope for overvaluation.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2023.4950.
+AB  - Using breadth of corporate bond fund ownership to proxy for the combination of short-sale constraints and divergence of opinions in the corporate bond market, this paper investigates whether and to what extent Miller?s overpricing theory holds for corporate bonds. Consistent with the theory, we document a significant and positive relation between changes in breadth and the cross-section of future corporate bond returns. Because of the bounded upside of debt, the ability of changes in breadth to predict returns appears to be less pronounced for corporate bonds relative to stocks. Furthermore, this predictability is stronger among bonds with higher credit risk, indicating that the effect of short-sale constraints and divergence of opinions on bond mispricing tends to be larger for riskier bonds with more upside potential and, thus, more scope for overvaluation.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The internet appendix and data are available at https://doi.org/10.1287/mnsc.2023.4950.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4950
+UR  - https://doi.org/10.1287/mnsc.2023.4950
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Selling Assets: Are Sellers Better Off with Strong Buyers?
+AU  - Marquez, Robert
+AU  - Singh, Rajdeep
+Y1  - 2023/10/11
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4938
+DO  - 10.1287/mnsc.2023.4938
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5731
+EP  - 5752
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - When do sellers benefit from the presence of a strong buyer? In a second price auction with independent private values and entry costs for buyers, we allow for one buyer to be stochastically ?strong.? We show that, when buyers make positive net profits, seller revenue is higher with a stronger buyer. In contrast, when competition is endogenous so that all buyers other than the strong buyer break even, seller revenue is always lower in the presence of a strong buyer. We also study seller actions such as providing buyer subsidies, setting reserve prices, securing multiple strong buyers, bundling assets, and optimally choosing the time of sale that might alleviate the fall in revenue.This paper was accepted by Will Cong, Finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4938.
+AB  - When do sellers benefit from the presence of a strong buyer? In a second price auction with independent private values and entry costs for buyers, we allow for one buyer to be stochastically ?strong.? We show that, when buyers make positive net profits, seller revenue is higher with a stronger buyer. In contrast, when competition is endogenous so that all buyers other than the strong buyer break even, seller revenue is always lower in the presence of a strong buyer. We also study seller actions such as providing buyer subsidies, setting reserve prices, securing multiple strong buyers, bundling assets, and optimally choosing the time of sale that might alleviate the fall in revenue.This paper was accepted by Will Cong, Finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4938.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4938
+UR  - https://doi.org/10.1287/mnsc.2023.4938
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Friend or Foe? Teaming Between Artificial Intelligence and Workers with Variation in Experience
+AU  - Wang, Weiguang
+AU  - Gao, Guodong (Gordon)
+AU  - Agarwal, Ritu
+Y1  - 2023/10/11
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2021.00588
+DO  - 10.1287/mnsc.2021.00588
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5753
+EP  - 5775
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - As artificial intelligence (AI) applications become more pervasive, it is critical to understand how knowledge workers with different levels and types of experience can team with AI for productivity gains. We focus on the influence of two major types of human work experience (narrow experience based on the specific task volume and broad experience based on seniority) on the human-AI team dynamics. We developed an AI solution for medical chart coding in a publicly traded company and conducted a field study among the knowledge workers. Based on a detailed analysis performed at the medical chart level, we find evidence that AI benefits workers with greater task-based experience, but senior workers gain less from AI than their junior colleagues. Further investigation reveals that the relatively lower productivity lift from AI is not a result of seniority per se but lower trust in AI, likely triggered by the senior workers? broader job responsibilities. This study provides new empirical insights into the differential roles of worker experience in the collaborative dynamics between AI and knowledge workers, which have important societal and business implications.This paper was accepted by Kartik Hosanagar, information systems.Funding: This work was supported by Inovalon [Sponsor of the Health Insights AI Laboratory].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.00588.
+AB  - As artificial intelligence (AI) applications become more pervasive, it is critical to understand how knowledge workers with different levels and types of experience can team with AI for productivity gains. We focus on the influence of two major types of human work experience (narrow experience based on the specific task volume and broad experience based on seniority) on the human-AI team dynamics. We developed an AI solution for medical chart coding in a publicly traded company and conducted a field study among the knowledge workers. Based on a detailed analysis performed at the medical chart level, we find evidence that AI benefits workers with greater task-based experience, but senior workers gain less from AI than their junior colleagues. Further investigation reveals that the relatively lower productivity lift from AI is not a result of seniority per se but lower trust in AI, likely triggered by the senior workers? broader job responsibilities. This study provides new empirical insights into the differential roles of worker experience in the collaborative dynamics between AI and knowledge workers, which have important societal and business implications.This paper was accepted by Kartik Hosanagar, information systems.Funding: This work was supported by Inovalon [Sponsor of the Health Insights AI Laboratory].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.00588.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.00588
+UR  - https://doi.org/10.1287/mnsc.2021.00588
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - How Do Product Recommendations Help Consumers Search? Evidence from a Field Experiment
+AU  - Wan, Xiang (Shawn)
+AU  - Kumar, Anuj
+AU  - Li, Xitong
+Y1  - 2023/10/17
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4951
+DO  - 10.1287/mnsc.2023.4951
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5776
+EP  - 5794
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Product recommendations can benefit consumers? online product search via multiple underlying mechanisms, such as showing products that offer them high value, facilitating navigation on the website, or exposing more product information. However, it is unclear ex ante which is the primary underlying mechanism that drives the benefits of product recommendations to consumers. We conducted a randomized field experiment to estimate the benefits of an item-based collaborative filtering (CF) recommendation system to consumers. We collect unique data on the affinity scores computed by an item-based CF algorithm to develop measures of a product?s net value and horizontal (taste) fit for consumers. Our results indicate that product recommendations help consumers search for higher-value products that are lower priced, fit their tastes better, or both. Besides that, we find that the ability to find higher-value products (rather than easy navigation or exposure to more product information) is the primary driver for consumers? higher purchase probabilities under recommendations. We further find a higher benefit of recommendations in product categories with higher price dispersion and heterogeneity in consumers? tastes, providing additional evidence for the lower price and better horizontal fit mechanisms. Finally, we find that when made available, consumers substitute their usage of other search tools on the website with product recommendations. Our findings have important implications for online retailers, policymakers, regulators, and item-based CF recommendation system design.This paper was accepted by D. J. Wu, information systems.Funding: This work was supported by the Public Utility Research Center of the University of Florida, the Hi! PARIS Fellowship, the HEC Foundation, and the Leavey School of Business at Santa Clara University [Grant 102720].Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2023.4951.
+AB  - Product recommendations can benefit consumers? online product search via multiple underlying mechanisms, such as showing products that offer them high value, facilitating navigation on the website, or exposing more product information. However, it is unclear ex ante which is the primary underlying mechanism that drives the benefits of product recommendations to consumers. We conducted a randomized field experiment to estimate the benefits of an item-based collaborative filtering (CF) recommendation system to consumers. We collect unique data on the affinity scores computed by an item-based CF algorithm to develop measures of a product?s net value and horizontal (taste) fit for consumers. Our results indicate that product recommendations help consumers search for higher-value products that are lower priced, fit their tastes better, or both. Besides that, we find that the ability to find higher-value products (rather than easy navigation or exposure to more product information) is the primary driver for consumers? higher purchase probabilities under recommendations. We further find a higher benefit of recommendations in product categories with higher price dispersion and heterogeneity in consumers? tastes, providing additional evidence for the lower price and better horizontal fit mechanisms. Finally, we find that when made available, consumers substitute their usage of other search tools on the website with product recommendations. Our findings have important implications for online retailers, policymakers, regulators, and item-based CF recommendation system design.This paper was accepted by D. J. Wu, information systems.Funding: This work was supported by the Public Utility Research Center of the University of Florida, the Hi! PARIS Fellowship, the HEC Foundation, and the Leavey School of Business at Santa Clara University [Grant 102720].Supplemental Material: Data and the online appendix are available at https://doi.org/10.1287/mnsc.2023.4951.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4951
+UR  - https://doi.org/10.1287/mnsc.2023.4951
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Current Account Uncertainty and Currency Premia
+AU  - Della Corte, Pasquale
+AU  - Krecetovs, Aleksejs
+Y1  - 2023/10/17
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4949
+DO  - 10.1287/mnsc.2023.4949
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5795
+EP  - 5815
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We empirically study the relationship between currency excess returns and current account uncertainty, measured as forecast dispersion. We find that investment currencies deliver low returns, whereas funding currencies offer a hedge when current account uncertainty is unexpectedly high. Moreover, an increase in current account uncertainty is associated with higher expected future excess returns on investment currencies. This mechanism is consistent with the recent advances in exchange rate theory based on capital flows in imperfect financial markets.This paper was accepted by Gustavo Manso, finance.Funding: A. Krecetovs thanks the Brevan Howard Centre at Imperial College London for financial support.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4949.
+AB  - We empirically study the relationship between currency excess returns and current account uncertainty, measured as forecast dispersion. We find that investment currencies deliver low returns, whereas funding currencies offer a hedge when current account uncertainty is unexpectedly high. Moreover, an increase in current account uncertainty is associated with higher expected future excess returns on investment currencies. This mechanism is consistent with the recent advances in exchange rate theory based on capital flows in imperfect financial markets.This paper was accepted by Gustavo Manso, finance.Funding: A. Krecetovs thanks the Brevan Howard Centre at Imperial College London for financial support.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4949.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4949
+UR  - https://doi.org/10.1287/mnsc.2023.4949
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Editor and the Algorithm: Recommendation Technology in Online News
+AU  - Peukert, Christian
+AU  - Sen, Ananya
+AU  - Claussen, Jörg
+Y1  - 2023/10/17
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4954
+DO  - 10.1287/mnsc.2023.4954
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5816
+EP  - 5831
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We run a field experiment to study the relative performance of human curation and automated personalized recommendation technology in the context of online news. We build a simple theoretical model that captures the relative efficacy of personalized algorithmic recommendations and curation based on human expertise. We highlight a critical tension between detailed, yet potentially narrow, information available to the algorithm versus broad (often private), but not scalable, information available to the human editor. Empirically, we show that, on average, algorithmic recommendations can outperform human curation with respect to clicks, but there is significant heterogeneity in this treatment effect. The human editor performs relatively better in the absence of sufficient personal data and when there is greater variation in preferences. These results suggest that reverting to human curation can mitigate the drawbacks of personalized algorithmic recommendations. Our computations show that the optimal combination of human curation and automated recommendation technology can lead to an increase of up to 13% in clicks. In absolute terms, we provide thresholds for when the estimated gains are larger than our estimate of implementation costs.This paper was accepted by Chris Forman, information systems.Funding: C. Peukert acknowledges funding from the Swiss National Science Foundation [Grant No. 100013_197807].Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2023.4954.
+AB  - We run a field experiment to study the relative performance of human curation and automated personalized recommendation technology in the context of online news. We build a simple theoretical model that captures the relative efficacy of personalized algorithmic recommendations and curation based on human expertise. We highlight a critical tension between detailed, yet potentially narrow, information available to the algorithm versus broad (often private), but not scalable, information available to the human editor. Empirically, we show that, on average, algorithmic recommendations can outperform human curation with respect to clicks, but there is significant heterogeneity in this treatment effect. The human editor performs relatively better in the absence of sufficient personal data and when there is greater variation in preferences. These results suggest that reverting to human curation can mitigate the drawbacks of personalized algorithmic recommendations. Our computations show that the optimal combination of human curation and automated recommendation technology can lead to an increase of up to 13% in clicks. In absolute terms, we provide thresholds for when the estimated gains are larger than our estimate of implementation costs.This paper was accepted by Chris Forman, information systems.Funding: C. Peukert acknowledges funding from the Swiss National Science Foundation [Grant No. 100013_197807].Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2023.4954.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4954
+UR  - https://doi.org/10.1287/mnsc.2023.4954
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Language on Income Smoothing: Cross-Country Evidence
+AU  - Cao, Wenjiao
+AU  - Myers, Linda A.
+AU  - Zhang, Zhifang
+Y1  - 2023/10/18
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2021.01753
+DO  - 10.1287/mnsc.2021.01753
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5832
+EP  - 5852
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We examine whether and how the time-oriented tendency embedded in languages influences income smoothing. Separating languages into weak- versus strong-future time reference (FTR) groups, we find that firms in weak-FTR countries tend to smooth earnings more. We also find that relationships with major stakeholders (i.e., debtholders, suppliers, and employees) amplify the effect of the FTR of languages on income smoothing. Additional analyses suggest that income smoothing driven by the FTR of languages enhances earnings informativeness. These findings provide new insights on the role that language plays in financial reporting decisions and on how relationships with major stakeholders influence the relation between an important feature of language and corporate income smoothing behavior.This paper was accepted by Brian Bushee, accounting.Funding: L. A. Myers acknowledges financial support from the University of Tennessee [the Haslam Chair of Business and the Haslam Family Faculty Research Fellowship].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.01753.
+AB  - We examine whether and how the time-oriented tendency embedded in languages influences income smoothing. Separating languages into weak- versus strong-future time reference (FTR) groups, we find that firms in weak-FTR countries tend to smooth earnings more. We also find that relationships with major stakeholders (i.e., debtholders, suppliers, and employees) amplify the effect of the FTR of languages on income smoothing. Additional analyses suggest that income smoothing driven by the FTR of languages enhances earnings informativeness. These findings provide new insights on the role that language plays in financial reporting decisions and on how relationships with major stakeholders influence the relation between an important feature of language and corporate income smoothing behavior.This paper was accepted by Brian Bushee, accounting.Funding: L. A. Myers acknowledges financial support from the University of Tennessee [the Haslam Chair of Business and the Haslam Family Faculty Research Fellowship].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.01753.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01753
+UR  - https://doi.org/10.1287/mnsc.2021.01753
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Benefit of the Doubt: Patent Examination Under Strategic Obfuscation
+AU  - Figueroa, Nicolás
+AU  - Lemus, Jorge
+Y1  - 2023/10/18
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.00140
+DO  - 10.1287/mnsc.2023.00140
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5853
+EP  - 5870
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - An applicant privately observes the value of an idea and files a patent application. After the examination, the patent examiner may not find conclusive evidence of the idea?s value. In this case, granting a patent can be the right decision or a mistake. Moreover, it can prompt obfuscation?effort to disrupt communication?by the applicant, reducing allocative efficiency. We show there is more obfuscation when examiners are more lenient, and we provide an empirical exercise supporting this conclusion. We also show that more examination resources do not prevent and may lead to more obfuscation. This result continues to hold when applicants can invest in knowledge to increase their chances of having good ideas. We also show that there is less obfuscation when good ideas are harder to find.This paper was accepted by Ilia Tsetlin, behavioral economics and decision analysis.Funding: N. Figueroa gratefully acknowledges financial support from ANID PIA/APOYO AFB220003.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.00140.
+AB  - An applicant privately observes the value of an idea and files a patent application. After the examination, the patent examiner may not find conclusive evidence of the idea?s value. In this case, granting a patent can be the right decision or a mistake. Moreover, it can prompt obfuscation?effort to disrupt communication?by the applicant, reducing allocative efficiency. We show there is more obfuscation when examiners are more lenient, and we provide an empirical exercise supporting this conclusion. We also show that more examination resources do not prevent and may lead to more obfuscation. This result continues to hold when applicants can invest in knowledge to increase their chances of having good ideas. We also show that there is less obfuscation when good ideas are harder to find.This paper was accepted by Ilia Tsetlin, behavioral economics and decision analysis.Funding: N. Figueroa gratefully acknowledges financial support from ANID PIA/APOYO AFB220003.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.00140.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.00140
+UR  - https://doi.org/10.1287/mnsc.2023.00140
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Effects of a Short-Term Corporate Social Impact Activity on Employee Turnover: Field Experimental Evidence
+AU  - Portocarrero, Florencio F.
+AU  - Burbano, Vanessa C.
+Y1  - 2023/10/19
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2022.01517
+DO  - 10.1287/mnsc.2022.01517
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5871
+EP  - 5895
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Short-term corporate social impact activities, wherein employees participate in firm-sponsored prosocial initiatives, are becoming increasingly common. However, it remains unclear whether short-term social impact activities affect employee behavior in a manner of relevance to the firm. Theoretically, arguments could be made in favor of or against the likelihood that such short-term activities would increase firm-benefitting employee behavior. We utilized data from a randomized field experiment implemented at a large Latin American bank to examine whether a short-term social impact activity can be beneficial for firms, focusing on one important outcome: turnover. Newly hired employees were randomly assigned to a short-term social impact activity as part of the new employee onboarding process or not. Notably, we find causal evidence that a day-long, short-term engagement reduced employee turnover almost a year later. We explore potential mechanisms behind this effect and find that employees? perceptions of organizational justice help to explain the effects of the intervention on turnover. We also explore heterogeneous treatment effects and find more substantial effects for male, rather than female, employees. This paper advances the literature on the implications of corporate social responsibility (CSR) practices by shedding light on the causal mechanisms through which a theoretically underexplored and practically relevant type of CSR activity can benefit organizations and their employees.This paper was accepted by Lamar Pierce, organizations.Funding: The authors acknowledge funding from NSF through the Learning the Earth with Artificial intelligence and Physics (LEAP) Science and Technology Center (STC) (Award #2019625).Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.01517.
+AB  - Short-term corporate social impact activities, wherein employees participate in firm-sponsored prosocial initiatives, are becoming increasingly common. However, it remains unclear whether short-term social impact activities affect employee behavior in a manner of relevance to the firm. Theoretically, arguments could be made in favor of or against the likelihood that such short-term activities would increase firm-benefitting employee behavior. We utilized data from a randomized field experiment implemented at a large Latin American bank to examine whether a short-term social impact activity can be beneficial for firms, focusing on one important outcome: turnover. Newly hired employees were randomly assigned to a short-term social impact activity as part of the new employee onboarding process or not. Notably, we find causal evidence that a day-long, short-term engagement reduced employee turnover almost a year later. We explore potential mechanisms behind this effect and find that employees? perceptions of organizational justice help to explain the effects of the intervention on turnover. We also explore heterogeneous treatment effects and find more substantial effects for male, rather than female, employees. This paper advances the literature on the implications of corporate social responsibility (CSR) practices by shedding light on the causal mechanisms through which a theoretically underexplored and practically relevant type of CSR activity can benefit organizations and their employees.This paper was accepted by Lamar Pierce, organizations.Funding: The authors acknowledge funding from NSF through the Learning the Earth with Artificial intelligence and Physics (LEAP) Science and Technology Center (STC) (Award #2019625).Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.01517.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.01517
+UR  - https://doi.org/10.1287/mnsc.2022.01517
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Virtual Shareholder Meetings
+AU  - Brochet, Francois
+AU  - Chychyla, Roman
+AU  - Ferri, Fabrizio
+Y1  - 2023/10/19
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4946
+DO  - 10.1287/mnsc.2023.4946
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5896
+EP  - 5930
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We examine determinants and consequences of virtual shareholder meetings (VSMs) using a sample of voluntary (precoronavirus disease 2019) and forced (i.e., because of coronavirus disease 2019) VSM adopters. Voluntary adopters are tech firms and firms traditionally more engaged with shareholders, consistent with the stated objective to increase shareholder participation. In contrast, we do not find that firms choose the virtual format to avoid shareholders? scrutiny. Textual analysis of transcripts suggests that in VSMs, business presentations by management are less frequent, shorter, and more generic but only among voluntary adopters, suggesting that these properties reflect a firm?s choice rather than are a by-product of the virtual format per se. VSMs are more likely to exhibit no questions during the question and answer period, but conditioned upon having one question, they exhibit the same number of questions; such questions are more negative in tone, inconsistent with managers using the virtual format to filter out hostile questions. Finally, there is some evidence of greater abnormal absolute returns around VSMs, supporting the notion that greater attendance translates into greater information content. Overall, VSMs exhibit less activity on average, consistent with critics? concerns, but such reduced activity does not appear to cause a loss in information content nor does it appear to reflect an attempt to avoid scrutiny.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4946.
+AB  - We examine determinants and consequences of virtual shareholder meetings (VSMs) using a sample of voluntary (precoronavirus disease 2019) and forced (i.e., because of coronavirus disease 2019) VSM adopters. Voluntary adopters are tech firms and firms traditionally more engaged with shareholders, consistent with the stated objective to increase shareholder participation. In contrast, we do not find that firms choose the virtual format to avoid shareholders? scrutiny. Textual analysis of transcripts suggests that in VSMs, business presentations by management are less frequent, shorter, and more generic but only among voluntary adopters, suggesting that these properties reflect a firm?s choice rather than are a by-product of the virtual format per se. VSMs are more likely to exhibit no questions during the question and answer period, but conditioned upon having one question, they exhibit the same number of questions; such questions are more negative in tone, inconsistent with managers using the virtual format to filter out hostile questions. Finally, there is some evidence of greater abnormal absolute returns around VSMs, supporting the notion that greater attendance translates into greater information content. Overall, VSMs exhibit less activity on average, consistent with critics? concerns, but such reduced activity does not appear to cause a loss in information content nor does it appear to reflect an attempt to avoid scrutiny.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4946.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4946
+UR  - https://doi.org/10.1287/mnsc.2023.4946
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - A Bayesian Hierarchical Model of Crowd Wisdom Based on Predicting Opinions of Others
+AU  - McCoy, John
+AU  - Prelec, Drazen
+Y1  - 2023/10/19
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4955
+DO  - 10.1287/mnsc.2023.4955
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5931
+EP  - 5948
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - In many domains, it is necessary to combine opinions or forecasts from multiple individuals. However, the average or modal judgment is often incorrect, shared information across respondents can result in correlated errors, and weighting judgments by confidence does not guarantee accuracy. We develop a Bayesian hierarchical model of crowd wisdom that incorporates predictions about others to address these aggregation challenges. The proposed model can be applied to single questions, and it can also estimate respondent expertise given multiple questions. Unlike existing Bayesian hierarchical models for aggregation, the model does not link the correct answer to consensus or privilege majority opinion. The model extends the ?surprisingly popular algorithm? to enable statistical inference and in doing so, overcomes several of its limitations. We assess performance on empirical data and compare the results with other aggregation methods, including leading Bayesian hierarchical models.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported in part by the National Science Foundation [Grant MMS 2019982] and All Souls College Oxford [Visiting Fellowships in 2020 and 2022 to D. Prelec].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4955.
+AB  - In many domains, it is necessary to combine opinions or forecasts from multiple individuals. However, the average or modal judgment is often incorrect, shared information across respondents can result in correlated errors, and weighting judgments by confidence does not guarantee accuracy. We develop a Bayesian hierarchical model of crowd wisdom that incorporates predictions about others to address these aggregation challenges. The proposed model can be applied to single questions, and it can also estimate respondent expertise given multiple questions. Unlike existing Bayesian hierarchical models for aggregation, the model does not link the correct answer to consensus or privilege majority opinion. The model extends the ?surprisingly popular algorithm? to enable statistical inference and in doing so, overcomes several of its limitations. We assess performance on empirical data and compare the results with other aggregation methods, including leading Bayesian hierarchical models.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported in part by the National Science Foundation [Grant MMS 2019982] and All Souls College Oxford [Visiting Fellowships in 2020 and 2022 to D. Prelec].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4955.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4955
+UR  - https://doi.org/10.1287/mnsc.2023.4955
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Contrarians, Extrapolators, and Stock Market Momentum and Reversal
+AU  - Atmaz, Adem
+AU  - Gulen, Huseyin
+AU  - Cassella, Stefano
+AU  - Ruan, Fangcheng
+Y1  - 2023/10/19
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4960
+DO  - 10.1287/mnsc.2023.4960
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5949
+EP  - 5984
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We document considerable cross-investor variation in survey expectations about aggregate stock market returns. Although most investors are extrapolators who expect higher returns after a good market performance, some are contrarians who expect lower returns after a good performance. More notably, compared with extrapolators, contrarians have less persistent expectations that are corrected more quickly. We then develop a dynamic equilibrium model accounting for these differences in expectations and find that the equilibrium stock price exhibits short-term momentum and long-term reversal as in the data. Furthermore, we test the key predictions of our model linking the observable differences in extrapolators? and contrarians? expectations to aggregate stock market momentum and future stock performance and find supportive evidence for our model mechanism.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4960.
+AB  - We document considerable cross-investor variation in survey expectations about aggregate stock market returns. Although most investors are extrapolators who expect higher returns after a good market performance, some are contrarians who expect lower returns after a good performance. More notably, compared with extrapolators, contrarians have less persistent expectations that are corrected more quickly. We then develop a dynamic equilibrium model accounting for these differences in expectations and find that the equilibrium stock price exhibits short-term momentum and long-term reversal as in the data. Furthermore, we test the key predictions of our model linking the observable differences in extrapolators? and contrarians? expectations to aggregate stock market momentum and future stock performance and find supportive evidence for our model mechanism.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4960.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4960
+UR  - https://doi.org/10.1287/mnsc.2023.4960
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Pricing with External Information and Inventory Constraint
+AU  - Li, Xiaocheng
+AU  - Zheng, Zeyu
+Y1  - 2023/10/19
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4963
+DO  - 10.1287/mnsc.2023.4963
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 5985
+EP  - 6001
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - A merchant dynamically sets prices in each time period when selling a product over a finite time horizon with a given initial inventory. The merchant utilizes new external information that is observed at the beginning of each time period, whereas the demand function?how the external information and the price jointly impact that single-period demand distribution?is unknown. The merchant?s decision, setting price dynamically, serves dual roles to learn the unknown demand function and to balance inventory with an ultimate objective to maximize the expected cumulative revenue. The main objective of this work is to characterize and provide a full spectrum of relations between the order of optimal expected cumulative revenue achieved in three decision-making regimes: the merchant?s online decision-making regime, a clairvoyant regime with complete knowledge about the demand function, and a deterministic regime in which all the uncertainties are relaxed to the expectations. In the analyses, we derive an unconstrained representation of the optimality gap for generic constrained online learning problems, which renders tractable lower and upper bounds for the expected revenue achieved by dynamic pricing algorithms between different regimes. This analytical framework also inspires the design of two dual-based dynamic pricing algorithms for the clairvoyant and online regimes.This paper was accepted by Hamid Nazerzadeh, data science.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4963.
+AB  - A merchant dynamically sets prices in each time period when selling a product over a finite time horizon with a given initial inventory. The merchant utilizes new external information that is observed at the beginning of each time period, whereas the demand function?how the external information and the price jointly impact that single-period demand distribution?is unknown. The merchant?s decision, setting price dynamically, serves dual roles to learn the unknown demand function and to balance inventory with an ultimate objective to maximize the expected cumulative revenue. The main objective of this work is to characterize and provide a full spectrum of relations between the order of optimal expected cumulative revenue achieved in three decision-making regimes: the merchant?s online decision-making regime, a clairvoyant regime with complete knowledge about the demand function, and a deterministic regime in which all the uncertainties are relaxed to the expectations. In the analyses, we derive an unconstrained representation of the optimality gap for generic constrained online learning problems, which renders tractable lower and upper bounds for the expected revenue achieved by dynamic pricing algorithms between different regimes. This analytical framework also inspires the design of two dual-based dynamic pricing algorithms for the clairvoyant and online regimes.This paper was accepted by Hamid Nazerzadeh, data science.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4963.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4963
+UR  - https://doi.org/10.1287/mnsc.2023.4963
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Spanning Analysis of Stock Market Anomalies Under Prospect Stochastic Dominance
+AU  - Arvanitis, Stelios
+AU  - Scaillet, Olivier
+AU  - Topaloglou, Nikolas
+Y1  - 2023/10/20
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4953
+DO  - 10.1287/mnsc.2023.4953
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6002
+EP  - 6025
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We develop and implement methods for determining whether introducing new securities or relaxing investment constraints improves the investment opportunity set for prospect investors. We formulate a new testing procedure for prospect spanning for two nested portfolio sets based on subsampling and linear programming. In an application, we use the prospect spanning framework to evaluate whether well-known anomalies are spanned by standard factors. We find that of the strategies considered, a few of them expand the opportunity set of the prospect type investors and thus have real economic value for them and involve absence of loss aversion. Those are the net stock issue anomaly under the FF-5 model, the momentum and net stock issue anomalies under the M-4 model, and the momentum anomaly under the q model. In-sample and out-of-sample results prove remarkably consistent in identifying genuine anomalies for prospect investors.This paper was accepted by Will Cong, finance.Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2023.4953.
+AB  - We develop and implement methods for determining whether introducing new securities or relaxing investment constraints improves the investment opportunity set for prospect investors. We formulate a new testing procedure for prospect spanning for two nested portfolio sets based on subsampling and linear programming. In an application, we use the prospect spanning framework to evaluate whether well-known anomalies are spanned by standard factors. We find that of the strategies considered, a few of them expand the opportunity set of the prospect type investors and thus have real economic value for them and involve absence of loss aversion. Those are the net stock issue anomaly under the FF-5 model, the momentum and net stock issue anomalies under the M-4 model, and the momentum anomaly under the q model. In-sample and out-of-sample results prove remarkably consistent in identifying genuine anomalies for prospect investors.This paper was accepted by Will Cong, finance.Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2023.4953.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4953
+UR  - https://doi.org/10.1287/mnsc.2023.4953
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Help-and-Haggle: Social Commerce Through Randomized, All-or-Nothing Discounts
+AU  - Yang, Luyi
+AU  - Jin, Chen
+AU  - Shao, Zhen
+Y1  - 2023/10/23
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4948
+DO  - 10.1287/mnsc.2023.4948
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6026
+EP  - 6044
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - This paper studies a novel social commerce practice known as ?help-and-haggle,? whereby an online consumer can ask friends to help her ?haggle? over the price of a product. Each time a friend agrees to help, the price is cut by a random amount, and if the consumer cuts the product price down to zero within a time limit, she will get the product for free; otherwise, the product reverts to the original price. Help-and-haggle enables the firm to promote its product and boost its social reach as consumers effectively refer their friends to the firm. We model the consumer?s dynamic referral behavior in help-and-haggle and provide prescriptive guidance on how the firm should randomize price cuts. Our results are as follows. First, contrary to conventional wisdom, the firm should not always reduce the (realized) price-cut amount if referrals are less costly for the consumer. In fact, the minimum number of successful referrals the consumer must make to have a chance to win the product can be nonmonotone in referral cost. Second, relative to the deterministic price-cut benchmark, a random price-cut scheme improves firm payoff, extracts more consumer surplus, and widens social reach. Additionally, in most instances, it also reduces the promotion expense while increasing profit from product sales at the same time. Third, help-and-haggle can be more cost effective in social reach than a reward-per-referral program that offers a cash reward for each successful referral. However, using the prospect of a free product to attract referrals cannibalizes product sales, potentially causing help-and-haggle to fall short. Yet, if consumers are heterogeneous in product valuations and referral costs or face increasing marginal referral costs, help-and-haggle can outperform the reward-per-referral program.This paper was accepted by Elena Katok, operations management.Funding: L. Yang acknowledges the Berkeley Haas Center for Growth Markets [2022 Grant Award]. C. Jin acknowledges the Singapore Ministry of Education Academic Research Fund [Tier 1 Grant 251RES2101]. Z. Shao acknowledges support from the National Natural Science Foundation of China [Grant 72071188]. All authors acknowledge the Networks, Electronic Commerce and Telecommunications (NET) Institute [2022 Summer Research Grant].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4948.
+AB  - This paper studies a novel social commerce practice known as ?help-and-haggle,? whereby an online consumer can ask friends to help her ?haggle? over the price of a product. Each time a friend agrees to help, the price is cut by a random amount, and if the consumer cuts the product price down to zero within a time limit, she will get the product for free; otherwise, the product reverts to the original price. Help-and-haggle enables the firm to promote its product and boost its social reach as consumers effectively refer their friends to the firm. We model the consumer?s dynamic referral behavior in help-and-haggle and provide prescriptive guidance on how the firm should randomize price cuts. Our results are as follows. First, contrary to conventional wisdom, the firm should not always reduce the (realized) price-cut amount if referrals are less costly for the consumer. In fact, the minimum number of successful referrals the consumer must make to have a chance to win the product can be nonmonotone in referral cost. Second, relative to the deterministic price-cut benchmark, a random price-cut scheme improves firm payoff, extracts more consumer surplus, and widens social reach. Additionally, in most instances, it also reduces the promotion expense while increasing profit from product sales at the same time. Third, help-and-haggle can be more cost effective in social reach than a reward-per-referral program that offers a cash reward for each successful referral. However, using the prospect of a free product to attract referrals cannibalizes product sales, potentially causing help-and-haggle to fall short. Yet, if consumers are heterogeneous in product valuations and referral costs or face increasing marginal referral costs, help-and-haggle can outperform the reward-per-referral program.This paper was accepted by Elena Katok, operations management.Funding: L. Yang acknowledges the Berkeley Haas Center for Growth Markets [2022 Grant Award]. C. Jin acknowledges the Singapore Ministry of Education Academic Research Fund [Tier 1 Grant 251RES2101]. Z. Shao acknowledges support from the National Natural Science Foundation of China [Grant 72071188]. All authors acknowledge the Networks, Electronic Commerce and Telecommunications (NET) Institute [2022 Summer Research Grant].Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4948.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4948
+UR  - https://doi.org/10.1287/mnsc.2023.4948
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - (How) Does User-Generated Content Impact Content Generated by Professionals? Evidence from Local News
+AU  - Sen, Ananya
+AU  - Grad, Tom
+AU  - Ferreira, Pedro
+AU  - Claussen, Jörg
+Y1  - 2023/10/23
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4962
+DO  - 10.1287/mnsc.2023.4962
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6045
+EP  - 6068
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Many platforms host user-generated content (UGC) and content developed by professionals side by side. However, thus far, their impact on platform ecosystems has been mostly studied in isolation. In this paper, we use data from a network of 122 local news outlets hosted by an online news platform to study the spillover effects from UGC developed by citizen journalists to the content developed by professional journalists. We use the removal of a status index associated with citizen journalists as an exogenous shock to their supply of UGC to identify these spillover effects. We find that experienced citizen journalists reduce their production of content when this status index is removed. We then find that inexperienced professional journalists increase their output in response to this behavior. However, as a result of these changes, we find a reduction in the overall content hosted by the platform, especially in the case of local news and in more isolated regions. We further show that this is likely to have detrimental effects for the platform. In particular, there is a decline in overall viewership, and the platform may need to hire and pay salaries to more professional journalists to produce enough articles to close the gap left by the departing citizen journalists. Our work contributes to the literature on UGC and online platforms and to the literature on local news.This paper was accepted by D. J. Wu, information systems division.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.4962.
+AB  - Many platforms host user-generated content (UGC) and content developed by professionals side by side. However, thus far, their impact on platform ecosystems has been mostly studied in isolation. In this paper, we use data from a network of 122 local news outlets hosted by an online news platform to study the spillover effects from UGC developed by citizen journalists to the content developed by professional journalists. We use the removal of a status index associated with citizen journalists as an exogenous shock to their supply of UGC to identify these spillover effects. We find that experienced citizen journalists reduce their production of content when this status index is removed. We then find that inexperienced professional journalists increase their output in response to this behavior. However, as a result of these changes, we find a reduction in the overall content hosted by the platform, especially in the case of local news and in more isolated regions. We further show that this is likely to have detrimental effects for the platform. In particular, there is a decline in overall viewership, and the platform may need to hire and pay salaries to more professional journalists to produce enough articles to close the gap left by the departing citizen journalists. Our work contributes to the literature on UGC and online platforms and to the literature on local news.This paper was accepted by D. J. Wu, information systems division.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.4962.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4962
+UR  - https://doi.org/10.1287/mnsc.2023.4962
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Information Regimes in Financial Markets
+AU  - Glasserman, Paul
+AU  - Mamaysky, Harry
+AU  - Shen, Yiwen
+Y1  - 2023/10/24
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2021.01213
+DO  - 10.1287/mnsc.2021.01213
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6069
+EP  - 6092
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We develop a model of investor information choices and asset prices in which the availability of information about fundamentals is time-varying and responds to investor demand for information. A competitive research sector produces more information when more investors are willing to pay for that research. This feedback, from investor willingness to pay for information to more information production, generates two regimes in equilibrium, one having high prices and low volatility, the other the opposite. The low-price, high-volatility regime is associated with greater information asymmetry between informed and uninformed investors. Information dynamics move the market between regimes, creating large price drops even with no change in fundamentals. In our calibration, the model suggests an important role for information dynamics in financial crises.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.01213.
+AB  - We develop a model of investor information choices and asset prices in which the availability of information about fundamentals is time-varying and responds to investor demand for information. A competitive research sector produces more information when more investors are willing to pay for that research. This feedback, from investor willingness to pay for information to more information production, generates two regimes in equilibrium, one having high prices and low volatility, the other the opposite. The low-price, high-volatility regime is associated with greater information asymmetry between informed and uninformed investors. Information dynamics move the market between regimes, creating large price drops even with no change in fundamentals. In our calibration, the model suggests an important role for information dynamics in financial crises.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.01213.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01213
+UR  - https://doi.org/10.1287/mnsc.2021.01213
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Incentives from Career Concerns in a Contract Package: An Empirical Investigation
+AU  - Yang, Bicheng
+AU  - Chan, Tat
+AU  - Owan, Hideo
+AU  - Tsuru, Tsuyoshi
+Y1  - 2023/10/25
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4956
+DO  - 10.1287/mnsc.2023.4956
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6093
+EP  - 6116
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - This paper empirically studies the extent to which career concerns as part of a typical contract offer influence employees? work performance in a Japanese auto dealership firm. Because career movements and base-wage adjustments rely on performance evaluation over time, we develop a dynamic structural model that allows concerns for future payoffs to impact an employee?s current work effort. A reform in personnel-management policies of the firm during the data period enables us not only to compare the performances across individuals, but also to compare within an individual the performance before and after the reform?this enhances the model identification. Our estimation results show that the added value from career movements on top of the monetary payoffs is more important than the monetary payoffs. Individuals respond to career movements and commissions differently, mainly due to varying cost of effort and different payoffs from career movements. Our counterfactual exercises suggest that, compared with the scenario when there is only monetary compensation, adding career movements in a contract package will greatly improve the firm?s gross profit. The firm can improve its net profit by making commission and promotion more performance-based.This paper was accepted by Matt Shum, marketing.Funding: Financial support from the Social Sciences and Humanities Research Council of Canada [Grant 20190410-01] is gratefully acknowledged.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4956.
+AB  - This paper empirically studies the extent to which career concerns as part of a typical contract offer influence employees? work performance in a Japanese auto dealership firm. Because career movements and base-wage adjustments rely on performance evaluation over time, we develop a dynamic structural model that allows concerns for future payoffs to impact an employee?s current work effort. A reform in personnel-management policies of the firm during the data period enables us not only to compare the performances across individuals, but also to compare within an individual the performance before and after the reform?this enhances the model identification. Our estimation results show that the added value from career movements on top of the monetary payoffs is more important than the monetary payoffs. Individuals respond to career movements and commissions differently, mainly due to varying cost of effort and different payoffs from career movements. Our counterfactual exercises suggest that, compared with the scenario when there is only monetary compensation, adding career movements in a contract package will greatly improve the firm?s gross profit. The firm can improve its net profit by making commission and promotion more performance-based.This paper was accepted by Matt Shum, marketing.Funding: Financial support from the Social Sciences and Humanities Research Council of Canada [Grant 20190410-01] is gratefully acknowledged.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4956.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4956
+UR  - https://doi.org/10.1287/mnsc.2023.4956
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Portfolio Choice with Unknown Benchmark Efficiency
+AU  - Kan, Raymond
+AU  - Wang, Xiaolu
+Y1  - 2023/10/25
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2021.01767
+DO  - 10.1287/mnsc.2021.01767
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6117
+EP  - 6138
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - When a benchmark model is inefficient, including test assets in addition to the benchmark portfolios can improve the performance of the optimal portfolio. In reality, the efficiency of a benchmark model relative to the test assets is ex ante unknown; moreover, the optimal portfolio is constructed based on estimated parameters. Therefore, whether and how to include the test assets becomes a critical question faced by real world investors. For such a setting, we propose a combining portfolio strategy, optimally balancing the value of including test assets and the effect of estimation errors. The proposed combining strategy can work together with some existing estimation risk reduction strategies. In both empirical data sets and simulations, we show that our proposed combining strategy performs well.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.01767.
+AB  - When a benchmark model is inefficient, including test assets in addition to the benchmark portfolios can improve the performance of the optimal portfolio. In reality, the efficiency of a benchmark model relative to the test assets is ex ante unknown; moreover, the optimal portfolio is constructed based on estimated parameters. Therefore, whether and how to include the test assets becomes a critical question faced by real world investors. For such a setting, we propose a combining portfolio strategy, optimally balancing the value of including test assets and the effect of estimation errors. The proposed combining strategy can work together with some existing estimation risk reduction strategies. In both empirical data sets and simulations, we show that our proposed combining strategy performs well.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2021.01767.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.01767
+UR  - https://doi.org/10.1287/mnsc.2021.01767
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Bandits atop Reinforcement Learning: Tackling Online Inventory Models with Cyclic Demands
+AU  - Gong, Xiao-Yue
+AU  - Simchi-Levi, David
+Y1  - 2023/10/26
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4947
+DO  - 10.1287/mnsc.2023.4947
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6139
+EP  - 6157
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Motivated by a long-standing gap between inventory theory and practice, we study online inventory models with unknown cyclic demand distributions. We design provably efficient reinforcement learning (RL) algorithms that leverage the structure of inventory problems to achieve optimal theoretical guarantees that surpass existing results. We apply the standard performance measure in online learning literature, regret, which is defined as the difference between the total expected cost of our policy and the total expected cost of the clairvoyant optimal policy that has full knowledge of the demand distributions a priori. This paper analyzes, in the presence of unknown cyclic demands, both the lost-sales model with zero lead time and the multiproduct backlogging model with positive lead times, fixed joint-ordering costs and order limits. For both models, we first introduce episodic models where inventory is discarded at the end of every cycle, and then build upon these results to analyze the nondiscarding models. Our RL policies HQL and FQL achieve O?(T) regret for the episodic lost-sales model and the episodic multiproduct backlogging model, matching the regret lower bound that we prove in this paper. For the nondiscarding models, we construct a bandit learning algorithm on top that governs multiple copies of the previous RL algorithms, named Meta-HQL. Meta-HQL achieves O?(T) regret for the nondiscarding lost-sales model with zero lead time, again matching the regret lower bound. For the nondiscarding multiproduct backlogging model, our policy Mimic-QL achieves O?(T5/6) regret. Our policies remove the regret dependence on the cardinality of the state-action space for inventory problems, which is an improvement over existing RL algorithms. We conducted experiments with a real sales data set from Rossmann, one of the largest drugstore chains in Europe, and also with a synthetic data set. For both sets of experiments, our policy converges rapidly to the optimal policy and dramatically outperforms the best policy that models demand as independent and identically distributed instead of cyclic.This paper was accepted by J. George Shanthikumar, data science.Funding: X.-Y. Gong was partially supported by an Accenture Fellowship. The work of X.-Y. Gong and D. Simchi-Levi was partially supported by the MIT Data Science Lab.Supplemental Material: The data and online appendices are available at https://doi.org/10.1287/mnsc.2023.4947.
+AB  - Motivated by a long-standing gap between inventory theory and practice, we study online inventory models with unknown cyclic demand distributions. We design provably efficient reinforcement learning (RL) algorithms that leverage the structure of inventory problems to achieve optimal theoretical guarantees that surpass existing results. We apply the standard performance measure in online learning literature, regret, which is defined as the difference between the total expected cost of our policy and the total expected cost of the clairvoyant optimal policy that has full knowledge of the demand distributions a priori. This paper analyzes, in the presence of unknown cyclic demands, both the lost-sales model with zero lead time and the multiproduct backlogging model with positive lead times, fixed joint-ordering costs and order limits. For both models, we first introduce episodic models where inventory is discarded at the end of every cycle, and then build upon these results to analyze the nondiscarding models. Our RL policies HQL and FQL achieve O?(T) regret for the episodic lost-sales model and the episodic multiproduct backlogging model, matching the regret lower bound that we prove in this paper. For the nondiscarding models, we construct a bandit learning algorithm on top that governs multiple copies of the previous RL algorithms, named Meta-HQL. Meta-HQL achieves O?(T) regret for the nondiscarding lost-sales model with zero lead time, again matching the regret lower bound. For the nondiscarding multiproduct backlogging model, our policy Mimic-QL achieves O?(T5/6) regret. Our policies remove the regret dependence on the cardinality of the state-action space for inventory problems, which is an improvement over existing RL algorithms. We conducted experiments with a real sales data set from Rossmann, one of the largest drugstore chains in Europe, and also with a synthetic data set. For both sets of experiments, our policy converges rapidly to the optimal policy and dramatically outperforms the best policy that models demand as independent and identically distributed instead of cyclic.This paper was accepted by J. George Shanthikumar, data science.Funding: X.-Y. Gong was partially supported by an Accenture Fellowship. The work of X.-Y. Gong and D. Simchi-Levi was partially supported by the MIT Data Science Lab.Supplemental Material: The data and online appendices are available at https://doi.org/10.1287/mnsc.2023.4947.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4947
+UR  - https://doi.org/10.1287/mnsc.2023.4947
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain Adoption in a Supply Chain with Manufacturer Market Power
+AU  - Iyengar, Garud
+AU  - Saleh, Fahad
+AU  - Sethuraman, Jay
+AU  - Wang, Wenjun
+Y1  - 2023/10/27
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2022.02505
+DO  - 10.1287/mnsc.2022.02505
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6158
+EP  - 6178
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We examine a supply chain with a single risk-averse manufacturer who purchases from suppliers and sells to consumers. Within this context, we focus on two channels that drive blockchain adoption by the manufacturer: manufacturer risk aversion and consumer information asymmetry. Regarding the first channel, blockchain enables efficient tracing of defective products so that the manufacturer can selectively recall defective products rather than conducting a full recall. This tracing ability reduces the risk involved in the manufacturer purchasing from multiple suppliers and thereby leads the manufacturer to endogenously diversify across suppliers when blockchain is adopted. The diversification enhances the manufacturer?s welfare due to the manufacturer?s risk aversion and thus drives the manufacturer to adopt blockchain. With regard to the second channel, blockchain stores details from the manufacturing process and reveals them to consumers, thereby ameliorating consumer information asymmetry. This reduction in information asymmetry improves consumer decision making that, in isolation, would enhance consumer welfare. However, the manufacturer responds by increasing the consumer price, thereby transferring potential consumer welfare gains to the manufacturer, and consequently serving as a second channel to drive blockchain adoption by the manufacturer.This paper was accepted by Lin William Cong, finance.
+AB  - We examine a supply chain with a single risk-averse manufacturer who purchases from suppliers and sells to consumers. Within this context, we focus on two channels that drive blockchain adoption by the manufacturer: manufacturer risk aversion and consumer information asymmetry. Regarding the first channel, blockchain enables efficient tracing of defective products so that the manufacturer can selectively recall defective products rather than conducting a full recall. This tracing ability reduces the risk involved in the manufacturer purchasing from multiple suppliers and thereby leads the manufacturer to endogenously diversify across suppliers when blockchain is adopted. The diversification enhances the manufacturer?s welfare due to the manufacturer?s risk aversion and thus drives the manufacturer to adopt blockchain. With regard to the second channel, blockchain stores details from the manufacturing process and reveals them to consumers, thereby ameliorating consumer information asymmetry. This reduction in information asymmetry improves consumer decision making that, in isolation, would enhance consumer welfare. However, the manufacturer responds by increasing the consumer price, thereby transferring potential consumer welfare gains to the manufacturer, and consequently serving as a second channel to drive blockchain adoption by the manufacturer.This paper was accepted by Lin William Cong, finance.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.02505
+UR  - https://doi.org/10.1287/mnsc.2022.02505
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Value of Virtual Engagement: Evidence from a Running Platform
+AU  - Liu, Che-Wei
+AU  - Wang, Weiguang
+AU  - Gao, Guodong (Gordon)
+AU  - Agarwal, Ritu
+Y1  - 2023/10/31
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4945
+DO  - 10.1287/mnsc.2023.4945
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6179
+EP  - 6201
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Fueled by remarkable developments in mobile and wearable technologies coupled with the power of the Internet a multibillion industry constructed on digital platforms, Connected Fitness, has emerged. Sustained engagement is a crucial prerequisite for healthy behavior, and platforms that offer connected fitness services must contend with the challenge of engaging new users. In this study, we examine whether a virtual race, an event in which runners can participate remotely in an organized activity, can serve as an effective strategy to amplify users? long-term engagement related to healthy behavior. We study the impact of offering virtual races to runners on a digital fitness platform on their engagement with the platform and level of physical activity. Leveraging the match of the theme of the virtual races and users? zodiac signs as the instrument to support causal inference, we find that a virtual race increases the engagement of new users by 42.8?days and total spending on related e-commerce on the platform by 48.4% during our study period. We also find that the positive impact of virtual races transcends the typical mechanism of social connections; results show that virtual races can increase the engagement with the platform even when their social connections are low. Finally, we find that existing users who participate in a virtual race outrun those in the control group by 4.41?km in a three-week period. Our study highlights the potential of new forms of digital interactions, powered by mobile and wearable technologies, on user behavior in fitness platforms.This paper was accepted by Anindya Ghose, information systems.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4945.
+AB  - Fueled by remarkable developments in mobile and wearable technologies coupled with the power of the Internet a multibillion industry constructed on digital platforms, Connected Fitness, has emerged. Sustained engagement is a crucial prerequisite for healthy behavior, and platforms that offer connected fitness services must contend with the challenge of engaging new users. In this study, we examine whether a virtual race, an event in which runners can participate remotely in an organized activity, can serve as an effective strategy to amplify users? long-term engagement related to healthy behavior. We study the impact of offering virtual races to runners on a digital fitness platform on their engagement with the platform and level of physical activity. Leveraging the match of the theme of the virtual races and users? zodiac signs as the instrument to support causal inference, we find that a virtual race increases the engagement of new users by 42.8?days and total spending on related e-commerce on the platform by 48.4% during our study period. We also find that the positive impact of virtual races transcends the typical mechanism of social connections; results show that virtual races can increase the engagement with the platform even when their social connections are low. Finally, we find that existing users who participate in a virtual race outrun those in the control group by 4.41?km in a three-week period. Our study highlights the potential of new forms of digital interactions, powered by mobile and wearable technologies, on user behavior in fitness platforms.This paper was accepted by Anindya Ghose, information systems.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2023.4945.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4945
+UR  - https://doi.org/10.1287/mnsc.2023.4945
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Information Technology and Credit: Evidence from Public Guarantees
+AU  - Core, Fabrizio
+AU  - De Marco, Filippo
+Y1  - 2023/10/31
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4957
+DO  - 10.1287/mnsc.2023.4957
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6202
+EP  - 6219
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - This paper investigates whether banks? information technology (IT) can substitute for local branch presence in the provision of small business credit. Our identification strategy relies on loan-level data and the unique institutional features of the Italian public guarantee scheme during COVID-19. Despite the availability of online applications and low screening incentives, small business lending remains local even for first-time borrowers. However, IT partly mitigates the impact of local branch presence: banks with better IT provide more, cheaper, and faster guaranteed loans and lend more in areas where they have no bank branches, especially to first-time borrowers.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4957.
+AB  - This paper investigates whether banks? information technology (IT) can substitute for local branch presence in the provision of small business credit. Our identification strategy relies on loan-level data and the unique institutional features of the Italian public guarantee scheme during COVID-19. Despite the availability of online applications and low screening incentives, small business lending remains local even for first-time borrowers. However, IT partly mitigates the impact of local branch presence: banks with better IT provide more, cheaper, and faster guaranteed loans and lend more in areas where they have no bank branches, especially to first-time borrowers.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.4957.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4957
+UR  - https://doi.org/10.1287/mnsc.2023.4957
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Too Much Information: When Does Additional Testing Benefit Schools?
+AU  - Virudachalam, Vanitha
+AU  - Savin, Sergei
+AU  - Steinberg, Matthew P.
+Y1  - 2023/11/01
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2020.01547
+DO  - 10.1287/mnsc.2020.01547
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6220
+EP  - 6233
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - U.S. K?12 school districts that traditionally utilized ongoing ?formative? assessments of student progress increasingly rely on additional ?interim? assessments to predict student performance on standardized tests. Moreover, some districts are experimenting with merit-based teacher bonuses tied to standardized test scores. We examine the relationship between interim assessments and teacher bonuses using a two-period principal?agent model. The school district (principal), operating under a limited budget, decides whether to implement interim assessments and how much merit pay to offer, and teachers (agents) choose how much effort to exert in each period. We use two-state (proficient versus not proficient) Markovian dynamics to describe the evolution of student test readiness, in which the transition probability in a given period depends on both teachers? effort decisions and the starting state. Our results indicate that, despite the popularity of interim assessments, their usefulness is far from guaranteed. In particular, the accuracy promised by these assessments is a double-edged sword: positive midyear results can make it easier to incentivize second period teacher effort, but negative results can have a demotivating effect. Moreover, even when an interim assessment does result in a higher probability of the school ending the year in the proficient state, the resulting higher expected costs of merit-based bonuses for the district may exceed the available budget. Thus, even a free interim assessment might be too expensive for the school district.This paper was accepted by Charles Corbett, operations management.Funding: This research was supported by the Risk Management Center Russell Ackoff Doctoral Student Fellowship and the Fishman-Davidson Center for Service and Operations Management, both at The Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2020.01547.
+AB  - U.S. K?12 school districts that traditionally utilized ongoing ?formative? assessments of student progress increasingly rely on additional ?interim? assessments to predict student performance on standardized tests. Moreover, some districts are experimenting with merit-based teacher bonuses tied to standardized test scores. We examine the relationship between interim assessments and teacher bonuses using a two-period principal?agent model. The school district (principal), operating under a limited budget, decides whether to implement interim assessments and how much merit pay to offer, and teachers (agents) choose how much effort to exert in each period. We use two-state (proficient versus not proficient) Markovian dynamics to describe the evolution of student test readiness, in which the transition probability in a given period depends on both teachers? effort decisions and the starting state. Our results indicate that, despite the popularity of interim assessments, their usefulness is far from guaranteed. In particular, the accuracy promised by these assessments is a double-edged sword: positive midyear results can make it easier to incentivize second period teacher effort, but negative results can have a demotivating effect. Moreover, even when an interim assessment does result in a higher probability of the school ending the year in the proficient state, the resulting higher expected costs of merit-based bonuses for the district may exceed the available budget. Thus, even a free interim assessment might be too expensive for the school district.This paper was accepted by Charles Corbett, operations management.Funding: This research was supported by the Risk Management Center Russell Ackoff Doctoral Student Fellowship and the Fishman-Davidson Center for Service and Operations Management, both at The Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2020.01547.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.01547
+UR  - https://doi.org/10.1287/mnsc.2020.01547
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - When Myopic Managers Must Mark to Market
+AU  - Kolasinski, Adam
+AU  - Yang, Nan
+Y1  - 2023/11/01
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2020.03249
+DO  - 10.1287/mnsc.2020.03249
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6234
+EP  - 6254
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Although prior research suggests strict, fair value?based securities accounting rules cause banks to sell securities into negative liquidity shocks, a value-destroying behavior called ?liquidity feedback trading,? the mechanism is uncertain. We find the sooner chief executive officers (CEOs) are permitted to cash out of their stock and option grants, the more prone are their banks to feedback trading. Furthermore, the sooner CEOs can cash out, the more positive their banks? stock price reaction to news of accounting rule relaxation. We conclude incentives for managerial short-term focus are a mechanism by which stricter accounting rules cause feedback trading. We also find evidence that regulatory compliance concerns play a role.This paper was accepted by Tomasz Piskorski, finance.Funding: A. Kolasinski is grateful for financial support from Mays Business School at Texas A&M University. N. Yang thanks the School of Accounting and Finance at The Hong Kong Polytechnic University for financial support. Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2020.03249.
+AB  - Although prior research suggests strict, fair value?based securities accounting rules cause banks to sell securities into negative liquidity shocks, a value-destroying behavior called ?liquidity feedback trading,? the mechanism is uncertain. We find the sooner chief executive officers (CEOs) are permitted to cash out of their stock and option grants, the more prone are their banks to feedback trading. Furthermore, the sooner CEOs can cash out, the more positive their banks? stock price reaction to news of accounting rule relaxation. We conclude incentives for managerial short-term focus are a mechanism by which stricter accounting rules cause feedback trading. We also find evidence that regulatory compliance concerns play a role.This paper was accepted by Tomasz Piskorski, finance.Funding: A. Kolasinski is grateful for financial support from Mays Business School at Texas A&M University. N. Yang thanks the School of Accounting and Finance at The Hong Kong Polytechnic University for financial support. Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2020.03249.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2020.03249
+UR  - https://doi.org/10.1287/mnsc.2020.03249
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Information Reliability and Market Outcomes
+AU  - Cho, Chihoon
+AU  - Frankel, Richard
+AU  - Martin, Xiumin
+Y1  - 2023/11/01
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2021.03758
+DO  - 10.1287/mnsc.2021.03758
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6255
+EP  - 6279
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We study the used car market to understand how public enforcement that intends to increase information reliability affects disclosure, pricing, and liquidity. In 1986, federal rules mandated the creation of odometer records, and states enforced the law in a staggered fashion. We find that used car asking-price sensitivity to mileage increases by 32.6%, and mileage disclosure in classified ads increases by 23.4%. The findings suggest that strengthened law enforcement increases odometer credibility and enhances market participants? use of that information. We also show significant improvement in market outcomes: a 9.7% increase in asking price and a 13.4% increase in transaction speed, as reflected in the reduction in repeated ads. The price effect arises irrespective of whether ads contain mileage disclosure, whereas the liquidity effect arises mainly through disclosure. Our study shows public enforcement can benefit the market by improving information credibility.This paper was accepted by Suraj Srinivasan, accounting.Funding: The authors are grateful for financial support from the Olin Business School, Washington University in St. Louis.Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2021.03758
+AB  - We study the used car market to understand how public enforcement that intends to increase information reliability affects disclosure, pricing, and liquidity. In 1986, federal rules mandated the creation of odometer records, and states enforced the law in a staggered fashion. We find that used car asking-price sensitivity to mileage increases by 32.6%, and mileage disclosure in classified ads increases by 23.4%. The findings suggest that strengthened law enforcement increases odometer credibility and enhances market participants? use of that information. We also show significant improvement in market outcomes: a 9.7% increase in asking price and a 13.4% increase in transaction speed, as reflected in the reduction in repeated ads. The price effect arises irrespective of whether ads contain mileage disclosure, whereas the liquidity effect arises mainly through disclosure. Our study shows public enforcement can benefit the market by improving information credibility.This paper was accepted by Suraj Srinivasan, accounting.Funding: The authors are grateful for financial support from the Olin Business School, Washington University in St. Louis.Supplemental Material: The data and online appendix are available at https://doi.org/10.1287/mnsc.2021.03758
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.03758
+UR  - https://doi.org/10.1287/mnsc.2021.03758
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Are Financial Statements More Comparable When GAAP Restricts Managers’ Discretion?
+AU  - Young, Spencer
+Y1  - 2023/11/02
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4961
+DO  - 10.1287/mnsc.2023.4961
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6280
+EP  - 6301
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - I examine whether financial statements are more comparable when accounting standards restrict managers? discretion. My evidence suggests that restricting managers? discretion is associated with reduced comparability, on average. This effect is strongest when transactions are dissimilar. To explore this relation, I develop novel measures of two distinct types of incomparability. I find that restricting managers? discretion is associated with an increase in incomparability stemming from dissimilar transactions appearing overly similar. Together, these findings suggest that restricting managers? discretion may be more harmful to comparability than is too much diversity in practice. However, I also find evidence that restricting managers? discretion may enhance comparability in two scenarios. Specifically, I find that restricting managers? discretion is associated with improved comparability when standards (1) restrict manipulation of financial reports and (2) eliminate dissimilar accounting treatments that do not reflect differences in the underlying transactions. Overall, these findings nuance our understanding of how the requirements imposed by standard setters influence financial statement comparability.This paper was accepted by Suraj Srinivasan, accounting.Funding: Financial support from The School of Accountancy at the University of Arizona and the John T. Steed School of Accounting at the University of Oklahoma is gratefully acknowledged.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.4961.
+AB  - I examine whether financial statements are more comparable when accounting standards restrict managers? discretion. My evidence suggests that restricting managers? discretion is associated with reduced comparability, on average. This effect is strongest when transactions are dissimilar. To explore this relation, I develop novel measures of two distinct types of incomparability. I find that restricting managers? discretion is associated with an increase in incomparability stemming from dissimilar transactions appearing overly similar. Together, these findings suggest that restricting managers? discretion may be more harmful to comparability than is too much diversity in practice. However, I also find evidence that restricting managers? discretion may enhance comparability in two scenarios. Specifically, I find that restricting managers? discretion is associated with improved comparability when standards (1) restrict manipulation of financial reports and (2) eliminate dissimilar accounting treatments that do not reflect differences in the underlying transactions. Overall, these findings nuance our understanding of how the requirements imposed by standard setters influence financial statement comparability.This paper was accepted by Suraj Srinivasan, accounting.Funding: Financial support from The School of Accountancy at the University of Arizona and the John T. Steed School of Accounting at the University of Oklahoma is gratefully acknowledged.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.4961.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4961
+UR  - https://doi.org/10.1287/mnsc.2023.4961
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Optimal Accounting Rules, Private Benefits of Control, and Efficient Liquidation
+AU  - Jiang, Xu
+AU  - Yang, Ming
+Y1  - 2023/11/03
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2019.03087
+DO  - 10.1287/mnsc.2019.03087
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6302
+EP  - 6314
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We study optimal accounting rules that alleviate inefficiencies caused by managerial private benefits. Accounting signals generated by the accounting rules guide the continuation decision at an interim project stage. The entrepreneur enjoys private benefits from continuation, which may induce inefficient decisions. The optimal accounting rule is characterized by a threshold, with a higher threshold representing more conservative accounting. The first-best is achieved under small private benefits. As private benefits increase, the first-best eventually is not achievable and more informative bad news is required for the manager to terminate, resulting in less conservative accounting rules. Therefore, more conservative accounting rules are associated with more efficient investment decisions.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2019.03087.
+AB  - We study optimal accounting rules that alleviate inefficiencies caused by managerial private benefits. Accounting signals generated by the accounting rules guide the continuation decision at an interim project stage. The entrepreneur enjoys private benefits from continuation, which may induce inefficient decisions. The optimal accounting rule is characterized by a threshold, with a higher threshold representing more conservative accounting. The first-best is achieved under small private benefits. As private benefits increase, the first-best eventually is not achievable and more informative bad news is required for the manager to terminate, resulting in less conservative accounting rules. Therefore, more conservative accounting rules are associated with more efficient investment decisions.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2019.03087.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2019.03087
+UR  - https://doi.org/10.1287/mnsc.2019.03087
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Stickiness of Category Labels: Audience Perception and Evaluation of Producer Repositioning in Creative Markets
+AU  - Kovács, Balázs
+AU  - Hsu, Greta
+AU  - Sharkey, Amanda
+Y1  - 2023/11/06
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2021.02070
+DO  - 10.1287/mnsc.2021.02070
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6315
+EP  - 6335
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Market producers often seek to position themselves in different categories over time. Successful repositioning is difficult, however, as audiences often devalue offerings that depart from a producer?s past creations. Prior research suggests that this penalty arises as evaluators withhold opportunities for producers to reposition because of presumptions of a lack of competence in different categories. In this paper, we develop understanding of a novel evaluator-driven challenge to producers? repositioning efforts: evaluators are prone to ?categorical stickiness,? by which the categories they have come to associate with a producer through its prior offerings shape their perceptions of the producer?s subsequent offerings. The result is a systematic mismatch between what producers claim and what evaluators perceive when a producer repositions. We further propose that audience members who have the greatest prior experience with a producer are the least likely to recognize its repositioning efforts. We examine evidence for our theory using data from Goodreads.com on authors within the book publishing industry, 2007?2017. We first build a novel deep-learning framework to predict categorization of a given book based solely on an author?s description of its content. We then use data on how Goodreads users categorize and evaluate books as well as their past reading behavior to test for evidence of our proposed mechanism. Overall, our results extend understanding of the evaluative processes that generate categorical constraints and how these may differ among various types of audience members.This paper was accepted by Isabel Fernandez-Mateo, organizations.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.02070.
+AB  - Market producers often seek to position themselves in different categories over time. Successful repositioning is difficult, however, as audiences often devalue offerings that depart from a producer?s past creations. Prior research suggests that this penalty arises as evaluators withhold opportunities for producers to reposition because of presumptions of a lack of competence in different categories. In this paper, we develop understanding of a novel evaluator-driven challenge to producers? repositioning efforts: evaluators are prone to ?categorical stickiness,? by which the categories they have come to associate with a producer through its prior offerings shape their perceptions of the producer?s subsequent offerings. The result is a systematic mismatch between what producers claim and what evaluators perceive when a producer repositions. We further propose that audience members who have the greatest prior experience with a producer are the least likely to recognize its repositioning efforts. We examine evidence for our theory using data from Goodreads.com on authors within the book publishing industry, 2007?2017. We first build a novel deep-learning framework to predict categorization of a given book based solely on an author?s description of its content. We then use data on how Goodreads users categorize and evaluate books as well as their past reading behavior to test for evidence of our proposed mechanism. Overall, our results extend understanding of the evaluative processes that generate categorical constraints and how these may differ among various types of audience members.This paper was accepted by Isabel Fernandez-Mateo, organizations.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2021.02070.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2021.02070
+UR  - https://doi.org/10.1287/mnsc.2021.02070
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Challenge of Understanding What Users Want: Inconsistent Preferences and Engagement Optimization
+AU  - Kleinberg, Jon
+AU  - Mullainathan, Sendhil
+AU  - Raghavan, Manish
+Y1  - 2023/11/07
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2022.03683
+DO  - 10.1287/mnsc.2022.03683
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6336
+EP  - 6355
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Online platforms have a wealth of data, run countless experiments, and use industrial-scale algorithms to optimize user experience. Despite this, many users seem to regret the time they spend on these platforms. One possible explanation is that incentives are misaligned: platforms are not optimizing for user happiness. We suggest the problem runs deeper, transcending the specific incentives of any particular platform, and instead stems from a mistaken foundational assumption. To understand what users want, platforms look at what users do. This is a kind of revealed-preference assumption that is ubiquitous in the way user models are built. Yet research has demonstrated, and personal experience affirms, that we often make choices in the moment that are inconsistent with what we actually want. The behavioral economics and psychology literatures suggest, for example, that we can choose mindlessly or that we can be too myopic in our choices, behaviors that feel entirely familiar on online platforms. In this work, we develop a model of media consumption where users have inconsistent preferences. We consider a platform which wants to maximize user utility, but only observes behavioral data in the form of the user?s engagement. We show how our model of users? preference inconsistencies produces phenomena that are familiar from everyday experience but difficult to capture in traditional user interaction models. These phenomena include users who have long sessions on a platform but derive very little utility from it, and platform changes that steadily raise user engagement before abruptly causing users to go ?cold turkey? and quit. A key ingredient in our model is a formulation for how platforms determine what to show users: they optimize over a large set of potential content (the content manifold) parametrized by underlying features of the content. Whether improving engagement improves user welfare depends on the direction of movement in the content manifold: For certain directions of change, increasing engagement makes users less happy, whereas in other directions on the same manifold, increasing engagement makes users happier. We provide a characterization of the structure of content manifolds for which increasing engagement fails to increase user utility. By linking these effects to abstractions of platform design choices, our model thus creates a theoretical framework and vocabulary in which to explore interactions between design, behavioral science, and social media.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the Vannevar Bush Faculty Fellowship and Multidisciplinary University Research Initiative [Grant W911NF-19-0217].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.03683.
+AB  - Online platforms have a wealth of data, run countless experiments, and use industrial-scale algorithms to optimize user experience. Despite this, many users seem to regret the time they spend on these platforms. One possible explanation is that incentives are misaligned: platforms are not optimizing for user happiness. We suggest the problem runs deeper, transcending the specific incentives of any particular platform, and instead stems from a mistaken foundational assumption. To understand what users want, platforms look at what users do. This is a kind of revealed-preference assumption that is ubiquitous in the way user models are built. Yet research has demonstrated, and personal experience affirms, that we often make choices in the moment that are inconsistent with what we actually want. The behavioral economics and psychology literatures suggest, for example, that we can choose mindlessly or that we can be too myopic in our choices, behaviors that feel entirely familiar on online platforms. In this work, we develop a model of media consumption where users have inconsistent preferences. We consider a platform which wants to maximize user utility, but only observes behavioral data in the form of the user?s engagement. We show how our model of users? preference inconsistencies produces phenomena that are familiar from everyday experience but difficult to capture in traditional user interaction models. These phenomena include users who have long sessions on a platform but derive very little utility from it, and platform changes that steadily raise user engagement before abruptly causing users to go ?cold turkey? and quit. A key ingredient in our model is a formulation for how platforms determine what to show users: they optimize over a large set of potential content (the content manifold) parametrized by underlying features of the content. Whether improving engagement improves user welfare depends on the direction of movement in the content manifold: For certain directions of change, increasing engagement makes users less happy, whereas in other directions on the same manifold, increasing engagement makes users happier. We provide a characterization of the structure of content manifolds for which increasing engagement fails to increase user utility. By linking these effects to abstractions of platform design choices, our model thus creates a theoretical framework and vocabulary in which to explore interactions between design, behavioral science, and social media.This paper was accepted by Yan Chen, behavioral economics and decision analysis.Funding: This work was supported by the Vannevar Bush Faculty Fellowship and Multidisciplinary University Research Initiative [Grant W911NF-19-0217].Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.03683.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.03683
+UR  - https://doi.org/10.1287/mnsc.2022.03683
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Are Third-Party Fundamental Valuations Relevant in Public Company Takeovers?
+AU  - Shaffer, Matthew
+Y1  - 2023/11/07
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4959
+DO  - 10.1287/mnsc.2023.4959
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6356
+EP  - 6373
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - In U.S. mergers and acquisitions, target directors are required to consider third-party financial valuations, summarized in a ?fairness opinion? before accepting a takeover offer. Critics argue (1) that these valuations are not relevant for public companies, which can assess the desirability of the deal based on the market premium, and (2) that the investment bank providers cater to management by ?rationalizing? the deal price rather than providing an independent valuation check. I find that fairness valuations can provide valid information about the target?s value, incremental to its predeal stock price. They can impound expected transaction synergies, unravel rumor-driven stock price runups, and may signal ex ante fundamental mispricing. I also find evidence of the alleged catering, which I distinguish from ?legitimate? valuation disagreements. This suggests that third-party fundamental valuation could play a useful role in the governance of public company takeovers, but there are flaws in its current implementation.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4959.
+AB  - In U.S. mergers and acquisitions, target directors are required to consider third-party financial valuations, summarized in a ?fairness opinion? before accepting a takeover offer. Critics argue (1) that these valuations are not relevant for public companies, which can assess the desirability of the deal based on the market premium, and (2) that the investment bank providers cater to management by ?rationalizing? the deal price rather than providing an independent valuation check. I find that fairness valuations can provide valid information about the target?s value, incremental to its predeal stock price. They can impound expected transaction synergies, unravel rumor-driven stock price runups, and may signal ex ante fundamental mispricing. I also find evidence of the alleged catering, which I distinguish from ?legitimate? valuation disagreements. This suggests that third-party fundamental valuation could play a useful role in the governance of public company takeovers, but there are flaws in its current implementation.This paper was accepted by Brian Bushee, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4959.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4959
+UR  - https://doi.org/10.1287/mnsc.2023.4959
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - The Global Determinants of International Equity Risk Premiums
+AU  - Londono, Juan M.
+AU  - Xu, Nancy R.
+Y1  - 2023/11/07
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.4958
+DO  - 10.1287/mnsc.2023.4958
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6374
+EP  - 6394
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We examine the commonalities in international equity risk premiums by linking empirical evidence for the ability of U.S. downside and upside variance risk premiums (DVP and UVP, respectively) to predict international stock returns with implications from an empirical model featuring asymmetric economic uncertainty and risk aversion. We find that DVP and UVP predict international stock returns through U.S. bad and good macroeconomic uncertainties, respectively. Sixty percent to 80% of the dynamics of the global equity risk premium for horizons under seven months are driven by economic uncertainty, whereas risk aversion appears more relevant for longer horizons. The predictability patterns of DVP and UVP vary across countries depending on those countries? financial and economic exposure to global shocks. In those with higher economic exposure, investors demand higher compensation for bad macroeconomic uncertainty but lower compensation for good macroeconomic uncertainty, whereas the compensation for bad macroeconomic uncertainty is lower for countries with high financial exposure.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The data and online appendices are available at https://doi.org/10.1287/mnsc.2023.4958.
+AB  - We examine the commonalities in international equity risk premiums by linking empirical evidence for the ability of U.S. downside and upside variance risk premiums (DVP and UVP, respectively) to predict international stock returns with implications from an empirical model featuring asymmetric economic uncertainty and risk aversion. We find that DVP and UVP predict international stock returns through U.S. bad and good macroeconomic uncertainties, respectively. Sixty percent to 80% of the dynamics of the global equity risk premium for horizons under seven months are driven by economic uncertainty, whereas risk aversion appears more relevant for longer horizons. The predictability patterns of DVP and UVP vary across countries depending on those countries? financial and economic exposure to global shocks. In those with higher economic exposure, investors demand higher compensation for bad macroeconomic uncertainty but lower compensation for good macroeconomic uncertainty, whereas the compensation for bad macroeconomic uncertainty is lower for countries with high financial exposure.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The data and online appendices are available at https://doi.org/10.1287/mnsc.2023.4958.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.4958
+UR  - https://doi.org/10.1287/mnsc.2023.4958
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - When Bonuses Backfire: Evidence from the Workplace
+AU  - Alfitian, Jakob
+AU  - Sliwka, Dirk
+AU  - Vogelsang, Timo
+Y1  - 2023/11/07
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2022.00484
+DO  - 10.1287/mnsc.2022.00484
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6395
+EP  - 6414
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Monetary incentives are widely used to align employee actions with employer objectives. We conducted a field experiment in a retail chain to evaluate whether an attendance bonus could reduce employee absenteeism. Apprentices in 232 stores were randomly assigned to a control group or one of two treatment groups in which a monetary or time-off attendance bonus was introduced for one year. We find that neither variant of the attendance bonus led to a systematic reduction in absenteeism. On the contrary, the monetary attendance bonus increased absenteeism substantially by around 50% on average, which corresponds to more than five additional days absent per employee and year. This effect was driven by the most recently hired apprentices. Survey results reveal that the monetary attendance bonus shifted the perception of absenteeism as acceptable behavior. The backfiring effect persisted beyond the end of the experiment, indicating a lasting erosion of social norms.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: Funding by the Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) [Grant EXC 2126/1?390838866] is gratefully acknowledged.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.00484.
+AB  - Monetary incentives are widely used to align employee actions with employer objectives. We conducted a field experiment in a retail chain to evaluate whether an attendance bonus could reduce employee absenteeism. Apprentices in 232 stores were randomly assigned to a control group or one of two treatment groups in which a monetary or time-off attendance bonus was introduced for one year. We find that neither variant of the attendance bonus led to a systematic reduction in absenteeism. On the contrary, the monetary attendance bonus increased absenteeism substantially by around 50% on average, which corresponds to more than five additional days absent per employee and year. This effect was driven by the most recently hired apprentices. Survey results reveal that the monetary attendance bonus shifted the perception of absenteeism as acceptable behavior. The backfiring effect persisted beyond the end of the experiment, indicating a lasting erosion of social norms.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: Funding by the Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) [Grant EXC 2126/1?390838866] is gratefully acknowledged.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.00484.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00484
+UR  - https://doi.org/10.1287/mnsc.2022.00484
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Nonregular Employment and Payout Policy: Evidence from the Massachusetts Independent Contractor Law
+AU  - Hwang, JiHoon
+AU  - Kahle, Kathleen M.
+Y1  - 2023/11/08
+PY  - 2023
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2022.00103
+DO  - 10.1287/mnsc.2022.00103
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6415
+EP  - 6437
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - Compared with regular employees, independent contractors (ICs) offer labor flexibility and cost savings to their employers. Using a difference-in-differences design around the 2004 Massachusetts law that discourages IC usage, we find that this exogenous decrease in IC usage makes treated firms? earnings more sensitive to changes in sales, increases labor-related expenses, and reduces profitability. Firms subsequently reduce share repurchases. The decrease is more pronounced for firms with high operating leverage and financial constraints. Our results are robust to entropy balancing. We conclude that IC usage affects firms? operating leverage and profitability, which in turn, influence payout policy.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.00103.
+AB  - Compared with regular employees, independent contractors (ICs) offer labor flexibility and cost savings to their employers. Using a difference-in-differences design around the 2004 Massachusetts law that discourages IC usage, we find that this exogenous decrease in IC usage makes treated firms? earnings more sensitive to changes in sales, increases labor-related expenses, and reduces profitability. Firms subsequently reduce share repurchases. The decrease is more pronounced for firms with high operating leverage and financial constraints. Our results are robust to entropy balancing. We conclude that IC usage affects firms? operating leverage and profitability, which in turn, influence payout policy.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.00103.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2022.00103
+UR  - https://doi.org/10.1287/mnsc.2022.00103
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Inflation, Monetary Policy, and Portfolio Decisions of U.S. Households
+AU  - Bonaparte, Yosef
+AU  - Korniotis, George M.
+AU  - Kumar, Alok
+AU  - Vosse, Melina
+Y1  - 2024/03/15
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.02197
+DO  - 10.1287/mnsc.2023.02197
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6438
+EP  - 6460
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We study the impact of monetary policy changes on portfolio decisions of U.S. households. Contrary to the predictions of canonical portfolio choice models, interest rate increases are related to increased equity ownership and larger wealth allocations to risky assets. Inflation hedging is a likely explanation for these findings. Interest rates have a stronger impact on the equity exposure of households that experience higher inflation, especially those with greater inflation awareness and potentially stronger hedging motives. Using household portfolios at a large discount brokerage house, we provide direct evidence that investors with greater inflation sensitivity overweight stocks with high hedging potential.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.02197.
+AB  - We study the impact of monetary policy changes on portfolio decisions of U.S. households. Contrary to the predictions of canonical portfolio choice models, interest rate increases are related to increased equity ownership and larger wealth allocations to risky assets. Inflation hedging is a likely explanation for these findings. Interest rates have a stronger impact on the equity exposure of households that experience higher inflation, especially those with greater inflation awareness and potentially stronger hedging motives. Using household portfolios at a large discount brokerage house, we provide direct evidence that investors with greater inflation sensitivity overweight stocks with high hedging potential.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.02197.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.02197
+UR  - https://doi.org/10.1287/mnsc.2023.02197
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - From Feeds to Inboxes: A Comparative Study of Polarization in Facebook and Email News Sharing
+AU  - Yoganarasimhan, Hema
+AU  - Iakovetskaia, Irina
+Y1  - 2024/07/09
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.04134
+DO  - 10.1287/mnsc.2023.04134
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6461
+EP  - 6472
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - This study explores the polarization of news content shared on Facebook compared with email using data from the New York Times? Most Emailed and Most Shared lists over 2.5?years. Employing latent Dirichlet allocation and large language models (LLMs), we find that highly polarized articles are more likely to be shared on Facebook (versus email), even after accounting for factors like topics, emotion, and article age. Additionally, distinct topic preferences emerge, with social issues dominating Facebook shares and lifestyle topics prevalent in emails. Contrary to expectations, political polarization of articles shared on Facebook did not escalate post-2020 election. We introduce a novel approach to measuring polarization of text content that leverages generative artificial intelligence models, like ChatGPT, and it is both scalable and cost effective. This research contributes to the evolving intersection of LLMs, social media, and polarization studies, shedding light on descriptive patterns of content dissemination across different digital channels.This paper was accepted by Duncan Simester, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04134.
+AB  - This study explores the polarization of news content shared on Facebook compared with email using data from the New York Times? Most Emailed and Most Shared lists over 2.5?years. Employing latent Dirichlet allocation and large language models (LLMs), we find that highly polarized articles are more likely to be shared on Facebook (versus email), even after accounting for factors like topics, emotion, and article age. Additionally, distinct topic preferences emerge, with social issues dominating Facebook shares and lifestyle topics prevalent in emails. Contrary to expectations, political polarization of articles shared on Facebook did not escalate post-2020 election. We introduce a novel approach to measuring polarization of text content that leverages generative artificial intelligence models, like ChatGPT, and it is both scalable and cost effective. This research contributes to the evolving intersection of LLMs, social media, and polarization studies, shedding light on descriptive patterns of content dissemination across different digital channels.This paper was accepted by Duncan Simester, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04134.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.04134
+UR  - https://doi.org/10.1287/mnsc.2023.04134
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Data-Driven Mergers
+AU  - de Cornière, Alexandre
+AU  - Taylor, Greg
+Y1  - 2024/04/09
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2023.04104
+DO  - 10.1287/mnsc.2023.04104
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - 6473
+EP  - 6482
+VL  - 70
+IS  - 9
+PB  - INFORMS
+N2  - We study mergers between firms operating in data-connected markets: the data generated as a byproduct of the activity in market A can be used by firms operating in market B. The effects of such a merger depend on whether data trade among independent firms is possible and whether data use benefits consumers or leads to more surplus extraction. When data increases product B?s quality, the merger benefits consumers in both markets if data cannot be traded absent the merger and harms them otherwise. When data are used to extract consumer surplus in market B, the merger increases consumer surplus in market A and reduces it in market B.This paper was accepted by Joshua Gans, business strategy.Funding: This work was supported by Agence Nationale de la Recherche [Grant ANR-17-EURE-0010] (Investissements d?Avenir program) to A. de Cornière; Oxford Internet Institute?s Research Programme on AI, Government, and Policy, funded by the Dieter Schwarz Stiftung gGmbH to G. Taylor; and TSE Digital Center.
+AB  - We study mergers between firms operating in data-connected markets: the data generated as a byproduct of the activity in market A can be used by firms operating in market B. The effects of such a merger depend on whether data trade among independent firms is possible and whether data use benefits consumers or leads to more surplus extraction. When data increases product B?s quality, the merger benefits consumers in both markets if data cannot be traded absent the merger and harms them otherwise. When data are used to extract consumer surplus in market B, the merger increases consumer surplus in market A and reduces it in market B.This paper was accepted by Joshua Gans, business strategy.Funding: This work was supported by Agence Nationale de la Recherche [Grant ANR-17-EURE-0010] (Investissements d?Avenir program) to A. de Cornière; Oxford Internet Institute?s Research Programme on AI, Government, and Policy, funded by the Dieter Schwarz Stiftung gGmbH to G. Taylor; and TSE Digital Center.
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2023.04104
+UR  - https://doi.org/10.1287/mnsc.2023.04104
+Y2  - 2024/10/27
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+Y1  - 2024/08/30
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1287/mnsc.2024.eb.v70n9
+DO  - 10.1287/mnsc.2024.eb.v70n9
+T2  - Management Science
+JF  - Management Science
+JO  - Management Science
+SP  - iii
+EP  - v
+VL  - 70
+IS  - 9
+PB  - INFORMS
+SN  - 0025-1909
+M3  - doi: 10.1287/mnsc.2024.eb.v70n9
+UR  - https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.eb.v70n9
+Y2  - 2024/10/27
+ER  - 

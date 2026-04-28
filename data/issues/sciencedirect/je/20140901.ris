@@ -1,0 +1,416 @@
+TY  - JOUR
+T1  - Testing conditional independence via empirical likelihood
+AU  - Su, Liangjun
+AU  - White, Halbert
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 27
+EP  - 44
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000657
+KW  - Conditional independence
+KW  - Empirical likelihood
+KW  - Granger causality
+KW  - Local smoothed bootstrap
+KW  - Nonlinear dependence
+KW  - Nonparametric regression
+KW  - U-statistics
+AB  - We construct two classes of smoothed empirical likelihood ratio tests for the conditional independence hypothesis by writing the null hypothesis as an infinite collection of conditional moment restrictions indexed by a nuisance parameter. One class is based on the CDF; another is based on smoother functions. We show that the test statistics are asymptotically normal under the null hypothesis and a sequence of Pitman local alternatives. We also show that the tests possess an asymptotic optimality property in terms of average power. Simulations suggest that the tests are well behaved in finite samples. Applications to some economic and financial time series indicate that our tests reveal some interesting nonlinear causal relations which the traditional linear Granger causality test fails to detect.
+ER  - 
+
+TY  - JOUR
+T1  - On the network topology of variance decompositions: Measuring the connectedness of financial firms
+AU  - Diebold, Francis X.
+AU  - Yılmaz, Kamil
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 119
+EP  - 134
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000712
+KW  - Risk measurement
+KW  - Risk management
+KW  - Portfolio allocation
+KW  - Market risk
+KW  - Credit risk
+KW  - Systemic risk
+KW  - Asset markets
+KW  - Degree distribution
+AB  - We propose several connectedness measures built from pieces of variance decompositions, and we argue that they provide natural and insightful measures of connectedness. We also show that variance decompositions define weighted, directed networks, so that our connectedness measures are intimately related to key measures of connectedness used in the network literature. Building on these insights, we track daily time-varying connectedness of major US financial institutions’ stock return volatilities in recent years, with emphasis on the financial crisis of 2007–2008.
+ER  - 
+
+TY  - JOUR
+T1  - Causal discourse in a game of incomplete information
+AU  - White, Halbert
+AU  - Xu, Haiqing
+AU  - Chalak, Karim
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 45
+EP  - 58
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000669
+KW  - Auction
+KW  - Causality
+KW  - Game of incomplete information
+KW  - Simultaneous equations
+KW  - Structural equations
+AB  - Notions of cause and effect are fundamental to economic explanation. Although concepts such as price effects are intuitive, rigorous foundations justifying causal discourse in the wide range of economic settings remain lacking. We illustrate this deficiency using an N-bidder private-value auction, posing causal questions that cannot be addressed within existing frameworks. We extend the frameworks of Pearl (2000) and White and Chalak (2009) to introduce topological settable systems (TSS), a causal framework capable of delivering the missing answers. Particularly, TSS accommodate choices belonging to general function spaces. Our analysis suggests how TSS enable causal discourse in various areas of economics.
+ER  - 
+
+TY  - JOUR
+T1  - Priced risk and asymmetric volatility in the cross section of skewness
+AU  - Engle, Robert
+AU  - Mistry, Abhishek
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 135
+EP  - 144
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000724
+AB  - We investigate the sources of skewness in aggregate risk factors and the cross section of stock returns. In an ICAPM setting with conditional volatility, we find theoretical time series predictions on the relationships among volatility, returns, and skewness for priced risk factors. Market returns resemble these predictions; however, size, book-to-market, and momentum factor returns are not always consistent with our predictions. We find evidence that size and book-to-market may be priced post-crisis but not in the decade before. Momentum does not appear priced by our test. We link aggregate risk and skewness to individual stocks and find empirically that the risk aversion effect manifests in individual stock skewness. Additionally, we find several firm characteristics that explain stock skewness. Smaller firms, value firms, highly levered firms, and firms with poor credit ratings have more positive skewness.
+ER  - 
+
+TY  - JOUR
+T1  - Theory-coherent forecasting
+AU  - Giacomini, Raffaella
+AU  - Ragusa, Giuseppe
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 145
+EP  - 155
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000736
+KW  - Density forecast
+KW  - Forecast evaluation
+KW  - Semiparametric projections
+KW  - Exponential titling
+AB  - We consider a method for producing multivariate density forecasts that satisfy moment restrictions implied by economic theory, such as Euler conditions. The method starts from a base forecast that might not satisfy the theoretical restrictions and forces it to satisfy the moment conditions using exponential tilting. Although exponential tilting has been considered before in a Bayesian context (Robertson et al. 2005), our main contributions are: (1) to adapt the method to a classical inferential context with out-of-sample evaluation objectives and parameter estimation uncertainty; and (2) to formally discuss the conditions under which the method delivers improvements in forecast accuracy. An empirical illustration which incorporates Euler conditions into forecasts produced by Bayesian vector autoregressions shows that the improvements in accuracy can be sizable and significant.
+ER  - 
+
+TY  - JOUR
+T1  - A predictability test for a small number of nested models
+AU  - Granziera, Eleonora
+AU  - Hubrich, Kirstin
+AU  - Moon, Hyungsik Roger
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 174
+EP  - 185
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.016
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761400075X
+KW  - Point-forecast evaluation
+KW  - Multi-model comparison
+KW  - Fixed regressors bootstrap
+AB  - We introduce quasi-likelihood ratio tests for one sided multivariate hypotheses to evaluate the null that a parsimonious model performs equally well as a small number of models which nest the benchmark. The limiting distributions of the test statistics are non-standard. For critical values we consider: (i) bootstrapping and (ii) simulations assuming normality of the mean square prediction error difference. The proposed tests have good size and power properties compared with existing equal and superior predictive ability tests for multiple model comparison. We apply our tests to study the predictive ability of a Phillips curve type for the US core inflation.
+ER  - 
+
+TY  - JOUR
+T1  - Bootstrapping factor-augmented regression models
+AU  - Gonçalves, Sílvia
+AU  - Perron, Benoit
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 156
+EP  - 173
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000748
+KW  - Factor model
+KW  - Bootstrap
+KW  - Asymptotic bias
+AB  - This paper proposes and theoretically justifies bootstrap methods for regressions where some of the regressors are factors estimated from a large panel of data. We derive our results under the assumption that T/N→c, where 0≤c<∞ (N  and T  are the cross-sectional and the time series dimensions, respectively), thus allowing for the possibility that the factor estimation error enters the limiting distribution of the OLS estimator as an asymptotic bias term (as was recently discussed by Ludvigson and Ng (2011)). We consider general residual-based bootstrap methods and provide a set of high-level conditions on the bootstrap residuals and on the idiosyncratic errors such that the bootstrap distribution of a rotated OLS estimator is consistent. We subsequently verify these conditions for a simple wild bootstrap residual-based procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Conditional moment models under semi-strong identification
+AU  - Antoine, Bertille
+AU  - Lavergne, Pascal
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 59
+EP  - 69
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000670
+KW  - Identification
+KW  - Conditional moments
+KW  - Minimum distance estimation
+AB  - We consider conditional moment models under semi-strong identification. Identification strength is directly defined through the conditional moments that flatten as the sample size increases. Our new minimum distance estimator is consistent, asymptotically normal, robust to semi-strong identification, and does not rely on the choice of a user-chosen parameter, such as the number of instruments or some smoothing parameter. Heteroskedasticity-robust inference is possible through Wald testing without prior knowledge of the identification pattern. Simulations show that our estimator is competitive with alternative estimators based on many instruments, being well-centered with better coverage rates for confidence intervals.
+ER  - 
+
+TY  - JOUR
+T1  - Spectral density and spectral distribution inference for long memory time series via fixed-b asymptotics
+AU  - McElroy, Tucker S.
+AU  - Politis, Dimitris N.
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 211
+EP  - 225
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000785
+KW  - Cyclical long memory
+KW  - Kernel spectral estimator
+KW  - Long range dependence
+KW  - Spectral confidence bands
+AB  - This paper studies taper-based estimates of the spectral density utilizing a fixed bandwidth ratio asymptotic framework, and makes several theoretical contributions: (i) we treat multiple frequencies jointly, (ii) we allow for long-range dependence or anti-persistence at differing frequencies, (iii) we allow for tapers that are only piecewise smooth or discontinuous, including flat-top and truncation tapers, (iv) we study higher-order accuracy through the limit distribution’s Laplace Transform, (v) we develop a taper-based estimation theory for the spectral distribution, and show how confidence bands can be constructed. Simulation results produce quantiles and document the finite-sample size properties of the estimators, and a few empirical applications demonstrate the utility of the new methods.
+ER  - 
+
+TY  - JOUR
+T1  - Causality, prediction, and specification analysis: Recent advances and future directions
+AU  - Chen, Xiaohong
+AU  - Swanson, Norman R.
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 1
+EP  - 4
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000621
+ER  - 
+
+TY  - JOUR
+T1  - Quasi-maximum likelihood estimation and testing for nonlinear models with endogenous explanatory variables
+AU  - Wooldridge, Jeffrey M.
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 226
+EP  - 234
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000797
+KW  - Quasi-maximum likelihood
+KW  - Control function
+KW  - Linear exponential family
+KW  - Average structural function
+KW  - Variable addition test
+AB  - I propose a quasi-maximum likelihood framework for estimating nonlinear models with continuous or discrete endogenous explanatory variables. Joint and two-step estimation procedures are considered. The joint procedure is a quasi-limited information maximum likelihood procedure, as one or both of the log likelihoods may be misspecified. The two-step control function approach is computationally simple and leads to straightforward tests of endogeneity. In the case of discrete endogenous explanatory variables, I argue that the control function approach can be applied with generalized residuals to obtain average partial effects. I show how the results apply to nonlinear models for fractional and nonnegative responses.
+ER  - 
+
+TY  - JOUR
+T1  - A two-stage procedure for partially identified models
+AU  - Kaido, Hiroaki
+AU  - White, Halbert
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 5
+EP  - 13
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000633
+KW  - Partial identification
+KW  - Set estimation
+KW  - Two-stage estimation
+KW  - Effros-measurability
+AB  - This paper studies a two-stage procedure for estimating partially identified models, based on Chernozhukov, Hong, and Tamer’s (2007) theory of set estimation and inference. We consider the case where a sub-vector of parameters or their identified set can be estimated separately from the rest, possibly subject to a priori restrictions. Our procedure constructs the second-stage set estimator and confidence set by taking appropriate level sets of a criterion function, using a first-stage estimator to impose restrictions on the parameter of interest. We give conditions under which the two-stage set estimator is a set-valued random element that is measurable in an appropriate sense. We also establish the consistency of the two-stage set estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for separability in structural equations
+AU  - Lu, Xun
+AU  - White, Halbert
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 14
+EP  - 26
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000645
+KW  - Nonparametric test
+KW  - Specification test
+KW  - Separability
+KW  - Heterogeneity
+KW  - Conditional exogeneity
+KW  - Treatment effects
+AB  - Separability is an important feature of structural equations, as it implies the absence of unobservable heterogeneity of effects and has significant implications for identification and efficiency of estimation. This paper provides a nonparametric test for separability in structural equations. The test is based on a conditional independence test recently developed by Huang et al. (2013), building on consistent procedures of Bierens (1982, 1990) and Stinchcombe and White (1998). The test is easy to implement and achieves n local power. We apply our test to study interest rate elasticities of loan demand in microfinance and the impact of education on wages.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for structural stability of factor augmented forecasting models
+AU  - Corradi, Valentina
+AU  - Swanson, Norman R.
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 100
+EP  - 118
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000700
+KW  - Diffusion index
+KW  - Factor loading stability
+KW  - Forecast failure
+KW  - Forecast stability
+KW  - Regression coefficients stability
+AB  - Mild factor loading instability, particularly if sufficiently independent across the different constituent variables, does not affect the estimation of the number of factors, nor subsequent estimation of the factors themselves (see e.g.  Stock and Watson (2009)). This result does not hold in the presence of large common breaks in the factor loadings, however. In this case, information criteria overestimate the number of breaks. Additionally, estimated factors are no longer consistent estimators of “true” factors. Hence, various recent research papers in the diffusion index literature focus on testing the constancy of factor loadings. However, forecast failure of factor augmented models can be due to either factor loading instability, regression coefficient instability, or both. To address this issue, we develop a test for the joint hypothesis of structural stability of both factor loadings and factor augmented forecasting model regression coefficients. Our proposed test statistic has a chi-squared limiting distribution, and we are able to establish the first order validity of (block) bootstrap critical values. Empirical evidence is also presented for 11 US macroeconomic indicators.
+ER  - 
+
+TY  - JOUR
+T1  - Sieve M inference on irregular parameters
+AU  - Chen, Xiaohong
+AU  - Liao, Zhipeng
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 70
+EP  - 86
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000682
+KW  - Irregular functional
+KW  - Sieve  estimation
+KW  - Sieve  statistic
+KW  - Sieve likelihood ratio
+KW  - Zero information
+KW  - Semiparametric duration model
+AB  - This paper presents sieve inferences on possibly irregular (i.e., slower than root-n estimable) functionals of semi-nonparametric models with i.i.d. data. We provide a simple consistent variance estimator of the plug-in sieve M estimator of a possibly irregular functional, and the asymptotic standard normality of the sieve t  statistic. We show that, for hypothesis testing of irregular functionals, the sieve likelihood ratio statistic is asymptotically Chi-square distributed. These results are useful in inference on structural parameters that may have singular semiparametric efficiency bounds. A simulation study and an empirical application of Heckman and Singer (1984) duration model are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Likelihood inference in some finite mixture models
+AU  - Chen, Xiaohong
+AU  - Ponomareva, Maria
+AU  - Tamer, Elie
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 87
+EP  - 99
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000694
+KW  - Finite mixtures
+KW  - Parametric bootstrap
+KW  - Profiled likelihood ratio statistic
+AB  - Parametric mixture models are commonly used in applied work, especially empirical economics, where these models are often employed to learn for example about the proportions of various types in a given population. This paper examines the inference question on the proportions (mixing probability) in a simple mixture model in the presence of nuisance parameters when sample size is large. It is well known that likelihood inference in mixture models is complicated due to (1) lack of point identification, and (2) parameters (for example, mixing probabilities) whose true value may lie on the boundary of the parameter space. These issues cause the profiled likelihood ratio (PLR) statistic to admit asymptotic limits that differ discontinuously depending on how the true density of the data approaches the regions of singularities where there is lack of point identification. This lack of uniformity in the asymptotic distribution suggests that confidence intervals based on pointwise asymptotic approximations might lead to faulty inferences. This paper examines this problem in details in a finite mixture model and provides possible fixes based on the parametric bootstrap. We examine the performance of this parametric bootstrap in Monte Carlo experiments and apply it to data from Beauty Contest experiments. We also examine small sample inferences and projection methods.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - IFC
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(14)00129-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614001298
+ER  - 
+
+TY  - JOUR
+T1  - Unpredictability in economic analysis, econometric modeling and forecasting
+AU  - Hendry, David F.
+AU  - Mizon, Grayham E.
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 186
+EP  - 195
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000761
+KW  - Unpredictability
+KW  - ‘Black Swans’
+KW  - Distributional shifts
+KW  - Forecast failure
+KW  - Model selection
+KW  - Conditional expectations
+AB  - Unpredictability arises from intrinsic stochastic variation, unexpected instances of outliers, and unanticipated extrinsic shifts of distributions. We analyze their properties, relationships, and different effects on the three arenas in the title, which suggests considering three associated information sets. The implications of unanticipated shifts for forecasting, economic analyses of efficient markets, conditional expectations, and inter-temporal derivations are described. The potential success of general-to-specific model selection in tackling location shifts by impulse-indicator saturation is contrasted with the major difficulties confronting forecasting.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric and semiparametric regressions subject to monotonicity constraints: Estimation and forecasting
+AU  - Lee, Tae-Hwy
+AU  - Tu, Yundong
+AU  - Ullah, Aman
+JO  - Journal of Econometrics
+VL  - 182
+IS  - 1
+SP  - 196
+EP  - 210
+PY  - 2014
+DA  - 2014/09/01/
+T2  - Causality, Prediction, and Specification Analysis: Recent Advances and Future Directions
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2014.04.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407614000773
+KW  - Local monotonicity
+KW  - Bagging
+KW  - Asymptotic mean squared errors
+KW  - Second order stochastic dominance
+KW  - Equity premium prediction
+AB  - This paper considers nonparametric and semiparametric regression models subject to monotonicity constraint. We use bagging as an alternative approach to Hall and Huang (2001). Asymptotic properties of our proposed estimators and forecasts are established. Monte Carlo simulation is conducted to show their finite sample performance. An application to predicting equity premium is taken for illustration. We introduce a new forecasting evaluation criterion based on the second order stochastic dominance in the size of forecast errors and compare models over different sizes of forecast errors. Imposing monotonicity constraint can mitigate the chance of making large size forecast errors.
+ER  - 

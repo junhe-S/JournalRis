@@ -1,0 +1,265 @@
+TY  - JOUR
+T1  - Linear programming-based estimators in simple linear regression
+AU  - Preve, Daniel
+AU  - Medeiros, Marcelo C.
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 128
+EP  - 136
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001035
+KW  - Linear regression
+KW  - Endogeneity
+KW  - Linear programming estimator
+KW  - Quasi-maximum likelihood estimator
+KW  - Exact distribution
+AB  - In this paper we introduce a linear programming estimator (LPE) for the slope parameter in a constrained linear regression model with a single regressor. The LPE is interesting because it can be superconsistent in the presence of an endogenous regressor and, hence, preferable to the ordinary least squares estimator (LSE). Two different cases are considered as we investigate the statistical properties of the LPE. In the first case, the regressor is assumed to be fixed in repeated samples. In the second, the regressor is stochastic and potentially endogenous. For both cases the strong consistency and exact finite-sample distribution of the LPE is established. Conditions under which the LPE is consistent in the presence of serially correlated, heteroskedastic errors are also given. Finally, we describe how the LPE can be extended to the case with multiple regressors and conjecture that the extended estimator is consistent under conditions analogous to the ones given herein. Finite-sample properties of the LPE and extended LPE in comparison to the LSE and instrumental variable estimator (IVE) are investigated in a simulation study. One advantage of the LPE is that it does not require an instrument.
+ER  - 
+
+TY  - JOUR
+T1  - Moment-based estimation of smooth transition regression models with endogenous variables
+AU  - Areosa, Waldyr Dutra
+AU  - McAleer, Michael
+AU  - Medeiros, Marcelo C.
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 100
+EP  - 111
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001011
+KW  - Smooth transition
+KW  - Nonlinear models
+KW  - Nonlinear instrumental variables
+KW  - Generalized method of moments
+KW  - Endogeneity
+KW  - Inflation targeting
+AB  - Nonlinear regression models have been widely used in practice for a variety of time series and cross-section datasets. For purposes of analyzing univariate and multivariate time series data, in particular, smooth transition regression (STR) models have been shown to be very useful for representing and capturing asymmetric behavior. Most STR models have been applied to univariate processes, and have made a variety of assumptions, including stationary or cointegrated processes, uncorrelated, homoskedastic or conditionally heteroskedastic errors, and weakly exogenous regressors. Under the assumption of exogeneity, the standard method of estimation is nonlinear least squares. The primary purpose of this paper is to relax the assumption of weakly exogenous regressors and to discuss moment-based methods for estimating STR models. The paper analyzes the properties of the STR model with endogenous variables by providing a diagnostic test of linearity of the underlying process under endogeneity, developing an estimation procedure and a misspecification test for the STR model, presenting the results of Monte Carlo simulations to show the usefulness of the model and estimation method, and providing an empirical application for inflation rate targeting in Brazil. We show that STR models with endogenous variables can be specified and estimated by a straightforward application of existing results in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - A consistent nonparametric test for nonlinear causality—Specification in time series regression
+AU  - Nishiyama, Yoshihiko
+AU  - Hitomi, Kohtaro
+AU  - Kawasaki, Yoshinori
+AU  - Jeong, Kiho
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 112
+EP  - 127
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001023
+KW  - Nonlinear causality
+KW  - Causality up to th moment
+KW  - Nonparametric test
+KW  - Omitted variables test
+KW  - Local alternatives
+AB  - Since the pioneering work by Granger (1969), many authors have proposed tests of causality between economic time series. Most of them are concerned only with “linear causality in mean”, or if a series linearly affects the (conditional) mean of the other series. It is no doubt of primary interest, but dependence between series may be nonlinear, and/or not only through the conditional mean. Indeed conditional heteroskedastic models are widely studied recently. The purpose of this paper is to propose a nonparametric test for possibly nonlinear causality. Taking into account that dependence in higher order moments are becoming an important issue especially in financial time series, we also consider a test for causality up to the Kth conditional moment. Statistically, we can also view this test as a nonparametric omitted variable test in time series regression. A desirable property of the test is that it has nontrivial power against T1/2-local alternatives, where T is the sample size. Also, we can form a test statistic accordingly if we have some knowledge on the alternative hypothesis. Furthermore, we show that the test statistic includes most of the omitted variable test statistics as special cases asymptotically. The null asymptotic distribution is not normal, but we can easily calculate the critical regions by simulation. Monte Carlo experiments show that the proposed test has good size and power properties.
+ER  - 
+
+TY  - JOUR
+T1  - On finite sample properties of alternative estimators of coefficients in a structural equation with many instruments
+AU  - Anderson, T.W.
+AU  - Kunitomo, Naoto
+AU  - Matsushita, Yukitoshi
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 58
+EP  - 69
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000984
+KW  - Finite sample properties
+KW  - Empirical likelihood
+KW  - GMM
+KW  - Simultaneous equations with many instruments
+KW  - Limited information maximum likelihood
+KW  - Nonlinear LIML
+AB  - We compare four different estimation methods for the coefficients of a linear structural equation with instrumental variables. As the classical methods we consider the limited information maximum likelihood (LIML) estimator and the two-stage least squares (TSLS) estimator, and as the semi-parametric estimation methods we consider the maximum empirical likelihood (MEL) estimator and the generalized method of moments (GMM) (or the estimating equation) estimator. Tables and figures of the distribution functions of four estimators are given for enough values of the parameters to cover most linear models of interest and we include some heteroscedastic cases and nonlinear cases. We have found that the LIML estimator has good performance in terms of the bounded loss functions and probabilities when the number of instruments is large, that is, the micro-econometric models with “many instruments” in the terminology of recent econometric literature.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - IFC
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(11)00188-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611001886
+ER  - 
+
+TY  - JOUR
+T1  - Instrumental variable estimation in the presence of many moment conditions
+AU  - Okui, Ryo
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 70
+EP  - 86
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000996
+KW  - TSLS
+KW  - LIML
+KW  - Shrinkage estimator
+KW  - Instrumental variables
+AB  - This paper develops shrinkage methods for addressing the “many instruments” problem in the context of instrumental variable estimation. It has been observed that instrumental variable estimators may behave poorly if the number of instruments is large. This problem can be addressed by shrinking the influence of a subset of instrumental variables. The procedure can be understood as a two-step process of shrinking some of the OLS coefficient estimates from the regression of the endogenous variables on the instruments, then using the predicted values of the endogenous variables (based on the shrunk coefficient estimates) as the instruments. The shrinkage parameter is chosen to minimize the asymptotic mean square error. The optimal shrinkage parameter has a closed form, which makes it easy to implement. A Monte Carlo study shows that the shrinkage method works well and performs better in many situations than do existing instrument selection procedures.
+ER  - 
+
+TY  - JOUR
+T1  - Method of moments estimation and identifiability of semiparametric nonlinear errors-in-variables models
+AU  - Wang, Liqun
+AU  - Hsiao, Cheng
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 30
+EP  - 44
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000960
+KW  - Fourier deconvolution
+KW  - Identifiability
+KW  - Instrumental variables
+KW  - Measurement error
+KW  - Method of moments
+KW  - Root-n consistency
+KW  - Semiparametric estimator
+KW  - Simulation-based estimator
+AB  - This paper deals with a nonlinear errors-in-variables model where the distributions of the unobserved predictor variables and of the measurement errors are nonparametric. Using the instrumental variable approach, we propose method of moments estimators for the unknown parameters and simulation-based estimators to overcome the possible computational difficulty of minimizing an objective function which involves multiple integrals. Both estimators are consistent and asymptotically normally distributed under fairly general regularity conditions. Moreover, root-n consistent semiparametric estimators and a rank condition for model identifiability are derived using the combined methods of the nonparametric technique and Fourier deconvolution.
+ER  - 
+
+TY  - JOUR
+T1  - Properties of the CUE estimator and a modification with moments
+AU  - Hausman, Jerry
+AU  - Lewis, Randall
+AU  - Menzel, Konrad
+AU  - Newey, Whitney
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 45
+EP  - 57
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000972
+AB  - In this paper, we analyze properties of the Continuous Updating Estimator (CUE) proposed by Hansen et al. (1996), which has been suggested as a solution to the finite sample bias problems of the two-step GMM estimator. We show that the estimator should be expected to perform poorly in finite samples under weak identification, in particular, the estimator is not guaranteed to have finite moments of any order. We propose the Regularized CUE (RCUE) as a solution to this problem. The RCUE solves a modification of the first-order conditions for the CUE estimator and is shown to be asymptotically equivalent to CUE under many weak moment asymptotics. Our theoretical findings are confirmed by extensive Monte Carlo studies.
+ER  - 
+
+TY  - JOUR
+T1  - Estimation of conditional moment restrictions without assuming parameter identifiability in the implied unconditional moments
+AU  - Hsu, Shih-Hsun
+AU  - Kuan, Chung-Ming
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 87
+EP  - 99
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761100100X
+KW  - Conditional moment restrictions
+KW  - Fourier coefficients
+KW  - Generically comprehensive revealing function
+KW  - Global identifiability
+KW  - GMM
+AB  - A well-known difficulty in estimating conditional moment restrictions is that the parameters of interest need not be globally identified by the implied unconditional moments. In this paper, we propose an approach to constructing a continuum of unconditional moments that can ensure parameter identifiability. These unconditional moments depend on the “instruments” generated from a “generically comprehensively revealing” function, and they are further projected along the exponential Fourier series. The objective function is based on the resulting Fourier coefficients, from which an estimator can be easily computed. A novel feature of our method is that the full continuum of unconditional moments is incorporated into each Fourier coefficient. We show that, when the number of Fourier coefficients in the objective function grows at a proper rate, the proposed estimator is consistent and asymptotically normally distributed. An efficient estimator is also readily obtained via the conventional two-step GMM method. Our simulations confirm that the proposed estimator compares favorably with that of Domínguez and Lobato (2004, Econometrica) in terms of bias, standard error, and mean squared error.
+ER  - 
+
+TY  - JOUR
+T1  - Control variate method for stationary processes
+AU  - Amano, Tomoyuki
+AU  - Taniguchi, Masanobu
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 20
+EP  - 29
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000959
+KW  - Control variate method
+KW  - Stationary processes
+KW  - Spectral density matrix
+KW  - Nonparametric spectral estimator
+AB  - The sample mean is one of the most natural estimators of the population mean based on independent identically distributed sample. However, if some control variate is available, it is known that the control variate method reduces the variance of the sample mean. The control variate method often assumes that the variable of interest and the control variable are i.i.d. Here we assume that these variables are stationary processes with spectral density matrices, i.e. dependent. Then we propose an estimator of the mean of the stationary process of interest by using control variate method based on nonparametric spectral estimator. It is shown that this estimator improves the sample mean in the sense of mean square error. Also this analysis is extended to the case when the mean dynamics is of the form of regression. Then we propose a control variate estimator for the regression coefficients which improves the least squares estimator (LSE). Numerical studies will be given to see how our estimator improves the LSE.
+ER  - 
+
+TY  - JOUR
+T1  - Moment Restriction-Based Econometric Methods: An overview
+AU  - Kunitomo, Naoto
+AU  - McAleer, Michael
+AU  - Nishiyama, Yoshihiko
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 1
+EP  - 4
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000935
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotic theory for nonparametric regression with spatial data
+AU  - Robinson, P.M.
+JO  - Journal of Econometrics
+VL  - 165
+IS  - 1
+SP  - 5
+EP  - 19
+PY  - 2011
+DA  - 2011/11/03/
+T2  - Moment Restriction-Based Econometric Methods
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611000947
+KW  - Nonparametric regression
+KW  - Spatial data
+KW  - Weak dependence
+KW  - Long range dependence
+KW  - Heterogeneity
+KW  - Consistency
+KW  - Central limit theorem
+AB  - Nonparametric regression with spatial, or spatio-temporal, data is considered. The conditional mean of a dependent variable, given explanatory ones, is a nonparametric function, while the conditional covariance reflects spatial correlation. Conditional heteroscedasticity is also allowed, as well as non-identically distributed observations. Instead of mixing conditions, a (possibly non-stationary) linear process is assumed for disturbances, allowing for long range, as well as short-range, dependence, while decay in dependence in explanatory variables is described using a measure based on the departure of the joint density from the product of marginal densities. A basic triangular array setting is employed, with the aim of covering various patterns of spatial observation. Sufficient conditions are established for consistency and asymptotic normality of kernel regression estimates. When the cross-sectional dependence is sufficiently mild, the asymptotic variance in the central limit theorem is the same as when observations are independent; otherwise, the rate of convergence is slower. We discuss the application of our conditions to spatial autoregressive models, and models defined on a regular lattice.
+ER  - 

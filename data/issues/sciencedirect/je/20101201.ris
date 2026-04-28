@@ -1,0 +1,156 @@
+TY  - JOUR
+T1  - A primal Divisia technical change index based on the output distance function
+AU  - Feng, Guohua
+AU  - Serletis, Apostolos
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - 320
+EP  - 330
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.09.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001867
+KW  - Output distance function
+KW  - Divisia technical change index
+KW  - Imperfect competition
+KW  - Axiomatic properties
+KW  - Path independence
+AB  - We derive a primal Divisia technical change index based on the output distance function and further show the validity of this index from both economic and axiomatic points of view. In particular, we derive the primal Divisia technical change index by total differentiation of the output distance function with respect to a time trend. We then show that this index is dual to the Jorgenson and Griliches (1967) dual Divisia total factor productivity growth (TFPG) index when both the output and input markets are competitive; dual to the Diewert and Fox (2008) markup-adjusted revenue-share-based dual Divisia technical change index when market power is limited to output markets; dual to the Denny et al. (1981) and Fuss (1994) cost-elasticity-share-based dual Divisia TFPG index when market power is limited to output markets and constant returns to scale is present; and also dual to a markup-and-markdown-adjusted Divisia technical change index when market power is present in both output and input markets. Finally, we show that the primal Divisia technical change index satisfies the properties of identity, commensurability, monotonicity, and time reversal. It also satisfies the property of proportionality in the presence of path independence, which in turn requires separability between inputs and outputs and homogeneity of subaggregator functions.
+ER  - 
+
+TY  - JOUR
+T1  - An efficient GMM estimator of spatial autoregressive models
+AU  - Liu, Xiaodong
+AU  - Lee, Lung-fei
+AU  - Bollinger, Christopher R.
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - 303
+EP  - 319
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001715
+KW  - Spatial autoregressive models
+KW  - Spatial correlated disturbances
+KW  - GMM
+KW  - QMLE
+KW  - Efficiency
+AB  - In this paper, we consider GMM estimation of the regression and MRSAR models with SAR disturbances. We derive the best GMM estimator within the class of GMM estimators based on linear and quadratic moment conditions. The best GMM estimator has the merit of computational simplicity and asymptotic efficiency. It is asymptotically as efficient as the ML estimator under normality and asymptotically more efficient than the Gaussian QML estimator otherwise. Monte Carlo studies show that, with moderate-sized samples, the best GMM estimator has its biggest advantage when the disturbances are asymmetrically distributed. When the diagonal elements of the spatial weights matrix have enough variation, incorporating kurtosis of the disturbances in the moment functions will also be helpful.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - IFC
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(10)00195-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001958
+ER  - 
+
+TY  - JOUR
+T1  - Characterization of the asymptotic distribution of semiparametric M-estimators
+AU  - Ichimura, Hidehiko
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - 252
+EP  - 266
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001302
+KW  - Semiparametric estimation
+KW  - Two-step estimators
+AB  - This paper develops a concrete formula for the asymptotic distribution of two-step, possibly non-smooth semiparametric M-estimators under general misspecification. Our regularity conditions are relatively straightforward to verify and also weaker than those available in the literature. The first-stage nonparametric estimation may depend on finite dimensional parameters. We characterize: (1) conditions under which the first-stage estimation of nonparametric components do not affect the asymptotic distribution, (2) conditions under which the asymptotic distribution is affected by the derivatives of the first-stage nonparametric estimator with respect to the finite-dimensional parameters, and (3) conditions under which one can allow non-smooth objective functions. Our framework is illustrated by applying it to three examples: (1) profiled estimation of a single index quantile regression model, (2) semiparametric least squares estimation under model misspecification, and (3) a smoothed matching estimator.
+ER  - 
+
+TY  - JOUR
+T1  - Threshold bipower variation and the impact of jumps on volatility forecasting
+AU  - Corsi, Fulvio
+AU  - Pirino, Davide
+AU  - Renò, Roberto
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - 276
+EP  - 288
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.07.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001600
+KW  - Volatility estimation
+KW  - Jump detection
+KW  - Volatility forecasting
+KW  - Threshold estimation
+KW  - Financial markets
+AB  - This study reconsiders the role of jumps for volatility forecasting by showing that jumps have a positive and mostly significant impact on future volatility. This result becomes apparent once volatility is separated into its continuous and discontinuous components using estimators which are not only consistent, but also scarcely plagued by small sample bias. With the aim of achieving this, we introduce the concept of threshold bipower variation, which is based on the joint use of bipower variation and threshold estimation. We show that its generalization (threshold multipower variation) admits a feasible central limit theorem in the presence of jumps and provides less biased estimates, with respect to the standard multipower variation, of the continuous quadratic variation in finite samples. We further provide a new test for jump detection which has substantially more power than tests based on multipower variation. Empirical analysis (on the S&P500 index, individual stocks and US bond yields) shows that the proposed techniques improve significantly the accuracy of volatility forecasts especially in periods following the occurrence of a jump.
+ER  - 
+
+TY  - JOUR
+T1  - Publisher’s note
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - 251
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001442
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric bounds on treatment effects
+AU  - Chiburis, Richard C.
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - 267
+EP  - 275
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001582
+KW  - Program evaluation
+KW  - Selection bias
+KW  - Threshold-crossing model
+KW  - Linear index
+KW  - Binary response
+KW  - Discrete endogenous variable
+AB  - We present a variety of semiparametric models that produce bounds on the average causal effect of a binary treatment on a binary outcome. The semiparametric assumptions exploit variation in observable covariates to narrow the bounds. In our main model, the outcome is determined by a generalized linear model, but the treatment may be arbitrarily endogenous. Our bounding strategy does not require the existence of an instrument, but incorporating an instrument narrows the bounds. The bounds are further improved by combining the semiparametric model with the joint threshold-crossing assumption of Shaikh and Vytlacil (2005).
+ER  - 
+
+TY  - JOUR
+T1  - Dominating estimators for minimum-variance portfolios
+AU  - Frahm, Gabriel
+AU  - Memmel, Christoph
+JO  - Journal of Econometrics
+VL  - 159
+IS  - 2
+SP  - 289
+EP  - 302
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2010.07.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407610001594
+KW  - Covariance matrix estimation
+KW  - Minimum-variance portfolio
+KW  - Stein estimation
+KW  - Naive diversification
+KW  - Shrinkage estimator
+AB  - In this paper, we derive two shrinkage estimators for minimum-variance portfolios that dominate the traditional estimator with respect to the out-of-sample variance of the portfolio return. The presented results hold for any number of assets d≥4 and number of observations n≥d+2. The small-sample properties of the shrinkage estimators as well as their large-sample properties for fixed d but n→∞ and n,d→∞ but n/d→q≤∞ are investigated. Furthermore, we present a small-sample test for the question of whether it is better to completely ignore time series information in favor of naive diversification.
+ER  - 

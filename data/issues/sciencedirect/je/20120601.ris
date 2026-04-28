@@ -1,0 +1,414 @@
+TY  - JOUR
+T1  - Treatment effect bounds: An application to Swan–Ganz catheterization
+AU  - Bhattacharya, Jay
+AU  - Shaikh, Azeem M.
+AU  - Vytlacil, Edward
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 223
+EP  - 243
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.01.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000024
+KW  - Partial identification
+KW  - Average treatment effect
+KW  - Swan–Ganz catheterization
+KW  - Threshold crossing model
+KW  - Simultaneous equation model
+AB  - We reanalyze data from the observational study by Connors et al. (1996) on the impact of Swan–Ganz catheterization on mortality outcomes. The study by Connors et al. (1996) assumes that there are no unobserved differences between patients who are catheterized and patients who are not catheterized and finds that catheterization increases patient mortality. We instead allow for such differences between patients by implementing both the instrumental variable bounds of Manski (1990), which only exploits an instrumental variable, and the bounds of Shaikh and Vytlacil (2011), which exploit mild nonparametric, structural assumptions in addition to an instrumental variable. We propose and justify the use of indicators of weekday admission as an instrument for catheterization in this context. We find that in our application, the Manski (1990) bounds do not indicate whether catheterization increases or decreases mortality, where as the Shaikh and Vytlacil (2011) bounds reveal that at least for some diagnoses, Swan–Ganz catheterization reduces mortality at 7 days after catheterization. We show that the bounds of Shaikh and Vytlacil (2011) remain valid under even weaker assumptions than those described in Shaikh and Vytlacil (2011). We also extend the analysis to exploit a further nonparametric, structural assumption–that doctors catheterize individuals with systematically worse latent health–and find that this assumption further narrows these bounds and strengthens our conclusions. In our analysis, we construct confidence regions using the methodology developed in Romano and Shaikh (2008). We show in particular that the confidence regions are uniformly consistent in level over a large class of possible distributions for the observed data that include distributions where the instrument is arbitrarily “weak”.
+ER  - 
+
+TY  - JOUR
+T1  - Corrigendum to “Modified tests for a change in persistence” [J. Econom. 134 (2006) 441–469]
+AU  - Harvey, David I.
+AU  - Leybourne, Stephen J.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 407
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002570
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian modeling of joint and conditional distributions
+AU  - Norets, Andriy
+AU  - Pelenis, Justinas
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 332
+EP  - 346
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000577
+KW  - Mixture of normal distributions
+KW  - Consistency
+KW  - Bayesian conditional density estimation
+KW  - Heteroscedasticity and non-linearity robust inference
+AB  - In this paper, we study a Bayesian approach to flexible modeling of conditional distributions. The approach uses a flexible model for the joint distribution of the dependent and independent variables and then extracts the conditional distributions of interest from the estimated joint distribution. We use a finite mixture of multivariate normals (FMMN) to estimate the joint distribution. The conditional distributions can then be assessed analytically or through simulations. The discrete variables are handled through the use of latent variables. The estimation procedure employs an MCMC algorithm. We provide a characterization of the Kullback–Leibler closure of FMMN and show that the joint and conditional predictive densities implied by the FMMN model are consistent estimators for a large class of data generating processes with continuous and discrete observables. The method can be used as a robust regression model with discrete and continuous dependent and independent variables and as a Bayesian alternative to semi- and non-parametric models such as quantile and kernel regression. In experiments, the method compares favorably with classical nonparametric and alternative Bayesian methods.
+ER  - 
+
+TY  - JOUR
+T1  - The HESSIAN method: Highly efficient simulation smoothing, in a nutshell
+AU  - McCausland, William J.
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 189
+EP  - 206
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002752
+KW  - State space models
+KW  - Simulation smoothing
+KW  - Importance sampling
+KW  - MCMC
+KW  - Stochastic volatility
+KW  - Count models
+KW  - Duration models
+AB  - I introduce the HESSIAN (highly efficient simulation smoothing in a nutshell) method for numerically efficient simulation smoothing in state space models with univariate states. Given a vector θ of parameters, the vector of states α=(α1,…,αn) is Gaussian and the observed vector y=(y1⊤,…,yn⊤)⊤ need not be. I describe a procedure to construct a close approximation q(α|θ,y) to the target density p(α|θ,y). It requires code to compute five derivatives of logp(yt|θ,αt) with respect to αt, t=1,…,n, and is not otherwise model specific. Since q(α|θ,y) is proper, fully normalised and simulable, it can be used as an importance density for importance sampling (IS) or as a proposal density for Markov chain Monte Carlo (MCMC). HESSIAN is an acronym but it also refers to the (sparse) Hessian matrix of logp(α|θ,y) with respect to α—the HESSIAN method is based on sparse matrix operations rather than the Kalman filter. I construct q(α|θ,y) and a related approximation q(θ,α|y) of p(θ,α|y) for two stochastic volatility models, two stochastic count models and a stochastic duration model. I illustrate their use for numerical approximation of likelihood function values and marginal likelihoods, using IS, and for posterior inference, using IS and MCMC. Compared with other simulation smoothing methods, the HESSIAN method is highly numerically efficient. In an IS application featuring a Student’s t stochastic volatility model and n=8851 daily log returns, the efficiency of IS for numerical approximation of the elements of the posterior mean E[θ|y] is between 80% and 100%.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric robust estimation of truncated and censored regression models
+AU  - Čížek, Pavel
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 347
+EP  - 366
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000589
+KW  - Asymptotic normality
+KW  - Censored regression
+KW  - One-step estimation
+KW  - Robust estimation
+KW  - Trimming
+KW  - Truncated regression
+AB  - Many estimation methods of truncated and censored regression models such as the maximum likelihood and symmetrically censored least squares (SCLS) are sensitive to outliers and data contamination as we document. Therefore, we propose a semiparametric general trimmed estimator (GTE) of truncated and censored regression, which is highly robust but relatively imprecise. To improve its performance, we also propose data-adaptive and one-step trimmed estimators. We derive the robust and asymptotic properties of all proposed estimators and show that the one-step estimators (e.g., one-step SCLS) are as robust as GTE and are asymptotically equivalent to the original estimator (e.g., SCLS). The finite-sample properties of existing and proposed estimators are studied by means of Monte Carlo simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Regularization of nonparametric frontier estimators
+AU  - Daouia, Abdelaati
+AU  - Florens, Jean-Pierre
+AU  - Simar, Léopold
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 285
+EP  - 299
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.01.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000425
+KW  - Production function
+KW  - Free Disposal Hull
+KW  - Nonparametric frontier
+KW  - Robust estimation
+KW  - Extreme value index
+AB  - In production theory and efficiency analysis, we estimate the production frontier, the locus of the maximal attainable level of an output (the production), given a set of inputs (the production factors). In other setups, we estimate rather an input (or cost) frontier, the minimal level of the input (cost) attainable for a given set of outputs (goods or services produced). In both cases the problem can be viewed as estimating a surface under shape constraints (monotonicity, …). In this paper we derive the theory of an estimator of the frontier having an asymptotic normal distribution. It is based on the order-m partial frontier where we let the order m to converge to infinity when n→∞ but at a slow rate. The final estimator is then corrected for its inherent bias. We thus can view our estimator as a regularized frontier. In addition, the estimator is more robust to extreme values and outliers than the usual nonparametric frontier estimators, like FDH and than the unregularized order-mn estimator of Cazals et al. (2002) converging to the frontier with a Weibull distribution if mn→∞ fast enough when n→∞. The performances of our estimators are evaluated in finite samples and compared to other estimators through some Monte-Carlo experiments, showing a better behavior (in terms of robustness, bias, MSE and achieved coverage of the resulting confidence intervals). The practical implementation and the robustness properties are illustrated through simulated data sets but also with a real data set.
+ER  - 
+
+TY  - JOUR
+T1  - Jumps in equilibrium prices and market microstructure noise
+AU  - Lee, Suzanne S.
+AU  - Mykland, Per A.
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 396
+EP  - 406
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000711
+KW  - Jumps
+KW  - Noise
+KW  - Nonparametric tests
+KW  - High frequency data
+AB  - Asset prices observed in financial markets combine equilibrium prices and market microstructure noise. In this paper, we study how to tell apart large shifts in equilibrium prices from noise using high frequency data. We propose a new nonparametric test which allows us to asymptotically remove the noise from observable price data and to discover jumps in fundamental asset values. We provide its asymptotic distribution to decide when such jumps occur. In finite samples, our test offers reasonable power for distinguishing between noise and jumps. Empirical evidence indicates that it is necessary to incorporate the presence of jumps in equilibrium prices.
+ER  - 
+
+TY  - JOUR
+T1  - Nonparametric identification in nonseparable panel data models with generalized fixed effects
+AU  - Hoderlein, Stefan
+AU  - White, Halbert
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 300
+EP  - 314
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.01.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000437
+KW  - Nonseparable models
+KW  - Identification
+KW  - Panel data
+KW  - Semiparametric
+KW  - Binary choice
+AB  - This paper extends the familiar notion of fixed effects to nonlinear structures with infinite-dimensional unobservables, like preferences. The main result is that a generalized version of differencing identifies local average responses (LARs) in nonseparable structures. In contrast to existing results, this does not require either substantial restrictions on functional form or independence between the persistent unobservables and the explanatory variables of interest, and it requires only two time periods. On the other hand, the results are confined to the subpopulation of “stayers” (Chamberlain, 1982), i.e., the population for which the explanatory variables do not change over time. We extend the basic framework to include time trends and dynamics in the explanatory variables, and we show how distributional effects as well as average partial effects are identified. Our approach also allows endogeneity in the transitory unobservables. Furthermore, we show that this new identification principle can be applied to well-known objects like the slope coefficient in the semiparametric panel data binary choice model with fixed effects. Finally, we suggest estimators for the local average response and average partial effect, and we analyze their large- and finite-sample behavior.
+ER  - 
+
+TY  - JOUR
+T1  - Asymptotics of the principal components estimator of large factor models with weakly influential factors
+AU  - Onatski, Alexei
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 244
+EP  - 258
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.01.034
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000449
+KW  - Approximate factor models
+KW  - Principal components
+KW  - Weakly influential factors
+KW  - Weak factors
+KW  - Inconsistency
+KW  - Bias
+KW  - Asymptotic distribution
+KW  - Marchenko–Pastur law
+AB  - This paper introduces a drifting-parameter asymptotic framework to derive accurate approximations to the finite sample distribution of the principal components (PC) estimator in situations when the factors’ explanatory power does not strongly dominate the explanatory power of the cross-sectionally and temporally correlated idiosyncratic terms. Under our asymptotics, the PC estimator is inconsistent. We find explicit formulae for the amount of the inconsistency, and propose an estimator of the number of factors for which the PC estimator works reasonably well. For the special case when the idiosyncratic terms are cross-sectionally but not temporally correlated (or vice versa), we show that the coefficients in the OLS regressions of the PC estimates of factors (loadings) on the true factors (true loadings) are asymptotically normal, and find explicit formulae for the corresponding asymptotic covariance matrix. We explain how to estimate the parameters of the derived asymptotic distributions. Our Monte Carlo analysis suggests that our asymptotic formulae and estimators work well even for relatively small n and T. We apply our theoretical results to test a hypothesis about the factor content of the US stock return data.
+ER  - 
+
+TY  - JOUR
+T1  - Segmenting mean-nonstationary time series via trending regressions
+AU  - Aue, Alexander
+AU  - Horváth, Lajos
+AU  - Hušková, Marie
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 367
+EP  - 381
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000590
+KW  - Change-point analysis
+KW  - Circular bootstrap
+KW  - Extreme value asymptotics
+KW  - Gaussian processes
+KW  - Gumbel distribution
+KW  - Linear models
+KW  - Polynomial regression
+KW  - Resampling
+KW  - Trending regression
+AB  - In this paper, we provide a segmentation procedure for mean-nonstationary time series. The segmentation is obtained by casting the problem into the framework of detecting structural breaks in trending regression models in which the regressors are generated by suitably smooth functions. As test statistics we propose to use the maximally selected likelihood ratio statistics and a related statistics based on partial sums of weighted residuals. The main theoretical contribution of the paper establishes the extreme value distribution of these statistics and their consistency. To circumvent the slow convergence to the extreme value limit, we propose to employ a version of the circular bootstrap. This procedure is completely data-driven and does not require knowledge of the time series structure. In an empirical part, we show in a simulation study and applications to air carrier traffic and S&P500 data that the finite sample performance is very satisfactory.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for jumps in noisy high frequency data
+AU  - Aït-Sahalia, Yacine
+AU  - Jacod, Jean
+AU  - Li, Jia
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 207
+EP  - 222
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002764
+KW  - Semimartingale
+KW  - Testing for jumps
+KW  - High frequency data
+KW  - Market microstructure noise
+KW  - Pre-averaging
+AB  - This paper proposes a robustification of the test statistic of Aït-Sahalia and Jacod (2009b) for the presence of market microstructure noise in high frequency data, based on the pre-averaging method of Jacod et al. (2010). We show that the robustified statistic restores the test’s discriminating power between jumps and no jumps despite the presence of market microstructure noise in the data.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and estimation of Gaussian affine term structure models
+AU  - Hamilton, James D.
+AU  - Wu, Jing Cynthia
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 315
+EP  - 331
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.01.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000450
+KW  - Affine term structure models
+KW  - Identification
+KW  - Estimation
+KW  - Minimum-chi-square
+AB  - This paper develops new results for identification and estimation of Gaussian affine term structure models. We establish that three popular canonical representations are unidentified, and demonstrate how unidentified regions can complicate numerical optimization. A separate contribution of the paper is the proposal of minimum-chi-square estimation as an alternative to MLE. We show that, although it is asymptotically equivalent to MLE, it can be much easier to compute. In some cases, MCSE allows researchers to recognize with certainty whether a given estimate represents a global maximum of the likelihood function and makes feasible the computation of small-sample standard errors.
+ER  - 
+
+TY  - JOUR
+T1  - Well-posedness of measurement error models for self-reported data
+AU  - An, Yonghong
+AU  - Hu, Yingyao
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 259
+EP  - 269
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.01.036
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000462
+KW  - Well-posed
+KW  - Ill-posed
+KW  - Inverse problem
+KW  - Fredholm integral equation
+KW  - Deconvolution
+KW  - Rate of convergence
+KW  - Measurement error model
+KW  - Self-reported data
+KW  - Survey data
+AB  - This paper considers the widely admitted ill-posed inverse problem for measurement error models: estimating the distribution of a latent variable X∗ from an observed sample of X, a contaminated measurement of X∗. We show that the inverse problem is well-posed for self-reporting data under the assumption that the probability of truthful reporting is nonzero, which is supported by empirical evidences. Comparing with ill-posedness, well-posedness generally can be translated into faster rates of convergence for the nonparametric estimators of the latent distribution. Therefore, our optimistic result on well-posedness is of importance in economic applications, and it suggests that researchers should not ignore the point mass at zero in the measurement error distribution when they model measurement errors with self-reported data. We also analyze the implications of our results on the estimation of classical measurement error models. Then by both a Monte Carlo study and an empirical application, we show that failing to account for the nonzero probability of truthful reporting can lead to significant bias on estimation of the latent distribution.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic misspecification in nonparametric cointegrating regression
+AU  - Kasparis, Ioannis
+AU  - Phillips, Peter C.B.
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 270
+EP  - 284
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.01.037
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000474
+KW  - Dynamic misspecification
+KW  - Functional regression
+KW  - Integrable function
+KW  - Integrated process
+KW  - Linearity test
+KW  - Local time
+KW  - Misspecification
+KW  - Mixed normality
+KW  - Nonlinear cointegration
+KW  - Nonparametric regression
+AB  - Linear cointegration is known to have the important property of invariance under temporal translation. The same property is shown not to apply for nonlinear cointegration. The limit properties of the Nadaraya–Watson (NW) estimator for cointegrating regression under misspecified lag structure are derived, showing the NW estimator to be inconsistent, in general, with a “pseudo-true function” limit that is a local average of the true regression function. In this respect nonlinear cointegrating regression differs importantly from conventional linear cointegration which is invariant to time translation. When centred on the pseudo-true function and appropriately scaled, the NW estimator still has a mixed Gaussian limit distribution. The convergence rates are the same as those obtained under correct specification (hn, h is a bandwidth term) but the variance of the limit distribution is larger. The practical import of the results for index models, functional regression models, temporal aggregation and specification testing are discussed. Two nonparametric linearity tests are considered. The proposed tests are robust to dynamic misspecification. Under the null hypothesis (linearity), the first test has a χ2 limit distribution while the second test has limit distribution determined by the maximum of independently distributed χ2 variates. Under the alternative hypothesis, the test statistics attain a hn divergence rate.
+ER  - 
+
+TY  - JOUR
+T1  - Uniform confidence bands for functions estimated nonparametrically with instrumental variables
+AU  - Horowitz, Joel L.
+AU  - Lee, Sokbae
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 175
+EP  - 188
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2011.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407611002739
+KW  - Bootstrap
+KW  - Instrumental variables
+KW  - Sieve estimator
+KW  - Uniform confidence band
+AB  - This paper is concerned with developing uniform confidence bands for functions estimated nonparametrically with instrumental variables. We show that a sieve nonparametric instrumental variables estimator is pointwise asymptotically normally distributed. The asymptotic normality result holds in both mildly and severely ill-posed cases. We present methods to obtain a uniform confidence band and show that the bootstrap can be used to obtain the required critical values. Monte Carlo experiments illustrate the finite-sample performance of the uniform confidence band.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - IFC
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00081-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000814
+ER  - 
+
+TY  - JOUR
+T1  - Quantile treatment effects in the regression discontinuity design
+AU  - Frandsen, Brigham R.
+AU  - Frölich, Markus
+AU  - Melly, Blaise
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - 382
+EP  - 395
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2012.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000607
+KW  - Quantile treatment effect
+KW  - Causal effect
+KW  - Endogeneity
+KW  - Regression discontinuity
+AB  - We introduce a nonparametric estimator for local quantile treatment effects in the regression discontinuity (RD) design. The procedure uses local distribution regression to estimate the marginal distributions of the potential outcomes. We illustrate the procedure through Monte Carlo simulations and an application on the distributional effects of a universal pre-K program in Oklahoma. We find that participation in a pre-K program significantly raises the lower end and the middle of the distribution of test scores.
+ER  - 
+
+TY  - JOUR
+T1  - 2011 Dennis J. Aigner Award
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - v
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00090-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000905
+ER  - 
+
+TY  - JOUR
+T1  - 2011 Journal of Econometrics
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - vi
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00091-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000917
+ER  - 
+
+TY  - JOUR
+T1  - List of the JE Fellows as of January 2011
+JO  - Journal of Econometrics
+VL  - 168
+IS  - 2
+SP  - vii
+EP  - xix
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(12)00092-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407612000929
+ER  - 

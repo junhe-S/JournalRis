@@ -1,0 +1,378 @@
+TY  - JOUR
+T1  - Forecasting a long memory process subject to structural breaks
+AU  - Wang, Cindy Shin-Huei
+AU  - Bauwens, Luc
+AU  - Hsiao, Cheng
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 171
+EP  - 184
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000833
+KW  - Forecasting
+KW  - Long memory process
+KW  - Structural break
+KW  - HAR model
+AB  - We develop an easy-to-implement method for forecasting a stationary autoregressive fractionally integrated moving average (ARFIMA) process subject to structural breaks with unknown break dates. We show that an ARFIMA process subject to a mean shift and a change in the long memory parameter can be well approximated by an autoregressive (AR) model and suggest using an information criterion (AIC or Mallows’ Cp) to choose the order of the approximate AR model. Our method avoids the issue of estimation inaccuracy of the long memory parameter and the issue of spurious breaks in finite sample. Insights from our theoretical analysis are confirmed by Monte Carlo experiments, through which we also find that our method provides a substantial improvement over existing prediction methods. An empirical application to the realized volatility of three exchange rates illustrates the usefulness of our forecasting procedure. The empirical success of the HAR-RV model can be explained, from an econometric perspective, by our theoretical and simulation results.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal forecasts in the presence of structural breaks
+AU  - Pesaran, M. Hashem
+AU  - Pick, Andreas
+AU  - Pranovich, Mikhail
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 134
+EP  - 152
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000687
+KW  - Forecasting
+KW  - Structural breaks
+KW  - Optimal weights
+KW  - Robust optimal weights
+KW  - Exponential smoothing
+AB  - This paper considers the problem of forecasting under continuous and discrete structural breaks and proposes weighting observations to obtain optimal forecasts in the MSFE sense. We derive optimal weights for one step ahead forecasts. Under continuous breaks, our approach largely recovers exponential smoothing weights. Under discrete breaks, we provide analytical expressions for optimal weights in models with a single regressor, and asymptotically valid weights for models with more than one regressor. It is shown that in these cases the optimal weight is the same across observations within a given regime and differs only across regimes. In practice, where information on structural breaks is uncertain, a forecasting procedure based on robust optimal weights is proposed. The relative performance of our proposed approach is investigated using Monte Carlo experiments and an empirical application to forecasting real GDP using the yield curve across nine industrial economies.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - IFC
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/S0304-4076(13)00211-X
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761300211X
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive forecasting in the presence of recent and ongoing structural change
+AU  - Giraitis, Liudas
+AU  - Kapetanios, George
+AU  - Price, Simon
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 153
+EP  - 170
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000699
+KW  - Recent and ongoing structural change
+KW  - Forecast combination
+KW  - Robust forecasts
+AB  - We consider time series forecasting in the presence of ongoing structural change where both the time series dependence and the nature of the structural change are unknown. Methods that downweight older data, such as rolling regressions, forecast averaging over different windows and exponentially weighted moving averages, known to be robust to historical structural change, are found also to be useful in the presence of ongoing structural change in the forecast period. A crucial issue is how to select the degree of downweighting, usually defined by an arbitrary tuning parameter. We make this choice data-dependent by minimising the forecast mean square error, and provide a detailed theoretical analysis of our proposal. Monte Carlo results illustrate the methods. We examine their performance on 97 US macro series. Forecasts using data-based tuning of the data discount rate are shown to perform well.
+ER  - 
+
+TY  - JOUR
+T1  - Testing for unit roots in the possible presence of multiple trend breaks using minimum Dickey–Fuller statistics
+AU  - Harvey, David I.
+AU  - Leybourne, Stephen J.
+AU  - Taylor, A.M. Robert
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 265
+EP  - 284
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000894
+KW  - Unit root test
+KW  - Multiple breaks in trend
+KW  - Minimum Dickey–Fuller test
+KW  - Local GLS detrending
+AB  - Trend breaks appear to be prevalent in macroeconomic time series, and unit root tests therefore need to make allowance for these if they are to avoid the serious effects that unmodelled trend breaks have on power. Carrion-i-Silvestre et al. (2009) propose a pre-test-based approach which delivers near asymptotically efficient unit root inference both when breaks do not occur and where multiple breaks occur, provided the break magnitudes are fixed. Unfortunately, however, the fixed magnitude trend break asymptotic theory does not predict well the finite sample power functions of these tests, and power can be very low for the magnitudes of trend breaks typically observed in practice. In response to this problem we propose a unit root test that allows for multiple breaks in trend, obtained by taking the infimum of the sequence (across all candidate break points in a trimmed range) of local GLS detrended augmented Dickey–Fuller-type statistics. We show that this procedure has power that is robust to the magnitude of any trend breaks, thereby retaining good finite sample power in the presence of plausibly-sized breaks. We also demonstrate that, unlike the OLS detrended infimum tests of Zivot and Andrews (1992), these tests display no tendency to spuriously reject in the limit when fixed magnitude trend breaks occur under the unit root null.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic econometric modeling and forecasting in the presence of instability
+AU  - Timmermann, Allan
+AU  - van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 131
+EP  - 133
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000675
+ER  - 
+
+TY  - JOUR
+T1  - Sequential estimation of shape parameters in multivariate dynamic models
+AU  - Amengual, Dante
+AU  - Fiorentini, Gabriele
+AU  - Sentana, Enrique
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 233
+EP  - 249
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000870
+KW  - Confidence intervals
+KW  - Elliptical distributions
+KW  - Efficient estimation
+KW  - Global systematically important banks
+KW  - Systemic risk
+KW  - Risk management
+AB  - Sequential maximum likelihood and GMM estimators of distributional parameters obtained from the standardised innovations of multivariate conditionally heteroskedastic dynamic regression models evaluated at Gaussian PML estimators preserve the consistency of mean and variance parameters while allowing for realistic distributions. We assess their efficiency, and obtain moment conditions leading to sequential estimators as efficient as their joint ML counterparts. We also obtain standard errors for VaR and CoVaR, and analyse the effects on these measures of distributional misspecification. Finally, we illustrate the small sample performance of these procedures through simulations and apply them to analyse the risk of large eurozone banks.
+ER  - 
+
+TY  - JOUR
+T1  - Predictive regression under various degrees of persistence and robust long-horizon regression
+AU  - Phillips, Peter C.B.
+AU  - Lee, Ji Hyung
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 250
+EP  - 264
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000882
+KW  - Asymptotic theory
+KW  - Balanced regression
+KW  - Endogeneity
+KW  - Instrumentation
+KW  - IVX methods
+KW  - Local power
+KW  - Mild integration
+KW  - Mildly explosive
+KW  - Predictive regression
+KW  - Robustness
+AB  - The paper proposes a novel inference procedure for long-horizon predictive regression with persistent regressors, allowing the autoregressive roots to lie in a wide vicinity of unity. The invalidity of conventional tests when regressors are persistent has led to a large literature dealing with inference in predictive regressions with local to unity regressors. Magdalinos and Phillips (2009b) recently developed a new framework of extended IV procedures (IVX) that enables robust chi-square testing for a wider class of persistent regressors. We extend this robust procedure to an even wider parameter space in the vicinity of unity and apply the methods to long-horizon predictive regression. Existing methods in this model, which rely on simulated critical values by inverting tests under local to unity conditions, cannot be easily extended beyond the scalar regressor case or to wider autoregressive parametrizations. In contrast, the methods developed here lead to standard chi-square tests, allow for multivariate regressors, and include predictive processes whose roots may lie in a wide vicinity of unity. As such they have many potential applications in predictive regression. In addition to asymptotics under the null hypothesis of no predictability, the paper investigates validity under the alternative, showing how balance in the regression may be achieved through the use of localizing coefficients and developing local asymptotic power properties under such alternatives. These results help to explain some of the empirical difficulties that have been encountered in establishing predictability of stock returns.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling and forecasting government bond spreads in the euro area: A GVAR model
+AU  - Favero, Carlo A.
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 343
+EP  - 356
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.004
+UR  - https://www.sciencedirect.com/science/article/pii/S030440761300081X
+KW  - Global VAR
+KW  - Bond spreads in the euro-area
+KW  - Exchange rate premium
+AB  - This paper proposes an extension to Global Vector Autoregressive (GVAR) models to capture time-varying interdependence among financial variables. Government bond spreads in the euro area feature a time-varying pattern of co-movement that poses a serious challenge for econometric modelling and forecasting. This pattern of the data is not captured by the standard specification that model spreads as persistent processes reverting to a time-varying mean determined by two factors: a local factor, driven by fiscal fundamentals and growth, and a global world factor, driven by the market’s appetite for risk. This paper argues that a third factor, expectations of exchange rate devaluation, gained traction during the crises. This factor is well captured via a GVAR that models the interdependence among spreads by making each country’s spread function of global European spreads. Global spreads capture the exposure of each country’s spread to other spreads in the euro area in terms of the time-varying ‘distance’ between their fiscal fundamentals. This new specification dominates the standard one in modelling the time-varying pattern of co-movements among spreads and the response of euro area spreads to the Greek debt crisis.
+ER  - 
+
+TY  - JOUR
+T1  - Complete subset regressions
+AU  - Elliott, Graham
+AU  - Gargano, Antonio
+AU  - Timmermann, Allan
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 357
+EP  - 373
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000948
+KW  - Subset regression
+KW  - Forecast combination
+KW  - Shrinkage
+AB  - This paper proposes a new method for combining forecasts based on complete subset regressions. For a given set of potential predictor variables we combine forecasts from all possible linear regression models that keep the number of predictors fixed. We explore how the choice of model complexity, as measured by the number of included predictor variables, can be used to trade off the bias and variance of the forecast errors, generating a setup akin to the efficient frontier known from modern portfolio theory. In an application to predictability of stock returns, we find that combinations of subset regressions can produce more accurate forecasts than conventional approaches based on equal-weighted forecasts (which fail to account for the dimensionality of the underlying models), combinations of univariate forecasts, or forecasts generated by methods such as bagging, ridge regression or Bayesian Model Averaging.
+ER  - 
+
+TY  - JOUR
+T1  - Time-varying combinations of predictive densities using nonlinear filtering
+AU  - Billio, Monica
+AU  - Casarin, Roberto
+AU  - Ravazzolo, Francesco
+AU  - van Dijk, Herman K.
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 213
+EP  - 232
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000869
+KW  - Density forecast combination
+KW  - Survey forecast
+KW  - Bayesian filtering
+KW  - Sequential Monte Carlo
+AB  - We propose a Bayesian combination approach for multivariate predictive densities which relies upon a distributional state space representation of the combination weights. Several specifications of multivariate time-varying weights are introduced with a particular focus on weight dynamics driven by the past performance of the predictive densities and the use of learning mechanisms. In the proposed approach the model set can be incomplete, meaning that all models can be individually misspecified. A Sequential Monte Carlo method is proposed to approximate the filtering and predictive densities. The combination approach is assessed using statistical and utility-based performance measures for evaluating density forecasts of simulated data, US macroeconomic time series and surveys of stock market prices. Simulation results indicate that, for a set of linear autoregressive models, the combination strategy is successful in selecting, with probability close to one, the true model when the model set is complete and it is able to detect parameter instability when the model set includes the true model that has generated subsamples of data. Also, substantial uncertainty appears in the weights when predictors are similar; residual uncertainty reduces when the model set is complete; and learning reduces this uncertainty. For the macro series we find that incompleteness of the models is relatively large in the 1970’s, the beginning of the 1980’s and during the recent financial crisis, and lower during the Great Moderation; the predicted probabilities of recession accurately compare with the NBER business cycle dating; model weights have substantial uncertainty attached. With respect to returns of the S&P 500 series, we find that an investment strategy using a combination of predictions from professional forecasters and from a white noise model puts more weight on the white noise model in the beginning of the 1990’s and switches to giving more weight to the professional forecasts over time. Information on the complete predictive distribution and not just on some moments turns out to be very important, above all during turbulent times such as the recent financial crisis. More generally, the proposed distributional state space representation offers great flexibility in combining densities.
+ER  - 
+
+TY  - JOUR
+T1  - Forecasting by factors, by variables, by both or neither?
+AU  - Castle, Jennifer L.
+AU  - Clements, Michael P.
+AU  - Hendry, David F.
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 305
+EP  - 319
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000924
+KW  - Model selection
+KW  - Factor models
+KW  - Forecasting
+KW  - Impulse-indicator saturation
+KW  - 
+AB  - We consider forecasting with factors, variables and both, modeling in-sample using Autometrics so all principal components and variables can be included jointly, while tackling multiple breaks by impulse-indicator saturation. A forecast-error taxonomy for factor models highlights the impacts of location shifts on forecast-error biases. Forecasting US GDP over 1-, 4- and 8-step horizons using the dataset from Stock and Watson (2009) updated to 2011:2 shows factor models are more useful for nowcasting or short-term forecasting, but their relative performance declines as the forecast horizon increases. Forecasts for GDP levels highlight the need for robust strategies, such as intercept corrections or differencing, when location shifts occur as in the recent financial crisis.
+ER  - 
+
+TY  - JOUR
+T1  - A Markov-switching multifractal inter-trade duration model, with application to US equities
+AU  - Chen, Fei
+AU  - Diebold, Francis X.
+AU  - Schorfheide, Frank
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 320
+EP  - 342
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000936
+KW  - High-frequency trading data
+KW  - Point process
+KW  - Long memory
+KW  - Time deformation
+KW  - Regime-switching model
+KW  - Market microstructure
+KW  - Liquidity
+AB  - We propose and illustrate a Markov-switching multifractal duration (MSMD) model for analysis of inter-trade durations in financial markets. We establish several of its key properties with emphasis on high persistence and long memory. Empirical exploration suggests MSMD’s superiority relative to leading competitors.
+ER  - 
+
+TY  - JOUR
+T1  - Large time-varying parameter VARs
+AU  - Koop, Gary
+AU  - Korobilis, Dimitris
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 185
+EP  - 198
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000845
+KW  - Bayesian VAR
+KW  - Forecasting
+KW  - Time-varying coefficients
+KW  - State-space model
+AB  - In this paper, we develop methods for estimation and forecasting in large time-varying parameter vector autoregressive models (TVP-VARs). To overcome computational constraints, we draw on ideas from the dynamic model averaging literature which achieve reductions in the computational burden through the use forgetting factors. We then extend the TVP-VAR so that its dimension can change over time. For instance, we can have a large TVP-VAR as the forecasting model at some points in time, but a smaller TVP-VAR at others. A final extension lies in the development of a new method for estimating, in a time-varying manner, the parameter(s) of the shrinkage priors commonly-used with large VARs. These extensions are operationalized through the use of forgetting factor methods and are, thus, computationally simple. An empirical application involving forecasting inflation, real output and interest rates demonstrates the feasibility and usefulness of our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Least squares estimation in a simple random coefficient autoregressive model
+AU  - Johansen, Søren
+AU  - Lange, Theis
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 285
+EP  - 288
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000900
+KW  - Time series
+KW  - Explosive processes
+KW  - Bubble models
+KW  - Stable limits
+AB  - The question we discuss is whether a simple random coefficient autoregressive model with infinite variance can create the long swings, or persistence, which are observed in many macroeconomic variables. The model is defined by yt=stρyt−1+εt,t=1,…,n, where st is an i.i.d. binary variable with p=P(st=1), independent of εt i.i.d. with mean zero and finite variance. We say that the process yt is persistent if the autoregressive coefficient ρˆn of yt on yt−1 is close to one. We take p<1<pρ2 which implies 1<ρ and that yt is stationary with infinite variance. Under this assumption we prove the curious result that ρˆn→Pρ−1. The proof applies the notion of a tail index of sums of positive random variables with infinite variance to find the order of magnitude of ∑t=1nyt−12 and ∑t=1nytyt−1 and hence the limit of ρˆn.
+ER  - 
+
+TY  - JOUR
+T1  - Conditional predictive density evaluation in the presence of instabilities
+AU  - Rossi, Barbara
+AU  - Sekhposyan, Tatevik
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 199
+EP  - 212
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000857
+KW  - Predictive density
+KW  - Dynamic mis-specification
+KW  - Instability
+KW  - Structural change
+KW  - Forecast evaluation
+AB  - We propose new methods for evaluating predictive densities. The methods include Kolmogorov–Smirnov and Cramér–von Mises-type tests for the correct specification of predictive densities robust to dynamic mis-specification. The novelty is that the tests can detect mis-specification in the predictive densities even if it appears only over a fraction of the sample, due to the presence of instabilities. Our results indicate that our tests are well sized and have good power in detecting mis-specification in predictive densities, even when it is time-varying. An application to density forecasts of the Survey of Professional Forecasters demonstrates the usefulness of the proposed methodologies.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent factor estimation in dynamic factor models with structural instability
+AU  - Bates, Brandon J.
+AU  - Plagborg-Møller, Mikkel
+AU  - Stock, James H.
+AU  - Watson, Mark W.
+JO  - Journal of Econometrics
+VL  - 177
+IS  - 2
+SP  - 289
+EP  - 304
+PY  - 2013
+DA  - 2013/12/01/
+T2  - Dynamic Econometric Modeling and Forecasting
+SN  - 0304-4076
+DO  - https://doi.org/10.1016/j.jeconom.2013.04.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0304407613000912
+AB  - This paper considers the estimation of approximate dynamic factor models when there is temporal instability in the factor loadings. We characterize the type and magnitude of instabilities under which the principal components estimator of the factors is consistent and find that these instabilities can be larger than earlier theoretical calculations suggest. We also discuss implications of our results for the robustness of regressions based on the estimated factors and of estimates of the number of factors in the presence of parameter instability. Simulations calibrated to an empirical application indicate that instability in the factor loadings has a limited impact on estimation of the factor space and diffusion index forecasting, whereas estimation of the number of factors is more substantially affected.
+ER  - 

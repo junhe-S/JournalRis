@@ -1,0 +1,308 @@
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Front Matter
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171844
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Econometric Model Determination
+AU  - Peter C. B. Phillips
+AB  - [Our general subject is model determination methods and their use in the prediction of economic time series. The methods suggested are Bayesian in spirit but they can be justified by classical as well as Bayesian arguments. The main part of the paper is concerned with model determination, forecast evaluation, and the construction of evolving sequences of models that can adapt in dimension and form (including the way in which any nonstationarity in the data is modelled) as new characteristics in the data become evident. The paper continues some recent work on Bayesian asymptotics by the author and Werner Ploberger (1995), develops embedding techniques for vector martingales that justify the role of a class of exponential densities in model selection and forecast evaluation, and implements the modelling ideas in a multivariate regression framework that includes Bayesian vector autoregressions (BVAR's) and reduced rank regressions (RRR's). It is shown how the theory in the paper can be used: (i) to construct optimized BVAR's with data-determined hyperparameters; (ii) to compare models such as BVAR's, optimized BVAR's, and RRR's; (iii) to perform joint order selection of cointegrating rank, lag length, and trend degree in a VAR; and (iv) to discard data that may be irrelevant and thereby reset the initial conditions of a model.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171845
+EP  - 812
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 763
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171845
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Efficient Tests for an Autoregressive Unit Root
+AU  - Elliott, Graham
+AU  - Rothenberg, Thomas J.
+AU  - Stock, James H.
+AB  - [The asymptotic power envelope is derived for point-optimal tests of a unit root in the autoregressive representation of a Gaussian time series under various trend specifications. We propose a family of tests whose asymptotic power functions are tangent to the power envelope at one point and are never far below the envelope. When the series has no deterministic component, some previously proposed tests are shown to be asymptotically equivalent to members of this family. When the series has an unknown mean or linear trend, commonly used tests are found to be dominated by members of the family of point-optimal invariant tests. We propose a modified version of the Dickey-Fuller t test which has substantially improved power when an unknown mean or trend is present. A Monte Carlo experiment indicates that the modified test works well in small samples.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171846
+EP  - 836
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 813
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171846
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Consistent Testing for Serial Correlation of Unknown Form
+AU  - Hong, Yongmiao
+AB  - [This paper proposes three classes of consistent one-sided tests for serial correlation of unknown form for the residual from a linear dynamic regression model that includes both lagged dependent variables and exogenous variables. The tests are obtained by comparing a kernel-based normalized spectral density estimator and the null normalized spectral density estimator and the null normalized spectral density, using a quadratic norm, the Hellinger metric, and the Kullback-Leibler information criterion respectively. Under the null hypothesis of no serial correlation, the three classes of new test statistics are asymptotically N(0, 1) and equivalent. The null distributions are obtained without having to specify any alternative model. Unlike some conventional tests for serial correlation, the null distributions of our tests remain invariant when the regressors include lagged dependent variables. Under a suitable class of local alternatives, the three classes of the new tests are asymptotically equally efficient. Under global alternatives, however, their relative efficiencies depend on the relative magnitudes of the three divergence measures. Our approach provides an interpretation for Box and Pierce's (1970) test, which can be viewed as a quadratic norm based test using a truncated periodogram. Many kernels deliver tests with better power than Box and Pierce's test or the truncated kernel based test. A simulation study shows that the new tests have good power against an AR(1) process and a fractionally integrated process. In particular, they have better power than the Lagrange multiplier tests of Breusch (1978) and Godfrey (1978) as well as the portmanteau tests of Box and Pierce (1970) and Ljung and Box (1978). The cross-validation procedure of Beltrao and Bloomfield (1987) and Robinson (1991a) works reasonably well in determining the smoothing parameter of the kernel spectral estimator and is recommended for use in practice.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171847
+EP  - 864
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 837
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171847
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Consistent Model Specification Tests: Omitted Variables and Semiparametric Functional Forms
+AU  - Fan, Yanqin
+AU  - Li, Qi
+AB  - [In this paper, we develop several consistent tests in the context of a nonparametric regression model. These include tests for the significance of a subset of regressors and tests for the specification of the semiparametric functional form of the regression function, where the latter covers tests for a partially linear and a single index specification against a general nonparametric alternative. One common feature to the construction of all these tests is the use of the Central Limit Theorem for degenerate U-statistics of order higher than two. As a result, they share the same advantages over most of the corresponding existing tests in the literature: (a) They do not depend on any ad hoc modifications such as sample splitting, random weighting, etc. (b) Under the alternative hypotheses, the test statistics in this paper diverge to positive infinity at a faster rate than those based on ad hoc modifications.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171848
+EP  - 890
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 865
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171848
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Bootstrap Critical Values for Tests Based on Generalized-Method-of-Moments Estimators
+AU  - Hall, Peter
+AU  - Horowitz, Joel L.
+AB  - [Monte Carlo experiments have shown that tests based on generalized-method-of-moments estimators often have true levels that differ greatly from their nominal levels when asymptotic critical values are used. This paper gives conditions under which the bootstrap provides asymptotic refinements to the critical values of t tests and the test of overidentifying restrictions. Particular attention is given to the case of dependent data. It is shown that with such data, the bootstrap must sample blocks of data and that the formulae for the bootstrap versions of test statistics differ from the formulae that apply with the original data. The results of Monte Carlo experiments on the numerical performance of the bootstrap show that it usually reduces the errors in level that occur when critical values based on first-order asymptotic theory are used. The bootstrap also provides an indication of the accuracy of critical values obtained from first-order asymptotic theory.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171849
+EP  - 916
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 891
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171849
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Cheap Talk and Sequential Equilibria in Signaling Games
+AU  - Manelli, Alejandro M.
+AB  - [Well-behaved infinite signaling games may have no sequential equilibria. We prove that adding cheap talk to these games "solves" the nonexistence problem: the limit of sequential equilibrium outcomes of finite approximating games is a sequential equilibrium outcome of the cheap-talk extension of the limit game. In addition, when the signaling space has no isolated points, any cheap-talk sequential equilibrium outcome can be approximated by a sequential ε-equilibrium of the game without cheap talk.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171850
+EP  - 942
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 917
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171850
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Evolution with State-Dependent Mutations
+AU  - Bergin, James
+AU  - Lipman, Barton L.
+AB  - [Recent evolutionary models have introduced "small mutation rates" as a way of refining predictions of long-run behavior. We show that this refinement effect can only be obtained by restrictions on how the magnitude of the effect of mutation on evolution varies across states of the system. In particular, given any model of the effect of mutations, any invariant distribution of the "mutationless" process is close to an invariant distribution of the process with appropriately chosen small mutation rates.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171851
+EP  - 956
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 943
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171851
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - The Effect of Unions on the Structure of Wages: A Longitudinal Analysis
+AU  - Card, David
+AB  - [This paper studies the effects of unions on the structure of wages, using an estimation technique that explicitly accounts for misclassification errors in reported union status, and potential correlations between union status and unobserved productivity. The econometric model is estimated separately for five skill groups using a large panel data set formed from the U.S. Current Population Survey. The results suggest that unions raise wages more for workers with lower levels of observed skills. In addition, the patterns of selection bias differ by skill group. Among workers with lower levels of observed skill, unionized workers are positively selected, whereas union workers are negatively selected from among those with higher levels of observed skill.]
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171852
+EP  - 979
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 957
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171852
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - On the Concavity of the Consumption Function
+AU  - Carroll, Christopher D.
+AU  - Kimball, Miles S.
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+DO  - 10.2307/2171853
+EP  - 992
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 981
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171853
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Announcements
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+EP  - 996
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 993
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171854
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - News Notes
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+EP  - 997
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 997
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171855
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Program of the 1996 European Winter Meeting of the Econometric Society
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+EP  - 1000
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+SP  - 999
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171856
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Back Matter
+C1  - Full publication date: Jul., 1996
+DB  - JSTOR
+IS  - 4
+PB  - [Wiley, Econometric Society]
+PY  - 1996
+SN  - 00129682, 14680262
+T2  - Econometrica
+UR  - http://www.jstor.org/stable/2171857
+VL  - 64
+Y2  - 2024/07/05/
+ER  - 
