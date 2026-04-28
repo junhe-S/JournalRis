@@ -2,6 +2,8 @@
 
 A tool for batch downloading RIS citation files from academic journal websites, designed for use with Zotero.
 
+> **Note:** The original code that did not rely on Chrome has been invalidated since Cloudflare strengthened its bot protection. The entire codebase has been rewritten to use Chrome (via Playwright) to scrape data, leveraging your local Chrome profile to bypass anti-bot measures.
+
 ## Supported Publishers & Journals
 
 | Publisher | Journals |
@@ -70,6 +72,10 @@ data/
   issues/            # Downloaded RIS files per journal
   record.db          # Download tracking database
 ```
+
+## Roadmap
+
+- **Google Chrome Extension** — Under construction. Once available, this will provide a browser-native alternative that eliminates the need for Playwright and `playwright install chromium`.
 
 ## Notes
 
